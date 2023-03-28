@@ -1,0 +1,3 @@
+# [Bogdan Stashchuk](https://www.youtube.com/@Bogdan_Stashchuk/playlists)
+## [MongoDB Shell](https://www.youtube.com/playlist?list=PLWkguCWKqN9OPrD3q9Qy-eZplxnjCooiZ)
+### [MongoDB Shell: 07 MongoDB Shell Module Summary](https://www.youtube.com/watch?v=JFxEIu0F3GU&amp;list=PLWkguCWKqN9OPrD3q9Qy-eZplxnjCooiZ&amp;index=8)

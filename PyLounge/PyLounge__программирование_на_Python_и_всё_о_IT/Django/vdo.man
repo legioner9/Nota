@@ -1,0 +1,8 @@
+### [Как Сделать Локальный Django Сайт Доступным В Интернете | Туннели Ngrok](https://www.youtube.com/watch?v=jPTIKU3VPQk&amp;list=PLhVGaKnJDpzhT3a6HcIr7tUAiu0zL9VDU&amp;index=1)
+### [Как Подключить Bootstrap К Django?](https://www.youtube.com/watch?v=FLBuyFVcSRU&amp;list=PLhVGaKnJDpzhT3a6HcIr7tUAiu0zL9VDU&amp;index=2)
+### [Лучшие Проекты Для Начинающих Python-Разработчиков](https://www.youtube.com/watch?v=h8nrlZ0IxkA&amp;list=PLhVGaKnJDpzhT3a6HcIr7tUAiu0zL9VDU&amp;index=3)
+### [Лучшие Ресурсы Для Изучения Django](https://www.youtube.com/watch?v=CjHYj2vqcGs&amp;list=PLhVGaKnJDpzhT3a6HcIr7tUAiu0zL9VDU&amp;index=4)
+### [Лучшие Веб-Фреймворки Для Python](https://www.youtube.com/watch?v=1KzxVPzGpLE&amp;list=PLhVGaKnJDpzhT3a6HcIr7tUAiu0zL9VDU&amp;index=5)
+### [Интервью С Python-Разработчиком Из Австрии / Максим Данилов Про Конференции, Django И Технологии](https://www.youtube.com/watch?v=FKxMheUQJfE&amp;list=PLhVGaKnJDpzhT3a6HcIr7tUAiu0zL9VDU&amp;index=6)
+### [Как Подключить React К Django?](https://www.youtube.com/watch?v=9Rsv99hnqPU&amp;list=PLhVGaKnJDpzhT3a6HcIr7tUAiu0zL9VDU&amp;index=7)
+### [Как Подключить Препроцессор SASS/SCSS К Django?](https://www.youtube.com/watch?v=E8iPXd7a5Uw&amp;list=PLhVGaKnJDpzhT3a6HcIr7tUAiu0zL9VDU&amp;index=8)

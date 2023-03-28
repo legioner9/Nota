@@ -1,0 +1,6 @@
+### [SaltStack. Управление конфигурациями // Демо-занятие курса «Infrastructure as a code»](https://www.youtube.com/watch?v=tYzI-9j1WeM&amp;list=PLfnFOImnyWRWIkPypFOvqnzzoWV1J0bbA&amp;index=1)
+### [Demo Day курса «Infrastructure as a code»](https://www.youtube.com/watch?v=Uwfs0L1Ix_w&amp;list=PLfnFOImnyWRWIkPypFOvqnzzoWV1J0bbA&amp;index=2)
+### [Управление Kubernetes при помощи Kubespray // курс «Infrastructure as a code in Ansible»](https://www.youtube.com/watch?v=g5hPhEJtssg&amp;list=PLfnFOImnyWRWIkPypFOvqnzzoWV1J0bbA&amp;index=3)
+### [Разработка модуля Ansible // Демо-занятие курса «Infrastructure as a code»](https://www.youtube.com/watch?v=7i77hm5PMGA&amp;list=PLfnFOImnyWRWIkPypFOvqnzzoWV1J0bbA&amp;index=4)
+### [Demo Day курса «Infrastructure as a code»](https://www.youtube.com/watch?v=6J8DGStWJXA&amp;list=PLfnFOImnyWRWIkPypFOvqnzzoWV1J0bbA&amp;index=5)
+### [Pulumi. Описание инфраструктуры языком программирования // занятие курса «Infrastructure as a code»](https://www.youtube.com/watch?v=6MXauTFoUhQ&amp;list=PLfnFOImnyWRWIkPypFOvqnzzoWV1J0bbA&amp;index=6)

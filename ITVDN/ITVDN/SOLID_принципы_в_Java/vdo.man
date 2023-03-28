@@ -1,0 +1,4 @@
+### [SOLID принципы в Java. Принцип единственной ответственности. Урок 1](https://www.youtube.com/watch?v=BUhN2q_DEvk&amp;list=PLvItDmb0sZw876qQfRu8z9Hh474KQrzTx&amp;index=1)
+### [SOLID принципы в Java. Принцип открытости\закрытости. Урок 2](https://www.youtube.com/watch?v=y08m2lpurzY&amp;list=PLvItDmb0sZw876qQfRu8z9Hh474KQrzTx&amp;index=2)
+### [SOLID принципы в Java. Принцип подстановки Лисков. Урок 3](https://www.youtube.com/watch?v=FCmNr-OXdi4&amp;list=PLvItDmb0sZw876qQfRu8z9Hh474KQrzTx&amp;index=3)
+### [SOLID принципы в Java.  Принцип разделения интерфейса. Урок 4](https://www.youtube.com/watch?v=DzRyr_aJ-34&amp;list=PLvItDmb0sZw876qQfRu8z9Hh474KQrzTx&amp;index=4)

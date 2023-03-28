@@ -1,0 +1,3 @@
+# [egoroff_channel](https://www.youtube.com/@egoroffchannel/playlists)
+## [Tkinter Python](https://www.youtube.com/playlist?list=PLQAt0m1f9OHsd6U5okp1XLoYyQR0oBjMM)
+### [Игра &quot;Сапер&quot; на Python, скрываем поля. Minesweeper in Python Tkinter](https://www.youtube.com/watch?v=eZXu_wRfnes&amp;list=PLQAt0m1f9OHsd6U5okp1XLoYyQR0oBjMM&amp;index=22)

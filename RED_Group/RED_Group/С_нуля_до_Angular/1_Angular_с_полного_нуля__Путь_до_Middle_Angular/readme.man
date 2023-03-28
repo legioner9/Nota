@@ -1,0 +1,3 @@
+# [RED Group](https://www.youtube.com/@REDGroup/playlists)
+## [С нуля до Angular](https://www.youtube.com/playlist?list=PLXkonRjGXZwxBvjIyEnqi6mzF0o7gybI7)
+### [Angular с полного нуля // Путь до Middle Angular](https://www.youtube.com/watch?v=i-CYMi_oXYM&amp;list=PLXkonRjGXZwxBvjIyEnqi6mzF0o7gybI7&amp;index=1)

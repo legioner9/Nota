@@ -1,0 +1,3 @@
+# [Archakov Blog](https://www.youtube.com/@ArchakovBlog/playlists)
+## [Разрабатываем клон TJournal](https://www.youtube.com/playlist?list=PL0FGkDGJQjJH8uKAWtvvd1aI2Poo-TXGD)
+### [#6: Разрабатываем клон TJournal: Создаем CRUD для пользователей (users) [backend]](https://www.youtube.com/watch?v=ddufnSJ0iCk&amp;list=PL0FGkDGJQjJH8uKAWtvvd1aI2Poo-TXGD&amp;index=6)

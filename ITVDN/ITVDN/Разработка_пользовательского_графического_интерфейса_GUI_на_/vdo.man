@@ -1,0 +1,5 @@
+### [Разработка GUI на C# под Android. Урок 1. Введение в Xamarin. Android.](https://www.youtube.com/watch?v=ppbv3ccw53s&amp;list=PLvItDmb0sZw-S1HjqMtEHMtRcH_pOAojh&amp;index=1)
+### [Разработка GUI на C# под Android. Урок 2. Контейнеры компоновки.](https://www.youtube.com/watch?v=HCFfUbpvd2k&amp;list=PLvItDmb0sZw-S1HjqMtEHMtRcH_pOAojh&amp;index=2)
+### [Разработка GUI на C# под Android. Урок 3. Элементы управления. Часть 1.](https://www.youtube.com/watch?v=r2erQfXMOtc&amp;list=PLvItDmb0sZw-S1HjqMtEHMtRcH_pOAojh&amp;index=3)
+### [Разработка GUI на C# под Android. Урок 4. Элементы управления. Часть 2.](https://www.youtube.com/watch?v=fJ3VolSmQs0&amp;list=PLvItDmb0sZw-S1HjqMtEHMtRcH_pOAojh&amp;index=4)
+### [Разработка GUI на C# под Android. Урок 5. Меню в Android.](https://www.youtube.com/watch?v=Dbmqp29F1ig&amp;list=PLvItDmb0sZw-S1HjqMtEHMtRcH_pOAojh&amp;index=5)

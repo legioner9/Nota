@@ -1,0 +1,7 @@
+### [Видеокурс Angular 2 Essential. Урок 1. Введение](https://www.youtube.com/watch?v=63SkXao3tsA&amp;list=PLvItDmb0sZw9VKIWMc2Koq4EMo317tcrL&amp;index=1)
+### [Видеокурс Angular 2 Essential. Урок 2. Компоненты](https://www.youtube.com/watch?v=V_Ft_HtVeII&amp;list=PLvItDmb0sZw9VKIWMc2Koq4EMo317tcrL&amp;index=2)
+### [Видеокурс Angular 2 Essential. Урок 3. Директивы и привязка данных](https://www.youtube.com/watch?v=Nxoz2o7Ingo&amp;list=PLvItDmb0sZw9VKIWMc2Koq4EMo317tcrL&amp;index=3)
+### [Видеокурс Angular 2 Essential. Урок 4. Сервисы. Внедрение зависимостей](https://www.youtube.com/watch?v=PPxbCt8uOHU&amp;list=PLvItDmb0sZw9VKIWMc2Koq4EMo317tcrL&amp;index=4)
+### [Видеокурс Angular 2 Essential. Урок 5. Маршрутизация](https://www.youtube.com/watch?v=iHC0CNcj2_Y&amp;list=PLvItDmb0sZw9VKIWMc2Koq4EMo317tcrL&amp;index=5)
+### [Видеокурс Angular 2 Essential. Урок 6. Формы](https://www.youtube.com/watch?v=2dAB2kukbuQ&amp;list=PLvItDmb0sZw9VKIWMc2Koq4EMo317tcrL&amp;index=6)
+### [Видеокурс Angular 2 Essential. Урок 7. HTTP](https://www.youtube.com/watch?v=5rPiwhqvWVI&amp;list=PLvItDmb0sZw9VKIWMc2Koq4EMo317tcrL&amp;index=7)

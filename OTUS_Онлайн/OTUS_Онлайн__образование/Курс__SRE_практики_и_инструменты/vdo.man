@@ -1,0 +1,3 @@
+### [Практика управление конфигурацией. Ansible // Демо-занятие курса «SRE практики и инструменты»](https://www.youtube.com/watch?v=TBh0BrobIy8&amp;list=PLfnFOImnyWRVcX1vFJ7mBYcmu1aTpEHxF&amp;index=1)
+### [Demo Day курса «SRE практики и инструменты»](https://www.youtube.com/watch?v=3BIrhf0jLqk&amp;list=PLfnFOImnyWRVcX1vFJ7mBYcmu1aTpEHxF&amp;index=2)
+### [Три слова на три буквы: SLA, SLO, SLI // Демо-занятие курса «SRE практики и инструменты»](https://www.youtube.com/watch?v=l0SkXo5Oxfc&amp;list=PLfnFOImnyWRVcX1vFJ7mBYcmu1aTpEHxF&amp;index=3)

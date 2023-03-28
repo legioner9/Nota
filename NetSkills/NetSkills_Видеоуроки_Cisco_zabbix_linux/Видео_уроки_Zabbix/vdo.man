@@ -1,0 +1,5 @@
+### [Zabbix. Видео урок №5. Установка готового образа в VirtualBox](https://www.youtube.com/watch?v=M24M1muHNrA&amp;list=PLcDkQ2Au8aVMbBQNjiQlhlL003xoJxM_L&amp;index=1)
+### [Zabbix. Видео урок №4. Настройка email оповещений (gmail ssmtp)](https://www.youtube.com/watch?v=nzPzgFgOtMI&amp;list=PLcDkQ2Au8aVMbBQNjiQlhlL003xoJxM_L&amp;index=2)
+### [Zabbix. Видеоурок №3.zabbix 2.0 on ubuntu](https://www.youtube.com/watch?v=E080xK8Blgc&amp;list=PLcDkQ2Au8aVMbBQNjiQlhlL003xoJxM_L&amp;index=3)
+### [Zabbix. Видеоурок №2.SNMP(смотреть в HD качестве)](https://www.youtube.com/watch?v=8Z2YzhlPxWk&amp;list=PLcDkQ2Au8aVMbBQNjiQlhlL003xoJxM_L&amp;index=4)
+### [Zabbix. Видеоурок №1(смотреть в HD качестве)](https://www.youtube.com/watch?v=yhD5BRc5R6Y&amp;list=PLcDkQ2Au8aVMbBQNjiQlhlL003xoJxM_L&amp;index=5)

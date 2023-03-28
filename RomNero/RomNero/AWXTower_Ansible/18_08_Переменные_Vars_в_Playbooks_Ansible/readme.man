@@ -1,0 +1,3 @@
+# [RomNero](https://www.youtube.com/@RomNero/playlists)
+## [AWX/Tower. Ansible.](https://www.youtube.com/playlist?list=PLqVeG_R3qMSza1YnuD8owbskkieBx7bcs)
+### [08 Переменные Vars в Playbooks Ansible.](https://www.youtube.com/watch?v=hMWRxl0lDq0&amp;list=PLqVeG_R3qMSza1YnuD8owbskkieBx7bcs&amp;index=18)

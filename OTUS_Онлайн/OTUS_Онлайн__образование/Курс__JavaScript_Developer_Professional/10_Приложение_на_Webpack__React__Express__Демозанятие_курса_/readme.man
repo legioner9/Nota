@@ -1,0 +1,3 @@
+# [OTUS Онлайн - образование](https://www.youtube.com/@otus_education/playlists)
+## [Курс | JavaScript Developer Professional](https://www.youtube.com/playlist?list=PLfnFOImnyWRW3v27N4WF0U6sb7_-sIXqi)
+### [Приложение на Webpack + React + Express // Демо-занятие курса «Web-разработчик на Python»](https://www.youtube.com/watch?v=Vy1rnHlhENs&amp;list=PLfnFOImnyWRW3v27N4WF0U6sb7_-sIXqi&amp;index=10)

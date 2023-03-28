@@ -1,0 +1,3 @@
+# [Mikrotik Training](https://www.youtube.com/@MikrotikTraining/playlists)
+## [vpn](https://www.youtube.com/playlist?list=PLg90hRDCH9A5aTlRK523GKOVGWJslrYRA)
+### [Добавление маршрутов с помощью CMAK](https://www.youtube.com/watch?v=u5nkKSuhcmM&amp;list=PLg90hRDCH9A5aTlRK523GKOVGWJslrYRA&amp;index=3)

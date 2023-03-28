@@ -1,0 +1,3 @@
+# [OTUS Онлайн - образование](https://www.youtube.com/@otus_education/playlists)
+## [Курс | Deep Learning.](https://www.youtube.com/playlist?list=PLfnFOImnyWRU-KZqUWatetetxL69wk1ET)
+### [Нейронные сети на Python // День открытых дверей OTUS](https://www.youtube.com/watch?v=uqlK-ReDBy0&amp;list=PLfnFOImnyWRU-KZqUWatetetxL69wk1ET&amp;index=2)

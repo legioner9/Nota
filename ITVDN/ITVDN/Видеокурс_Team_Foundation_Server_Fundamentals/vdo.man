@@ -1,0 +1,2 @@
+### [Team Foundation Server Fundamentals. Урок 1. Архитектура TFS. Основы администрирования](https://www.youtube.com/watch?v=bJq7KwjtxyU&amp;list=PLvItDmb0sZw-LVcFN7_0f3GqsjRAuNuJz&amp;index=1)
+### [Team Foundation Server Fundamentals. Урок 2. Система контроля версий TFS](https://www.youtube.com/watch?v=WuQLuQ-a3TQ&amp;list=PLvItDmb0sZw-LVcFN7_0f3GqsjRAuNuJz&amp;index=2)

@@ -1,0 +1,3 @@
+# [Ulbi TV](https://www.youtube.com/@UlbiTV/playlists)
+## [Анимации в React. React transition group](https://www.youtube.com/playlist?list=PL6DxKON1uLOH0vVpdrZhUAVpHerNbUxfF)
+### [4. Анимации в React - SwitchTransition - React Transition Group](https://www.youtube.com/watch?v=X7bNn3tH8hY&amp;list=PL6DxKON1uLOH0vVpdrZhUAVpHerNbUxfF&amp;index=4)

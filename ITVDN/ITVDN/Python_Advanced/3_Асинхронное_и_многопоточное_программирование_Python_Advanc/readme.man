@@ -1,0 +1,3 @@
+# [ITVDN](https://www.youtube.com/@ITVDN/playlists?view=1)
+## [Python Advanced](https://www.youtube.com/playlist?list=PLvItDmb0sZw-j1dHo76Yhhb5aD48DmUZu)
+### [Асинхронное и многопоточное программирование. Python Advanced. Урок 3](https://www.youtube.com/watch?v=Ad5fHlFHbOg&amp;list=PLvItDmb0sZw-j1dHo76Yhhb5aD48DmUZu&amp;index=3)

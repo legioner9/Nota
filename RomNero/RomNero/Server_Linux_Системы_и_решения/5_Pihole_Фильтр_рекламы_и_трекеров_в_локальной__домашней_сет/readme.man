@@ -1,0 +1,3 @@
+# [RomNero](https://www.youtube.com/@RomNero/playlists)
+## [Server. Linux. Системы и решения.](https://www.youtube.com/playlist?list=PLqVeG_R3qMSysWrn9lqcyxP50INzqAnbN)
+### [Pi-hole. Фильтр рекламы и трекеров в локальной / домашней сети. Сетевой Adblock. Установка](https://www.youtube.com/watch?v=i4K8V0drSdE&amp;list=PLqVeG_R3qMSysWrn9lqcyxP50INzqAnbN&amp;index=5)

@@ -1,0 +1,3 @@
+# [ITVDN](https://www.youtube.com/@ITVDN/playlists?view=1)
+## [Python Advanced](https://www.youtube.com/playlist?list=PLvItDmb0sZw-j1dHo76Yhhb5aD48DmUZu)
+### [Библиотека Numpy. Python Advanced. Урок 5](https://www.youtube.com/watch?v=vIz6X87uCnM&amp;list=PLvItDmb0sZw-j1dHo76Yhhb5aD48DmUZu&amp;index=5)

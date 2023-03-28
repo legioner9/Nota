@@ -1,0 +1,3 @@
+### [10 - Storybook (React кабзда как подробно)](https://www.youtube.com/watch?v=KiEELV6EmUk&amp;list=PLcvhF2Wqh7DM49Jb2XZSf4READ3kO4UFL&amp;index=1)
+### [11 - storybook 2, defaultValue (React кабзда как подробно)](https://www.youtube.com/watch?v=R0Ofmviyomk&amp;list=PLcvhF2Wqh7DM49Jb2XZSf4READ3kO4UFL&amp;index=2)
+### [11.2 - storybook новая версия (React кабзда как подробно)](https://www.youtube.com/watch?v=gNjVhReiDQk&amp;list=PLcvhF2Wqh7DM49Jb2XZSf4READ3kO4UFL&amp;index=3)

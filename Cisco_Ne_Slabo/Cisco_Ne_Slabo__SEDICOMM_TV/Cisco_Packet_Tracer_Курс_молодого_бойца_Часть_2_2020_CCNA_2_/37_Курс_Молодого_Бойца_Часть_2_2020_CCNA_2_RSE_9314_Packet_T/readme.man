@@ -1,0 +1,3 @@
+# [Cisco Ne Slabo / SEDICOMM TV](https://www.youtube.com/@cisconeslabo/playlists)
+## [Cisco Packet Tracer Курс молодого бойца Часть 2 2020 CCNA 2 RSE от Академии Cisco Университет СЭДИКОММ](https://www.youtube.com/playlist?list=PLMiVLClzZDbRLumSMdDj0ehudo9zpuwV3)
+### [Курс Молодого Бойца Часть 2 2020 CCNA 2 RSE 9.3.1.4 Packet Tracer - Проверка и отладка настроек NAT](https://www.youtube.com/watch?v=6ngzHnafl-0&amp;list=PLMiVLClzZDbRLumSMdDj0ehudo9zpuwV3&amp;index=37)

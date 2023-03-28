@@ -1,0 +1,8 @@
+### [Инвалидация кэша в распределённой системе // Демо-занятие курса «Symfony Framework»](https://www.youtube.com/watch?v=Vv3pgMFJGCk&amp;list=PLfnFOImnyWRWBfEeHHVB070uDOIbNQFKE&amp;index=1)
+### [Интенсив «Создание системы статистики для онлайн-магазина». День 1 // Курс «Symfony Framework»](https://www.youtube.com/watch?v=4hLZSwCRteo&amp;list=PLfnFOImnyWRWBfEeHHVB070uDOIbNQFKE&amp;index=2)
+### [Интенсив «Создание системы статистики для онлайн-магазина». День 2 // Курс «Symfony Framework»](https://www.youtube.com/watch?v=XKvhi-2wY6Y&amp;list=PLfnFOImnyWRWBfEeHHVB070uDOIbNQFKE&amp;index=3)
+### [Symfony. Быстрый старт // Демо-занятие курса «Symfony Framework»](https://www.youtube.com/watch?v=mpGy7VPir3E&amp;list=PLfnFOImnyWRWBfEeHHVB070uDOIbNQFKE&amp;index=4)
+### [Symfony Framework и Backend разработчик на PHP // День открытых дверей OTUS](https://www.youtube.com/watch?v=xuTi-k3ECrk&amp;list=PLfnFOImnyWRWBfEeHHVB070uDOIbNQFKE&amp;index=5)
+### [Микрофреймворки  сравнение производительности Symfony и Symlex // Занятие курса «Symfony Framework»](https://www.youtube.com/watch?v=rjObVpw9qdQ&amp;list=PLfnFOImnyWRWBfEeHHVB070uDOIbNQFKE&amp;index=6)
+### [Demo Day курса «Symfony Framework» //День открытых дверей OTUS](https://www.youtube.com/watch?v=fjNw1OnGxcc&amp;list=PLfnFOImnyWRWBfEeHHVB070uDOIbNQFKE&amp;index=7)
+### [Demo Day курса «Symfony Framework»](https://www.youtube.com/watch?v=tmoHX1VV86A&amp;list=PLfnFOImnyWRWBfEeHHVB070uDOIbNQFKE&amp;index=8)

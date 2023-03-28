@@ -1,0 +1,3 @@
+# [OTUS Онлайн - образование](https://www.youtube.com/@otus_education/playlists)
+## [Курс | Математика для Data Science](https://www.youtube.com/playlist?list=PLfnFOImnyWRU8k_RyMcLOwA4GXaIoMRiP)
+### [Отображения, их матрица и диагонализация // курс «Математика для Data Science. Продвинутый курс»](https://www.youtube.com/watch?v=RAJ5WWnVR10&amp;list=PLfnFOImnyWRU8k_RyMcLOwA4GXaIoMRiP&amp;index=22)

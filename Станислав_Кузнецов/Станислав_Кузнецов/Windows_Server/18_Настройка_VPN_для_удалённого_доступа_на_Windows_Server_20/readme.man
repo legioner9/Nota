@@ -1,0 +1,3 @@
+# [Станислав Кузнецов](https://www.youtube.com/@user-qz5qv6uc8y/playlists)
+## [Windows Server](https://www.youtube.com/playlist?list=PL9x2twfbtCCPOt4pJxnK29ARgzV-9neBl)
+### [Настройка VPN для удалённого доступа на Windows Server 2019 (Setup Remote Access VPN on Server 2019)](https://www.youtube.com/watch?v=G1h_oNUxn0Q&amp;list=PL9x2twfbtCCPOt4pJxnK29ARgzV-9neBl&amp;index=18)

@@ -1,0 +1,3 @@
+# [UNИX](https://www.youtube.com/@unx7784/playlists)
+## [[UNИX] Архитектура и язык ассемблера RISC-V](https://www.youtube.com/playlist?list=PL6kSdcHYB3x6cjkby4H1RuRMzfbEGSNBi)
+### [02. Регистры и модель памяти. Виды адресации (эфир)](https://www.youtube.com/watch?v=xwpGLWcYnC8&amp;list=PL6kSdcHYB3x6cjkby4H1RuRMzfbEGSNBi&amp;index=15)

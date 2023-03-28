@@ -1,0 +1,2 @@
+### [Обзор курса &quot;Верстка сайта на FlexBox CSS&quot;](https://www.youtube.com/watch?v=8dqvgmcT4DQ&amp;list=PLvItDmb0sZw-rTDSCWbXbnsfcPnga3yqX&amp;index=1)
+### [Flexbox CSS - Лучший инструмент для гибкой верстки](https://www.youtube.com/watch?v=ubklm4gPivY&amp;list=PLvItDmb0sZw-rTDSCWbXbnsfcPnga3yqX&amp;index=2)

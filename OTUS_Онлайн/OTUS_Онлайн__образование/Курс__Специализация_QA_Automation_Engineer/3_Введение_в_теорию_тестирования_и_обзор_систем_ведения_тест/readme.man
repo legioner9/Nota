@@ -1,0 +1,3 @@
+# [OTUS Онлайн - образование](https://www.youtube.com/@otus_education/playlists)
+## [Курс | Специализация QA Automation Engineer»](https://www.youtube.com/playlist?list=PLfnFOImnyWRUEpoNrscwUbhreo7jUF91x)
+### [Введение в теорию тестирования и обзор систем ведения тест-кейсов и багов](https://www.youtube.com/watch?v=KAwTFdY9AeE&amp;list=PLfnFOImnyWRUEpoNrscwUbhreo7jUF91x&amp;index=3)

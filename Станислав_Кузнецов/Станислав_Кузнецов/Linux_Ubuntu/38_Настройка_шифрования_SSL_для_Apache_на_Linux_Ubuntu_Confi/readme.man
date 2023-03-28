@@ -1,0 +1,3 @@
+# [Станислав Кузнецов](https://www.youtube.com/@user-qz5qv6uc8y/playlists)
+## [Linux Ubuntu](https://www.youtube.com/playlist?list=PL9x2twfbtCCNL4KXsDTpa3i9S2YgpY2AM)
+### [Настройка шифрования SSL для Apache на Linux Ubuntu (Configuring Apache SSL-encryption on Linux)](https://www.youtube.com/watch?v=DJ3VYcwS1qM&amp;list=PL9x2twfbtCCNL4KXsDTpa3i9S2YgpY2AM&amp;index=38)

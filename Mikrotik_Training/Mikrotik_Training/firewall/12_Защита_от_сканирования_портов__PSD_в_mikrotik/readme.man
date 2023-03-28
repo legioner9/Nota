@@ -1,0 +1,3 @@
+# [Mikrotik Training](https://www.youtube.com/@MikrotikTraining/playlists)
+## [firewall](https://www.youtube.com/playlist?list=PLg90hRDCH9A5kf570Y_l8jIrB-9eROxXs)
+### [Защита от сканирования портов - PSD в mikrotik.](https://www.youtube.com/watch?v=XoFSn8MzY00&amp;list=PLg90hRDCH9A5kf570Y_l8jIrB-9eROxXs&amp;index=12)

@@ -1,0 +1,3 @@
+### [«Создаем GPS-tracker за два дня». День 2 // Демо-занятие курса «Android Developer  Basic»](https://www.youtube.com/watch?v=9WL-kI5l3m8&amp;list=PLfnFOImnyWRXCiMbG9Ssbi6JRXIWY0eF3&amp;index=1)
+### [«Создаем GPS-tracker за два дня». День 1 // Демо занятие курса «Android Developer  Basic»](https://www.youtube.com/watch?v=NP7_f-4mBlQ&amp;list=PLfnFOImnyWRXCiMbG9Ssbi6JRXIWY0eF3&amp;index=2)
+### [Demo Day курса «Android Developer Basic»](https://www.youtube.com/watch?v=2qZ7U_6CO9o&amp;list=PLfnFOImnyWRXCiMbG9Ssbi6JRXIWY0eF3&amp;index=3)

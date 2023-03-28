@@ -1,0 +1,3 @@
+# [Билял Хасенов – Excel, VBA & More](https://www.youtube.com/@BilyalKhassenov/playlists?view=58)
+## [Экспресс-Курс VBA](https://www.youtube.com/playlist?list=PLsPotgU_ELTrsuNLrWYmIdu_3W1VM-jzm)
+### [Multiselect GetOpenFilename - Несколько рабочих книг за раз! - (Серия VBA 29)](https://www.youtube.com/watch?v=sIH-nJiHIqI&amp;list=PLsPotgU_ELTrsuNLrWYmIdu_3W1VM-jzm&amp;index=31)

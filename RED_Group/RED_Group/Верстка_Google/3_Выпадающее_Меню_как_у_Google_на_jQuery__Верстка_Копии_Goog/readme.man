@@ -1,0 +1,3 @@
+# [RED Group](https://www.youtube.com/@REDGroup/playlists)
+## [Верстка Google](https://www.youtube.com/playlist?list=PLXkonRjGXZwzQWSNe2WeQOn_mr43e6cqB)
+### [Выпадающее Меню как у Google на jQuery - Верстка Копии Google Часть 3](https://www.youtube.com/watch?v=iINSjNWn-Bg&amp;list=PLXkonRjGXZwzQWSNe2WeQOn_mr43e6cqB&amp;index=3)

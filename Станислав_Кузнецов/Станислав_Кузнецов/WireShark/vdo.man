@@ -1,0 +1,5 @@
+### [WireShark. Захват и анализ трафика DNS (WireShark. Capture and analise DNS traffic)](https://www.youtube.com/watch?v=NsXCwv51jUA&amp;list=PL9x2twfbtCCNLS1zoCyZFTMeDIihrCo9w&amp;index=1)
+### [WireShark. Захват и анализ трафика DHCP (WireShark. Capture and analise DHCP traffic)](https://www.youtube.com/watch?v=DUZEbBj_Z4I&amp;list=PL9x2twfbtCCNLS1zoCyZFTMeDIihrCo9w&amp;index=2)
+### [Работа с программой-сниффером WireShark (Work with sniffer program WireShark)](https://www.youtube.com/watch?v=fVBvCPER1VI&amp;list=PL9x2twfbtCCNLS1zoCyZFTMeDIihrCo9w&amp;index=3)
+### [WireShark. Захват и анализ трафика RIPv1 (WireShark. Capture and analise RIPv1 traffic)](https://www.youtube.com/watch?v=ifSBb-FyqBw&amp;list=PL9x2twfbtCCNLS1zoCyZFTMeDIihrCo9w&amp;index=4)
+### [WireShark. Захват и анализ трафика RIPv2 (WireShark. Capture and analise RIPv2 traffic)](https://www.youtube.com/watch?v=qad6xtfJzks&amp;list=PL9x2twfbtCCNLS1zoCyZFTMeDIihrCo9w&amp;index=5)

@@ -1,0 +1,3 @@
+# [NetSkills. Видеоуроки. Cisco, zabbix, linux.](https://www.youtube.com/@netskills/playlists)
+## [Курс UNetLab](https://www.youtube.com/playlist?list=PLcDkQ2Au8aVOgp32gj7yETU5R3NMBL8cu)
+### [3.Курс UNetLab. Dynamips](https://www.youtube.com/watch?v=UHIXVcNizkg&amp;list=PLcDkQ2Au8aVOgp32gj7yETU5R3NMBL8cu&amp;index=3)

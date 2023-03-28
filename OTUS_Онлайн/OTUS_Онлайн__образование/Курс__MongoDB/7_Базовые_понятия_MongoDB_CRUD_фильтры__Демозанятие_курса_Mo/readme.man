@@ -1,0 +1,3 @@
+# [OTUS Онлайн - образование](https://www.youtube.com/@otus_education/playlists)
+## [Курс | MongoDB](https://www.youtube.com/playlist?list=PLfnFOImnyWRUHBTkQiLPPtcpS1YgnDBQ8)
+### [Базовые понятия MongoDB, CRUD, фильтры // Демо-занятие курса «MongoDB»](https://www.youtube.com/watch?v=4cNePcGhVTs&amp;list=PLfnFOImnyWRUHBTkQiLPPtcpS1YgnDBQ8&amp;index=7)

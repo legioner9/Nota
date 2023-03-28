@@ -1,0 +1,3 @@
+# [Geek Code](https://www.youtube.com/@GeekCode/playlists)
+## [Вебинары GeekBrains](https://www.youtube.com/playlist?list=PLhgRAQ8BwWFbg6YUNOfzRBrNRNtJ9-Cam)
+### [CSS Grid и модульные сетки](https://www.youtube.com/watch?v=rI-B_QM6qDo&amp;list=PLhgRAQ8BwWFbg6YUNOfzRBrNRNtJ9-Cam&amp;index=25)

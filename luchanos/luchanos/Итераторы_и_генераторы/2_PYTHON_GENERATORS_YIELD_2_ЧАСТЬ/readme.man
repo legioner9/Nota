@@ -1,0 +1,3 @@
+# [luchanos](https://www.youtube.com/@luchanos/playlists?view=1&sort=dd&shelf_id=0)
+## [Итераторы и генераторы](https://www.youtube.com/playlist?list=PLlKID9PnOE5hEeR11iAsUyEb6vxCkXnZK)
+### [PYTHON GENERATORS YIELD (2 ЧАСТЬ)](https://www.youtube.com/watch?v=xGb-MusLAmk&amp;list=PLlKID9PnOE5hEeR11iAsUyEb6vxCkXnZK&amp;index=2)

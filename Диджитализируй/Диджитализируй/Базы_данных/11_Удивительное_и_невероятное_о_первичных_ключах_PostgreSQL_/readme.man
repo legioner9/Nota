@@ -1,0 +1,3 @@
+# [Диджитализируй!](https://www.youtube.com/@t0digital/playlists)
+## [Базы данных](https://www.youtube.com/playlist?list=PLAk6CfuV7hyqcOpV5k7XeEpigQWJp3n3F)
+### [Удивительное и невероятное о первичных ключах PostgreSQL: serial, bigserial, UUID v4, ULID, UUID v6](https://www.youtube.com/watch?v=VC9KbAA_5rE&amp;list=PLAk6CfuV7hyqcOpV5k7XeEpigQWJp3n3F&amp;index=11)

@@ -1,0 +1,3 @@
+# [IT-KAMASUTRA](https://www.youtube.com/@ITKAMASUTRA/playlists?view=1)
+## [Курс "React JS - путь самурая 1.0", уроки, практика](https://www.youtube.com/playlist?list=PLcvhF2Wqh7DNVy1OCUpG3i5lyxyBWhGZ8)
+### [83 - React JS - подключаем reselect (reselect часть 3)](https://www.youtube.com/watch?v=nDh92Vnf3_k&amp;list=PLcvhF2Wqh7DNVy1OCUpG3i5lyxyBWhGZ8&amp;index=84)

@@ -1,0 +1,3 @@
+# [UNИX](https://www.youtube.com/@unx7784/playlists)
+## [[UNИX] Язык программирования Python (осень 2021)](https://www.youtube.com/playlist?list=PL6kSdcHYB3x4a_XEgZSeUnzMroujtDw0H)
+### [00. История Python и планы на семестр](https://www.youtube.com/watch?v=vSct_zYIHZA&amp;list=PL6kSdcHYB3x4a_XEgZSeUnzMroujtDw0H&amp;index=1)

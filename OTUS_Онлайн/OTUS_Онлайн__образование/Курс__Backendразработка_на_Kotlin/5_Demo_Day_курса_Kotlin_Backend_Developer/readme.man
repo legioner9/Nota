@@ -1,0 +1,3 @@
+# [OTUS Онлайн - образование](https://www.youtube.com/@otus_education/playlists)
+## [Курс | Backend-разработка на Kotlin](https://www.youtube.com/playlist?list=PLfnFOImnyWRV1iz6ur9kz_rn_qVSBKbhs)
+### [Demo Day курса «Kotlin Backend Developer»](https://www.youtube.com/watch?v=3ef0AOYm7Us&amp;list=PLfnFOImnyWRV1iz6ur9kz_rn_qVSBKbhs&amp;index=5)

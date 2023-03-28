@@ -1,0 +1,3 @@
+# [ITDoctor](https://www.youtube.com/@ITDoctor/playlists?view=1&sort=dd&shelf_id=0)
+## [JavaScript и Bootstrap 5](https://www.youtube.com/playlist?list=PLuY6eeDuleIOqWFLLOKwiSuF8Ehz7J1FM)
+### [#2 Подготовка проекта - Магазин на чистом JavaScript и Bootstrap 5](https://www.youtube.com/watch?v=JcydIXfUFNE&amp;list=PLuY6eeDuleIOqWFLLOKwiSuF8Ehz7J1FM&amp;index=2)

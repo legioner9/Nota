@@ -1,0 +1,5 @@
+### [Новое направление. Разработка игр на Unity3D](https://www.youtube.com/watch?v=B7WgUu4aSnw&amp;list=PLvItDmb0sZw-gX24alTESntEHT6narOu0&amp;index=1)
+### [Кому будет полезен новый курс Unity3D?](https://www.youtube.com/watch?v=lMn7Z2CgVdI&amp;list=PLvItDmb0sZw-gX24alTESntEHT6narOu0&amp;index=2)
+### [Как создать игру Angry Birds на Unity3D](https://www.youtube.com/watch?v=pWRKhQMiMms&amp;list=PLvItDmb0sZw-gX24alTESntEHT6narOu0&amp;index=3)
+### [Создание игры Braid. Реализация возврата во времени в Unity3D](https://www.youtube.com/watch?v=BuDUSHTp8DI&amp;list=PLvItDmb0sZw-gX24alTESntEHT6narOu0&amp;index=4)
+### [Создание Counter Strike. Сетевой FPS shooter на Unity3D.](https://www.youtube.com/watch?v=3QCGjQZD8QQ&amp;list=PLvItDmb0sZw-gX24alTESntEHT6narOu0&amp;index=5)

@@ -1,0 +1,3 @@
+# [webDev](https://www.youtube.com/@YauhenKavalchuk/playlists?view=1)
+## [MobX & React](https://www.youtube.com/playlist?list=PLNkWIWHIRwMFK-Gpb4NE45_1_Himhyi-K)
+### [MobX + React #4 Наблюдаемые Объект и Массив (Observable Object &amp; Array)](https://www.youtube.com/watch?v=hkvzZz3j3Lo&amp;list=PLNkWIWHIRwMFK-Gpb4NE45_1_Himhyi-K&amp;index=5)

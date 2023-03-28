@@ -1,0 +1,7 @@
+### [ООП / OOP #1: Что такое инкапсуляция и сокрытие информации?](https://www.youtube.com/watch?v=TirwqqQcULg&amp;list=PLBheEHDcG7-knzDk5bLe9oUf3Z75Cjf1d&amp;index=1)
+### [Объектно-ориентированное программирование - ООП в C# / C# уроки для начинающих / Язык си шарп](https://www.youtube.com/watch?v=gHzVpQbhhHU&amp;list=PLBheEHDcG7-knzDk5bLe9oUf3Z75Cjf1d&amp;index=2)
+### [Объектно-ориентированное программирование - ООП в C# / C# уроки для начинающих / Язык си шарп](https://www.youtube.com/watch?v=fwPrR6ltq0U&amp;list=PLBheEHDcG7-knzDk5bLe9oUf3Z75Cjf1d&amp;index=3)
+### [Объектно-ориентированное программирование - ООП в C# / C# уроки для начинающих / Язык си шарп -](https://www.youtube.com/watch?v=Jn8Ta-eSqXg&amp;list=PLBheEHDcG7-knzDk5bLe9oUf3Z75Cjf1d&amp;index=4)
+### [Объектно-ориентированное программирование - ООП в C# / C# уроки для начинающих / Язык си шарп](https://www.youtube.com/watch?v=0zv_zuwDgrM&amp;list=PLBheEHDcG7-knzDk5bLe9oUf3Z75Cjf1d&amp;index=5)
+### [Объектно-ориентированное программирование - ООП в C# / C# уроки для начинающих / Язык си шарп](https://www.youtube.com/watch?v=0MRpTO_PF-s&amp;list=PLBheEHDcG7-knzDk5bLe9oUf3Z75Cjf1d&amp;index=6)
+### [Объектно-ориентированное программирование - ООП в C# / C# уроки для начинающих / Язык си шарп](https://www.youtube.com/watch?v=JH8YufkxMcQ&amp;list=PLBheEHDcG7-knzDk5bLe9oUf3Z75Cjf1d&amp;index=7)

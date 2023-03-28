@@ -1,0 +1,3 @@
+# [alishev](https://www.youtube.com/@alishevN/playlists)
+## [Java для начинающих](https://www.youtube.com/playlist?list=PLAma_mKffTOSUkXp26rgdnC0PicnmnDak)
+### [Java для начинающих. Урок 12: Цикл for each, Массивы строк.](https://www.youtube.com/watch?v=8AD55r64yNw&amp;list=PLAma_mKffTOSUkXp26rgdnC0PicnmnDak&amp;index=12)

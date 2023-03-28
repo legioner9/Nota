@@ -1,0 +1,3 @@
+# [ITVDN](https://www.youtube.com/@ITVDN/playlists?view=1)
+## [React Advanced](https://www.youtube.com/playlist?list=PLvItDmb0sZw9CbcmbrRsdWSxPcr3qi4eZ)
+### [React Advanced. Урок 2. Настройка окружения](https://www.youtube.com/watch?v=QrNO9bV5ls4&amp;list=PLvItDmb0sZw9CbcmbrRsdWSxPcr3qi4eZ&amp;index=2)

@@ -1,0 +1,3 @@
+# [ITVDN](https://www.youtube.com/@ITVDN/playlists?view=1)
+## [Основы Java EE](https://www.youtube.com/playlist?list=PLvItDmb0sZw8IEZsTMCvcuQhqU_t-v8Y1)
+### [Введение в Spring. Beans. Основы Java EE. Урок 9](https://www.youtube.com/watch?v=GdY1rJ9aY9U&amp;list=PLvItDmb0sZw8IEZsTMCvcuQhqU_t-v8Y1&amp;index=9)

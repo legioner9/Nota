@@ -1,0 +1,3 @@
+# [ITVDN](https://www.youtube.com/@ITVDN/playlists?view=1)
+## [Видеокурс по C# Для начинающих](https://www.youtube.com/playlist?list=PLvItDmb0sZw8gJ0TgeSKeqLzIywwLGnS9)
+### [Обучение C# (c sharp) для начинающих. Часть 9. Массивы.](https://www.youtube.com/watch?v=jrLr0otsSn8&amp;list=PLvItDmb0sZw8gJ0TgeSKeqLzIywwLGnS9&amp;index=9)

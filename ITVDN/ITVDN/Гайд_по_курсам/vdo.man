@@ -1,0 +1,7 @@
+### [Знакомство с курсом HTML&amp;CSS](https://www.youtube.com/watch?v=KbHgQiVdaww&amp;list=PLvItDmb0sZw9X6FaxPw69b5vEV4Gc2OB-&amp;index=1)
+### [Знакомство с курсом JavaScript Essential](https://www.youtube.com/watch?v=3_a4u2VQ8Qc&amp;list=PLvItDmb0sZw9X6FaxPw69b5vEV4Gc2OB-&amp;index=2)
+### [Знакомство с курсом JavaScript Advanced](https://www.youtube.com/watch?v=hfPuiRJ1JCo&amp;list=PLvItDmb0sZw9X6FaxPw69b5vEV4Gc2OB-&amp;index=3)
+### [Знакомство с курсом HTML5&amp;CSS3](https://www.youtube.com/watch?v=HKLvAGJsmhA&amp;list=PLvItDmb0sZw9X6FaxPw69b5vEV4Gc2OB-&amp;index=4)
+### [Знакомство с курсом JavaScript Шаблоны](https://www.youtube.com/watch?v=ild2rCyrsoU&amp;list=PLvItDmb0sZw9X6FaxPw69b5vEV4Gc2OB-&amp;index=5)
+### [Знакомство с курсом JQuery](https://www.youtube.com/watch?v=DaYyTDZDCQk&amp;list=PLvItDmb0sZw9X6FaxPw69b5vEV4Gc2OB-&amp;index=6)
+### [Знакомство с курсом AngularJS](https://www.youtube.com/watch?v=J5aD2RLawfs&amp;list=PLvItDmb0sZw9X6FaxPw69b5vEV4Gc2OB-&amp;index=7)

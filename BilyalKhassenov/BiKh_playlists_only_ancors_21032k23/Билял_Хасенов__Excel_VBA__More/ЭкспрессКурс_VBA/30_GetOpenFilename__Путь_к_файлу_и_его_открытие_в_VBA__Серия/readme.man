@@ -1,0 +1,3 @@
+# [Билял Хасенов – Excel, VBA & More](https://www.youtube.com/@BilyalKhassenov/playlists?view=58)
+## [Экспресс-Курс VBA](https://www.youtube.com/playlist?list=PLsPotgU_ELTrsuNLrWYmIdu_3W1VM-jzm)
+### [GetOpenFilename - Путь к файлу и его открытие в VBA - (Серия VBA 28)](https://www.youtube.com/watch?v=Hgl7U-nUkk0&amp;list=PLsPotgU_ELTrsuNLrWYmIdu_3W1VM-jzm&amp;index=30)

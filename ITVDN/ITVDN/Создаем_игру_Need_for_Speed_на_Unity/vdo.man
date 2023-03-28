@@ -1,0 +1,6 @@
+### [Создаем игру Need for Speed на Unity. Урок 1. Создаем машину.](https://www.youtube.com/watch?v=s54riqKgX3Q&amp;list=PLvItDmb0sZw8FFYzcrPUcL12O81pG_4Yn&amp;index=1)
+### [Создаем игру Need for Speed на Unity. Урок 2. Настройка камеры и смена цвета машины.](https://www.youtube.com/watch?v=e7CPiJ08WVo&amp;list=PLvItDmb0sZw8FFYzcrPUcL12O81pG_4Yn&amp;index=2)
+### [Создаем игру Need for Speed на Unity. Урок 3. Тюнинг машин.](https://www.youtube.com/watch?v=LQthMOzwb2g&amp;list=PLvItDmb0sZw8FFYzcrPUcL12O81pG_4Yn&amp;index=3)
+### [Создаем игру Need for Speed на Unity. Урок 4. Синхронизация карты и меню.](https://www.youtube.com/watch?v=Bo-V7Q4fOM8&amp;list=PLvItDmb0sZw8FFYzcrPUcL12O81pG_4Yn&amp;index=4)
+### [Создаем игру Need for Speed на Unity. Урок 5. Игровые задания.](https://www.youtube.com/watch?v=kHiatfIfpYs&amp;list=PLvItDmb0sZw8FFYzcrPUcL12O81pG_4Yn&amp;index=5)
+### [Создаем игру Need for Speed на Unity. Урок 6. Полиция.](https://www.youtube.com/watch?v=fsMmWHZ-H1A&amp;list=PLvItDmb0sZw8FFYzcrPUcL12O81pG_4Yn&amp;index=6)

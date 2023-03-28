@@ -1,0 +1,3 @@
+# [JavaScript.Ninja](https://www.youtube.com/@JavaScriptNinja/playlists)
+## [DI & IoC](https://www.youtube.com/playlist?list=PLvTBThJr861xKTf1x6P49MwN6yoN4v69k)
+### [DI &amp; IoC #3: DI и фронтенд](https://www.youtube.com/watch?v=0IqU_13tMcc&amp;list=PLvTBThJr861xKTf1x6P49MwN6yoN4v69k&amp;index=3)

@@ -1,0 +1,3 @@
+# [Станислав Кузнецов](https://www.youtube.com/@user-qz5qv6uc8y/playlists)
+## [Windows Server](https://www.youtube.com/playlist?list=PL9x2twfbtCCPOt4pJxnK29ARgzV-9neBl)
+### [Work with Hyper-V in Windows Server 2019 Core](https://www.youtube.com/watch?v=Vjomb62ksOU&amp;list=PL9x2twfbtCCPOt4pJxnK29ARgzV-9neBl&amp;index=12)

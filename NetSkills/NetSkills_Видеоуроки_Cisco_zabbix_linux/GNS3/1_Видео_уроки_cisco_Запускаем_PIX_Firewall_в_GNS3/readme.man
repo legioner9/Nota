@@ -1,0 +1,3 @@
+# [NetSkills. Видеоуроки. Cisco, zabbix, linux.](https://www.youtube.com/@netskills/playlists)
+## [GNS3](https://www.youtube.com/playlist?list=PLcDkQ2Au8aVMo5NPLrLxTbrJybWvKxMw0)
+### [Видео уроки cisco. Запускаем PIX Firewall в GNS3](https://www.youtube.com/watch?v=cUGY8rhtHCw&amp;list=PLcDkQ2Au8aVMo5NPLrLxTbrJybWvKxMw0&amp;index=1)

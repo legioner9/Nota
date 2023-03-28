@@ -1,0 +1,6 @@
+### [Swift Essential. Урок 1. Apple Developer Account](https://www.youtube.com/watch?v=TyeECvJx7ls&amp;list=PLvItDmb0sZw__v0YCnSXAgllZbh0KdSm7&amp;index=1)
+### [Swift Essential. Урок 2. Local and push notifications](https://www.youtube.com/watch?v=sqTHZulEWBg&amp;list=PLvItDmb0sZw__v0YCnSXAgllZbh0KdSm7&amp;index=2)
+### [Swift Essential. Урок 3. Application Extensions](https://www.youtube.com/watch?v=QGjbblO4Afc&amp;list=PLvItDmb0sZw__v0YCnSXAgllZbh0KdSm7&amp;index=3)
+### [Swift Essential. Урок 4. Create custom animations](https://www.youtube.com/watch?v=9l1WMs1OchY&amp;list=PLvItDmb0sZw__v0YCnSXAgllZbh0KdSm7&amp;index=4)
+### [Swift Essential. Урок 5. Core location / MapKit(part 1) / Rounting](https://www.youtube.com/watch?v=q9bQwKPEJ7c&amp;list=PLvItDmb0sZw__v0YCnSXAgllZbh0KdSm7&amp;index=5)
+### [Swift Essential. Урок 6. MapKit(part 2) / Geofencing](https://www.youtube.com/watch?v=LNgB2QvzVL0&amp;list=PLvItDmb0sZw__v0YCnSXAgllZbh0KdSm7&amp;index=6)

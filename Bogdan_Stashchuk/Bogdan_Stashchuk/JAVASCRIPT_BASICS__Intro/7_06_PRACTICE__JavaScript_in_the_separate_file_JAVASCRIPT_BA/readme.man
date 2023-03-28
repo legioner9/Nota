@@ -1,0 +1,3 @@
+# [Bogdan Stashchuk](https://www.youtube.com/@Bogdan_Stashchuk/playlists)
+## [JAVASCRIPT BASICS - Intro](https://www.youtube.com/playlist?list=PLWkguCWKqN9P2IpZdMEVLcRzzJr8fbGkG)
+### [06: PRACTICE - JavaScript in the separate file (JAVASCRIPT BASICS - Intro)](https://www.youtube.com/watch?v=mwqrpB7R29g&amp;list=PLWkguCWKqN9P2IpZdMEVLcRzzJr8fbGkG&amp;index=7)

@@ -1,0 +1,3 @@
+# [Гоша Дударь](https://www.youtube.com/@gosha_dudar/playlists?view=1)
+## [Изучение языка Kotlin для начинающих](https://www.youtube.com/playlist?list=PL0lO_mIqDDFUP-pEWtX7mrnmoP4Hxxp6y)
+### [Изучение Kotlin Android за 30 минут! Создание Андроид приложения с нуля](https://www.youtube.com/watch?v=6AUS2bHvPuY&amp;list=PL0lO_mIqDDFUP-pEWtX7mrnmoP4Hxxp6y&amp;index=12)

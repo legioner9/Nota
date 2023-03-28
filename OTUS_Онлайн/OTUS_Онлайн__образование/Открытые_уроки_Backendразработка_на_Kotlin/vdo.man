@@ -1,0 +1,7 @@
+### [Backend-разработка на Kotlin // День открытых дверей OTUS](https://www.youtube.com/watch?v=s-c_XxfKIEA&amp;list=PLfnFOImnyWRW9W4B_WQviJOXiHhQRx4xD&amp;index=1)
+### [Kotlin Multiplatform  Front Back на одном языке // Демо-занятие курса «Backend-разработка на Kotlin»](https://www.youtube.com/watch?v=51IL308D6cw&amp;list=PLfnFOImnyWRW9W4B_WQviJOXiHhQRx4xD&amp;index=2)
+### [Пересмотр «12 факторов»: создаём современный микросервис на Kotlin  // «Kotlin Backend Developer»](https://www.youtube.com/watch?v=8zA6nRBAgMg&amp;list=PLfnFOImnyWRW9W4B_WQviJOXiHhQRx4xD&amp;index=3)
+### [Kotlin Multiplatform: Front/Back на одном языке // Демо-занятие курса «Kotlin Backend Developer»](https://www.youtube.com/watch?v=aFAu1bBLx5w&amp;list=PLfnFOImnyWRW9W4B_WQviJOXiHhQRx4xD&amp;index=4)
+### [Использование GraphQL в разработке бэкенд на Kotlin // Демо-занятие курса «Kotlin Backend Developer»](https://www.youtube.com/watch?v=t4gocUhrIPI&amp;list=PLfnFOImnyWRW9W4B_WQviJOXiHhQRx4xD&amp;index=5)
+### [Demo Day курса «Kotlin Backend Developer»](https://www.youtube.com/watch?v=3ef0AOYm7Us&amp;list=PLfnFOImnyWRW9W4B_WQviJOXiHhQRx4xD&amp;index=6)
+### [Объектно-ориентированное программирование в Kotlin // Демо занятие курса «Kotlin Backend Developer»](https://www.youtube.com/watch?v=v5-SBApeiHg&amp;list=PLfnFOImnyWRW9W4B_WQviJOXiHhQRx4xD&amp;index=7)

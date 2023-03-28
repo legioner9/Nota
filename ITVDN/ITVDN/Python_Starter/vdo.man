@@ -1,0 +1,7 @@
+### [Python Starter. Урок 1. Введение в Python.](https://www.youtube.com/watch?v=-R_VR_Y5g8c&amp;list=PLvItDmb0sZw8RfG5odrtstiYkmiPg_Yo_&amp;index=1)
+### [Python Starter. Урок 2. Переменные и типы данных.](https://www.youtube.com/watch?v=oNErj26DAW0&amp;list=PLvItDmb0sZw8RfG5odrtstiYkmiPg_Yo_&amp;index=2)
+### [Python Starter. Урок 3. Условные конструкции.](https://www.youtube.com/watch?v=Y1eUt2wonq0&amp;list=PLvItDmb0sZw8RfG5odrtstiYkmiPg_Yo_&amp;index=3)
+### [Python Starter. Урок 4. Циклические конструкции.](https://www.youtube.com/watch?v=-A2sq4EI8fo&amp;list=PLvItDmb0sZw8RfG5odrtstiYkmiPg_Yo_&amp;index=4)
+### [Python Starter. Урок 5. Функции (часть 1).](https://www.youtube.com/watch?v=PYX-oix82fM&amp;list=PLvItDmb0sZw8RfG5odrtstiYkmiPg_Yo_&amp;index=5)
+### [Python Starter. Урок 6. Функции (часть 2).](https://www.youtube.com/watch?v=KSL_32HvBew&amp;list=PLvItDmb0sZw8RfG5odrtstiYkmiPg_Yo_&amp;index=6)
+### [Python Starter. Урок 7. Списки.](https://www.youtube.com/watch?v=H3lpUEjFBeE&amp;list=PLvItDmb0sZw8RfG5odrtstiYkmiPg_Yo_&amp;index=7)

@@ -1,0 +1,3 @@
+# [ITVDN](https://www.youtube.com/@ITVDN/playlists?view=1)
+## [SQLite. Базы данных в Android приложениях](https://www.youtube.com/playlist?list=PLvItDmb0sZw9hIbh28Ya6JJn1Ksm4QOeC)
+### [Обзор курса &quot;SQLite. Базы данных в Android приложениях&quot;](https://www.youtube.com/watch?v=gMlhjenedkk&amp;list=PLvItDmb0sZw9hIbh28Ya6JJn1Ksm4QOeC&amp;index=1)

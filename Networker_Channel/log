@@ -1,0 +1,50 @@
+ 25.03.2023 16:24:13 done Установка Cisco ASAv в среду GNS3 и настройка доступа. Урок 4.
+ 25.03.2023 16:24:15 done Первое подключение к Cisco ASA Firewall и начальная настройка. Урок 1.
+ 25.03.2023 16:24:17 done Настройка управления Сisco ASA. Урок 2.
+ 25.03.2023 16:24:19 done Обновление Cisco ASA Upgrade or Downgrade. Урок 3
+ 25.03.2023 16:24:19 done Cisco ASA
+ 25.03.2023 16:24:51 done Варианты дизайна. Подключение к Интернет #1
+ 25.03.2023 16:24:53 done Дизайн сети предприятия. Секрет успешного проектирования.
+ 25.03.2023 16:24:53 done Network Design
+ 25.03.2023 16:25:25 done Секреты копи-пастера или как быстро создавать грамотные конфигурации в командной строке CLI
+ 25.03.2023 16:25:27 done How to configure 1000 cisco devices in 5 minutes
+ 25.03.2023 16:25:28 done IT-LifeHack
+ 25.03.2023 16:25:59 done Server's Evolution. Part 1. Before Cisco UCS
+ 25.03.2023 16:26:02 done Эволюция серверов 2. Cisco UCS. Начало.
+ 25.03.2023 16:26:04 done Эволюция серверов - 3. Cisco UCS Unified Fabric.
+ 25.03.2023 16:26:06 done Install Cisco UCS server in 20 minutes
+ 25.03.2023 16:26:06 done Cisco UCS. Серверы и серверные технологии. Чайник-Про серия
+ 25.03.2023 16:26:41 done Настойка Cisco: подключение, описание загрузки IOS
+ 25.03.2023 16:26:44 done Настойка Cisco. Первое знакомство и команды просмотра.
+ 25.03.2023 16:26:46 done Базовая настройка Cisco. Интерфейсы, пользователи, telnet
+ 25.03.2023 16:26:48 done Начало работы с Cisco IOS CLI
+ 25.03.2023 16:26:50 done Что такое, как работают VLAN (Влан), коротко об CSMA/CD.
+ 25.03.2023 16:26:52 done Что такое VLAN, как работает коммутатор.
+ 25.03.2023 16:26:55 done Как работают VLAN 802.1Q. Фреймы, теги, порты.
+ 25.03.2023 16:26:57 done Configuring VLAN 802.1Q and show commands
+ 25.03.2023 16:26:59 done Intervlan routing. Design variations.
+ 25.03.2023 16:27:01 done InterVlanRouting. Настройка маршрутизации между Vlan
+ 25.03.2023 16:27:04 done Транки Etherchannel,LACP, PAgP и 802.1Q, агрегирование каналов
+ 25.03.2023 16:27:06 done Как настроить агрегацию портов коммутаторов Cisco. Теория.
+ 25.03.2023 16:27:08 done Агрегация портов L2 Etherchannel на коммутаторах Cisco. Настройка и конфигурация.
+ 25.03.2023 16:27:10 done Что такое и как работает Cisco DTP
+ 25.03.2023 16:27:12 done configuring Cisco DTP
+ 25.03.2023 16:27:15 done Обзор протокола Cisco VTP
+ 25.03.2023 16:27:17 done Настройка протокола VTP версии 2
+ 25.03.2023 16:27:19 done Cisco VTP Pruning. Часть 1. Настройка и принцип работы.
+ 25.03.2023 16:27:21 done Cisco VTP Pruning и Transparent Mode
+ 25.03.2023 16:27:23 done Введение в Cisco STP
+ 25.03.2023 16:27:25 done Построение топологии STP и выбор пути Spanning Tree
+ 25.03.2023 16:27:27 done Выбор STP Root и как работают BPDU
+ 25.03.2023 16:27:29 done Состояние портов STP 802.1D и Cisco PVST+
+ 25.03.2023 16:27:32 done Расширения к STP
+ 25.03.2023 16:27:34 done Оптимизация STP PORT FAST, настройка STP
+ 25.03.2023 16:27:36 done Настройка STP BPDU FILTER и BPDU GUARD
+ 25.03.2023 16:27:38 done CCNP: Как настроить STP BPDU Filter и Guard одновременное
+ 25.03.2023 16:27:40 done Understanding Cisco STP UPLINK FAST
+ 25.03.2023 16:27:42 done Networker Channel Introduction
+ 25.03.2023 16:27:44 done Как работает Cisco Native VLAN
+ 25.03.2023 16:27:46 done Настойка  тегирования TAG NATIVE VLAN
+ 25.03.2023 16:27:47 done Настройка Cisco: от простого к сложному. CCNA/CCNP неофициальная серия
+ 25.03.2023 16:27:47 good end 
+ 25.03.2023 16:27:48 good end 

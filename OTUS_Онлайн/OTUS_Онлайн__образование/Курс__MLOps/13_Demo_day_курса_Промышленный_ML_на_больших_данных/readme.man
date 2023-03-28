@@ -1,0 +1,3 @@
+# [OTUS Онлайн - образование](https://www.youtube.com/@otus_education/playlists)
+## [Курс | MLOps](https://www.youtube.com/playlist?list=PLfnFOImnyWRWHGQpLKTSNCZ-FW9DZiNgx)
+### [Demo day курса «Промышленный ML на больших данных»](https://www.youtube.com/watch?v=o4dtuJYw6NE&amp;list=PLfnFOImnyWRWHGQpLKTSNCZ-FW9DZiNgx&amp;index=13)

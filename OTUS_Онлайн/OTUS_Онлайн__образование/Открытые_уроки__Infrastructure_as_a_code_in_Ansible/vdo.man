@@ -1,0 +1,4 @@
+### [Управление Kubernetes при помощи Kubespray // курс «Infrastructure as a code in Ansible»](https://www.youtube.com/watch?v=g5hPhEJtssg&amp;list=PLfnFOImnyWRU7ZkUIh_GMyz2-4Po5lw7k&amp;index=1)
+### [Разработка модуля Ansible // Демо-занятие курса «Infrastructure as a code»](https://www.youtube.com/watch?v=7i77hm5PMGA&amp;list=PLfnFOImnyWRU7ZkUIh_GMyz2-4Po5lw7k&amp;index=2)
+### [Pulumi. Описание инфраструктуры языком программирования // занятие курса «Infrastructure as a code»](https://www.youtube.com/watch?v=6MXauTFoUhQ&amp;list=PLfnFOImnyWRU7ZkUIh_GMyz2-4Po5lw7k&amp;index=3)
+### [SaltStack. Управление конфигурациями // Демо-занятие курса «Infrastructure as a code»](https://www.youtube.com/watch?v=tYzI-9j1WeM&amp;list=PLfnFOImnyWRU7ZkUIh_GMyz2-4Po5lw7k&amp;index=4)

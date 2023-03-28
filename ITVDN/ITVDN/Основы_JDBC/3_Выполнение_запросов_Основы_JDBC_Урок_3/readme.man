@@ -1,0 +1,3 @@
+# [ITVDN](https://www.youtube.com/@ITVDN/playlists?view=1)
+## [Основы JDBC](https://www.youtube.com/playlist?list=PLvItDmb0sZw9SRhVZhXKuoWm_7JjD4kxa)
+### [Выполнение запросов. Основы JDBC. Урок 3](https://www.youtube.com/watch?v=3DLRRgtiYV4&amp;list=PLvItDmb0sZw9SRhVZhXKuoWm_7JjD4kxa&amp;index=3)

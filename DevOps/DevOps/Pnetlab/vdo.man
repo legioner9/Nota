@@ -1,0 +1,5 @@
+### [1.  Установка Pnetlab на Vmware Workstation / Pnetlab/ install/ emulator/](https://www.youtube.com/watch?v=VTEis9rLEto&amp;list=PLkKSgP0nEL0DW-BTtk0UjXl2EyY42n8Nb&amp;index=1)
+### [3. Как поднять IPsec туннель между двумя филиалами ? /Pnetlab/IPsec/tonnel/Cisco router](https://www.youtube.com/watch?v=VIXLaMY1BcE&amp;list=PLkKSgP0nEL0DW-BTtk0UjXl2EyY42n8Nb&amp;index=2)
+### [2. Как добавлять сетевые оборудования в Pnetlab ? /Cisco/ Linux/ add/ Pnetlab/ images/ qemu](https://www.youtube.com/watch?v=3WLGdSwTAnE&amp;list=PLkKSgP0nEL0DW-BTtk0UjXl2EyY42n8Nb&amp;index=3)
+### [4. Как быстро поднять IPsec в Linux с любым устройством ? / Racoon/ IPsec/ Cisco Router/ ASA/](https://www.youtube.com/watch?v=1t4tSD8ZhWg&amp;list=PLkKSgP0nEL0DW-BTtk0UjXl2EyY42n8Nb&amp;index=4)
+### [5. Как поднять IPsec тоннель в Linux на основе Strongswan с PSK ключом ?  /Strongswan/ IPsec/ Linux/](https://www.youtube.com/watch?v=AOlSfabIxyM&amp;list=PLkKSgP0nEL0DW-BTtk0UjXl2EyY42n8Nb&amp;index=5)

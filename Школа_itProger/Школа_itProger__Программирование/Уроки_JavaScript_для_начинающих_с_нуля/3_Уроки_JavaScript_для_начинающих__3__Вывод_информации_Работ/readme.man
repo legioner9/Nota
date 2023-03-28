@@ -1,0 +1,3 @@
+# [Школа itProger / Программирование](https://www.youtube.com/@itproger/playlists?view=1)
+## [Уроки JavaScript для начинающих с нуля!](https://www.youtube.com/playlist?list=PLDyJYA6aTY1kJIwbYHzGOuvSMNTfqksmk)
+### [Уроки JavaScript для начинающих / #3 – Вывод информации. Работа с консолью](https://www.youtube.com/watch?v=WLsFBu_15Hw&amp;list=PLDyJYA6aTY1kJIwbYHzGOuvSMNTfqksmk&amp;index=3)

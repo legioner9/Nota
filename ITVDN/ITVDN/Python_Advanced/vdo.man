@@ -1,0 +1,6 @@
+### [Работа с сетью в Python: Socket и HTTP. Python Advanced. Урок 1](https://www.youtube.com/watch?v=UohnrnZZ0w0&amp;list=PLvItDmb0sZw-j1dHo76Yhhb5aD48DmUZu&amp;index=1)
+### [Хранилища данных. Python Advanced. Урок 2](https://www.youtube.com/watch?v=T9wcXY2H18Q&amp;list=PLvItDmb0sZw-j1dHo76Yhhb5aD48DmUZu&amp;index=2)
+### [Асинхронное и многопоточное программирование. Python Advanced. Урок 3](https://www.youtube.com/watch?v=Ad5fHlFHbOg&amp;list=PLvItDmb0sZw-j1dHo76Yhhb5aD48DmUZu&amp;index=3)
+### [Метаклассы. Python Advanced. Урок 4](https://www.youtube.com/watch?v=cKF-TZTmsrY&amp;list=PLvItDmb0sZw-j1dHo76Yhhb5aD48DmUZu&amp;index=4)
+### [Библиотека Numpy. Python Advanced. Урок 5](https://www.youtube.com/watch?v=vIz6X87uCnM&amp;list=PLvItDmb0sZw-j1dHo76Yhhb5aD48DmUZu&amp;index=5)
+### [Типизированный Python (модуль typing). Python Advanced. Урок 6](https://www.youtube.com/watch?v=VlU_OKTDo9U&amp;list=PLvItDmb0sZw-j1dHo76Yhhb5aD48DmUZu&amp;index=6)

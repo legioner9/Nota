@@ -1,0 +1,3 @@
+# [UNИX](https://www.youtube.com/@unx7784/playlists)
+## [[UNИX] Совместная разработка на Python3 (Весна 2019)](https://www.youtube.com/playlist?list=PL6kSdcHYB3x7iflVVBUU6q4v3pvwiJOHj)
+### [[UNИX]Совместная разработка на Python3 - №7: Таймеры, события и инфопространство проекта](https://www.youtube.com/watch?v=4sS0MlJX84Q&amp;list=PL6kSdcHYB3x7iflVVBUU6q4v3pvwiJOHj&amp;index=7)

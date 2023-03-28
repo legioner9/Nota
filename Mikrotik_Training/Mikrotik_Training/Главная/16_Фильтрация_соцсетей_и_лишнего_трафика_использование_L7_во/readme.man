@@ -1,0 +1,3 @@
+# [Mikrotik Training](https://www.youtube.com/@MikrotikTraining/playlists)
+## [Главная](https://www.youtube.com/playlist?list=PLg90hRDCH9A5TlwaXO2sB5AQP8yNmkiBn)
+### [Фильтрация соцсетей и лишнего трафика: использование L7 возможностей в Mikrotik](https://www.youtube.com/watch?v=C-rksdgc50o&amp;list=PLg90hRDCH9A5TlwaXO2sB5AQP8yNmkiBn&amp;index=16)

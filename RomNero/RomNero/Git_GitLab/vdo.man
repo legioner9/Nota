@@ -1,0 +1,5 @@
+### [01-GitLab. Devops система. Установка в локальной сети. Настройка.](https://www.youtube.com/watch?v=n_21ya2MoKg&amp;list=PLqVeG_R3qMSzYe_s3-q7TZeawXxTyltGC&amp;index=1)
+### [Git и GitHub для начинающих.](https://www.youtube.com/watch?v=znnMmnVgD_w&amp;list=PLqVeG_R3qMSzYe_s3-q7TZeawXxTyltGC&amp;index=2)
+### [02-GitLab clone по SSH. Настройка SSH для Linux и Windows.](https://www.youtube.com/watch?v=u3r_DGLXmgA&amp;list=PLqVeG_R3qMSzYe_s3-q7TZeawXxTyltGC&amp;index=3)
+### [03- DevOps практика: GitlLab CI+Runners. Создание CI CD Pipeline.](https://www.youtube.com/watch?v=jAIhhULc7YA&amp;list=PLqVeG_R3qMSzYe_s3-q7TZeawXxTyltGC&amp;index=4)
+### [04 GitLab: Свой Docker Registry. Создание и подключение.](https://www.youtube.com/watch?v=G-WmX1um5cc&amp;list=PLqVeG_R3qMSzYe_s3-q7TZeawXxTyltGC&amp;index=5)

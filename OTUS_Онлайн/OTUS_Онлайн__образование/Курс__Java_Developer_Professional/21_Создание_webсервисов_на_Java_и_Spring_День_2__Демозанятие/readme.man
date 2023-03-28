@@ -1,0 +1,3 @@
+# [OTUS Онлайн - образование](https://www.youtube.com/@otus_education/playlists)
+## [Курс | Java Developer Professional](https://www.youtube.com/playlist?list=PLfnFOImnyWRUkY6JaagQsWDrtRBK7gPRd)
+### [Создание web-сервисов на Java и Spring. День 2 // Демо-занятие курса «Java Developer. Professional»](https://www.youtube.com/watch?v=p5OeiFo_Y4Y&amp;list=PLfnFOImnyWRUkY6JaagQsWDrtRBK7gPRd&amp;index=21)

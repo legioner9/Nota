@@ -1,0 +1,3 @@
+# [Mikrotik Training](https://www.youtube.com/@MikrotikTraining/playlists)
+## [firewall](https://www.youtube.com/playlist?list=PLg90hRDCH9A5kf570Y_l8jIrB-9eROxXs)
+### [Address List в Mikrotik](https://www.youtube.com/watch?v=Hh58vOOV37A&amp;list=PLg90hRDCH9A5kf570Y_l8jIrB-9eROxXs&amp;index=7)

@@ -1,0 +1,3 @@
+# [Neuro Lab! Algorithms](https://www.youtube.com/@NeuroLabAlgorithms/playlists)
+## [Язык Go для бизнес-аналитиков](https://www.youtube.com/playlist?list=PLHUicSITKZEliAGBSTHnqnlY5voTqT3-5)
+### [Экспорт данных в Эксель - Итерируем MAP | Язык Go для бизнес аналитиков. Урок #5 #go #golang #уроки](https://www.youtube.com/watch?v=RQVlB5-9_Gk&amp;list=PLHUicSITKZEliAGBSTHnqnlY5voTqT3-5&amp;index=21)

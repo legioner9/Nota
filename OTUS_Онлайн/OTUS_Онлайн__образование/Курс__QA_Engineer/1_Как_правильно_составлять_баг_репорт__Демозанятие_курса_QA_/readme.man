@@ -1,0 +1,3 @@
+# [OTUS Онлайн - образование](https://www.youtube.com/@otus_education/playlists)
+## [Курс | QA Engineer](https://www.youtube.com/playlist?list=PLfnFOImnyWRWn09U2fIPJzx8AYU4JSKcJ)
+### [Как правильно составлять баг репорт // Демо-занятие курса «QA Engineer»](https://www.youtube.com/watch?v=FYWSEP_MRSQ&amp;list=PLfnFOImnyWRWn09U2fIPJzx8AYU4JSKcJ&amp;index=1)

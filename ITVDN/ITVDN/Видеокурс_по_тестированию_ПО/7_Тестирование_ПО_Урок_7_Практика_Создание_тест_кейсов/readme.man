@@ -1,0 +1,3 @@
+# [ITVDN](https://www.youtube.com/@ITVDN/playlists?view=1)
+## [Видеокурс по тестированию ПО](https://www.youtube.com/playlist?list=PLvItDmb0sZw8UDC1HZLumLMcLL_WnSakU)
+### [Тестирование ПО. Урок 7. Практика. Создание тест кейсов.](https://www.youtube.com/watch?v=-Y0dxInLDWc&amp;list=PLvItDmb0sZw8UDC1HZLumLMcLL_WnSakU&amp;index=7)

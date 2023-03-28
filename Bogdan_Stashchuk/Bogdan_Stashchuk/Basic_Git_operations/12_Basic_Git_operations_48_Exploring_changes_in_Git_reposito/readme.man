@@ -1,0 +1,3 @@
+# [Bogdan Stashchuk](https://www.youtube.com/@Bogdan_Stashchuk/playlists)
+## [Basic Git operations](https://www.youtube.com/playlist?list=PLWkguCWKqN9Ny1TKe4mImDu33djI5FjXO)
+### [Basic Git operations: 48 Exploring changes in Git repository](https://www.youtube.com/watch?v=XHB6WF4WU4w&amp;list=PLWkguCWKqN9Ny1TKe4mImDu33djI5FjXO&amp;index=12)

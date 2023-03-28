@@ -1,0 +1,3 @@
+# [Ulbi TV](https://www.youtube.com/@UlbiTV/playlists)
+## [Crash курсы](https://www.youtube.com/playlist?list=PL6DxKON1uLOGtX2_vuBk-Z5Fzbm-DY0y1)
+### [Базы данных SQL уроки для начинающих. SELECT, JOINS, GROUP BY, INSERT, UPDATE, WHERE](https://www.youtube.com/watch?v=IK6e1SFCdow&amp;list=PL6DxKON1uLOGtX2_vuBk-Z5Fzbm-DY0y1&amp;index=4)

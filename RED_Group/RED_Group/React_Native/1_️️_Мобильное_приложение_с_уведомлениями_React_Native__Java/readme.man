@@ -1,0 +1,3 @@
+# [RED Group](https://www.youtube.com/@REDGroup/playlists)
+## [React Native](https://www.youtube.com/playlist?list=PLXkonRjGXZwwkvPWaW77k1VnXos3Hkt6g)
+### [🏋️‍♂️ Мобильное приложение с уведомлениями [React Native / Javascript / TypeScript / Tailwind]](https://www.youtube.com/watch?v=hwlfgkZ5H3Q&amp;list=PLXkonRjGXZwwkvPWaW77k1VnXos3Hkt6g&amp;index=1)

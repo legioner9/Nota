@@ -1,0 +1,8 @@
+### [Что такое СУБД MySQL? Курс MySQL Базовый. Урок 1](https://www.youtube.com/watch?v=24J-3YBEJwI&amp;list=PLvItDmb0sZw9-yTHNWpfXDyPPg8aXYb-B&amp;index=1)
+### [Основы DDL. Создание и модификация баз данных. Курс MySQL Базовый. Урок 2](https://www.youtube.com/watch?v=YjiELLJRl6w&amp;list=PLvItDmb0sZw9-yTHNWpfXDyPPg8aXYb-B&amp;index=2)
+### [Проектирование баз данных. Курс MySQL Базовый. Урок 3](https://www.youtube.com/watch?v=VxsIDTBqk-I&amp;list=PLvItDmb0sZw9-yTHNWpfXDyPPg8aXYb-B&amp;index=3)
+### [Объединение (JOINs). Курс MySQL Базовый. Урок 4](https://www.youtube.com/watch?v=MkpRHKr7P9Y&amp;list=PLvItDmb0sZw9-yTHNWpfXDyPPg8aXYb-B&amp;index=4)
+### [Вложенные запросы. Курс MySQL Базовый. Урок 5](https://www.youtube.com/watch?v=2H4ag6q7wCg&amp;list=PLvItDmb0sZw9-yTHNWpfXDyPPg8aXYb-B&amp;index=5)
+### [Индексирование. Курс MySQL Базовый. Урок 6](https://www.youtube.com/watch?v=0F2gLX9sH4w&amp;list=PLvItDmb0sZw9-yTHNWpfXDyPPg8aXYb-B&amp;index=6)
+### [Хранимые процедуры. Пользовательские функции. Курс MySQL Базовый. Урок 7](https://www.youtube.com/watch?v=rTlbPddD69M&amp;list=PLvItDmb0sZw9-yTHNWpfXDyPPg8aXYb-B&amp;index=7)
+### [Транзакции. Триггеры. Курс MySQL Базовый. Урок 8](https://www.youtube.com/watch?v=0YPh_pLo5Ks&amp;list=PLvItDmb0sZw9-yTHNWpfXDyPPg8aXYb-B&amp;index=8)

@@ -1,0 +1,5 @@
+### [DI &amp; IoC #1: Теория](https://www.youtube.com/watch?v=ETyltCwtQHs&amp;list=PLvTBThJr861xKTf1x6P49MwN6yoN4v69k&amp;index=1)
+### [DI &amp; IoC #2: Илья vs DI](https://www.youtube.com/watch?v=RwLWYB9C2Tc&amp;list=PLvTBThJr861xKTf1x6P49MwN6yoN4v69k&amp;index=2)
+### [DI &amp; IoC #3: DI и фронтенд](https://www.youtube.com/watch?v=0IqU_13tMcc&amp;list=PLvTBThJr861xKTf1x6P49MwN6yoN4v69k&amp;index=3)
+### [DI &amp; IoC #4: InversifyJS](https://www.youtube.com/watch?v=icbryEgQPxk&amp;list=PLvTBThJr861xKTf1x6P49MwN6yoN4v69k&amp;index=4)
+### [DI &amp; IoC: Мысли о возможностях](https://www.youtube.com/watch?v=pV-YKZEqsQ4&amp;list=PLvTBThJr861xKTf1x6P49MwN6yoN4v69k&amp;index=5)

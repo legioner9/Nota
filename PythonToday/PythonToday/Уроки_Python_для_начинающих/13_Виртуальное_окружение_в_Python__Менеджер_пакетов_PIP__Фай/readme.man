@@ -1,0 +1,3 @@
+# [PythonToday](https://www.youtube.com/@PythonToday/playlists)
+## [Уроки Python для начинающих](https://www.youtube.com/playlist?list=PLqGS6O1-DZLq3QreuqnPYHXL0cbQFCXqX)
+### [Виртуальное окружение в Python | Менеджер пакетов PIP | Файл requirements.txt](https://www.youtube.com/watch?v=rsG1Y5k-9jo&amp;list=PLqGS6O1-DZLq3QreuqnPYHXL0cbQFCXqX&amp;index=13)

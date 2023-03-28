@@ -1,0 +1,3 @@
+# [Ulbi TV](https://www.youtube.com/@UlbiTV/playlists)
+## [Валидация на REACT JS](https://www.youtube.com/playlist?list=PL6DxKON1uLOHcvuJLmgpOhwbktXLr7noj)
+### [Валидация форм на React JS. Простая валидация. Урок 1.](https://www.youtube.com/watch?v=WADswtZB-qg&amp;list=PL6DxKON1uLOHcvuJLmgpOhwbktXLr7noj&amp;index=1)

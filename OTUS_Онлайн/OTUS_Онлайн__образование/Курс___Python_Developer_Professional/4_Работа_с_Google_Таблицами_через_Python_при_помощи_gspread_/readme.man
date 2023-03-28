@@ -1,0 +1,3 @@
+# [OTUS Онлайн - образование](https://www.youtube.com/@otus_education/playlists)
+## [Курс |  Python Developer. Professional](https://www.youtube.com/playlist?list=PLfnFOImnyWRUrNJYC3gvN13Np2Eo8ZYSc)
+### [Работа с Google Таблицами через Python при помощи gspread // курс «Python Developer  Professional»](https://www.youtube.com/watch?v=9XdNny1DqXE&amp;list=PLfnFOImnyWRUrNJYC3gvN13Np2Eo8ZYSc&amp;index=4)

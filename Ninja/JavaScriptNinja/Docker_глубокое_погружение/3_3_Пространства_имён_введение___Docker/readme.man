@@ -1,0 +1,3 @@
+# [JavaScript.Ninja](https://www.youtube.com/@JavaScriptNinja/playlists)
+## [Docker: глубокое погружение](https://www.youtube.com/playlist?list=PLvTBThJr861x2qFBVwOlqIrbaft-Im-0u)
+### [#3 Пространства имён: введение -  Docker](https://www.youtube.com/watch?v=wVSQ0_v3t_8&amp;list=PLvTBThJr861x2qFBVwOlqIrbaft-Im-0u&amp;index=3)

@@ -1,0 +1,2 @@
+### [Фреймворки vs велосипеды. Видео #1 - тезисы и план](https://www.youtube.com/watch?v=q3D1uiO8YLI&amp;list=PLyeqauxei6jfxgvtFYsx7HszD0qdQXByL&amp;index=1)
+### [Фреймворки vs велосипеды #2 - проблемы любительских пакетов на примере валидации](https://www.youtube.com/watch?v=mIZ3jo20j9Q&amp;list=PLyeqauxei6jfxgvtFYsx7HszD0qdQXByL&amp;index=2)

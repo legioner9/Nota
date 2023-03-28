@@ -1,0 +1,3 @@
+# [Bogdan Stashchuk](https://www.youtube.com/@Bogdan_Stashchuk/playlists)
+## [MongoDB Indexing](https://www.youtube.com/playlist?list=PLWkguCWKqN9Pokkb0tDgwYxo2vNuc8iFT)
+### [05 MongoDB Indexing - Default _id index with ObjectID](https://www.youtube.com/watch?v=guyEFKPr6TU&amp;list=PLWkguCWKqN9Pokkb0tDgwYxo2vNuc8iFT&amp;index=5)

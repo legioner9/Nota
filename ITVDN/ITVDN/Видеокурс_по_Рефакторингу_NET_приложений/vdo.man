@@ -1,0 +1,5 @@
+### [Рефакторинг .NET приложений. Урок 1. Введение в рефакторинг](https://www.youtube.com/watch?v=qrOBYed-0v8&amp;list=PLvItDmb0sZw-MVZ8_mQxPp6A-_ADpauGf&amp;index=1)
+### [Рефакторинг .NET приложений. Урок 2. Составление методов](https://www.youtube.com/watch?v=4pquOok_wYE&amp;list=PLvItDmb0sZw-MVZ8_mQxPp6A-_ADpauGf&amp;index=2)
+### [Рефакторинг .NET приложений. Урок 3. Организация данных](https://www.youtube.com/watch?v=OZzxkA8W9H8&amp;list=PLvItDmb0sZw-MVZ8_mQxPp6A-_ADpauGf&amp;index=3)
+### [Рефакторинг .NET приложений. Урок 4. Упрощение условных выражений](https://www.youtube.com/watch?v=Sn7OEYfN4MQ&amp;list=PLvItDmb0sZw-MVZ8_mQxPp6A-_ADpauGf&amp;index=4)
+### [Рефакторинг .NET приложений. Урок 5. Решение задач обобщения](https://www.youtube.com/watch?v=PE3slNp98yw&amp;list=PLvItDmb0sZw-MVZ8_mQxPp6A-_ADpauGf&amp;index=5)

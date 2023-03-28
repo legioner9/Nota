@@ -1,0 +1,3 @@
+# [Диджитализируй!](https://www.youtube.com/@t0digital/playlists)
+## [Жизнь в АйТи](https://www.youtube.com/playlist?list=PLAk6CfuV7hyoQt3kOGk35P_vHIYSkQrSW)
+### [Аналитика доходности инвестиционного портфеля Тинькофф брокера на Python. API Тинькофф инвестиции](https://www.youtube.com/watch?v=QJ6yRulR_HA&amp;list=PLAk6CfuV7hyoQt3kOGk35P_vHIYSkQrSW&amp;index=30)

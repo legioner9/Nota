@@ -1,0 +1,3 @@
+# [Дмитрий Лаврик](https://www.youtube.com/@dmitrylavrik/playlists)
+## [Vue 3 - вводный курс](https://www.youtube.com/playlist?list=PLyeqauxei6jc1kJom6Nq4ZonjghIgGjhN)
+### [Vue 3 - идеи фреймворка [вводный курс, урок 1]](https://www.youtube.com/watch?v=Tg5DIdx1JE0&amp;list=PLyeqauxei6jc1kJom6Nq4ZonjghIgGjhN&amp;index=1)

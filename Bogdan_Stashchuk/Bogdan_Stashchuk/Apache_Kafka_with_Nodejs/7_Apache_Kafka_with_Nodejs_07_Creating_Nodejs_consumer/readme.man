@@ -1,0 +1,3 @@
+# [Bogdan Stashchuk](https://www.youtube.com/@Bogdan_Stashchuk/playlists)
+## [Apache Kafka with Node.js](https://www.youtube.com/playlist?list=PLWkguCWKqN9ODj1BNk5V-aOhjvjPxSb2R)
+### [Apache Kafka with Node.js: 07 Creating Node.js consumer](https://www.youtube.com/watch?v=r4Xt1jEGXtg&amp;list=PLWkguCWKqN9ODj1BNk5V-aOhjvjPxSb2R&amp;index=7)

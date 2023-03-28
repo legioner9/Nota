@@ -1,0 +1,3 @@
+# [egoroff_channel](https://www.youtube.com/@egoroffchannel/playlists)
+## [Объектно-ориентированное программирование (ООП) Python](https://www.youtube.com/playlist?list=PLQAt0m1f9OHvyjJNjZK_unnLwMOXPTja8)
+### [ООП 7 Практика &quot;Создание класса и его методов&quot;. Объектно-ориентированное программирование в Python.](https://www.youtube.com/watch?v=Q14EY0MKO4I&amp;list=PLQAt0m1f9OHvyjJNjZK_unnLwMOXPTja8&amp;index=7)

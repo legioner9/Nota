@@ -1,0 +1,3 @@
+# [Unified Communications from Cliffis](https://www.youtube.com/@uc_cliffis/playlists)
+## [Cisco VoIP](https://www.youtube.com/playlist?list=PLQkhRYZT7TCkSsxGb2V47CQq4g65j6nxW)
+### [Настройка Backup у CUCM - очень просто!!!](https://www.youtube.com/watch?v=VhC9bd0NQZM&amp;list=PLQkhRYZT7TCkSsxGb2V47CQq4g65j6nxW&amp;index=6)

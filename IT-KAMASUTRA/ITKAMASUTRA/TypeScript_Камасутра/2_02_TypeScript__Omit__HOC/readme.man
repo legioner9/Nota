@@ -1,0 +1,3 @@
+# [IT-KAMASUTRA](https://www.youtube.com/@ITKAMASUTRA/playlists?view=1)
+## [TypeScript Камасутра](https://www.youtube.com/playlist?list=PLcvhF2Wqh7DM6f9AdaI8bUctNuGiAYKpO)
+### [02. TypeScript / Omit / HOC](https://www.youtube.com/watch?v=Z6zbdTori10&amp;list=PLcvhF2Wqh7DM6f9AdaI8bUctNuGiAYKpO&amp;index=2)

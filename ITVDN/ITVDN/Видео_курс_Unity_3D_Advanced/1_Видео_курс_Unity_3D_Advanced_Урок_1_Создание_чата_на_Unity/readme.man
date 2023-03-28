@@ -1,0 +1,3 @@
+# [ITVDN](https://www.youtube.com/@ITVDN/playlists?view=1)
+## [Видео курс Unity 3D Advanced](https://www.youtube.com/playlist?list=PLvItDmb0sZw8oFqkjmesFLuxTv9o71xJ0)
+### [Видео курс Unity 3D Advanced. Урок 1. Создание чата на Unity Network (UNet)](https://www.youtube.com/watch?v=knq1HqEHS7E&amp;list=PLvItDmb0sZw8oFqkjmesFLuxTv9o71xJ0&amp;index=1)

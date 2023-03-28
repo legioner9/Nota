@@ -1,0 +1,8 @@
+### [Вводная лекция о теории SRE](https://www.youtube.com/watch?v=tQpBjvYf5ng&amp;list=PL8D2P0ruohOBkLxEUvyJjpEAkZUvoH-ZD&amp;index=1)
+### [Определяем SLO и SLI для своего проекта,  открытый вебинар курса по SRE](https://www.youtube.com/watch?v=6QkVlCIeJkM&amp;list=PL8D2P0ruohOBkLxEUvyJjpEAkZUvoH-ZD&amp;index=2)
+### [Особенности SRE в России, вебинар курса «SRE: внедряем DevOps от Google»](https://www.youtube.com/watch?v=VhArKrrT0Ww&amp;list=PL8D2P0ruohOBkLxEUvyJjpEAkZUvoH-ZD&amp;index=3)
+### [Путь в SRE, вебинар курса «SRE: внедряем DevOps от Google»](https://www.youtube.com/watch?v=Cj9yKoF6hd0&amp;list=PL8D2P0ruohOBkLxEUvyJjpEAkZUvoH-ZD&amp;index=4)
+### [Вебинар «SRE — хайп или будущее?»](https://www.youtube.com/watch?v=JUmR9YDkZdg&amp;list=PL8D2P0ruohOBkLxEUvyJjpEAkZUvoH-ZD&amp;index=5)
+### [Слёрм DevOps: ответы на вопросы по SRE](https://www.youtube.com/watch?v=6ep3koM0I9M&amp;list=PL8D2P0ruohOBkLxEUvyJjpEAkZUvoH-ZD&amp;index=6)
+### [Митап &quot;Профессия SRE: практика и мифы&quot;](https://www.youtube.com/watch?v=Dw8H1OrBtRo&amp;list=PL8D2P0ruohOBkLxEUvyJjpEAkZUvoH-ZD&amp;index=7)
+### [SRE как профессиональный рост для специалиста и прорыв для компании, бесплатный вебинар](https://www.youtube.com/watch?v=E5_g0iAyXp0&amp;list=PL8D2P0ruohOBkLxEUvyJjpEAkZUvoH-ZD&amp;index=8)

@@ -1,0 +1,7 @@
+### [Вебинар «CI/CD: первый пайплайн и перспективы»](https://www.youtube.com/watch?v=RWkxhN3IT40&amp;list=PL8D2P0ruohOAkQBgLdJ3EA5sOQcYKMBvL&amp;index=1)
+### [Урок 21: CI/CD. Часть 1. Вечерняя школа «Kubernetes для разработчиков»](https://www.youtube.com/watch?v=7rZgXQmBeso&amp;list=PL8D2P0ruohOAkQBgLdJ3EA5sOQcYKMBvL&amp;index=2)
+### [03. Docker Compose и Best Practice Docker, CI/CD и Gitlab CI. Вечерняя школа Слёрма по Kubernetes.](https://www.youtube.com/watch?v=Hz7fkXQABNo&amp;list=PL8D2P0ruohOAkQBgLdJ3EA5sOQcYKMBvL&amp;index=3)
+### [21. Докеризация приложения и CI/CD в Kubernetes. Вечерняя школа Слёрма по Kubernetes.](https://www.youtube.com/watch?v=MPqo9SMtnnY&amp;list=PL8D2P0ruohOAkQBgLdJ3EA5sOQcYKMBvL&amp;index=4)
+### [Анонс видеокурса CI/CD на примере Gitlab CI](https://www.youtube.com/watch?v=2NCsXEJx9oc&amp;list=PL8D2P0ruohOAkQBgLdJ3EA5sOQcYKMBvL&amp;index=5)
+### [Что такое CI/CD Как с ними интегрируется Git. 4.3. Курс «Git для начинающих»](https://www.youtube.com/watch?v=wKFasjBu0BA&amp;list=PL8D2P0ruohOAkQBgLdJ3EA5sOQcYKMBvL&amp;index=6)
+### [AMA-сессия к видеокурсу по CI/CD](https://www.youtube.com/watch?v=onszE6PN__k&amp;list=PL8D2P0ruohOAkQBgLdJ3EA5sOQcYKMBvL&amp;index=7)

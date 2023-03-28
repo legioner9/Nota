@@ -1,0 +1,3 @@
+# [selfedu](https://www.youtube.com/@selfedu_rus/playlists?view=1)
+## [Нейронные сети на Python. Уроки](https://www.youtube.com/playlist?list=PLA0M1Bcd0w8yv0XGiF1wjerjSZVSrYbjh)
+### [Batch Normalization (батч-нормализация) что это такое? | #12 нейросети на Python](https://www.youtube.com/watch?v=QTNpkKlLFow&amp;list=PLA0M1Bcd0w8yv0XGiF1wjerjSZVSrYbjh&amp;index=13)

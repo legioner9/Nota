@@ -1,0 +1,3 @@
+# [EngineerSpock - IT & программирование](https://www.youtube.com/@EngineerSpock/playlists)
+## [Курс по SQL для начинающих](https://www.youtube.com/playlist?list=PLBheEHDcG7-k1Y_Uy04Dj2ylWhcfSfqoF)
+### [SQL для начинающих: Индексы в PostgreSQL # Создание индексов на практике # EXPLAIN, ANALYZE # GIN](https://www.youtube.com/watch?v=bzCqU1gSsM0&amp;list=PLBheEHDcG7-k1Y_Uy04Dj2ylWhcfSfqoF&amp;index=14)

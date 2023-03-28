@@ -1,0 +1,7 @@
+### [Общие положения Интернета вещей // Демо-занятие курса «IoT-разработчик»](https://www.youtube.com/watch?v=k0KVPvnz0BU&amp;list=PLfnFOImnyWRVR9ReNFpGF0VWaiZ5ujECE&amp;index=1)
+### [Чат-бот для быстрых команд устройству // Демо-занятие курса «IoT-разработчик»](https://www.youtube.com/watch?v=lD89pLExhS4&amp;list=PLfnFOImnyWRVR9ReNFpGF0VWaiZ5ujECE&amp;index=2)
+### [Практика IoT: создаем проект по шерингу самокатов // Демо-занятие курса «Разработчик IoT»](https://www.youtube.com/watch?v=m7Ze96AzuBg&amp;list=PLfnFOImnyWRVR9ReNFpGF0VWaiZ5ujECE&amp;index=3)
+### [Практика IoT: создаем проект по контролю работ на шахтах. День 2 // Курс «Разработчик IoT».](https://www.youtube.com/watch?v=VyJGIe4caUs&amp;list=PLfnFOImnyWRVR9ReNFpGF0VWaiZ5ujECE&amp;index=4)
+### [Практика IoT: создаем проект по контролю работ на шахтах. День 1 // Занятие курса «Разработчик IoT».](https://www.youtube.com/watch?v=3ByV5EzKEOY&amp;list=PLfnFOImnyWRVR9ReNFpGF0VWaiZ5ujECE&amp;index=5)
+### [IoT автоматизация в облаках // Демо-занятие курса «Разработчик IoT»](https://www.youtube.com/watch?v=CEnjzYnzxyI&amp;list=PLfnFOImnyWRVR9ReNFpGF0VWaiZ5ujECE&amp;index=6)
+### [Практика IoT: создаем проект по шерингу самокатов // Демо-занятие курса «Разработчик IoT»](https://www.youtube.com/watch?v=lGrWN2kJc3M&amp;list=PLfnFOImnyWRVR9ReNFpGF0VWaiZ5ujECE&amp;index=7)

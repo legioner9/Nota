@@ -1,0 +1,3 @@
+# [PythonToday](https://www.youtube.com/@PythonToday/playlists)
+## [Парсинг/Scraping](https://www.youtube.com/playlist?list=PLqGS6O1-DZLprgEaEeKn9BWKZBvzVi_la)
+### [Обучение парсингу на Python #12 | Выполняем заказ на фрилансе | Парсинг динамического сайта](https://www.youtube.com/watch?v=-T1_JG_qa-s&amp;list=PLqGS6O1-DZLprgEaEeKn9BWKZBvzVi_la&amp;index=14)

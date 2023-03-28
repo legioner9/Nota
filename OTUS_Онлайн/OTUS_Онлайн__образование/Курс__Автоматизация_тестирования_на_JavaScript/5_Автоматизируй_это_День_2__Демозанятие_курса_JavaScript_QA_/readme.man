@@ -1,0 +1,3 @@
+# [OTUS Онлайн - образование](https://www.youtube.com/@otus_education/playlists)
+## [Курс | Автоматизация тестирования на JavaScript](https://www.youtube.com/playlist?list=PLfnFOImnyWRXQA1jhlHQkm-mdQUFrtuhj)
+### [Автоматизируй это! День 2 // Демо-занятие курса «JavaScript QA Engineer»](https://www.youtube.com/watch?v=YOODUiDgD-s&amp;list=PLfnFOImnyWRXQA1jhlHQkm-mdQUFrtuhj&amp;index=5)

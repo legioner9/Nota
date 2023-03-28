@@ -1,0 +1,3 @@
+# [luchanos](https://www.youtube.com/@luchanos/playlists?view=1&sort=dd&shelf_id=0)
+## [Основы git](https://www.youtube.com/playlist?list=PLlKID9PnOE5hNxXTOG8pOHwIlpmDtL6FM)
+### [ОСНОВЫ GIT ДЛЯ PYTHON-РАЗРАБОТЧИКА. СОЗДАНИЕ LOCAL И REMOTE РЕПОЗИТОРИЯ (ЧАСТЬ 2)](https://www.youtube.com/watch?v=ic7cukryHkA&amp;list=PLlKID9PnOE5hNxXTOG8pOHwIlpmDtL6FM&amp;index=3)

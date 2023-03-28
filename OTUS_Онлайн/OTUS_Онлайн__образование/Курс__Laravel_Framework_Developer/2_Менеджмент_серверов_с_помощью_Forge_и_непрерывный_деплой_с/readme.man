@@ -1,0 +1,3 @@
+# [OTUS Онлайн - образование](https://www.youtube.com/@otus_education/playlists)
+## [Курс | Laravel Framework Developer](https://www.youtube.com/playlist?list=PLfnFOImnyWRVVnqtKxDP1IldG99OaYw20)
+### [Менеджмент серверов с помощью Forge и непрерывный деплой с помощью Envoyer // «Framework Laravel»](https://www.youtube.com/watch?v=kSeAoIIblto&amp;list=PLfnFOImnyWRVVnqtKxDP1IldG99OaYw20&amp;index=2)

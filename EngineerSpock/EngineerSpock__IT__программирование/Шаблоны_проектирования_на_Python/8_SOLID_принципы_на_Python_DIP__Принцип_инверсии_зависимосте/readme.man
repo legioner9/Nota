@@ -1,0 +1,3 @@
+# [EngineerSpock - IT & программирование](https://www.youtube.com/@EngineerSpock/playlists)
+## [Шаблоны проектирования на Python](https://www.youtube.com/playlist?list=PLBheEHDcG7-k0eMcAdrzNFgYBf9jua3va)
+### [SOLID принципы на Python: DIP - Принцип инверсии зависимостей / Dependency Inversion Principle](https://www.youtube.com/watch?v=ZS1klrs6g-4&amp;list=PLBheEHDcG7-k0eMcAdrzNFgYBf9jua3va&amp;index=8)

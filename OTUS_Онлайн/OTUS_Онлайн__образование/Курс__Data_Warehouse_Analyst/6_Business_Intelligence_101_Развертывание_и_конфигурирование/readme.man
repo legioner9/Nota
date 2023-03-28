@@ -1,0 +1,3 @@
+# [OTUS Онлайн - образование](https://www.youtube.com/@otus_education/playlists)
+## [Курс | Data Warehouse Analyst](https://www.youtube.com/playlist?list=PLfnFOImnyWRVy4_As4CZVQpVj1vJxT1y4)
+### [Business Intelligence 101: Развертывание и конфигурирование решения – DWH Analyst @ OTUS](https://www.youtube.com/watch?v=haZTIjxfcnM&amp;list=PLfnFOImnyWRVy4_As4CZVQpVj1vJxT1y4&amp;index=6)

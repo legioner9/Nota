@@ -1,0 +1,3 @@
+# [EngineerSpock - IT & программирование](https://www.youtube.com/@EngineerSpock/playlists)
+## [Курс по SQL для начинающих](https://www.youtube.com/playlist?list=PLBheEHDcG7-k1Y_Uy04Dj2ylWhcfSfqoF)
+### [Практический курс по SQL для начинающих - #3 Соединения (JOIN)](https://www.youtube.com/watch?v=oKVbDq84GzY&amp;list=PLBheEHDcG7-k1Y_Uy04Dj2ylWhcfSfqoF&amp;index=3)

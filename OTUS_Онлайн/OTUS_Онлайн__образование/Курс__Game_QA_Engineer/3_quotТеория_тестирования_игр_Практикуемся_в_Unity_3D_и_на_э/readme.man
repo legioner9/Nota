@@ -1,0 +1,3 @@
+# [OTUS Онлайн - образование](https://www.youtube.com/@otus_education/playlists)
+## [Курс | Game QA Engineer](https://www.youtube.com/playlist?list=PLfnFOImnyWRUAC2gTXz1Ir5o_7N_NjkpT)
+### [&quot;Теория тестирования игр. Практикуемся в Unity 3D и на эмуляторах. День 2 // «Game QA Engineer»](https://www.youtube.com/watch?v=0OWz1WSP_ic&amp;list=PLfnFOImnyWRUAC2gTXz1Ir5o_7N_NjkpT&amp;index=3)

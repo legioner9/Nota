@@ -1,0 +1,3 @@
+# [ITVDN](https://www.youtube.com/@ITVDN/playlists?view=1)
+## [Видеокурс по Алгоритмам и структурам данных](https://www.youtube.com/playlist?list=PLvItDmb0sZw8mT-wPuKNyPJBLj5tXqX83)
+### [Видео курс Алгоритмы и структуры данных. Урок 2. Динамический массив, Stack, Queue и Set.](https://www.youtube.com/watch?v=nGGuU8LwR5E&amp;list=PLvItDmb0sZw8mT-wPuKNyPJBLj5tXqX83&amp;index=2)

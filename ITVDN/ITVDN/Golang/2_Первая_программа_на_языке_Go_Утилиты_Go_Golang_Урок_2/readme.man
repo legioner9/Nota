@@ -1,0 +1,3 @@
+# [ITVDN](https://www.youtube.com/@ITVDN/playlists?view=1)
+## [Golang](https://www.youtube.com/playlist?list=PLvItDmb0sZw9zX3dKi6552Vb8OM9D1eZ4)
+### [Первая программа на языке Go. Утилиты Go. Golang. Урок 2](https://www.youtube.com/watch?v=88Npd_3EQm4&amp;list=PLvItDmb0sZw9zX3dKi6552Vb8OM9D1eZ4&amp;index=2)

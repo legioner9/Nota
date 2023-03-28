@@ -1,0 +1,3 @@
+# [Bogdan Stashchuk](https://www.youtube.com/@Bogdan_Stashchuk/playlists)
+## [MongoDB Data Types](https://www.youtube.com/playlist?list=PLWkguCWKqN9NidaQVthx2w1xvwNG4cVTa)
+### [MongoDB Data Types: 02 MongoDB Types Syntax in Shell Mode](https://www.youtube.com/watch?v=xLGj6hloFow&amp;list=PLWkguCWKqN9NidaQVthx2w1xvwNG4cVTa&amp;index=3)

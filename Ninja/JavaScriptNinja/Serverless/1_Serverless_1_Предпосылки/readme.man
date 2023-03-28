@@ -1,0 +1,3 @@
+# [JavaScript.Ninja](https://www.youtube.com/@JavaScriptNinja/playlists)
+## [Serverless](https://www.youtube.com/playlist?list=PLvTBThJr861xrJAVklH2E8JYR5FqPxTY8)
+### [Serverless #1: Предпосылки](https://www.youtube.com/watch?v=t6nkR_CJ-0A&amp;list=PLvTBThJr861xrJAVklH2E8JYR5FqPxTY8&amp;index=1)

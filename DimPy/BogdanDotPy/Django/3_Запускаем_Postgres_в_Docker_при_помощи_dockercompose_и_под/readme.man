@@ -1,0 +1,3 @@
+# [BogdanDotPy](https://www.youtube.com/@BogdanDotPy/playlists)
+## [Django](https://www.youtube.com/playlist?list=PLpTYtB-EF1dsfuZGBTcWDHplGTBkxB_VI)
+### [Запускаем Postgres в Docker при помощи docker-compose и подключаем к нему Django](https://www.youtube.com/watch?v=NsTbKkFzCRA&amp;list=PLpTYtB-EF1dsfuZGBTcWDHplGTBkxB_VI&amp;index=3)

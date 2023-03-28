@@ -1,0 +1,3 @@
+# [PythonToday](https://www.youtube.com/@PythonToday/playlists)
+## [Парсинг/Scraping](https://www.youtube.com/playlist?list=PLqGS6O1-DZLprgEaEeKn9BWKZBvzVi_la)
+### [8000р за вечер на фрилансе | Обучение парсингу на Python | Proxy, Requests, API, JSON, CSV](https://www.youtube.com/watch?v=Et8lOqGpJ5o&amp;list=PLqGS6O1-DZLprgEaEeKn9BWKZBvzVi_la&amp;index=23)

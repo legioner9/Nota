@@ -1,0 +1,7 @@
+### [Backup. Резервное копирование. Какую систему выбрать для Windows, Linux. Центральный сервер.](https://www.youtube.com/watch?v=ob7PG-iAWsc&amp;list=PLqVeG_R3qMSx8POaEvRKSlc2QFQHK3GoV&amp;index=1)
+### [Backup. Резервное копирование. Типы и Стратегии.](https://www.youtube.com/watch?v=0rN2ef3D-Lw&amp;list=PLqVeG_R3qMSx8POaEvRKSlc2QFQHK3GoV&amp;index=2)
+### [UrBackup. Центральный Бэкап Сервер для Linux и Windows.](https://www.youtube.com/watch?v=HR53AD4L2wI&amp;list=PLqVeG_R3qMSx8POaEvRKSlc2QFQHK3GoV&amp;index=3)
+### [Acronis True Image. Обзор Backup. Резервное копирование. Установка и настройки.](https://www.youtube.com/watch?v=y1Xi7jaOUzk&amp;list=PLqVeG_R3qMSx8POaEvRKSlc2QFQHK3GoV&amp;index=4)
+### [AOMEI backupper. Обзор Backup. Резервное копирование. Установка и настройки.](https://www.youtube.com/watch?v=ImCjFVlF3gQ&amp;list=PLqVeG_R3qMSx8POaEvRKSlc2QFQHK3GoV&amp;index=5)
+### [Ashampoo Backup Pro 15. Обзор Backup. Резервное копирование. Установка и настройки.](https://www.youtube.com/watch?v=-Qu1Uk6Pj58&amp;list=PLqVeG_R3qMSx8POaEvRKSlc2QFQHK3GoV&amp;index=6)
+### [Duplicati - бесплатная программа для резервного копирования. Windows и Linux. Установка и настройки.](https://www.youtube.com/watch?v=KqdfZHWDz3A&amp;list=PLqVeG_R3qMSx8POaEvRKSlc2QFQHK3GoV&amp;index=7)

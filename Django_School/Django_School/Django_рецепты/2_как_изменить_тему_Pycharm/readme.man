@@ -1,0 +1,3 @@
+# [Django School](https://www.youtube.com/@DjangoSchool/playlists?view=1)
+## [Django рецепты](https://www.youtube.com/playlist?list=PLF-NY6ldwAWopIsXOppMuBPnzUiWjPdHX)
+### [как изменить тему Pycharm](https://www.youtube.com/watch?v=PBfYENlc-0c&amp;list=PLF-NY6ldwAWopIsXOppMuBPnzUiWjPdHX&amp;index=2)

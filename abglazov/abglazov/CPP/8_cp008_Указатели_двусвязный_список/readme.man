@@ -1,0 +1,3 @@
+# [abglazov](https://www.youtube.com/@abglazov/playlists?view=1)
+## [CPP](https://www.youtube.com/playlist?list=PLku9se_HAVOouwFtWY3qt-rLTj3FWt9-T)
+### [cp008 Указатели: двусвязный список](https://www.youtube.com/watch?v=ywnZ05YFNws&amp;list=PLku9se_HAVOouwFtWY3qt-rLTj3FWt9-T&amp;index=8)

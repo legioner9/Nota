@@ -1,0 +1,3 @@
+# [ITVDN](https://www.youtube.com/@ITVDN/playlists?view=1)
+## [Вебинары по C++](https://www.youtube.com/playlist?list=PLvItDmb0sZw_0e6pizn_1HOIPn6PovVZ9)
+### [STL контейнеры в С++. Обзор и применение](https://www.youtube.com/watch?v=8NNYmDuIn4g&amp;list=PLvItDmb0sZw_0e6pizn_1HOIPn6PovVZ9&amp;index=1)

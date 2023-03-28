@@ -1,0 +1,8 @@
+### [AsterConf-2018: Юрий Горличенко - 5 кейсов использования Kamailio перед Asterisk](https://www.youtube.com/watch?v=nOgMLlghVws&amp;list=PLrUzrM6usSzrKWlsRNYygfZzqpAK_JvK6&amp;index=1)
+### [AsterConf-2018: Алексей Портнов - Как за 1 час собрать простейшую интеграцию 1С и Asterisk](https://www.youtube.com/watch?v=OaHA9PsFsRU&amp;list=PLrUzrM6usSzrKWlsRNYygfZzqpAK_JvK6&amp;index=2)
+### [AsterConf-2018: Андрей Егоров - Open Source VoIP-платформа Yate](https://www.youtube.com/watch?v=9Q7AgwQ-aUA&amp;list=PLrUzrM6usSzrKWlsRNYygfZzqpAK_JvK6&amp;index=3)
+### [AsterConf-2018: Степан Шишкин - Хранение CDR без БД. Совсем без БД](https://www.youtube.com/watch?v=N2OYMSC0CiM&amp;list=PLrUzrM6usSzrKWlsRNYygfZzqpAK_JvK6&amp;index=4)
+### [AsterConf-2018: Роман Козлов - QoS для IP-телефонии на сетевом оборудовании Mikrotik](https://www.youtube.com/watch?v=CFLYq1zVXj8&amp;list=PLrUzrM6usSzrKWlsRNYygfZzqpAK_JvK6&amp;index=5)
+### [AsterConf-2018: Роман Козлов - Обеспечение защиты SIP-трафика Asterisk с помощью Mikrotik](https://www.youtube.com/watch?v=m6uWarY7fhw&amp;list=PLrUzrM6usSzrKWlsRNYygfZzqpAK_JvK6&amp;index=6)
+### [AsterConf-2018: Олег Левицкий - Платформа облачной телефонии &quot;Yeastar Management Plane&quot;](https://www.youtube.com/watch?v=M2bMU_099Lo&amp;list=PLrUzrM6usSzrKWlsRNYygfZzqpAK_JvK6&amp;index=7)
+### [AsterConf-2018: Василий Сурин - Поиск проблемных диалогов в речи оператора и клиента](https://www.youtube.com/watch?v=fTq3yZQlidc&amp;list=PLrUzrM6usSzrKWlsRNYygfZzqpAK_JvK6&amp;index=8)

@@ -1,0 +1,3 @@
+# [luchanos](https://www.youtube.com/@luchanos/playlists?view=1&sort=dd&shelf_id=0)
+## [FASTAPI FULL TUTORIAL НА РЕАЛЬНОМ ПРОЕКТЕ](https://www.youtube.com/playlist?list=PLlKID9PnOE5jiWTTsshCXdz5qvg8JWezX)
+### [УРОКИ FASTAPI НА БОЕВОМ СЕРВИСЕ 4. БОЛЬШЕ ТЕСТОВ, LINTERS, PRE-COMMIT HOOKS](https://www.youtube.com/watch?v=yImsWPzANtM&amp;list=PLlKID9PnOE5jiWTTsshCXdz5qvg8JWezX&amp;index=4)

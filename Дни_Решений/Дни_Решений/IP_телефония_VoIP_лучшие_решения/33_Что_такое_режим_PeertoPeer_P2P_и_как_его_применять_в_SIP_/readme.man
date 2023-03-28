@@ -1,0 +1,3 @@
+# [Дни Решений](https://www.youtube.com/@teleinfoRU/playlists)
+## [IP телефония (VoIP): лучшие решения](https://www.youtube.com/playlist?list=PLe8r5bEnvnZP6yOWIYyyygqPvS58uMQBJ)
+### [Что такое режим Peer-to-Peer (P2P) и как его применять в SIP телефонах ATCOM?](https://www.youtube.com/watch?v=zFrGtFe0dGc&amp;list=PLe8r5bEnvnZP6yOWIYyyygqPvS58uMQBJ&amp;index=33)

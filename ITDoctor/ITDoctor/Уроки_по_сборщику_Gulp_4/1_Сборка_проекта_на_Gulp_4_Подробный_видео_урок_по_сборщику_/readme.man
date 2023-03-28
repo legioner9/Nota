@@ -1,0 +1,3 @@
+# [ITDoctor](https://www.youtube.com/@ITDoctor/playlists?view=1&sort=dd&shelf_id=0)
+## [Уроки по сборщику Gulp 4](https://www.youtube.com/playlist?list=PLuY6eeDuleIM7fEgWkXJvfiVOd2ecZyEE)
+### [Сборка проекта на Gulp 4, Подробный видео урок по сборщику Gulp, Уроки по сборщику Gulp 4](https://www.youtube.com/watch?v=r2S423N-ETA&amp;list=PLuY6eeDuleIM7fEgWkXJvfiVOd2ecZyEE&amp;index=1)

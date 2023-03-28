@@ -1,0 +1,3 @@
+# [Билял Хасенов – Excel, VBA & More](https://www.youtube.com/@BilyalKhassenov/playlists?view=58)
+## [Экспресс-Курс VBA](https://www.youtube.com/playlist?list=PLsPotgU_ELTrsuNLrWYmIdu_3W1VM-jzm)
+### [For и For Each (Серия VBA 8)](https://www.youtube.com/watch?v=x1Xl2v8vAV4&amp;list=PLsPotgU_ELTrsuNLrWYmIdu_3W1VM-jzm&amp;index=8)

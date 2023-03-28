@@ -1,0 +1,5 @@
+### [Введение в коллекции Java // Демо-занятие курса «Java Developer  Basic»](https://www.youtube.com/watch?v=C8AguCbV--o&amp;list=PLfnFOImnyWRWwb0iSDEnm3hcWGOK3FK0W&amp;index=1)
+### [Demo Day курса «Java Developer  Basic»](https://www.youtube.com/watch?v=Id2pZ39zAyM&amp;list=PLfnFOImnyWRWwb0iSDEnm3hcWGOK3FK0W&amp;index=2)
+### [Интенсив &quot;Хороший код&quot; День 2 // Демо-занятие курса «Java Developer. Basic»](https://www.youtube.com/watch?v=6iU0hQsMMkg&amp;list=PLfnFOImnyWRWwb0iSDEnm3hcWGOK3FK0W&amp;index=3)
+### [Интенсив &quot;Хороший код&quot; День 1 // Демо-занятие курса «Java Developer. Basic»](https://www.youtube.com/watch?v=cmzsHb_Jzu4&amp;list=PLfnFOImnyWRWwb0iSDEnm3hcWGOK3FK0W&amp;index=4)
+### [Demo Day курса «Java Developer Basic»](https://www.youtube.com/watch?v=63VNOGw1q2Y&amp;list=PLfnFOImnyWRWwb0iSDEnm3hcWGOK3FK0W&amp;index=5)

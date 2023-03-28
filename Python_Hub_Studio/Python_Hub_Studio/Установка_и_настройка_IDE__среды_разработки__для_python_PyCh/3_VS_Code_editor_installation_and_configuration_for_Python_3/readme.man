@@ -1,0 +1,3 @@
+# [Python Hub Studio](https://www.youtube.com/@PythonHubStudio/playlists)
+## [Установка и настройка IDE ( среды разработки ) для python (PyCharm, Sublime Text 3, VS Code) ТОП IDE для Python](https://www.youtube.com/playlist?list=PLNi5HdK6QEmVMN7h8XOT3D879VTWroFwU)
+### [VS Code editor installation and configuration for Python 3](https://www.youtube.com/watch?v=_HZD4ft7Z2g&amp;list=PLNi5HdK6QEmVMN7h8XOT3D879VTWroFwU&amp;index=3)

@@ -1,0 +1,5 @@
+### [Godot - почему про него все говорят? Он заменит Unity и Unreal Engine?](https://www.youtube.com/watch?v=-13AMkrSaRc&amp;list=PL0lO_mIqDDFXet3wlhUkx-OixV19IAYYz&amp;index=1)
+### [Создание 2D платформера в Godot за 30 минут / Изучение движка Godot](https://www.youtube.com/watch?v=xKbZQHthbR8&amp;list=PL0lO_mIqDDFXet3wlhUkx-OixV19IAYYz&amp;index=2)
+### [Создание 3D игры в Godot за час / Уроки Godot Engine 3D](https://www.youtube.com/watch?v=-maL9z-WSOk&amp;list=PL0lO_mIqDDFXet3wlhUkx-OixV19IAYYz&amp;index=3)
+### [Godot Engine Multiplayer / Создание 3Д игры с мультиплеером](https://www.youtube.com/watch?v=mEsGW71VOwc&amp;list=PL0lO_mIqDDFXet3wlhUkx-OixV19IAYYz&amp;index=4)
+### [Профессия Unity разработчик | Презентация онлайн курса](https://www.youtube.com/watch?v=R9emFH6mHhA&amp;list=PL0lO_mIqDDFXet3wlhUkx-OixV19IAYYz&amp;index=5)

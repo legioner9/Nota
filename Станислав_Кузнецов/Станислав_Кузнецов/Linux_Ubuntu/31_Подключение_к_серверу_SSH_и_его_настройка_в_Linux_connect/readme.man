@@ -1,0 +1,3 @@
+# [Станислав Кузнецов](https://www.youtube.com/@user-qz5qv6uc8y/playlists)
+## [Linux Ubuntu](https://www.youtube.com/playlist?list=PL9x2twfbtCCNL4KXsDTpa3i9S2YgpY2AM)
+### [Подключение к серверу SSH и его настройка в Linux (connection and configuration SSH-server in Linux)](https://www.youtube.com/watch?v=Ef93kj7rBeQ&amp;list=PL9x2twfbtCCNL4KXsDTpa3i9S2YgpY2AM&amp;index=31)

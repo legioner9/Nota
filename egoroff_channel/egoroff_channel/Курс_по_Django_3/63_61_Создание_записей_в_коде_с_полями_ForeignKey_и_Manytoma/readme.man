@@ -1,0 +1,3 @@
+# [egoroff_channel](https://www.youtube.com/@egoroffchannel/playlists)
+## [Курс по Django 3](https://www.youtube.com/playlist?list=PLQAt0m1f9OHvGM7Y7jAQP8TKbBd3up4K2)
+### [61 Создание записей в коде с полями ForeignKey и Manytomany](https://www.youtube.com/watch?v=ye5E6jCEUIo&amp;list=PLQAt0m1f9OHvGM7Y7jAQP8TKbBd3up4K2&amp;index=63)

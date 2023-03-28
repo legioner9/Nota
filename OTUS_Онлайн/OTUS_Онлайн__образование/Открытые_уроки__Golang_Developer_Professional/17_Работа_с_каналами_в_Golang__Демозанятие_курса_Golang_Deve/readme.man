@@ -1,0 +1,3 @@
+# [OTUS Онлайн - образование](https://www.youtube.com/@otus_education/playlists)
+## [Открытые уроки  Golang Developer. Professional](https://www.youtube.com/playlist?list=PLfnFOImnyWRUADFreftcl7WZpPLqlK-RG)
+### [Работа с каналами в Golang // Демо-занятие курса «Golang Developer»](https://www.youtube.com/watch?v=ENDR-KLyP0M&amp;list=PLfnFOImnyWRUADFreftcl7WZpPLqlK-RG&amp;index=17)

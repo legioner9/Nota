@@ -1,0 +1,3 @@
+# [Volodya Mozhenkov](https://www.youtube.com/@VladimirMozhenkov/playlists?view=1)
+## [Java Коллекции](https://www.youtube.com/playlist?list=PLY7PmJJFH5nSaAcsqTEKpzaFJe7DZUYRM)
+### [Коллекции Java - List (списки)](https://www.youtube.com/watch?v=J0m33DkLHLA&amp;list=PLY7PmJJFH5nSaAcsqTEKpzaFJe7DZUYRM&amp;index=2)

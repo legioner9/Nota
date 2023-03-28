@@ -1,0 +1,3 @@
+# [Школа itProger / Программирование](https://www.youtube.com/@itproger/playlists?view=1)
+## [Уроки Python для начинающих / Программирование на Питон с нуля](https://www.youtube.com/playlist?list=PLDyJYA6aTY1lPWXBPk0gw6gR8fEtPDGKa)
+### [Уроки Python с нуля / #3 – Базовые операции в языке Python](https://www.youtube.com/watch?v=ML5tP8m6SHw&amp;list=PLDyJYA6aTY1lPWXBPk0gw6gR8fEtPDGKa&amp;index=3)

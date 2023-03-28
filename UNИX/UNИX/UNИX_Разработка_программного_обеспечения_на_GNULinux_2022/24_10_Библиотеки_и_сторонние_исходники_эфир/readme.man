@@ -1,0 +1,3 @@
+# [UNИX](https://www.youtube.com/@unx7784/playlists)
+## [[UNИX] Разработка программного обеспечения на GNU/Linux 2022](https://www.youtube.com/playlist?list=PL6kSdcHYB3x6TfLxZVVAA3AAU2KSfN7wZ)
+### [10. Библиотеки и сторонние исходники (эфир)](https://www.youtube.com/watch?v=WG2zxbT5sn4&amp;list=PL6kSdcHYB3x6TfLxZVVAA3AAU2KSfN7wZ&amp;index=24)

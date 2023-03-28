@@ -1,0 +1,8 @@
+### [Introduction to the MongoDB Shell](https://www.youtube.com/watch?v=hxn-GeZrsk4&amp;list=PLWkguCWKqN9OPrD3q9Qy-eZplxnjCooiZ&amp;index=1)
+### [MongoDB Shell: 01 Setup Overview](https://www.youtube.com/watch?v=-erQePQG7LE&amp;list=PLWkguCWKqN9OPrD3q9Qy-eZplxnjCooiZ&amp;index=2)
+### [MongoDB Shell: 02 MongoDB Shell JavaScript Engine](https://www.youtube.com/watch?v=Ln97nNArIDc&amp;list=PLWkguCWKqN9OPrD3q9Qy-eZplxnjCooiZ&amp;index=3)
+### [MongoDB Shell: 03 Exploring MongoDB Server and Shell versions](https://www.youtube.com/watch?v=7O1w4qaeWOc&amp;list=PLWkguCWKqN9OPrD3q9Qy-eZplxnjCooiZ&amp;index=4)
+### [MongoDB Shell: 04 Getting help in the MongoDB shell](https://www.youtube.com/watch?v=lk9uOtW09ZY&amp;list=PLWkguCWKqN9OPrD3q9Qy-eZplxnjCooiZ&amp;index=5)
+### [MongoDB Shell: 05 MongoDB Shell JavaScript Syntax](https://www.youtube.com/watch?v=zO-AIAbby7I&amp;list=PLWkguCWKqN9OPrD3q9Qy-eZplxnjCooiZ&amp;index=6)
+### [MongoDB Shell: 06 Arguments in the MongoDB Methods](https://www.youtube.com/watch?v=fwz0XgTWDsE&amp;list=PLWkguCWKqN9OPrD3q9Qy-eZplxnjCooiZ&amp;index=7)
+### [MongoDB Shell: 07 MongoDB Shell Module Summary](https://www.youtube.com/watch?v=JFxEIu0F3GU&amp;list=PLWkguCWKqN9OPrD3q9Qy-eZplxnjCooiZ&amp;index=8)

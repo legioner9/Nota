@@ -1,0 +1,6 @@
+### [Настройка русского языка в Ubuntu. Руссификация. Первая настройка. Инструкция](https://www.youtube.com/watch?v=a9qmxW4_JAg&amp;list=PL1pvuHxj7HgRM6ZsvMRTTXmyHKOay-H7w&amp;index=1)
+### [Ubuntu Desktop 18.04 установка/INSTALL 2018](https://www.youtube.com/watch?v=Kcga_14tk7c&amp;list=PL1pvuHxj7HgRM6ZsvMRTTXmyHKOay-H7w&amp;index=2)
+### [Настройка файлового обмена между Windows и Ubuntu. Общая сетевая папка.](https://www.youtube.com/watch?v=p1VhczDB6FA&amp;list=PL1pvuHxj7HgRM6ZsvMRTTXmyHKOay-H7w&amp;index=3)
+### [Ошибка failed to load ldlinux.c32 при установке Linux с флешки. Как исправить?](https://www.youtube.com/watch?v=97CoyoXFK68&amp;list=PL1pvuHxj7HgRM6ZsvMRTTXmyHKOay-H7w&amp;index=4)
+### [Передача файлов из Windows в Linux (CentOS) если линукс на консоли](https://www.youtube.com/watch?v=jv_pvJn8_As&amp;list=PL1pvuHxj7HgRM6ZsvMRTTXmyHKOay-H7w&amp;index=5)
+### [Acer Aspire 4740 ноутбук для Linux. Тест Mint 19 и Ubuntu 18.04](https://www.youtube.com/watch?v=ZaNvdiBSxfk&amp;list=PL1pvuHxj7HgRM6ZsvMRTTXmyHKOay-H7w&amp;index=6)

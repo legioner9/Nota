@@ -1,0 +1,3 @@
+# [NetSkills. Видеоуроки. Cisco, zabbix, linux.](https://www.youtube.com/@netskills/playlists)
+## [Linux для начинающих](https://www.youtube.com/playlist?list=PLcDkQ2Au8aVNMLee8b3RN1QXX0ZBZOYJV)
+### [8.Linux для начинающих. DHCP сервер](https://www.youtube.com/watch?v=Aq2FKFEz42A&amp;list=PLcDkQ2Au8aVNMLee8b3RN1QXX0ZBZOYJV&amp;index=8)

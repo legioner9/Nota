@@ -1,0 +1,3 @@
+# [ITVDN](https://www.youtube.com/@ITVDN/playlists?view=1)
+## [Видеокурс по C# Professional](https://www.youtube.com/playlist?list=PLvItDmb0sZw-sOL6sOsEnSJ8etu7Kbgko)
+### [Видео курс C# Professional. Урок 12. Синхронизация при помощи объектов ядра.](https://www.youtube.com/watch?v=DAwhCr3tS-8&amp;list=PLvItDmb0sZw-sOL6sOsEnSJ8etu7Kbgko&amp;index=12)

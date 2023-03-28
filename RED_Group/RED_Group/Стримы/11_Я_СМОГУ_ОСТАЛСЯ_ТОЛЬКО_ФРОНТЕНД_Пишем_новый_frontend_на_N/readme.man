@@ -1,0 +1,3 @@
+# [RED Group](https://www.youtube.com/@REDGroup/playlists)
+## [Стримы](https://www.youtube.com/playlist?list=PLXkonRjGXZwx5mcE0NJ5RsN-dse8u_nBu)
+### [Я СМОГУ! ОСТАЛСЯ ТОЛЬКО ФРОНТЕНД. Пишем новый front-end на [Next.js / GraphQL / Apollo]](https://www.youtube.com/watch?v=pLxqCQSrIvE&amp;list=PLXkonRjGXZwx5mcE0NJ5RsN-dse8u_nBu&amp;index=11)

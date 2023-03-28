@@ -1,0 +1,4 @@
+### [ФЯП: s-выражения](https://www.youtube.com/watch?v=9U5780b0KBQ&amp;list=PLrih0txcjWjFnXU4d2pYfvZJjZdl_ndO-&amp;index=1)
+### [ФЯП: типизированное лямбда-исчисление](https://www.youtube.com/watch?v=gBzGNVhT1NE&amp;list=PLrih0txcjWjFnXU4d2pYfvZJjZdl_ndO-&amp;index=2)
+### [Монады](https://www.youtube.com/watch?v=HB5_9Rara8Y&amp;list=PLrih0txcjWjFnXU4d2pYfvZJjZdl_ndO-&amp;index=3)
+### [Пара слов о функциональном реактивном программировании](https://www.youtube.com/watch?v=u8hseuNcO8g&amp;list=PLrih0txcjWjFnXU4d2pYfvZJjZdl_ndO-&amp;index=4)

@@ -1,0 +1,3 @@
+# [Диджитализируй!](https://www.youtube.com/@t0digital/playlists)
+## [Backend (серверная разработка)](https://www.youtube.com/playlist?list=PLAk6CfuV7hyol0Pvf7gRGnwTk33i5m7Ju)
+### [Рефакторинг и запуск Telegram бота на сервере](https://www.youtube.com/watch?v=N_8eG0Yy7dU&amp;list=PLAk6CfuV7hyol0Pvf7gRGnwTk33i5m7Ju&amp;index=76)

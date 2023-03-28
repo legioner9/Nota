@@ -1,0 +1,8 @@
+### [Selenium Python - # 0 Course Information](https://www.youtube.com/watch?v=nBq6Km8oObw&amp;list=PL6plRXMq5RABXsb0-B0CrWniWBoFZOL20&amp;index=1)
+### [Selenium Python - # 1 Installation and Basic Features](https://www.youtube.com/watch?v=KYaSTWTh0uI&amp;list=PL6plRXMq5RABXsb0-B0CrWniWBoFZOL20&amp;index=2)
+### [Selenium Python - # 2 Working with objects on the page, filling out forms](https://www.youtube.com/watch?v=RfiMUeq4zLk&amp;list=PL6plRXMq5RABXsb0-B0CrWniWBoFZOL20&amp;index=3)
+### [Selenium Python - # 3 User Agents, work in the background and](https://www.youtube.com/watch?v=mt0DlqKEXGg&amp;list=PL6plRXMq5RABXsb0-B0CrWniWBoFZOL20&amp;index=4)
+### [Selenium Python - # 4 Working with proxies](https://www.youtube.com/watch?v=tx5vvJwX-f0&amp;list=PL6plRXMq5RABXsb0-B0CrWniWBoFZOL20&amp;index=5)
+### [Selenium Python - # 5 Working with cookies, importing and exporting cookies](https://www.youtube.com/watch?v=3nj6gSPGiLc&amp;list=PL6plRXMq5RABXsb0-B0CrWniWBoFZOL20&amp;index=6)
+### [Selenium Python - # 6 Conclusion + Bonus](https://www.youtube.com/watch?v=WlBpNgKOv5c&amp;list=PL6plRXMq5RABXsb0-B0CrWniWBoFZOL20&amp;index=7)
+### [Парсинг сайтов на Python | Обходим обнаружение парсера с Selenium Stealth](https://www.youtube.com/watch?v=T-F_rvUAPvg&amp;list=PL6plRXMq5RABXsb0-B0CrWniWBoFZOL20&amp;index=8)

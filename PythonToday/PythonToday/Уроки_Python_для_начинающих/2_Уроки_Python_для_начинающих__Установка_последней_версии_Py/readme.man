@@ -1,0 +1,3 @@
+# [PythonToday](https://www.youtube.com/@PythonToday/playlists)
+## [Уроки Python для начинающих](https://www.youtube.com/playlist?list=PLqGS6O1-DZLq3QreuqnPYHXL0cbQFCXqX)
+### [Уроки Python для начинающих | #Установка последней версии Python на Linux, Ubuntu, Debian](https://www.youtube.com/watch?v=3ai-ZyffnWY&amp;list=PLqGS6O1-DZLq3QreuqnPYHXL0cbQFCXqX&amp;index=2)

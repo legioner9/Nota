@@ -1,0 +1,3 @@
+# [JavaScript.Ninja](https://www.youtube.com/@JavaScriptNinja/playlists)
+## [Обработка ошибок](https://www.youtube.com/playlist?list=PLvTBThJr861xYT3vcMHcvRwwenV_tJ57f)
+### [Обработка ошибок #1: throw away](https://www.youtube.com/watch?v=zOaEH-er-_Q&amp;list=PLvTBThJr861xYT3vcMHcvRwwenV_tJ57f&amp;index=2)

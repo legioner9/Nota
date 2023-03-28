@@ -1,0 +1,3 @@
+# [Volodya Mozhenkov](https://www.youtube.com/@VladimirMozhenkov/playlists?view=1)
+## [паттерны](https://www.youtube.com/playlist?list=PLY7PmJJFH5nTKZtGIkO1vUDVd45FaifBy)
+### [Singleton - избегайте его](https://www.youtube.com/watch?v=-AlFSe_K27A&amp;list=PLY7PmJJFH5nTKZtGIkO1vUDVd45FaifBy&amp;index=1)

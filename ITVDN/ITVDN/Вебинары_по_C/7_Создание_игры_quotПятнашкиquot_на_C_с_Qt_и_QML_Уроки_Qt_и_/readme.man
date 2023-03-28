@@ -1,0 +1,3 @@
+# [ITVDN](https://www.youtube.com/@ITVDN/playlists?view=1)
+## [Вебинары по C++](https://www.youtube.com/playlist?list=PLvItDmb0sZw_0e6pizn_1HOIPn6PovVZ9)
+### [Создание игры &quot;Пятнашки&quot; на C++ с Qt и QML. Уроки Qt и QML. Часть 1](https://www.youtube.com/watch?v=fh0kBMe8ywk&amp;list=PLvItDmb0sZw_0e6pizn_1HOIPn6PovVZ9&amp;index=7)

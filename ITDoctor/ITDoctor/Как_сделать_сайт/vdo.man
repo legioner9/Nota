@@ -1,0 +1,8 @@
+### [Как написать простой калькулятор на Java Script с поддержкой приоритетов](https://www.youtube.com/watch?v=WA3EFIB8-wU&amp;list=PLuY6eeDuleINC98aWpSOHXCqaUkH6vd4K&amp;index=1)
+### [Как создать красивую форму регистрации на сайт HTML+CSS](https://www.youtube.com/watch?v=rnqus_mgLss&amp;list=PLuY6eeDuleINC98aWpSOHXCqaUkH6vd4K&amp;index=2)
+### [Как сделать красивую таблицу на HTML+CSS](https://www.youtube.com/watch?v=sme9os0jRWs&amp;list=PLuY6eeDuleINC98aWpSOHXCqaUkH6vd4K&amp;index=3)
+### [Как сделать красивое горизонтальное меню на сайт за 10 минут на HTML+CSS](https://www.youtube.com/watch?v=EXo9MjGOI44&amp;list=PLuY6eeDuleINC98aWpSOHXCqaUkH6vd4K&amp;index=4)
+### [Как сделать вертикальное меню для сайта на HTML+CSS](https://www.youtube.com/watch?v=wLkEZJHQYlY&amp;list=PLuY6eeDuleINC98aWpSOHXCqaUkH6vd4K&amp;index=5)
+### [Инженерный калькулятор на JavaScript, Апгрейд калькулятора на языке JavaScript](https://www.youtube.com/watch?v=Lreg644eOZY&amp;list=PLuY6eeDuleINC98aWpSOHXCqaUkH6vd4K&amp;index=6)
+### [Как сделать аккордеон на сайт HTML, SCSS, jQuery с нуля](https://www.youtube.com/watch?v=_UoNBZtARVg&amp;list=PLuY6eeDuleINC98aWpSOHXCqaUkH6vd4K&amp;index=7)
+### [Как сделать портфолио с фильтрацией на JavaScript, плагин MixItUp3](https://www.youtube.com/watch?v=og2uO4wDCCY&amp;list=PLuY6eeDuleINC98aWpSOHXCqaUkH6vd4K&amp;index=8)

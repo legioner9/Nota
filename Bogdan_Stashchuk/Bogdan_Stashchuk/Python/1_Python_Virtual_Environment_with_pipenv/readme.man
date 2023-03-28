@@ -1,0 +1,3 @@
+# [Bogdan Stashchuk](https://www.youtube.com/@Bogdan_Stashchuk/playlists)
+## [Python](https://www.youtube.com/playlist?list=PLWkguCWKqN9M-9nkkdjuRYLa2Nbtto914)
+### [Python Virtual Environment with pipenv](https://www.youtube.com/watch?v=GMO7ZtfJDpU&amp;list=PLWkguCWKqN9M-9nkkdjuRYLa2Nbtto914&amp;index=1)

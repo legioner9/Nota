@@ -1,0 +1,3 @@
+# [EngineerSpock - IT & программирование](https://www.youtube.com/@EngineerSpock/playlists)
+## [Шаблоны проектирования на Python](https://www.youtube.com/playlist?list=PLBheEHDcG7-k0eMcAdrzNFgYBf9jua3va)
+### [SOLID принципы на Python: LSP - Принцип подстановки Лисков / Liskov Substitution Principle](https://www.youtube.com/watch?v=bb9HLu_rtyA&amp;list=PLBheEHDcG7-k0eMcAdrzNFgYBf9jua3va&amp;index=6)

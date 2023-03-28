@@ -1,0 +1,3 @@
+# [OTUS Онлайн - образование](https://www.youtube.com/@otus_education/playlists)
+## [Открытые уроки Scala-разработчик](https://www.youtube.com/playlist?list=PLfnFOImnyWRV4gkTAk3sHSORctjjRkNzz)
+### [Событие как основной тип данных в системе // Демо-занятие курса «Scala-разработчик»](https://www.youtube.com/watch?v=2FYlcAQeBhI&amp;list=PLfnFOImnyWRV4gkTAk3sHSORctjjRkNzz&amp;index=3)

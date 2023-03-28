@@ -1,0 +1,3 @@
+# [OTUS Онлайн - образование](https://www.youtube.com/@otus_education/playlists)
+## [Курс | Java Developer Professional](https://www.youtube.com/playlist?list=PLfnFOImnyWRUkY6JaagQsWDrtRBK7gPRd)
+### [Многопоточность в Java. Базовые примитивы синхронизации // бесплатный урок OTUS](https://www.youtube.com/watch?v=SNgipZ8oOK4&amp;list=PLfnFOImnyWRUkY6JaagQsWDrtRBK7gPRd&amp;index=10)

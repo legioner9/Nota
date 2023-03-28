@@ -1,0 +1,4 @@
+### [Конфигурирование web-сервера  // Демо-занятие курса «Administrator Linux.Basic»](https://www.youtube.com/watch?v=yGi3-6TkC0w&amp;list=PLfnFOImnyWRWgPqb1AxWq-yVDj4uxX2wj&amp;index=1)
+### [Bash  Написание простых скриптов // Демо-занятие курса «Administrator Linux.Basic»](https://www.youtube.com/watch?v=TtwrztDBuug&amp;list=PLfnFOImnyWRWgPqb1AxWq-yVDj4uxX2wj&amp;index=2)
+### [Tcpdump // Демо-занятие курса «Administrator Linux.Basic»](https://www.youtube.com/watch?v=9QB7WAYqdxk&amp;list=PLfnFOImnyWRWgPqb1AxWq-yVDj4uxX2wj&amp;index=3)
+### [Iptables // Демо-занятие курса «Administrator Linux.Basic»](https://www.youtube.com/watch?v=wHUYOX_pUek&amp;list=PLfnFOImnyWRWgPqb1AxWq-yVDj4uxX2wj&amp;index=4)

@@ -1,0 +1,3 @@
+# [NetSkills. Видеоуроки. Cisco, zabbix, linux.](https://www.youtube.com/@netskills/playlists)
+## [MikroTik](https://www.youtube.com/playlist?list=PLcDkQ2Au8aVN822_loH42xLuagyBkOUqg)
+### [6.Корпоративная сеть на MikroTik. Резервирование каналов](https://www.youtube.com/watch?v=p8Mc911XBdU&amp;list=PLcDkQ2Au8aVN822_loH42xLuagyBkOUqg&amp;index=6)

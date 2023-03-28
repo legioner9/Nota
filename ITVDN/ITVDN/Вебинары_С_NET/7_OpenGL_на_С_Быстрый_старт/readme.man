@@ -1,0 +1,3 @@
+# [ITVDN](https://www.youtube.com/@ITVDN/playlists?view=1)
+## [Вебинары С# /.NET](https://www.youtube.com/playlist?list=PLvItDmb0sZw_EB7twhsa-zhzA1w_bOIFd)
+### [OpenGL на С#. Быстрый старт.](https://www.youtube.com/watch?v=Ih7gO5TU6dU&amp;list=PLvItDmb0sZw_EB7twhsa-zhzA1w_bOIFd&amp;index=7)

@@ -1,0 +1,3 @@
+# [ITVDN](https://www.youtube.com/@ITVDN/playlists?view=1)
+## [Программирование на платформе UWP](https://www.youtube.com/playlist?list=PLvItDmb0sZw_pOfQkCR6aGiCsMIem1rEa)
+### [Программирование на платформе UWP. Урок 1. Введение в платформу Universal Windows Platform](https://www.youtube.com/watch?v=4vOsZW3tU3k&amp;list=PLvItDmb0sZw_pOfQkCR6aGiCsMIem1rEa&amp;index=1)

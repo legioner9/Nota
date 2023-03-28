@@ -1,0 +1,7 @@
+### [Хamarin. Легкий старт. Урок 1. Введение в Хamarin](https://www.youtube.com/watch?v=99eSo6EhUNM&amp;list=PLvItDmb0sZw8d6icBTk0lt-pqZ3gO7f-Y&amp;index=1)
+### [Хamarin. Легкий старт. Урок 2. Структура проекта](https://www.youtube.com/watch?v=SazEjunq7Co&amp;list=PLvItDmb0sZw8d6icBTk0lt-pqZ3gO7f-Y&amp;index=2)
+### [Хamarin. Легкий старт. Урок 3. Расширения и создание своего элемента UI  для Xamarin Forms](https://www.youtube.com/watch?v=uEQHIDQocjo&amp;list=PLvItDmb0sZw8d6icBTk0lt-pqZ3gO7f-Y&amp;index=3)
+### [Хamarin. Легкий старт. Урок 4. Обзор возможностей Content и Master Detail pages](https://www.youtube.com/watch?v=TvjJLmtpHq4&amp;list=PLvItDmb0sZw8d6icBTk0lt-pqZ3gO7f-Y&amp;index=4)
+### [Хamarin. Легкий старт. Урок 5. Navigation page](https://www.youtube.com/watch?v=DtP8q29Tn-c&amp;list=PLvItDmb0sZw8d6icBTk0lt-pqZ3gO7f-Y&amp;index=5)
+### [Хamarin. Легкий старт. Урок 6. Подключение к облачному сервису Azure](https://www.youtube.com/watch?v=-dkQQ4ty3J0&amp;list=PLvItDmb0sZw8d6icBTk0lt-pqZ3gO7f-Y&amp;index=6)
+### [Хamarin. Легкий старт. Урок 7. Tabbed page](https://www.youtube.com/watch?v=2gRbjFZat7U&amp;list=PLvItDmb0sZw8d6icBTk0lt-pqZ3gO7f-Y&amp;index=7)

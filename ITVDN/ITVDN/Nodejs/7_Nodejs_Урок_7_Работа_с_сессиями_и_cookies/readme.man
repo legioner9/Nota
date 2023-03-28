@@ -1,0 +1,3 @@
+# [ITVDN](https://www.youtube.com/@ITVDN/playlists?view=1)
+## [Node.js](https://www.youtube.com/playlist?list=PLvItDmb0sZw-kihRjYqbnqCk8h1RJZUJu)
+### [Node.js. Урок 7. Работа с сессиями и cookies](https://www.youtube.com/watch?v=4amKSSJUlxs&amp;list=PLvItDmb0sZw-kihRjYqbnqCk8h1RJZUJu&amp;index=7)

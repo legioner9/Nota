@@ -1,0 +1,3 @@
+# [DevOps](https://www.youtube.com/@Devops_Youtube_Channel/playlists)
+## [Git](https://www.youtube.com/playlist?list=PLkKSgP0nEL0Cd50vp3CbfnCGtqJfxBCIr)
+### [3. Статусы файлов в Git:  Staged, Not Staged, Commited / Git/ status/ file/](https://www.youtube.com/watch?v=3Nq4puDfbJ8&amp;list=PLkKSgP0nEL0Cd50vp3CbfnCGtqJfxBCIr&amp;index=3)

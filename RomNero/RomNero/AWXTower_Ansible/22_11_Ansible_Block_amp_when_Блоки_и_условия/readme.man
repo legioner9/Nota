@@ -1,0 +1,3 @@
+# [RomNero](https://www.youtube.com/@RomNero/playlists)
+## [AWX/Tower. Ansible.](https://www.youtube.com/playlist?list=PLqVeG_R3qMSza1YnuD8owbskkieBx7bcs)
+### [11 Ansible: Block &amp; when. Блоки и условия.](https://www.youtube.com/watch?v=MwW2Bt51FS8&amp;list=PLqVeG_R3qMSza1YnuD8owbskkieBx7bcs&amp;index=22)

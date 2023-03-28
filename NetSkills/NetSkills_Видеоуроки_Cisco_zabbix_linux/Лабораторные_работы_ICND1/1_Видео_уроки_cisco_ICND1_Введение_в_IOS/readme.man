@@ -1,0 +1,3 @@
+# [NetSkills. Видеоуроки. Cisco, zabbix, linux.](https://www.youtube.com/@netskills/playlists)
+## [Лабораторные работы ICND1](https://www.youtube.com/playlist?list=PLcDkQ2Au8aVNreEQcp5zga6V-E3jJadhE)
+### [Видео уроки cisco. ICND1. Введение в IOS](https://www.youtube.com/watch?v=SG3jATgd89U&amp;list=PLcDkQ2Au8aVNreEQcp5zga6V-E3jJadhE&amp;index=1)

@@ -1,0 +1,3 @@
+# [ITVDN](https://www.youtube.com/@ITVDN/playlists?view=1)
+## [Автоматизация сборки проектов с помощью Apache Maven](https://www.youtube.com/playlist?list=PLvItDmb0sZw-pVB76mq61qspb9XjqU6kx)
+### [Автоматизация сборки проектов с помощью Apache Maven. Знакомство с Maven. Урок 1](https://www.youtube.com/watch?v=PMifgvG7KS0&amp;list=PLvItDmb0sZw-pVB76mq61qspb9XjqU6kx&amp;index=1)

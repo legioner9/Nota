@@ -1,0 +1,3 @@
+# [ITVDN](https://www.youtube.com/@ITVDN/playlists?view=1)
+## [Scala Starter](https://www.youtube.com/playlist?list=PLvItDmb0sZw8DtWKBXlR_LIDw1o3n2QBC)
+### [Основы Scala на примере первой программы. Scala Starter. Урок 3](https://www.youtube.com/watch?v=Rf2E3UisFwQ&amp;list=PLvItDmb0sZw8DtWKBXlR_LIDw1o3n2QBC&amp;index=3)

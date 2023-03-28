@@ -1,0 +1,3 @@
+### [Установка LEMP стека на машину (ручной инсталл), первая открытая тема курса по Ansible](https://www.youtube.com/watch?v=CRX-lP2MnmU&amp;list=PL8D2P0ruohOB654j4crPB5HFZOrQ2y1hn&amp;index=1)
+### [Установка LEMP стека с помощью Ansible, вторая открытая тема курса по Ansible](https://www.youtube.com/watch?v=0UgNc-f_O5A&amp;list=PL8D2P0ruohOB654j4crPB5HFZOrQ2y1hn&amp;index=2)
+### [Открытое демо по курсу &quot;Ansible: от первых шагов до большого проекта&quot;](https://www.youtube.com/watch?v=yyFdb6hBQqc&amp;list=PL8D2P0ruohOB654j4crPB5HFZOrQ2y1hn&amp;index=3)

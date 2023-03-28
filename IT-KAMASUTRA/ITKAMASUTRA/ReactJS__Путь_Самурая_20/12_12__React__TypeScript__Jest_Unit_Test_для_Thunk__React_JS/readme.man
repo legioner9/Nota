@@ -1,0 +1,3 @@
+# [IT-KAMASUTRA](https://www.youtube.com/@ITKAMASUTRA/playlists?view=1)
+## [ReactJS - Путь Самурая 2.0](https://www.youtube.com/playlist?list=PLcvhF2Wqh7DM3z1XqMw0kPuxpbyMo3HvN)
+### [12 - React + TypeScript / Jest, Unit Test для Thunk / React JS - Путь Самурая 2.0](https://www.youtube.com/watch?v=asJetd53pYw&amp;list=PLcvhF2Wqh7DM3z1XqMw0kPuxpbyMo3HvN&amp;index=12)

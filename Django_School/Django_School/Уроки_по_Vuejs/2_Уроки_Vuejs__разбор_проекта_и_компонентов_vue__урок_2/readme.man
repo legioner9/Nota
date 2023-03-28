@@ -1,0 +1,3 @@
+# [Django School](https://www.youtube.com/@DjangoSchool/playlists?view=1)
+## [Уроки по Vue.js](https://www.youtube.com/playlist?list=PLF-NY6ldwAWrZnUw0szzXuR_Q2TS1upsh)
+### [Уроки Vue.js - разбор проекта и компонентов vue - урок 2](https://www.youtube.com/watch?v=z0t-vuzgnTQ&amp;list=PLF-NY6ldwAWrZnUw0szzXuR_Q2TS1upsh&amp;index=2)

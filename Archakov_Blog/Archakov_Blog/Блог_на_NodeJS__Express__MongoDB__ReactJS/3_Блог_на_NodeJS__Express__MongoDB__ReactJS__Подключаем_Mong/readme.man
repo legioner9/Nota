@@ -1,0 +1,3 @@
+# [Archakov Blog](https://www.youtube.com/@ArchakovBlog/playlists)
+## [Блог на NodeJS + Express + MongoDB + ReactJS](https://www.youtube.com/playlist?list=PL0FGkDGJQjJFUDWa8Wg502hEIlPD7kDMt)
+### [Блог на NodeJS + Express + MongoDB + ReactJS — Подключаем Mongoose #3](https://www.youtube.com/watch?v=5EkUzoCNE0Y&amp;list=PL0FGkDGJQjJFUDWa8Wg502hEIlPD7kDMt&amp;index=3)

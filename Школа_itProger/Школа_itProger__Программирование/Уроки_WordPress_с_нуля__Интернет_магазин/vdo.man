@@ -1,0 +1,4 @@
+### [WordPress Интернет магазин с нуля / Урок #1 – Создание Ecommerce сайта для начинающих](https://www.youtube.com/watch?v=FEwjdBCtCSI&amp;list=PLDyJYA6aTY1kwHPV1cr6qsN7_3dCA-MB8&amp;index=1)
+### [WordPress Интернет магазин с нуля / Урок #2 – Настройка сайта. Установка WooCommerce](https://www.youtube.com/watch?v=nsIQ-pf1bhA&amp;list=PLDyJYA6aTY1kwHPV1cr6qsN7_3dCA-MB8&amp;index=2)
+### [Профессия Back-end разработчик | Презентация онлайн курса](https://www.youtube.com/watch?v=5BSqQTpIMFg&amp;list=PLDyJYA6aTY1kwHPV1cr6qsN7_3dCA-MB8&amp;index=3)
+### [Профессия Full Stack разработчик | Презентация онлайн курса](https://www.youtube.com/watch?v=2HyhmiG5FXc&amp;list=PLDyJYA6aTY1kwHPV1cr6qsN7_3dCA-MB8&amp;index=4)

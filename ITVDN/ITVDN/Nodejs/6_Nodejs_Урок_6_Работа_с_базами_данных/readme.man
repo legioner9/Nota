@@ -1,0 +1,3 @@
+# [ITVDN](https://www.youtube.com/@ITVDN/playlists?view=1)
+## [Node.js](https://www.youtube.com/playlist?list=PLvItDmb0sZw-kihRjYqbnqCk8h1RJZUJu)
+### [Node.js. Урок 6. Работа с базами данных](https://www.youtube.com/watch?v=P87LNAfPtIc&amp;list=PLvItDmb0sZw-kihRjYqbnqCk8h1RJZUJu&amp;index=6)

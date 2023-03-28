@@ -1,0 +1,3 @@
+# [OTUS Онлайн - образование](https://www.youtube.com/@otus_education/playlists)
+## [Курс | Алгоритмы для разработчиков](https://www.youtube.com/playlist?list=PLfnFOImnyWRVXrFznxZIqDGwsxkvih12d)
+### [Секреты динамического программирования // Демо-занятие курса «Алгоритмы и структуры данных»](https://www.youtube.com/watch?v=IK56lZTQa9g&amp;list=PLfnFOImnyWRVXrFznxZIqDGwsxkvih12d&amp;index=17)

@@ -1,0 +1,3 @@
+# [OTUS Онлайн - образование](https://www.youtube.com/@otus_education/playlists)
+## [Курс | AWS для разработчиков](https://www.youtube.com/playlist?list=PLfnFOImnyWRWgDZLsreqiWBxwkBM8w5Bt)
+### [Балансировка нагрузки // Демо-занятие курса «AWS для разработчиков»‎](https://www.youtube.com/watch?v=L3e5bylykOU&amp;list=PLfnFOImnyWRWgDZLsreqiWBxwkBM8w5Bt&amp;index=3)

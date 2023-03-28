@@ -1,0 +1,3 @@
+# [alishev](https://www.youtube.com/@alishevN/playlists)
+## [Spring Framework](https://www.youtube.com/playlist?list=PLAma_mKffTOR5o0WNHnY0mTjKxnCgSXrZ)
+### [Spring Framework. Урок 13: Конфигурация с помощью Java кода.](https://www.youtube.com/watch?v=stuAmyyootQ&amp;list=PLAma_mKffTOR5o0WNHnY0mTjKxnCgSXrZ&amp;index=13)

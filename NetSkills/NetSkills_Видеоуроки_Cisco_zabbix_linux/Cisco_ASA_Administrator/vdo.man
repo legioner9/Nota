@@ -1,0 +1,8 @@
+### [0. Cisco ASA Administrator. Анонс](https://www.youtube.com/watch?v=cvY0kAIWsKY&amp;list=PLcDkQ2Au8aVN4uRzgY04GRRqaWfYi05Qq&amp;index=1)
+### [1. Cisco ASA Administrator. Что такое межсетевой экран?](https://www.youtube.com/watch?v=ZNq3Upvu10o&amp;list=PLcDkQ2Au8aVN4uRzgY04GRRqaWfYi05Qq&amp;index=2)
+### [2. Cisco ASA Administrator. Межсетевые экраны Cisco](https://www.youtube.com/watch?v=6Avo3X1IpHU&amp;list=PLcDkQ2Au8aVN4uRzgY04GRRqaWfYi05Qq&amp;index=3)
+### [3. Cisco ASA Administrator. Подготовка макета (GNS3)](https://www.youtube.com/watch?v=eFotmphqj8A&amp;list=PLcDkQ2Au8aVN4uRzgY04GRRqaWfYi05Qq&amp;index=4)
+### [4. Cisco ASA Administrator. Подготовка макета (EVE-NG)](https://www.youtube.com/watch?v=Lb4lBXexRLQ&amp;list=PLcDkQ2Au8aVN4uRzgY04GRRqaWfYi05Qq&amp;index=5)
+### [5. Cisco ASA Administrator. Начало работы (unboxing)](https://www.youtube.com/watch?v=Y3BDb4clh8g&amp;list=PLcDkQ2Au8aVN4uRzgY04GRRqaWfYi05Qq&amp;index=6)
+### [6. Cisco ASA Administrator. Stateful packet Inspection](https://www.youtube.com/watch?v=Mm2_x5CJgX0&amp;list=PLcDkQ2Au8aVN4uRzgY04GRRqaWfYi05Qq&amp;index=7)
+### [7. Cisco ASA Administrator. Security Level](https://www.youtube.com/watch?v=d6M07FitNoA&amp;list=PLcDkQ2Au8aVN4uRzgY04GRRqaWfYi05Qq&amp;index=8)

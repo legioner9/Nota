@@ -1,0 +1,3 @@
+# [Ulbi TV](https://www.youtube.com/@UlbiTV/playlists)
+## [React Redux Webpack - практический курс.](https://www.youtube.com/playlist?list=PL6DxKON1uLOHTgN679Es1vkCS911i9HJX)
+### [6. React Redux - поиск репозиториев, анимация подгрузки](https://www.youtube.com/watch?v=g4PnYIUnkwA&amp;list=PL6DxKON1uLOHTgN679Es1vkCS911i9HJX&amp;index=6)

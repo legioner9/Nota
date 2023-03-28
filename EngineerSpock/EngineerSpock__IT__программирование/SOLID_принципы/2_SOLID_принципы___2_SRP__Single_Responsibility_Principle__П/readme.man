@@ -1,0 +1,3 @@
+# [EngineerSpock - IT & программирование](https://www.youtube.com/@EngineerSpock/playlists)
+## [SOLID принципы](https://www.youtube.com/playlist?list=PLBheEHDcG7-nJsPVaejwcth7r9WhWWPdI)
+### [SOLID принципы / # 2 SRP - Single Responsibility Principle / Принцип единственной ответственности](https://www.youtube.com/watch?v=lWA4GuksfsA&amp;list=PLBheEHDcG7-nJsPVaejwcth7r9WhWWPdI&amp;index=2)

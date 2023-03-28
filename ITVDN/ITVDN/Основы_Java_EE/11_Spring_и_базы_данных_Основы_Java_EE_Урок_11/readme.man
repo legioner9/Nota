@@ -1,0 +1,3 @@
+# [ITVDN](https://www.youtube.com/@ITVDN/playlists?view=1)
+## [Основы Java EE](https://www.youtube.com/playlist?list=PLvItDmb0sZw8IEZsTMCvcuQhqU_t-v8Y1)
+### [Spring и базы данных. Основы Java EE. Урок 11](https://www.youtube.com/watch?v=9n7D4mo66hk&amp;list=PLvItDmb0sZw8IEZsTMCvcuQhqU_t-v8Y1&amp;index=11)

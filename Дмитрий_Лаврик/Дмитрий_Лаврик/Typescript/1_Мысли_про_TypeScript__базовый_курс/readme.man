@@ -1,0 +1,3 @@
+# [Дмитрий Лаврик](https://www.youtube.com/@dmitrylavrik/playlists)
+## [Typescript](https://www.youtube.com/playlist?list=PLyeqauxei6jewgKxQ_7OrhTmN6ox-w17q)
+### [Мысли про TypeScript + базовый курс](https://www.youtube.com/watch?v=n-2woZ4WV0Y&amp;list=PLyeqauxei6jewgKxQ_7OrhTmN6ox-w17q&amp;index=1)

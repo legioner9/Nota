@@ -1,0 +1,3 @@
+# [ITDoctor](https://www.youtube.com/@ITDoctor/playlists?view=1&sort=dd&shelf_id=0)
+## [Уроки по HTML](https://www.youtube.com/playlist?list=PLuY6eeDuleIMjV7Kff8yf8RA-XwjXVGgl)
+### [#18 Как создать маркированный список тег UL и LI](https://www.youtube.com/watch?v=c3cNYM_4Esc&amp;list=PLuY6eeDuleIMjV7Kff8yf8RA-XwjXVGgl&amp;index=19)

@@ -1,0 +1,5 @@
+### [Tmux — что это и зачем? Обзор и урок tmux](https://www.youtube.com/watch?v=1Y2CD4WnbP0&amp;list=PLAk6CfuV7hyq4NeNn8gJt8OEpPisPh_Fr&amp;index=1)
+### [Запуск среды разработки в tmux](https://www.youtube.com/watch?v=P10cuGj-J8E&amp;list=PLAk6CfuV7hyq4NeNn8gJt8OEpPisPh_Fr&amp;index=2)
+### [Настраиваем tmux по хардкору! Копирование из tmux, статус бар, цвета, hot keys](https://www.youtube.com/watch?v=LkFtvMzMwjw&amp;list=PLAk6CfuV7hyq4NeNn8gJt8OEpPisPh_Fr&amp;index=3)
+### [Программирую на телефоне. Почему надо знать Linux, vim, tmux? Твой Windows &amp; IDE так не умеют](https://www.youtube.com/watch?v=2Dv61Gz3M4Q&amp;list=PLAk6CfuV7hyq4NeNn8gJt8OEpPisPh_Fr&amp;index=4)
+### [Tmux буферы, скролинг и копирование текста](https://www.youtube.com/watch?v=s3kN5H87W_E&amp;list=PLAk6CfuV7hyq4NeNn8gJt8OEpPisPh_Fr&amp;index=5)

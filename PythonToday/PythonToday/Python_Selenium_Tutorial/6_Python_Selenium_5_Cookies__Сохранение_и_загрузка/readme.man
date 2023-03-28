@@ -1,0 +1,3 @@
+# [PythonToday](https://www.youtube.com/@PythonToday/playlists)
+## [Python Selenium Tutorial](https://www.youtube.com/playlist?list=PLqGS6O1-DZLp1kgiQNpueIMCHRNzgHa1r)
+### [Python Selenium #5 Cookies | Сохранение и загрузка](https://www.youtube.com/watch?v=dO7BZklUUhU&amp;list=PLqGS6O1-DZLp1kgiQNpueIMCHRNzgHa1r&amp;index=6)

@@ -1,0 +1,7 @@
+### [Как настроить BGP с подключением к двум интернет-провайдерам](https://www.youtube.com/watch?v=SnacFUevgXw&amp;list=PLMiVLClzZDbSIRXqa7j-ufpeI3KpcdI4z&amp;index=1)
+### [Как настроить фильтрацию маршрутов BGP на основании атрибута AS_PATH](https://www.youtube.com/watch?v=EI1PD0Zl6Yc&amp;list=PLMiVLClzZDbSIRXqa7j-ufpeI3KpcdI4z&amp;index=2)
+### [Как настроить манипулирование маршрутами BGP на основании AS_PATH](https://www.youtube.com/watch?v=scOqakOHKlY&amp;list=PLMiVLClzZDbSIRXqa7j-ufpeI3KpcdI4z&amp;index=3)
+### [Как настроить Next Hop Self: изменение поведения BGP по умолчанию](https://www.youtube.com/watch?v=VpLMasJgbdw&amp;list=PLMiVLClzZDbSIRXqa7j-ufpeI3KpcdI4z&amp;index=4)
+### [Как настроить суммирование маршрутов (Route Summarization) в BGP на Cisco](https://www.youtube.com/watch?v=5csIm6Ul7Go&amp;list=PLMiVLClzZDbSIRXqa7j-ufpeI3KpcdI4z&amp;index=5)
+### [BGP Backdoor: как настроить резервирование маршрутов на Cisco](https://www.youtube.com/watch?v=gk3wTm9QSzM&amp;list=PLMiVLClzZDbSIRXqa7j-ufpeI3KpcdI4z&amp;index=6)
+### [Как настроить eBGP Multihop на Cisco](https://www.youtube.com/watch?v=pFJXe7kR2kY&amp;list=PLMiVLClzZDbSIRXqa7j-ufpeI3KpcdI4z&amp;index=7)

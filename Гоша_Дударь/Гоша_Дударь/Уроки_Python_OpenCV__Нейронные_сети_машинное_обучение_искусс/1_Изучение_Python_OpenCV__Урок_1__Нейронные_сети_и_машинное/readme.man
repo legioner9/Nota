@@ -1,0 +1,3 @@
+# [Гоша Дударь](https://www.youtube.com/@gosha_dudar/playlists?view=1)
+## [Уроки Python OpenCV / Нейронные сети, машинное обучение, искусственный интеллект](https://www.youtube.com/playlist?list=PL0lO_mIqDDFUAQ2RdAgLp6Tj_fREcxk6T)
+### [Изучение Python OpenCV / Урок #1 – Нейронные сети и машинное обучение](https://www.youtube.com/watch?v=_23gclr91P4&amp;list=PL0lO_mIqDDFUAQ2RdAgLp6Tj_fREcxk6T&amp;index=1)

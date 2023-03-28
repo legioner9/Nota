@@ -1,0 +1,4 @@
+### [Vue.JS. Быстрый старт // Демо-занятие курса «Vue.js разработчик»](https://www.youtube.com/watch?v=UTPYjVJLTSo&amp;list=PLfnFOImnyWRVMss91DD-q2_FjP8uR4aaw&amp;index=1)
+### [Обзор возможностей Vue3 // Демо-занятие курса «Vue.js разработчик»](https://www.youtube.com/watch?v=TSIA4vYXhhU&amp;list=PLfnFOImnyWRVMss91DD-q2_FjP8uR4aaw&amp;index=2)
+### [Demo Day курса «Vue js разработчик»](https://www.youtube.com/watch?v=4tTQAT9fCic&amp;list=PLfnFOImnyWRVMss91DD-q2_FjP8uR4aaw&amp;index=3)
+### [DatePicker // Демо-занятие курса «Vue.js разработчик»](https://www.youtube.com/watch?v=XR9owq46gyQ&amp;list=PLfnFOImnyWRVMss91DD-q2_FjP8uR4aaw&amp;index=4)

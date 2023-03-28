@@ -1,0 +1,3 @@
+# [luchanos](https://www.youtube.com/@luchanos/playlists?view=1&sort=dd&shelf_id=0)
+## [PYTEST ТЕСТИРОВАНИЕ](https://www.youtube.com/playlist?list=PLlKID9PnOE5hCuNW8L-qxC12U7WPWG6YS)
+### [PYTEST ИСПОЛЬЗОВАНИЕ ФИКСТУР (FIXTURE) В ТЕСТАХ PYTHON](https://www.youtube.com/watch?v=6Szh-qz4jvw&amp;list=PLlKID9PnOE5hCuNW8L-qxC12U7WPWG6YS&amp;index=7)

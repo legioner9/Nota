@@ -1,0 +1,3 @@
+# [ITVDN](https://www.youtube.com/@ITVDN/playlists?view=1)
+## [Практики и инструменты DevOps](https://www.youtube.com/playlist?list=PLvItDmb0sZw_xTNDv8Bb1fsivN_Z_4oo9)
+### [Практики и инструменты DevOps. Урок 6. Release Management](https://www.youtube.com/watch?v=UIkGd74pHgU&amp;list=PLvItDmb0sZw_xTNDv8Bb1fsivN_Z_4oo9&amp;index=6)

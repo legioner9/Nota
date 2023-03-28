@@ -1,0 +1,3 @@
+# [Mikrotik Training](https://www.youtube.com/@MikrotikTraining/playlists)
+## [Главная](https://www.youtube.com/playlist?list=PLg90hRDCH9A5TlwaXO2sB5AQP8yNmkiBn)
+### [Уточнения Packet Flow Diagram](https://www.youtube.com/watch?v=XNdPSKAyTf8&amp;list=PLg90hRDCH9A5TlwaXO2sB5AQP8yNmkiBn&amp;index=64)

@@ -1,0 +1,3 @@
+# [Гоша Дударь](https://www.youtube.com/@gosha_dudar/playlists?view=1)
+## [Практика React JS / Создание ВЕБ МАГАЗИНА (eCommerce) с нуля](https://www.youtube.com/playlist?list=PL0lO_mIqDDFVfIjOW2NsBaDYXB_ZwDB0p)
+### [Практика React JS #4 – Создание корзины](https://www.youtube.com/watch?v=JyU2RbwYxJA&amp;list=PL0lO_mIqDDFVfIjOW2NsBaDYXB_ZwDB0p&amp;index=4)

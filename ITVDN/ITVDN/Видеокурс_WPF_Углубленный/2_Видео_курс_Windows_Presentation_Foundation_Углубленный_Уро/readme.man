@@ -1,0 +1,3 @@
+# [ITVDN](https://www.youtube.com/@ITVDN/playlists?view=1)
+## [Видеокурс WPF Углубленный](https://www.youtube.com/playlist?list=PLvItDmb0sZw_4TkjSAf0vqeLkCeMQqoBU)
+### [Видео курс Windows Presentation Foundation Углубленный. Урок 2. Geometry и класс Visual.](https://www.youtube.com/watch?v=UR-epC6sehQ&amp;list=PLvItDmb0sZw_4TkjSAf0vqeLkCeMQqoBU&amp;index=2)

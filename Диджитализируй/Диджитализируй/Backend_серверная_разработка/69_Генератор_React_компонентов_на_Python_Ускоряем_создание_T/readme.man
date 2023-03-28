@@ -1,0 +1,3 @@
+# [Диджитализируй!](https://www.youtube.com/@t0digital/playlists)
+## [Backend (серверная разработка)](https://www.youtube.com/playlist?list=PLAk6CfuV7hyol0Pvf7gRGnwTk33i5m7Ju)
+### [Генератор React компонентов на Python. Ускоряем создание TypeScript React компонентов с vim &amp; python](https://www.youtube.com/watch?v=zU1kf3Qjtdk&amp;list=PLAk6CfuV7hyol0Pvf7gRGnwTk33i5m7Ju&amp;index=69)

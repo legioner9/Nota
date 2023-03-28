@@ -1,0 +1,3 @@
+# [Билял Хасенов – Excel, VBA & More](https://www.youtube.com/@BilyalKhassenov/playlists?view=58)
+## [Экспресс-Курс VBA](https://www.youtube.com/playlist?list=PLsPotgU_ELTrsuNLrWYmIdu_3W1VM-jzm)
+### [Макросы VBA, запускающиеся при открытии, закрытии и прочих событиях (Серия VBA 14)](https://www.youtube.com/watch?v=YRnYbkx3FZ8&amp;list=PLsPotgU_ELTrsuNLrWYmIdu_3W1VM-jzm&amp;index=14)

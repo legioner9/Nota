@@ -1,0 +1,3 @@
+# [ITVDN](https://www.youtube.com/@ITVDN/playlists?view=1)
+## [Django](https://www.youtube.com/playlist?list=PLvItDmb0sZw-Nl6Dainjur9yVZMKdkIqP)
+### [Django. Урок 2.  Маршрутизация. Запросы и ответы сервера](https://www.youtube.com/watch?v=hxxD6mKZKBU&amp;list=PLvItDmb0sZw-Nl6Dainjur9yVZMKdkIqP&amp;index=2)

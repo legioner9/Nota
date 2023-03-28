@@ -1,0 +1,3 @@
+# [DevOps](https://www.youtube.com/@Devops_Youtube_Channel/playlists)
+## [Мониторинговые системы (Zabbix)](https://www.youtube.com/playlist?list=PLkKSgP0nEL0Avu98ccNINurBaDgVO-wPV)
+### [2. Как добавлять L2 свитчи в Zabbix 6.0? / Zabbix 6.0 / Switch / SNR / Zyxel](https://www.youtube.com/watch?v=n5AcjVFX5Rw&amp;list=PLkKSgP0nEL0Avu98ccNINurBaDgVO-wPV&amp;index=2)

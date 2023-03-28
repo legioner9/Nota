@@ -1,0 +1,3 @@
+# [OTUS Онлайн - образование](https://www.youtube.com/@otus_education/playlists)
+## [Курс | OCAJP](https://www.youtube.com/playlist?list=PLfnFOImnyWRXMHv1IcCx7qq-Pg-BXpu7d)
+### [Типы данных Java и Идентификаторы  // Подготовка к сертификации Oracle Java Programmer (OCAJP)](https://www.youtube.com/watch?v=_b4gUoQG-HY&amp;list=PLfnFOImnyWRXMHv1IcCx7qq-Pg-BXpu7d&amp;index=3)

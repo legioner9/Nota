@@ -1,0 +1,3 @@
+# [ITDoctor](https://www.youtube.com/@ITDoctor/playlists?view=1&sort=dd&shelf_id=0)
+## [PHP Уроки с нуля](https://www.youtube.com/playlist?list=PLuY6eeDuleIN_pFzp1vlu0PD3KXUrPTVS)
+### [#50 Уроки PHP - Учим язык PHP, Загрузка файлов на сервер на языке PHP](https://www.youtube.com/watch?v=P1gYIiEvw10&amp;list=PLuY6eeDuleIN_pFzp1vlu0PD3KXUrPTVS&amp;index=50)

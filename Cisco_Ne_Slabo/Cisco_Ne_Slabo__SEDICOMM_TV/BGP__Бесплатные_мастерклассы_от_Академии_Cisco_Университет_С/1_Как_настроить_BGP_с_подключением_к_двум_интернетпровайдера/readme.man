@@ -1,0 +1,3 @@
+# [Cisco Ne Slabo / SEDICOMM TV](https://www.youtube.com/@cisconeslabo/playlists)
+## [BGP — Бесплатные мастер-классы от Академии Cisco Университет СЭДИКОММ](https://www.youtube.com/playlist?list=PLMiVLClzZDbSIRXqa7j-ufpeI3KpcdI4z)
+### [Как настроить BGP с подключением к двум интернет-провайдерам](https://www.youtube.com/watch?v=SnacFUevgXw&amp;list=PLMiVLClzZDbSIRXqa7j-ufpeI3KpcdI4z&amp;index=1)

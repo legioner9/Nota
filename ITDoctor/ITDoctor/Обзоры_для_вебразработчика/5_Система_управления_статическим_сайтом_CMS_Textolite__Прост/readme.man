@@ -1,0 +1,3 @@
+# [ITDoctor](https://www.youtube.com/@ITDoctor/playlists?view=1&sort=dd&shelf_id=0)
+## [Обзоры для веб-разработчика](https://www.youtube.com/playlist?list=PLuY6eeDuleIOq9sXC3Hnj8KrCsP1egO6T)
+### [Система управления статическим сайтом CMS Textolite - Простая админка для статического сайта](https://www.youtube.com/watch?v=u0fyGh4W-n0&amp;list=PLuY6eeDuleIOq9sXC3Hnj8KrCsP1egO6T&amp;index=5)

@@ -1,0 +1,3 @@
+# [ITVDN](https://www.youtube.com/@ITVDN/playlists?view=1)
+## [Создание SPA на Angular 6](https://www.youtube.com/playlist?list=PLvItDmb0sZw_KaaeA1t9ix8FmJZFPHZbl)
+### [Создание SPA на Angular 6. Построение меню и навигации. Урок 3](https://www.youtube.com/watch?v=mn4uTCoggbA&amp;list=PLvItDmb0sZw_KaaeA1t9ix8FmJZFPHZbl&amp;index=3)

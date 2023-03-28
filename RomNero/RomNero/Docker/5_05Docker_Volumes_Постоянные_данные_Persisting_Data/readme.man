@@ -1,0 +1,3 @@
+# [RomNero](https://www.youtube.com/@RomNero/playlists)
+## [Docker](https://www.youtube.com/playlist?list=PLqVeG_R3qMSwjnkMUns_Yc4zF_PtUZmB-)
+### [05-Docker: Volumes. Постоянные данные. Persisting Data.](https://www.youtube.com/watch?v=N4jWZUVz740&amp;list=PLqVeG_R3qMSwjnkMUns_Yc4zF_PtUZmB-&amp;index=5)

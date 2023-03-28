@@ -1,0 +1,3 @@
+# [ITVDN](https://www.youtube.com/@ITVDN/playlists?view=1)
+## [C++ Advanced](https://www.youtube.com/playlist?list=PLvItDmb0sZw_O73I5vC_6NZKsOcTBpXNw)
+### [C++ Advanced. Функторы. Урок 2](https://www.youtube.com/watch?v=EWAKAfVd8eQ&amp;list=PLvItDmb0sZw_O73I5vC_6NZKsOcTBpXNw&amp;index=2)

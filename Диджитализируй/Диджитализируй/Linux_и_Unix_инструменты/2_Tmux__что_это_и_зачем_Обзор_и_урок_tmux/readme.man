@@ -1,0 +1,3 @@
+# [Диджитализируй!](https://www.youtube.com/@t0digital/playlists)
+## [Linux и Unix инструменты](https://www.youtube.com/playlist?list=PLAk6CfuV7hyqHyQVHZMQRihAfebXpxn2O)
+### [Tmux — что это и зачем? Обзор и урок tmux](https://www.youtube.com/watch?v=1Y2CD4WnbP0&amp;list=PLAk6CfuV7hyqHyQVHZMQRihAfebXpxn2O&amp;index=2)

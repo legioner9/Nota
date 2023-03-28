@@ -1,0 +1,3 @@
+# [OTUS Онлайн - образование](https://www.youtube.com/@otus_education/playlists)
+## [Курс | PHP Developer. Professional](https://www.youtube.com/playlist?list=PLfnFOImnyWRVMrvaNpPJJaLVbBS3JQjIm)
+### [Framework Laravel и Backend разработчик на PHP // День открытых дверей OTUS](https://www.youtube.com/watch?v=b7RuAZUQb2Y&amp;list=PLfnFOImnyWRVMrvaNpPJJaLVbBS3JQjIm&amp;index=14)

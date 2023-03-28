@@ -1,0 +1,3 @@
+# [Школа itProger / Программирование](https://www.youtube.com/@itproger/playlists?view=1)
+## [Уроки JavaScript для начинающих с нуля!](https://www.youtube.com/playlist?list=PLDyJYA6aTY1kJIwbYHzGOuvSMNTfqksmk)
+### [Уроки JavaScript для начинающих / #14 – Создание объектов. Встроенные функции](https://www.youtube.com/watch?v=jtw15FBCETE&amp;list=PLDyJYA6aTY1kJIwbYHzGOuvSMNTfqksmk&amp;index=14)

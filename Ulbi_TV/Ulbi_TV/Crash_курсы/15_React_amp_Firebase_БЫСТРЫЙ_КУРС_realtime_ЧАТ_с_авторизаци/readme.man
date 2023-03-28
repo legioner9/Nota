@@ -1,0 +1,3 @@
+# [Ulbi TV](https://www.youtube.com/@UlbiTV/playlists)
+## [Crash курсы](https://www.youtube.com/playlist?list=PL6DxKON1uLOGtX2_vuBk-Z5Fzbm-DY0y1)
+### [React &amp; Firebase БЫСТРЫЙ КУРС real-time ЧАТ с авторизацией через Google](https://www.youtube.com/watch?v=12kgyxvsxUs&amp;list=PL6DxKON1uLOGtX2_vuBk-Z5Fzbm-DY0y1&amp;index=15)

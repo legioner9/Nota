@@ -1,0 +1,3 @@
+# [Volodya Mozhenkov](https://www.youtube.com/@VladimirMozhenkov/playlists?view=1)
+## [базы данных](https://www.youtube.com/playlist?list=PLY7PmJJFH5nT-lbFKxfbp3rw5BBuq5Azo)
+### [SQL инъекция](https://www.youtube.com/watch?v=juLLm8q1BNY&amp;list=PLY7PmJJFH5nT-lbFKxfbp3rw5BBuq5Azo&amp;index=2)

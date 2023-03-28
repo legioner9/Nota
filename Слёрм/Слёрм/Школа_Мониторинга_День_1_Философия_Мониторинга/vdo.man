@@ -1,0 +1,6 @@
+### [Школа мониторинга: «Овервью 1 дня»](https://www.youtube.com/watch?v=jWvUdlKnnmM&amp;list=PL8D2P0ruohOC91gmFp1R091RGgTr3CT_f&amp;index=1)
+### [Школа мониторинга: «Добро пожаловать в мир observability»](https://www.youtube.com/watch?v=EDD5VtkFz_4&amp;list=PL8D2P0ruohOC91gmFp1R091RGgTr3CT_f&amp;index=2)
+### [Школа мониторинга: «Начинаем внедрять мониторинг, без боли, регистрации и смс»](https://www.youtube.com/watch?v=ASPpBpwJg1M&amp;list=PL8D2P0ruohOC91gmFp1R091RGgTr3CT_f&amp;index=3)
+### [Школа мониторинга: «Мониторинг — головная боль техдира»](https://www.youtube.com/watch?v=4RFlUvSQZ9w&amp;list=PL8D2P0ruohOC91gmFp1R091RGgTr3CT_f&amp;index=4)
+### [Школа мониторинга: «Горшочек, не вари! Сколько алертов вам нужно?»](https://www.youtube.com/watch?v=JJEogCETAUg&amp;list=PL8D2P0ruohOC91gmFp1R091RGgTr3CT_f&amp;index=5)
+### [Школа мониторинга: «Организация мониторинга со стороны команды и процессов»](https://www.youtube.com/watch?v=008Tjo13xWQ&amp;list=PL8D2P0ruohOC91gmFp1R091RGgTr3CT_f&amp;index=6)

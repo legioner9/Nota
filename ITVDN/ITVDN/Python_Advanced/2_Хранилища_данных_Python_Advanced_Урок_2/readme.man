@@ -1,0 +1,3 @@
+# [ITVDN](https://www.youtube.com/@ITVDN/playlists?view=1)
+## [Python Advanced](https://www.youtube.com/playlist?list=PLvItDmb0sZw-j1dHo76Yhhb5aD48DmUZu)
+### [Хранилища данных. Python Advanced. Урок 2](https://www.youtube.com/watch?v=T9wcXY2H18Q&amp;list=PLvItDmb0sZw-j1dHo76Yhhb5aD48DmUZu&amp;index=2)

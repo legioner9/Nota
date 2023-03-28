@@ -1,0 +1,3 @@
+# [RED Group](https://www.youtube.com/@REDGroup/playlists)
+## [Уроки по React](https://www.youtube.com/playlist?list=PLXkonRjGXZwzL7roeExkrkaMZ2MWPAaEN)
+### [⚛️ REACT с нуля за 5 часов! React js урок для начинающих + TypeScript - RED Test](https://www.youtube.com/watch?v=eU1sAk5l4xQ&amp;list=PLXkonRjGXZwzL7roeExkrkaMZ2MWPAaEN&amp;index=9)

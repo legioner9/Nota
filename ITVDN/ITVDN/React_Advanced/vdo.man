@@ -1,0 +1,6 @@
+### [React Advanced. Урок 1. Redux Introduction](https://www.youtube.com/watch?v=a7lIUAYEzg4&amp;list=PLvItDmb0sZw9CbcmbrRsdWSxPcr3qi4eZ&amp;index=1)
+### [React Advanced. Урок 2. Настройка окружения](https://www.youtube.com/watch?v=QrNO9bV5ls4&amp;list=PLvItDmb0sZw9CbcmbrRsdWSxPcr3qi4eZ&amp;index=2)
+### [React Advanced. Урок 3. Redux practice. Part 1](https://www.youtube.com/watch?v=Lh_hjde74aA&amp;list=PLvItDmb0sZw9CbcmbrRsdWSxPcr3qi4eZ&amp;index=3)
+### [React Advanced. Урок 4. Redux practice. Part 2](https://www.youtube.com/watch?v=axZYUYNJe9c&amp;list=PLvItDmb0sZw9CbcmbrRsdWSxPcr3qi4eZ&amp;index=4)
+### [React Advanced. Урок 5. Redux – final part](https://www.youtube.com/watch?v=JElHGN1eFHg&amp;list=PLvItDmb0sZw9CbcmbrRsdWSxPcr3qi4eZ&amp;index=5)
+### [React Advanced. Урок 6. Оптимизация и производительность React приложений](https://www.youtube.com/watch?v=5RceFAa00JI&amp;list=PLvItDmb0sZw9CbcmbrRsdWSxPcr3qi4eZ&amp;index=6)

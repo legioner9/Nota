@@ -1,0 +1,3 @@
+# [ITVDN](https://www.youtube.com/@ITVDN/playlists?view=1)
+## [Ruby Advanced](https://www.youtube.com/playlist?list=PLvItDmb0sZw_aBz3KSV5FPfPw_g8OSS3h)
+### [Ruby Advanced. Урок 6. Работа с файлами](https://www.youtube.com/watch?v=kQYZgp_Mf_Q&amp;list=PLvItDmb0sZw_aBz3KSV5FPfPw_g8OSS3h&amp;index=6)

@@ -1,0 +1,3 @@
+# [NetSkills. Видеоуроки. Cisco, zabbix, linux.](https://www.youtube.com/@netskills/playlists)
+## [Курс UNetLab](https://www.youtube.com/playlist?list=PLcDkQ2Au8aVOgp32gj7yETU5R3NMBL8cu)
+### [6.UNetLab. Компьютер в сетевой топологии - VPCS](https://www.youtube.com/watch?v=bGQG3R7gYqw&amp;list=PLcDkQ2Au8aVOgp32gj7yETU5R3NMBL8cu&amp;index=6)

@@ -1,0 +1,3 @@
+# [Гоша Дударь](https://www.youtube.com/@gosha_dudar/playlists?view=1)
+## [Уроки React Native для начинающих / Мобильное приложение на JavaScript](https://www.youtube.com/playlist?list=PL0lO_mIqDDFWPVIWdB7tjU5aznqXAXvLL)
+### [Изучение React Native / Урок #8 – Добавление дизайна к приложению](https://www.youtube.com/watch?v=cQpYw4tCo1k&amp;list=PL0lO_mIqDDFWPVIWdB7tjU5aznqXAXvLL&amp;index=8)

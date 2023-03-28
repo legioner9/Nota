@@ -1,0 +1,3 @@
+# [OTUS Онлайн - образование](https://www.youtube.com/@otus_education/playlists)
+## [Открытые уроки Мобильная разработка на Flutter](https://www.youtube.com/playlist?list=PLfnFOImnyWRW6fjFVuhxSnBl5SJtYXsf-)
+### [Создаем приложение с управлением сложными жестами (как в Opera) // курс «Flutter Mobile Developer»](https://www.youtube.com/watch?v=35B_iCUp_mA&amp;list=PLfnFOImnyWRW6fjFVuhxSnBl5SJtYXsf-&amp;index=9)

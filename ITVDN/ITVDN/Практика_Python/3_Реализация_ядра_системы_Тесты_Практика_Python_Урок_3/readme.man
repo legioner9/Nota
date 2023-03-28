@@ -1,0 +1,3 @@
+# [ITVDN](https://www.youtube.com/@ITVDN/playlists?view=1)
+## [Практика Python](https://www.youtube.com/playlist?list=PLvItDmb0sZw_oEV5T2xER_IrtVgNthLPI)
+### [Реализация ядра системы. Тесты. Практика Python. Урок 3](https://www.youtube.com/watch?v=XPBRe00nFwk&amp;list=PLvItDmb0sZw_oEV5T2xER_IrtVgNthLPI&amp;index=3)

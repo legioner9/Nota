@@ -1,0 +1,7 @@
+### [Уроки Android разработки / #1 - Создание чат программы на Андроид](https://www.youtube.com/watch?v=RABVeBSPqYo&amp;list=PL0lO_mIqDDFUXOmQ5c6hurb2Nqvc1uCxe&amp;index=1)
+### [Уроки Android разработки / #2 - Подключение Firebase базы данных](https://www.youtube.com/watch?v=Q9FxYm8-u7w&amp;list=PL0lO_mIqDDFUXOmQ5c6hurb2Nqvc1uCxe&amp;index=2)
+### [Уроки Android разработки / #3 - Создание дизайна программы](https://www.youtube.com/watch?v=2BSNl0mnt7A&amp;list=PL0lO_mIqDDFUXOmQ5c6hurb2Nqvc1uCxe&amp;index=3)
+### [Уроки Android разработки / #4 - Работа с БД и создание чата с перепиской](https://www.youtube.com/watch?v=gFtajvZajrg&amp;list=PL0lO_mIqDDFUXOmQ5c6hurb2Nqvc1uCxe&amp;index=4)
+### [Уроки Android разработки / #5 - Красивый дизайн сообщений](https://www.youtube.com/watch?v=zSayvMcZaik&amp;list=PL0lO_mIqDDFUXOmQ5c6hurb2Nqvc1uCxe&amp;index=5)
+### [Уроки Android разработки / #6 - Добавляем Emoji в Android программу](https://www.youtube.com/watch?v=62nsM5Oe7Yw&amp;list=PL0lO_mIqDDFUXOmQ5c6hurb2Nqvc1uCxe&amp;index=6)
+### [Профессия Java разработчик | Презентация онлайн курса](https://www.youtube.com/watch?v=nCfqKi0NjXM&amp;list=PL0lO_mIqDDFUXOmQ5c6hurb2Nqvc1uCxe&amp;index=7)

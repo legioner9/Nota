@@ -1,0 +1,3 @@
+# [OTUS Онлайн - образование](https://www.youtube.com/@otus_education/playlists)
+## [Курс | Практикум по Kali Linux](https://www.youtube.com/playlist?list=PLfnFOImnyWRVCC5-2SvYA7UMeP9WwqP_N)
+### [Denial of Service атаки и защита от них // Демо-занятие курса «Практикум по Kali Linux»](https://www.youtube.com/watch?v=63ulYbv3vHw&amp;list=PLfnFOImnyWRVCC5-2SvYA7UMeP9WwqP_N&amp;index=2)

@@ -1,0 +1,3 @@
+# [ITVDN](https://www.youtube.com/@ITVDN/playlists?view=1)
+## [UWP Community Toolkit Advanced](https://www.youtube.com/playlist?list=PLvItDmb0sZw8gnth-n7t_p30uq0l99DtV)
+### [UWP Расширения- ViewExtension, VisualTree, WebView. UWP Community Toolkit Advanced. Урок 3.](https://www.youtube.com/watch?v=Y983hEMoWMY&amp;list=PLvItDmb0sZw8gnth-n7t_p30uq0l99DtV&amp;index=3)

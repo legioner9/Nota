@@ -1,0 +1,3 @@
+# [OTUS Онлайн - образование](https://www.youtube.com/@otus_education/playlists)
+## [Курс | Архитектура и шаблоны проектирования](https://www.youtube.com/playlist?list=PLfnFOImnyWRX1Oo4F9zSqxUQh14T9mRDL)
+### [Обработка исключений и SOLID // Демо-занятие курса «Архитектура и шаблоны проектирования»](https://www.youtube.com/watch?v=ofEOCd7eICY&amp;list=PLfnFOImnyWRX1Oo4F9zSqxUQh14T9mRDL&amp;index=3)

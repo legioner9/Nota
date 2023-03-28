@@ -1,0 +1,3 @@
+# [ITVDN](https://www.youtube.com/@ITVDN/playlists?view=1)
+## [Java Professional](https://www.youtube.com/playlist?list=PLvItDmb0sZw-NCZgLKsjtMQS8CvxN13II)
+### [Java 8. Lambdas, Stream API, Optional. Java Professional. Урок 15](https://www.youtube.com/watch?v=dqytf8Ncg9o&amp;list=PLvItDmb0sZw-NCZgLKsjtMQS8CvxN13II&amp;index=15)

@@ -1,0 +1,8 @@
+### [БАЗОВЫЕ КОНЦЕПЦИИ УСТРОЙСТВА TELEGRAM-БОТОВ НА PYTHON](https://www.youtube.com/watch?v=nIWJqrspXRM&amp;list=PLlKID9PnOE5i8kDKcC8pgaM07TTdRB6Au&amp;index=1)
+### [БОТ ДЛЯ ЗАДАЛБЫВАЮЩИХ НАПОМИНАЛОК. СИСТЕМА РЕГИСТРАЦИИ ПОЛЬЗОВАТЕЛЯ НА ОСНОВЕ JSON](https://www.youtube.com/watch?v=qstOzT6y164&amp;list=PLlKID9PnOE5i8kDKcC8pgaM07TTdRB6Au&amp;index=2)
+### [БОТ ДЛЯ ЗАДАЛБЫВАЮЩИХ НАПОМИНАЛОК  ПРИКРУЧИВАЕМ ПРОСТОЙ КАСКАДНЫЙ ОБРАБОТЧИК](https://www.youtube.com/watch?v=yh6tbkGwDdA&amp;list=PLlKID9PnOE5i8kDKcC8pgaM07TTdRB6Au&amp;index=3)
+### [БОТ ДЛЯ ЗАДАЛБЫВАЮЩИХ НАПОМИНАЛОК   ЛОГИРОВАНИЕ ОШИБОК С ПОМОЩЬЮ ОТПРАВОК СЫРЫХ ЗАПРОСОВ В TELEGRAM](https://www.youtube.com/watch?v=JzrSt8w7QWc&amp;list=PLlKID9PnOE5i8kDKcC8pgaM07TTdRB6Au&amp;index=4)
+### [БОТ ДЛЯ ЗАДАЛБЫВАЮЩИХ НАПОМИНАЛОК   КЛИЕНТ ДЛЯ ОТПРАВКИ СЫРЫХ ЗАПРОСОВ НА КЛАССЕ ООП](https://www.youtube.com/watch?v=ASvcor3DQUU&amp;list=PLlKID9PnOE5i8kDKcC8pgaM07TTdRB6Au&amp;index=5)
+### [TELEGRAM БОТ ДЛЯ ЗАДАЛБЫВАЮЩИХ НАПОМИНАЛОК: ПОДКЛЮЧАЕМ БД SQLITE И ИСПОЛЬЗУЕМ СИЛУ КЛАССОВ И ООП](https://www.youtube.com/watch?v=djqdWdWxtMw&amp;list=PLlKID9PnOE5i8kDKcC8pgaM07TTdRB6Au&amp;index=6)
+### [TELEGRAM БОТ ДЛЯ ЗАДАЛБЫВАЮЩИХ НАПОМИНАЛОК: РЕФАКТОРИНГ И ВОРКЕР ДЛЯ ЗАДАЛБЫВАНИЙ](https://www.youtube.com/watch?v=72gbwFY40dU&amp;list=PLlKID9PnOE5i8kDKcC8pgaM07TTdRB6Au&amp;index=7)
+### [TELEGRAM БОТ ДЛЯ ЗАДАЛБЫВАЮЩИХ НАПОМИНАЛОК: ПИШЕМ СКРИПТ-ПЛАНИРОВЩИК](https://www.youtube.com/watch?v=EuARrdM30cs&amp;list=PLlKID9PnOE5i8kDKcC8pgaM07TTdRB6Au&amp;index=8)

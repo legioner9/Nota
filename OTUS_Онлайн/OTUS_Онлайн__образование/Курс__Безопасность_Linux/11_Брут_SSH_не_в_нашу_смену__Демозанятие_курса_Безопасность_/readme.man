@@ -1,0 +1,3 @@
+# [OTUS Онлайн - образование](https://www.youtube.com/@otus_education/playlists)
+## [Курс | Безопасность Linux](https://www.youtube.com/playlist?list=PLfnFOImnyWRXQKVAWCfGZwZN_UX3eP-2X)
+### [Брут SSH... не в нашу смену! // Демо-занятие курса «Безопасность Linux»](https://www.youtube.com/watch?v=1bu0HbAwCwA&amp;list=PLfnFOImnyWRXQKVAWCfGZwZN_UX3eP-2X&amp;index=11)

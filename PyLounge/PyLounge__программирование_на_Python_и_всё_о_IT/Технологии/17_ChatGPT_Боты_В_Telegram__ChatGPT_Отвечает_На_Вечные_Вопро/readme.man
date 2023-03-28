@@ -1,0 +1,3 @@
+# [PyLounge - программирование на Python и всё о IT](https://www.youtube.com/@pylounge/playlists)
+## [Технологии](https://www.youtube.com/playlist?list=PLhVGaKnJDpzjpFpjPlJf-8n8drhEI92BT)
+### [ChatGPT Боты В Telegram / ChatGPT Отвечает На Вечные Вопросы Про IT](https://www.youtube.com/watch?v=axvUIGWeQ1c&amp;list=PLhVGaKnJDpzjpFpjPlJf-8n8drhEI92BT&amp;index=17)

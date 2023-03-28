@@ -1,0 +1,3 @@
+# [Cisco Ne Slabo / SEDICOMM TV](https://www.youtube.com/@cisconeslabo/playlists)
+## [Информационная безопасность — Бесплатные мастер-классы от Академии Cisco Университет СЭДИКОММ](https://www.youtube.com/playlist?list=PLMiVLClzZDbRMjr6Gq_6wzPu0yWhRyOmk)
+### [Как настроить MAC ACL: ограничение доступа и фильтрацию трафика на портах коммутатора](https://www.youtube.com/watch?v=qhZcZQHhdN0&amp;list=PLMiVLClzZDbRMjr6Gq_6wzPu0yWhRyOmk&amp;index=9)

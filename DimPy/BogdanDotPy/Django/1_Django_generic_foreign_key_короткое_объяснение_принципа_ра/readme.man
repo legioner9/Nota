@@ -1,0 +1,3 @@
+# [BogdanDotPy](https://www.youtube.com/@BogdanDotPy/playlists)
+## [Django](https://www.youtube.com/playlist?list=PLpTYtB-EF1dsfuZGBTcWDHplGTBkxB_VI)
+### [Django generic foreign key короткое объяснение принципа работы с примером](https://www.youtube.com/watch?v=L4Mb34WEF64&amp;list=PLpTYtB-EF1dsfuZGBTcWDHplGTBkxB_VI&amp;index=1)

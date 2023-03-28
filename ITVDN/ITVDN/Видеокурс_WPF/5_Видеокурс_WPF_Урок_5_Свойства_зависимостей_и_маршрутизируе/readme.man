@@ -1,0 +1,3 @@
+# [ITVDN](https://www.youtube.com/@ITVDN/playlists?view=1)
+## [Видеокурс WPF](https://www.youtube.com/playlist?list=PLvItDmb0sZw_cBGQO10bZje02VQOqTwSh)
+### [Видеокурс WPF. Урок 5. Свойства зависимостей и маршрутизируемые события](https://www.youtube.com/watch?v=EKgwJKgEVas&amp;list=PLvItDmb0sZw_cBGQO10bZje02VQOqTwSh&amp;index=5)

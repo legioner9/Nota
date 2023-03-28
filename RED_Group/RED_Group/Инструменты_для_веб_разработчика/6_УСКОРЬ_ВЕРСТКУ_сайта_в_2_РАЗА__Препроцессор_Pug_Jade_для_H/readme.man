@@ -1,0 +1,3 @@
+# [RED Group](https://www.youtube.com/@REDGroup/playlists)
+## [Инструменты для веб разработчика](https://www.youtube.com/playlist?list=PLXkonRjGXZwwKAAB4ihUHv6C9hyGHvnru)
+### [УСКОРЬ ВЕРСТКУ сайта в 2 РАЗА // Препроцессор Pug (Jade) для HTML // Лучший шаблонизатор для HTML](https://www.youtube.com/watch?v=WV6u5x3Kf1E&amp;list=PLXkonRjGXZwwKAAB4ihUHv6C9hyGHvnru&amp;index=6)

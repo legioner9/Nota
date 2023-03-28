@@ -1,0 +1,3 @@
+# [IT-KAMASUTRA](https://www.youtube.com/@ITKAMASUTRA/playlists?view=1)
+## [JS+React для Juniors (самурайчики)](https://www.youtube.com/playlist?list=PLcvhF2Wqh7DMuHec4RCfGuMwiij2_IvFR)
+### [FAQ: SSR, зачем тесты, ReactNative, транзакция, SAGA (18+)](https://www.youtube.com/watch?v=KKR7FqhjtRQ&amp;list=PLcvhF2Wqh7DMuHec4RCfGuMwiij2_IvFR&amp;index=1)

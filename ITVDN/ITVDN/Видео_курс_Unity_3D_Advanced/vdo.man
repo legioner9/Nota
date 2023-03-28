@@ -1,0 +1,7 @@
+### [Видео курс Unity 3D Advanced. Урок 1. Создание чата на Unity Network (UNet)](https://www.youtube.com/watch?v=knq1HqEHS7E&amp;list=PLvItDmb0sZw8oFqkjmesFLuxTv9o71xJ0&amp;index=1)
+### [Видео курс Unity 3D Advanced. Урок 2. Создание Agar.io (часть 1)](https://www.youtube.com/watch?v=tlxPVukogWk&amp;list=PLvItDmb0sZw8oFqkjmesFLuxTv9o71xJ0&amp;index=2)
+### [Видео курс Unity 3D Advanced. Урок 3. Создание Agar.io (часть 2)](https://www.youtube.com/watch?v=cgO-XLBO89o&amp;list=PLvItDmb0sZw8oFqkjmesFLuxTv9o71xJ0&amp;index=3)
+### [Видео курс Unity 3D Advanced. Урок 4. Network Game Lobby и Синхронизация персонажа](https://www.youtube.com/watch?v=LzYx9QP1OUg&amp;list=PLvItDmb0sZw8oFqkjmesFLuxTv9o71xJ0&amp;index=4)
+### [Видео курс Unity 3D Advanced. Урок 5. Создание игры MOBA. Health and Attack.](https://www.youtube.com/watch?v=NeshaGkbqEM&amp;list=PLvItDmb0sZw8oFqkjmesFLuxTv9o71xJ0&amp;index=5)
+### [Видео курс Unity 3D Advanced. Урок 6. Создание игры MOBA. Network AI.](https://www.youtube.com/watch?v=TQCDp07cOeM&amp;list=PLvItDmb0sZw8oFqkjmesFLuxTv9o71xJ0&amp;index=6)
+### [Видео курс Unity 3D Advanced. Урок 7. Создание игры MOBA.Создание карты и Unit Spawn.](https://www.youtube.com/watch?v=BQNuFPCN8YQ&amp;list=PLvItDmb0sZw8oFqkjmesFLuxTv9o71xJ0&amp;index=7)

@@ -1,0 +1,3 @@
+# [JavaScript.Ninja](https://www.youtube.com/@JavaScriptNinja/playlists)
+## [Love & Hate](https://www.youtube.com/playlist?list=PLvTBThJr861yew_0p-x_4DlXh6wTGjkPX)
+### [💖 VueJS: Аргументы &quot;за&quot;](https://www.youtube.com/watch?v=FFZfmIQ9I44&amp;list=PLvTBThJr861yew_0p-x_4DlXh6wTGjkPX&amp;index=1)

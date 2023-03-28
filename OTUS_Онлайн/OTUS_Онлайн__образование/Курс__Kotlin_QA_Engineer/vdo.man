@@ -1,0 +1,3 @@
+### [Тестирование интерфейсов на Jetpack Compose // Демо-занятие курса «Kotlin QA Engineer»](https://www.youtube.com/watch?v=AMmmteGWW-0&amp;list=PLfnFOImnyWRXSKwuNLy2P2J_NzZXaEK45&amp;index=1)
+### [Тестирование нативных приложений на Kotlin Native // Демо-занятие курса «Kotlin QA Engineer»](https://www.youtube.com/watch?v=SuqWT8ooDTo&amp;list=PLfnFOImnyWRXSKwuNLy2P2J_NzZXaEK45&amp;index=2)
+### [Demo Day курса «Kotlin QA Engineer»](https://www.youtube.com/watch?v=JazNLMikb2U&amp;list=PLfnFOImnyWRXSKwuNLy2P2J_NzZXaEK45&amp;index=3)

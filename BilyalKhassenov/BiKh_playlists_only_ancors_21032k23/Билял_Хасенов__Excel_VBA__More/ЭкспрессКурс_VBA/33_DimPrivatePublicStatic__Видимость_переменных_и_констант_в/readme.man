@@ -1,0 +1,3 @@
+# [Билял Хасенов – Excel, VBA & More](https://www.youtube.com/@BilyalKhassenov/playlists?view=58)
+## [Экспресс-Курс VBA](https://www.youtube.com/playlist?list=PLsPotgU_ELTrsuNLrWYmIdu_3W1VM-jzm)
+### [Dim/Private/Public/Static - Видимость переменных и констант в VBA (Серия VBA 31)](https://www.youtube.com/watch?v=06dRikt3dlU&amp;list=PLsPotgU_ELTrsuNLrWYmIdu_3W1VM-jzm&amp;index=33)

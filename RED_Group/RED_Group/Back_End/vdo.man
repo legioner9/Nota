@@ -1,0 +1,7 @@
+### [AJAX подгрузка постов и фильтров на Wordpress (WP)](https://www.youtube.com/watch?v=Da3FMyP3kjk&amp;list=PLXkonRjGXZwwil3SidT8o6XaubHL4JBXh&amp;index=1)
+### [Авторизация на React для самых маленьких | Сервер на Nest.js](https://www.youtube.com/watch?v=3g9XBZdpcGU&amp;list=PLXkonRjGXZwwil3SidT8o6XaubHL4JBXh&amp;index=2)
+### [🔥 Как я с нуля выучил GraphQL + Apollo за 12 часов | Большой стрим](https://www.youtube.com/watch?v=l39R9pvqa80&amp;list=PLXkonRjGXZwwil3SidT8o6XaubHL4JBXh&amp;index=3)
+### [Осталось совсем немного! Продолжаем изучать backend [Nest.js / MySQL / GraphQL]](https://www.youtube.com/watch?v=wJZk5pN64EA&amp;list=PLXkonRjGXZwwil3SidT8o6XaubHL4JBXh&amp;index=4)
+### [Я СМОГ! АВТОРИЗАЦИЯ ГОТОВА! Пишем новый back-end на [Nest.js / GraphQL / MySQL] + РЕВЬЮ ВАШИХ РАБОТ](https://www.youtube.com/watch?v=pjg20ld0Vwk&amp;list=PLXkonRjGXZwwil3SidT8o6XaubHL4JBXh&amp;index=5)
+### [Правильный выбор базы данных [MySQL / PostgreSQL / MongoDB]](https://www.youtube.com/watch?v=06VLWRHp17E&amp;list=PLXkonRjGXZwwil3SidT8o6XaubHL4JBXh&amp;index=6)
+### [⚡️ Быстрый курс по Nest.js | Уроки nest.js для начинающих](https://www.youtube.com/watch?v=mOIqOiVqpxA&amp;list=PLXkonRjGXZwwil3SidT8o6XaubHL4JBXh&amp;index=7)

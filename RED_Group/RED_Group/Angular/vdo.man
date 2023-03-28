@@ -1,0 +1,2 @@
+### [🏎 Angular с нуля за 5 часов! Angular 14 для начинающих [TypeScript / Rx.js / Tailwind] - RED Test](https://www.youtube.com/watch?v=RoXVw0WiAEM&amp;list=PLXkonRjGXZwxKzElHsJ-fVlrHpW1sjl7P&amp;index=1)
+### [🦁 Svelte с нуля за 5 часов! Svelte js урок для начинающих + TypeScript - RED Test](https://www.youtube.com/watch?v=ZMOdvPXP1iY&amp;list=PLXkonRjGXZwxKzElHsJ-fVlrHpW1sjl7P&amp;index=2)

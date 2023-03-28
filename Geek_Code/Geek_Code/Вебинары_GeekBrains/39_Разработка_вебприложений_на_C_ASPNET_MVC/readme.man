@@ -1,0 +1,3 @@
+# [Geek Code](https://www.youtube.com/@GeekCode/playlists)
+## [Вебинары GeekBrains](https://www.youtube.com/playlist?list=PLhgRAQ8BwWFbg6YUNOfzRBrNRNtJ9-Cam)
+### [Разработка веб-приложений на C# ASP.NET MVC](https://www.youtube.com/watch?v=nD0-9JTVOv0&amp;list=PLhgRAQ8BwWFbg6YUNOfzRBrNRNtJ9-Cam&amp;index=39)

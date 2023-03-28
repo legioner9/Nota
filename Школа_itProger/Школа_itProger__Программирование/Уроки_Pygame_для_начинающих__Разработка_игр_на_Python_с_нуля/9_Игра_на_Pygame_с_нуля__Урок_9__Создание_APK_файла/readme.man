@@ -1,0 +1,3 @@
+# [Школа itProger / Программирование](https://www.youtube.com/@itproger/playlists?view=1)
+## [Уроки Pygame для начинающих / Разработка игр на Python с нуля](https://www.youtube.com/playlist?list=PLDyJYA6aTY1mLtXrGH55paZHFjpqHdDol)
+### [Игра на Pygame с нуля / Урок #9 – Создание APK файла](https://www.youtube.com/watch?v=7JO5YQbr3YU&amp;list=PLDyJYA6aTY1mLtXrGH55paZHFjpqHdDol&amp;index=9)

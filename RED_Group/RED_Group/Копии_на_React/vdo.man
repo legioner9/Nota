@@ -1,0 +1,6 @@
+### [🚀 RUTUBE и ТОЧКА. Разработка РУТУБА за 5 часов *БЕЗ ВОДЫ* [Next / React / Nest / PostgreSQL / Redux]](https://www.youtube.com/watch?v=QUY_sazqgkY&amp;list=PLXkonRjGXZwyCAZf2ANYfhJ0r751ODjCh&amp;index=1)
+### [Игра в кальмара. Делаем веб приложение на React + Tailwind CSS + Firebase](https://www.youtube.com/watch?v=yZAPy3LcBiw&amp;list=PLXkonRjGXZwyCAZf2ANYfhJ0r751ODjCh&amp;index=2)
+### [Полная копия Яндекс Такси на React (Next JS, Tailwind CSS, @reduxjs/toolkit, google maps api)](https://www.youtube.com/watch?v=iAFqS8uxImo&amp;list=PLXkonRjGXZwyCAZf2ANYfhJ0r751ODjCh&amp;index=3)
+### [Полная копия ВКонтакте VK за 3 часа на React + TypeScript + Firebase + Material UI](https://www.youtube.com/watch?v=OyE49CsSdiU&amp;list=PLXkonRjGXZwyCAZf2ANYfhJ0r751ODjCh&amp;index=4)
+### [Сделал копию Netflix на React + SCSS с нуля без воды](https://www.youtube.com/watch?v=yZXGS3TTu7Y&amp;list=PLXkonRjGXZwyCAZf2ANYfhJ0r751ODjCh&amp;index=5)
+### [Сделал копию Facebook на React + Tailwind CSS с нуля без воды](https://www.youtube.com/watch?v=oz9SuoUn5MA&amp;list=PLXkonRjGXZwyCAZf2ANYfhJ0r751ODjCh&amp;index=6)

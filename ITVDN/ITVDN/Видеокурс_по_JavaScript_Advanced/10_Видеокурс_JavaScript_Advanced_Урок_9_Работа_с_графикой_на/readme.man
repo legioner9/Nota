@@ -1,0 +1,3 @@
+# [ITVDN](https://www.youtube.com/@ITVDN/playlists?view=1)
+## [Видеокурс по JavaScript Advanced](https://www.youtube.com/playlist?list=PLvItDmb0sZw_-AAcqd6XeZxJMKdv55_mS)
+### [Видеокурс JavaScript Advanced. Урок 9. Работа с графикой на стороне клиента](https://www.youtube.com/watch?v=X49VEEr0Y_8&amp;list=PLvItDmb0sZw_-AAcqd6XeZxJMKdv55_mS&amp;index=10)

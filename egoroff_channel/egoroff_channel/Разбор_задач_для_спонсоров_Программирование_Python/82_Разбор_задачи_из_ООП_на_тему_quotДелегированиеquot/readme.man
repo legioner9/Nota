@@ -1,0 +1,3 @@
+# [egoroff_channel](https://www.youtube.com/@egoroffchannel/playlists)
+## [Разбор задач для спонсоров. Программирование Python](https://www.youtube.com/playlist?list=PLQAt0m1f9OHvscrP2pec3JUAzIcRxDc5E)
+### [Разбор задачи из ООП на тему &quot;Делегирование&quot;](https://www.youtube.com/watch?v=vmg_zlIpjGM&amp;list=PLQAt0m1f9OHvscrP2pec3JUAzIcRxDc5E&amp;index=82)

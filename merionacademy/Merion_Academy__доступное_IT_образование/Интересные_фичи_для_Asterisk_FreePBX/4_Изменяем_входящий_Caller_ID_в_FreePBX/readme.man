@@ -1,0 +1,3 @@
+# [Merion Academy - доступное IT образование](https://www.youtube.com/@merionacademy/playlists)
+## [Интересные фичи для Asterisk (FreePBX)](https://www.youtube.com/playlist?list=PLVULwBUtsriNDPwI8yVuRpvP70P3WY217)
+### [Изменяем входящий Caller ID в FreePBX](https://www.youtube.com/watch?v=bpxBKT3bTH0&amp;list=PLVULwBUtsriNDPwI8yVuRpvP70P3WY217&amp;index=4)

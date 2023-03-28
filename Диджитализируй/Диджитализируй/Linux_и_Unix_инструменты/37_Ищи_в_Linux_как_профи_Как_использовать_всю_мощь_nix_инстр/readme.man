@@ -1,0 +1,3 @@
+# [Диджитализируй!](https://www.youtube.com/@t0digital/playlists)
+## [Linux и Unix инструменты](https://www.youtube.com/playlist?list=PLAk6CfuV7hyqHyQVHZMQRihAfebXpxn2O)
+### [Ищи в Linux как профи! Как использовать всю мощь *nix инструментов на примере find](https://www.youtube.com/watch?v=7VNKav3ZuAE&amp;list=PLAk6CfuV7hyqHyQVHZMQRihAfebXpxn2O&amp;index=37)

@@ -1,0 +1,2 @@
+### [Оптимизация PostgreSQL. Возможности и ограничения. Бесплатный вебинар.](https://www.youtube.com/watch?v=oSsirfUIR4w&amp;list=PL8D2P0ruohOBBHx9DTPtLByaIKiKuK-Qi&amp;index=1)
+### [Связь GreenPlum и PostgreSQL](https://www.youtube.com/watch?v=hCk0tXeK7qU&amp;list=PL8D2P0ruohOBBHx9DTPtLByaIKiKuK-Qi&amp;index=2)

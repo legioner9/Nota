@@ -1,0 +1,3 @@
+# [NetSkills. Видеоуроки. Cisco, zabbix, linux.](https://www.youtube.com/@netskills/playlists)
+## [Cisco ASA Administrator](https://www.youtube.com/playlist?list=PLcDkQ2Au8aVN4uRzgY04GRRqaWfYi05Qq)
+### [5. Cisco ASA Administrator. Начало работы (unboxing)](https://www.youtube.com/watch?v=Y3BDb4clh8g&amp;list=PLcDkQ2Au8aVN4uRzgY04GRRqaWfYi05Qq&amp;index=6)

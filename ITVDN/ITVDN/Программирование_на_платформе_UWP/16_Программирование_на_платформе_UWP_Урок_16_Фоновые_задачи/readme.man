@@ -1,0 +1,3 @@
+# [ITVDN](https://www.youtube.com/@ITVDN/playlists?view=1)
+## [Программирование на платформе UWP](https://www.youtube.com/playlist?list=PLvItDmb0sZw_pOfQkCR6aGiCsMIem1rEa)
+### [Программирование на платформе UWP. Урок 16. Фоновые задачи](https://www.youtube.com/watch?v=vRukpjJ9RhY&amp;list=PLvItDmb0sZw_pOfQkCR6aGiCsMIem1rEa&amp;index=16)

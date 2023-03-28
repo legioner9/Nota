@@ -1,0 +1,3 @@
+# [OTUS Онлайн - образование](https://www.youtube.com/@otus_education/playlists)
+## [Курс | OCAJP](https://www.youtube.com/playlist?list=PLfnFOImnyWRXMHv1IcCx7qq-Pg-BXpu7d)
+### [Всё врут календари или Дата и время в Java // Подготовка к сертификации Oracle Java Programmer](https://www.youtube.com/watch?v=9rk9JomerB8&amp;list=PLfnFOImnyWRXMHv1IcCx7qq-Pg-BXpu7d&amp;index=1)

@@ -1,0 +1,3 @@
+# [OTUS Онлайн - образование](https://www.youtube.com/@otus_education/playlists)
+## [Открытые уроки Symfony Framework](https://www.youtube.com/playlist?list=PLfnFOImnyWRXZZYczFNRPDLxFOUCHEuIZ)
+### [Интенсив «Создание системы статистики для онлайн-магазина». День 2 // Курс «Symfony Framework»](https://www.youtube.com/watch?v=XKvhi-2wY6Y&amp;list=PLfnFOImnyWRXZZYczFNRPDLxFOUCHEuIZ&amp;index=3)

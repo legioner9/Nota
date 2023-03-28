@@ -1,0 +1,3 @@
+# [OTUS Онлайн - образование](https://www.youtube.com/@otus_education/playlists)
+## [Курс | Программист С](https://www.youtube.com/playlist?list=PLfnFOImnyWRW8tRJkRc2WnTwd8AXSL449)
+### [Аналог Youtube-dl на C // Демо-занятие курса «Программист С»](https://www.youtube.com/watch?v=46u8KAILwew&amp;list=PLfnFOImnyWRW8tRJkRc2WnTwd8AXSL449&amp;index=8)

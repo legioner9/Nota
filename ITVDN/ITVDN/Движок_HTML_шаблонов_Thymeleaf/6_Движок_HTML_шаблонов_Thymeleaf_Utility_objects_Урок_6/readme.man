@@ -1,0 +1,3 @@
+# [ITVDN](https://www.youtube.com/@ITVDN/playlists?view=1)
+## [Движок HTML шаблонов Thymeleaf](https://www.youtube.com/playlist?list=PLvItDmb0sZw8XfMcTMXz-s4sBV8Z08KKu)
+### [Движок HTML шаблонов Thymeleaf. Utility objects. Урок 6](https://www.youtube.com/watch?v=XlfYnBgEgUI&amp;list=PLvItDmb0sZw8XfMcTMXz-s4sBV8Z08KKu&amp;index=6)

@@ -1,0 +1,3 @@
+# [ITVDN](https://www.youtube.com/@ITVDN/playlists?view=1)
+## [Видео курс Transact SQL](https://www.youtube.com/playlist?list=PLvItDmb0sZw_ALKpj5uy5k71w28L5Xmol)
+### [Видео курс Transact SQL. Урок 5. System Catalog. Aggregate functions](https://www.youtube.com/watch?v=_BU0K152qvg&amp;list=PLvItDmb0sZw_ALKpj5uy5k71w28L5Xmol&amp;index=5)

@@ -1,0 +1,7 @@
+### [Практики и инструменты DevOps. Урок 1. Что такое DevOps?](https://www.youtube.com/watch?v=YxSYMRLmwDk&amp;list=PLvItDmb0sZw_xTNDv8Bb1fsivN_Z_4oo9&amp;index=1)
+### [Практики и инструменты DevOps. Урок 2. Continuous Deployment](https://www.youtube.com/watch?v=26pEJNrqnn0&amp;list=PLvItDmb0sZw_xTNDv8Bb1fsivN_Z_4oo9&amp;index=2)
+### [Практики и инструменты DevOps. Урок 3. Continuous Deployment часть 2](https://www.youtube.com/watch?v=acPC2OacqUk&amp;list=PLvItDmb0sZw_xTNDv8Bb1fsivN_Z_4oo9&amp;index=3)
+### [Практики и инструменты DevOps. Урок 4. Enabling DevTest in Azure](https://www.youtube.com/watch?v=R3C3MIeL3dg&amp;list=PLvItDmb0sZw_xTNDv8Bb1fsivN_Z_4oo9&amp;index=4)
+### [Практики и инструменты DevOps. Урок 5. Enabling DevTest in Azure часть 2](https://www.youtube.com/watch?v=vB1zoM3H4fI&amp;list=PLvItDmb0sZw_xTNDv8Bb1fsivN_Z_4oo9&amp;index=5)
+### [Практики и инструменты DevOps. Урок 6. Release Management](https://www.youtube.com/watch?v=UIkGd74pHgU&amp;list=PLvItDmb0sZw_xTNDv8Bb1fsivN_Z_4oo9&amp;index=6)
+### [Практики и инструменты DevOps. Урок 7. Release Management часть 2](https://www.youtube.com/watch?v=btjJZZxTFwQ&amp;list=PLvItDmb0sZw_xTNDv8Bb1fsivN_Z_4oo9&amp;index=7)

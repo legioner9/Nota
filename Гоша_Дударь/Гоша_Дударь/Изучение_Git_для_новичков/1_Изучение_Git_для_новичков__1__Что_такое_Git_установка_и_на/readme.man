@@ -1,0 +1,3 @@
+# [Гоша Дударь](https://www.youtube.com/@gosha_dudar/playlists?view=1)
+## [Изучение Git для новичков](https://www.youtube.com/playlist?list=PL0lO_mIqDDFUesRNkeg46TDd5I6r7p2PI)
+### [Изучение Git для новичков / #1 - Что такое Git, установка и настройка](https://www.youtube.com/watch?v=bkNCylkzFRk&amp;list=PL0lO_mIqDDFUesRNkeg46TDd5I6r7p2PI&amp;index=1)

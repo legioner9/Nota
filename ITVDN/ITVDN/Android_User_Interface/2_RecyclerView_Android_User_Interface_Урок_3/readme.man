@@ -1,0 +1,3 @@
+# [ITVDN](https://www.youtube.com/@ITVDN/playlists?view=1)
+## [Android User Interface](https://www.youtube.com/playlist?list=PLvItDmb0sZw9fKnWs-FBT8jKkSHUT9jVB)
+### [RecyclerView. Android User Interface. Урок 3](https://www.youtube.com/watch?v=s3FB6YqeoU4&amp;list=PLvItDmb0sZw9fKnWs-FBT8jKkSHUT9jVB&amp;index=2)

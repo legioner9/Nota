@@ -1,0 +1,3 @@
+# [ITVDN](https://www.youtube.com/@ITVDN/playlists?view=1)
+## [Вебинары С# /.NET](https://www.youtube.com/playlist?list=PLvItDmb0sZw_EB7twhsa-zhzA1w_bOIFd)
+### [Вебинар на тему: &quot;Visual Studio 2015 Tips&amp;Tricks: новые возможности для разработчика&quot;](https://www.youtube.com/watch?v=YsLY1X-bN68&amp;list=PLvItDmb0sZw_EB7twhsa-zhzA1w_bOIFd&amp;index=1)

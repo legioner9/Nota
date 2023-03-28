@@ -1,0 +1,3 @@
+# [OTUS Онлайн - образование](https://www.youtube.com/@otus_education/playlists)
+## [Курс | JavaScript Developer Professional](https://www.youtube.com/playlist?list=PLfnFOImnyWRW3v27N4WF0U6sb7_-sIXqi)
+### [Интенсив «Знакомство и сравнение возможностей Deno и  Node.js». День 1](https://www.youtube.com/watch?v=GbdojloOq8I&amp;list=PLfnFOImnyWRW3v27N4WF0U6sb7_-sIXqi&amp;index=30)

@@ -1,0 +1,3 @@
+# [Mikrotik Training](https://www.youtube.com/@MikrotikTraining/playlists)
+## [Главная](https://www.youtube.com/playlist?list=PLg90hRDCH9A5TlwaXO2sB5AQP8yNmkiBn)
+### [Создаем отказоустойчивую L2-сеть на коммутаторах Mikrotik](https://www.youtube.com/watch?v=srdxTomsfGU&amp;list=PLg90hRDCH9A5TlwaXO2sB5AQP8yNmkiBn&amp;index=31)

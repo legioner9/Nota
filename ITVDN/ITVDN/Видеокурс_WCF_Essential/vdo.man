@@ -1,0 +1,5 @@
+### [WCF Essential. Урок 1. Введение в Windows Communication Foundation (WCF).](https://www.youtube.com/watch?v=Y1w0vuyAfOM&amp;list=PLvItDmb0sZw86Ph0CL6H2BfgXu47-rOvk&amp;index=1)
+### [WCF Essential. Урок 2. Хостинг сервисов.](https://www.youtube.com/watch?v=ykQgpG37buQ&amp;list=PLvItDmb0sZw86Ph0CL6H2BfgXu47-rOvk&amp;index=2)
+### [WCF Essential. Урок 3. Проектирование и определение контрактов.](https://www.youtube.com/watch?v=8tTCba7ibeU&amp;list=PLvItDmb0sZw86Ph0CL6H2BfgXu47-rOvk&amp;index=3)
+### [WCF Essential. Урок 4. Уровни экземпляров сервисов. Каналы и привязки.](https://www.youtube.com/watch?v=zcOhzQ2sa0M&amp;list=PLvItDmb0sZw86Ph0CL6H2BfgXu47-rOvk&amp;index=4)
+### [WCF Essential. Урок 5. Исключения и ошибки.](https://www.youtube.com/watch?v=IzMgzJGERRc&amp;list=PLvItDmb0sZw86Ph0CL6H2BfgXu47-rOvk&amp;index=5)

@@ -1,0 +1,3 @@
+# [RED Group](https://www.youtube.com/@REDGroup/playlists)
+## [Посадка сайта на различные CMS](https://www.youtube.com/playlist?list=PLXkonRjGXZwwZrf57aLv-W43Li_6Xn21w)
+### [Посадка сайта на October CMS с полного нуля // Создание темы для CMS // Создание сайта на PHP](https://www.youtube.com/watch?v=KWn2JGxNPX8&amp;list=PLXkonRjGXZwwZrf57aLv-W43Li_6Xn21w&amp;index=1)

@@ -1,0 +1,3 @@
+# [OTUS Онлайн - образование](https://www.youtube.com/@otus_education/playlists)
+## [Курс | Vue.js разработчик](https://www.youtube.com/playlist?list=PLfnFOImnyWRVMss91DD-q2_FjP8uR4aaw)
+### [Обзор возможностей Vue3 // Демо-занятие курса «Vue.js разработчик»](https://www.youtube.com/watch?v=TSIA4vYXhhU&amp;list=PLfnFOImnyWRVMss91DD-q2_FjP8uR4aaw&amp;index=2)

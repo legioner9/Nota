@@ -1,0 +1,3 @@
+# [ITVDN](https://www.youtube.com/@ITVDN/playlists?view=1)
+## [Вебинары от CyberBionic Systematics](https://www.youtube.com/playlist?list=PLvItDmb0sZw_0CRsaCv5eyUs_g_8d3oet)
+### [Размещение веб-приложений на Python в облаке Microsoft Azure](https://www.youtube.com/watch?v=QcZE2sHXwso&amp;list=PLvItDmb0sZw_0CRsaCv5eyUs_g_8d3oet&amp;index=18)

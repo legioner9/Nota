@@ -1,0 +1,3 @@
+# [OTUS Онлайн - образование](https://www.youtube.com/@otus_education/playlists)
+## [Открытые уроки  Нереляционные базы данных](https://www.youtube.com/playlist?list=PLfnFOImnyWRWJyGt1QslSbB5a_CEp6hor)
+### [Кластерные возможности MongoDB // Демо-занятие курса «Нереляционные базы данных»](https://www.youtube.com/watch?v=KQqidRmWEks&amp;list=PLfnFOImnyWRWJyGt1QslSbB5a_CEp6hor&amp;index=1)

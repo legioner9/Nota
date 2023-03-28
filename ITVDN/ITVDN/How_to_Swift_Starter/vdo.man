@@ -1,0 +1,8 @@
+### [Как работает навигация в Swift? How to Swift Starter.](https://www.youtube.com/watch?v=iKNcqArMIXo&amp;list=PLvItDmb0sZw8jpbnBYtx6DhL0kAinrVdj&amp;index=1)
+### [Что такое коллекции? CollectionView. How to Swift Starter.](https://www.youtube.com/watch?v=Xke4rwQV-xw&amp;list=PLvItDmb0sZw8jpbnBYtx6DhL0kAinrVdj&amp;index=2)
+### [TableView работа с таблицами. How to Swift Starter.](https://www.youtube.com/watch?v=0R5b30lzqK4&amp;list=PLvItDmb0sZw8jpbnBYtx6DhL0kAinrVdj&amp;index=3)
+### [Добавляем ScrollView в приложение. How to Swift Starter.](https://www.youtube.com/watch?v=njxKnf18z-4&amp;list=PLvItDmb0sZw8jpbnBYtx6DhL0kAinrVdj&amp;index=4)
+### [Swift UIView.animate (базовые анимации). How to Swift Starter.](https://www.youtube.com/watch?v=hyLXVGgpRbI&amp;list=PLvItDmb0sZw8jpbnBYtx6DhL0kAinrVdj&amp;index=5)
+### [FacebookSDK. How to Swift Starter.](https://www.youtube.com/watch?v=jKmYM-hqwwA&amp;list=PLvItDmb0sZw8jpbnBYtx6DhL0kAinrVdj&amp;index=6)
+### [Codable или как просто распарсить JSON. How to Swift Starter.](https://www.youtube.com/watch?v=CgaPn73AbiI&amp;list=PLvItDmb0sZw8jpbnBYtx6DhL0kAinrVdj&amp;index=7)
+### [RxSwift введение. How to Swift Starter.](https://www.youtube.com/watch?v=FuKG_ec44S4&amp;list=PLvItDmb0sZw8jpbnBYtx6DhL0kAinrVdj&amp;index=8)

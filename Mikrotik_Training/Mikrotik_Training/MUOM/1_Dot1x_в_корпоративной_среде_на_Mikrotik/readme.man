@@ -1,0 +1,3 @@
+# [Mikrotik Training](https://www.youtube.com/@MikrotikTraining/playlists)
+## [MUOM](https://www.youtube.com/playlist?list=PLg90hRDCH9A5Y7scVb6ge-rxWVTwlhMsW)
+### [Dot1x в корпоративной среде на Mikrotik](https://www.youtube.com/watch?v=wYa1tbiK89w&amp;list=PLg90hRDCH9A5Y7scVb6ge-rxWVTwlhMsW&amp;index=1)

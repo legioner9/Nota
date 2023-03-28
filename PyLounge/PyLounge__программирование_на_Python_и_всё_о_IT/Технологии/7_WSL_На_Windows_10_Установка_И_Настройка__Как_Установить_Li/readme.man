@@ -1,0 +1,3 @@
+# [PyLounge - программирование на Python и всё о IT](https://www.youtube.com/@pylounge/playlists)
+## [Технологии](https://www.youtube.com/playlist?list=PLhVGaKnJDpzjpFpjPlJf-8n8drhEI92BT)
+### [WSL На Windows 10| Установка И Настройка | Как Установить Linux В Windows 10](https://www.youtube.com/watch?v=NlObaul_XT4&amp;list=PLhVGaKnJDpzjpFpjPlJf-8n8drhEI92BT&amp;index=7)

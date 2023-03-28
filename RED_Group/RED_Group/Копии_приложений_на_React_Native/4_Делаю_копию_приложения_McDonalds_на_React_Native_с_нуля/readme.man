@@ -1,0 +1,3 @@
+# [RED Group](https://www.youtube.com/@REDGroup/playlists)
+## [Копии приложений на React Native](https://www.youtube.com/playlist?list=PLXkonRjGXZwyCKmtyLoJrOj347ouqZyPU)
+### [Делаю копию приложения McDonald’s на React Native с нуля](https://www.youtube.com/watch?v=dZy8GtKcz-Q&amp;list=PLXkonRjGXZwyCKmtyLoJrOj347ouqZyPU&amp;index=4)

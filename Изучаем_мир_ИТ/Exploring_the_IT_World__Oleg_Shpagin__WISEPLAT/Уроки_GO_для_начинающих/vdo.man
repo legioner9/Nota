@@ -1,0 +1,2 @@
+### [Установка языка Go, запуск первой программы (урок #1)](https://www.youtube.com/watch?v=_bt1bXWHo1g&amp;list=PLxiU3nwEQ4PEoAbKn-_jXmnooUeoPlo1s&amp;index=1)
+### [Как я изучаю новый язык программирования / Только для спонсоров ))](https://www.youtube.com/watch?v=xQ2-yRDV3gY&amp;list=PLxiU3nwEQ4PEoAbKn-_jXmnooUeoPlo1s&amp;index=2)

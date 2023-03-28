@@ -1,0 +1,3 @@
+# [McMake](https://www.youtube.com/@mc_make/playlists)
+## [Web Парсинг на Python](https://www.youtube.com/playlist?list=PLc3mLrv1phSkiAA-chSrbQ7b64aSQTtWw)
+### [Парсер ютуба Python: (без ограничений) новый способ](https://www.youtube.com/watch?v=oMO_feXJi5Q&amp;list=PLc3mLrv1phSkiAA-chSrbQ7b64aSQTtWw&amp;index=2)

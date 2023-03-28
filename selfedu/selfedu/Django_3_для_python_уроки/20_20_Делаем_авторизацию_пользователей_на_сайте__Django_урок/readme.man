@@ -1,0 +1,3 @@
+# [selfedu](https://www.youtube.com/@selfedu_rus/playlists?view=1)
+## [Django 3 для python (уроки)](https://www.youtube.com/playlist?list=PLA0M1Bcd0w8xO_39zZll2u1lz_Q-Mwn1F)
+### [#20. Делаем авторизацию пользователей на сайте | Django уроки](https://www.youtube.com/watch?v=0jNnU8h2Oz8&amp;list=PLA0M1Bcd0w8xO_39zZll2u1lz_Q-Mwn1F&amp;index=20)

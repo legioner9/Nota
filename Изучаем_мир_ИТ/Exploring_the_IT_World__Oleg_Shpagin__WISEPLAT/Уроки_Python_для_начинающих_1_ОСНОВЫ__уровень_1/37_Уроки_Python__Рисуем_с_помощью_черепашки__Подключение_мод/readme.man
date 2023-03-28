@@ -1,0 +1,3 @@
+# [Exploring the IT World / Oleg Shpagin / WISEPLAT](https://www.youtube.com/@wiseplat/playlists)
+## [Уроки Python для начинающих #1 [ОСНОВЫ / уровень 1]](https://www.youtube.com/playlist?list=PLxiU3nwEQ4PH3XcYfbxAa6HGs8jvEMW0H)
+### [Уроки Python / Рисуем с помощью черепашки / Подключение модуля turtle](https://www.youtube.com/watch?v=l4BN3e70nFU&amp;list=PLxiU3nwEQ4PH3XcYfbxAa6HGs8jvEMW0H&amp;index=37)

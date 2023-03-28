@@ -1,0 +1,3 @@
+# [Django School](https://www.youtube.com/@DjangoSchool/playlists?view=1)
+## [Курс по программированию с нуля. Курс по python.](https://www.youtube.com/playlist?list=PLF-NY6ldwAWprVg-ZQOb89jGC9FxhG-js)
+### [асинхронность python 3 примеры | Урок 23](https://www.youtube.com/watch?v=T8Dkra9iPeY&amp;list=PLF-NY6ldwAWprVg-ZQOb89jGC9FxhG-js&amp;index=24)

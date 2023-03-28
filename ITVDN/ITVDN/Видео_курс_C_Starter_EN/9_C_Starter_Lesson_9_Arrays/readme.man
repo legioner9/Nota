@@ -1,0 +1,3 @@
+# [ITVDN](https://www.youtube.com/@ITVDN/playlists?view=1)
+## [Видео курс C# Starter (EN)](https://www.youtube.com/playlist?list=PLvItDmb0sZw9Hbt6Cy_07EPFtRUr1QaXS)
+### [C# Starter. Lesson 9. Arrays](https://www.youtube.com/watch?v=4CBA1LzztDA&amp;list=PLvItDmb0sZw9Hbt6Cy_07EPFtRUr1QaXS&amp;index=9)

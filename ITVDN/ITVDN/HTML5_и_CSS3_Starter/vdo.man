@@ -1,0 +1,8 @@
+### [HTML5 и CSS3 Starter. Урок 1. Введение в HTML5](https://www.youtube.com/watch?v=Jf9FYXuM_Ts&amp;list=PLvItDmb0sZw_TOs9WEh4Iu2vguvJ69Tr-&amp;index=1)
+### [HTML5 и CSS3 Starter. Урок 2. Работа с изображениями, таблицами и списками](https://www.youtube.com/watch?v=xtVQOOCHnh0&amp;list=PLvItDmb0sZw_TOs9WEh4Iu2vguvJ69Tr-&amp;index=2)
+### [HTML5 и CSS3 Starter. Урок 3.  Каскадные таблицы стилей CSS3 часть 1](https://www.youtube.com/watch?v=vn4E_uLNJus&amp;list=PLvItDmb0sZw_TOs9WEh4Iu2vguvJ69Tr-&amp;index=3)
+### [HTML5 и CSS3 Starter. Урок 4. Каскадные таблицы стилей CSS3 часть 2](https://www.youtube.com/watch?v=6blrMioDVwo&amp;list=PLvItDmb0sZw_TOs9WEh4Iu2vguvJ69Tr-&amp;index=4)
+### [HTML5 и CSS3 Starter. Урок 5.  Позиционирование элементов. Виды верстки](https://www.youtube.com/watch?v=5tHU3OKSxf8&amp;list=PLvItDmb0sZw_TOs9WEh4Iu2vguvJ69Tr-&amp;index=5)
+### [HTML5 и CSS3 Starter. Урок 6. Семантика HTML5. Новые теги](https://www.youtube.com/watch?v=PlLiL3TXbOQ&amp;list=PLvItDmb0sZw_TOs9WEh4Iu2vguvJ69Tr-&amp;index=6)
+### [HTML5 и CSS3 Starter. Урок 7. Формы. Метатеги](https://www.youtube.com/watch?v=LgArWouPpRM&amp;list=PLvItDmb0sZw_TOs9WEh4Iu2vguvJ69Tr-&amp;index=7)
+### [HTML5 и CSS3 Starter. Урок 8. Макет страницы. Нарезка изображений. Практика](https://www.youtube.com/watch?v=H-ELnEFhqPY&amp;list=PLvItDmb0sZw_TOs9WEh4Iu2vguvJ69Tr-&amp;index=8)

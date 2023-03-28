@@ -1,0 +1,3 @@
+# [Exploring the IT World / Oleg Shpagin / WISEPLAT](https://www.youtube.com/@wiseplat/playlists)
+## [Уроки Python для начинающих #3 [ОСНОВЫ / уровень 3]](https://www.youtube.com/playlist?list=PLxiU3nwEQ4PFAx1MHW2qJjgPHlRoWm6v-)
+### [Какую версию Python 32bit или 64bit использовать](https://www.youtube.com/watch?v=G380KQXkhwk&amp;list=PLxiU3nwEQ4PFAx1MHW2qJjgPHlRoWm6v-&amp;index=7)

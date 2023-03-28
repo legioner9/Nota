@@ -1,0 +1,3 @@
+# [ITVDN](https://www.youtube.com/@ITVDN/playlists?view=1)
+## [Unit тестирование С#](https://www.youtube.com/playlist?list=PLvItDmb0sZw-dolIJ9mSNolTvW7CnQlSG)
+### [Unit тестирование в С#. Написание Data Driven тестов в MSTest](https://www.youtube.com/watch?v=3qtASe7bstU&amp;list=PLvItDmb0sZw-dolIJ9mSNolTvW7CnQlSG&amp;index=8)

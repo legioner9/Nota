@@ -1,0 +1,3 @@
+# [Bogdan Stashchuk](https://www.youtube.com/@Bogdan_Stashchuk/playlists)
+## [JAVASCRIPT BASICS - Types and Variables](https://www.youtube.com/playlist?list=PLWkguCWKqN9NStWwiT54yI3ZeMoaBqIGG)
+### [01: LECTURE - Object in JavaScript (JAVASCRIPT BASICS - Types and Variables)](https://www.youtube.com/watch?v=Hmm5gx63HEc&amp;list=PLWkguCWKqN9NStWwiT54yI3ZeMoaBqIGG&amp;index=2)

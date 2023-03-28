@@ -1,0 +1,3 @@
+# [ITVDN](https://www.youtube.com/@ITVDN/playlists?view=1)
+## [ECMAScript 6](https://www.youtube.com/playlist?list=PLvItDmb0sZw84dGN9CVh1A6HcehHgXECW)
+### [ECMAScript 6. Урок 4. Строки и функции](https://www.youtube.com/watch?v=RQyu83Tl2mc&amp;list=PLvItDmb0sZw84dGN9CVh1A6HcehHgXECW&amp;index=4)

@@ -1,0 +1,3 @@
+# [ITDoctor](https://www.youtube.com/@ITDoctor/playlists?view=1&sort=dd&shelf_id=0)
+## [Уроки по JavaScript](https://www.youtube.com/playlist?list=PLuY6eeDuleINjS4_G7KuYThU_T4uzpAuG)
+### [#21 Пишем игру змейка на JavaScript своими силами, Уроки по JavaScript](https://www.youtube.com/watch?v=_H9FRozjF3k&amp;list=PLuY6eeDuleINjS4_G7KuYThU_T4uzpAuG&amp;index=22)

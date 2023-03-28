@@ -1,0 +1,7 @@
+### [Вот почему начинающим программистам нелегко учиться!](https://www.youtube.com/watch?v=wrvF8-KvgJI&amp;list=PLa9lO_Eq-vZXBbeWZUVnM4Mnh21PkMEtD&amp;index=1)
+### [Путеводитель Начинающего Разработчика](https://www.youtube.com/watch?v=6jYpyNToHMc&amp;list=PLa9lO_Eq-vZXBbeWZUVnM4Mnh21PkMEtD&amp;index=2)
+### [4 ОСНОВНЫХ ШАГА Развития Для Программистов | ПОДКАСТ](https://www.youtube.com/watch?v=clZpVp_iocE&amp;list=PLa9lO_Eq-vZXBbeWZUVnM4Mnh21PkMEtD&amp;index=3)
+### [Основы PHP - Как изучать PHP #1](https://www.youtube.com/watch?v=44xrq0fpCYU&amp;list=PLa9lO_Eq-vZXBbeWZUVnM4Mnh21PkMEtD&amp;index=4)
+### [ВСЕ ПОДРОБНОСТИ. РЕАЛЬНЫЙ ЗАКАЗ НА ФРИЛАНСЕ.](https://www.youtube.com/watch?v=8Sc-1vrNfL0&amp;list=PLa9lO_Eq-vZXBbeWZUVnM4Mnh21PkMEtD&amp;index=5)
+### [Блог на Yii2 - Как спланировать проект #2](https://www.youtube.com/watch?v=bKW5fHGzbuo&amp;list=PLa9lO_Eq-vZXBbeWZUVnM4Mnh21PkMEtD&amp;index=6)
+### [Блог на Yii2 - Как спланировать проект #3](https://www.youtube.com/watch?v=BfAhxx8YiyM&amp;list=PLa9lO_Eq-vZXBbeWZUVnM4Mnh21PkMEtD&amp;index=7)

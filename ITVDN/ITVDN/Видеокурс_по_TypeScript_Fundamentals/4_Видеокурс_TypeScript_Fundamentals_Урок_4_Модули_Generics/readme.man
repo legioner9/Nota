@@ -1,0 +1,3 @@
+# [ITVDN](https://www.youtube.com/@ITVDN/playlists?view=1)
+## [Видеокурс по TypeScript Fundamentals](https://www.youtube.com/playlist?list=PLvItDmb0sZw-IMHd1YSzLZ4UayqSQP6-I)
+### [Видеокурс TypeScript Fundamentals. Урок 4: Модули. Generics](https://www.youtube.com/watch?v=r0z7NyL3d3M&amp;list=PLvItDmb0sZw-IMHd1YSzLZ4UayqSQP6-I&amp;index=4)

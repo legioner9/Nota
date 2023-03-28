@@ -1,0 +1,3 @@
+# [ITVDN](https://www.youtube.com/@ITVDN/playlists?view=1)
+## [C# Chess Online](https://www.youtube.com/playlist?list=PLvItDmb0sZw8T4pgniSjRgTwtI4Q3DdKh)
+### [Шахматный клиент-сервер на С#. Часть 4. Модуль подключения клиента к серверу](https://www.youtube.com/watch?v=hCsf7fe5wEI&amp;list=PLvItDmb0sZw8T4pgniSjRgTwtI4Q3DdKh&amp;index=4)

@@ -1,0 +1,3 @@
+# [ITVDN](https://www.youtube.com/@ITVDN/playlists?view=1)
+## [Разработка графических приложений на C++ с Qt и QML](https://www.youtube.com/playlist?list=PLvItDmb0sZw_l5qKMLTjePXX485CWKVNe)
+### [Разработка графических приложений на C++ с Qt и QML. Часть 4. Работа с сетью в Qt](https://www.youtube.com/watch?v=ILtxfXUvMKg&amp;list=PLvItDmb0sZw_l5qKMLTjePXX485CWKVNe&amp;index=4)

@@ -1,0 +1,3 @@
+# [ITVDN](https://www.youtube.com/@ITVDN/playlists?view=1)
+## [Видеокурс по SQL Essential](https://www.youtube.com/playlist?list=PLvItDmb0sZw_NDm3pDMQ4_9bV_zKzBmNv)
+### [Видеокурс по SQL Essential. Урок 3. Основы DDL.](https://www.youtube.com/watch?v=vfdFgYg1x80&amp;list=PLvItDmb0sZw_NDm3pDMQ4_9bV_zKzBmNv&amp;index=3)

@@ -1,0 +1,3 @@
+# [EngineerSpock - IT & программирование](https://www.youtube.com/@EngineerSpock/playlists)
+## [Курс по Django](https://www.youtube.com/playlist?list=PLBheEHDcG7-nyRX-kMT2jyudahDQ-A-Ss)
+### [Полный курс по Django # 4 / Django ORM, модели, миграции](https://www.youtube.com/watch?v=6hz6GXfiCKM&amp;list=PLBheEHDcG7-nyRX-kMT2jyudahDQ-A-Ss&amp;index=4)

@@ -1,0 +1,3 @@
+# [Bogdan Stashchuk](https://www.youtube.com/@Bogdan_Stashchuk/playlists)
+## [Git branches and Git HEAD](https://www.youtube.com/playlist?list=PLWkguCWKqN9MBd_1HmFl_xZQlMWem0oUV)
+### [Git branches and Git HEAD: 52 Installing GitHub Desktop](https://www.youtube.com/watch?v=dx8rVNyPheQ&amp;list=PLWkguCWKqN9MBd_1HmFl_xZQlMWem0oUV&amp;index=3)

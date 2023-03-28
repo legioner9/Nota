@@ -1,0 +1,3 @@
+# [Дни Решений](https://www.youtube.com/@teleinfoRU/playlists)
+## [IP телефония (VoIP): лучшие решения](https://www.youtube.com/playlist?list=PLe8r5bEnvnZP6yOWIYyyygqPvS58uMQBJ)
+### [Как подключить два IP телефона напрямую без IP-АТС (Peer-to-peer, DynDNS)](https://www.youtube.com/watch?v=8IexWvpf4LY&amp;list=PLe8r5bEnvnZP6yOWIYyyygqPvS58uMQBJ&amp;index=27)

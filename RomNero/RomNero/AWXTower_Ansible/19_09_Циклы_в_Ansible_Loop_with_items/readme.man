@@ -1,0 +1,3 @@
+# [RomNero](https://www.youtube.com/@RomNero/playlists)
+## [AWX/Tower. Ansible.](https://www.youtube.com/playlist?list=PLqVeG_R3qMSza1YnuD8owbskkieBx7bcs)
+### [09 Циклы в Ansible. Loop with_items.](https://www.youtube.com/watch?v=zn6Qnq-B3rE&amp;list=PLqVeG_R3qMSza1YnuD8owbskkieBx7bcs&amp;index=19)

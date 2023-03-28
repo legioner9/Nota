@@ -1,0 +1,3 @@
+# [selfedu](https://www.youtube.com/@selfedu_rus/playlists?view=1)
+## [Уроки по Django REST Framework](https://www.youtube.com/playlist?list=PLA0M1Bcd0w8xZA3Kl1fYmOH_MfLpiYMRs)
+### [#15. Добавляем пагинацию (pagination) | Уроки по Django REST Framework](https://www.youtube.com/watch?v=bITQ13XCU9Q&amp;list=PLA0M1Bcd0w8xZA3Kl1fYmOH_MfLpiYMRs&amp;index=15)

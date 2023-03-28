@@ -1,0 +1,4 @@
+### [Состояния процесса](https://www.youtube.com/watch?v=86IwgWCualk&amp;list=PLY7PmJJFH5nReRfE48vF_r_FvAbzLL8yj&amp;index=1)
+### [Типы планировщиков в ОС](https://www.youtube.com/watch?v=Uitxt1i9hXw&amp;list=PLY7PmJJFH5nReRfE48vF_r_FvAbzLL8yj&amp;index=2)
+### [FCFS планировщик процессов](https://www.youtube.com/watch?v=ZZ0Dn-ct9xc&amp;list=PLY7PmJJFH5nReRfE48vF_r_FvAbzLL8yj&amp;index=3)
+### [Round Robin планировщик процессов](https://www.youtube.com/watch?v=YC_wmTQ1HCs&amp;list=PLY7PmJJFH5nReRfE48vF_r_FvAbzLL8yj&amp;index=4)

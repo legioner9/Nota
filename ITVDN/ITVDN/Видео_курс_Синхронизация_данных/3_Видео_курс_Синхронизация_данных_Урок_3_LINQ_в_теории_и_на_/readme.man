@@ -1,0 +1,3 @@
+# [ITVDN](https://www.youtube.com/@ITVDN/playlists?view=1)
+## [Видео курс Синхронизация данных](https://www.youtube.com/playlist?list=PLvItDmb0sZw8C68rYROVNbRKFnW4XR8-K)
+### [Видео курс Синхронизация данных. Урок 3. LINQ в теории и на практике](https://www.youtube.com/watch?v=ytNysN5D6jg&amp;list=PLvItDmb0sZw8C68rYROVNbRKFnW4XR8-K&amp;index=3)

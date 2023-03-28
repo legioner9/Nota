@@ -1,0 +1,3 @@
+# [ITVDN](https://www.youtube.com/@ITVDN/playlists?view=1)
+## [Android Advanced](https://www.youtube.com/playlist?list=PLvItDmb0sZw-bLPuxKHPVej4tVQwSZlXu)
+### [WebView, Retrofit, JSON. Android Advanced. Урок 9](https://www.youtube.com/watch?v=_jJcEbCVZ8k&amp;list=PLvItDmb0sZw-bLPuxKHPVej4tVQwSZlXu&amp;index=9)

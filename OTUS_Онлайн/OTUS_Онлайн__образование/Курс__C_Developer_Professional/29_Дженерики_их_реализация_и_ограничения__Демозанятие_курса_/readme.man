@@ -1,0 +1,3 @@
+# [OTUS Онлайн - образование](https://www.youtube.com/@otus_education/playlists)
+## [Курс | C# Developer. Professional](https://www.youtube.com/playlist?list=PLfnFOImnyWRUlDMnKYobAhsHjc4aAleBy)
+### [Дженерики, их реализация и ограничения // Демо-занятие курса «C# Developer  Professional»](https://www.youtube.com/watch?v=uym4_mxr2Lw&amp;list=PLfnFOImnyWRUlDMnKYobAhsHjc4aAleBy&amp;index=29)

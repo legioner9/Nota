@@ -1,0 +1,3 @@
+# [Гоша Дударь](https://www.youtube.com/@gosha_dudar/playlists?view=1)
+## [Изучение C# WPF на практике / Разработка программ на WPF и XAML](https://www.youtube.com/playlist?list=PL0lO_mIqDDFVI0xwaYbm7h9ewYu5hftfA)
+### [Изучение C# WPF на практике / Урок #2 – Основы WPF. Создание калькулятора на WPF](https://www.youtube.com/watch?v=3rgFzRSz9cs&amp;list=PL0lO_mIqDDFVI0xwaYbm7h9ewYu5hftfA&amp;index=2)

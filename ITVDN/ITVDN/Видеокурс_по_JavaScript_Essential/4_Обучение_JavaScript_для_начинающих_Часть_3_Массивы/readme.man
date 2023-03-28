@@ -1,0 +1,3 @@
+# [ITVDN](https://www.youtube.com/@ITVDN/playlists?view=1)
+## [Видеокурс по JavaScript Essential](https://www.youtube.com/playlist?list=PLvItDmb0sZw8opJURj5eHdfdU5bnnhE5W)
+### [Обучение JavaScript для начинающих. Часть 3. Массивы](https://www.youtube.com/watch?v=BKKGyHubO6Q&amp;list=PLvItDmb0sZw8opJURj5eHdfdU5bnnhE5W&amp;index=4)

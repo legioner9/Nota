@@ -1,0 +1,2 @@
+### [№1 - Создание Telegram-бота для удаленного доступа](https://www.youtube.com/watch?v=MeHBwwK8yB8&amp;list=PL0FGkDGJQjJForTA0z669DZRaY-iNt_dt&amp;index=1)
+### [№2 - Создание Telegram-бота для удаленного доступа](https://www.youtube.com/watch?v=p-Y_9sSS_tE&amp;list=PL0FGkDGJQjJForTA0z669DZRaY-iNt_dt&amp;index=2)

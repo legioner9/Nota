@@ -1,0 +1,3 @@
+# [Asterisk Russia](https://www.youtube.com/@Asterisker/playlists)
+## [AsterConf-2019 - Доклады](https://www.youtube.com/playlist?list=PLrUzrM6usSzrPcZL4AM-me4U89kDzBsJZ)
+### [Интеграция ZADARMA с телефонной сетью общего пользования | AsterConf-2019](https://www.youtube.com/watch?v=xMolyLGgNlA&amp;list=PLrUzrM6usSzrPcZL4AM-me4U89kDzBsJZ&amp;index=22)

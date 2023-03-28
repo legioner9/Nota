@@ -1,0 +1,3 @@
+# [ITVDN](https://www.youtube.com/@ITVDN/playlists?view=1)
+## [Ruby Essential](https://www.youtube.com/playlist?list=PLvItDmb0sZw9ujotIe0HeMnkmAf1XbWlK)
+### [Ruby Essential. Урок 4. Массивы и хеши.](https://www.youtube.com/watch?v=nkZ1IEJcUAQ&amp;list=PLvItDmb0sZw9ujotIe0HeMnkmAf1XbWlK&amp;index=4)

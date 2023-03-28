@@ -1,0 +1,3 @@
+# [Bogdan Stashchuk](https://www.youtube.com/@Bogdan_Stashchuk/playlists)
+## [MongoDB Indexing](https://www.youtube.com/playlist?list=PLWkguCWKqN9Pokkb0tDgwYxo2vNuc8iFT)
+### [04 MongoDB Indexing - B-Tree and how index works](https://www.youtube.com/watch?v=FkNsbIOUNro&amp;list=PLWkguCWKqN9Pokkb0tDgwYxo2vNuc8iFT&amp;index=4)

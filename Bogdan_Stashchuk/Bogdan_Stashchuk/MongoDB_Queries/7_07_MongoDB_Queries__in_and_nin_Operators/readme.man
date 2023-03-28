@@ -1,0 +1,3 @@
+# [Bogdan Stashchuk](https://www.youtube.com/@Bogdan_Stashchuk/playlists)
+## [MongoDB Queries](https://www.youtube.com/playlist?list=PLWkguCWKqN9OSqOOKvoQaUtQAszYhoBYE)
+### [07 MongoDB Queries - $in and $nin Operators](https://www.youtube.com/watch?v=P2N-RhXUCtk&amp;list=PLWkguCWKqN9OSqOOKvoQaUtQAszYhoBYE&amp;index=7)

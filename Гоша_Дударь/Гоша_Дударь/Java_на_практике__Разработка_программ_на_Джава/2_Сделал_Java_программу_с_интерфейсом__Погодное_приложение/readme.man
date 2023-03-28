@@ -1,0 +1,3 @@
+# [Гоша Дударь](https://www.youtube.com/@gosha_dudar/playlists?view=1)
+## [Java на практике / Разработка программ на Джава](https://www.youtube.com/playlist?list=PL0lO_mIqDDFXyG81DSG6m-8toBC_qftas)
+### [Сделал Java программу с интерфейсом / Погодное приложение](https://www.youtube.com/watch?v=5mBKzVs5MY0&amp;list=PL0lO_mIqDDFXyG81DSG6m-8toBC_qftas&amp;index=2)

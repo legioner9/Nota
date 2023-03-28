@@ -1,0 +1,3 @@
+# [Школа itProger / Программирование](https://www.youtube.com/@itproger/playlists?view=1)
+## [Уроки Андроид Студио для начинающих / Введение в Android с нуля](https://www.youtube.com/playlist?list=PLDyJYA6aTY1nZqYprT1PKtDFthBcZWAMZ)
+### [Уроки Android Studio с нуля / #4 – Всплывающие сообщения (Toast и AlertDialog)](https://www.youtube.com/watch?v=oP2LsgMeR0s&amp;list=PLDyJYA6aTY1nZqYprT1PKtDFthBcZWAMZ&amp;index=4)

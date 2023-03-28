@@ -1,0 +1,3 @@
+# [OTUS Онлайн - образование](https://www.youtube.com/@otus_education/playlists)
+## [Курс | Rust Developer](https://www.youtube.com/playlist?list=PLfnFOImnyWRWR_eHNJZP4qez9U1OL8lTb)
+### [Какие проблемы решает Rust? // Демо-занятие курса «Rust Developer»](https://www.youtube.com/watch?v=WOhaCzeTGR0&amp;list=PLfnFOImnyWRWR_eHNJZP4qez9U1OL8lTb&amp;index=5)

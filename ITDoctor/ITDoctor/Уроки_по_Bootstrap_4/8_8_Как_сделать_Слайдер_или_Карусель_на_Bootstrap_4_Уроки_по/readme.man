@@ -1,0 +1,3 @@
+# [ITDoctor](https://www.youtube.com/@ITDoctor/playlists?view=1&sort=dd&shelf_id=0)
+## [Уроки по Bootstrap 4](https://www.youtube.com/playlist?list=PLuY6eeDuleIP8cwKmwmT2pAGFMnhI5qNO)
+### [#8 Как сделать Слайдер или Карусель на Bootstrap 4, Уроки по Bootstrap 4](https://www.youtube.com/watch?v=x2jI913rUvg&amp;list=PLuY6eeDuleIP8cwKmwmT2pAGFMnhI5qNO&amp;index=8)

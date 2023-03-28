@@ -1,0 +1,3 @@
+# [Geek Code](https://www.youtube.com/@GeekCode/playlists)
+## [Создание Telegram бота на Node.js](https://www.youtube.com/playlist?list=PLhgRAQ8BwWFaxlkNNtO0NDPmaVO9txRg8)
+### [Создание Telegram бота на Node.js / #27 - Создание и оплата товара](https://www.youtube.com/watch?v=mnpSxC2R1Uc&amp;list=PLhgRAQ8BwWFaxlkNNtO0NDPmaVO9txRg8&amp;index=27)

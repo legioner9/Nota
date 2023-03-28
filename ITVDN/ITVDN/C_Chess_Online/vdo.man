@@ -1,0 +1,5 @@
+### [Шахматный клиент-сервер на C#. Часть 1. Алгоритм. Программирование шахматных правил игры.](https://www.youtube.com/watch?v=ZuIB4s-5b9g&amp;list=PLvItDmb0sZw8T4pgniSjRgTwtI4Q3DdKh&amp;index=1)
+### [Шахматный клиент-сервер на C#. Часть 2. Шахматная доска + фигуры. Unity3D.](https://www.youtube.com/watch?v=ta3cMV9U7Mo&amp;list=PLvItDmb0sZw8T4pgniSjRgTwtI4Q3DdKh&amp;index=2)
+### [Шахматный клиент-сервер. Часть 3. Шахматная база данных на сервере](https://www.youtube.com/watch?v=_c1tWBsfTqA&amp;list=PLvItDmb0sZw8T4pgniSjRgTwtI4Q3DdKh&amp;index=3)
+### [Шахматный клиент-сервер на С#. Часть 4. Модуль подключения клиента к серверу](https://www.youtube.com/watch?v=hCsf7fe5wEI&amp;list=PLvItDmb0sZw8T4pgniSjRgTwtI4Q3DdKh&amp;index=4)
+### [Пятнашки на C# и Unity для Android](https://www.youtube.com/watch?v=I8ykupF6IjE&amp;list=PLvItDmb0sZw8T4pgniSjRgTwtI4Q3DdKh&amp;index=5)

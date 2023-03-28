@@ -1,0 +1,3 @@
+# [Диджитализируй!](https://www.youtube.com/@t0digital/playlists)
+## [Базы данных](https://www.youtube.com/playlist?list=PLAk6CfuV7hyqcOpV5k7XeEpigQWJp3n3F)
+### [Как не расстрелять свои ноги с Django, транзакциями и исключениями](https://www.youtube.com/watch?v=u2t1aLYu2QU&amp;list=PLAk6CfuV7hyqcOpV5k7XeEpigQWJp3n3F&amp;index=8)

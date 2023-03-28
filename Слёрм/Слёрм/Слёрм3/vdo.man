@@ -1,0 +1,3 @@
+### [Slurm-3: как это было](https://www.youtube.com/watch?v=OA2SpZ86G0I&amp;list=PL8D2P0ruohOCMbMJvFdo8ZvudTVEQnpmI&amp;index=1)
+### [Slurm-3: интервью с сотрудниками Selectel](https://www.youtube.com/watch?v=yVmvkcNqYdM&amp;list=PL8D2P0ruohOCMbMJvFdo8ZvudTVEQnpmI&amp;index=2)
+### [Слёрм-3: ответы на вопросы](https://www.youtube.com/watch?v=ROwId6TLpQc&amp;list=PL8D2P0ruohOCMbMJvFdo8ZvudTVEQnpmI&amp;index=3)

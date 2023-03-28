@@ -1,0 +1,3 @@
+# [ITVDN](https://www.youtube.com/@ITVDN/playlists?view=1)
+## [Новинки Front-end](https://www.youtube.com/playlist?list=PLvItDmb0sZw8MqPe5VeVEe6JRpG0B3j3X)
+### [Уроки Angular 11 для начинающих ➤ Как начать работу с Angular 11 с нуля?](https://www.youtube.com/watch?v=KbI-Y-fjecE&amp;list=PLvItDmb0sZw8MqPe5VeVEe6JRpG0B3j3X&amp;index=1)

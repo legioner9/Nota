@@ -1,0 +1,5 @@
+### [Простой блог на NextJS // Основы SSR // ReactJS // GetServerSide &amp; GetInitialProps](https://www.youtube.com/watch?v=kwpqtPeYPH4&amp;list=PLXkonRjGXZwwzM0y1rHRfHWbSzszNK4J7&amp;index=1)
+### [Поиск локаций Next JS + лоадер [React Loading Skeleton] // Travel приложение на Next JS](https://www.youtube.com/watch?v=HGcPu8qdqL4&amp;list=PLXkonRjGXZwwzM0y1rHRfHWbSzszNK4J7&amp;index=2)
+### [⚡️ Быстрый курс по Next.js | Уроки next.js для начинающих](https://www.youtube.com/watch?v=_pbk_Ab5DC8&amp;list=PLXkonRjGXZwwzM0y1rHRfHWbSzszNK4J7&amp;index=3)
+### [Next.js 13 - Это все меняет! | Turbopack в 10 раз быстрее Vite @VercelHQ](https://www.youtube.com/watch?v=kJJhyPAVkO4&amp;list=PLXkonRjGXZwwzM0y1rHRfHWbSzszNK4J7&amp;index=4)
+### [🚀 Astro и Remix c нуля за стрим! Разбор фреймворков и практика - Заходи, тут интересно!](https://www.youtube.com/watch?v=2OJIGP-STVk&amp;list=PLXkonRjGXZwwzM0y1rHRfHWbSzszNK4J7&amp;index=5)

@@ -1,0 +1,3 @@
+# [OTUS Онлайн - образование](https://www.youtube.com/@otus_education/playlists)
+## [Курс | Специализация Python Developer](https://www.youtube.com/playlist?list=PLfnFOImnyWRUL2MZNVYgDJJWyDPTVXmsg)
+### [Знакомство с веб разработкой на Flask // Демо-занятие курса «Специализация Python Developer»](https://www.youtube.com/watch?v=PAq664WhsLs&amp;list=PLfnFOImnyWRUL2MZNVYgDJJWyDPTVXmsg&amp;index=1)

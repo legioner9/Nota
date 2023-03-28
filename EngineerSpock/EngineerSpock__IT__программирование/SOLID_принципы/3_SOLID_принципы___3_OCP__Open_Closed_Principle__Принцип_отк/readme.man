@@ -1,0 +1,3 @@
+# [EngineerSpock - IT & программирование](https://www.youtube.com/@EngineerSpock/playlists)
+## [SOLID принципы](https://www.youtube.com/playlist?list=PLBheEHDcG7-nJsPVaejwcth7r9WhWWPdI)
+### [SOLID принципы / # 3 OCP - Open Closed Principle / Принцип открытости закрытости](https://www.youtube.com/watch?v=9YJUkl58rCM&amp;list=PLBheEHDcG7-nJsPVaejwcth7r9WhWWPdI&amp;index=3)

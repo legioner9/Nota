@@ -1,0 +1,3 @@
+# [OTUS Онлайн - образование](https://www.youtube.com/@otus_education/playlists)
+## [Курс |  iOS Developer. Professional](https://www.youtube.com/playlist?list=PLfnFOImnyWRXl8vt2LdJeBHEShktuDLzT)
+### [Разбираемся с виджетами в iOS // Демо-занятие курса «iOS Developer. Professional»](https://www.youtube.com/watch?v=mZ2BIAko8WY&amp;list=PLfnFOImnyWRXl8vt2LdJeBHEShktuDLzT&amp;index=3)

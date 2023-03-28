@@ -1,0 +1,3 @@
+# [ITVDN](https://www.youtube.com/@ITVDN/playlists?view=1)
+## [Видео курс CoffeeScript](https://www.youtube.com/playlist?list=PLvItDmb0sZw8ps2tq0qrhFWBwkS_dltUd)
+### [Видео курс CoffeeScript. Урок 5. Классы](https://www.youtube.com/watch?v=E_cZter90-s&amp;list=PLvItDmb0sZw8ps2tq0qrhFWBwkS_dltUd&amp;index=5)

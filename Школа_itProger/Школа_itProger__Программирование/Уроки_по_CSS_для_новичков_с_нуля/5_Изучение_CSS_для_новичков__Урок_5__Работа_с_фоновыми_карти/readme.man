@@ -1,0 +1,3 @@
+# [Школа itProger / Программирование](https://www.youtube.com/@itproger/playlists?view=1)
+## [Уроки по CSS для новичков с нуля!](https://www.youtube.com/playlist?list=PLDyJYA6aTY1meZ3d08sRILB46OJ-wojF2)
+### [Изучение CSS для новичков / Урок #5 – Работа с фоновыми картинками](https://www.youtube.com/watch?v=k2XTkIW9Y0I&amp;list=PLDyJYA6aTY1meZ3d08sRILB46OJ-wojF2&amp;index=5)

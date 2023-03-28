@@ -1,0 +1,8 @@
+### [Уроки Java Spring Boot / #1 - Создание веб-сайта на Java](https://www.youtube.com/watch?v=FyZFK4LBjj0&amp;list=PL0lO_mIqDDFUYDRzvocu5EsFGBqPM7CIw&amp;index=1)
+### [Уроки Java Spring Boot / #2 - Главная страница сайта](https://www.youtube.com/watch?v=5s50Zj8YIE8&amp;list=PL0lO_mIqDDFUYDRzvocu5EsFGBqPM7CIw&amp;index=2)
+### [Уроки Java Spring Boot / #3 - Разработка раздела «Блог»](https://www.youtube.com/watch?v=S1oOMJorZ2w&amp;list=PL0lO_mIqDDFUYDRzvocu5EsFGBqPM7CIw&amp;index=3)
+### [Уроки Java Spring Boot / #4 - Работа с базой данных MySQL. Создание модели](https://www.youtube.com/watch?v=oGK2KufvxM0&amp;list=PL0lO_mIqDDFUYDRzvocu5EsFGBqPM7CIw&amp;index=4)
+### [Уроки Java Spring Boot / #5 - Форма добавления записей через сайт](https://www.youtube.com/watch?v=sPH58lbzYvo&amp;list=PL0lO_mIqDDFUYDRzvocu5EsFGBqPM7CIw&amp;index=5)
+### [Уроки Java Spring Boot / #6 - Вывод каждой из статей](https://www.youtube.com/watch?v=ZJUAR8Xe6CY&amp;list=PL0lO_mIqDDFUYDRzvocu5EsFGBqPM7CIw&amp;index=6)
+### [Уроки Java Spring Boot / #7 - Редактирование и удаление](https://www.youtube.com/watch?v=R3YNPm7ZmYY&amp;list=PL0lO_mIqDDFUYDRzvocu5EsFGBqPM7CIw&amp;index=7)
+### [Профессия Java разработчик | Презентация онлайн курса](https://www.youtube.com/watch?v=nCfqKi0NjXM&amp;list=PL0lO_mIqDDFUYDRzvocu5EsFGBqPM7CIw&amp;index=8)

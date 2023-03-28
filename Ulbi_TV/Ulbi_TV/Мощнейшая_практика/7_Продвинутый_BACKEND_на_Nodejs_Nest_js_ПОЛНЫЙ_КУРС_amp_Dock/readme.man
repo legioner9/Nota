@@ -1,0 +1,3 @@
+# [Ulbi TV](https://www.youtube.com/@UlbiTV/playlists)
+## [Мощнейшая практика](https://www.youtube.com/playlist?list=PL6DxKON1uLOFJ5_dDcX7G1osKnsBlCaaT)
+### [Продвинутый BACKEND на Node.js. Nest js ПОЛНЫЙ КУРС &amp; Docker](https://www.youtube.com/watch?v=dDeWWQWMM-Y&amp;list=PL6DxKON1uLOFJ5_dDcX7G1osKnsBlCaaT&amp;index=7)

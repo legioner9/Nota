@@ -1,0 +1,2 @@
+### [CSS Reset - ненужный артефакт или спасательный круг // Демо-занятие курса «HTML/CSS»](https://www.youtube.com/watch?v=FtzswS9gjRE&amp;list=PLfnFOImnyWRWps2KWHlt8addzRLNC-oK0&amp;index=1)
+### [Как сверстать любой вебсайт: Float, Flexbox, Grid // Демо-занятие курса «HTML CSS»](https://www.youtube.com/watch?v=HAMPxxzVUnk&amp;list=PLfnFOImnyWRWps2KWHlt8addzRLNC-oK0&amp;index=2)

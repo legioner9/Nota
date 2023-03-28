@@ -1,0 +1,3 @@
+# [Bogdan Stashchuk](https://www.youtube.com/@Bogdan_Stashchuk/playlists)
+## [MongoDB Queries](https://www.youtube.com/playlist?list=PLWkguCWKqN9OSqOOKvoQaUtQAszYhoBYE)
+### [06 MongoDB Queries - Comparison Operators $eq, $neq, $lt, $gt](https://www.youtube.com/watch?v=mztImeTxwLc&amp;list=PLWkguCWKqN9OSqOOKvoQaUtQAszYhoBYE&amp;index=6)

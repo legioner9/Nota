@@ -1,0 +1,3 @@
+# [Archakov Blog](https://www.youtube.com/@ArchakovBlog/playlists)
+## [React Pizza v2 [REMASTERED]](https://www.youtube.com/playlist?list=PL0FGkDGJQjJG9eI85xM1_iLIf6BcEdaNl)
+### [#12: 🍕 React Pizza v2 — Изучаем библиотеку Redux Toolkit](https://www.youtube.com/watch?v=-pF8SDS-uSc&amp;list=PL0FGkDGJQjJG9eI85xM1_iLIf6BcEdaNl&amp;index=13)

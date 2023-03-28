@@ -1,0 +1,3 @@
+# [Unified Communications from Cliffis](https://www.youtube.com/@uc_cliffis/playlists)
+## [Asterisk PBX](https://www.youtube.com/playlist?list=PLQkhRYZT7TCkm7db8HGDHxkkXXFJP-JVQ)
+### [Asterisk: Dialplan(Prefix) или как связать два и более  офисов/Asterisk с одинаковой нумерацией!!!](https://www.youtube.com/watch?v=3Ajn7avhxnE&amp;list=PLQkhRYZT7TCkm7db8HGDHxkkXXFJP-JVQ&amp;index=7)

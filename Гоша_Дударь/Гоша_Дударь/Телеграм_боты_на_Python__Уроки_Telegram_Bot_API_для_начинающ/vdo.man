@@ -1,0 +1,4 @@
+### [Telegram Bot на Python / Создания ботов для начинающих за 30 минут](https://www.youtube.com/watch?v=HodO2eBEz_8&amp;list=PL0lO_mIqDDFUdlTc097-1A9IBchtJEggp&amp;index=1)
+### [Телеграмм и коронавирус / Пишем бота на Python с отслеживанием данных](https://www.youtube.com/watch?v=a0VVDMGwS0k&amp;list=PL0lO_mIqDDFUdlTc097-1A9IBchtJEggp&amp;index=2)
+### [Пишем телеграм бота на Python / Бот по выбору языка программирования](https://www.youtube.com/watch?v=QoJ_yvPttlc&amp;list=PL0lO_mIqDDFUdlTc097-1A9IBchtJEggp&amp;index=3)
+### [Профессия Python разработчик | Презентация онлайн курса](https://www.youtube.com/watch?v=2XSrueycChI&amp;list=PL0lO_mIqDDFUdlTc097-1A9IBchtJEggp&amp;index=4)

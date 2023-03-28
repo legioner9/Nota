@@ -1,0 +1,3 @@
+# [OTUS Онлайн - образование](https://www.youtube.com/@otus_education/playlists)
+## [Курс | CI/CD на AWS, Azure и Gitlab](https://www.youtube.com/playlist?list=PLfnFOImnyWRXlzp37yQsipNAxFE3W3Qa3)
+### [Использование Jenkins c K8S // Демо-занятие курса «CI/CD»‎](https://www.youtube.com/watch?v=8i4cRusrZnM&amp;list=PLfnFOImnyWRXlzp37yQsipNAxFE3W3Qa3&amp;index=1)

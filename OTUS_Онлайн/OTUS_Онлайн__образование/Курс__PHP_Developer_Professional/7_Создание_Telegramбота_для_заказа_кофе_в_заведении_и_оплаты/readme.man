@@ -1,0 +1,3 @@
+# [OTUS Онлайн - образование](https://www.youtube.com/@otus_education/playlists)
+## [Курс | PHP Developer. Professional](https://www.youtube.com/playlist?list=PLfnFOImnyWRVMrvaNpPJJaLVbBS3JQjIm)
+### [Создание Telegram-бота для заказа кофе в заведении и оплаты онлайн. День 1](https://www.youtube.com/watch?v=IShce1cszPw&amp;list=PLfnFOImnyWRVMrvaNpPJJaLVbBS3JQjIm&amp;index=7)

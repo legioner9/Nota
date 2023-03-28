@@ -1,0 +1,5 @@
+### [УРОКИ FASTAPI НА БОЕВОМ СЕРВИСЕ 1. MVP, СОЗДАНИЕ ПОЛЬЗОВАТЕЛЯ, МИГРАЦИИ ALEMBIC + ASYNC SQLALCHEMY](https://www.youtube.com/watch?v=UkwpJyvf8CA&amp;list=PLlKID9PnOE5jiWTTsshCXdz5qvg8JWezX&amp;index=1)
+### [УРОКИ FASTAPI НА БОЕВОМ СЕРВИСЕ 2. РЕФАКТОРИНГ СТРУКТУРЫ ПРОЕКТА, НАПИСАНИЕ ПЕРВОГО ТЕСТА](https://www.youtube.com/watch?v=FYsOenDefkk&amp;list=PLlKID9PnOE5jiWTTsshCXdz5qvg8JWezX&amp;index=2)
+### [УРОКИ FASTAPI НА БОЕВОМ СЕРВИСЕ 3. РЕАЛИЗАЦИЯ ENDPOINTS ДЛЯ УПРАВЛЕНИЯ ДАННЫМИ ПОЛЬЗОВАТЕЛЯ + ТЕСТЫ](https://www.youtube.com/watch?v=DfWrIV0rDRQ&amp;list=PLlKID9PnOE5jiWTTsshCXdz5qvg8JWezX&amp;index=3)
+### [УРОКИ FASTAPI НА БОЕВОМ СЕРВИСЕ 4. БОЛЬШЕ ТЕСТОВ, LINTERS, PRE-COMMIT HOOKS](https://www.youtube.com/watch?v=yImsWPzANtM&amp;list=PLlKID9PnOE5jiWTTsshCXdz5qvg8JWezX&amp;index=4)
+### [УРОКИ FASTAPI НА БОЕВОМ СЕРВИСЕ 5. АВТОРИЗАЦИЯ И АУТЕНТИФИКАЦИЯ. ИСПОЛЬЗОВАНИЕ JWT.](https://www.youtube.com/watch?v=Ws-J7HbQ4nY&amp;list=PLlKID9PnOE5jiWTTsshCXdz5qvg8JWezX&amp;index=5)

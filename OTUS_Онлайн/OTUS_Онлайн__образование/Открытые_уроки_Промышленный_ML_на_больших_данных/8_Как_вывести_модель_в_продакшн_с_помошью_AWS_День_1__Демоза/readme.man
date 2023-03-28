@@ -1,0 +1,3 @@
+# [OTUS Онлайн - образование](https://www.youtube.com/@otus_education/playlists)
+## [Открытые уроки Промышленный ML на больших данных](https://www.youtube.com/playlist?list=PLfnFOImnyWRXqI3pacN-Qa1TrEQlrnGON)
+### [Как вывести модель в продакшн с помошью AWS? День 1 // Демо-занятие курса «MLOps»](https://www.youtube.com/watch?v=jiPzSeRTSkg&amp;list=PLfnFOImnyWRXqI3pacN-Qa1TrEQlrnGON&amp;index=8)

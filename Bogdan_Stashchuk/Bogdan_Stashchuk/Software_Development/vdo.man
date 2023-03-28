@@ -1,0 +1,3 @@
+### [Hello World in 50 Programming Languages (in 1 min)](https://www.youtube.com/watch?v=dFvgUjXKsLU&amp;list=PLWkguCWKqN9PZjJligyzHDepQxVMLSclw&amp;index=1)
+### [How to Access &quot;localhost&quot; from the Internet](https://www.youtube.com/watch?v=bxEmW1gAyRw&amp;list=PLWkguCWKqN9PZjJligyzHDepQxVMLSclw&amp;index=2)
+### [Фронтенд, Бэкенд и Фулл Стек](https://www.youtube.com/watch?v=I3d0aMehazg&amp;list=PLWkguCWKqN9PZjJligyzHDepQxVMLSclw&amp;index=3)

@@ -1,0 +1,3 @@
+# [Mikrotik Training](https://www.youtube.com/@MikrotikTraining/playlists)
+## [security](https://www.youtube.com/playlist?list=PLg90hRDCH9A7chPm1P-12ezpQf5NMCC3C)
+### [Общие настройки PPP-profile для PPP-VPN](https://www.youtube.com/watch?v=rBkf_aBvd6k&amp;list=PLg90hRDCH9A7chPm1P-12ezpQf5NMCC3C&amp;index=4)

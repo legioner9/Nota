@@ -1,0 +1,3 @@
+# [Denis Kuznetsov](https://www.youtube.com/@deniskuznetsov7097/playlists)
+## [secur](https://www.youtube.com/playlist?list=PLrih0txcjWjHHR6Brcyd5Dn3HPSDoXTVh)
+### [Защита ПО (и типа того): Аутентификация - база пользователей ldap + API](https://www.youtube.com/watch?v=5gf9x8UQIt0&amp;list=PLrih0txcjWjHHR6Brcyd5Dn3HPSDoXTVh&amp;index=1)

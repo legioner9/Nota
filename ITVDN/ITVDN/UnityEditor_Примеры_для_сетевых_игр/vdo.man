@@ -1,0 +1,7 @@
+### [UnityEditor. Примеры для сетевых игр. Урок 1](https://www.youtube.com/watch?v=J_LF5sIYOAA&amp;list=PLvItDmb0sZw9jo9s6cY2kYE7TBCcjCTIX&amp;index=1)
+### [UnityEditor. Примеры для сетевых игр. Урок 2. Меняем значение полей через редактор](https://www.youtube.com/watch?v=HLhRWZ4kZ-I&amp;list=PLvItDmb0sZw9jo9s6cY2kYE7TBCcjCTIX&amp;index=2)
+### [UnityEditor. Примеры для сетевых игр. Урок 3. Иконки в инспекторе](https://www.youtube.com/watch?v=Ciae3OVeTTk&amp;list=PLvItDmb0sZw9jo9s6cY2kYE7TBCcjCTIX&amp;index=3)
+### [UnityEditor. Примеры для сетевых игр. Урок 4. Создаем EditorWindow и сохраняем настройки в редакторе](https://www.youtube.com/watch?v=Ux_cepFgU7s&amp;list=PLvItDmb0sZw9jo9s6cY2kYE7TBCcjCTIX&amp;index=4)
+### [UnityEditor. Примеры для сетевых игр. Урок 5. Отображение пути в редакторе](https://www.youtube.com/watch?v=NxTIceOn8kk&amp;list=PLvItDmb0sZw9jo9s6cY2kYE7TBCcjCTIX&amp;index=5)
+### [UnityEditor. Примеры для сетевых игр. Урок 6. Управление игроком и RenderCustomGizmo](https://www.youtube.com/watch?v=XLfqCZfFPDE&amp;list=PLvItDmb0sZw9jo9s6cY2kYE7TBCcjCTIX&amp;index=6)
+### [UnityEditor. Примеры для сетевых игр. Урок 7. NPC и вспомогательные возможности редактора](https://www.youtube.com/watch?v=YrLYmdD3mNw&amp;list=PLvItDmb0sZw9jo9s6cY2kYE7TBCcjCTIX&amp;index=7)

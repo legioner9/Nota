@@ -1,0 +1,3 @@
+# [Cisco Ne Slabo / SEDICOMM TV](https://www.youtube.com/@cisconeslabo/playlists)
+## [Linux — Бесплатные мастер-классы от Академии Cisco Университет СЭДИКОММ](https://www.youtube.com/playlist?list=PLMiVLClzZDbTahs2dn-p7rwgadZwvbP7Y)
+### [Примеры использования команды tar в Linux](https://www.youtube.com/watch?v=ICHr0jj_Pt4&amp;list=PLMiVLClzZDbTahs2dn-p7rwgadZwvbP7Y&amp;index=4)

@@ -1,0 +1,3 @@
+# [ITVDN](https://www.youtube.com/@ITVDN/playlists?view=1)
+## [Видеокурс по Рефакторингу .NET приложений](https://www.youtube.com/playlist?list=PLvItDmb0sZw-MVZ8_mQxPp6A-_ADpauGf)
+### [Рефакторинг .NET приложений. Урок 5. Решение задач обобщения](https://www.youtube.com/watch?v=PE3slNp98yw&amp;list=PLvItDmb0sZw-MVZ8_mQxPp6A-_ADpauGf&amp;index=5)

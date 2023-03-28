@@ -1,0 +1,3 @@
+### [Telegram BOT от ITDoctor @itdoctorNavigatorBot](https://www.youtube.com/watch?v=IZj7up7CDdU&amp;list=PLuY6eeDuleINwYul9rayqtEm0Mtw6omP6&amp;index=1)
+### [Как создать телеграм бота на JS, Бот на Telegraf и деплой на Heroku](https://www.youtube.com/watch?v=YxHWfDdjIek&amp;list=PLuY6eeDuleINwYul9rayqtEm0Mtw6omP6&amp;index=2)
+### [Как работать с модулем pm2, автозапуск серверов node.js при старте ПК](https://www.youtube.com/watch?v=fvwMPHiplOI&amp;list=PLuY6eeDuleINwYul9rayqtEm0Mtw6omP6&amp;index=3)

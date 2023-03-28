@@ -1,0 +1,3 @@
+# [ITVDN](https://www.youtube.com/@ITVDN/playlists?view=1)
+## [Swift Essential](https://www.youtube.com/playlist?list=PLvItDmb0sZw__v0YCnSXAgllZbh0KdSm7)
+### [Swift Essential. Урок 6. MapKit(part 2) / Geofencing](https://www.youtube.com/watch?v=LNgB2QvzVL0&amp;list=PLvItDmb0sZw__v0YCnSXAgllZbh0KdSm7&amp;index=6)

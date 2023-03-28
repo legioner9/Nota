@@ -1,0 +1,3 @@
+# [OTUS Онлайн - образование](https://www.youtube.com/@otus_education/playlists)
+## [Курс | MS SQL Server разработчик](https://www.youtube.com/playlist?list=PLfnFOImnyWRVYUwkpb5SKAX784oj_x4j_)
+### [Parameter sniffing в SQL Server  что это и почему возникает // Курса «MS SQL Server Developer»‎](https://www.youtube.com/watch?v=Nv3MIXMs8WE&amp;list=PLfnFOImnyWRVYUwkpb5SKAX784oj_x4j_&amp;index=3)

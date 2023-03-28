@@ -1,0 +1,3 @@
+# [Bogdan Stashchuk](https://www.youtube.com/@Bogdan_Stashchuk/playlists)
+## [GraphQL](https://www.youtube.com/playlist?list=PLWkguCWKqN9NNaBabGu4qRzeLWP6VMGQM)
+### [GraphQL in React with Apollo](https://www.youtube.com/watch?v=EVIdbFN7dx4&amp;list=PLWkguCWKqN9NNaBabGu4qRzeLWP6VMGQM&amp;index=1)

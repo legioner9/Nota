@@ -1,0 +1,3 @@
+# [Neuro Lab! Algorithms](https://www.youtube.com/@NeuroLabAlgorithms/playlists)
+## [Осваиваем Golang](https://www.youtube.com/playlist?list=PLHUicSITKZEmz2w3zo-aUpxCUZuqONE4c)
+### [Выгребаем данные с сайта НГУ | Язык Go для бизнес аналитиков. Урок #19 #go #golang #уроки](https://www.youtube.com/watch?v=LU1OCZk2NCE&amp;list=PLHUicSITKZEmz2w3zo-aUpxCUZuqONE4c&amp;index=21)

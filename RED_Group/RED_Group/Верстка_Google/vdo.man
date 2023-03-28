@@ -1,0 +1,4 @@
+### [Верстка Копии Google com Часть 1 // Html Разметка // Верстка сайта с нуля](https://www.youtube.com/watch?v=PRx7ojGKMcw&amp;list=PLXkonRjGXZwzQWSNe2WeQOn_mr43e6cqB&amp;index=1)
+### [Верстка Копии Google Часть 2 - CSS стили - Оформляем Сайт Гугла](https://www.youtube.com/watch?v=AShmI--w5f4&amp;list=PLXkonRjGXZwzQWSNe2WeQOn_mr43e6cqB&amp;index=2)
+### [Выпадающее Меню как у Google на jQuery - Верстка Копии Google Часть 3](https://www.youtube.com/watch?v=iINSjNWn-Bg&amp;list=PLXkonRjGXZwzQWSNe2WeQOn_mr43e6cqB&amp;index=3)
+### [Адаптируем сайт копию Google - Верстка Копии Google Часть 4](https://www.youtube.com/watch?v=0WoCGUv7ZCM&amp;list=PLXkonRjGXZwzQWSNe2WeQOn_mr43e6cqB&amp;index=4)

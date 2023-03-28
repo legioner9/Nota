@@ -1,0 +1,8 @@
+### [DI, DI-контейнеры, аспектно-ориентированное программирование в Python vs Java. Чистый код, 11 глава](https://www.youtube.com/watch?v=haqLhNN5ZdY&amp;list=PLAk6CfuV7hypPtyLqacu7V9pjaMlmkqLi&amp;index=1)
+### [70 книг по IT, которые надо прочесть. Как писать хорошо, языки, тесты, БД, безопасность, soft skills](https://www.youtube.com/watch?v=dx7F7VqnsVQ&amp;list=PLAk6CfuV7hypPtyLqacu7V9pjaMlmkqLi&amp;index=2)
+### [Теоретический минимум по CS: логические вентили, булева алгебра, сумматоры. Читаем главу 1 «Основы»](https://www.youtube.com/watch?v=s7g7ZUCZ2q8&amp;list=PLAk6CfuV7hypPtyLqacu7V9pjaMlmkqLi&amp;index=3)
+### [Рефакторинг и запуск Telegram бота на сервере](https://www.youtube.com/watch?v=N_8eG0Yy7dU&amp;list=PLAk6CfuV7hypPtyLqacu7V9pjaMlmkqLi&amp;index=4)
+### [Почему в Python реализована глобальная функция len() и что об этом говорит Гвидо ван Россум?](https://www.youtube.com/watch?v=0-czTUWRReI&amp;list=PLAk6CfuV7hypPtyLqacu7V9pjaMlmkqLi&amp;index=5)
+### [Инвариантность, ковариантность и контравариантность на примере Python](https://www.youtube.com/watch?v=ZSO83DS6UxA&amp;list=PLAk6CfuV7hypPtyLqacu7V9pjaMlmkqLi&amp;index=6)
+### [Python: NewType против TypeAlias. Декомпозиция типов](https://www.youtube.com/watch?v=xdRroK3WwJg&amp;list=PLAk6CfuV7hypPtyLqacu7V9pjaMlmkqLi&amp;index=7)
+### [Нормальные формы базы данных. Три нормальных формы, нормализация и денормализация БД](https://www.youtube.com/watch?v=0kq99Y8m0gw&amp;list=PLAk6CfuV7hypPtyLqacu7V9pjaMlmkqLi&amp;index=8)

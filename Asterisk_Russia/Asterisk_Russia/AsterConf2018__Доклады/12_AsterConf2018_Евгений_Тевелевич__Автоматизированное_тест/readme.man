@@ -1,0 +1,3 @@
+# [Asterisk Russia](https://www.youtube.com/@Asterisker/playlists)
+## [AsterConf-2018 - Доклады](https://www.youtube.com/playlist?list=PLrUzrM6usSzq0u8zsOBQROnxey36CIx08)
+### [AsterConf-2018: Евгений Тевелевич - Автоматизированное тестирование конфигурации сервера Asterisk](https://www.youtube.com/watch?v=3RuvLP10OUs&amp;list=PLrUzrM6usSzq0u8zsOBQROnxey36CIx08&amp;index=12)

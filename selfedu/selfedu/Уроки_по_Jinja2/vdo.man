@@ -1,0 +1,6 @@
+### [Jinja2 #1: О шаблонизаторе, использование {{ }} в шаблонах](https://www.youtube.com/watch?v=cFJqMXxVNsI&amp;list=PLA0M1Bcd0w8wfmtElObQrBbZjY6XeA06U&amp;index=1)
+### [Jinja2 #2: Экранирование и блоки raw, for, if](https://www.youtube.com/watch?v=F63wc5nPdho&amp;list=PLA0M1Bcd0w8wfmtElObQrBbZjY6XeA06U&amp;index=2)
+### [Jinja2 #3: Фильтры и макросы   macro, call](https://www.youtube.com/watch?v=dsUOZXM1GAM&amp;list=PLA0M1Bcd0w8wfmtElObQrBbZjY6XeA06U&amp;index=3)
+### [Jinja2 #4: Загрузчики шаблонов - FileSystemLoader, PackageLoader, DictLoader, FunctionLoader](https://www.youtube.com/watch?v=1Dsy2dKNP3Y&amp;list=PLA0M1Bcd0w8wfmtElObQrBbZjY6XeA06U&amp;index=4)
+### [Jinja2 #5: Конструкции include и import](https://www.youtube.com/watch?v=Ree-JFi06y8&amp;list=PLA0M1Bcd0w8wfmtElObQrBbZjY6XeA06U&amp;index=5)
+### [Jinja2 #6: Наследование расширение шаблонов](https://www.youtube.com/watch?v=RYIGMcJMy6g&amp;list=PLA0M1Bcd0w8wfmtElObQrBbZjY6XeA06U&amp;index=6)

@@ -1,0 +1,5 @@
+### [01-Graylog. Обзор. Центральный лог сервер для Linux и Windows отчетов.](https://www.youtube.com/watch?v=L4145i69xIE&amp;list=PLqVeG_R3qMSyYLMeOXFauNvKCTezzb26I&amp;index=1)
+### [02-Graylog. Простая установка на один сервер. Центральный лог сервер для Linux и Windows отчетов.](https://www.youtube.com/watch?v=1ksa0IltFc0&amp;list=PLqVeG_R3qMSyYLMeOXFauNvKCTezzb26I&amp;index=2)
+### [03-Graylog Cluster. Multi Node установка. Центральный лог сервер для Linux и Windows отчетов.](https://www.youtube.com/watch?v=crkBSx2OT9w&amp;list=PLqVeG_R3qMSyYLMeOXFauNvKCTezzb26I&amp;index=3)
+### [04-Graylog. Подключение клиентов Linux.](https://www.youtube.com/watch?v=67o3cmG9KBc&amp;list=PLqVeG_R3qMSyYLMeOXFauNvKCTezzb26I&amp;index=4)
+### [05-Graylog. Подключение клиентов Windows.](https://www.youtube.com/watch?v=WvctExDrq9c&amp;list=PLqVeG_R3qMSyYLMeOXFauNvKCTezzb26I&amp;index=5)

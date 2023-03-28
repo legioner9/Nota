@@ -1,0 +1,3 @@
+# [CisAdmin](https://www.youtube.com/@cisadmin527/playlists)
+## [Основы IP телефонии на Cisco Packet Tracer](https://www.youtube.com/playlist?list=PLWhHqCPO22ksW9Erqjdbg-YPVZLCvenfa)
+### [0.Основы IP телефонии на Cisco Packet Tracer.Введение](https://www.youtube.com/watch?v=z6KpEF05KpU&amp;list=PLWhHqCPO22ksW9Erqjdbg-YPVZLCvenfa&amp;index=1)

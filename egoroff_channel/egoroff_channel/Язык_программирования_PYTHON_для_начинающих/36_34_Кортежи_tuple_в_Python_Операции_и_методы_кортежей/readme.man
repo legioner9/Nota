@@ -1,0 +1,3 @@
+# [egoroff_channel](https://www.youtube.com/@egoroffchannel/playlists)
+## [Язык программирования PYTHON для начинающих](https://www.youtube.com/playlist?list=PLQAt0m1f9OHvv2wxPGSCWjgy1qER_FvB6)
+### [34 Кортежи (tuple) в Python. Операции и методы кортежей](https://www.youtube.com/watch?v=pf3V5rr30Ts&amp;list=PLQAt0m1f9OHvv2wxPGSCWjgy1qER_FvB6&amp;index=36)

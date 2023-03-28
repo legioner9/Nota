@@ -1,0 +1,3 @@
+# [ITVDN](https://www.youtube.com/@ITVDN/playlists?view=1)
+## [Angular Advanced](https://www.youtube.com/playlist?list=PLvItDmb0sZw_ZzDOqRAwCr4dkbd1-Fm2P)
+### [Angular Advanced. Урок 1. Пользовательские директивы и компоненты](https://www.youtube.com/watch?v=zL5o_A4l4uE&amp;list=PLvItDmb0sZw_ZzDOqRAwCr4dkbd1-Fm2P&amp;index=1)

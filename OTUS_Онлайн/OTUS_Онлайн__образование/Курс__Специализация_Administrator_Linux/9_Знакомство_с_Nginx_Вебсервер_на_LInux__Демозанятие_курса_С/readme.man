@@ -1,0 +1,3 @@
+# [OTUS Онлайн - образование](https://www.youtube.com/@otus_education/playlists)
+## [Курс | Специализация Administrator Linux](https://www.youtube.com/playlist?list=PLfnFOImnyWRX8ngGmvls6QGtEUMaPOJL6)
+### [Знакомство с Nginx. Веб-сервер на LInux // Демо-занятие курса «Специализация Administrator Linux»](https://www.youtube.com/watch?v=HacbsPsdLuw&amp;list=PLfnFOImnyWRX8ngGmvls6QGtEUMaPOJL6&amp;index=9)

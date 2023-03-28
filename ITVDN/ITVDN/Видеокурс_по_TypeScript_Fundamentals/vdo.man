@@ -1,0 +1,5 @@
+### [Видеокурс TypeScript Fundamentals. Урок 1. Введение в TypeScript.](https://www.youtube.com/watch?v=bSoIeNo-aiw&amp;list=PLvItDmb0sZw-IMHd1YSzLZ4UayqSQP6-I&amp;index=1)
+### [Видеокурс TypeScript Fundamentals. Урок 2:  Типы, переменные и функции.](https://www.youtube.com/watch?v=4AnF06seYrI&amp;list=PLvItDmb0sZw-IMHd1YSzLZ4UayqSQP6-I&amp;index=2)
+### [Видеокурс TypeScript Fundamentals. Урок 3: ООП](https://www.youtube.com/watch?v=rM1fYbdsHzc&amp;list=PLvItDmb0sZw-IMHd1YSzLZ4UayqSQP6-I&amp;index=3)
+### [Видеокурс TypeScript Fundamentals. Урок 4: Модули. Generics](https://www.youtube.com/watch?v=r0z7NyL3d3M&amp;list=PLvItDmb0sZw-IMHd1YSzLZ4UayqSQP6-I&amp;index=4)
+### [Видеокурс TypeScript Fundamentals. Урок 5: Заголовочные файлы. Конфигурация](https://www.youtube.com/watch?v=SRRLBzY4VPc&amp;list=PLvItDmb0sZw-IMHd1YSzLZ4UayqSQP6-I&amp;index=5)

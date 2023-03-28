@@ -1,0 +1,5 @@
+### [Demo Day курса «Внедрение и работа в DevSecOps»](https://www.youtube.com/watch?v=vUpt5Et1ItI&amp;list=PLfnFOImnyWRWRK5zDeVfzIIMiw7IidqWc&amp;index=1)
+### [Сравнение стратегий и подход к ИБ в современном мире // Курса «Внедрение и работа в DevSecOps»](https://www.youtube.com/watch?v=IMIip44kPdg&amp;list=PLfnFOImnyWRWRK5zDeVfzIIMiw7IidqWc&amp;index=2)
+### [Межсетевые экраны, песочницы и WAF. И их роль в ИБ // курс «Внедрение и работа в DevSecOps»](https://www.youtube.com/watch?v=fPyzpcvNs4c&amp;list=PLfnFOImnyWRWRK5zDeVfzIIMiw7IidqWc&amp;index=3)
+### [Почему безопасность должна быть на всех этапах CI/CD // курс «Внедрение и работа в DevSecOps»](https://www.youtube.com/watch?v=ZaUXTOfZ7ao&amp;list=PLfnFOImnyWRWRK5zDeVfzIIMiw7IidqWc&amp;index=4)
+### [Роль ИБ в современном мире // Демо-занятие курса «Внедрение и работа в DevSecOps»](https://www.youtube.com/watch?v=Fzjr7xxXkiQ&amp;list=PLfnFOImnyWRWRK5zDeVfzIIMiw7IidqWc&amp;index=5)

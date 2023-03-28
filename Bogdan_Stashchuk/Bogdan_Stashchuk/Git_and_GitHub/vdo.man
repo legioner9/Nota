@@ -1,0 +1,6 @@
+### [Git and GitHub Tutorial for Beginners [11 Hours]](https://www.youtube.com/watch?v=3FKrszHcIsA&amp;list=PLWkguCWKqN9Ogn8Z720i_a3QWVYWAwL7V&amp;index=1)
+### [GitHub Pages Tutorial: Free Domain, Free Hosting and Free TLS Certificate](https://www.youtube.com/watch?v=pLWofMzpAJY&amp;list=PLWkguCWKqN9Ogn8Z720i_a3QWVYWAwL7V&amp;index=2)
+### [Advanced Git and GitHub Features: Squashing, Cherry-picking, Amending](https://www.youtube.com/watch?v=-8axVzJpHgE&amp;list=PLWkguCWKqN9Ogn8Z720i_a3QWVYWAwL7V&amp;index=3)
+### [01 Git vs GitHub](https://www.youtube.com/watch?v=BnA9CdDpbiM&amp;list=PLWkguCWKqN9Ogn8Z720i_a3QWVYWAwL7V&amp;index=4)
+### [GitHub password no longer works? GitHub Personal Access Tokens!](https://www.youtube.com/watch?v=pIs6DA6CREk&amp;list=PLWkguCWKqN9Ogn8Z720i_a3QWVYWAwL7V&amp;index=5)
+### [GIT - Полный Курс Git и GitHub Для Начинающих [4 ЧАСА]](https://www.youtube.com/watch?v=O00FTZDxD0o&amp;list=PLWkguCWKqN9Ogn8Z720i_a3QWVYWAwL7V&amp;index=6)

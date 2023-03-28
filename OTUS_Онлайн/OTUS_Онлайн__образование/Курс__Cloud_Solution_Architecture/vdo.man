@@ -1,0 +1,3 @@
+### [Сравнительный анализ вендоров облачных решений. Как не ошибиться с выбором](https://www.youtube.com/watch?v=0d7RpRnHhbQ&amp;list=PLfnFOImnyWRWU7ySkDBLsi7reBFCN4_-J&amp;index=1)
+### [Эволюция архитектуры и разработки ПО от монолита до сервлета // курс «Cloud Solution Architecture»](https://www.youtube.com/watch?v=4no5GDAwEmw&amp;list=PLfnFOImnyWRWU7ySkDBLsi7reBFCN4_-J&amp;index=2)
+### [Demo Day курса «Cloud Solution Architecture»](https://www.youtube.com/watch?v=OiM1ter5_Iw&amp;list=PLfnFOImnyWRWU7ySkDBLsi7reBFCN4_-J&amp;index=3)

@@ -1,0 +1,3 @@
+# [OTUS Онлайн - образование](https://www.youtube.com/@otus_education/playlists)
+## [Курс | Инфраструктурная платформа на основе Kubernetes](https://www.youtube.com/playlist?list=PLfnFOImnyWRWQ-6Np_p1ewBvJadcqr418)
+### [Подходы к развертыванию и обновлению production-grade кластера](https://www.youtube.com/watch?v=qSrsZ_vlf00&amp;list=PLfnFOImnyWRWQ-6Np_p1ewBvJadcqr418&amp;index=1)

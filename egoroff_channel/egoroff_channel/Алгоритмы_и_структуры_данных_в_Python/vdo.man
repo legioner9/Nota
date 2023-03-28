@@ -1,0 +1,6 @@
+### [Сортировка пузырьком в python. Bubble sort in Python](https://www.youtube.com/watch?v=WBaL7ANQbzQ&amp;list=PLQAt0m1f9OHsaqspc3ncC-WsuYyuRf2-f&amp;index=1)
+### [Слияние списков. Метод двух указателей Python](https://www.youtube.com/watch?v=yvvr4zlEmlQ&amp;list=PLQAt0m1f9OHsaqspc3ncC-WsuYyuRf2-f&amp;index=2)
+### [Сортировка слиянием в python. Merge sort in Python. Recursive sorting algorithms](https://www.youtube.com/watch?v=LCfwxi2RPK4&amp;list=PLQAt0m1f9OHsaqspc3ncC-WsuYyuRf2-f&amp;index=3)
+### [Быстрая сортировка в python. Quick sort in Python. Recursive sorting algorithms](https://www.youtube.com/watch?v=mCl1hBMFS8U&amp;list=PLQAt0m1f9OHsaqspc3ncC-WsuYyuRf2-f&amp;index=4)
+### [Структура данных Stack( LIFO). Задача &quot;Правильная скобочная последовательность&quot;](https://www.youtube.com/watch?v=OTudUhiLNvk&amp;list=PLQAt0m1f9OHsaqspc3ncC-WsuYyuRf2-f&amp;index=5)
+### [27 Метод подсчета. Сортировка подсчетом Python](https://www.youtube.com/watch?v=ukTBUyTOZs4&amp;list=PLQAt0m1f9OHsaqspc3ncC-WsuYyuRf2-f&amp;index=6)

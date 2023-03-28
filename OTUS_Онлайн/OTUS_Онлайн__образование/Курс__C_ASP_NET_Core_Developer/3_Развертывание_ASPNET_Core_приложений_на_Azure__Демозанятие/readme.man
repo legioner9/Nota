@@ -1,0 +1,3 @@
+# [OTUS Онлайн - образование](https://www.youtube.com/@otus_education/playlists)
+## [Курс | C# ASP NET Core Developer](https://www.youtube.com/playlist?list=PLfnFOImnyWRVX-FvN1B5oPP5sR17apb0t)
+### [Развертывание ASP.NET Core приложений на Azure // Демо-занятие курса «C# ASP NET Core разработчик»](https://www.youtube.com/watch?v=0D2qILYtSng&amp;list=PLfnFOImnyWRVX-FvN1B5oPP5sR17apb0t&amp;index=3)

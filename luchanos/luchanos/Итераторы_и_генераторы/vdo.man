@@ -1,0 +1,5 @@
+### [PYTHON GENERATORS YIELD (1 ЧАСТЬ)](https://www.youtube.com/watch?v=yPh7ZJr-A0E&amp;list=PLlKID9PnOE5hEeR11iAsUyEb6vxCkXnZK&amp;index=1)
+### [PYTHON GENERATORS YIELD (2 ЧАСТЬ)](https://www.youtube.com/watch?v=xGb-MusLAmk&amp;list=PLlKID9PnOE5hEeR11iAsUyEb6vxCkXnZK&amp;index=2)
+### [ПРОТОКОЛ ИТЕРАЦИИ КАСТОМНЫХ КЛАССОВ](https://www.youtube.com/watch?v=zZ0iur8lslA&amp;list=PLlKID9PnOE5hEeR11iAsUyEb6vxCkXnZK&amp;index=3)
+### [ЦИКЛ FOR НАС ОБМАНЫВАЕТ! ITERATORS PYTHON](https://www.youtube.com/watch?v=HtBixV-tNLw&amp;list=PLlKID9PnOE5hEeR11iAsUyEb6vxCkXnZK&amp;index=4)
+### [ИТЕРАТОРЫ ДЛЯ САМЫХ МАЛЕНЬКИХ НА PYTHON](https://www.youtube.com/watch?v=hPGTBjeYFis&amp;list=PLlKID9PnOE5hEeR11iAsUyEb6vxCkXnZK&amp;index=5)

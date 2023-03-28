@@ -1,0 +1,3 @@
+# [Volodya Mozhenkov](https://www.youtube.com/@VladimirMozhenkov/playlists?view=1)
+## [2302 - C++11 и продвинутый C++](https://www.youtube.com/playlist?list=PLY7PmJJFH5nTO0pgTa4gDzgvMzrmZ4QtL)
+### [2302 - C++11 - урок 14](https://www.youtube.com/watch?v=bbiEyMbF6xk&amp;list=PLY7PmJJFH5nTO0pgTa4gDzgvMzrmZ4QtL&amp;index=14)

@@ -1,0 +1,3 @@
+# [Cisco Ne Slabo / SEDICOMM TV](https://www.youtube.com/@cisconeslabo/playlists)
+## [BGP — Бесплатные мастер-классы от Академии Cisco Университет СЭДИКОММ](https://www.youtube.com/playlist?list=PLMiVLClzZDbSIRXqa7j-ufpeI3KpcdI4z)
+### [Как настроить фильтрацию маршрутов BGP на основании атрибута AS_PATH](https://www.youtube.com/watch?v=EI1PD0Zl6Yc&amp;list=PLMiVLClzZDbSIRXqa7j-ufpeI3KpcdI4z&amp;index=2)

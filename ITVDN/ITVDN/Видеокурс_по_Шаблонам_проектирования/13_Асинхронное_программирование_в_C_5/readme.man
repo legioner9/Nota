@@ -1,0 +1,3 @@
+# [ITVDN](https://www.youtube.com/@ITVDN/playlists?view=1)
+## [Видеокурс по Шаблонам проектирования.](https://www.youtube.com/playlist?list=PLvItDmb0sZw8kdpln63hfjMduueAuiiza)
+### [Асинхронное программирование в C# 5](https://www.youtube.com/watch?v=a4wEaFAA5XQ&amp;list=PLvItDmb0sZw8kdpln63hfjMduueAuiiza&amp;index=13)

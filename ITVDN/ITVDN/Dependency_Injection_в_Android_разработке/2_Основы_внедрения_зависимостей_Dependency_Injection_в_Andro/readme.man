@@ -1,0 +1,3 @@
+# [ITVDN](https://www.youtube.com/@ITVDN/playlists?view=1)
+## [Dependency Injection в Android разработке](https://www.youtube.com/playlist?list=PLvItDmb0sZw-VQFZ6HKE9V_Y8Y_PJsoGP)
+### [Основы внедрения зависимостей. Dependency Injection в Android разработке.](https://www.youtube.com/watch?v=vMUCaOBQwqk&amp;list=PLvItDmb0sZw-VQFZ6HKE9V_Y8Y_PJsoGP&amp;index=2)

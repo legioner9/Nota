@@ -1,0 +1,3 @@
+# [OTUS Онлайн - образование](https://www.youtube.com/@otus_education/playlists)
+## [Курс | PostgreSQL](https://www.youtube.com/playlist?list=PLfnFOImnyWRUpDwzWuBp3Hcr0eALL1pyz)
+### [Demo Day «PostgreSL»](https://www.youtube.com/watch?v=F0yw03mhAE4&amp;list=PLfnFOImnyWRUpDwzWuBp3Hcr0eALL1pyz&amp;index=10)

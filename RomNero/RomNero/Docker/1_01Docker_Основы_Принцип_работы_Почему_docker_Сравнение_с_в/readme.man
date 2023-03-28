@@ -1,0 +1,3 @@
+# [RomNero](https://www.youtube.com/@RomNero/playlists)
+## [Docker](https://www.youtube.com/playlist?list=PLqVeG_R3qMSwjnkMUns_Yc4zF_PtUZmB-)
+### [01-Docker: Основы. Принцип работы. Почему docker. Сравнение с виртульной машиной. Применение.](https://www.youtube.com/watch?v=jVV8CVURmrE&amp;list=PLqVeG_R3qMSwjnkMUns_Yc4zF_PtUZmB-&amp;index=1)

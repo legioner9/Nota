@@ -1,0 +1,3 @@
+# [ITDoctor](https://www.youtube.com/@ITDoctor/playlists?view=1&sort=dd&shelf_id=0)
+## [Работа с CMS Wordpress](https://www.youtube.com/playlist?list=PLuY6eeDuleIPgHRvtoFnIxSxyTt6vKGpi)
+### [Как установить WordPress локально на компьютер, Установка WordPress 6.0 на OpenServer](https://www.youtube.com/watch?v=TJFfTW6hsDw&amp;list=PLuY6eeDuleIPgHRvtoFnIxSxyTt6vKGpi&amp;index=5)

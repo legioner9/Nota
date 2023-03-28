@@ -1,0 +1,3 @@
+# [DevOps](https://www.youtube.com/@Devops_Youtube_Channel/playlists)
+## [Мониторинговые системы (Zabbix)](https://www.youtube.com/playlist?list=PLkKSgP0nEL0Avu98ccNINurBaDgVO-wPV)
+### [6.  Как мониторить Windows в Zabbix 6.0 ?  / Windows Server / Zabbix 6](https://www.youtube.com/watch?v=5e8shfxLtCw&amp;list=PLkKSgP0nEL0Avu98ccNINurBaDgVO-wPV&amp;index=7)

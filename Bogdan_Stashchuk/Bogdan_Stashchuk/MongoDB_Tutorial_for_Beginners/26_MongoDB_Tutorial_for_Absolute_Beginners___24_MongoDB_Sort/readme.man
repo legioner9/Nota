@@ -1,0 +1,3 @@
+# [Bogdan Stashchuk](https://www.youtube.com/@Bogdan_Stashchuk/playlists)
+## [MongoDB Tutorial for Beginners](https://www.youtube.com/playlist?list=PLWkguCWKqN9OumKjTAzbpsFFBBeem23xQ)
+### [MongoDB Tutorial for Absolute Beginners :  24 MongoDB Sort, Limit and Skip helper methods](https://www.youtube.com/watch?v=rqgR5a2WNz4&amp;list=PLWkguCWKqN9OumKjTAzbpsFFBBeem23xQ&amp;index=26)

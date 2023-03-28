@@ -1,0 +1,6 @@
+### [Ruby Advanced. Урок 1. Динамические механизмы. Часть 1](https://www.youtube.com/watch?v=7uNCx3mFrsA&amp;list=PLvItDmb0sZw_aBz3KSV5FPfPw_g8OSS3h&amp;index=1)
+### [Ruby Advanced. Урок 2. Динамические механизмы. Часть 2](https://www.youtube.com/watch?v=R2_xkLaKyh0&amp;list=PLvItDmb0sZw_aBz3KSV5FPfPw_g8OSS3h&amp;index=2)
+### [Ruby Advanced. Урок 3.  Обработка исключений](https://www.youtube.com/watch?v=j0sKkKOuGzM&amp;list=PLvItDmb0sZw_aBz3KSV5FPfPw_g8OSS3h&amp;index=3)
+### [Ruby Advanced. Урок 4. Потоки. Часть 1](https://www.youtube.com/watch?v=csXoDa0QV10&amp;list=PLvItDmb0sZw_aBz3KSV5FPfPw_g8OSS3h&amp;index=4)
+### [Ruby Advanced. Урок 5. Потоки. Часть 2](https://www.youtube.com/watch?v=5JYRleI4oF4&amp;list=PLvItDmb0sZw_aBz3KSV5FPfPw_g8OSS3h&amp;index=5)
+### [Ruby Advanced. Урок 6. Работа с файлами](https://www.youtube.com/watch?v=kQYZgp_Mf_Q&amp;list=PLvItDmb0sZw_aBz3KSV5FPfPw_g8OSS3h&amp;index=6)

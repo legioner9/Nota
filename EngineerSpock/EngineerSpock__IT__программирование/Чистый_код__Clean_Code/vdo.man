@@ -1,0 +1,6 @@
+### [Чистый Код / Clean Code: # 1 Правила именования переменных, функций и классов](https://www.youtube.com/watch?v=Irf1eIkcBkE&amp;list=PLBheEHDcG7-mLhP_ZknHi7vjesmXVmk7q&amp;index=1)
+### [Чистый Код / Clean Code: # 2: Комментарии, условные выражения и прочие запахи реализации](https://www.youtube.com/watch?v=g_Ka8x49nqA&amp;list=PLBheEHDcG7-mLhP_ZknHi7vjesmXVmk7q&amp;index=2)
+### [Чистый Код / Clean Code: # 3: Огромные функции и их рефакторинг, Extract Till You Drop](https://www.youtube.com/watch?v=gKlRX1-QDj0&amp;list=PLBheEHDcG7-mLhP_ZknHi7vjesmXVmk7q&amp;index=3)
+### [Чистый Код / Clean Code #4: Закон Деметры](https://www.youtube.com/watch?v=7m8NoHrm9z0&amp;list=PLBheEHDcG7-mLhP_ZknHi7vjesmXVmk7q&amp;index=4)
+### [Чистый код / Clean Code #5: Временная связанность. Иммутабельность и чистые функции](https://www.youtube.com/watch?v=asMFeGp3qrs&amp;list=PLBheEHDcG7-mLhP_ZknHi7vjesmXVmk7q&amp;index=5)
+### [Чистый код / Clean Code #6: SoC, CQS, PoLA](https://www.youtube.com/watch?v=FnO0KpDd26w&amp;list=PLBheEHDcG7-mLhP_ZknHi7vjesmXVmk7q&amp;index=6)

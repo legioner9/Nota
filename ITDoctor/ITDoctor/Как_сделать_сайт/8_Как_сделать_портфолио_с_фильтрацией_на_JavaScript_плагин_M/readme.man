@@ -1,0 +1,3 @@
+# [ITDoctor](https://www.youtube.com/@ITDoctor/playlists?view=1&sort=dd&shelf_id=0)
+## [Как сделать сайт](https://www.youtube.com/playlist?list=PLuY6eeDuleINC98aWpSOHXCqaUkH6vd4K)
+### [Как сделать портфолио с фильтрацией на JavaScript, плагин MixItUp3](https://www.youtube.com/watch?v=og2uO4wDCCY&amp;list=PLuY6eeDuleINC98aWpSOHXCqaUkH6vd4K&amp;index=8)

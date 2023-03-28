@@ -1,0 +1,3 @@
+# [OTUS Онлайн - образование](https://www.youtube.com/@otus_education/playlists)
+## [Курс | NOSQL](https://www.youtube.com/playlist?list=PLfnFOImnyWRWjV1HN7Nt7gzPQUjRqKpOM)
+### [Отказоустойчивое Key Value хранилище ETCD // Демо-занятие курса «NoSQL»](https://www.youtube.com/watch?v=ybCokswIX8A&amp;list=PLfnFOImnyWRWjV1HN7Nt7gzPQUjRqKpOM&amp;index=3)

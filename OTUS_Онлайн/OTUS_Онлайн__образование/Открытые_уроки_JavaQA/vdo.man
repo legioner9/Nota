@@ -1,0 +1,2 @@
+### [«Ваши тесты и CI»](https://www.youtube.com/watch?v=en5tfWOiRJ8&amp;list=PLfnFOImnyWRV4EKqaZZYENzZzhG_CTV4Q&amp;index=1)
+### [Selenoid  Параллельный запуск ui тестов // Демо-занятие курса «Java QA Engineer»](https://www.youtube.com/watch?v=hGKL37MZEeg&amp;list=PLfnFOImnyWRV4EKqaZZYENzZzhG_CTV4Q&amp;index=2)

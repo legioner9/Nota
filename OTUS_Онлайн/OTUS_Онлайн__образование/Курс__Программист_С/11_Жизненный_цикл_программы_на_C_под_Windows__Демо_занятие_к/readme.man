@@ -1,0 +1,3 @@
+# [OTUS Онлайн - образование](https://www.youtube.com/@otus_education/playlists)
+## [Курс | Программист С](https://www.youtube.com/playlist?list=PLfnFOImnyWRW8tRJkRc2WnTwd8AXSL449)
+### [Жизненный цикл программы на C под Windows // Демо занятие курса «Программист С»](https://www.youtube.com/watch?v=Yj8X1CV9_AM&amp;list=PLfnFOImnyWRW8tRJkRc2WnTwd8AXSL449&amp;index=11)

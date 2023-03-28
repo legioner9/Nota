@@ -1,0 +1,5 @@
+### [Как создать программу: (графический) интерфейс на C++](https://www.youtube.com/watch?v=TqVdPy-3laI&amp;list=PLc3mLrv1phSlPZEOL6RXxtN1PxU7Z4rhb&amp;index=1)
+### [Как создать индикатор: (progressbar) виджет на C++](https://www.youtube.com/watch?v=Eb57uavK3dk&amp;list=PLc3mLrv1phSlPZEOL6RXxtN1PxU7Z4rhb&amp;index=2)
+### [Как создать список: (графический) интерфейс на C++](https://www.youtube.com/watch?v=RWpmUYJ9laA&amp;list=PLc3mLrv1phSlPZEOL6RXxtN1PxU7Z4rhb&amp;index=3)
+### [Картинки в программе: самый (аху***** способ) добавить картинку на C++](https://www.youtube.com/watch?v=2z2v_i5yvGU&amp;list=PLc3mLrv1phSlPZEOL6RXxtN1PxU7Z4rhb&amp;index=4)
+### [МИХАИЛ КРУГ ✬ САМЫЕ ЛУЧШИЕ ПЕСНИ ✬  ЗОЛОТАЯ КОЛЛЕКЦИЯ ХИТОВ ✬](https://www.youtube.com/watch?v=FTBh87vLItY&amp;list=PLc3mLrv1phSlPZEOL6RXxtN1PxU7Z4rhb&amp;index=5)

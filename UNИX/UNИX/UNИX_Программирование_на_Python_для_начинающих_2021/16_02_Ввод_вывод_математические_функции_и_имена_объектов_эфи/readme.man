@@ -1,0 +1,3 @@
+# [UNИX](https://www.youtube.com/@unx7784/playlists)
+## [[UNИX] Программирование на Python для начинающих (2021)](https://www.youtube.com/playlist?list=PL6kSdcHYB3x6FyT5dJfxJZKsaZxys0_Rn)
+### [02. Ввод, вывод, математические функции и имена объектов (эфир)](https://www.youtube.com/watch?v=33CbWW5L4E8&amp;list=PL6kSdcHYB3x6FyT5dJfxJZKsaZxys0_Rn&amp;index=16)

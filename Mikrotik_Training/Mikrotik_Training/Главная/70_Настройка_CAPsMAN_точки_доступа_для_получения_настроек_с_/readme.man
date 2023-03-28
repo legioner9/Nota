@@ -1,0 +1,3 @@
+# [Mikrotik Training](https://www.youtube.com/@MikrotikTraining/playlists)
+## [Главная](https://www.youtube.com/playlist?list=PLg90hRDCH9A5TlwaXO2sB5AQP8yNmkiBn)
+### [Настройка CAPsMAN точки доступа для получения настроек с CAPsMAN контроллера](https://www.youtube.com/watch?v=7yKWUfXBpMg&amp;list=PLg90hRDCH9A5TlwaXO2sB5AQP8yNmkiBn&amp;index=70)

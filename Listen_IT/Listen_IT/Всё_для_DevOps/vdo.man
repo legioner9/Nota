@@ -1,0 +1,5 @@
+### [Что такое CI/CD? Разбираемся с непрерывной интеграцией и поставкой](https://www.youtube.com/watch?v=Hkq_78xSfSY&amp;list=PLLACapFZr4Xu4-Wq8tZBVOcLJcISs3bwj&amp;index=1)
+### [Что такое Docker за 5 минут](https://www.youtube.com/watch?v=c91nes6SbFU&amp;list=PLLACapFZr4Xu4-Wq8tZBVOcLJcISs3bwj&amp;index=2)
+### [Что такое Kubernetes за 9 минут](https://www.youtube.com/watch?v=ZI7w6ZeBI8k&amp;list=PLLACapFZr4Xu4-Wq8tZBVOcLJcISs3bwj&amp;index=3)
+### [Что такое МИКРОФРОНТЕНД за 10 минут](https://www.youtube.com/watch?v=ZQClCNPq7AI&amp;list=PLLACapFZr4Xu4-Wq8tZBVOcLJcISs3bwj&amp;index=4)
+### [Что такое ELK за 10 минут: Elasticsearch, Kibana и Logstash](https://www.youtube.com/watch?v=ZsGOJiLCvrc&amp;list=PLLACapFZr4Xu4-Wq8tZBVOcLJcISs3bwj&amp;index=5)

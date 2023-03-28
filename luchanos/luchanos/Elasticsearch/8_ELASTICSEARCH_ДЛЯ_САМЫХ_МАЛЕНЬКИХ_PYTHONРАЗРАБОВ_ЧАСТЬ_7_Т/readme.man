@@ -1,0 +1,3 @@
+# [luchanos](https://www.youtube.com/@luchanos/playlists?view=1&sort=dd&shelf_id=0)
+## [Elasticsearch](https://www.youtube.com/playlist?list=PLlKID9PnOE5jzJmRYfY0Rs1axrlH4-Qe_)
+### [ELASTICSEARCH ДЛЯ САМЫХ МАЛЕНЬКИХ PYTHON-РАЗРАБОВ. ЧАСТЬ 7. ТИПЫ TEXT И KEYWORD + ПРИВЕДЕНИЕ ТИПОВ](https://www.youtube.com/watch?v=StagfecI8_8&amp;list=PLlKID9PnOE5jzJmRYfY0Rs1axrlH4-Qe_&amp;index=8)

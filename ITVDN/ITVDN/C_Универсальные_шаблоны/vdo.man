@@ -1,0 +1,7 @@
+### [C# Универсальные шаблоны. Урок 1. Почему универсальные шаблоны?](https://www.youtube.com/watch?v=nEXZ7rgCJ9E&amp;list=PLvItDmb0sZw8AIfuciRvq7wd48I1UVCuT&amp;index=1)
+### [C# Универсальные шаблоны. Урок 2. Универсальные коллекции.](https://www.youtube.com/watch?v=czOzwzHJ8X0&amp;list=PLvItDmb0sZw8AIfuciRvq7wd48I1UVCuT&amp;index=2)
+### [C# Универсальные шаблоны. Урок 3. Универсальные классы и интерфейсы.](https://www.youtube.com/watch?v=7rHXKKia-bA&amp;list=PLvItDmb0sZw8AIfuciRvq7wd48I1UVCuT&amp;index=3)
+### [C# Универсальные шаблоны. Урок 4. Универсальные методы и делегаты](https://www.youtube.com/watch?v=sUG2iuPzPps&amp;list=PLvItDmb0sZw8AIfuciRvq7wd48I1UVCuT&amp;index=4)
+### [C# Универсальные шаблоны. Урок 5.Ограничения, ковариантность и контравариантность.](https://www.youtube.com/watch?v=SFLsgdVzQTo&amp;list=PLvItDmb0sZw8AIfuciRvq7wd48I1UVCuT&amp;index=5)
+### [C# Универсальные шаблоны. Урок 6. Универсальные классы и рефлексия](https://www.youtube.com/watch?v=AsDD90wtrsI&amp;list=PLvItDmb0sZw8AIfuciRvq7wd48I1UVCuT&amp;index=6)
+### [C# Универсальные шаблоны. Урок 7.Универсальные шаблоны дополнение](https://www.youtube.com/watch?v=qcaadqZyohg&amp;list=PLvItDmb0sZw8AIfuciRvq7wd48I1UVCuT&amp;index=7)

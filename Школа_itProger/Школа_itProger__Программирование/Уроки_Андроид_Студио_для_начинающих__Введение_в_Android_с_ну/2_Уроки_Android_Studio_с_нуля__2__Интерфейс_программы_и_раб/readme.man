@@ -1,0 +1,3 @@
+# [Школа itProger / Программирование](https://www.youtube.com/@itproger/playlists?view=1)
+## [Уроки Андроид Студио для начинающих / Введение в Android с нуля](https://www.youtube.com/playlist?list=PLDyJYA6aTY1nZqYprT1PKtDFthBcZWAMZ)
+### [Уроки Android Studio с нуля / #2 – Интерфейс программы и работа с Андроид эмулятор](https://www.youtube.com/watch?v=fdFRgco-6fU&amp;list=PLDyJYA6aTY1nZqYprT1PKtDFthBcZWAMZ&amp;index=2)

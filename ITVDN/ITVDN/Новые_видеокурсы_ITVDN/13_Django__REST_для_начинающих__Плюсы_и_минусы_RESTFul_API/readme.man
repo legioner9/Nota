@@ -1,0 +1,3 @@
+# [ITVDN](https://www.youtube.com/@ITVDN/playlists?view=1)
+## [Новые видеокурсы ITVDN](https://www.youtube.com/playlist?list=PLvItDmb0sZw_xFDJXG6HQHWiTW-qrZTvE)
+### [Django + REST для начинающих ➤ Плюсы и минусы RESTFul API](https://www.youtube.com/watch?v=S7k_28V1WDE&amp;list=PLvItDmb0sZw_xFDJXG6HQHWiTW-qrZTvE&amp;index=13)

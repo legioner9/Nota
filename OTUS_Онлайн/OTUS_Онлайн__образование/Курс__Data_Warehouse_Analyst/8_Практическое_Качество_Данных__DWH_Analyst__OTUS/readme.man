@@ -1,0 +1,3 @@
+# [OTUS Онлайн - образование](https://www.youtube.com/@otus_education/playlists)
+## [Курс | Data Warehouse Analyst](https://www.youtube.com/playlist?list=PLfnFOImnyWRVy4_As4CZVQpVj1vJxT1y4)
+### [Практическое Качество Данных – DWH Analyst @ OTUS](https://www.youtube.com/watch?v=j5V36kztvEI&amp;list=PLfnFOImnyWRVy4_As4CZVQpVj1vJxT1y4&amp;index=8)

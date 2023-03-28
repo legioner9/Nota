@@ -1,0 +1,4 @@
+### [Инвентаризация сети с помощью Kali Linux // Демо-занятие курса «Практикум по Kali Linux»](https://www.youtube.com/watch?v=1XdNY6QgTHk&amp;list=PLfnFOImnyWRVCC5-2SvYA7UMeP9WwqP_N&amp;index=1)
+### [Denial of Service атаки и защита от них // Демо-занятие курса «Практикум по Kali Linux»](https://www.youtube.com/watch?v=63ulYbv3vHw&amp;list=PLfnFOImnyWRVCC5-2SvYA7UMeP9WwqP_N&amp;index=2)
+### [Методология тестирования на проникновение // Демо-занятие курса «Практикум по Kali Linux»](https://www.youtube.com/watch?v=67BO1GvK0Lw&amp;list=PLfnFOImnyWRVCC5-2SvYA7UMeP9WwqP_N&amp;index=3)
+### [Практикум по Kali Linux | День открытых дверей OTUS](https://www.youtube.com/watch?v=e-4zgK4GHYw&amp;list=PLfnFOImnyWRVCC5-2SvYA7UMeP9WwqP_N&amp;index=4)

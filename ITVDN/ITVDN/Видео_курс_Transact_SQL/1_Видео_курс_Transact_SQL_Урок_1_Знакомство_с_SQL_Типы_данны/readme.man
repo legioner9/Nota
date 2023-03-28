@@ -1,0 +1,3 @@
+# [ITVDN](https://www.youtube.com/@ITVDN/playlists?view=1)
+## [Видео курс Transact SQL](https://www.youtube.com/playlist?list=PLvItDmb0sZw_ALKpj5uy5k71w28L5Xmol)
+### [Видео курс Transact SQL. Урок 1. Знакомство с SQL. Типы данных.](https://www.youtube.com/watch?v=GOvQUd6-ttE&amp;list=PLvItDmb0sZw_ALKpj5uy5k71w28L5Xmol&amp;index=1)

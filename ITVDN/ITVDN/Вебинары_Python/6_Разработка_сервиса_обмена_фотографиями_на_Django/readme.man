@@ -1,0 +1,3 @@
+# [ITVDN](https://www.youtube.com/@ITVDN/playlists?view=1)
+## [Вебинары Python](https://www.youtube.com/playlist?list=PLvItDmb0sZw_x1QivR1pTQ6tAK8Awb57L)
+### [Разработка сервиса обмена фотографиями на Django](https://www.youtube.com/watch?v=A5wznGtKMt4&amp;list=PLvItDmb0sZw_x1QivR1pTQ6tAK8Awb57L&amp;index=6)

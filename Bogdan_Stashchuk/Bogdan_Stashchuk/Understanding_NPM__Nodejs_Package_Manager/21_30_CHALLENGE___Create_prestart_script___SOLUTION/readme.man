@@ -1,0 +1,3 @@
+# [Bogdan Stashchuk](https://www.youtube.com/@Bogdan_Stashchuk/playlists)
+## [Understanding NPM - Node.js Package Manager](https://www.youtube.com/playlist?list=PLWkguCWKqN9PI8zI57E4FsxHbcPbrL8rp)
+### [30 CHALLENGE   Create prestart script   SOLUTION](https://www.youtube.com/watch?v=RzBdzVm0uuk&amp;list=PLWkguCWKqN9PI8zI57E4FsxHbcPbrL8rp&amp;index=21)

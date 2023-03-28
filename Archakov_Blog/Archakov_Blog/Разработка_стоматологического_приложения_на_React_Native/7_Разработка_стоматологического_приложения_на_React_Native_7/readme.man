@@ -1,0 +1,3 @@
+# [Archakov Blog](https://www.youtube.com/@ArchakovBlog/playlists)
+## [Разработка стоматологического приложения на React Native](https://www.youtube.com/playlist?list=PL0FGkDGJQjJFXRMxdCOLrnaQwlmpWrFTG)
+### [Разработка стоматологического приложения на React Native #7](https://www.youtube.com/watch?v=_BnXO67zQ04&amp;list=PL0FGkDGJQjJFXRMxdCOLrnaQwlmpWrFTG&amp;index=7)

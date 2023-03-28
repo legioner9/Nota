@@ -1,0 +1,3 @@
+# [abglazov](https://www.youtube.com/@abglazov/playlists?view=1)
+## [Python](https://www.youtube.com/playlist?list=PLku9se_HAVOp8pSgrIWGIjHLP-EOw_ywq)
+### [py216 Простейший визуальный редактор SQLite](https://www.youtube.com/watch?v=To2EB109HB8&amp;list=PLku9se_HAVOp8pSgrIWGIjHLP-EOw_ywq&amp;index=14)

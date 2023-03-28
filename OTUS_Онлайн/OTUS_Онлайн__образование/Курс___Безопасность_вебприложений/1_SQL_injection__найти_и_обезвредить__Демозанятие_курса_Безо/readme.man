@@ -1,0 +1,3 @@
+# [OTUS Онлайн - образование](https://www.youtube.com/@otus_education/playlists)
+## [Курс |  Безопасность веб-приложений](https://www.youtube.com/playlist?list=PLfnFOImnyWRVlziB4gmHQfar33Llse9-K)
+### [SQL injection  найти и обезвредить // Демо-занятие курса «Безопасность веб-приложений»](https://www.youtube.com/watch?v=us8MvILehvM&amp;list=PLfnFOImnyWRVlziB4gmHQfar33Llse9-K&amp;index=1)

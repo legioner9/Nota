@@ -1,0 +1,2 @@
+### [MicroNugget: How to Configure NAT (PAT) on Cisco Routers](https://www.youtube.com/watch?v=rymxrGyiUp8&amp;list=FLKdRgZWgy42YxoFcTJ30LTA&amp;index=1)
+### [CCBOOTCAMP Webinar - Cisco ASA SSL VPN](https://www.youtube.com/watch?v=KJYwhPWYzHQ&amp;list=FLKdRgZWgy42YxoFcTJ30LTA&amp;index=2)

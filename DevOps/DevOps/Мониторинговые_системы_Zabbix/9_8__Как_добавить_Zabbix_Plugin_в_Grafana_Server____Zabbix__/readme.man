@@ -1,0 +1,3 @@
+# [DevOps](https://www.youtube.com/@Devops_Youtube_Channel/playlists)
+## [Мониторинговые системы (Zabbix)](https://www.youtube.com/playlist?list=PLkKSgP0nEL0Avu98ccNINurBaDgVO-wPV)
+### [8.  Как добавить Zabbix Plugin в Grafana Server ?  / Zabbix / Grafana / Graphics / Metrics](https://www.youtube.com/watch?v=WAaEUvKgJWE&amp;list=PLkKSgP0nEL0Avu98ccNINurBaDgVO-wPV&amp;index=9)

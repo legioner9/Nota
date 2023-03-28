@@ -1,0 +1,3 @@
+# [PyLounge - программирование на Python и всё о IT](https://www.youtube.com/@pylounge/playlists)
+## [Основы Языка Python](https://www.youtube.com/playlist?list=PLhVGaKnJDpzjQxdEyMjkJZCZSxhtgkRfM)
+### [Как Выложить Свою Python Библиотеку В Интернет? | Загружаем Свой Модуль На PyPi](https://www.youtube.com/watch?v=ji5nkIiGHrU&amp;list=PLhVGaKnJDpzjQxdEyMjkJZCZSxhtgkRfM&amp;index=7)

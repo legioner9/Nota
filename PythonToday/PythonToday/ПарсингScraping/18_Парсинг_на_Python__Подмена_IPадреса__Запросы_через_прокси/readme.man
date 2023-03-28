@@ -1,0 +1,3 @@
+# [PythonToday](https://www.youtube.com/@PythonToday/playlists)
+## [Парсинг/Scraping](https://www.youtube.com/playlist?list=PLqGS6O1-DZLprgEaEeKn9BWKZBvzVi_la)
+### [Парсинг на Python | Подмена IP-адреса | Запросы через прокси | Proxy with Python Requests](https://www.youtube.com/watch?v=_12U6Zfi5ik&amp;list=PLqGS6O1-DZLprgEaEeKn9BWKZBvzVi_la&amp;index=18)

@@ -1,0 +1,3 @@
+# [ITVDN](https://www.youtube.com/@ITVDN/playlists?view=1)
+## [Angular CLI](https://www.youtube.com/playlist?list=PLvItDmb0sZw9yk2HjJgEJfYr4VTr43W19)
+### [Angular CLI. Урок 3. Генерация кода по шаблонам](https://www.youtube.com/watch?v=WSl_FMuBedE&amp;list=PLvItDmb0sZw9yk2HjJgEJfYr4VTr43W19&amp;index=3)

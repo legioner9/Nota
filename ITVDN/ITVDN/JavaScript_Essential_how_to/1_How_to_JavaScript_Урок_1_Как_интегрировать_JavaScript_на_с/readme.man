@@ -1,0 +1,3 @@
+# [ITVDN](https://www.youtube.com/@ITVDN/playlists?view=1)
+## [JavaScript Essential, how to...](https://www.youtube.com/playlist?list=PLvItDmb0sZw_eQ3cQMEHTpt_JUga1qvgm)
+### [How to JavaScript. Урок 1. Как интегрировать JavaScript на страницу?](https://www.youtube.com/watch?v=guEjNeyG1Ko&amp;list=PLvItDmb0sZw_eQ3cQMEHTpt_JUga1qvgm&amp;index=1)

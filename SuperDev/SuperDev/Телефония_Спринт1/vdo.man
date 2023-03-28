@@ -1,0 +1,5 @@
+### [🔥🔥🔥 Apache web server on Linux Ubuntu, Asterisk, Free CRM - Let's go...](https://www.youtube.com/watch?v=WgFMJoc2RaM&amp;list=PLSGfCcnnkUS1nY6ETKFlqlUGuf8-kEAXL&amp;index=1)
+### [Install 𝑳𝒊𝒏𝒖𝒙 𝑼𝒃𝒖𝒏𝒕𝒖 20.04 𝑳𝑻𝑺  in 𝑽𝒊𝒓𝒕𝒖𝒂𝒍𝑩𝒐𝒙](https://www.youtube.com/watch?v=TSRmF03AnT8&amp;list=PLSGfCcnnkUS1nY6ETKFlqlUGuf8-kEAXL&amp;index=2)
+### [Как настроить локальный web-сервер, установка  Apache, PHP и MariaDB (MySQL) на Ubuntu 20.04.](https://www.youtube.com/watch?v=MQmYbf9YAgU&amp;list=PLSGfCcnnkUS1nY6ETKFlqlUGuf8-kEAXL&amp;index=3)
+### [Ubuntu+Apache+MariaDB+PHP  Настройка Web-сервера.](https://www.youtube.com/watch?v=EFgIPbN9AJ0&amp;list=PLSGfCcnnkUS1nY6ETKFlqlUGuf8-kEAXL&amp;index=4)
+### [Asterisk установка на Ubuntu Server 20.04 с нуля](https://www.youtube.com/watch?v=5ot_Vxc9T6k&amp;list=PLSGfCcnnkUS1nY6ETKFlqlUGuf8-kEAXL&amp;index=5)

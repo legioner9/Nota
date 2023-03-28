@@ -1,0 +1,3 @@
+# [RomNero](https://www.youtube.com/@RomNero/playlists)
+## [Graylog](https://www.youtube.com/playlist?list=PLqVeG_R3qMSyYLMeOXFauNvKCTezzb26I)
+### [02-Graylog. Простая установка на один сервер. Центральный лог сервер для Linux и Windows отчетов.](https://www.youtube.com/watch?v=1ksa0IltFc0&amp;list=PLqVeG_R3qMSyYLMeOXFauNvKCTezzb26I&amp;index=2)

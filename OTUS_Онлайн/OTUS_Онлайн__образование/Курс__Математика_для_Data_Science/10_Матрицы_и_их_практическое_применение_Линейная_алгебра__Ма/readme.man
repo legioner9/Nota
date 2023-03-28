@@ -1,0 +1,3 @@
+# [OTUS Онлайн - образование](https://www.youtube.com/@otus_education/playlists)
+## [Курс | Математика для Data Science](https://www.youtube.com/playlist?list=PLfnFOImnyWRU8k_RyMcLOwA4GXaIoMRiP)
+### [Матрицы и их практическое применение. Линейная алгебра // Математика для Data Science. Базовый курс](https://www.youtube.com/watch?v=8Fp9At0MBsw&amp;list=PLfnFOImnyWRU8k_RyMcLOwA4GXaIoMRiP&amp;index=10)

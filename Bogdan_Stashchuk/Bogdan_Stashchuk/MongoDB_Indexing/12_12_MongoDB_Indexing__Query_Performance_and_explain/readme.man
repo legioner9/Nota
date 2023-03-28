@@ -1,0 +1,3 @@
+# [Bogdan Stashchuk](https://www.youtube.com/@Bogdan_Stashchuk/playlists)
+## [MongoDB Indexing](https://www.youtube.com/playlist?list=PLWkguCWKqN9Pokkb0tDgwYxo2vNuc8iFT)
+### [12 MongoDB Indexing - Query Performance and explain()](https://www.youtube.com/watch?v=TnnN0Rmyo5I&amp;list=PLWkguCWKqN9Pokkb0tDgwYxo2vNuc8iFT&amp;index=12)

@@ -1,0 +1,3 @@
+# [IT-KAMASUTRA](https://www.youtube.com/@ITKAMASUTRA/playlists?view=1)
+## [Учебные fullstack-проекты (Самураи)](https://www.youtube.com/playlist?list=PLcvhF2Wqh7DNyQsYjupz6G1lWP6RQNfjF)
+### [12 - React + TypeScript \ Middle+ \ CRM \ Оптимизация с помощью throttle и react memo](https://www.youtube.com/watch?v=REXU_T9G63E&amp;list=PLcvhF2Wqh7DNyQsYjupz6G1lWP6RQNfjF&amp;index=7)

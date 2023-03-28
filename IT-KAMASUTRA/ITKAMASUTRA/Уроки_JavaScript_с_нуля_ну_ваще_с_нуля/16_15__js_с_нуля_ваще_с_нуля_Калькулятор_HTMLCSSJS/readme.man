@@ -1,0 +1,3 @@
+# [IT-KAMASUTRA](https://www.youtube.com/@ITKAMASUTRA/playlists?view=1)
+## [Уроки JavaScript с нуля (ну ваще с нуля)](https://www.youtube.com/playlist?list=PLcvhF2Wqh7DPD5sRK3lw4bjBsKdgY2bPi)
+### [15.  js с нуля, ваще с нуля (Калькулятор, HTML+CSS+JS)](https://www.youtube.com/watch?v=Ga-9DcY1SNk&amp;list=PLcvhF2Wqh7DPD5sRK3lw4bjBsKdgY2bPi&amp;index=16)

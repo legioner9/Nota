@@ -1,0 +1,3 @@
+# [ITVDN](https://www.youtube.com/@ITVDN/playlists?view=1)
+## [Практика программирования для начинающих](https://www.youtube.com/playlist?list=PLvItDmb0sZw_Fb0ZmRxXslwI4uQeX-qmE)
+### [Шахматный клиент-сервер на C#. Часть 2. Шахматная доска + фигуры. Unity3D.](https://www.youtube.com/watch?v=ta3cMV9U7Mo&amp;list=PLvItDmb0sZw_Fb0ZmRxXslwI4uQeX-qmE&amp;index=43)

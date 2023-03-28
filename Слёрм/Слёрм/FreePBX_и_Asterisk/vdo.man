@@ -1,0 +1,6 @@
+### [FreePBX. Первые шаги: Настройка SIP и создание внутреннего номера](https://www.youtube.com/watch?v=RBakVVnDZt8&amp;list=PL8D2P0ruohOB-enCRskq0IozZc-6bLKv5&amp;index=1)
+### [FreePBX. Первые шаги: Настройка подключения к провайдеру в  FreePBX](https://www.youtube.com/watch?v=6T5Ql3bXRp0&amp;list=PL8D2P0ruohOB-enCRskq0IozZc-6bLKv5&amp;index=2)
+### [FreePBX. Первые шаги: настройка простой очереди звонков](https://www.youtube.com/watch?v=JD2borfdmN0&amp;list=PL8D2P0ruohOB-enCRskq0IozZc-6bLKv5&amp;index=3)
+### [FreePBX. Первые шаги: настройка переадресаций](https://www.youtube.com/watch?v=43BGNhFrhs4&amp;list=PL8D2P0ruohOB-enCRskq0IozZc-6bLKv5&amp;index=4)
+### [FreePBX: настройка связки из двух серверов по IAX](https://www.youtube.com/watch?v=I_9_yMTHu98&amp;list=PL8D2P0ruohOB-enCRskq0IozZc-6bLKv5&amp;index=5)
+### [FreePBX. Настройка шпионского канала](https://www.youtube.com/watch?v=4_a_DZXwow0&amp;list=PL8D2P0ruohOB-enCRskq0IozZc-6bLKv5&amp;index=6)

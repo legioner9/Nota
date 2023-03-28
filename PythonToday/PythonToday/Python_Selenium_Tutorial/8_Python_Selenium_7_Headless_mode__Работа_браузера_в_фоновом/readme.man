@@ -1,0 +1,3 @@
+# [PythonToday](https://www.youtube.com/@PythonToday/playlists)
+## [Python Selenium Tutorial](https://www.youtube.com/playlist?list=PLqGS6O1-DZLp1kgiQNpueIMCHRNzgHa1r)
+### [Python Selenium #7 Headless mode | Работа браузера в фоновом режиме](https://www.youtube.com/watch?v=z-zt9z0q5r0&amp;list=PLqGS6O1-DZLp1kgiQNpueIMCHRNzgHa1r&amp;index=8)

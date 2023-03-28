@@ -1,0 +1,3 @@
+# [OTUS Онлайн - образование](https://www.youtube.com/@otus_education/playlists)
+## [Курс | SRE практики и инструменты](https://www.youtube.com/playlist?list=PLfnFOImnyWRVcX1vFJ7mBYcmu1aTpEHxF)
+### [Практика управление конфигурацией. Ansible // Демо-занятие курса «SRE практики и инструменты»](https://www.youtube.com/watch?v=TBh0BrobIy8&amp;list=PLfnFOImnyWRVcX1vFJ7mBYcmu1aTpEHxF&amp;index=1)

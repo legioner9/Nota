@@ -1,0 +1,3 @@
+# [UNИX](https://www.youtube.com/@unx7784/playlists)
+## [[UNИX] Разработка программного обеспечения на GNU/Linux 2021](https://www.youtube.com/playlist?list=PL6kSdcHYB3x519rRCdMpYqx6S9nkFFmti)
+### [10. Интернационализация и локализация](https://www.youtube.com/watch?v=zbAIPyxlkOM&amp;list=PL6kSdcHYB3x519rRCdMpYqx6S9nkFFmti&amp;index=11)

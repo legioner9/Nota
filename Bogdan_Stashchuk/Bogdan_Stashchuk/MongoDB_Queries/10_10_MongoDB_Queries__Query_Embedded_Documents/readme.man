@@ -1,0 +1,3 @@
+# [Bogdan Stashchuk](https://www.youtube.com/@Bogdan_Stashchuk/playlists)
+## [MongoDB Queries](https://www.youtube.com/playlist?list=PLWkguCWKqN9OSqOOKvoQaUtQAszYhoBYE)
+### [10 MongoDB Queries - Query Embedded Documents](https://www.youtube.com/watch?v=QItbF8zyokE&amp;list=PLWkguCWKqN9OSqOOKvoQaUtQAszYhoBYE&amp;index=10)

@@ -1,0 +1,3 @@
+# [Билял Хасенов – Excel, VBA & More](https://www.youtube.com/@BilyalKhassenov/playlists?view=58)
+## [Функции и Формулы Excel](https://www.youtube.com/playlist?list=PLsPotgU_ELTqAgQJs8GdTB1yWEkGFdOtz)
+### [Текстовые функции Excel: ЛЕВСИМВ, ПРАВСИМВ, ПСТР, ДЛСТР и ПОИСК - Функции Excel (9)](https://www.youtube.com/watch?v=tMQFnsFW_dY&amp;list=PLsPotgU_ELTqAgQJs8GdTB1yWEkGFdOtz&amp;index=9)

@@ -1,0 +1,3 @@
+# [ITVDN](https://www.youtube.com/@ITVDN/playlists?view=1)
+## [C# Стартовый. Процедурное программирование](https://www.youtube.com/playlist?list=PLvItDmb0sZw_s5uM8V1mlNXWG8RqjSmI7)
+### [Обзор курса &quot;Процедурное программирование на языке C#&quot; от Александра Шевчука](https://www.youtube.com/watch?v=X_NB-1jVa7g&amp;list=PLvItDmb0sZw_s5uM8V1mlNXWG8RqjSmI7&amp;index=4)

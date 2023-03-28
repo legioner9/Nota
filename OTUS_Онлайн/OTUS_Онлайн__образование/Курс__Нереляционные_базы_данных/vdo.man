@@ -1,0 +1,5 @@
+### [Кластерные возможности MongoDB // Демо-занятие курса «Нереляционные базы данных»](https://www.youtube.com/watch?v=KQqidRmWEks&amp;list=PLfnFOImnyWRUxaw1oMYGh5K5M_Vo3JQWd&amp;index=1)
+### [Нереляционные базы данных // День открытых дверей OTUS](https://www.youtube.com/watch?v=kEtWm7YVnjU&amp;list=PLfnFOImnyWRUxaw1oMYGh5K5M_Vo3JQWd&amp;index=2)
+### [Demo Day курса «NoSQL»](https://www.youtube.com/watch?v=g7nLb64LG0s&amp;list=PLfnFOImnyWRUxaw1oMYGh5K5M_Vo3JQWd&amp;index=3)
+### [Интенсив «MongoDB Map-Reduce Framework». День 2 // Демо занятие курса «NoSQL»](https://www.youtube.com/watch?v=GWHj2OcOwRI&amp;list=PLfnFOImnyWRUxaw1oMYGh5K5M_Vo3JQWd&amp;index=4)
+### [Интенсив «MongoDB Map-Reduce Framework». День 1 // Демо занятие курса «NoSQL»](https://www.youtube.com/watch?v=JW0DTehRbWg&amp;list=PLfnFOImnyWRUxaw1oMYGh5K5M_Vo3JQWd&amp;index=5)

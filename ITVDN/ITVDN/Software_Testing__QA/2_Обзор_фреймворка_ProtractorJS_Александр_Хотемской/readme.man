@@ -1,0 +1,3 @@
+# [ITVDN](https://www.youtube.com/@ITVDN/playlists?view=1)
+## [Software Testing & QA](https://www.youtube.com/playlist?list=PLvItDmb0sZw_d9N4wLrrEFXduxDp4pNwy)
+### [Обзор фреймворка ProtractorJS. Александр Хотемской](https://www.youtube.com/watch?v=Edm_RoOzc4E&amp;list=PLvItDmb0sZw_d9N4wLrrEFXduxDp4pNwy&amp;index=2)

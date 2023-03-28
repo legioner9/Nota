@@ -1,0 +1,3 @@
+# [ITDoctor](https://www.youtube.com/@ITDoctor/playlists?view=1&sort=dd&shelf_id=0)
+## [Сайт на Wordpress](https://www.youtube.com/playlist?list=PLuY6eeDuleIMEIav0T-g0VBM52C3cAhLC)
+### [#6 Наш первый mixin на SCSS и верстка блока Каталог товаров, Сайт на Wordpress с нуля](https://www.youtube.com/watch?v=4A50jJyxbY4&amp;list=PLuY6eeDuleIMEIav0T-g0VBM52C3cAhLC&amp;index=6)

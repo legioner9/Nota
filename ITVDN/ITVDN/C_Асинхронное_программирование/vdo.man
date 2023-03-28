@@ -1,0 +1,2 @@
+### [Введение в асинхронное программирование. C# Асинхронное программирование.](https://www.youtube.com/watch?v=fXEt4JP5gik&amp;list=PLvItDmb0sZw8kaWd6KpLgNeQPJo2EWoG3&amp;index=1)
+### [Как работает async/await? Асинхронные методы С#. C# Асинхронное программирование.](https://www.youtube.com/watch?v=eip2Xjrzp9g&amp;list=PLvItDmb0sZw8kaWd6KpLgNeQPJo2EWoG3&amp;index=2)

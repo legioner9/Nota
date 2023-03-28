@@ -1,0 +1,3 @@
+# [ITVDN](https://www.youtube.com/@ITVDN/playlists?view=1)
+## [C# Essential Express](https://www.youtube.com/playlist?list=PLvItDmb0sZw-vQV7Xw8tqiBhLQs2LHGHY)
+### [C# Essential Express. Урок 12. События (events)](https://www.youtube.com/watch?v=w75QVb4uK3g&amp;list=PLvItDmb0sZw-vQV7Xw8tqiBhLQs2LHGHY&amp;index=12)

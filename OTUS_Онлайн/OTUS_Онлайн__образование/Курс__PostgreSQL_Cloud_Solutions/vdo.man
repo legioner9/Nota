@@ -1,0 +1,2 @@
+### [Patroni в GKE // Демо-занятие курса «PostgreSQL Cloud Solutions»](https://www.youtube.com/watch?v=8eTnvIFYERQ&amp;list=PLfnFOImnyWRVyh5c42hGlBitcxkpruNhc&amp;index=1)
+### [Резервное копирование и восстановление // Демо-занятие курса «PostgreSQL Cloud Solutions»](https://www.youtube.com/watch?v=TS_3xT26tp4&amp;list=PLfnFOImnyWRVyh5c42hGlBitcxkpruNhc&amp;index=2)

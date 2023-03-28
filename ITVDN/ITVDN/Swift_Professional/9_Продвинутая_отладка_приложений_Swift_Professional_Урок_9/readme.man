@@ -1,0 +1,3 @@
+# [ITVDN](https://www.youtube.com/@ITVDN/playlists?view=1)
+## [Swift Professional](https://www.youtube.com/playlist?list=PLvItDmb0sZw-MmRgd0Btn8Wic-IxbKypi)
+### [Продвинутая отладка приложений. Swift Professional. Урок 9](https://www.youtube.com/watch?v=7cTx2-2q_Z0&amp;list=PLvItDmb0sZw-MmRgd0Btn8Wic-IxbKypi&amp;index=9)

@@ -1,0 +1,3 @@
+# [alishev](https://www.youtube.com/@alishevN/playlists)
+## [Java для начинающих](https://www.youtube.com/playlist?list=PLAma_mKffTOSUkXp26rgdnC0PicnmnDak)
+### [Java для начинающих. Урок 10: Оператор switch.](https://www.youtube.com/watch?v=QJHcGWbzk3U&amp;list=PLAma_mKffTOSUkXp26rgdnC0PicnmnDak&amp;index=10)

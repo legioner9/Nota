@@ -1,0 +1,3 @@
+# [Диджитализируй!](https://www.youtube.com/@t0digital/playlists)
+## [Python разработка](https://www.youtube.com/playlist?list=PLAk6CfuV7hyooMRqhHAO9-Gt6kOQqM_-Y)
+### [Архитектура ПО, MVC и бизнес-логика. Критика Django](https://www.youtube.com/watch?v=HpL6ymFEuu4&amp;list=PLAk6CfuV7hyooMRqhHAO9-Gt6kOQqM_-Y&amp;index=14)

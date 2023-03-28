@@ -1,0 +1,3 @@
+# [RomNero](https://www.youtube.com/@RomNero/playlists)
+## [Server. Linux. Системы и решения.](https://www.youtube.com/playlist?list=PLqVeG_R3qMSysWrn9lqcyxP50INzqAnbN)
+### [Сравнение SHELLs: BASH vs ZSH vs FISH. Делаем красочный и удобный  терминал.](https://www.youtube.com/watch?v=pb9P3SQGqII&amp;list=PLqVeG_R3qMSysWrn9lqcyxP50INzqAnbN&amp;index=19)

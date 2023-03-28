@@ -1,0 +1,3 @@
+# [RED Group](https://www.youtube.com/@REDGroup/playlists)
+## [Инструменты для веб разработчика](https://www.youtube.com/playlist?list=PLXkonRjGXZwwKAAB4ihUHv6C9hyGHvnru)
+### [Правильная структура в проекте | Архитектура в React приложениях](https://www.youtube.com/watch?v=RwZLvDQB52I&amp;list=PLXkonRjGXZwwKAAB4ihUHv6C9hyGHvnru&amp;index=3)

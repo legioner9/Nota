@@ -1,0 +1,3 @@
+# [RomNero](https://www.youtube.com/@RomNero/playlists)
+## [Домашний Сервер. HomeServer](https://www.youtube.com/playlist?list=PLqVeG_R3qMSwbft_ZIIHykNpZPYoy3MxA)
+### [Доступ к Домашнему Серверу с Internet. VPS-VDS + VPN (OpenVPN) + SSL (Let'sEncrypt) + Nextcloud](https://www.youtube.com/watch?v=7VvWZIz1kB8&amp;list=PLqVeG_R3qMSwbft_ZIIHykNpZPYoy3MxA&amp;index=5)

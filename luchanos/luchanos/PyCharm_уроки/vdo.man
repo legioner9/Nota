@@ -1,0 +1,5 @@
+### [PYCHARM ДЛЯ PYTHON. 1 ЧАСТЬ](https://www.youtube.com/watch?v=203sEmoSfpQ&amp;list=PLlKID9PnOE5j8YGEmkOSZ_4n78LtP2-Mj&amp;index=1)
+### [PYCHARM ДЛЯ PYTHON. 2 ЧАСТЬ. DEBUGGER](https://www.youtube.com/watch?v=HpJYVIRuQbU&amp;list=PLlKID9PnOE5j8YGEmkOSZ_4n78LtP2-Mj&amp;index=2)
+### [PYCHARM ДЛЯ PYTHON. 3 ЧАСТЬ. DEBUGER](https://www.youtube.com/watch?v=QA_aGDIHakA&amp;list=PLlKID9PnOE5j8YGEmkOSZ_4n78LtP2-Mj&amp;index=3)
+### [PYCHARM ДЛЯ PYTHON. 4 ЧАСТЬ. DEBUGGER](https://www.youtube.com/watch?v=tPfuwMGOfh4&amp;list=PLlKID9PnOE5j8YGEmkOSZ_4n78LtP2-Mj&amp;index=4)
+### [PYCHARM PYTHON REMOTE INTERPRETER](https://www.youtube.com/watch?v=TQQig1qgqt4&amp;list=PLlKID9PnOE5j8YGEmkOSZ_4n78LtP2-Mj&amp;index=5)

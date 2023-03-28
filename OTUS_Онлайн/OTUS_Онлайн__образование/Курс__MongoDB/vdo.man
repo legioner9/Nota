@@ -1,0 +1,7 @@
+### [Варианты установки MongoDB // Демо-занятие курса «MongoDB»](https://www.youtube.com/watch?v=Tbq8KHor8sI&amp;list=PLfnFOImnyWRUHBTkQiLPPtcpS1YgnDBQ8&amp;index=1)
+### [MongoDB Map-Reduce Framework // Демо-занятие курса «MongoDB»](https://www.youtube.com/watch?v=PcniUVHQNx8&amp;list=PLfnFOImnyWRUHBTkQiLPPtcpS1YgnDBQ8&amp;index=2)
+### [Demo Day курса «MongoDB»](https://www.youtube.com/watch?v=ACqdLl-2RzU&amp;list=PLfnFOImnyWRUHBTkQiLPPtcpS1YgnDBQ8&amp;index=3)
+### [«Работа с геоданными в MongoDB используя Python» // Демо занятие курса «MongoDB»](https://www.youtube.com/watch?v=QeCDyICvi9I&amp;list=PLfnFOImnyWRUHBTkQiLPPtcpS1YgnDBQ8&amp;index=4)
+### [Работа с геоданными в MongoDB используя Python // Демо-занятие курса «MongoDB»](https://www.youtube.com/watch?v=Y5lrUimYVQ8&amp;list=PLfnFOImnyWRUHBTkQiLPPtcpS1YgnDBQ8&amp;index=5)
+### [Demo Day курса «MongoDB»](https://www.youtube.com/watch?v=HNhAxPhQgdE&amp;list=PLfnFOImnyWRUHBTkQiLPPtcpS1YgnDBQ8&amp;index=6)
+### [Базовые понятия MongoDB, CRUD, фильтры // Демо-занятие курса «MongoDB»](https://www.youtube.com/watch?v=4cNePcGhVTs&amp;list=PLfnFOImnyWRUHBTkQiLPPtcpS1YgnDBQ8&amp;index=7)

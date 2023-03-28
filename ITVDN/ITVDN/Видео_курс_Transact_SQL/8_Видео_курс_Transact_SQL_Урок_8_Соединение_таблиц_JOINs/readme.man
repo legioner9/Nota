@@ -1,0 +1,3 @@
+# [ITVDN](https://www.youtube.com/@ITVDN/playlists?view=1)
+## [Видео курс Transact SQL](https://www.youtube.com/playlist?list=PLvItDmb0sZw_ALKpj5uy5k71w28L5Xmol)
+### [Видео курс Transact SQL. Урок 8. Соединение таблиц. JOINs](https://www.youtube.com/watch?v=JfpCgJXDYyU&amp;list=PLvItDmb0sZw_ALKpj5uy5k71w28L5Xmol&amp;index=8)

@@ -1,0 +1,3 @@
+# [Norayr Grigoryan](https://www.youtube.com/@NorayrGrigoryan/playlists)
+## [4. Телефония Asterisk с нуля - 4.Реализация дополнительных функций Asterisk](https://www.youtube.com/playlist?list=PLT4btQkgy42tlSO9Nb6k_s58PPBUvHQD7)
+### [Телефония Asterisk с нуля - 4.5 - Работа Asterisk в зависимости от времени суток](https://www.youtube.com/watch?v=2HQGIaDs0Ao&amp;list=PLT4btQkgy42tlSO9Nb6k_s58PPBUvHQD7&amp;index=4)

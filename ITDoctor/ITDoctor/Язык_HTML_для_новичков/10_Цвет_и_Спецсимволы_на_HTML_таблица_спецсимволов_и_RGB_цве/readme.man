@@ -1,0 +1,3 @@
+# [ITDoctor](https://www.youtube.com/@ITDoctor/playlists?view=1&sort=dd&shelf_id=0)
+## [Язык HTML для новичков](https://www.youtube.com/playlist?list=PLuY6eeDuleINqbJtQv32qtDpTBopxuqs4)
+### [Цвет и Спецсимволы на HTML, таблица спецсимволов и RGB цвет, Урок 10](https://www.youtube.com/watch?v=8kSM4zEyXCU&amp;list=PLuY6eeDuleINqbJtQv32qtDpTBopxuqs4&amp;index=10)

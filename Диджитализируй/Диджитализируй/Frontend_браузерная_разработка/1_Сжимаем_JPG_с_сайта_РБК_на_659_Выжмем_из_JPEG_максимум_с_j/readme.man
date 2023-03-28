@@ -1,0 +1,3 @@
+# [Диджитализируй!](https://www.youtube.com/@t0digital/playlists)
+## [Frontend (браузерная разработка)](https://www.youtube.com/playlist?list=PLAk6CfuV7hyqWuFgcWIvodqNF94oaD0R5)
+### [Сжимаем JPG с сайта РБК на 659%. Выжмем из JPEG максимум с jpegoptim!](https://www.youtube.com/watch?v=OFtqNy6PEeE&amp;list=PLAk6CfuV7hyqWuFgcWIvodqNF94oaD0R5&amp;index=1)

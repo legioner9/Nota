@@ -1,0 +1,3 @@
+# [Bogdan Stashchuk](https://www.youtube.com/@Bogdan_Stashchuk/playlists)
+## [SSL, TLS and HTTPS Overview](https://www.youtube.com/playlist?list=PLWkguCWKqN9P8zOHYxS7e0nrHDmUZGZDq)
+### [03 History and versions of the SSL and TLS](https://www.youtube.com/watch?v=RlFmMWb7PJc&amp;list=PLWkguCWKqN9P8zOHYxS7e0nrHDmUZGZDq&amp;index=3)

@@ -1,0 +1,3 @@
+# [Mikrotik Training](https://www.youtube.com/@MikrotikTraining/playlists)
+## [Wi-Fi](https://www.youtube.com/playlist?list=PLg90hRDCH9A6zv7sVuQ4aBcN0hYu2QpQh)
+### [Инструменты spectral history и spectral scan](https://www.youtube.com/watch?v=pCOBNMvrVSg&amp;list=PLg90hRDCH9A6zv7sVuQ4aBcN0hYu2QpQh&amp;index=16)

@@ -1,0 +1,3 @@
+# [Диджитализируй!](https://www.youtube.com/@t0digital/playlists)
+## [Backend (серверная разработка)](https://www.youtube.com/playlist?list=PLAk6CfuV7hyol0Pvf7gRGnwTk33i5m7Ju)
+### [🔥Разбираем SQL на примере PostgreSQL — SELECT, JOIN, GROUP, HAVING, Coalesce и др.](https://www.youtube.com/watch?v=WpojDncIWOw&amp;list=PLAk6CfuV7hyol0Pvf7gRGnwTk33i5m7Ju&amp;index=6)

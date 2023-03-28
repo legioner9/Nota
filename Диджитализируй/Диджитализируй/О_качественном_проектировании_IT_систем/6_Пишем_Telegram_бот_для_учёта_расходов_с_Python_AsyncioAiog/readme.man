@@ -1,0 +1,3 @@
+# [Диджитализируй!](https://www.youtube.com/@t0digital/playlists)
+## [О качественном проектировании IT систем](https://www.youtube.com/playlist?list=PLAk6CfuV7hypHYocT3jky3yaCZcmxPFcC)
+### [Пишем Telegram бот для учёта расходов с Python, Asyncio/Aiogram, SQLite и Docker](https://www.youtube.com/watch?v=Kh16iosOTIQ&amp;list=PLAk6CfuV7hypHYocT3jky3yaCZcmxPFcC&amp;index=6)

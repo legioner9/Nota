@@ -1,0 +1,3 @@
+# [OTUS Онлайн - образование](https://www.youtube.com/@otus_education/playlists)
+## [Курс | Алгоритмы для разработчиков](https://www.youtube.com/playlist?list=PLfnFOImnyWRVXrFznxZIqDGwsxkvih12d)
+### [Пирамидальная сортировка // Демо-занятие курса «Алгоритмы и структуры данных»](https://www.youtube.com/watch?v=Rte7UeYjQf4&amp;list=PLfnFOImnyWRVXrFznxZIqDGwsxkvih12d&amp;index=25)

@@ -1,0 +1,3 @@
+# [NetSkills. Видеоуроки. Cisco, zabbix, linux.](https://www.youtube.com/@netskills/playlists)
+## [Основы виртуализации](https://www.youtube.com/playlist?list=PLcDkQ2Au8aVM6hSTeiBGTXNMNBwzQyuZG)
+### [6.Основы виртуализации. Лабораторная работа №1. Создаем VM](https://www.youtube.com/watch?v=ny735H1Jbqg&amp;list=PLcDkQ2Au8aVM6hSTeiBGTXNMNBwzQyuZG&amp;index=6)

@@ -1,0 +1,3 @@
+# [ITVDN](https://www.youtube.com/@ITVDN/playlists?view=1)
+## [Архитектура Android приложений](https://www.youtube.com/playlist?list=PLvItDmb0sZw8CjXIxOcj-mbn7ZCCnL3rd)
+### [Основы тестирования Android приложений. Архитектура Android приложений. Урок 8](https://www.youtube.com/watch?v=rpqydDVAf7E&amp;list=PLvItDmb0sZw8CjXIxOcj-mbn7ZCCnL3rd&amp;index=8)

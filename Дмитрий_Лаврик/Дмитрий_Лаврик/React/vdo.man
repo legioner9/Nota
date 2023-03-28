@@ -1,0 +1,4 @@
+### [Начало работы с React. Понимание JSX. Урок №1.](https://www.youtube.com/watch?v=v8q0e0bqJXk&amp;list=PLyeqauxei6jdnPIamSer3up67DHlS5QtR&amp;index=1)
+### [&quot;Ужасы&quot; React. Иммутабельность данных в js.](https://www.youtube.com/watch?v=Z7_7xvJ7Cjc&amp;list=PLyeqauxei6jdnPIamSer3up67DHlS5QtR&amp;index=2)
+### [React vs Vue. Склады данных: redux, mobx, vuex](https://www.youtube.com/watch?v=tcuZFKca0Ug&amp;list=PLyeqauxei6jdnPIamSer3up67DHlS5QtR&amp;index=3)
+### [React vs Vue. Склады данных: redux, mobx, vuex](https://www.youtube.com/watch?v=tcuZFKca0Ug&amp;list=PLyeqauxei6jdnPIamSer3up67DHlS5QtR&amp;index=4)

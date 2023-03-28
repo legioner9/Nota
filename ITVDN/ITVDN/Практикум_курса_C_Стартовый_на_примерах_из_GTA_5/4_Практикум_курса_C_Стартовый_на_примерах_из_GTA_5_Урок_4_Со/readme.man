@@ -1,0 +1,3 @@
+# [ITVDN](https://www.youtube.com/@ITVDN/playlists?view=1)
+## [Практикум курса C# Стартовый на примерах из GTA 5](https://www.youtube.com/playlist?list=PLvItDmb0sZw9-vIHba_lA8WmPJv5gIKhv)
+### [Практикум курса C# Стартовый на примерах из GTA 5. Урок 4. Создаем киллера.](https://www.youtube.com/watch?v=mAqor1iLdpE&amp;list=PLvItDmb0sZw9-vIHba_lA8WmPJv5gIKhv&amp;index=4)

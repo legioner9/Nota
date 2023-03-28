@@ -1,0 +1,5 @@
+### [Python Virtual Environment with pipenv](https://www.youtube.com/watch?v=GMO7ZtfJDpU&amp;list=PLWkguCWKqN9M-9nkkdjuRYLa2Nbtto914&amp;index=1)
+### [Every programming tutorial](https://www.youtube.com/watch?v=3pxP6xJ7w5c&amp;list=PLWkguCWKqN9M-9nkkdjuRYLa2Nbtto914&amp;index=2)
+### [Python Crash Course for Beginners](https://www.youtube.com/watch?v=O8bp3oBnMuU&amp;list=PLWkguCWKqN9M-9nkkdjuRYLa2Nbtto914&amp;index=3)
+### [Python - Курс Python Для Начинающих [1.5 ЧАСА]](https://www.youtube.com/watch?v=82DKIKRgAdw&amp;list=PLWkguCWKqN9M-9nkkdjuRYLa2Nbtto914&amp;index=4)
+### [Python  - Полный Курс по Python [10 ЧАСОВ]](https://www.youtube.com/watch?v=cr_3evPrzsU&amp;list=PLWkguCWKqN9M-9nkkdjuRYLa2Nbtto914&amp;index=5)

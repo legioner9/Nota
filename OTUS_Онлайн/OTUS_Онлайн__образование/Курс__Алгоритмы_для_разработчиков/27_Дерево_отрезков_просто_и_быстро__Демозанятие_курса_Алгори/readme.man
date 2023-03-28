@@ -1,0 +1,3 @@
+# [OTUS Онлайн - образование](https://www.youtube.com/@otus_education/playlists)
+## [Курс | Алгоритмы для разработчиков](https://www.youtube.com/playlist?list=PLfnFOImnyWRVXrFznxZIqDGwsxkvih12d)
+### [Дерево отрезков: просто и быстро // Демо-занятие курса «Алгоритмы и структуры данных»](https://www.youtube.com/watch?v=CDLLYa8nAVM&amp;list=PLfnFOImnyWRVXrFznxZIqDGwsxkvih12d&amp;index=27)

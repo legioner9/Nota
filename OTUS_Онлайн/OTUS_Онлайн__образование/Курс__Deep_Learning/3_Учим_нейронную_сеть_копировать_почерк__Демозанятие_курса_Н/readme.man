@@ -1,0 +1,3 @@
+# [OTUS Онлайн - образование](https://www.youtube.com/@otus_education/playlists)
+## [Курс | Deep Learning.](https://www.youtube.com/playlist?list=PLfnFOImnyWRU-KZqUWatetetxL69wk1ET)
+### [Учим нейронную сеть копировать почерк // Демо-занятие курса «Нейронные сети на Python»](https://www.youtube.com/watch?v=HSwkSbX9VaY&amp;list=PLfnFOImnyWRU-KZqUWatetetxL69wk1ET&amp;index=3)

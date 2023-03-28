@@ -1,0 +1,3 @@
+# [Exploring the IT World / Oleg Shpagin / WISEPLAT](https://www.youtube.com/@wiseplat/playlists)
+## [Уроки Flask для начинающих](https://www.youtube.com/playlist?list=PLxiU3nwEQ4PGS5rrHtL2hzf4mbfuDJg2C)
+### [Уроки Flask для начинающих #1 | Как установить Flask и сделать первое веб приложение](https://www.youtube.com/watch?v=UxEgcps_yLI&amp;list=PLxiU3nwEQ4PGS5rrHtL2hzf4mbfuDJg2C&amp;index=1)

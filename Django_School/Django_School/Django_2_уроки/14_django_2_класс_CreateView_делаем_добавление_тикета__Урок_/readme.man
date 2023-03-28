@@ -1,0 +1,3 @@
+# [Django School](https://www.youtube.com/@DjangoSchool/playlists?view=1)
+## [Django 2 уроки](https://www.youtube.com/playlist?list=PLF-NY6ldwAWqP4S95brtPHZ5fTCxilgei)
+### [django 2 класс CreateView делаем добавление тикета | Урок 14](https://www.youtube.com/watch?v=sCpKk1txk3g&amp;list=PLF-NY6ldwAWqP4S95brtPHZ5fTCxilgei&amp;index=14)

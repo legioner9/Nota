@@ -1,0 +1,3 @@
+# [RomNero](https://www.youtube.com/@RomNero/playlists)
+## [Docker](https://www.youtube.com/playlist?list=PLqVeG_R3qMSwjnkMUns_Yc4zF_PtUZmB-)
+### [Portainer. Управлять Docker ПРОСТО. Обзор, установка, настройка.](https://www.youtube.com/watch?v=EmtNCo7SGbQ&amp;list=PLqVeG_R3qMSwjnkMUns_Yc4zF_PtUZmB-&amp;index=9)

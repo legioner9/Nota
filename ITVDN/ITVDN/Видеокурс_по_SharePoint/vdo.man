@@ -1,0 +1,7 @@
+### [Вводный урок. Установка и настройка SharePoint 2013](https://www.youtube.com/watch?v=KyvfPbHvIKc&amp;list=PLvItDmb0sZw_fBl47fU2aN1yBN4mb5f4k&amp;index=1)
+### [SharePoint 2013. Урок 2. Ключевые возможности](https://www.youtube.com/watch?v=xlVb6uLHy_c&amp;list=PLvItDmb0sZw_fBl47fU2aN1yBN4mb5f4k&amp;index=2)
+### [SharePoint 2013.  Урок 3. Установка и конфигурация](https://www.youtube.com/watch?v=6ZtIx-gZDfc&amp;list=PLvItDmb0sZw_fBl47fU2aN1yBN4mb5f4k&amp;index=3)
+### [SharePoint 2013. Урок 4. Создание веб-приложений и коллекций сайтов](https://www.youtube.com/watch?v=p7SCylyk7GU&amp;list=PLvItDmb0sZw_fBl47fU2aN1yBN4mb5f4k&amp;index=4)
+### [SharePoint 2013.  Урок 5. Планирование и настройка сервисных приложений](https://www.youtube.com/watch?v=5yXB0WY5QWI&amp;list=PLvItDmb0sZw_fBl47fU2aN1yBN4mb5f4k&amp;index=5)
+### [SharePoint 2013.  Урок 6. Управление пользователями и разрешениями](https://www.youtube.com/watch?v=Y4QeKck5cLI&amp;list=PLvItDmb0sZw_fBl47fU2aN1yBN4mb5f4k&amp;index=6)
+### [SharePoint 2013.  Урок 7. Заключение](https://www.youtube.com/watch?v=3ONrfhxYJ_c&amp;list=PLvItDmb0sZw_fBl47fU2aN1yBN4mb5f4k&amp;index=7)

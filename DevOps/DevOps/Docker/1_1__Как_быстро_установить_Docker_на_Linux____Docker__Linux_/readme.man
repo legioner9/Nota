@@ -1,0 +1,3 @@
+# [DevOps](https://www.youtube.com/@Devops_Youtube_Channel/playlists)
+## [Docker](https://www.youtube.com/playlist?list=PLkKSgP0nEL0AQj0WttdhMr_ehOvjOxv6B)
+### [1.  Как быстро установить Docker на Linux ?  / Docker / Linux/ Ubuntu server 20.04 / install](https://www.youtube.com/watch?v=I8i8efuw0O4&amp;list=PLkKSgP0nEL0AQj0WttdhMr_ehOvjOxv6B&amp;index=1)

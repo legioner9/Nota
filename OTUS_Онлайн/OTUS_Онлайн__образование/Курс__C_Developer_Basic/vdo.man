@@ -1,0 +1,2 @@
+### [Demo Day курса «C# Developer. Basic»](https://www.youtube.com/watch?v=pjZZafWpyS8&amp;list=PLfnFOImnyWRV2dvzwEjFHXrh04JFBAWA1&amp;index=1)
+### [Классы как основа С# // Демо-занятие курса «C# Developer  Basic»](https://www.youtube.com/watch?v=ztKzIWHEk3M&amp;list=PLfnFOImnyWRV2dvzwEjFHXrh04JFBAWA1&amp;index=2)

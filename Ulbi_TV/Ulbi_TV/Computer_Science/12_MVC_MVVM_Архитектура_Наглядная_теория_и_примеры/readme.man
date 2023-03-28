@@ -1,0 +1,3 @@
+# [Ulbi TV](https://www.youtube.com/@UlbiTV/playlists)
+## [Computer Science](https://www.youtube.com/playlist?list=PL6DxKON1uLOFQT7dzQH72cJip7i2sFzxw)
+### [MVC, MVVM Архитектура. Наглядная теория и примеры](https://www.youtube.com/watch?v=X85soC5evw0&amp;list=PL6DxKON1uLOFQT7dzQH72cJip7i2sFzxw&amp;index=12)

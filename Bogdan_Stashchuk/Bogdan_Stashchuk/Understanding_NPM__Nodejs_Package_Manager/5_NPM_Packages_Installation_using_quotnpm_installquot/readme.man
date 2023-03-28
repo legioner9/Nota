@@ -1,0 +1,3 @@
+# [Bogdan Stashchuk](https://www.youtube.com/@Bogdan_Stashchuk/playlists)
+## [Understanding NPM - Node.js Package Manager](https://www.youtube.com/playlist?list=PLWkguCWKqN9PI8zI57E4FsxHbcPbrL8rp)
+### [NPM Packages Installation using &quot;npm install&quot;](https://www.youtube.com/watch?v=rL2jA4rKF7M&amp;list=PLWkguCWKqN9PI8zI57E4FsxHbcPbrL8rp&amp;index=5)

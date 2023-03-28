@@ -1,0 +1,3 @@
+# [ITVDN](https://www.youtube.com/@ITVDN/playlists?view=1)
+## [Angular CLI](https://www.youtube.com/playlist?list=PLvItDmb0sZw9yk2HjJgEJfYr4VTr43W19)
+### [Angular CLI. Урок 2. Создание нового приложения](https://www.youtube.com/watch?v=ox2F9D6pHh4&amp;list=PLvItDmb0sZw9yk2HjJgEJfYr4VTr43W19&amp;index=2)

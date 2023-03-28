@@ -1,0 +1,3 @@
+# [Станислав Кузнецов](https://www.youtube.com/@user-qz5qv6uc8y/playlists)
+## [Cisco](https://www.youtube.com/playlist?list=PL9x2twfbtCCPXxyhTAjPKLD-xRW7Fx0DC)
+### [WireShark. Захват и анализ трафика DHCP (WireShark. Capture and analise DHCP traffic)](https://www.youtube.com/watch?v=DUZEbBj_Z4I&amp;list=PL9x2twfbtCCPXxyhTAjPKLD-xRW7Fx0DC&amp;index=5)

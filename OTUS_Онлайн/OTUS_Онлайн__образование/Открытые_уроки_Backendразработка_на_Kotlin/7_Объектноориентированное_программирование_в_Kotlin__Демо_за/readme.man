@@ -1,0 +1,3 @@
+# [OTUS Онлайн - образование](https://www.youtube.com/@otus_education/playlists)
+## [Открытые уроки Backend-разработка на Kotlin](https://www.youtube.com/playlist?list=PLfnFOImnyWRW9W4B_WQviJOXiHhQRx4xD)
+### [Объектно-ориентированное программирование в Kotlin // Демо занятие курса «Kotlin Backend Developer»](https://www.youtube.com/watch?v=v5-SBApeiHg&amp;list=PLfnFOImnyWRW9W4B_WQviJOXiHhQRx4xD&amp;index=7)

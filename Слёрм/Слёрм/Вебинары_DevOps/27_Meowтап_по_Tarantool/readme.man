@@ -1,0 +1,3 @@
+# [Слёрм](https://www.youtube.com/@slurm_io/playlists)
+## [Вебинары DevOps](https://www.youtube.com/playlist?list=PL8D2P0ruohODzihD0D0FZXkVHXtXbb6w3)
+### [Meow'тап по Tarantool](https://www.youtube.com/watch?v=JP4nJ8RdClg&amp;list=PL8D2P0ruohODzihD0D0FZXkVHXtXbb6w3&amp;index=27)

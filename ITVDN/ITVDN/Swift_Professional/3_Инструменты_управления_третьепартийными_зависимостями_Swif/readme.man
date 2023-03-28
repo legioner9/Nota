@@ -1,0 +1,3 @@
+# [ITVDN](https://www.youtube.com/@ITVDN/playlists?view=1)
+## [Swift Professional](https://www.youtube.com/playlist?list=PLvItDmb0sZw-MmRgd0Btn8Wic-IxbKypi)
+### [Инструменты управления третьепартийными зависимостями. Swift Professional. Урок 3](https://www.youtube.com/watch?v=hcyV4Omzc44&amp;list=PLvItDmb0sZw-MmRgd0Btn8Wic-IxbKypi&amp;index=3)

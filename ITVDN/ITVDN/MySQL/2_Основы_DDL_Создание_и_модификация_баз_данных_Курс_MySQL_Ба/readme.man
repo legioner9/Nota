@@ -1,0 +1,3 @@
+# [ITVDN](https://www.youtube.com/@ITVDN/playlists?view=1)
+## [MySQL](https://www.youtube.com/playlist?list=PLvItDmb0sZw9-yTHNWpfXDyPPg8aXYb-B)
+### [Основы DDL. Создание и модификация баз данных. Курс MySQL Базовый. Урок 2](https://www.youtube.com/watch?v=YjiELLJRl6w&amp;list=PLvItDmb0sZw9-yTHNWpfXDyPPg8aXYb-B&amp;index=2)

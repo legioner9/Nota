@@ -1,0 +1,4 @@
+### [Masonite 4 introduction to the framework | Lesson 1](https://www.youtube.com/watch?v=ULLeIhznAWg&amp;list=PLF-NY6ldwAWp2MeIx20btm6n2ZmCd9fBp&amp;index=1)
+### [Masonite 4 migrations and models | Lesson 2](https://www.youtube.com/watch?v=1V7h-ZHFow0&amp;list=PLF-NY6ldwAWp2MeIx20btm6n2ZmCd9fBp&amp;index=2)
+### [Masonite 4 controllers and routes | Lesson 3](https://www.youtube.com/watch?v=-n1Nde_nmYY&amp;list=PLF-NY6ldwAWp2MeIx20btm6n2ZmCd9fBp&amp;index=3)
+### [Masonite 4 groups routes | Models Masonite methods | Lesson 4](https://www.youtube.com/watch?v=r1YZRe4Jmyc&amp;list=PLF-NY6ldwAWp2MeIx20btm6n2ZmCd9fBp&amp;index=4)

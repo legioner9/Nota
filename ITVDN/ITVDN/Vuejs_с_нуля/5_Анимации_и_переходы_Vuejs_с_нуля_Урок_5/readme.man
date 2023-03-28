@@ -1,0 +1,3 @@
+# [ITVDN](https://www.youtube.com/@ITVDN/playlists?view=1)
+## [Vue.js с нуля](https://www.youtube.com/playlist?list=PLvItDmb0sZw_PB1IviJaK6AHxFxXTxXyC)
+### [Анимации и переходы. Vue.js с нуля. Урок 5](https://www.youtube.com/watch?v=5JQJrak05Yc&amp;list=PLvItDmb0sZw_PB1IviJaK6AHxFxXTxXyC&amp;index=5)

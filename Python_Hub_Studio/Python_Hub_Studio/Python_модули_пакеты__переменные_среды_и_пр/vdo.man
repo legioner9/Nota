@@ -1,0 +1,4 @@
+### [Успешный программист - это успешный тестировщик. Тестирование кода, Unit тесты в python](https://www.youtube.com/watch?v=yUwD8eOc97E&amp;list=PLNi5HdK6QEmUxDYvnHWXAj0nJSG9zYhyH&amp;index=1)
+### [How to download and install python on windows](https://www.youtube.com/watch?v=spdX3L5QEFU&amp;list=PLNi5HdK6QEmUxDYvnHWXAj0nJSG9zYhyH&amp;index=2)
+### [python won't run or pip is not an internal or external command](https://www.youtube.com/watch?v=aL-4bSPWU04&amp;list=PLNi5HdK6QEmUxDYvnHWXAj0nJSG9zYhyH&amp;index=3)
+### [Working with pip, pip throws an error, how to update or install pip](https://www.youtube.com/watch?v=U6okgaZ88-s&amp;list=PLNi5HdK6QEmUxDYvnHWXAj0nJSG9zYhyH&amp;index=4)

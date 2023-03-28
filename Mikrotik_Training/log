@@ -1,0 +1,265 @@
+ 24.03.2023 11:25:52 done Настройка Wi-Fi на 5 Ghz точке доступа
+ 24.03.2023 11:25:54 done Настройка точки доступа Wi Fi на Mikrotik RouterOS
+ 24.03.2023 11:25:56 done Wireless Station в Mikrotik Router OS
+ 24.03.2023 11:25:58 done WPS в Mikrotik
+ 24.03.2023 11:26:00 done Выбор мощности беспроводного передатчика на оборудовании Mikrotik
+ 24.03.2023 11:26:03 done Настройка CAPsMAN
+ 24.03.2023 11:26:05 done Что такое CAPsMAN
+ 24.03.2023 11:26:07 done Сборка конфигурации CAPsMAN
+ 24.03.2023 11:26:09 done Provisioning CAPsMAN контроллера
+ 24.03.2023 11:26:11 done Настройка CAPsMAN точки доступа для получения настроек с CAPsMAN контроллера
+ 24.03.2023 11:26:13 done Access list на CAPsMAN контроллере
+ 24.03.2023 11:26:16 done Registration Table в CAPsMAN
+ 24.03.2023 11:26:18 done Advanced Mode беспроводного интерфейса на оборудовании Mikrotik Router OS
+ 24.03.2023 11:26:20 done Инструменты диагностики беспроводных сетей в Mikrotik Router OS
+ 24.03.2023 11:26:22 done #49   Выбор каналов для беспроводных устройств Mikrotik
+ 24.03.2023 11:26:24 done Инструменты spectral history и spectral scan
+ 24.03.2023 11:26:24 done Wi-Fi
+ 24.03.2023 11:26:58 done Цепочка Output в Mikrotik Firewall Filter
+ 24.03.2023 11:27:00 done Основные цепочки IP Firewall Filter, используемые в MikroTik
+ 24.03.2023 11:27:02 done Цепочка Input в Firewall Filter Mikrotik
+ 24.03.2023 11:27:04 done Цепочка Forward в Firewall Mikrotik Filter
+ 24.03.2023 11:27:06 done Action в Mikrotik ip firewall filter - accept, log, add to address list
+ 24.03.2023 11:27:08 done Action Mikrotik ip firewall filter — drop, fasttrack connection, jump, passtrough, reject, tarpit
+ 24.03.2023 11:27:11 done Address List в Mikrotik
+ 24.03.2023 11:27:13 done Принцип «Если-То» в Firewall MikroTik, Вкладки «General», «Advanced», «Extra», «Action»
+ 24.03.2023 11:27:15 done Ручная Настройка Default Firewall Filter Rules в MikroTik
+ 24.03.2023 11:27:17 done Настройка Honeypot в Mikrotik
+ 24.03.2023 11:27:19 done Port Knocking в Mikrotik Firewall Filter
+ 24.03.2023 11:27:21 done Защита от сканирования портов - PSD в mikrotik.
+ 24.03.2023 11:27:24 done Знакомство с NAT
+ 24.03.2023 11:27:26 done Адрес листы с IP адресами различных стран
+ 24.03.2023 11:27:28 done Layer7 в Mikrotik
+ 24.03.2023 11:27:30 done Современная Packet Flow Diagram
+ 24.03.2023 11:27:31 done firewall
+ 24.03.2023 11:28:04 done Общие настройки PPP-profile для PPP-VPN
+ 24.03.2023 11:28:06 done Настройка L2TP сервера в MikroTik
+ 24.03.2023 11:28:08 done Добавление маршрутов с помощью CMAK
+ 24.03.2023 11:28:11 done Настройка L2TP клиента в MikroTik
+ 24.03.2023 11:28:13 done Настройка ppp secret для подключения к PPP серверам на Mikrotik
+ 24.03.2023 11:28:13 done vpn
+ 24.03.2023 11:28:52 done Общие настройки PPP-profile для PPP-VPN
+ 24.03.2023 11:28:55 done Цепочка Output в Mikrotik Firewall Filter
+ 24.03.2023 11:28:57 done Основные цепочки IP Firewall Filter, используемые в MikroTik
+ 24.03.2023 11:28:59 done Цепочка Input в Firewall Filter Mikrotik
+ 24.03.2023 11:29:01 done Цепочка Forward в Firewall Mikrotik Filter
+ 24.03.2023 11:29:03 done Action в Mikrotik ip firewall filter - accept, log, add to address list
+ 24.03.2023 11:29:05 done Action Mikrotik ip firewall filter — drop, fasttrack connection, jump, passtrough, reject, tarpit
+ 24.03.2023 11:29:07 done Address List в Mikrotik
+ 24.03.2023 11:29:10 done Принцип «Если-То» в Firewall MikroTik, Вкладки «General», «Advanced», «Extra», «Action»
+ 24.03.2023 11:29:12 done Ручная Настройка Default Firewall Filter Rules в MikroTik
+ 24.03.2023 11:29:14 done Настройка Honeypot в Mikrotik
+ 24.03.2023 11:29:16 done Настройка L2TP сервера в MikroTik
+ 24.03.2023 11:29:18 done Добавление маршрутов с помощью CMAK
+ 24.03.2023 11:29:20 done Port Knocking в Mikrotik Firewall Filter
+ 24.03.2023 11:29:22 done Packet Flow Diagram в Mikrotik
+ 24.03.2023 11:29:24 done DHCP - теория
+ 24.03.2023 11:29:27 done Настройка L2TP клиента в MikroTik
+ 24.03.2023 11:29:29 done Настройка ppp secret для подключения к PPP серверам на Mikrotik
+ 24.03.2023 11:29:31 done Защита от сканирования портов - PSD в mikrotik.
+ 24.03.2023 11:29:33 done Знакомство с NAT
+ 24.03.2023 11:29:35 done Адрес листы с IP адресами различных стран
+ 24.03.2023 11:29:37 done Layer7 в Mikrotik
+ 24.03.2023 11:29:39 done В каких случаях стоит выбирать Mikrotik
+ 24.03.2023 11:29:41 done Настройка точки доступа Wi Fi на Mikrotik RouterOS
+ 24.03.2023 11:29:44 done Настройка Wi-Fi на 5 Ghz точке доступа
+ 24.03.2023 11:29:46 done Wireless Station в Mikrotik Router OS
+ 24.03.2023 11:29:48 done Выбор мощности беспроводного передатчика на оборудовании Mikrotik
+ 24.03.2023 11:29:50 done WPS в Mikrotik
+ 24.03.2023 11:29:52 done Access листы в RouterOS
+ 24.03.2023 11:29:54 done #46   Spanning Three Protocol в Mikrotik
+ 24.03.2023 11:29:56 done Уточнения Packet Flow Diagram
+ 24.03.2023 11:29:58 done Современная Packet Flow Diagram
+ 24.03.2023 11:30:00 done Packet Flow Diagram подробности по цепочкам
+ 24.03.2023 11:30:03 done Что такое CAPsMAN
+ 24.03.2023 11:30:05 done Настройка CAPsMAN
+ 24.03.2023 11:30:07 done Сборка конфигурации CAPsMAN
+ 24.03.2023 11:30:09 done Provisioning CAPsMAN контроллера
+ 24.03.2023 11:30:11 done Настройка CAPsMAN точки доступа для получения настроек с CAPsMAN контроллера
+ 24.03.2023 11:30:13 done Access list на CAPsMAN контроллере
+ 24.03.2023 11:30:15 done Registration Table в CAPsMAN
+ 24.03.2023 11:30:17 done Advanced Mode беспроводного интерфейса на оборудовании Mikrotik Router OS
+ 24.03.2023 11:30:19 done Инструменты диагностики беспроводных сетей в Mikrotik Router OS
+ 24.03.2023 11:30:22 done #49   Выбор каналов для беспроводных устройств Mikrotik
+ 24.03.2023 11:30:24 done Инструменты spectral history и spectral scan
+ 24.03.2023 11:30:26 done MikroTik Neighbor Discovery Protocol
+ 24.03.2023 11:30:28 done Обзор Bridge в Mikrotik
+ 24.03.2023 11:30:31 done Таблица коммутации и MAC адреса в Bridge
+ 24.03.2023 11:30:31 done short
+ 24.03.2023 11:31:02 done Автоматизация резервного копирования оборудования Mikrotik
+ 24.03.2023 11:31:04 done В очередь, сукины фреймы, в очередь!
+ 24.03.2023 11:31:06 done Аппаратная маршрутизация в коммутаторах crs3xx на RouterOS 7 и построение локальных сетей
+ 24.03.2023 11:31:09 done Набор цветных костылей: скрипты, кейсы, идеи
+ 24.03.2023 11:31:11 done Multiwan &amp; routing in RouterOS 7
+ 24.03.2023 11:31:11 done MUoM-2021
+ 24.03.2023 11:31:42 done Packet-Flow Diagram: изучаем и понимаем диаграмму движения трафика в Mikrotik
+ 24.03.2023 11:31:44 done WireGuard на Mikrotik убийца OpenVPN, IPSec и других протоколов. Или нет?
+ 24.03.2023 11:31:46 done OSPF маршрутизация в MikroTik
+ 24.03.2023 11:31:48 done Общие настройки PPP-profile для PPP-VPN
+ 24.03.2023 11:31:50 done Цепочка Output в Mikrotik Firewall Filter
+ 24.03.2023 11:31:52 done Основные цепочки IP Firewall Filter, используемые в MikroTik
+ 24.03.2023 11:31:54 done Цепочка Input в Firewall Filter Mikrotik
+ 24.03.2023 11:31:56 done Цепочка Forward в Firewall Mikrotik Filter
+ 24.03.2023 11:31:59 done Action в Mikrotik ip firewall filter - accept, log, add to address list
+ 24.03.2023 11:32:01 done Action Mikrotik ip firewall filter — drop, fasttrack connection, jump, passtrough, reject, tarpit
+ 24.03.2023 11:32:03 done Address List в Mikrotik
+ 24.03.2023 11:32:05 done Принцип «Если-То» в Firewall MikroTik, Вкладки «General», «Advanced», «Extra», «Action»
+ 24.03.2023 11:32:07 done Ручная Настройка Default Firewall Filter Rules в MikroTik
+ 24.03.2023 11:32:09 done Настройка Honeypot в Mikrotik
+ 24.03.2023 11:32:11 done Packet Flow Diagram в Mikrotik
+ 24.03.2023 11:32:13 done DHCP - теория
+ 24.03.2023 11:32:15 done Знакомство с NAT
+ 24.03.2023 11:32:18 done Адрес листы с IP адресами различных стран
+ 24.03.2023 11:32:20 done Layer7 в Mikrotik
+ 24.03.2023 11:32:22 done В каких случаях стоит выбирать Mikrotik
+ 24.03.2023 11:32:24 done Настройка точки доступа Wi Fi на Mikrotik RouterOS
+ 24.03.2023 11:32:26 done Настройка Wi-Fi на 5 Ghz точке доступа
+ 24.03.2023 11:32:28 done Wireless Station в Mikrotik Router OS
+ 24.03.2023 11:32:30 done Выбор мощности беспроводного передатчика на оборудовании Mikrotik
+ 24.03.2023 11:32:32 done WPS в Mikrotik
+ 24.03.2023 11:32:34 done Access листы в RouterOS
+ 24.03.2023 11:32:37 done #46   Spanning Three Protocol в Mikrotik
+ 24.03.2023 11:32:39 done Уточнения Packet Flow Diagram
+ 24.03.2023 11:32:41 done Современная Packet Flow Diagram
+ 24.03.2023 11:32:43 done Packet Flow Diagram подробности по цепочкам
+ 24.03.2023 11:32:45 done Что такое CAPsMAN
+ 24.03.2023 11:32:47 done Настройка CAPsMAN
+ 24.03.2023 11:32:49 done Сборка конфигурации CAPsMAN
+ 24.03.2023 11:32:51 done Provisioning CAPsMAN контроллера
+ 24.03.2023 11:32:54 done Настройка CAPsMAN точки доступа для получения настроек с CAPsMAN контроллера
+ 24.03.2023 11:32:56 done Access list на CAPsMAN контроллере
+ 24.03.2023 11:32:58 done Registration Table в CAPsMAN
+ 24.03.2023 11:33:01 done Advanced Mode беспроводного интерфейса на оборудовании Mikrotik Router OS
+ 24.03.2023 11:33:03 done Инструменты диагностики беспроводных сетей в Mikrotik Router OS
+ 24.03.2023 11:33:05 done #49   Выбор каналов для беспроводных устройств Mikrotik
+ 24.03.2023 11:33:08 done Инструменты spectral history и spectral scan
+ 24.03.2023 11:33:10 done MikroTik Neighbor Discovery Protocol
+ 24.03.2023 11:33:12 done Обзор Bridge в Mikrotik
+ 24.03.2023 11:33:14 done Таблица коммутации и MAC адреса в Bridge
+ 24.03.2023 11:33:15 done theory
+ 24.03.2023 11:33:45 done Firewall в Mikrotik: разбираем, как обеспечивать безопасность сети
+ 24.03.2023 11:33:47 done WireGuard на Mikrotik: убийца OpenVPN, IPSec и других протоколов. Или нет?
+ 24.03.2023 11:33:49 done WireGuard на Mikrotik убийца OpenVPN, IPSec и других протоколов. Или нет?
+ 24.03.2023 11:33:51 done Общие настройки PPP-profile для PPP-VPN
+ 24.03.2023 11:33:53 done Цепочка Output в Mikrotik Firewall Filter
+ 24.03.2023 11:33:56 done Основные цепочки IP Firewall Filter, используемые в MikroTik
+ 24.03.2023 11:33:58 done Цепочка Input в Firewall Filter Mikrotik
+ 24.03.2023 11:34:00 done Цепочка Forward в Firewall Mikrotik Filter
+ 24.03.2023 11:34:02 done Action в Mikrotik ip firewall filter - accept, log, add to address list
+ 24.03.2023 11:34:04 done Action Mikrotik ip firewall filter — drop, fasttrack connection, jump, passtrough, reject, tarpit
+ 24.03.2023 11:34:06 done Address List в Mikrotik
+ 24.03.2023 11:34:08 done Принцип «Если-То» в Firewall MikroTik, Вкладки «General», «Advanced», «Extra», «Action»
+ 24.03.2023 11:34:10 done Ручная Настройка Default Firewall Filter Rules в MikroTik
+ 24.03.2023 11:34:12 done Настройка Honeypot в Mikrotik
+ 24.03.2023 11:34:15 done Настройка L2TP сервера в MikroTik
+ 24.03.2023 11:34:17 done Добавление маршрутов с помощью CMAK
+ 24.03.2023 11:34:19 done Port Knocking в Mikrotik Firewall Filter
+ 24.03.2023 11:34:21 done Защита от сканирования портов - PSD в mikrotik.
+ 24.03.2023 11:34:23 done Знакомство с NAT
+ 24.03.2023 11:34:25 done Адрес листы с IP адресами различных стран
+ 24.03.2023 11:34:28 done Layer7 в Mikrotik
+ 24.03.2023 11:34:30 done MikroTik Neighbor Discovery Protocol
+ 24.03.2023 11:34:32 done Обзор Bridge в Mikrotik
+ 24.03.2023 11:34:33 done security
+ 24.03.2023 11:35:05 done Firewall в Mikrotik: разбираем, как обеспечивать безопасность сети
+ 24.03.2023 11:35:07 done WireGuard на Mikrotik: убийца OpenVPN, IPSec и других протоколов. Или нет?
+ 24.03.2023 11:35:09 done WireGuard на Mikrotik убийца OpenVPN, IPSec и других протоколов. Или нет?
+ 24.03.2023 11:35:11 done OSPF маршрутизация в MikroTik
+ 24.03.2023 11:35:13 done Настройка ppp secret для подключения к PPP серверам на Mikrotik
+ 24.03.2023 11:35:15 done Современная Packet Flow Diagram
+ 24.03.2023 11:35:16 done L3
+ 24.03.2023 11:35:46 done Dot1x в корпоративной среде на Mikrotik
+ 24.03.2023 11:35:48 done О работе VLAN (802.1q) на оборудовании Mikrotik
+ 24.03.2023 11:35:50 done Создаем отказоустойчивую L2-сеть на коммутаторах Mikrotik
+ 24.03.2023 11:35:50 done MUOM
+ 24.03.2023 11:36:21 done Тонкая настройка локальной сети для передачи голоса. Voice vlan, приоритизация трафика в сетях (L2)
+ 24.03.2023 11:36:23 done Dot1x в корпоративной среде на Mikrotik
+ 24.03.2023 11:36:25 done О работе VLAN (802.1q) на оборудовании Mikrotik
+ 24.03.2023 11:36:27 done Создаем отказоустойчивую L2-сеть на коммутаторах Mikrotik
+ 24.03.2023 11:36:30 done Стекирование коммутаторов Mikrotik с помощью 802.1br
+ 24.03.2023 11:36:32 done DHCP - теория
+ 24.03.2023 11:36:34 done #46   Spanning Three Protocol в Mikrotik
+ 24.03.2023 11:36:36 done Обзор Bridge в Mikrotik
+ 24.03.2023 11:36:36 done L2
+ 24.03.2023 11:37:10 done Инструменты troubleshooting сети на MikroTik
+ 24.03.2023 11:37:12 done Инструменты troubleshooting сети на MikroTik
+ 24.03.2023 11:37:14 done Инструменты для траблшутинга WiFi на Mikrotik
+ 24.03.2023 11:37:16 done Инструменты troubleshooting mikrotik
+ 24.03.2023 11:37:18 done Надежная работа Asterisk по каналам 3G/4G/LTE. Делаем «RAID-массив» из двух каналов
+ 24.03.2023 11:37:21 done Надежная работа Asterisk по каналам 3G/4G/LTE. Делаем «RAID-массив» из двух каналов
+ 24.03.2023 11:37:23 done WiFi-контроллер на Mikrotik: использование CAPsMAN.
+ 24.03.2023 11:37:25 done WiFi-контроллер на Mikrotik: использование CAPsMAN.
+ 24.03.2023 11:37:27 done Firewall в Mikrotik: разбираем, как обеспечивать безопасность сети
+ 24.03.2023 11:37:29 done Firewall в Mikrotik: разбираем, как обеспечивать безопасность сети
+ 24.03.2023 11:37:31 done Firewall в Mikrotik: разбираем, как обеспечивать безопасность сети
+ 24.03.2023 11:37:33 done Контроль сайтов и пользователей на Mikrotik: кто куда ходит
+ 24.03.2023 11:37:35 done Контроль сайтов и пользователей на Mikrotik: кто куда ходит
+ 24.03.2023 11:37:38 done Настраиваем Mikrotik для офиса за 59 минут №2
+ 24.03.2023 11:37:40 done Настраиваем Mikrotik для офиса за 59 минут
+ 24.03.2023 11:37:42 done Фильтрация соцсетей и лишнего трафика: использование L7 возможностей в Mikrotik
+ 24.03.2023 11:37:44 done Отказоустойчивые схемы использования Mikrotik. Кластеризация роутеров.
+ 24.03.2023 11:37:46 done HotSpot WiFi в Mikrotik.
+ 24.03.2023 11:37:48 done HotSpot WiFi в Mikrotik. Настройка и выполнение требований законодательства.
+ 24.03.2023 11:37:50 done 3G/4G модемы и Mikrotik: подключаем беспроводной Интернет
+ 24.03.2023 11:37:52 done Настройка резервирования в Mikrotik. Dual-WAN, основные принципы и пошаговая настройка.
+ 24.03.2023 11:37:55 done VLAN на Mikrotik: принципы работы и стыковка с другими свичами
+ 24.03.2023 11:37:57 done Оптимальная настройка WiFi для дома или небольшого офиса
+ 24.03.2023 11:37:59 done IPSec: настройка туннеля с шифрованием между двумя Mikrotik
+ 24.03.2023 11:38:01 done QoS и приоритезация трафика внутри VPN-туннелей
+ 24.03.2023 11:38:03 done Настраиваем Mikrotik для офиса за 59 минут
+ 24.03.2023 11:38:05 done WiFi-авторизация на Mikrotik с помощью звонка Asterisk и sms
+ 24.03.2023 11:38:07 done Онлайн-дебаты: &quot;Должен ли сисадмин разбираться в сетях. Или прошли те времена?&quot;
+ 24.03.2023 11:38:10 done Dot1x в корпоративной среде на Mikrotik
+ 24.03.2023 11:38:12 done О работе VLAN (802.1q) на оборудовании Mikrotik
+ 24.03.2023 11:38:14 done Создаем отказоустойчивую L2-сеть на коммутаторах Mikrotik
+ 24.03.2023 11:38:16 done Стекирование коммутаторов Mikrotik с помощью 802.1br
+ 24.03.2023 11:38:18 done Firewall в Mikrotik: разбираем, как обеспечивать безопасность сети
+ 24.03.2023 11:38:20 done Packet-Flow Diagram: изучаем и понимаем диаграмму движения трафика в Mikrotik
+ 24.03.2023 11:38:22 done WireGuard на Mikrotik убийца OpenVPN, IPSec и других протоколов. Или нет?
+ 24.03.2023 11:38:24 done OSPF маршрутизация в MikroTik
+ 24.03.2023 11:38:27 done Цепочка Output в Mikrotik Firewall Filter
+ 24.03.2023 11:38:29 done Основные цепочки IP Firewall Filter, используемые в MikroTik
+ 24.03.2023 11:38:31 done Цепочка Input в Firewall Filter Mikrotik
+ 24.03.2023 11:38:33 done Цепочка Forward в Firewall Mikrotik Filter
+ 24.03.2023 11:38:35 done Action в Mikrotik ip firewall filter - accept, log, add to address list
+ 24.03.2023 11:38:37 done Action Mikrotik ip firewall filter — drop, fasttrack connection, jump, passtrough, reject, tarpit
+ 24.03.2023 11:38:39 done Address List в Mikrotik
+ 24.03.2023 11:38:42 done Принцип «Если-То» в Firewall MikroTik, Вкладки «General», «Advanced», «Extra», «Action»
+ 24.03.2023 11:38:44 done Ручная Настройка Default Firewall Filter Rules в MikroTik
+ 24.03.2023 11:38:46 done Настройка L2TP сервера в MikroTik
+ 24.03.2023 11:38:49 done Добавление маршрутов с помощью CMAK
+ 24.03.2023 11:38:51 done Port Knocking в Mikrotik Firewall Filter
+ 24.03.2023 11:38:53 done Packet Flow Diagram в Mikrotik
+ 24.03.2023 11:38:56 done DHCP - теория
+ 24.03.2023 11:38:58 done Настройка L2TP клиента в MikroTik
+ 24.03.2023 11:39:00 done Настройка ppp secret для подключения к PPP серверам на Mikrotik
+ 24.03.2023 11:39:02 done Защита от сканирования портов - PSD в mikrotik.
+ 24.03.2023 11:39:05 done Знакомство с NAT
+ 24.03.2023 11:39:07 done Адрес листы с IP адресами различных стран
+ 24.03.2023 11:39:09 done Layer7 в Mikrotik
+ 24.03.2023 11:39:12 done В каких случаях стоит выбирать Mikrotik
+ 24.03.2023 11:39:14 done Настройка точки доступа Wi Fi на Mikrotik RouterOS
+ 24.03.2023 11:39:16 done Настройка Wi-Fi на 5 Ghz точке доступа
+ 24.03.2023 11:39:18 done Wireless Station в Mikrotik Router OS
+ 24.03.2023 11:39:21 done Выбор мощности беспроводного передатчика на оборудовании Mikrotik
+ 24.03.2023 11:39:23 done WPS в Mikrotik
+ 24.03.2023 11:39:25 done Access листы в RouterOS
+ 24.03.2023 11:39:28 done Уточнения Packet Flow Diagram
+ 24.03.2023 11:39:30 done Packet Flow Diagram подробности по цепочкам
+ 24.03.2023 11:39:32 done Что такое CAPsMAN
+ 24.03.2023 11:39:35 done Настройка CAPsMAN
+ 24.03.2023 11:39:37 done Сборка конфигурации CAPsMAN
+ 24.03.2023 11:39:39 done Provisioning CAPsMAN контроллера
+ 24.03.2023 11:39:42 done Настройка CAPsMAN точки доступа для получения настроек с CAPsMAN контроллера
+ 24.03.2023 11:39:44 done Access list на CAPsMAN контроллере
+ 24.03.2023 11:39:46 done Registration Table в CAPsMAN
+ 24.03.2023 11:39:49 done Advanced Mode беспроводного интерфейса на оборудовании Mikrotik Router OS
+ 24.03.2023 11:39:51 done Инструменты диагностики беспроводных сетей в Mikrotik Router OS
+ 24.03.2023 11:39:53 done #49   Выбор каналов для беспроводных устройств Mikrotik
+ 24.03.2023 11:39:56 done Инструменты spectral history и spectral scan
+ 24.03.2023 11:39:58 done MikroTik Neighbor Discovery Protocol
+ 24.03.2023 11:40:00 done Обзор Bridge в Mikrotik
+ 24.03.2023 11:40:03 done Таблица коммутации и MAC адреса в Bridge
+ 24.03.2023 11:40:03 done Главная
+ 24.03.2023 11:40:04 good end 
+ 24.03.2023 11:40:04 good end 

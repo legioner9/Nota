@@ -1,0 +1,3 @@
+# [ITVDN](https://www.youtube.com/@ITVDN/playlists?view=1)
+## [Разработка Web Services на платформе Java](https://www.youtube.com/playlist?list=PLvItDmb0sZw9vaPioYUwp3lYSydvoKju8)
+### [JAX-RS Client API. Асинхронный REST. Разработка Web Services на платформе Java. Урок 5](https://www.youtube.com/watch?v=lis8voOSnE0&amp;list=PLvItDmb0sZw9vaPioYUwp3lYSydvoKju8&amp;index=5)

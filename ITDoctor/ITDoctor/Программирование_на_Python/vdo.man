@@ -1,0 +1,2 @@
+### [Программирование на Python, урок по языку Python](https://www.youtube.com/watch?v=aC6_iSq6Ngo&amp;list=PLuY6eeDuleIMXRHhNW_lQHR7c6bUeRVpP&amp;index=1)
+### [Как восстановить даты на фото и видео по названию файла на Python](https://www.youtube.com/watch?v=fZV8nTKWx_0&amp;list=PLuY6eeDuleIMXRHhNW_lQHR7c6bUeRVpP&amp;index=2)

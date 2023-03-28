@@ -1,0 +1,2 @@
+### [Обзор курса &quot;Dependency Injection в Android разработке&quot;](https://www.youtube.com/watch?v=G6lO2UnmFdE&amp;list=PLvItDmb0sZw-VQFZ6HKE9V_Y8Y_PJsoGP&amp;index=1)
+### [Основы внедрения зависимостей. Dependency Injection в Android разработке.](https://www.youtube.com/watch?v=vMUCaOBQwqk&amp;list=PLvItDmb0sZw-VQFZ6HKE9V_Y8Y_PJsoGP&amp;index=2)

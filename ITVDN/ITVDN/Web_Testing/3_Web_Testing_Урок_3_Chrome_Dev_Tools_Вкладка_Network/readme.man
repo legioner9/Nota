@@ -1,0 +1,3 @@
+# [ITVDN](https://www.youtube.com/@ITVDN/playlists?view=1)
+## [Web Testing](https://www.youtube.com/playlist?list=PLvItDmb0sZw-NHhrgG6voZxCUfm1AKN7K)
+### [Web Testing. Урок 3. Chrome Dev Tools. Вкладка «Network»](https://www.youtube.com/watch?v=23xpnhgxxYY&amp;list=PLvItDmb0sZw-NHhrgG6voZxCUfm1AKN7K&amp;index=3)

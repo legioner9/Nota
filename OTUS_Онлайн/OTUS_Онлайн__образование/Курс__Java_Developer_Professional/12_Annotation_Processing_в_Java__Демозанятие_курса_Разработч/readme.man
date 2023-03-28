@@ -1,0 +1,3 @@
+# [OTUS Онлайн - образование](https://www.youtube.com/@otus_education/playlists)
+## [Курс | Java Developer Professional](https://www.youtube.com/playlist?list=PLfnFOImnyWRUkY6JaagQsWDrtRBK7gPRd)
+### [Annotation Processing в Java // Демо-занятие курса «Разработчик Java»](https://www.youtube.com/watch?v=d9pLCkJlz5M&amp;list=PLfnFOImnyWRUkY6JaagQsWDrtRBK7gPRd&amp;index=12)

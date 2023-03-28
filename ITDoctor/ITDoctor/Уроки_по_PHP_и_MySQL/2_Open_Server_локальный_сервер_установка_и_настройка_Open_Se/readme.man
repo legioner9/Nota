@@ -1,0 +1,3 @@
+# [ITDoctor](https://www.youtube.com/@ITDoctor/playlists?view=1&sort=dd&shelf_id=0)
+## [Уроки по PHP и MySQL](https://www.youtube.com/playlist?list=PLuY6eeDuleIPUDtVRCM4aEWQwdONcTXW5)
+### [Open Server локальный сервер, установка и настройка Open Server, работа с PHP и MySQL](https://www.youtube.com/watch?v=cVXWqyE6HoA&amp;list=PLuY6eeDuleIPUDtVRCM4aEWQwdONcTXW5&amp;index=2)

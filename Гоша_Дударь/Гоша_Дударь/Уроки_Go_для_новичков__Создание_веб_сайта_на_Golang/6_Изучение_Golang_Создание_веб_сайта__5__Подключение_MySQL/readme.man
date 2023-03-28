@@ -1,0 +1,3 @@
+# [Гоша Дударь](https://www.youtube.com/@gosha_dudar/playlists?view=1)
+## [Уроки Go для новичков / Создание веб сайта на Golang](https://www.youtube.com/playlist?list=PL0lO_mIqDDFXXqMzFOIGIb7FOprmUQ_tt)
+### [Изучение Golang (Создание веб сайта) / #5 – Подключение MySQL](https://www.youtube.com/watch?v=UE2y_3onSeY&amp;list=PL0lO_mIqDDFXXqMzFOIGIb7FOprmUQ_tt&amp;index=6)

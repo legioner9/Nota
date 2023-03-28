@@ -1,0 +1,3 @@
+# [DevOps](https://www.youtube.com/@Devops_Youtube_Channel/playlists)
+## [Git](https://www.youtube.com/playlist?list=PLkKSgP0nEL0Cd50vp3CbfnCGtqJfxBCIr)
+### [1. Как установка Git на Windows и Linux ? / Install/ Git/ Windows/ Linux/ MacOS](https://www.youtube.com/watch?v=sQYo2tl8jlY&amp;list=PLkKSgP0nEL0Cd50vp3CbfnCGtqJfxBCIr&amp;index=1)

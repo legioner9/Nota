@@ -1,0 +1,4 @@
+### [Result Type // Демо-занятие курса «Специализация iOS»](https://www.youtube.com/watch?v=ntlDAyx_lms&amp;list=PLfnFOImnyWRVuXqZTn30ft8oBju0BahrG&amp;index=1)
+### [Создание сетевого слоя // Демо-занятие курса «Специализация iOS»](https://www.youtube.com/watch?v=5xs2KxcFdOE&amp;list=PLfnFOImnyWRVuXqZTn30ft8oBju0BahrG&amp;index=2)
+### [Demo Day cпециализации «iOS Developer»](https://www.youtube.com/watch?v=mlkCnkTFwUU&amp;list=PLfnFOImnyWRVuXqZTn30ft8oBju0BahrG&amp;index=3)
+### [Пишем простой фоторедактор для iOS // Демо-занятие курса «iOS Developer. Basic/Специализация iOS»](https://www.youtube.com/watch?v=OKWDmGYReb8&amp;list=PLfnFOImnyWRVuXqZTn30ft8oBju0BahrG&amp;index=4)

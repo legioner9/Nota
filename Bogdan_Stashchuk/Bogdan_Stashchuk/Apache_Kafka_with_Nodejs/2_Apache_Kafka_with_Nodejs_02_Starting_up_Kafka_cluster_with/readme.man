@@ -1,0 +1,3 @@
+# [Bogdan Stashchuk](https://www.youtube.com/@Bogdan_Stashchuk/playlists)
+## [Apache Kafka with Node.js](https://www.youtube.com/playlist?list=PLWkguCWKqN9ODj1BNk5V-aOhjvjPxSb2R)
+### [Apache Kafka with Node.js: 02 Starting up Kafka cluster with 3 brokers](https://www.youtube.com/watch?v=LCQf9Z0fi4E&amp;list=PLWkguCWKqN9ODj1BNk5V-aOhjvjPxSb2R&amp;index=2)

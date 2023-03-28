@@ -1,0 +1,5 @@
+### [События и обработка событий на мобильных устройствах. JavaScript: Расширенные возможности. Урок 1](https://www.youtube.com/watch?v=alyZag9K6pU&amp;list=PLvItDmb0sZw87LktiSdDqhzKv6IyCOs6N&amp;index=1)
+### [Сохранение данных на стороне клиента. IndexedDB. JavaScript: Расширенные возможности. Урок 2](https://www.youtube.com/watch?v=b3fLcjCS-W0&amp;list=PLvItDmb0sZw87LktiSdDqhzKv6IyCOs6N&amp;index=2)
+### [Работа с Promise. JavaScript: Расширенные возможности. Урок 3](https://www.youtube.com/watch?v=mJsqdO-uZk8&amp;list=PLvItDmb0sZw87LktiSdDqhzKv6IyCOs6N&amp;index=3)
+### [Новые возможности ES6. JavaScript: Расширенные возможности. Урок 4](https://www.youtube.com/watch?v=Azk11nfDNNs&amp;list=PLvItDmb0sZw87LktiSdDqhzKv6IyCOs6N&amp;index=4)
+### [Новые возможности ES.next. JavaScript: Расширенные возможности. Урок 5](https://www.youtube.com/watch?v=5bQvhH6Qig0&amp;list=PLvItDmb0sZw87LktiSdDqhzKv6IyCOs6N&amp;index=5)

@@ -1,0 +1,3 @@
+### [Рубрикатор C#/. NET](https://www.youtube.com/watch?v=4co0osLRlkQ&amp;list=PLvItDmb0sZw97QQfB5Y6u_82SR9afeCwG&amp;index=1)
+### [Рубрикатор FrontEnd](https://www.youtube.com/watch?v=2zzSTdkH4_M&amp;list=PLvItDmb0sZw97QQfB5Y6u_82SR9afeCwG&amp;index=2)
+### [Рубрикатор Python](https://www.youtube.com/watch?v=4gJWES9Lhw8&amp;list=PLvItDmb0sZw97QQfB5Y6u_82SR9afeCwG&amp;index=3)

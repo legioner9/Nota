@@ -1,0 +1,3 @@
+# [Norayr Grigoryan](https://www.youtube.com/@NorayrGrigoryan/playlists)
+## [4. Телефония Asterisk с нуля - 4.Реализация дополнительных функций Asterisk](https://www.youtube.com/playlist?list=PLT4btQkgy42tlSO9Nb6k_s58PPBUvHQD7)
+### [Телефония Asterisk с нуля - 4.6 - Подключение аппаратного телефона](https://www.youtube.com/watch?v=Im0FcQDvumw&amp;list=PLT4btQkgy42tlSO9Nb6k_s58PPBUvHQD7&amp;index=6)

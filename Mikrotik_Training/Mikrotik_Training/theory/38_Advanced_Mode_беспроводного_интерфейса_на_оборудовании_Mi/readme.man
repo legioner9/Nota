@@ -1,0 +1,3 @@
+# [Mikrotik Training](https://www.youtube.com/@MikrotikTraining/playlists)
+## [theory](https://www.youtube.com/playlist?list=PLg90hRDCH9A4Buon8-tXpZLHjpPQR4i1v)
+### [Advanced Mode беспроводного интерфейса на оборудовании Mikrotik Router OS](https://www.youtube.com/watch?v=2YhAZKIJhlQ&amp;list=PLg90hRDCH9A4Buon8-tXpZLHjpPQR4i1v&amp;index=38)

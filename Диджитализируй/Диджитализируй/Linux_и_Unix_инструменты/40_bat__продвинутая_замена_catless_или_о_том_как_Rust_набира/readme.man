@@ -1,0 +1,3 @@
+# [Диджитализируй!](https://www.youtube.com/@t0digital/playlists)
+## [Linux и Unix инструменты](https://www.youtube.com/playlist?list=PLAk6CfuV7hyqHyQVHZMQRihAfebXpxn2O)
+### [bat — продвинутая замена cat/less или о том, как Rust набирает обороты](https://www.youtube.com/watch?v=3w3NndD6BKI&amp;list=PLAk6CfuV7hyqHyQVHZMQRihAfebXpxn2O&amp;index=40)

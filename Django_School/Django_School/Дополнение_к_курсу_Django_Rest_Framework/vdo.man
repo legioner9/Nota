@@ -1,0 +1,8 @@
+### [Django rest framework и с чем его едят](https://www.youtube.com/watch?v=2rCjdYY-8R4&amp;list=PLF-NY6ldwAWpktIw6ailetqjXibKlOLY_&amp;index=1)
+### [разбор классов django rest framework GenericAPIView ListAPIView RetrieveAPIView](https://www.youtube.com/watch?v=whzN-f0_nDw&amp;list=PLF-NY6ldwAWpktIw6ailetqjXibKlOLY_&amp;index=2)
+### [разбор классов Create Update Destroy django rest framework | drf](https://www.youtube.com/watch?v=A8FYpqaTzuU&amp;list=PLF-NY6ldwAWpktIw6ailetqjXibKlOLY_&amp;index=3)
+### [django rest framework права доступа permissions JWT](https://www.youtube.com/watch?v=Svs3eCAvBaA&amp;list=PLF-NY6ldwAWpktIw6ailetqjXibKlOLY_&amp;index=4)
+### [Авторизация и сброс пароля в django rest framework](https://www.youtube.com/watch?v=f8snZHy1WE8&amp;list=PLF-NY6ldwAWpktIw6ailetqjXibKlOLY_&amp;index=5)
+### [WebSocket + Django + Vue](https://www.youtube.com/watch?v=hpMnjxyegDM&amp;list=PLF-NY6ldwAWpktIw6ailetqjXibKlOLY_&amp;index=6)
+### [Авторизация по token django rest framework](https://www.youtube.com/watch?v=v1g6fjI-92w&amp;list=PLF-NY6ldwAWpktIw6ailetqjXibKlOLY_&amp;index=7)
+### [разбор классов ViewSet django rest framework](https://www.youtube.com/watch?v=LUACC0DlwB4&amp;list=PLF-NY6ldwAWpktIw6ailetqjXibKlOLY_&amp;index=8)

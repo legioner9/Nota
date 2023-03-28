@@ -1,0 +1,3 @@
+# [Python Hub Studio](https://www.youtube.com/@PythonHubStudio/playlists)
+## [Полный курс уроков обучения ООП Python](https://www.youtube.com/playlist?list=PLNi5HdK6QEmX9fxp3_IBFx1O5tiTmKlYm)
+### [Python OOP getters setters, decorator property, classmethod, staticmethod](https://www.youtube.com/watch?v=H323khQJL40&amp;list=PLNi5HdK6QEmX9fxp3_IBFx1O5tiTmKlYm&amp;index=3)

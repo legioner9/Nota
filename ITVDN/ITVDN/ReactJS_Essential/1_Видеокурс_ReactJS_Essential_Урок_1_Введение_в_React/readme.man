@@ -1,0 +1,3 @@
+# [ITVDN](https://www.youtube.com/@ITVDN/playlists?view=1)
+## [ReactJS Essential](https://www.youtube.com/playlist?list=PLvItDmb0sZw8HZwaeolxxRq3UGpWM3LgW)
+### [Видеокурс ReactJS Essential. Урок 1. Введение в React](https://www.youtube.com/watch?v=gbTSl88k5pk&amp;list=PLvItDmb0sZw8HZwaeolxxRq3UGpWM3LgW&amp;index=1)

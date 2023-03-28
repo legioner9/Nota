@@ -1,0 +1,3 @@
+# [OTUS Онлайн - образование](https://www.youtube.com/@otus_education/playlists)
+## [Открытые уроки  Golang Developer. Professional](https://www.youtube.com/playlist?list=PLfnFOImnyWRUADFreftcl7WZpPLqlK-RG)
+### [«Профилирование и оптимизации в Go» // Демо-занятие курса «Golang Developer. Professional»](https://www.youtube.com/watch?v=DvkArdKQjBI&amp;list=PLfnFOImnyWRUADFreftcl7WZpPLqlK-RG&amp;index=2)

@@ -1,0 +1,3 @@
+# [selfedu](https://www.youtube.com/@selfedu_rus/playlists?view=1)
+## [Структуры данных](https://www.youtube.com/playlist?list=PLA0M1Bcd0w8x4jEp1r_aN3xlnlbfx9RQ2)
+### [#1. О большое (Big O) - верхняя оценка сложности алгоритмов | Структуры данных](https://www.youtube.com/watch?v=gHLDdM59Di8&amp;list=PLA0M1Bcd0w8x4jEp1r_aN3xlnlbfx9RQ2&amp;index=1)

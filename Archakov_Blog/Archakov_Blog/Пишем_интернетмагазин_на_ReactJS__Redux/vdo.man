@@ -1,0 +1,4 @@
+### [Пишем интернет-магазин на ReactJS + Redux #1](https://www.youtube.com/watch?v=3rq4b6Ozjf8&amp;list=PL0FGkDGJQjJFh-pwkKsksyC4YNJNvzQO8&amp;index=1)
+### [Пишем интернет-магазин на ReactJS + Redux #2](https://www.youtube.com/watch?v=qP2LXT9JKAY&amp;list=PL0FGkDGJQjJFh-pwkKsksyC4YNJNvzQO8&amp;index=2)
+### [Пишем интернет-магазин на ReactJS + Redux #3](https://www.youtube.com/watch?v=7aZP6vUiqi8&amp;list=PL0FGkDGJQjJFh-pwkKsksyC4YNJNvzQO8&amp;index=3)
+### [Пишем интернет-магазин на ReactJS + Redux #4 (Завершение)](https://www.youtube.com/watch?v=73cS923YNv0&amp;list=PL0FGkDGJQjJFh-pwkKsksyC4YNJNvzQO8&amp;index=4)

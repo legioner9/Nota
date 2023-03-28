@@ -1,0 +1,3 @@
+# [NetSkills. Видеоуроки. Cisco, zabbix, linux.](https://www.youtube.com/@netskills/playlists)
+## [Курс UNetLab](https://www.youtube.com/playlist?list=PLcDkQ2Au8aVOgp32gj7yETU5R3NMBL8cu)
+### [4.UNetLab. Telnet, VNC, Wireshark](https://www.youtube.com/watch?v=R9h7FBv5fDs&amp;list=PLcDkQ2Au8aVOgp32gj7yETU5R3NMBL8cu&amp;index=4)

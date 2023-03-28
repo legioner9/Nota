@@ -1,0 +1,3 @@
+# [JavaScript.Ninja](https://www.youtube.com/@JavaScriptNinja/playlists)
+## [Интервью](https://www.youtube.com/playlist?list=PLvTBThJr861xLeco6nyQ78KlyRAyQFJxD)
+### [Интервью с Андреем Мелиховым @ HolyJS SpB 2019](https://www.youtube.com/watch?v=E29NPwk7_xM&amp;list=PLvTBThJr861xLeco6nyQ78KlyRAyQFJxD&amp;index=2)

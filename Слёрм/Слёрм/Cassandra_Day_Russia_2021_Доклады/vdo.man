@@ -1,0 +1,6 @@
+### [Cassandra Day Russia 2021, Доклады, Закрытие](https://www.youtube.com/watch?v=35R12b3OwZM&amp;list=PL8D2P0ruohOAUZMNqLlZoILGRKqXKf7UV&amp;index=1)
+### [Cassandra Day Russia 2021, Доклады: K8ssandra](https://www.youtube.com/watch?v=OQ8IHhI204Y&amp;list=PL8D2P0ruohOAUZMNqLlZoILGRKqXKf7UV&amp;index=2)
+### [Cassandra Day Russia 2021, Доклады: Advanced Data Modeling](https://www.youtube.com/watch?v=H7-SH2gQSok&amp;list=PL8D2P0ruohOAUZMNqLlZoILGRKqXKf7UV&amp;index=3)
+### [Cassandra Day Russia 2021, Доклады: Stargate](https://www.youtube.com/watch?v=jRUUbeLxk1M&amp;list=PL8D2P0ruohOAUZMNqLlZoILGRKqXKf7UV&amp;index=4)
+### [Cassandra Day Russia 2021, Доклады: Эффективные микросервисы](https://www.youtube.com/watch?v=6-pL_x2c2rE&amp;list=PL8D2P0ruohOAUZMNqLlZoILGRKqXKf7UV&amp;index=5)
+### [Cassandra Day Russia 2021, Доклады: Cassandra at Yelp](https://www.youtube.com/watch?v=RLNLcUVB3-A&amp;list=PL8D2P0ruohOAUZMNqLlZoILGRKqXKf7UV&amp;index=6)

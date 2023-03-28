@@ -1,0 +1,3 @@
+# [Asterisk Russia](https://www.youtube.com/@Asterisker/playlists)
+## [Вебинары](https://www.youtube.com/playlist?list=PLrUzrM6usSzpKu9rWCQwryqSIEIhZ04hQ)
+### [Архитектура VoIP. От одного Asterisk-а до гибрида](https://www.youtube.com/watch?v=otvReSY-cew&amp;list=PLrUzrM6usSzpKu9rWCQwryqSIEIhZ04hQ&amp;index=10)

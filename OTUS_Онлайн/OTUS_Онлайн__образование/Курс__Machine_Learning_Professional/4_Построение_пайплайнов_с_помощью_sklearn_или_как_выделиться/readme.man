@@ -1,0 +1,3 @@
+# [OTUS Онлайн - образование](https://www.youtube.com/@otus_education/playlists)
+## [Курс | Machine Learning. Professional](https://www.youtube.com/playlist?list=PLfnFOImnyWRUudoPlUlYzelDgWdSu3oca)
+### [Построение пайплайнов с помощью sklearn или как выделиться на фоне остальных. День 1](https://www.youtube.com/watch?v=N0L6fpA8PPg&amp;list=PLfnFOImnyWRUudoPlUlYzelDgWdSu3oca&amp;index=4)

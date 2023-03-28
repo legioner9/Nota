@@ -1,0 +1,3 @@
+# [ITDoctor](https://www.youtube.com/@ITDoctor/playlists?view=1&sort=dd&shelf_id=0)
+## [Уроки по Git и GitHub](https://www.youtube.com/playlist?list=PLuY6eeDuleIOMB2R_Kky05ZfiAx2_pbAH)
+### [#16 Уроки Git+GitHub - Откат к коммиту, расширение Git Graph для VS Code](https://www.youtube.com/watch?v=NMh4u5tyDC4&amp;list=PLuY6eeDuleIOMB2R_Kky05ZfiAx2_pbAH&amp;index=16)

@@ -1,0 +1,3 @@
+# [Mikrotik Training](https://www.youtube.com/@MikrotikTraining/playlists)
+## [security](https://www.youtube.com/playlist?list=PLg90hRDCH9A7chPm1P-12ezpQf5NMCC3C)
+### [Добавление маршрутов с помощью CMAK](https://www.youtube.com/watch?v=u5nkKSuhcmM&amp;list=PLg90hRDCH9A7chPm1P-12ezpQf5NMCC3C&amp;index=16)

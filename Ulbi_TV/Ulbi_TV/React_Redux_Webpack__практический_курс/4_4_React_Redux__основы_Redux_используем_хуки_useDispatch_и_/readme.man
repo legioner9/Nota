@@ -1,0 +1,3 @@
+# [Ulbi TV](https://www.youtube.com/@UlbiTV/playlists)
+## [React Redux Webpack - практический курс.](https://www.youtube.com/playlist?list=PL6DxKON1uLOHTgN679Es1vkCS911i9HJX)
+### [4. React Redux - основы Redux, используем хуки useDispatch() и useSelector()](https://www.youtube.com/watch?v=hpR-X2hTcqg&amp;list=PL6DxKON1uLOHTgN679Es1vkCS911i9HJX&amp;index=4)

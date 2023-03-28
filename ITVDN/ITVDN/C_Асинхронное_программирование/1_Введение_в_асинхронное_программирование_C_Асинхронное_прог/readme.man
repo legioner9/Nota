@@ -1,0 +1,3 @@
+# [ITVDN](https://www.youtube.com/@ITVDN/playlists?view=1)
+## [C# Асинхронное программирование](https://www.youtube.com/playlist?list=PLvItDmb0sZw8kaWd6KpLgNeQPJo2EWoG3)
+### [Введение в асинхронное программирование. C# Асинхронное программирование.](https://www.youtube.com/watch?v=fXEt4JP5gik&amp;list=PLvItDmb0sZw8kaWd6KpLgNeQPJo2EWoG3&amp;index=1)

@@ -1,0 +1,3 @@
+# [Cisco Ne Slabo / SEDICOMM TV](https://www.youtube.com/@cisconeslabo/playlists)
+## [Бесплатные мастер-классы Cisco (CCNA, CCNP) на Русском Языке](https://www.youtube.com/playlist?list=PLMiVLClzZDbR_Y0cxgjHV6zZA1T26zyX3)
+### [Настройка GRE туннеля на Сisco: как создать незашифрованный туннель GRE VPN с маршрутизацией OSPF](https://www.youtube.com/watch?v=N3PVQ5dh-QY&amp;list=PLMiVLClzZDbR_Y0cxgjHV6zZA1T26zyX3&amp;index=7)

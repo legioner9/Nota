@@ -1,0 +1,3 @@
+# [OTUS Онлайн - образование](https://www.youtube.com/@otus_education/playlists)
+## [Курс | Системный аналитик Advanced](https://www.youtube.com/playlist?list=PLfnFOImnyWRV1deQuzP-p164ThY7r5mFu)
+### [Основные подходы к обеспечению безопасности стека приложений и архитектуры](https://www.youtube.com/watch?v=MdHm8Osk56M&amp;list=PLfnFOImnyWRV1deQuzP-p164ThY7r5mFu&amp;index=3)

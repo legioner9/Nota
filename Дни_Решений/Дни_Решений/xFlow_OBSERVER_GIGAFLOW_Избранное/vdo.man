@@ -1,0 +1,7 @@
+### [Что такое сервис GIGAFLOW?](https://www.youtube.com/watch?v=hF678D-cDwk&amp;list=PLe8r5bEnvnZMjefPv27GoTqULNXtHI7b6&amp;index=1)
+### [Анализ xFlow, особенности по сравнению с пакетными данными](https://www.youtube.com/watch?v=h3FAwuBan_4&amp;list=PLe8r5bEnvnZMjefPv27GoTqULNXtHI7b6&amp;index=2)
+### [Обогащение данных flow для получения большей информации](https://www.youtube.com/watch?v=hhfgvma6Py4&amp;list=PLe8r5bEnvnZMjefPv27GoTqULNXtHI7b6&amp;index=3)
+### [Варианты реализации Enriched Flow](https://www.youtube.com/watch?v=h23p7jLhPtY&amp;list=PLe8r5bEnvnZMjefPv27GoTqULNXtHI7b6&amp;index=4)
+### [Реальная картинка прохождения траффика, к каким адресам обращались](https://www.youtube.com/watch?v=5xNkVAS_nIo&amp;list=PLe8r5bEnvnZMjefPv27GoTqULNXtHI7b6&amp;index=5)
+### [Демонстрация системы анализа xFlow](https://www.youtube.com/watch?v=r_Pz_CEWFzU&amp;list=PLe8r5bEnvnZMjefPv27GoTqULNXtHI7b6&amp;index=6)
+### [Итоги вебинара «Система анализа xFlow OBSERVER GIGAFLOW»](https://www.youtube.com/watch?v=cvn2mPyJa_k&amp;list=PLe8r5bEnvnZMjefPv27GoTqULNXtHI7b6&amp;index=7)

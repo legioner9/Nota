@@ -1,0 +1,3 @@
+# [selfedu](https://www.youtube.com/@selfedu_rus/playlists?view=1)
+## [Нейронные сети на Python. Уроки](https://www.youtube.com/playlist?list=PLA0M1Bcd0w8yv0XGiF1wjerjSZVSrYbjh)
+### [Рекуррентные блоки GRU. Пример их реализации в задаче сентимент-анализа | #25 нейросети на Python](https://www.youtube.com/watch?v=6Lbk-nS2o8E&amp;list=PLA0M1Bcd0w8yv0XGiF1wjerjSZVSrYbjh&amp;index=26)

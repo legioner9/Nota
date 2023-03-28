@@ -1,0 +1,3 @@
+# [Geek Code](https://www.youtube.com/@GeekCode/playlists)
+## [Основы Nginx](https://www.youtube.com/playlist?list=PLhgRAQ8BwWFa7ulOkX0qi5UfVizGD_-Rc)
+### [#11 Логгирование Nginx](https://www.youtube.com/watch?v=cLYq2CU0JTM&amp;list=PLhgRAQ8BwWFa7ulOkX0qi5UfVizGD_-Rc&amp;index=11)

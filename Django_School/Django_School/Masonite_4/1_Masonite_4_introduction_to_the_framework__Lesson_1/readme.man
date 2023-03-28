@@ -1,0 +1,3 @@
+# [Django School](https://www.youtube.com/@DjangoSchool/playlists?view=1)
+## [Masonite 4](https://www.youtube.com/playlist?list=PLF-NY6ldwAWp2MeIx20btm6n2ZmCd9fBp)
+### [Masonite 4 introduction to the framework | Lesson 1](https://www.youtube.com/watch?v=ULLeIhznAWg&amp;list=PLF-NY6ldwAWp2MeIx20btm6n2ZmCd9fBp&amp;index=1)

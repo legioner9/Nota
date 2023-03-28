@@ -1,0 +1,2 @@
+### [Node.js: в чём он лучше PHP и как развернуть это чудо на реальном сервере](https://www.youtube.com/watch?v=uQkCi9Sq91g&amp;list=PLyeqauxei6jdOXtF_lcK90mV9_krF1C4-&amp;index=1)
+### [Node.js - анонс и подробности курса](https://www.youtube.com/watch?v=fwIwJJzhnMM&amp;list=PLyeqauxei6jdOXtF_lcK90mV9_krF1C4-&amp;index=2)

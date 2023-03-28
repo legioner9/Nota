@@ -1,0 +1,3 @@
+# [Ulbi TV](https://www.youtube.com/@UlbiTV/playlists)
+## [Node JS](https://www.youtube.com/playlist?list=PL6DxKON1uLOEz4NoMVXoHXixotxo2CEDO)
+### [Real Time КЛИЕНТ-СЕРВЕР на JavaScript. Long polling, event sourcing, websockets &amp; комнаты](https://www.youtube.com/watch?v=o43iiH4kGqg&amp;list=PL6DxKON1uLOEz4NoMVXoHXixotxo2CEDO&amp;index=1)

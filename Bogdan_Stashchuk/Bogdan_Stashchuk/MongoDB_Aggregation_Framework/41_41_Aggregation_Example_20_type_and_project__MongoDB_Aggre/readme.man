@@ -1,0 +1,3 @@
+# [Bogdan Stashchuk](https://www.youtube.com/@Bogdan_Stashchuk/playlists)
+## [MongoDB Aggregation Framework](https://www.youtube.com/playlist?list=PLWkguCWKqN9OwcbdYm4nUIXnA2IoXX0LI)
+### [41 Aggregation Example 20 $type and $project - MongoDB Aggregation Tutorial](https://www.youtube.com/watch?v=Ncz_px1tYzw&amp;list=PLWkguCWKqN9OwcbdYm4nUIXnA2IoXX0LI&amp;index=41)

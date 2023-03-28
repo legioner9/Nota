@@ -1,0 +1,5 @@
+### [Framework Laravel // День открытых дверей OTUS](https://www.youtube.com/watch?v=jtlbw_qM7UY&amp;list=PLfnFOImnyWRVVnqtKxDP1IldG99OaYw20&amp;index=1)
+### [Менеджмент серверов с помощью Forge и непрерывный деплой с помощью Envoyer // «Framework Laravel»](https://www.youtube.com/watch?v=kSeAoIIblto&amp;list=PLfnFOImnyWRVVnqtKxDP1IldG99OaYw20&amp;index=2)
+### [Framework Laravel // День открытых дверей OTUS](https://www.youtube.com/watch?v=dO3jQS_6AJ8&amp;list=PLfnFOImnyWRVVnqtKxDP1IldG99OaYw20&amp;index=3)
+### [Demo Day курса «Framework Laravel»](https://www.youtube.com/watch?v=4mzifYey3Go&amp;list=PLfnFOImnyWRVVnqtKxDP1IldG99OaYw20&amp;index=4)
+### [Framework Laravel // День открытых дверей OTUS](https://www.youtube.com/watch?v=cgg37l7RT9w&amp;list=PLfnFOImnyWRVVnqtKxDP1IldG99OaYw20&amp;index=5)

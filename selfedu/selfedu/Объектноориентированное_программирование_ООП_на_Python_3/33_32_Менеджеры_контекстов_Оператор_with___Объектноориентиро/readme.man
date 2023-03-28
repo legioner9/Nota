@@ -1,0 +1,3 @@
+# [selfedu](https://www.youtube.com/@selfedu_rus/playlists?view=1)
+## [Объектно-ориентированное программирование (ООП) на Python 3](https://www.youtube.com/playlist?list=PLA0M1Bcd0w8zPwP7t-FgwONhZOHt9rz9E)
+### [#32. Менеджеры контекстов. Оператор with  | Объектно-ориентированное программирование Python](https://www.youtube.com/watch?v=FkhnVkl0EgM&amp;list=PLA0M1Bcd0w8zPwP7t-FgwONhZOHt9rz9E&amp;index=33)

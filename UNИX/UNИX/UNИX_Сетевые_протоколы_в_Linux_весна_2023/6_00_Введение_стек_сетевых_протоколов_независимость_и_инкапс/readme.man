@@ -1,0 +1,3 @@
+# [UNИX](https://www.youtube.com/@unx7784/playlists)
+## [[UNИX] Сетевые протоколы в Linux (весна 2023)](https://www.youtube.com/playlist?list=PL6kSdcHYB3x6ocPglvEji5im6mfEjSzZR)
+### [00. Введение: стек сетевых протоколов, независимость и инкапсуляция уровней (эфир)](https://www.youtube.com/watch?v=W0ijdpf73oQ&amp;list=PL6kSdcHYB3x6ocPglvEji5im6mfEjSzZR&amp;index=6)

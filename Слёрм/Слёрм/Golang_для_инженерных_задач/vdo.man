@@ -1,0 +1,3 @@
+### [Вебинар: «Деплой, базы данных и мониторинг: жизнь после перехода на Go»](https://www.youtube.com/watch?v=6i-etg32ZKI&amp;list=PL8D2P0ruohOCHkGev7-1CuOE9Iy9xLvFL&amp;index=1)
+### [GO для инженеров, старт 2 потока](https://www.youtube.com/watch?v=dwrQPG-WI6U&amp;list=PL8D2P0ruohOCHkGev7-1CuOE9Iy9xLvFL&amp;index=2)
+### [Вебинар &quot;Golang против скриптов&quot;. Анонс нового курса Go для инженеров](https://www.youtube.com/watch?v=j3PGPLpT8YM&amp;list=PL8D2P0ruohOCHkGev7-1CuOE9Iy9xLvFL&amp;index=3)

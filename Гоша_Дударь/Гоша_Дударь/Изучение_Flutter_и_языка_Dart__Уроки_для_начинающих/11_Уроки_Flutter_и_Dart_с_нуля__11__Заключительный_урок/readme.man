@@ -1,0 +1,3 @@
+# [Гоша Дударь](https://www.youtube.com/@gosha_dudar/playlists?view=1)
+## [Изучение Flutter и языка Dart / Уроки для начинающих](https://www.youtube.com/playlist?list=PL0lO_mIqDDFWqpFH_ZxzfgDqsK9LHNxRY)
+### [Уроки Flutter и Dart с нуля / #11 – Заключительный урок](https://www.youtube.com/watch?v=FQThWsxgi5o&amp;list=PL0lO_mIqDDFWqpFH_ZxzfgDqsK9LHNxRY&amp;index=11)

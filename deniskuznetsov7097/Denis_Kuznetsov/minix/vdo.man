@@ -1,0 +1,7 @@
+### [&quot;Опыт 1&quot;  с ОС Minix](https://www.youtube.com/watch?v=HXiqdbHOfIM&amp;list=PLrih0txcjWjHtW6QQiSqhrRQNKuo7IO2L&amp;index=1)
+### [&quot;Опыт 2&quot; с ОС Minix. Компиляция, библиотеки и Makefile](https://www.youtube.com/watch?v=zoaB_c5mwHY&amp;list=PLrih0txcjWjHtW6QQiSqhrRQNKuo7IO2L&amp;index=2)
+### [&quot;Опыт 3&quot; с ОС Minix. Системные вызовы.](https://www.youtube.com/watch?v=j_a0_DMQDy0&amp;list=PLrih0txcjWjHtW6QQiSqhrRQNKuo7IO2L&amp;index=3)
+### [&quot;Опыт 4&quot; с ОС Minix. Файловая система](https://www.youtube.com/watch?v=WShVTS4ViYs&amp;list=PLrih0txcjWjHtW6QQiSqhrRQNKuo7IO2L&amp;index=4)
+### [&quot;Опыт 5&quot; с ОС Minix. Процессы](https://www.youtube.com/watch?v=dMC8LNKALKE&amp;list=PLrih0txcjWjHtW6QQiSqhrRQNKuo7IO2L&amp;index=5)
+### [&quot;Опыт 6&quot; с ОС Minix. Создание и взаимодействие процессов: POSIX vs WINAPI](https://www.youtube.com/watch?v=kS2Lilq9ZGY&amp;list=PLrih0txcjWjHtW6QQiSqhrRQNKuo7IO2L&amp;index=6)
+### [Процессы. Способы создания WinAPI и POSIX процессов.](https://www.youtube.com/watch?v=k53Xn6l80ck&amp;list=PLrih0txcjWjHtW6QQiSqhrRQNKuo7IO2L&amp;index=7)

@@ -1,0 +1,3 @@
+# [OTUS Онлайн - образование](https://www.youtube.com/@otus_education/playlists)
+## [Курс | Разработчик чат-ботов и приложений для виртуальных ассистентов](https://www.youtube.com/playlist?list=PLfnFOImnyWRW7mxM6gSGzkCiUh9XvtkSm)
+### [Пишем навык для виртуального ассистента на JS](https://www.youtube.com/watch?v=b94u0Epw-uI&amp;list=PLfnFOImnyWRW7mxM6gSGzkCiUh9XvtkSm&amp;index=2)

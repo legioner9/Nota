@@ -1,0 +1,3 @@
+# [ITDoctor](https://www.youtube.com/@ITDoctor/playlists?view=1&sort=dd&shelf_id=0)
+## [Уроки по MySQL](https://www.youtube.com/playlist?list=PLuY6eeDuleINWpCD2IbtMm-R5ClBA70Dw)
+### [#8 Индекс и первичный ключ в phpMyAdmin на MySQL, Базы данных MySQL](https://www.youtube.com/watch?v=FnjEAJcU5VU&amp;list=PLuY6eeDuleINWpCD2IbtMm-R5ClBA70Dw&amp;index=9)

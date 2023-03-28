@@ -1,0 +1,3 @@
+# [ITVDN](https://www.youtube.com/@ITVDN/playlists?view=1)
+## [Основы использования Git](https://www.youtube.com/playlist?list=PLvItDmb0sZw8WmkxzGJUZl6S3KU_-7-aP)
+### [Основы использования Git. Урок 2. Локальная работа Git.](https://www.youtube.com/watch?v=ll1O3VJWmEo&amp;list=PLvItDmb0sZw8WmkxzGJUZl6S3KU_-7-aP&amp;index=2)

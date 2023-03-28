@@ -1,0 +1,2 @@
+### [Практический курс по Laravel. Введение. Урок 1](https://www.youtube.com/watch?v=Je0hraZjzKI&amp;list=PLvItDmb0sZw92cwIczr3-WvuR4Yr9Z0Qg&amp;index=1)
+### [Практический курс по Laravel. Установка и настройка нового проекта. Урок 2](https://www.youtube.com/watch?v=IJNboN0FWi8&amp;list=PLvItDmb0sZw92cwIczr3-WvuR4Yr9Z0Qg&amp;index=2)

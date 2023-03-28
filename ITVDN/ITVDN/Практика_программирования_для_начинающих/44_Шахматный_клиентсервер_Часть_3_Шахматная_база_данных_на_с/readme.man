@@ -1,0 +1,3 @@
+# [ITVDN](https://www.youtube.com/@ITVDN/playlists?view=1)
+## [Практика программирования для начинающих](https://www.youtube.com/playlist?list=PLvItDmb0sZw_Fb0ZmRxXslwI4uQeX-qmE)
+### [Шахматный клиент-сервер. Часть 3. Шахматная база данных на сервере](https://www.youtube.com/watch?v=_c1tWBsfTqA&amp;list=PLvItDmb0sZw_Fb0ZmRxXslwI4uQeX-qmE&amp;index=44)

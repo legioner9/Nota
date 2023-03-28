@@ -1,0 +1,3 @@
+# [OTUS Онлайн - образование](https://www.youtube.com/@otus_education/playlists)
+## [Курс | Machine Learning Advanced](https://www.youtube.com/playlist?list=PLfnFOImnyWRWr4s3Szqju9o9wnJcP3ib_)
+### [Multi-armed bandits для оптимизации AB тестирования, от теории - сразу в бой](https://www.youtube.com/watch?v=-2KXi99LRQ8&amp;list=PLfnFOImnyWRWr4s3Szqju9o9wnJcP3ib_&amp;index=7)

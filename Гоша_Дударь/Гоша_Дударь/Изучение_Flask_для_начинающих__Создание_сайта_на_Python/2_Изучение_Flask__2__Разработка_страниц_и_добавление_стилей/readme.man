@@ -1,0 +1,3 @@
+# [Гоша Дударь](https://www.youtube.com/@gosha_dudar/playlists?view=1)
+## [Изучение Flask для начинающих / Создание сайта на Python](https://www.youtube.com/playlist?list=PL0lO_mIqDDFXiIQYjLbncE9Lb6sx8elKA)
+### [Изучение Flask / #2 - Разработка страниц и добавление стилей](https://www.youtube.com/watch?v=crUHP8Zo12k&amp;list=PL0lO_mIqDDFXiIQYjLbncE9Lb6sx8elKA&amp;index=2)

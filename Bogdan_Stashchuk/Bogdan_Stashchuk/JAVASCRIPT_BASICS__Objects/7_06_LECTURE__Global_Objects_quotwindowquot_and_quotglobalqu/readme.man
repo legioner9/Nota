@@ -1,0 +1,3 @@
+# [Bogdan Stashchuk](https://www.youtube.com/@Bogdan_Stashchuk/playlists)
+## [JAVASCRIPT BASICS - Objects](https://www.youtube.com/playlist?list=PLWkguCWKqN9M9Jwm-INTTB-l9fFQUE0qU)
+### [06: LECTURE - Global Objects &quot;window&quot; and &quot;global&quot; (JAVASCRIPT BASICS - Objects)](https://www.youtube.com/watch?v=DSoOZK6J51A&amp;list=PLWkguCWKqN9M9Jwm-INTTB-l9fFQUE0qU&amp;index=7)

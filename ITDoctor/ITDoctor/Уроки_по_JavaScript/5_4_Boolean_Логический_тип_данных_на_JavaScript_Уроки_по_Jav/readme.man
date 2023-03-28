@@ -1,0 +1,3 @@
+# [ITDoctor](https://www.youtube.com/@ITDoctor/playlists?view=1&sort=dd&shelf_id=0)
+## [Уроки по JavaScript](https://www.youtube.com/playlist?list=PLuY6eeDuleINjS4_G7KuYThU_T4uzpAuG)
+### [#4 Boolean Логический тип данных на JavaScript, Уроки по JavaScript](https://www.youtube.com/watch?v=Fn6CTzDuUdw&amp;list=PLuY6eeDuleINjS4_G7KuYThU_T4uzpAuG&amp;index=5)

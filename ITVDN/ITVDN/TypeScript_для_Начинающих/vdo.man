@@ -1,0 +1,4 @@
+### [TypeScript для Начинающих. Начало Работы с TypeScript. Урок 1](https://www.youtube.com/watch?v=E5yH4i57ByE&amp;list=PLvItDmb0sZw9ByEtLc0XIK8DBradcqp6g&amp;index=1)
+### [Классы и интерфейсы. TypeScript для начинающих. Урок 2](https://www.youtube.com/watch?v=v1K-hb6piRY&amp;list=PLvItDmb0sZw9ByEtLc0XIK8DBradcqp6g&amp;index=2)
+### [Массивы. Как создать коллекцию данных? TypeScript для начинающих. Урок 3](https://www.youtube.com/watch?v=ghi3Q22m44w&amp;list=PLvItDmb0sZw9ByEtLc0XIK8DBradcqp6g&amp;index=3)
+### [Как создавать пространства имен? Модули. Webpack. TypeScript для начинающих. Урок 4](https://www.youtube.com/watch?v=r1aLlZslgDs&amp;list=PLvItDmb0sZw9ByEtLc0XIK8DBradcqp6g&amp;index=4)

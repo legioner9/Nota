@@ -1,0 +1,3 @@
+# [ITVDN](https://www.youtube.com/@ITVDN/playlists?view=1)
+## [Вебинары по C++](https://www.youtube.com/playlist?list=PLvItDmb0sZw_0e6pizn_1HOIPn6PovVZ9)
+### [Разработка графических приложений на C++ с Qt и QML. Часть 2. Model View Controller в Qt.](https://www.youtube.com/watch?v=8wj9relIrcs&amp;list=PLvItDmb0sZw_0e6pizn_1HOIPn6PovVZ9&amp;index=6)

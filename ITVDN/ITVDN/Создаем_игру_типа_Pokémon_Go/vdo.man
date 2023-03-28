@@ -1,0 +1,7 @@
+### [Создаем игру типа “Pokémon Go“. Урок 1. Создание карты](https://www.youtube.com/watch?v=bDnUPnENoJc&amp;list=PLvItDmb0sZw9DJR-95jEc-XwXTpGueBTC&amp;index=1)
+### [Создаем игру типа “Pokémon Go“. Урок 2. LocationService. Получаем координаты игрока.](https://www.youtube.com/watch?v=J9VLjRHQvCI&amp;list=PLvItDmb0sZw9DJR-95jEc-XwXTpGueBTC&amp;index=2)
+### [Создаем игру типа “Pokémon Go“. Урок 3. Размещение точек на карте.](https://www.youtube.com/watch?v=kRptS0Egdk4&amp;list=PLvItDmb0sZw9DJR-95jEc-XwXTpGueBTC&amp;index=3)
+### [Создаем игру типа “Pokémon Go“. Урок 4. Загрузка точек из сервера](https://www.youtube.com/watch?v=zLhQd1bP5CU&amp;list=PLvItDmb0sZw9DJR-95jEc-XwXTpGueBTC&amp;index=4)
+### [Создаем игру типа “Pokémon Go“. Урок 5. Драки покемонов.](https://www.youtube.com/watch?v=QKe8yYPUD-M&amp;list=PLvItDmb0sZw9DJR-95jEc-XwXTpGueBTC&amp;index=5)
+### [Создаем игру типа “Pokémon Go“.  Урок 6.  Драки покемонов 2.](https://www.youtube.com/watch?v=7jTVvk0LW3A&amp;list=PLvItDmb0sZw9DJR-95jEc-XwXTpGueBTC&amp;index=6)
+### [Создаем игру типа “Pokémon Go“. Урок 7. Дополненная реальность без меток.](https://www.youtube.com/watch?v=T8VoCadhna8&amp;list=PLvItDmb0sZw9DJR-95jEc-XwXTpGueBTC&amp;index=7)

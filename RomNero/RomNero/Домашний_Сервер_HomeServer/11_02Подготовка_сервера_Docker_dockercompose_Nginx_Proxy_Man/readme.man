@@ -1,0 +1,3 @@
+# [RomNero](https://www.youtube.com/@RomNero/playlists)
+## [Домашний Сервер. HomeServer](https://www.youtube.com/playlist?list=PLqVeG_R3qMSwbft_ZIIHykNpZPYoy3MxA)
+### [02-Подготовка сервера. Docker, docker-compose. Nginx Proxy Manager](https://www.youtube.com/watch?v=fJ2i0IWQdLA&amp;list=PLqVeG_R3qMSwbft_ZIIHykNpZPYoy3MxA&amp;index=11)

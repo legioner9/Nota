@@ -1,0 +1,3 @@
+# [Школа itProger / Программирование](https://www.youtube.com/@itproger/playlists?view=1)
+## [Уроки PHP для начинающих с нуля!](https://www.youtube.com/playlist?list=PLDyJYA6aTY1m5zGQVcEYIoSFz2GD8u7cC)
+### [Уроки PHP для начинающих / #8 – Массивы данных. Одномерные и многомерные](https://www.youtube.com/watch?v=TRvTkeaEYCo&amp;list=PLDyJYA6aTY1m5zGQVcEYIoSFz2GD8u7cC&amp;index=8)

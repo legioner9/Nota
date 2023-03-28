@@ -1,0 +1,4 @@
+### [Практический JavaScript. Делаем плагин after/before на чистом JS + CSS](https://www.youtube.com/watch?v=BJcoxS9XRCk&amp;list=PL6DxKON1uLOH2vX5CtJPblqAStbuPfL4P&amp;index=1)
+### [Алгоритмы на JavaScript. Решение задач с CodeWars. Практика](https://www.youtube.com/watch?v=OToyoIqVPQI&amp;list=PL6DxKON1uLOH2vX5CtJPblqAStbuPfL4P&amp;index=2)
+### [БЫСТРЫЙ FRONTEND. Оптимизация. Как писать JAVASCRIPT эффективно?](https://www.youtube.com/watch?v=VNNLNC5h7ZI&amp;list=PL6DxKON1uLOH2vX5CtJPblqAStbuPfL4P&amp;index=3)
+### [Продвинутый Frontend. В Production на React. Менторство](https://www.youtube.com/watch?v=STgDB2SWPxI&amp;list=PL6DxKON1uLOH2vX5CtJPblqAStbuPfL4P&amp;index=4)

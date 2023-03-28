@@ -1,0 +1,3 @@
+# [Станислав Кузнецов](https://www.youtube.com/@user-qz5qv6uc8y/playlists)
+## [Linux Ubuntu](https://www.youtube.com/playlist?list=PL9x2twfbtCCNL4KXsDTpa3i9S2YgpY2AM)
+### [Установка сервера SSH на Linux Ubuntu Server 20.04 (Installation SSH-server on Ubuntu Server 20.04)](https://www.youtube.com/watch?v=Ty_pjNAB4pg&amp;list=PL9x2twfbtCCNL4KXsDTpa3i9S2YgpY2AM&amp;index=30)

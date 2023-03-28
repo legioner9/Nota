@@ -1,0 +1,4 @@
+### [FAQ: SSR, зачем тесты, ReactNative, транзакция, SAGA (18+)](https://www.youtube.com/watch?v=KKR7FqhjtRQ&amp;list=PLcvhF2Wqh7DMuHec4RCfGuMwiij2_IvFR&amp;index=1)
+### [React Interview Репетиция, VirtualDOM, HOC, setState, а так же:  render props vs hoc vs children 18+](https://www.youtube.com/watch?v=TuROy6bt-1I&amp;list=PLcvhF2Wqh7DMuHec4RCfGuMwiij2_IvFR&amp;index=2)
+### [JavaScript, EventLoop простым языком](https://www.youtube.com/watch?v=UU58g26CRmY&amp;list=PLcvhF2Wqh7DMuHec4RCfGuMwiij2_IvFR&amp;index=3)
+### [Готовимся к собесу / Cложность алгоритма O(N), O(N*N), O(lnN)](https://www.youtube.com/watch?v=9p0Pk5lRYgA&amp;list=PLcvhF2Wqh7DMuHec4RCfGuMwiij2_IvFR&amp;index=4)

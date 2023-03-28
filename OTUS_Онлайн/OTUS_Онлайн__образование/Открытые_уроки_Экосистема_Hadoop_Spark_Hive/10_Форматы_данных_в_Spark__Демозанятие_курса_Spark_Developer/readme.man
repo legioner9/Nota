@@ -1,0 +1,3 @@
+# [OTUS Онлайн - образование](https://www.youtube.com/@otus_education/playlists)
+## [Открытые уроки Экосистема Hadoop, Spark, Hive](https://www.youtube.com/playlist?list=PLfnFOImnyWRVI3xqyNZQcIo_uKCGuhZbz)
+### [Форматы данных в Spark // Демо-занятие курса «Spark Developer»](https://www.youtube.com/watch?v=PGObsJHFX6U&amp;list=PLfnFOImnyWRVI3xqyNZQcIo_uKCGuhZbz&amp;index=10)

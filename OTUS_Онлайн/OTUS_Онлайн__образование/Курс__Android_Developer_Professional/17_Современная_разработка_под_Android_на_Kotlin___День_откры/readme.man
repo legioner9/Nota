@@ -1,0 +1,3 @@
+# [OTUS Онлайн - образование](https://www.youtube.com/@otus_education/playlists)
+## [Курс | Android Developer. Professional](https://www.youtube.com/playlist?list=PLfnFOImnyWRW4gqBY3ngpZplAMnaqWOk_)
+### [Современная разработка под Android на Kotlin  // День открытых дверей OTUS](https://www.youtube.com/watch?v=z421Rk5o1Ek&amp;list=PLfnFOImnyWRW4gqBY3ngpZplAMnaqWOk_&amp;index=17)

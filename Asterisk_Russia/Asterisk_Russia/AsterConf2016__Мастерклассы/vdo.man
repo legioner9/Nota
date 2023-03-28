@@ -1,0 +1,8 @@
+### [AsterConf-2016: Владислав Истратий - Продвинутые возможности Mikrotik.](https://www.youtube.com/watch?v=2cCHfa68dD0&amp;list=PLrUzrM6usSzpeXEmLo-0__xTAx3xm3PZG&amp;index=1)
+### [AsterConf-2016: Алексей Хирянов - Практикум по настройке DECT-оборудования.](https://www.youtube.com/watch?v=5Nh45eD-aqo&amp;list=PLrUzrM6usSzpeXEmLo-0__xTAx3xm3PZG&amp;index=2)
+### [AsterConf-2016: Алексей Портнов - Разработка модулей FreePBX.](https://www.youtube.com/watch?v=IEM_Q9nT7js&amp;list=PLrUzrM6usSzpeXEmLo-0__xTAx3xm3PZG&amp;index=3)
+### [AsterConf-2016: Сергей Грушко - Решение проблем с NAT](https://www.youtube.com/watch?v=dFn_yaa6U9k&amp;list=PLrUzrM6usSzpeXEmLo-0__xTAx3xm3PZG&amp;index=4)
+### [AsterConf-2016: Роман Перцев - Нагрузочное тестирование Asterisk.](https://www.youtube.com/watch?v=3nu1eIEVr04&amp;list=PLrUzrM6usSzpeXEmLo-0__xTAx3xm3PZG&amp;index=5)
+### [AsterConf-2016: Олег Левицкий - Настройка IP-ATC Yeastar под управлением Asterisk 13.](https://www.youtube.com/watch?v=2TAlfHw2pk0&amp;list=PLrUzrM6usSzpeXEmLo-0__xTAx3xm3PZG&amp;index=6)
+### [AsterConf-2016: Роман Козлов - Настройка Mikrotik.](https://www.youtube.com/watch?v=juBrY3Ig-o0&amp;list=PLrUzrM6usSzpeXEmLo-0__xTAx3xm3PZG&amp;index=7)
+### [AsterConf-2016: Игорь Гончаровский - дебаг VoIP-приложений](https://www.youtube.com/watch?v=I3lOFpnmoDg&amp;list=PLrUzrM6usSzpeXEmLo-0__xTAx3xm3PZG&amp;index=8)

@@ -1,0 +1,3 @@
+# [luchanos](https://www.youtube.com/@luchanos/playlists?view=1&sort=dd&shelf_id=0)
+## [БОЕВОЙ ПРОЕКТ НА ПИТОНЕ (PYTHON) - CRM сервисной службы](https://www.youtube.com/playlist?list=PLlKID9PnOE5g_cDYpEZBAQYcSDSeTb-kN)
+### [БОЕВОЙ ПРОЕКТ НА ПИТОНЕ (PYTHON) 1 PART. СОЗДАНИЕ ПРОЕКТА, УДАЛЕННОГО РЕПО И ВИРТУАЛЬНОГО ОКРУЖЕНИЯ.](https://www.youtube.com/watch?v=j-VWZadq2SI&amp;list=PLlKID9PnOE5g_cDYpEZBAQYcSDSeTb-kN&amp;index=2)

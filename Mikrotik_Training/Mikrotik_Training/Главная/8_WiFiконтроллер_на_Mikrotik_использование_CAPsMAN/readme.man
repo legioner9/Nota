@@ -1,0 +1,3 @@
+# [Mikrotik Training](https://www.youtube.com/@MikrotikTraining/playlists)
+## [Главная](https://www.youtube.com/playlist?list=PLg90hRDCH9A5TlwaXO2sB5AQP8yNmkiBn)
+### [WiFi-контроллер на Mikrotik: использование CAPsMAN.](https://www.youtube.com/watch?v=uLYf5h0ba60&amp;list=PLg90hRDCH9A5TlwaXO2sB5AQP8yNmkiBn&amp;index=8)

@@ -1,0 +1,6 @@
+### [Как правильно составлять баг репорт // Демо-занятие курса «QA Engineer»](https://www.youtube.com/watch?v=FYWSEP_MRSQ&amp;list=PLfnFOImnyWRWn09U2fIPJzx8AYU4JSKcJ&amp;index=1)
+### [Карьера для «QA Engineer» // День открытых дверей OTUS](https://www.youtube.com/watch?v=sFKk06Rv2J8&amp;list=PLfnFOImnyWRWn09U2fIPJzx8AYU4JSKcJ&amp;index=2)
+### [Demo Day курса  «QA Engineer»](https://www.youtube.com/watch?v=jb9RxhpiozU&amp;list=PLfnFOImnyWRWn09U2fIPJzx8AYU4JSKcJ&amp;index=3)
+### [Методологии разработки // Демо-занятие курса «QA Engineer»](https://www.youtube.com/watch?v=D4_rnC3JdAg&amp;list=PLfnFOImnyWRWn09U2fIPJzx8AYU4JSKcJ&amp;index=4)
+### [Demo Day курса «QA Engineer»](https://www.youtube.com/watch?v=ddDuJ2PLGaU&amp;list=PLfnFOImnyWRWn09U2fIPJzx8AYU4JSKcJ&amp;index=5)
+### [Туры в исследовательском тестировании // Демо-занятие курса «QA Engineer»](https://www.youtube.com/watch?v=PUzHA6sVDHc&amp;list=PLfnFOImnyWRWn09U2fIPJzx8AYU4JSKcJ&amp;index=6)

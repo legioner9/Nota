@@ -1,0 +1,3 @@
+# [selfedu](https://www.youtube.com/@selfedu_rus/playlists?view=1)
+## [Python SQLite](https://www.youtube.com/playlist?list=PLA0M1Bcd0w8x4Inr5oYttMK6J47vxgv6J)
+### [Python SQLite #4: команды UPDATE и DELETE при работе с таблицами](https://www.youtube.com/watch?v=Vj5n2TGq00o&amp;list=PLA0M1Bcd0w8x4Inr5oYttMK6J47vxgv6J&amp;index=4)

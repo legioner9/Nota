@@ -1,0 +1,3 @@
+# [PyLounge - программирование на Python и всё о IT](https://www.youtube.com/@pylounge/playlists)
+## [Изучение Python](https://www.youtube.com/playlist?list=PLhVGaKnJDpzhfH-5jrlyMylobwOS-I7LW)
+### [Деплой Telegram бота на Python | PythonAnywhere](https://www.youtube.com/watch?v=INcuG3R5KDw&amp;list=PLhVGaKnJDpzhfH-5jrlyMylobwOS-I7LW&amp;index=14)

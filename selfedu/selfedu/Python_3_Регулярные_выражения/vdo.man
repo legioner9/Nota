@@ -1,0 +1,6 @@
+### [Регулярные выражения #1: литералы и символьный класс](https://www.youtube.com/watch?v=1SWGdyVwN3E&amp;list=PLA0M1Bcd0w8w8gtWzf9YkfAxFCgDb09pA&amp;index=1)
+### [Регулярные выражения #2: квантификаторы {m,n}, +, * , ?](https://www.youtube.com/watch?v=fXFtVDT0gmQ&amp;list=PLA0M1Bcd0w8w8gtWzf9YkfAxFCgDb09pA&amp;index=2)
+### [Регулярные выражения #3: сохраняющие скобки и группировка](https://www.youtube.com/watch?v=W9CffcsYpAU&amp;list=PLA0M1Bcd0w8w8gtWzf9YkfAxFCgDb09pA&amp;index=3)
+### [Регулярные выражения #4: флаги и проверки](https://www.youtube.com/watch?v=xYm6o-TrFeg&amp;list=PLA0M1Bcd0w8w8gtWzf9YkfAxFCgDb09pA&amp;index=4)
+### [Регулярные выражения #5: объект re.Match, методы re.search, re.finditer, re.findall](https://www.youtube.com/watch?v=8eyyv10l_5E&amp;list=PLA0M1Bcd0w8w8gtWzf9YkfAxFCgDb09pA&amp;index=5)
+### [Регулярные выражения #6: методы re.match, re.split, re.sub, re.subn, re.compile](https://www.youtube.com/watch?v=z5ed1wQYTi4&amp;list=PLA0M1Bcd0w8w8gtWzf9YkfAxFCgDb09pA&amp;index=6)

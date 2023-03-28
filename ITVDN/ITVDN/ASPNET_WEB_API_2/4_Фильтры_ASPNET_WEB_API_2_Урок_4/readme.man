@@ -1,0 +1,3 @@
+# [ITVDN](https://www.youtube.com/@ITVDN/playlists?view=1)
+## [ASP.NET WEB API 2](https://www.youtube.com/playlist?list=PLvItDmb0sZw83D7-336FeRPx9GDf3zXx_)
+### [Фильтры. ASP.NET WEB API 2. Урок 4](https://www.youtube.com/watch?v=lGAdNad2GZg&amp;list=PLvItDmb0sZw83D7-336FeRPx9GDf3zXx_&amp;index=4)

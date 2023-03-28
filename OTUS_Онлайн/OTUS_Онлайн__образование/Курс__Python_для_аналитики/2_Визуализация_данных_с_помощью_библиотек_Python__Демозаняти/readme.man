@@ -1,0 +1,3 @@
+# [OTUS Онлайн - образование](https://www.youtube.com/@otus_education/playlists)
+## [Курс | Python для аналитики](https://www.youtube.com/playlist?list=PLfnFOImnyWRWfWJgM9YQs3PfUbIlsBy2b)
+### [Визуализация данных с помощью библиотек Python // Демо-занятие курса «Python для аналитики»](https://www.youtube.com/watch?v=5jbip8rcEGk&amp;list=PLfnFOImnyWRWfWJgM9YQs3PfUbIlsBy2b&amp;index=2)

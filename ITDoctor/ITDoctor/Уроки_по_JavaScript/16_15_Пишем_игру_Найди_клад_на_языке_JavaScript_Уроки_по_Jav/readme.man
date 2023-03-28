@@ -1,0 +1,3 @@
+# [ITDoctor](https://www.youtube.com/@ITDoctor/playlists?view=1&sort=dd&shelf_id=0)
+## [Уроки по JavaScript](https://www.youtube.com/playlist?list=PLuY6eeDuleINjS4_G7KuYThU_T4uzpAuG)
+### [#15 Пишем игру Найди клад на языке JavaScript, Уроки по JavaScript](https://www.youtube.com/watch?v=obB2dkqchSQ&amp;list=PLuY6eeDuleINjS4_G7KuYThU_T4uzpAuG&amp;index=16)

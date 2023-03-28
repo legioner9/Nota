@@ -1,0 +1,3 @@
+# [ITDoctor](https://www.youtube.com/@ITDoctor/playlists?view=1&sort=dd&shelf_id=0)
+## [Уроки по HTML](https://www.youtube.com/playlist?list=PLuY6eeDuleIMjV7Kff8yf8RA-XwjXVGgl)
+### [#37 Выравнивание текста по центру в html тег center](https://www.youtube.com/watch?v=Ww0y9ps28Ck&amp;list=PLuY6eeDuleIMjV7Kff8yf8RA-XwjXVGgl&amp;index=38)

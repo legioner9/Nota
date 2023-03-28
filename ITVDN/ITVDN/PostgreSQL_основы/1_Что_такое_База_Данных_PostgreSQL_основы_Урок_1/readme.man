@@ -1,0 +1,3 @@
+# [ITVDN](https://www.youtube.com/@ITVDN/playlists?view=1)
+## [PostgreSQL основы](https://www.youtube.com/playlist?list=PLvItDmb0sZw_9bh2KeIKe4KkqKmhLbj3Z)
+### [Что такое База Данных? PostgreSQL основы. Урок 1](https://www.youtube.com/watch?v=cv4uvzWfMVg&amp;list=PLvItDmb0sZw_9bh2KeIKe4KkqKmhLbj3Z&amp;index=1)

@@ -1,0 +1,3 @@
+# [OTUS Онлайн - образование](https://www.youtube.com/@otus_education/playlists)
+## [Открытые уроки  Load Testing Engineer](https://www.youtube.com/playlist?list=PLfnFOImnyWRUAk8lZPrQFVmZYiig8_PQl)
+### [Скрипты и сценарии нагрузочного тестирования - Performance center (PC) и Vugen](https://www.youtube.com/watch?v=JQe4LUaCMPY&amp;list=PLfnFOImnyWRUAk8lZPrQFVmZYiig8_PQl&amp;index=1)

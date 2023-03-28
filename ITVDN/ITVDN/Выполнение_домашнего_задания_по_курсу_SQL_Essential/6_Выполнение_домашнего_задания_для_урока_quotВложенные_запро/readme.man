@@ -1,0 +1,3 @@
+# [ITVDN](https://www.youtube.com/@ITVDN/playlists?view=1)
+## [Выполнение домашнего задания по курсу SQL Essential](https://www.youtube.com/playlist?list=PLvItDmb0sZw-TI-eeXGF9gPcIlFd5dLVC)
+### [Выполнение домашнего задания для урока &quot;Вложенные запросы&quot; курса SQL Базовый](https://www.youtube.com/watch?v=rEosLsgGS-Y&amp;list=PLvItDmb0sZw-TI-eeXGF9gPcIlFd5dLVC&amp;index=6)

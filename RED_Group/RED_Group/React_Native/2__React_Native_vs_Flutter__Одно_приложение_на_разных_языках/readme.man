@@ -1,0 +1,3 @@
+# [RED Group](https://www.youtube.com/@REDGroup/playlists)
+## [React Native](https://www.youtube.com/playlist?list=PLXkonRjGXZwwkvPWaW77k1VnXos3Hkt6g)
+### [🤯 React Native vs Flutter | Одно приложение на разных языках | Что выбрать?](https://www.youtube.com/watch?v=E9nQjBFvIVk&amp;list=PLXkonRjGXZwwkvPWaW77k1VnXos3Hkt6g&amp;index=2)

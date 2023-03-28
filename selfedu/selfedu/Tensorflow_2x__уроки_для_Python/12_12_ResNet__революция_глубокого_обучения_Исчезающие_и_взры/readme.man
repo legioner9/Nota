@@ -1,0 +1,3 @@
+# [selfedu](https://www.youtube.com/@selfedu_rus/playlists?view=1)
+## [Tensorflow 2.x - уроки (для Python)](https://www.youtube.com/playlist?list=PLA0M1Bcd0w8ynD1umfubKq1OBYRXhXkmH)
+### [#12. ResNet - революция глубокого обучения. Исчезающие и взрывающиеся градиенты | Tensorflow 2 уроки](https://www.youtube.com/watch?v=FabLJiFKdQE&amp;list=PLA0M1Bcd0w8ynD1umfubKq1OBYRXhXkmH&amp;index=12)

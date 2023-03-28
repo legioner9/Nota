@@ -1,0 +1,3 @@
+# [ZProger [ IT ]](https://www.youtube.com/@zproger/playlists)
+## [MongoDB Python [Курс PyMongo]](https://www.youtube.com/playlist?list=PL6plRXMq5RABbVCM0dn23PTKO13WcXnbf)
+### [MongoDB Python | # 4 Writing values to the collection | PyMongo](https://www.youtube.com/watch?v=K88sjuwWr18&amp;list=PL6plRXMq5RABbVCM0dn23PTKO13WcXnbf&amp;index=5)

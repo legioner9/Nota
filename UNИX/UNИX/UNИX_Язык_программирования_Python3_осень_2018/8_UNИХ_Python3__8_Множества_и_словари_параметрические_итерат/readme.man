@@ -1,0 +1,3 @@
+# [UNИX](https://www.youtube.com/@unx7784/playlists)
+## [[UNИX] Язык программирования Python3 (осень 2018)](https://www.youtube.com/playlist?list=PL6kSdcHYB3x7QIgZquceA2GLwX_0SLGep)
+### [[UNИХ] Python3 — №8: Множества и словари, параметрические итераторы, декораторы](https://www.youtube.com/watch?v=S_GwpYnXTXQ&amp;list=PL6kSdcHYB3x7QIgZquceA2GLwX_0SLGep&amp;index=8)

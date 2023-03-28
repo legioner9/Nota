@@ -1,0 +1,6 @@
+### [Автоматизация тестирования на JavaScript // День открытых дверей OTUS](https://www.youtube.com/watch?v=ncgCeD20GQ8&amp;list=PLfnFOImnyWRX97AFz292k98c6So7JEMMZ&amp;index=1)
+### [Основы puppeteer // Демо-занятие курса «Автоматизация тестирования на JavaScript»](https://www.youtube.com/watch?v=DGUqcMts0_I&amp;list=PLfnFOImnyWRX97AFz292k98c6So7JEMMZ&amp;index=2)
+### [Основы puppeteer // Демо-занятие курса «Автоматизация тестирования на JavaScript»](https://www.youtube.com/watch?v=KoMeMfF7RQU&amp;list=PLfnFOImnyWRX97AFz292k98c6So7JEMMZ&amp;index=3)
+### [Контейнеры. Docker // Демо занятие курса «JavaScript QA Engineer»](https://www.youtube.com/watch?v=mz8T5mYGoCU&amp;list=PLfnFOImnyWRX97AFz292k98c6So7JEMMZ&amp;index=4)
+### [Автоматизируй это! День 2 // Демо-занятие курса «JavaScript QA Engineer»](https://www.youtube.com/watch?v=YOODUiDgD-s&amp;list=PLfnFOImnyWRX97AFz292k98c6So7JEMMZ&amp;index=5)
+### [Автоматизируй это! День 1 // Демо-занятие курса «JavaScript QA Engineer»](https://www.youtube.com/watch?v=Cwnxa9pZQcw&amp;list=PLfnFOImnyWRX97AFz292k98c6So7JEMMZ&amp;index=6)

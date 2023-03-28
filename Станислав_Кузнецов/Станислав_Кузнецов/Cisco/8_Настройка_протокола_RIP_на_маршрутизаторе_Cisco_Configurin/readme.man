@@ -1,0 +1,3 @@
+# [Станислав Кузнецов](https://www.youtube.com/@user-qz5qv6uc8y/playlists)
+## [Cisco](https://www.youtube.com/playlist?list=PL9x2twfbtCCPXxyhTAjPKLD-xRW7Fx0DC)
+### [Настройка протокола RIP на маршрутизаторе Cisco (Configuring RIP protocol on Cisco router)](https://www.youtube.com/watch?v=KhG5nIsJW0c&amp;list=PL9x2twfbtCCPXxyhTAjPKLD-xRW7Fx0DC&amp;index=8)

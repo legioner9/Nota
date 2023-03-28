@@ -1,0 +1,3 @@
+### [Парадокс Симпсонов](https://www.youtube.com/watch?v=3Lcugr-52sc&amp;list=PLY7PmJJFH5nQH6aOhFovj5Frb41odSKTi&amp;index=1)
+### [Парадокс Монти Холла в C++](https://www.youtube.com/watch?v=mrmmThCiuZ4&amp;list=PLY7PmJJFH5nQH6aOhFovj5Frb41odSKTi&amp;index=2)
+### [Возврат к Среднему](https://www.youtube.com/watch?v=kxBJYnVKfuA&amp;list=PLY7PmJJFH5nQH6aOhFovj5Frb41odSKTi&amp;index=3)

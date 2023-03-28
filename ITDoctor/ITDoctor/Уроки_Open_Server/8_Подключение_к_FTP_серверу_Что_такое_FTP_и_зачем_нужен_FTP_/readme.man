@@ -1,0 +1,3 @@
+# [ITDoctor](https://www.youtube.com/@ITDoctor/playlists?view=1&sort=dd&shelf_id=0)
+## [Уроки Open Server](https://www.youtube.com/playlist?list=PLuY6eeDuleINU_F29Ijq_MgeUwjrKaVqW)
+### [Подключение к FTP серверу, Что такое FTP и зачем нужен FTP, Видео курс по Open Server | #6](https://www.youtube.com/watch?v=CMl1ywNIq90&amp;list=PLuY6eeDuleINU_F29Ijq_MgeUwjrKaVqW&amp;index=8)

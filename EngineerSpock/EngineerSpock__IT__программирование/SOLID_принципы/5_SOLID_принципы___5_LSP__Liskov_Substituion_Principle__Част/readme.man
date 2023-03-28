@@ -1,0 +1,3 @@
+# [EngineerSpock - IT & программирование](https://www.youtube.com/@EngineerSpock/playlists)
+## [SOLID принципы](https://www.youtube.com/playlist?list=PLBheEHDcG7-nJsPVaejwcth7r9WhWWPdI)
+### [SOLID принципы / # 5 LSP - Liskov Substituion Principle / Часть 2 / Принцип подстановки Лисков](https://www.youtube.com/watch?v=eGzmlCzRlC0&amp;list=PLBheEHDcG7-nJsPVaejwcth7r9WhWWPdI&amp;index=5)

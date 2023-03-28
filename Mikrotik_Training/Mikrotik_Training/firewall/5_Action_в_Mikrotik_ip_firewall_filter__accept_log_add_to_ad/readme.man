@@ -1,0 +1,3 @@
+# [Mikrotik Training](https://www.youtube.com/@MikrotikTraining/playlists)
+## [firewall](https://www.youtube.com/playlist?list=PLg90hRDCH9A5kf570Y_l8jIrB-9eROxXs)
+### [Action в Mikrotik ip firewall filter - accept, log, add to address list](https://www.youtube.com/watch?v=sckBH1VJ5bE&amp;list=PLg90hRDCH9A5kf570Y_l8jIrB-9eROxXs&amp;index=5)

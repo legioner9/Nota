@@ -1,0 +1,3 @@
+# [RomNero](https://www.youtube.com/@RomNero/playlists)
+## [Docker](https://www.youtube.com/playlist?list=PLqVeG_R3qMSwjnkMUns_Yc4zF_PtUZmB-)
+### [06-Docker: Сети в докер. Network: bridge, host, none, macvlan, ipvlan](https://www.youtube.com/watch?v=ctJnI43ermQ&amp;list=PLqVeG_R3qMSwjnkMUns_Yc4zF_PtUZmB-&amp;index=6)

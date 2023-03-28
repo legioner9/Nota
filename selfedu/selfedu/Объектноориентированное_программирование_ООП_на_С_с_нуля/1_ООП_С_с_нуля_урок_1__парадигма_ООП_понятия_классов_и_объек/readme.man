@@ -1,0 +1,3 @@
+# [selfedu](https://www.youtube.com/@selfedu_rus/playlists?view=1)
+## [Объектно-ориентированное программирование (ООП) на С++ с нуля](https://www.youtube.com/playlist?list=PLA0M1Bcd0w8xlChMBBUc9leNoOEfn-Y-G)
+### [ООП С++ с нуля: урок 1 - парадигма ООП, понятия классов и объектов](https://www.youtube.com/watch?v=IH493f9Vo7E&amp;list=PLA0M1Bcd0w8xlChMBBUc9leNoOEfn-Y-G&amp;index=1)

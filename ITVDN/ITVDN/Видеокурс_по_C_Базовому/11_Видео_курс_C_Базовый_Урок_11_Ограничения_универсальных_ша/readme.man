@@ -1,0 +1,3 @@
+# [ITVDN](https://www.youtube.com/@ITVDN/playlists?view=1)
+## [Видеокурс по C# Базовому](https://www.youtube.com/playlist?list=PLvItDmb0sZw-kmcZAZJ29eTtAV56D5dgW)
+### [Видео курс C# Базовый. Урок 11. Ограничения универсальных шаблонов](https://www.youtube.com/watch?v=PAUzmBFsdRQ&amp;list=PLvItDmb0sZw-kmcZAZJ29eTtAV56D5dgW&amp;index=11)

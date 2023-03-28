@@ -1,0 +1,3 @@
+# [abglazov](https://www.youtube.com/@abglazov/playlists?view=1)
+## [Python](https://www.youtube.com/playlist?list=PLku9se_HAVOp8pSgrIWGIjHLP-EOw_ywq)
+### [py160 Сравнение способов интегрирования задачи Коши](https://www.youtube.com/watch?v=EsPazpifHEQ&amp;list=PLku9se_HAVOp8pSgrIWGIjHLP-EOw_ywq&amp;index=70)

@@ -1,0 +1,3 @@
+# [ITVDN](https://www.youtube.com/@ITVDN/playlists?view=1)
+## [Практика программирования для начинающих](https://www.youtube.com/playlist?list=PLvItDmb0sZw_Fb0ZmRxXslwI4uQeX-qmE)
+### [Создание приложений на ASP.NET MVC 5](https://www.youtube.com/watch?v=23NtoXt43ko&amp;list=PLvItDmb0sZw_Fb0ZmRxXslwI4uQeX-qmE&amp;index=39)

@@ -1,0 +1,3 @@
+# [OTUS Онлайн - образование](https://www.youtube.com/@otus_education/playlists)
+## [Курс | PHP Developer. Professional](https://www.youtube.com/playlist?list=PLfnFOImnyWRVMrvaNpPJJaLVbBS3JQjIm)
+### [ServerLess PHP // Демо-занятие курса «PHP Developer. Professional»](https://www.youtube.com/watch?v=cGBggTdDmKI&amp;list=PLfnFOImnyWRVMrvaNpPJJaLVbBS3JQjIm&amp;index=6)

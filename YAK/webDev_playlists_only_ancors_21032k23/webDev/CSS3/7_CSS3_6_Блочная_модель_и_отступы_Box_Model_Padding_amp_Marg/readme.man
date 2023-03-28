@@ -1,0 +1,3 @@
+# [webDev](https://www.youtube.com/@YauhenKavalchuk/playlists?view=1)
+## [CSS3](https://www.youtube.com/playlist?list=PLNkWIWHIRwMHUawuIEpPI_tOG7Mfhs_sA)
+### [CSS3 #6 Блочная модель и отступы (Box Model, Padding &amp; Margin)](https://www.youtube.com/watch?v=1jvIi039-i4&amp;list=PLNkWIWHIRwMHUawuIEpPI_tOG7Mfhs_sA&amp;index=7)

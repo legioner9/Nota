@@ -1,0 +1,3 @@
+# [Bogdan Stashchuk](https://www.youtube.com/@Bogdan_Stashchuk/playlists)
+## [MongoDB Delete Queries](https://www.youtube.com/playlist?list=PLWkguCWKqN9PLO2zz6I82zahdaeOXG1Hp)
+### [MongoDB Delete Queries: 08 dropDatabase](https://www.youtube.com/watch?v=hqB_6YjLjiA&amp;list=PLWkguCWKqN9PLO2zz6I82zahdaeOXG1Hp&amp;index=8)

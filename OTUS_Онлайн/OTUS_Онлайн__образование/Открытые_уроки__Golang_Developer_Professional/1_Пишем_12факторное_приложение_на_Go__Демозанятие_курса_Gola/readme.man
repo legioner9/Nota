@@ -1,0 +1,3 @@
+# [OTUS Онлайн - образование](https://www.youtube.com/@otus_education/playlists)
+## [Открытые уроки  Golang Developer. Professional](https://www.youtube.com/playlist?list=PLfnFOImnyWRUADFreftcl7WZpPLqlK-RG)
+### [Пишем 12-факторное приложение на Go // Демо-занятие курса «Golang Developer. Professional»](https://www.youtube.com/watch?v=1cSiUUIx4Ss&amp;list=PLfnFOImnyWRUADFreftcl7WZpPLqlK-RG&amp;index=1)

@@ -1,0 +1,3 @@
+# [RED Group](https://www.youtube.com/@REDGroup/playlists)
+## [Инструменты для веб разработчика](https://www.youtube.com/playlist?list=PLXkonRjGXZwwKAAB4ihUHv6C9hyGHvnru)
+### [Настройка Sublime Text 3 и установка Emmet на 2020 год](https://www.youtube.com/watch?v=6OIyOTr0OQU&amp;list=PLXkonRjGXZwwKAAB4ihUHv6C9hyGHvnru&amp;index=25)

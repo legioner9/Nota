@@ -1,0 +1,3 @@
+# [Cisco Ne Slabo / SEDICOMM TV](https://www.youtube.com/@cisconeslabo/playlists)
+## [Linux — Бесплатные мастер-классы от Академии Cisco Университет СЭДИКОММ](https://www.youtube.com/playlist?list=PLMiVLClzZDbTahs2dn-p7rwgadZwvbP7Y)
+### [Как упростить управление RPM-пакетами в Linux с помощью пакетного менеджера DNF](https://www.youtube.com/watch?v=4NPREKPqhL8&amp;list=PLMiVLClzZDbTahs2dn-p7rwgadZwvbP7Y&amp;index=19)

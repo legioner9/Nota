@@ -1,0 +1,3 @@
+### [Знакомство с языком Scala. Scala Starter. Урок 1](https://www.youtube.com/watch?v=T3a3XBjrv4w&amp;list=PLvItDmb0sZw8DtWKBXlR_LIDw1o3n2QBC&amp;index=1)
+### [Запуск первой программы. Scala Starter. Урок 2](https://www.youtube.com/watch?v=--6_MaYaPvY&amp;list=PLvItDmb0sZw8DtWKBXlR_LIDw1o3n2QBC&amp;index=2)
+### [Основы Scala на примере первой программы. Scala Starter. Урок 3](https://www.youtube.com/watch?v=Rf2E3UisFwQ&amp;list=PLvItDmb0sZw8DtWKBXlR_LIDw1o3n2QBC&amp;index=3)

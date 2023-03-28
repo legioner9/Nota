@@ -1,0 +1,3 @@
+# [Школа itProger / Программирование](https://www.youtube.com/@itproger/playlists?view=1)
+## [Уроки Pygame для начинающих / Разработка игр на Python с нуля](https://www.youtube.com/playlist?list=PLDyJYA6aTY1mLtXrGH55paZHFjpqHdDol)
+### [Игра на Pygame с нуля / Урок #6 – Враги в игре](https://www.youtube.com/watch?v=rA5QDeZSStk&amp;list=PLDyJYA6aTY1mLtXrGH55paZHFjpqHdDol&amp;index=6)

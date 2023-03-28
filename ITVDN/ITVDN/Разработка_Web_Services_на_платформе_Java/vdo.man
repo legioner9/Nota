@@ -1,0 +1,5 @@
+### [Что такое SOA, веб-сервисы, XML? Разработка Web Services на платформе Java. Урок 1](https://www.youtube.com/watch?v=FYewIWrg6GI&amp;list=PLvItDmb0sZw9vaPioYUwp3lYSydvoKju8&amp;index=1)
+### [Обзор SOAP веб-сервисов. Разработка Web Services на платформе Java. Урок 2](https://www.youtube.com/watch?v=xM67m9Bw2_o&amp;list=PLvItDmb0sZw9vaPioYUwp3lYSydvoKju8&amp;index=2)
+### [Как работает JAX-WS и JAXB. Разработка Web Services на платформе Java. Урок 3](https://www.youtube.com/watch?v=Pz2jwZbDsNQ&amp;list=PLvItDmb0sZw9vaPioYUwp3lYSydvoKju8&amp;index=3)
+### [Использование REST веб-сервисов. Разработка Web Services на платформе Java. Урок 4](https://www.youtube.com/watch?v=qZjUGxpGtCE&amp;list=PLvItDmb0sZw9vaPioYUwp3lYSydvoKju8&amp;index=4)
+### [JAX-RS Client API. Асинхронный REST. Разработка Web Services на платформе Java. Урок 5](https://www.youtube.com/watch?v=lis8voOSnE0&amp;list=PLvItDmb0sZw9vaPioYUwp3lYSydvoKju8&amp;index=5)

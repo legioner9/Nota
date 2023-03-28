@@ -1,0 +1,6 @@
+### [Git. Урок 1. Установка Git на Linux и Windows (Lesson 1. Installing Git on Linux and on Windows)](https://www.youtube.com/watch?v=iBrQooiY8bQ&amp;list=PL9x2twfbtCCMJ1gBdKWYxmXP--6izlYo2&amp;index=1)
+### [Git. Урок 2. Работа с локальным репозитарием (Git. Lesson 2. Working with local repository)](https://www.youtube.com/watch?v=mqaufW0sruw&amp;list=PL9x2twfbtCCMJ1gBdKWYxmXP--6izlYo2&amp;index=2)
+### [Git. Урок 3. Работа с удалённым репозитарием (Git. Lesson 3. Working with remote repository)](https://www.youtube.com/watch?v=RjsPj-vuIyo&amp;list=PL9x2twfbtCCMJ1gBdKWYxmXP--6izlYo2&amp;index=3)
+### [Создание и настройка виртуальных машин в Google Cloud Platform с помощью Terraform](https://www.youtube.com/watch?v=2RpOprMfL8A&amp;list=PL9x2twfbtCCMJ1gBdKWYxmXP--6izlYo2&amp;index=4)
+### [Установка Team City Server на Windows Server 2019 (Installation Team City on Windows Server 2019)](https://www.youtube.com/watch?v=BMQiUx1JinY&amp;list=PL9x2twfbtCCMJ1gBdKWYxmXP--6izlYo2&amp;index=5)
+### [Установка Jenkins на Linux Ubuntu Server 20.04 (Jenkins Installation on Linux Ubuntu Server 20.04)](https://www.youtube.com/watch?v=BezPiJNhiPo&amp;list=PL9x2twfbtCCMJ1gBdKWYxmXP--6izlYo2&amp;index=6)

@@ -1,0 +1,3 @@
+# [EngineerSpock - IT & программирование](https://www.youtube.com/@EngineerSpock/playlists)
+## [Руководство по Python 3 для новичков](https://www.youtube.com/playlist?list=PLBheEHDcG7-mtn0lwo3F2kbojtewF6bL0)
+### [Уроки по Python 3 для новичков / Часть #4 - Функции в Python](https://www.youtube.com/watch?v=YkVk_5xC0cI&amp;list=PLBheEHDcG7-mtn0lwo3F2kbojtewF6bL0&amp;index=4)

@@ -1,0 +1,3 @@
+# [OTUS Онлайн - образование](https://www.youtube.com/@otus_education/playlists)
+## [Курс | Архитектура и шаблоны проектирования](https://www.youtube.com/playlist?list=PLfnFOImnyWRX1Oo4F9zSqxUQh14T9mRDL)
+### [SOLID как условие постоянной скорости разработки // курс «Архитектура и шаблоны проектирования»](https://www.youtube.com/watch?v=u2lUf3qRuJY&amp;list=PLfnFOImnyWRX1Oo4F9zSqxUQh14T9mRDL&amp;index=16)

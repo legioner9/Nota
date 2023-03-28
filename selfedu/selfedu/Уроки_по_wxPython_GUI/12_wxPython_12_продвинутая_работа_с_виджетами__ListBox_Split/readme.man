@@ -1,0 +1,3 @@
+# [selfedu](https://www.youtube.com/@selfedu_rus/playlists?view=1)
+## [Уроки по wxPython (GUI)](https://www.youtube.com/playlist?list=PLA0M1Bcd0w8zyJOJXbvTKROHs2JJVGB6C)
+### [wxPython #12: продвинутая работа с виджетами - ListBox, SplitterWindow, HtmlWindow, Notebook](https://www.youtube.com/watch?v=F7XNGwDRQHg&amp;list=PLA0M1Bcd0w8zyJOJXbvTKROHs2JJVGB6C&amp;index=12)

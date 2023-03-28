@@ -1,0 +1,3 @@
+# [JavaScript.Ninja](https://www.youtube.com/@JavaScriptNinja/playlists)
+## [Введение в Flow](https://www.youtube.com/playlist?list=PLvTBThJr861zvILAjREUakZ6E5l7h7lsZ)
+### [[10/20] Generics](https://www.youtube.com/watch?v=iuMrHOF9PBM&amp;list=PLvTBThJr861zvILAjREUakZ6E5l7h7lsZ&amp;index=12)

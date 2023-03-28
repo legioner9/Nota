@@ -1,0 +1,3 @@
+# [ITVDN](https://www.youtube.com/@ITVDN/playlists?view=1)
+## [Основы Java EE](https://www.youtube.com/playlist?list=PLvItDmb0sZw8IEZsTMCvcuQhqU_t-v8Y1)
+### [Что такое J2EE? Первое веб приложение. Основы Java EE. Урок 3](https://www.youtube.com/watch?v=8FN8Pp0IPt8&amp;list=PLvItDmb0sZw8IEZsTMCvcuQhqU_t-v8Y1&amp;index=3)

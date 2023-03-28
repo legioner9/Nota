@@ -1,0 +1,3 @@
+### [Python OOP lessons for beginners from scratch, python OOP course in three lessons - REAL example](https://www.youtube.com/watch?v=-Zdu4ntX_DU&amp;list=PLNi5HdK6QEmX9fxp3_IBFx1O5tiTmKlYm&amp;index=1)
+### [OOP Python class inheritance | Python OOP in three lessons](https://www.youtube.com/watch?v=v8wekXR_oMw&amp;list=PLNi5HdK6QEmX9fxp3_IBFx1O5tiTmKlYm&amp;index=2)
+### [Python OOP getters setters, decorator property, classmethod, staticmethod](https://www.youtube.com/watch?v=H323khQJL40&amp;list=PLNi5HdK6QEmX9fxp3_IBFx1O5tiTmKlYm&amp;index=3)

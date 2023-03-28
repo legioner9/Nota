@@ -1,0 +1,3 @@
+# [RomNero](https://www.youtube.com/@RomNero/playlists)
+## [Docker](https://www.youtube.com/playlist?list=PLqVeG_R3qMSwjnkMUns_Yc4zF_PtUZmB-)
+### [Gotify - простой и удобный сервис мониторинг сообщений! Обзор, установка, тест.](https://www.youtube.com/watch?v=R60f9zMLKds&amp;list=PLqVeG_R3qMSwjnkMUns_Yc4zF_PtUZmB-&amp;index=11)

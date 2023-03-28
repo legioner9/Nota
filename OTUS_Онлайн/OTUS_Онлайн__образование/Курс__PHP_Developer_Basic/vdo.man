@@ -1,0 +1,7 @@
+### [Пишем форму авторизации с нуля. День 2 // Демо-занятие курса «PHP Developer. Basic»](https://www.youtube.com/watch?v=tZ6r-4lWAVY&amp;list=PLfnFOImnyWRX9Jr9OtnYGKHNU0_Xs8-Ae&amp;index=1)
+### [Пишем форму авторизации с нуля. День1 // Демо-занятие курса «PHP Developer. Basic»](https://www.youtube.com/watch?v=GNDtzsVU4uk&amp;list=PLfnFOImnyWRX9Jr9OtnYGKHNU0_Xs8-Ae&amp;index=2)
+### [Demo Day курса «PHP Developer. Basic»](https://www.youtube.com/watch?v=RJvASz7fCaU&amp;list=PLfnFOImnyWRX9Jr9OtnYGKHNU0_Xs8-Ae&amp;index=3)
+### [Demo Day курса «PHP Developer  Basic»](https://www.youtube.com/watch?v=kzzDBD6OAAM&amp;list=PLfnFOImnyWRX9Jr9OtnYGKHNU0_Xs8-Ae&amp;index=4)
+### [Классы и объекты: в картинках, но всерьёз. День 2. // Демо-занятие курса «PHP Developer  Basic»](https://www.youtube.com/watch?v=J_jMl5R35wg&amp;list=PLfnFOImnyWRX9Jr9OtnYGKHNU0_Xs8-Ae&amp;index=5)
+### [Решение несложных алгоритмических задач на PHP // Демо-занятие курса «PHP Developer  Basic»](https://www.youtube.com/watch?v=2VDyzEZIbOk&amp;list=PLfnFOImnyWRX9Jr9OtnYGKHNU0_Xs8-Ae&amp;index=6)
+### [Контейнеры // Демо-занятие курса «PHP Developer. Basic»](https://www.youtube.com/watch?v=X5GY66JWYO4&amp;list=PLfnFOImnyWRX9Jr9OtnYGKHNU0_Xs8-Ae&amp;index=7)

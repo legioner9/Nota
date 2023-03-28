@@ -1,0 +1,3 @@
+# [Neuro Lab! Algorithms](https://www.youtube.com/@NeuroLabAlgorithms/playlists)
+## [Язык Go для бизнес-аналитиков](https://www.youtube.com/playlist?list=PLHUicSITKZEliAGBSTHnqnlY5voTqT3-5)
+### [Читаем файл - строим бредогенератор | Язык Go для бизнес аналитиков. Урок #14 #go #golang #уроки](https://www.youtube.com/watch?v=glvmWScj37M&amp;list=PLHUicSITKZEliAGBSTHnqnlY5voTqT3-5&amp;index=10)

@@ -1,0 +1,6 @@
+### [Обзор django3, смотрим на язык elm, общаемся](https://www.youtube.com/watch?v=0vBa7eaZ3hM&amp;list=PLF-NY6ldwAWrPUAkpT37UpVoyKak_BtpA&amp;index=1)
+### [Watson python framework](https://www.youtube.com/watch?v=rnPGujldIXc&amp;list=PLF-NY6ldwAWrPUAkpT37UpVoyKak_BtpA&amp;index=2)
+### [Falcon python web api framework](https://www.youtube.com/watch?v=q_1A7KAtdMw&amp;list=PLF-NY6ldwAWrPUAkpT37UpVoyKak_BtpA&amp;index=3)
+### [Топ 10 популярных сайтов написанных на Django](https://www.youtube.com/watch?v=2f_qQGfYccY&amp;list=PLF-NY6ldwAWrPUAkpT37UpVoyKak_BtpA&amp;index=4)
+### [Django Ninja - Fast Django REST Framework | Обзор](https://www.youtube.com/watch?v=uDG8k4k9F8I&amp;list=PLF-NY6ldwAWrPUAkpT37UpVoyKak_BtpA&amp;index=5)
+### [Django Ninja сайт за 20 минут | Django + FastAPI](https://www.youtube.com/watch?v=q_S_LVcFDu8&amp;list=PLF-NY6ldwAWrPUAkpT37UpVoyKak_BtpA&amp;index=6)

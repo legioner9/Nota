@@ -1,0 +1,3 @@
+# [RED Group](https://www.youtube.com/@REDGroup/playlists)
+## [Telegram](https://www.youtube.com/playlist?list=PLXkonRjGXZwwYM7Ttfnrca0dnxgBdhSn-)
+### [Разработка телеграм бота с БД [Nest.js / PostgreSQL] - Todo Telegram Bot](https://www.youtube.com/watch?v=6UjDqjkAMe8&amp;list=PLXkonRjGXZwwYM7Ttfnrca0dnxgBdhSn-&amp;index=1)

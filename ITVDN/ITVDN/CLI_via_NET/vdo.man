@@ -1,0 +1,1 @@
+### [CLI via .NET. Обзор 1.0. Что такое CLI (Common Language Infrastructure)?](https://www.youtube.com/watch?v=l0AVCzPTP-o&amp;list=PLvItDmb0sZw8oF_OV8lGus-u5C03fu6nj&amp;index=1)

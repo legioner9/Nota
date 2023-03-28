@@ -1,0 +1,3 @@
+# [Archakov Blog](https://www.youtube.com/@ArchakovBlog/playlists)
+## [React Hooks (хуки)](https://www.youtube.com/playlist?list=PL0FGkDGJQjJH4Uz-Vsk_91V65Wh88nlXC)
+### [#2: React Hooks — useEffect (классовый подход и функциональный)](https://www.youtube.com/watch?v=slaaDOt0ZvM&amp;list=PL0FGkDGJQjJH4Uz-Vsk_91V65Wh88nlXC&amp;index=2)

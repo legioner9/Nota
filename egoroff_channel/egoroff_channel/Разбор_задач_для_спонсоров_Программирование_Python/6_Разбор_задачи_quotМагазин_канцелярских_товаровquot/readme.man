@@ -1,0 +1,3 @@
+# [egoroff_channel](https://www.youtube.com/@egoroffchannel/playlists)
+## [Разбор задач для спонсоров. Программирование Python](https://www.youtube.com/playlist?list=PLQAt0m1f9OHvscrP2pec3JUAzIcRxDc5E)
+### [Разбор задачи &quot;Магазин канцелярских товаров&quot;](https://www.youtube.com/watch?v=Ue-c2U_7iQM&amp;list=PLQAt0m1f9OHvscrP2pec3JUAzIcRxDc5E&amp;index=6)

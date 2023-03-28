@@ -1,0 +1,3 @@
+# [Archakov Blog](https://www.youtube.com/@ArchakovBlog/playlists)
+## [Разработка чата на ReactJS + NodeJS](https://www.youtube.com/playlist?list=PL0FGkDGJQjJFDr8R3D6dFVa1nhce_2-ly)
+### [Разработка чата на ReactJS + NodeJS: Форма создания диалога, поиск юзеров, Sidebar](https://www.youtube.com/watch?v=hIX77fD03fM&amp;list=PL0FGkDGJQjJFDr8R3D6dFVa1nhce_2-ly&amp;index=18)

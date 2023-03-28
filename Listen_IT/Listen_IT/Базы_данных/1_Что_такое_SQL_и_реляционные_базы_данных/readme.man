@@ -1,0 +1,3 @@
+# [Listen IT](https://www.youtube.com/@ListenIT_channel/playlists)
+## [Базы данных](https://www.youtube.com/playlist?list=PLLACapFZr4XvyQgxZaIOK-MJwblGVCL41)
+### [Что такое SQL и реляционные базы данных](https://www.youtube.com/watch?v=GQfC0nYrto8&amp;list=PLLACapFZr4XvyQgxZaIOK-MJwblGVCL41&amp;index=1)

@@ -1,0 +1,3 @@
+# [SuperDev](https://www.youtube.com/@superdev8594/playlists)
+## [Телефония (Спринт1)](https://www.youtube.com/playlist?list=PLSGfCcnnkUS1nY6ETKFlqlUGuf8-kEAXL)
+### [Как настроить локальный web-сервер, установка  Apache, PHP и MariaDB (MySQL) на Ubuntu 20.04.](https://www.youtube.com/watch?v=MQmYbf9YAgU&amp;list=PLSGfCcnnkUS1nY6ETKFlqlUGuf8-kEAXL&amp;index=3)

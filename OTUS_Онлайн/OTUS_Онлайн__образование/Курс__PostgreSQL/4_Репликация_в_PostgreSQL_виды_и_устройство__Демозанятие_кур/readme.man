@@ -1,0 +1,3 @@
+# [OTUS Онлайн - образование](https://www.youtube.com/@otus_education/playlists)
+## [Курс | PostgreSQL](https://www.youtube.com/playlist?list=PLfnFOImnyWRUpDwzWuBp3Hcr0eALL1pyz)
+### [Репликация в PostgreSQL: виды и устройство // Демо-занятие курса «PostgreSQL»](https://www.youtube.com/watch?v=wSO3kFWSoRc&amp;list=PLfnFOImnyWRUpDwzWuBp3Hcr0eALL1pyz&amp;index=4)

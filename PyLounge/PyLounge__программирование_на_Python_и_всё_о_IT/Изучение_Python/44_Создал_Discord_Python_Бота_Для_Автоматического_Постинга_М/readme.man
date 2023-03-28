@@ -1,0 +1,3 @@
+# [PyLounge - программирование на Python и всё о IT](https://www.youtube.com/@pylounge/playlists)
+## [Изучение Python](https://www.youtube.com/playlist?list=PLhVGaKnJDpzhfH-5jrlyMylobwOS-I7LW)
+### [Создал Discord Python Бота Для Автоматического Постинга Мемов С Reddit](https://www.youtube.com/watch?v=DFde1kbM5nw&amp;list=PLhVGaKnJDpzhfH-5jrlyMylobwOS-I7LW&amp;index=44)

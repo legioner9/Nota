@@ -1,0 +1,3 @@
+# [Диджитализируй!](https://www.youtube.com/@t0digital/playlists)
+## [Python разработка](https://www.youtube.com/playlist?list=PLAk6CfuV7hyooMRqhHAO9-Gt6kOQqM_-Y)
+### [Poetry — продвинутая замена pip для Python. Менеджер зависимостей, который нам нужен в 2021м!](https://www.youtube.com/watch?v=KOC0Gbo_0HY&amp;list=PLAk6CfuV7hyooMRqhHAO9-Gt6kOQqM_-Y&amp;index=41)

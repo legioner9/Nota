@@ -1,0 +1,3 @@
+# [EngineerSpock - IT & программирование](https://www.youtube.com/@EngineerSpock/playlists)
+## [Курс по Django](https://www.youtube.com/playlist?list=PLBheEHDcG7-nyRX-kMT2jyudahDQ-A-Ss)
+### [Полный курс по Django # 6 / GET POST, Traceback Debug, MVT, Users](https://www.youtube.com/watch?v=paN-99451Kw&amp;list=PLBheEHDcG7-nyRX-kMT2jyudahDQ-A-Ss&amp;index=6)

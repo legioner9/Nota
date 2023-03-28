@@ -1,0 +1,3 @@
+# [OTUS Онлайн - образование](https://www.youtube.com/@otus_education/playlists)
+## [Курс | Базы данных](https://www.youtube.com/playlist?list=PLfnFOImnyWRXeJhdi3WNmTywXJiOdUoxO)
+### [Бэкапы и репликация PostgreSQL. Практика применения (день 1) // Демо-занятие курса «Базы данных»](https://www.youtube.com/watch?v=EIPyvEzaBo0&amp;list=PLfnFOImnyWRXeJhdi3WNmTywXJiOdUoxO&amp;index=23)

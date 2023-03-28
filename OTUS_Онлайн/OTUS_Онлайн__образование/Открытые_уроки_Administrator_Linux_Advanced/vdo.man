@@ -1,0 +1,4 @@
+### [Введение в terraform // Демо-занятие курса «Администратор Linux. Виртуализация и кластеризация»](https://www.youtube.com/watch?v=PWNOGs8Jyik&amp;list=PLfnFOImnyWRUvuowOQKr9hDLyiaMWT79M&amp;index=1)
+### [Кластерная файловая система Lustre // Демо-занятие курса «Administrator Linux. Advanced»](https://www.youtube.com/watch?v=BEyp2PK-JC8&amp;list=PLfnFOImnyWRUvuowOQKr9hDLyiaMWT79M&amp;index=2)
+### [Salt. Оркестрация конфигурациями // Демо занятие курса «Administrator Linux. Advanced»](https://www.youtube.com/watch?v=SXVYFqzvMdM&amp;list=PLfnFOImnyWRUvuowOQKr9hDLyiaMWT79M&amp;index=3)
+### [Виртуализация: KVM // Демо-занятие курса «Administrator Linux. Advanced»](https://www.youtube.com/watch?v=3jqsERWkDuc&amp;list=PLfnFOImnyWRUvuowOQKr9hDLyiaMWT79M&amp;index=4)

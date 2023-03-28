@@ -1,0 +1,3 @@
+# [ITVDN](https://www.youtube.com/@ITVDN/playlists?view=1)
+## [Вебинары по ASP.NET Core](https://www.youtube.com/playlist?list=PLvItDmb0sZw9_TcD8gEjcN9I2U-txyUHF)
+### [ASP.NET Core. Лучшие архитектурные практики. Часть 2](https://www.youtube.com/watch?v=MKuckMtKLwo&amp;list=PLvItDmb0sZw9_TcD8gEjcN9I2U-txyUHF&amp;index=2)

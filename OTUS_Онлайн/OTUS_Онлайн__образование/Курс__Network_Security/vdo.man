@@ -1,0 +1,2 @@
+### [SSL сертификаты // Демо-занятие курса «Network Security»](https://www.youtube.com/watch?v=gMLLuAcFyRc&amp;list=PLfnFOImnyWRUH7-sjh-P7SNTB2k5GD7f0&amp;index=1)
+### [Создание безопасного защищенного туннеля между 2 офисами // Демо-занятие курса «Network Security»](https://www.youtube.com/watch?v=TbXWXtfiVtU&amp;list=PLfnFOImnyWRUH7-sjh-P7SNTB2k5GD7f0&amp;index=2)

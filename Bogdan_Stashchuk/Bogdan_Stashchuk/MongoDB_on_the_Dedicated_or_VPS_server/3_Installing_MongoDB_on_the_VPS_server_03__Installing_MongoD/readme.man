@@ -1,0 +1,3 @@
+# [Bogdan Stashchuk](https://www.youtube.com/@Bogdan_Stashchuk/playlists)
+## [MongoDB on the Dedicated or VPS server](https://www.youtube.com/playlist?list=PLWkguCWKqN9OqgXpU7Vc_7iZqcE9K1tbY)
+### [Installing MongoDB on the VPS server: 03 - Installing MongoDB on the Ubuntu Server](https://www.youtube.com/watch?v=hBQLN9q-1vg&amp;list=PLWkguCWKqN9OqgXpU7Vc_7iZqcE9K1tbY&amp;index=3)

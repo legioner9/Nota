@@ -1,0 +1,3 @@
+# [IT-KAMASUTRA](https://www.youtube.com/@ITKAMASUTRA/playlists?view=1)
+## [Code reviews](https://www.youtube.com/playlist?list=PLcvhF2Wqh7DP81SNUtz6d9uXB0Nan9AlD)
+### [01. Code Review, Калькулятор, рефакторинг](https://www.youtube.com/watch?v=9pPVp64tR5U&amp;list=PLcvhF2Wqh7DP81SNUtz6d9uXB0Nan9AlD&amp;index=3)

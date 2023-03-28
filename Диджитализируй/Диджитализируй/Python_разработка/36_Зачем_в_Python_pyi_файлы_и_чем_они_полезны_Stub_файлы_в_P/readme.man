@@ -1,0 +1,3 @@
+# [Диджитализируй!](https://www.youtube.com/@t0digital/playlists)
+## [Python разработка](https://www.youtube.com/playlist?list=PLAk6CfuV7hyooMRqhHAO9-Gt6kOQqM_-Y)
+### [Зачем в Python .pyi файлы и чем они полезны? Stub файлы в Python](https://www.youtube.com/watch?v=KofihAoSp2U&amp;list=PLAk6CfuV7hyooMRqhHAO9-Gt6kOQqM_-Y&amp;index=36)

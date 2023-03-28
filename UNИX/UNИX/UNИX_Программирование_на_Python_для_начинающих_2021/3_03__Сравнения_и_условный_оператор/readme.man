@@ -1,0 +1,3 @@
+# [UNИX](https://www.youtube.com/@unx7784/playlists)
+## [[UNИX] Программирование на Python для начинающих (2021)](https://www.youtube.com/playlist?list=PL6kSdcHYB3x6FyT5dJfxJZKsaZxys0_Rn)
+### [03.  Сравнения и условный оператор](https://www.youtube.com/watch?v=eSLhren5_v4&amp;list=PL6kSdcHYB3x6FyT5dJfxJZKsaZxys0_Rn&amp;index=3)

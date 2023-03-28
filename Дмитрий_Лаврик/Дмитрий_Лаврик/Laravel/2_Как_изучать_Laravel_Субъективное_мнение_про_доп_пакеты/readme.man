@@ -1,0 +1,3 @@
+# [Дмитрий Лаврик](https://www.youtube.com/@dmitrylavrik/playlists)
+## [Laravel](https://www.youtube.com/playlist?list=PLyeqauxei6jeiITLZ3ZYMDACqVusPySrh)
+### [Как изучать Laravel. Субъективное мнение про доп. пакеты](https://www.youtube.com/watch?v=TydQA_5hH6Y&amp;list=PLyeqauxei6jeiITLZ3ZYMDACqVusPySrh&amp;index=2)

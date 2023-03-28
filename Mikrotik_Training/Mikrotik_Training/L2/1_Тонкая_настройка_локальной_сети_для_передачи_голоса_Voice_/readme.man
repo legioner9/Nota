@@ -1,0 +1,3 @@
+# [Mikrotik Training](https://www.youtube.com/@MikrotikTraining/playlists)
+## [L2](https://www.youtube.com/playlist?list=PLg90hRDCH9A4eeiPtxjgw--zcvmOjrmY7)
+### [Тонкая настройка локальной сети для передачи голоса. Voice vlan, приоритизация трафика в сетях (L2)](https://www.youtube.com/watch?v=kOGJ7zfAjlc&amp;list=PLg90hRDCH9A4eeiPtxjgw--zcvmOjrmY7&amp;index=1)

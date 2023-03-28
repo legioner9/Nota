@@ -1,0 +1,3 @@
+# [Unified Communications from Cliffis](https://www.youtube.com/@uc_cliffis/playlists)
+## [Cisco VoIP](https://www.youtube.com/playlist?list=PLQkhRYZT7TCkSsxGb2V47CQq4g65j6nxW)
+### [Регистрация телефона Yealink на Cisco UCM(CUCM) - проще простого!](https://www.youtube.com/watch?v=A4Ea9VDzEfE&amp;list=PLQkhRYZT7TCkSsxGb2V47CQq4g65j6nxW&amp;index=3)

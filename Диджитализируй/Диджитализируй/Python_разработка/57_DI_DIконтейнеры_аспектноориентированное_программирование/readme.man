@@ -1,0 +1,3 @@
+# [Диджитализируй!](https://www.youtube.com/@t0digital/playlists)
+## [Python разработка](https://www.youtube.com/playlist?list=PLAk6CfuV7hyooMRqhHAO9-Gt6kOQqM_-Y)
+### [DI, DI-контейнеры, аспектно-ориентированное программирование в Python vs Java. Чистый код, 11 глава](https://www.youtube.com/watch?v=haqLhNN5ZdY&amp;list=PLAk6CfuV7hyooMRqhHAO9-Gt6kOQqM_-Y&amp;index=57)

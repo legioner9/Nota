@@ -1,0 +1,3 @@
+# [Диджитализируй!](https://www.youtube.com/@t0digital/playlists)
+## [Python разработка](https://www.youtube.com/playlist?list=PLAk6CfuV7hyooMRqhHAO9-Gt6kOQqM_-Y)
+### [Логирование в Python и Django](https://www.youtube.com/watch?v=nAK-Tpc3NMI&amp;list=PLAk6CfuV7hyooMRqhHAO9-Gt6kOQqM_-Y&amp;index=27)

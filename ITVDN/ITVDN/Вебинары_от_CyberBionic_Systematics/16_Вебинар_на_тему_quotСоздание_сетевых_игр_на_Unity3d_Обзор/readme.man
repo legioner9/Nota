@@ -1,0 +1,3 @@
+# [ITVDN](https://www.youtube.com/@ITVDN/playlists?view=1)
+## [Вебинары от CyberBionic Systematics](https://www.youtube.com/playlist?list=PLvItDmb0sZw_0CRsaCv5eyUs_g_8d3oet)
+### [Вебинар на тему: &quot;Создание сетевых игр на Unity3d. Обзор UNet. Практикум&quot;](https://www.youtube.com/watch?v=BV1YGHG05rQ&amp;list=PLvItDmb0sZw_0CRsaCv5eyUs_g_8d3oet&amp;index=16)

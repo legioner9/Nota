@@ -1,0 +1,3 @@
+# [RED Group](https://www.youtube.com/@REDGroup/playlists)
+## [Фишки для верстки](https://www.youtube.com/playlist?list=PLXkonRjGXZwxw0P_SexI5kgMfUN5WqYJc)
+### [Ввод только цифр в поле input на JavaScript + вариант на HTML // Регулярное выражение JS](https://www.youtube.com/watch?v=TrGSSfDagF8&amp;list=PLXkonRjGXZwxw0P_SexI5kgMfUN5WqYJc&amp;index=9)

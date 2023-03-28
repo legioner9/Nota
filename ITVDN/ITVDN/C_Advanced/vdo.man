@@ -1,0 +1,6 @@
+### [C++ Advanced. Вывод типов при использовании шаблонов, auto и decltype. Урок 1](https://www.youtube.com/watch?v=6qlH9dcslF4&amp;list=PLvItDmb0sZw_O73I5vC_6NZKsOcTBpXNw&amp;index=1)
+### [C++ Advanced. Функторы. Урок 2](https://www.youtube.com/watch?v=EWAKAfVd8eQ&amp;list=PLvItDmb0sZw_O73I5vC_6NZKsOcTBpXNw&amp;index=2)
+### [C++ Advanced. Стандартная библиотека шаблонов. Контейнеры. Урок 3](https://www.youtube.com/watch?v=FjjpLALytGo&amp;list=PLvItDmb0sZw_O73I5vC_6NZKsOcTBpXNw&amp;index=3)
+### [C++ Advanced. Стандартная библиотека шаблонов. Итераторы и алгоритмы. Урок 4](https://www.youtube.com/watch?v=3MW-nr99cKc&amp;list=PLvItDmb0sZw_O73I5vC_6NZKsOcTBpXNw&amp;index=4)
+### [C++ Advanced. Параллельное программирование. Потоки и средства их синхронизации. Урок 5](https://www.youtube.com/watch?v=MnmOF-0NbF0&amp;list=PLvItDmb0sZw_O73I5vC_6NZKsOcTBpXNw&amp;index=5)
+### [C++ Advanced. Параллельное программирование. Задачи и параллельные алгоритмы. Урок 6](https://www.youtube.com/watch?v=EoULBcifvPk&amp;list=PLvItDmb0sZw_O73I5vC_6NZKsOcTBpXNw&amp;index=6)

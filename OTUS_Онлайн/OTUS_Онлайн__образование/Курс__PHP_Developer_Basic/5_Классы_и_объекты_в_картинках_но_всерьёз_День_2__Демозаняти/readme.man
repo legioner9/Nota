@@ -1,0 +1,3 @@
+# [OTUS Онлайн - образование](https://www.youtube.com/@otus_education/playlists)
+## [Курс | PHP Developer. Basic](https://www.youtube.com/playlist?list=PLfnFOImnyWRX9Jr9OtnYGKHNU0_Xs8-Ae)
+### [Классы и объекты: в картинках, но всерьёз. День 2. // Демо-занятие курса «PHP Developer  Basic»](https://www.youtube.com/watch?v=J_jMl5R35wg&amp;list=PLfnFOImnyWRX9Jr9OtnYGKHNU0_Xs8-Ae&amp;index=5)

@@ -1,0 +1,3 @@
+# [OTUS Онлайн - образование](https://www.youtube.com/@otus_education/playlists)
+## [Открытые уроки Administrator Linux. Advanced](https://www.youtube.com/playlist?list=PLfnFOImnyWRUvuowOQKr9hDLyiaMWT79M)
+### [Salt. Оркестрация конфигурациями // Демо занятие курса «Administrator Linux. Advanced»](https://www.youtube.com/watch?v=SXVYFqzvMdM&amp;list=PLfnFOImnyWRUvuowOQKr9hDLyiaMWT79M&amp;index=3)

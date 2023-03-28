@@ -1,0 +1,3 @@
+# [ITVDN](https://www.youtube.com/@ITVDN/playlists?view=1)
+## [Unit тестирование С#](https://www.youtube.com/playlist?list=PLvItDmb0sZw-dolIJ9mSNolTvW7CnQlSG)
+### [Unit тестирование в С#. Использование TestContext в unit тестах](https://www.youtube.com/watch?v=lQ79QRVofoU&amp;list=PLvItDmb0sZw-dolIJ9mSNolTvW7CnQlSG&amp;index=7)

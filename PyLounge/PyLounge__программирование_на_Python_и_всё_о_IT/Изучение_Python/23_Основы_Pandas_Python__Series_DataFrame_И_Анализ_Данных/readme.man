@@ -1,0 +1,3 @@
+# [PyLounge - программирование на Python и всё о IT](https://www.youtube.com/@pylounge/playlists)
+## [Изучение Python](https://www.youtube.com/playlist?list=PLhVGaKnJDpzhfH-5jrlyMylobwOS-I7LW)
+### [Основы Pandas Python | Series, DataFrame И Анализ Данных](https://www.youtube.com/watch?v=cEeY0opsVMw&amp;list=PLhVGaKnJDpzhfH-5jrlyMylobwOS-I7LW&amp;index=23)

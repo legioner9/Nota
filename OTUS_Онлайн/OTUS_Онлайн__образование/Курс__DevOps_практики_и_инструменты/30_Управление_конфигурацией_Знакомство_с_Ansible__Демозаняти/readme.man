@@ -1,0 +1,3 @@
+# [OTUS Онлайн - образование](https://www.youtube.com/@otus_education/playlists)
+## [Курс | DevOps практики и инструменты](https://www.youtube.com/playlist?list=PLfnFOImnyWRUOpAQLhyadp7mK2PXKj5xj)
+### [Управление конфигурацией. Знакомство с Ansible // Демо-занятие курса «DevOps практики и инструменты»](https://www.youtube.com/watch?v=KbwxU02EEmQ&amp;list=PLfnFOImnyWRUOpAQLhyadp7mK2PXKj5xj&amp;index=30)

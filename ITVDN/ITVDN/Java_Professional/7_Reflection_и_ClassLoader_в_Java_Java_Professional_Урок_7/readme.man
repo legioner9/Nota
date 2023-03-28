@@ -1,0 +1,3 @@
+# [ITVDN](https://www.youtube.com/@ITVDN/playlists?view=1)
+## [Java Professional](https://www.youtube.com/playlist?list=PLvItDmb0sZw-NCZgLKsjtMQS8CvxN13II)
+### [Reflection и ClassLoader в Java. Java Professional. Урок 7](https://www.youtube.com/watch?v=xfCt0g5EQs4&amp;list=PLvItDmb0sZw-NCZgLKsjtMQS8CvxN13II&amp;index=7)

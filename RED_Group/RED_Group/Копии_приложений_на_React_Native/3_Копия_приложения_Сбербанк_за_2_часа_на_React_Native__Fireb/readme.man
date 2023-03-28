@@ -1,0 +1,3 @@
+# [RED Group](https://www.youtube.com/@REDGroup/playlists)
+## [Копии приложений на React Native](https://www.youtube.com/playlist?list=PLXkonRjGXZwyCKmtyLoJrOj347ouqZyPU)
+### [Копия приложения Сбербанк за 2 часа на React Native + Firebase](https://www.youtube.com/watch?v=Sd5hDBVOJ00&amp;list=PLXkonRjGXZwyCKmtyLoJrOj347ouqZyPU&amp;index=3)

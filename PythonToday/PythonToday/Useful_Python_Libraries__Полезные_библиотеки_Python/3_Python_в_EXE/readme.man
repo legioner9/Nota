@@ -1,0 +1,3 @@
+# [PythonToday](https://www.youtube.com/@PythonToday/playlists)
+## [Useful Python Libraries | Полезные библиотеки Python](https://www.youtube.com/playlist?list=PLqGS6O1-DZLpe0hw7r2rHl2TiIp_2TYNB)
+### [Python в EXE](https://www.youtube.com/watch?v=j5dEJw7dazM&amp;list=PLqGS6O1-DZLpe0hw7r2rHl2TiIp_2TYNB&amp;index=3)

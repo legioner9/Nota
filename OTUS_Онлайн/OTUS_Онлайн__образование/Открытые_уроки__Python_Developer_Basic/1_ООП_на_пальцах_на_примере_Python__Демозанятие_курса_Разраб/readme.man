@@ -1,0 +1,3 @@
+# [OTUS Онлайн - образование](https://www.youtube.com/@otus_education/playlists)
+## [Открытые уроки  Python Developer. Basic](https://www.youtube.com/playlist?list=PLfnFOImnyWRXrEGaEMy4RIMEC4AHmXa_3)
+### [ООП на пальцах на примере Python // Демо-занятие курса «Разработчик Python. Базовый курс»](https://www.youtube.com/watch?v=trqbD-6U1AU&amp;list=PLfnFOImnyWRXrEGaEMy4RIMEC4AHmXa_3&amp;index=1)

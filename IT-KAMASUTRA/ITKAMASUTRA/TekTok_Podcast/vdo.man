@@ -1,0 +1,1 @@
+### [Тимур Шемсединов, асинхронный JS, однопоточный NodeJS, libuv - TekTok Podcast #1](https://www.youtube.com/watch?v=ND5HNHicACI&amp;list=PLcvhF2Wqh7DMqFejEN-iUpb3E4QZyRkpU&amp;index=1)

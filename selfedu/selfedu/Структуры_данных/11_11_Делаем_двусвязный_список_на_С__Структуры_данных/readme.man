@@ -1,0 +1,3 @@
+# [selfedu](https://www.youtube.com/@selfedu_rus/playlists?view=1)
+## [Структуры данных](https://www.youtube.com/playlist?list=PLA0M1Bcd0w8x4jEp1r_aN3xlnlbfx9RQ2)
+### [#11. Делаем двусвязный список на С++ | Структуры данных](https://www.youtube.com/watch?v=3mRfWluedHo&amp;list=PLA0M1Bcd0w8x4jEp1r_aN3xlnlbfx9RQ2&amp;index=11)

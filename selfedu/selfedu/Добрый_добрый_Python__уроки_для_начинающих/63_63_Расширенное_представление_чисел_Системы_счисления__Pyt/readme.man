@@ -1,0 +1,3 @@
+# [selfedu](https://www.youtube.com/@selfedu_rus/playlists?view=1)
+## [Добрый, добрый Python - уроки для начинающих](https://www.youtube.com/playlist?list=PLA0M1Bcd0w8yWHh2V70bTtbVxJICrnJHd)
+### [#63. Расширенное представление чисел. Системы счисления | Python для начинающих](https://www.youtube.com/watch?v=Dw5z1SPq77A&amp;list=PLA0M1Bcd0w8yWHh2V70bTtbVxJICrnJHd&amp;index=63)

@@ -1,0 +1,3 @@
+# [OTUS Онлайн - образование](https://www.youtube.com/@otus_education/playlists)
+## [Курс | Spark Developer](https://www.youtube.com/playlist?list=PLfnFOImnyWRVvauG11VO1Kuv51Kj2nznw)
+### [Demo Day курса «Экосистема Hadoop, Spark, Hive»](https://www.youtube.com/watch?v=oXIoAB0YTtY&amp;list=PLfnFOImnyWRVvauG11VO1Kuv51Kj2nznw&amp;index=9)

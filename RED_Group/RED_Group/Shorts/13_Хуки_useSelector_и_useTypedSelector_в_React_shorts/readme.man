@@ -1,0 +1,3 @@
+# [RED Group](https://www.youtube.com/@REDGroup/playlists)
+## [Shorts](https://www.youtube.com/playlist?list=PLXkonRjGXZwy5HwLU2FCnYFF3KeOilMsj)
+### [Хуки useSelector и useTypedSelector в React #shorts](https://www.youtube.com/watch?v=WZ7pHL4nXQQ&amp;list=PLXkonRjGXZwy5HwLU2FCnYFF3KeOilMsj&amp;index=13)

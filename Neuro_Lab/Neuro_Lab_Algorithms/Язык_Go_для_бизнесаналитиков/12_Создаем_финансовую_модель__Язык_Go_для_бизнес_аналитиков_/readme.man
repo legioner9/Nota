@@ -1,0 +1,3 @@
+# [Neuro Lab! Algorithms](https://www.youtube.com/@NeuroLabAlgorithms/playlists)
+## [Язык Go для бизнес-аналитиков](https://www.youtube.com/playlist?list=PLHUicSITKZEliAGBSTHnqnlY5voTqT3-5)
+### [Создаем финансовую модель | Язык Go для бизнес аналитиков. Урок #11 #go #golang #уроки](https://www.youtube.com/watch?v=tLl4F8uT3q0&amp;list=PLHUicSITKZEliAGBSTHnqnlY5voTqT3-5&amp;index=12)

@@ -1,0 +1,3 @@
+# [JavaScript.Ninja](https://www.youtube.com/@JavaScriptNinja/playlists)
+## [Интервью](https://www.youtube.com/playlist?list=PLvTBThJr861xLeco6nyQ78KlyRAyQFJxD)
+### [Евгений Кот &quot;One-to-one taxi и другие секреты&quot; - CodeFest X](https://www.youtube.com/watch?v=BMIHMMStidY&amp;list=PLvTBThJr861xLeco6nyQ78KlyRAyQFJxD&amp;index=1)

@@ -1,0 +1,5 @@
+### [01 - Todolist React JS - практика JS планировщик Todolist | Слив курса из IT-INCUBATOR.IO](https://www.youtube.com/watch?v=pzs3a-d3kjM&amp;list=PLcvhF2Wqh7DOFHUukzl5g4BP_Bbn6oM00&amp;index=1)
+### [02 - Todolist React TS - практика планировщик Todolist на React JS для начинающих](https://www.youtube.com/watch?v=an32Q6yqqfY&amp;list=PLcvhF2Wqh7DOFHUukzl5g4BP_Bbn6oM00&amp;index=2)
+### [Kafka и RabbitMQ: Битва титанов. Часть первая — Вячеслав Белецкий](https://www.youtube.com/watch?v=_4CSNrIZQxU&amp;list=PLcvhF2Wqh7DOFHUukzl5g4BP_Bbn6oM00&amp;index=3)
+### [03 - Todolist React JS - практика JS планировщик Todolist | react курсы бесплатно](https://www.youtube.com/watch?v=7CPS1d3ph-Q&amp;list=PLcvhF2Wqh7DOFHUukzl5g4BP_Bbn6oM00&amp;index=4)
+### [Лекция 9. Архитектура приложений](https://www.youtube.com/watch?v=k4jlu-_Q5js&amp;list=PLcvhF2Wqh7DOFHUukzl5g4BP_Bbn6oM00&amp;index=5)

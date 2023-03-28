@@ -1,0 +1,3 @@
+# [ITVDN](https://www.youtube.com/@ITVDN/playlists?view=1)
+## [Вебинары С# /.NET](https://www.youtube.com/playlist?list=PLvItDmb0sZw_EB7twhsa-zhzA1w_bOIFd)
+### [Сравнение алгоритмов сортировки данных](https://www.youtube.com/watch?v=Xyr1sOQ4-Ak&amp;list=PLvItDmb0sZw_EB7twhsa-zhzA1w_bOIFd&amp;index=3)

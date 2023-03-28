@@ -1,0 +1,3 @@
+# [ITVDN](https://www.youtube.com/@ITVDN/playlists?view=1)
+## [Вебинары по C++](https://www.youtube.com/playlist?list=PLvItDmb0sZw_0e6pizn_1HOIPn6PovVZ9)
+### [Разработка графических приложений на C++ с Qt и QML. Часть 3. Работа с базами данных в Qt](https://www.youtube.com/watch?v=rzlJq_njIDw&amp;list=PLvItDmb0sZw_0e6pizn_1HOIPn6PovVZ9&amp;index=3)

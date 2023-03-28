@@ -1,0 +1,3 @@
+# [Bogdan Stashchuk](https://www.youtube.com/@Bogdan_Stashchuk/playlists)
+## [Git branches and Git HEAD](https://www.youtube.com/playlist?list=PLWkguCWKqN9MBd_1HmFl_xZQlMWem0oUV)
+### [Git branches and Git HEAD: 62 Commit changes in the new branch](https://www.youtube.com/watch?v=jp2173WtiTc&amp;list=PLWkguCWKqN9MBd_1HmFl_xZQlMWem0oUV&amp;index=13)

@@ -1,0 +1,3 @@
+# [Билял Хасенов – Excel, VBA & More](https://www.youtube.com/@BilyalKhassenov/playlists?view=58)
+## [Разбор практических примеров](https://www.youtube.com/playlist?list=PLsPotgU_ELTraU9AMhpyuyjCRtDloARI-)
+### [Импорт данных множества интернет-страниц в Excel с помощью Power Query](https://www.youtube.com/watch?v=5OdosUclvAk&amp;list=PLsPotgU_ELTraU9AMhpyuyjCRtDloARI-&amp;index=5)

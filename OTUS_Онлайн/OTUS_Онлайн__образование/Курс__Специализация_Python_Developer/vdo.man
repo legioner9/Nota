@@ -1,0 +1,2 @@
+### [Знакомство с веб разработкой на Flask // Демо-занятие курса «Специализация Python Developer»](https://www.youtube.com/watch?v=PAq664WhsLs&amp;list=PLfnFOImnyWRUL2MZNVYgDJJWyDPTVXmsg&amp;index=1)
+### [Работа с сетью // Демо-занятие курса «Специализация Python Developer»](https://www.youtube.com/watch?v=BoFp7HclyPo&amp;list=PLfnFOImnyWRUL2MZNVYgDJJWyDPTVXmsg&amp;index=2)

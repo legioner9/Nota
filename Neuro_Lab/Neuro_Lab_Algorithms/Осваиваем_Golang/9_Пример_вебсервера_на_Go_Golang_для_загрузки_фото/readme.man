@@ -1,0 +1,3 @@
+# [Neuro Lab! Algorithms](https://www.youtube.com/@NeuroLabAlgorithms/playlists)
+## [Осваиваем Golang](https://www.youtube.com/playlist?list=PLHUicSITKZEmz2w3zo-aUpxCUZuqONE4c)
+### [Пример вебсервера на Go (Golang) для загрузки фото](https://www.youtube.com/watch?v=KNl7Kkj_BUk&amp;list=PLHUicSITKZEmz2w3zo-aUpxCUZuqONE4c&amp;index=9)

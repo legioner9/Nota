@@ -1,0 +1,3 @@
+# [Mikrotik Training](https://www.youtube.com/@MikrotikTraining/playlists)
+## [firewall](https://www.youtube.com/playlist?list=PLg90hRDCH9A5kf570Y_l8jIrB-9eROxXs)
+### [Основные цепочки IP Firewall Filter, используемые в MikroTik](https://www.youtube.com/watch?v=L30VtKI0t1M&amp;list=PLg90hRDCH9A5kf570Y_l8jIrB-9eROxXs&amp;index=2)

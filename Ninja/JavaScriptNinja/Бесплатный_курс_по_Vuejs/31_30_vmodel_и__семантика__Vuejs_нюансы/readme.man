@@ -1,0 +1,3 @@
+# [JavaScript.Ninja](https://www.youtube.com/@JavaScriptNinja/playlists)
+## [Бесплатный курс по Vue.js](https://www.youtube.com/playlist?list=PLvTBThJr861yMBhpKafII3HZLAYujuNWw)
+### [#30 v-model и  семантика - Vue.js: нюансы](https://www.youtube.com/watch?v=FDsEoProu8s&amp;list=PLvTBThJr861yMBhpKafII3HZLAYujuNWw&amp;index=31)

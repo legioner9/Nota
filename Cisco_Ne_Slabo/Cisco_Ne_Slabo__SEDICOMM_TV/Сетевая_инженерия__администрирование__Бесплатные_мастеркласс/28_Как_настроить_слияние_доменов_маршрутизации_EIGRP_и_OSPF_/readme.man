@@ -1,0 +1,3 @@
+# [Cisco Ne Slabo / SEDICOMM TV](https://www.youtube.com/@cisconeslabo/playlists)
+## [Сетевая инженерия / администрирование — Бесплатные мастер-классы от Академии Cisco Университет СЭДИКОММ](https://www.youtube.com/playlist?list=PLMiVLClzZDbRq2EWQ5WGdrTH_heNGF8wG)
+### [Как настроить слияние доменов маршрутизации EIGRP и OSPF с помощью редистрибуции маршрутов](https://www.youtube.com/watch?v=1o28xZAQKVg&amp;list=PLMiVLClzZDbRq2EWQ5WGdrTH_heNGF8wG&amp;index=28)

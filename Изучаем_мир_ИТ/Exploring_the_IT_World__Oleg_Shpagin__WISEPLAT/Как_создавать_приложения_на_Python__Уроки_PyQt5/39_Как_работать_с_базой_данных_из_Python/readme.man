@@ -1,0 +1,3 @@
+# [Exploring the IT World / Oleg Shpagin / WISEPLAT](https://www.youtube.com/@wiseplat/playlists)
+## [Как создавать приложения на Python / Уроки PyQt5](https://www.youtube.com/playlist?list=PLxiU3nwEQ4PFYw-kaE5kAT17AtxhvLM71)
+### [Как работать с базой данных из Python](https://www.youtube.com/watch?v=4qVC2hjpbTI&amp;list=PLxiU3nwEQ4PFYw-kaE5kAT17AtxhvLM71&amp;index=39)

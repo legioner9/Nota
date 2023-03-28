@@ -1,0 +1,3 @@
+# [Ulbi TV](https://www.youtube.com/@UlbiTV/playlists)
+## [Наглядная теория](https://www.youtube.com/playlist?list=PL6DxKON1uLOEPJFENF2fZ8LbQcgl9dUk0)
+### [1. Redux и React. Все о Redux. Понятная теория для всех. React + redux.](https://www.youtube.com/watch?v=5Qtqzeh5FeM&amp;list=PL6DxKON1uLOEPJFENF2fZ8LbQcgl9dUk0&amp;index=2)

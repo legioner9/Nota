@@ -1,0 +1,3 @@
+### [Ответы на вопросы 1: Аннотация Override](https://www.youtube.com/watch?v=iaAvvhlDJqA&amp;list=PLAma_mKffTOS1nDj_NSw3nZWrlxkytrzO&amp;index=1)
+### [Ответы на вопросы 2: Генерация случайных чисел. Класс Random](https://www.youtube.com/watch?v=LVRvDVBiwUs&amp;list=PLAma_mKffTOS1nDj_NSw3nZWrlxkytrzO&amp;index=2)
+### [Ответы на вопросы 3: Замер времени исполнения программы.](https://www.youtube.com/watch?v=5f6fsLMaSvI&amp;list=PLAma_mKffTOS1nDj_NSw3nZWrlxkytrzO&amp;index=3)

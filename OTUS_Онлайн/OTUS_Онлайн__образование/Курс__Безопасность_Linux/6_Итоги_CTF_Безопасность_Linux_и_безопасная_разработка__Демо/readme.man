@@ -1,0 +1,3 @@
+# [OTUS Онлайн - образование](https://www.youtube.com/@otus_education/playlists)
+## [Курс | Безопасность Linux](https://www.youtube.com/playlist?list=PLfnFOImnyWRXQKVAWCfGZwZN_UX3eP-2X)
+### [Итоги CTF: Безопасность Linux и безопасная разработка // Демо-занятие курса «CTF по ИБ»](https://www.youtube.com/watch?v=5tt8xsAhYBI&amp;list=PLfnFOImnyWRXQKVAWCfGZwZN_UX3eP-2X&amp;index=6)

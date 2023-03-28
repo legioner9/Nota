@@ -1,0 +1,6 @@
+### [1. Анимации в React - Постановка проблемы - React Transition Group](https://www.youtube.com/watch?v=7MMRcMutqpI&amp;list=PL6DxKON1uLOH0vVpdrZhUAVpHerNbUxfF&amp;index=1)
+### [2. Анимации в React - Transition - React Transition Group](https://www.youtube.com/watch?v=o-TvR6srMrA&amp;list=PL6DxKON1uLOH0vVpdrZhUAVpHerNbUxfF&amp;index=2)
+### [3. Анимации в React - CSSTransition - React Transition Group](https://www.youtube.com/watch?v=3oSK5G5_drY&amp;list=PL6DxKON1uLOH0vVpdrZhUAVpHerNbUxfF&amp;index=3)
+### [4. Анимации в React - SwitchTransition - React Transition Group](https://www.youtube.com/watch?v=X7bNn3tH8hY&amp;list=PL6DxKON1uLOH0vVpdrZhUAVpHerNbUxfF&amp;index=4)
+### [5. Анимации в React - Анимация списков\групп - React Transition Group](https://www.youtube.com/watch?v=LubZGG4avTw&amp;list=PL6DxKON1uLOH0vVpdrZhUAVpHerNbUxfF&amp;index=5)
+### [6. Анимации в React - Анимация смены страниц - React Transition Group](https://www.youtube.com/watch?v=a-AHRgL-Yl4&amp;list=PL6DxKON1uLOH0vVpdrZhUAVpHerNbUxfF&amp;index=6)

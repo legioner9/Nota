@@ -1,0 +1,3 @@
+# [ITVDN](https://www.youtube.com/@ITVDN/playlists?view=1)
+## [MySQL](https://www.youtube.com/playlist?list=PLvItDmb0sZw9-yTHNWpfXDyPPg8aXYb-B)
+### [Транзакции. Триггеры. Курс MySQL Базовый. Урок 8](https://www.youtube.com/watch?v=0YPh_pLo5Ks&amp;list=PLvItDmb0sZw9-yTHNWpfXDyPPg8aXYb-B&amp;index=8)

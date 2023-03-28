@@ -1,0 +1,3 @@
+# [ITVDN](https://www.youtube.com/@ITVDN/playlists?view=1)
+## [Вебинары по Java](https://www.youtube.com/playlist?list=PLvItDmb0sZw_Kj4_z2OJJCQM3q-G7T0Ax)
+### [Шаблоны проектирования в Java](https://www.youtube.com/watch?v=7nuFHUTQ4g8&amp;list=PLvItDmb0sZw_Kj4_z2OJJCQM3q-G7T0Ax&amp;index=5)

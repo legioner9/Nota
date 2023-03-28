@@ -1,0 +1,3 @@
+# [Школа itProger / Программирование](https://www.youtube.com/@itproger/playlists?view=1)
+## [Уроки C# для начинающих / Программирование на C#](https://www.youtube.com/playlist?list=PLDyJYA6aTY1laYPs6iS-SrYl9DZLVCUKr)
+### [Изучение C# для начинающих / Урок #13 – Создание классов. Введение в C# ООП](https://www.youtube.com/watch?v=hzi4xWFFnBU&amp;list=PLDyJYA6aTY1laYPs6iS-SrYl9DZLVCUKr&amp;index=13)

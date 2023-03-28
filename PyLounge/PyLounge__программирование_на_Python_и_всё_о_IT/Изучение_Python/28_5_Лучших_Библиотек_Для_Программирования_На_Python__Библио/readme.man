@@ -1,0 +1,3 @@
+# [PyLounge - программирование на Python и всё о IT](https://www.youtube.com/@pylounge/playlists)
+## [Изучение Python](https://www.youtube.com/playlist?list=PLhVGaKnJDpzhfH-5jrlyMylobwOS-I7LW)
+### [5 Лучших Библиотек Для Программирования На Python | Библиотеки Которые Должен Знать Каждый](https://www.youtube.com/watch?v=NnK9NSdSZBQ&amp;list=PLhVGaKnJDpzhfH-5jrlyMylobwOS-I7LW&amp;index=28)

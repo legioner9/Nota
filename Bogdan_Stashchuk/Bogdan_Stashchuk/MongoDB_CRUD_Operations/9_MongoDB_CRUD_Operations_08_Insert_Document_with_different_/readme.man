@@ -1,0 +1,3 @@
+# [Bogdan Stashchuk](https://www.youtube.com/@Bogdan_Stashchuk/playlists)
+## [MongoDB CRUD Operations](https://www.youtube.com/playlist?list=PLWkguCWKqN9PbQhhsrewFd3TPuo3kLPQ1)
+### [MongoDB CRUD Operations: 08 Insert Document with different Value Types](https://www.youtube.com/watch?v=2Frbh08aStc&amp;list=PLWkguCWKqN9PbQhhsrewFd3TPuo3kLPQ1&amp;index=9)

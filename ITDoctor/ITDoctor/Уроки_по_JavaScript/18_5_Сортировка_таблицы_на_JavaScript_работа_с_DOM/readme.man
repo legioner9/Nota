@@ -1,0 +1,3 @@
+# [ITDoctor](https://www.youtube.com/@ITDoctor/playlists?view=1&sort=dd&shelf_id=0)
+## [Уроки по JavaScript](https://www.youtube.com/playlist?list=PLuY6eeDuleINoCQtGZsMoVVCSgEH7gKQ5)
+### [#5 Сортировка таблицы на JavaScript, работа с DOM](https://www.youtube.com/watch?v=XkYW8VPgbAg&amp;list=PLuY6eeDuleINoCQtGZsMoVVCSgEH7gKQ5&amp;index=18)

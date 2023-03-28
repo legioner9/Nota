@@ -1,0 +1,3 @@
+# [RomNero](https://www.youtube.com/@RomNero/playlists)
+## [Server. Linux. Системы и решения.](https://www.youtube.com/playlist?list=PLqVeG_R3qMSysWrn9lqcyxP50INzqAnbN)
+### [02-Подготовка сервера. Docker, docker-compose. Nginx Proxy Manager](https://www.youtube.com/watch?v=fJ2i0IWQdLA&amp;list=PLqVeG_R3qMSysWrn9lqcyxP50INzqAnbN&amp;index=9)

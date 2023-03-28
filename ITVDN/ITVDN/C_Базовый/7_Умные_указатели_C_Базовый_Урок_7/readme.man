@@ -1,0 +1,3 @@
+# [ITVDN](https://www.youtube.com/@ITVDN/playlists?view=1)
+## [C++ Базовый](https://www.youtube.com/playlist?list=PLvItDmb0sZw8Y2mvBjw0BsBcqTOO_dObi)
+### [Умные указатели. C++ Базовый. Урок 7](https://www.youtube.com/watch?v=I3T4kMBajeI&amp;list=PLvItDmb0sZw8Y2mvBjw0BsBcqTOO_dObi&amp;index=7)

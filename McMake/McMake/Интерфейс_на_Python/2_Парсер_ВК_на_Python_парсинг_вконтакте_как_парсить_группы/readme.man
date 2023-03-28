@@ -1,0 +1,3 @@
+# [McMake](https://www.youtube.com/@mc_make/playlists)
+## [Интерфейс на Python](https://www.youtube.com/playlist?list=PLc3mLrv1phSliQWWTrKsJa7u5l5fQvB05)
+### [Парсер ВК на Python: (парсинг вконтакте) как парсить группы?](https://www.youtube.com/watch?v=AL9Hcq15R5s&amp;list=PLc3mLrv1phSliQWWTrKsJa7u5l5fQvB05&amp;index=2)

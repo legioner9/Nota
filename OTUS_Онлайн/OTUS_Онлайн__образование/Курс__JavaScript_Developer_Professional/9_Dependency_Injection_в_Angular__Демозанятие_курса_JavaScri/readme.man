@@ -1,0 +1,3 @@
+# [OTUS Онлайн - образование](https://www.youtube.com/@otus_education/playlists)
+## [Курс | JavaScript Developer Professional](https://www.youtube.com/playlist?list=PLfnFOImnyWRW3v27N4WF0U6sb7_-sIXqi)
+### [Dependency Injection в Angular // Демо-занятие курса «JavaScript Developer. Professional»](https://www.youtube.com/watch?v=sNGhaLIm2ho&amp;list=PLfnFOImnyWRW3v27N4WF0U6sb7_-sIXqi&amp;index=9)

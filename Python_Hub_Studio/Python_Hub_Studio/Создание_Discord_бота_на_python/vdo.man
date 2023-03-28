@@ -1,0 +1,5 @@
+### [Discord bot with python [1] Creating a discord bot from scratch](https://www.youtube.com/watch?v=ZRrM2DdApNE&amp;list=PLNi5HdK6QEmXGFIEAEwKy2iSlHJn46Q3h&amp;index=1)
+### [Discord bot with python [2] commands for Chatbot](https://www.youtube.com/watch?v=-EjSt6kvl3Q&amp;list=PLNi5HdK6QEmXGFIEAEwKy2iSlHJn46Q3h&amp;index=2)
+### [Discord bot with python [3] filtering and parsing messages, event on message](https://www.youtube.com/watch?v=Yit9VVsM9D8&amp;list=PLNi5HdK6QEmXGFIEAEwKy2iSlHJn46Q3h&amp;index=3)
+### [Discord bot with python [4] member join and remove from server event](https://www.youtube.com/watch?v=SwuI51patOo&amp;list=PLNi5HdK6QEmXGFIEAEwKy2iSlHJn46Q3h&amp;index=4)
+### [Discord bot with python [5] sqlite database for discord bot with python](https://www.youtube.com/watch?v=SKpA65PQ5sg&amp;list=PLNi5HdK6QEmXGFIEAEwKy2iSlHJn46Q3h&amp;index=5)

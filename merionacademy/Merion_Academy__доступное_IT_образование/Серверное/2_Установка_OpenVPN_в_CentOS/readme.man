@@ -1,0 +1,3 @@
+# [Merion Academy - доступное IT образование](https://www.youtube.com/@merionacademy/playlists)
+## [Серверное](https://www.youtube.com/playlist?list=PLVULwBUtsriMKpIuEiTtN-nCTlMkyQZTu)
+### [Установка OpenVPN в CentOS](https://www.youtube.com/watch?v=R2pCC29AtiI&amp;list=PLVULwBUtsriMKpIuEiTtN-nCTlMkyQZTu&amp;index=2)

@@ -1,0 +1,3 @@
+# [Академия IT DMS](https://www.youtube.com/@AcademyITDMS/playlists)
+## [Курс по Linux](https://www.youtube.com/playlist?list=PLvGOckMhKg742jjuomB1DzrVhPlEFfTyv)
+### [Курс по Linux. Работа с дисками. Файловая система. LVM. RAID (новинка 2023)](https://www.youtube.com/watch?v=2BwNV9IzQms&amp;list=PLvGOckMhKg742jjuomB1DzrVhPlEFfTyv&amp;index=2)

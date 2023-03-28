@@ -1,0 +1,3 @@
+# [ITVDN](https://www.youtube.com/@ITVDN/playlists?view=1)
+## [Видеокурс по JavaScript Шаблонам](https://www.youtube.com/playlist?list=PLvItDmb0sZw9GTaAsuPGRydAUG61MnCsy)
+### [JavaScript Шаблоны. Урок 2. Функции.](https://www.youtube.com/watch?v=gma6YhFjoK4&amp;list=PLvItDmb0sZw9GTaAsuPGRydAUG61MnCsy&amp;index=3)

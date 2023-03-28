@@ -1,0 +1,7 @@
+### [Изучение PyQt 5 (Python GUI) / Урок #1 – Создание графического интерфейса на Питон](https://www.youtube.com/watch?v=HuszbTeETYo&amp;list=PL0lO_mIqDDFXeDkOLHmEsL_HAEhw4-xDX&amp;index=1)
+### [Изучение PyQT (Python GUI) / Урок #2 – Библиотека PyQT5. Надписи и кнопки](https://www.youtube.com/watch?v=LtgsjK2VnJg&amp;list=PL0lO_mIqDDFXeDkOLHmEsL_HAEhw4-xDX&amp;index=2)
+### [Изучение PyQT (Python GUI) / Урок #3 – Разработка внутри Qt Designer](https://www.youtube.com/watch?v=CnMfhhx0GBI&amp;list=PL0lO_mIqDDFXeDkOLHmEsL_HAEhw4-xDX&amp;index=3)
+### [Изучение PyQT (Python GUI) / Урок #4 – Всплывающие окна (QMessageBox)](https://www.youtube.com/watch?v=Lfp6SUo3dKY&amp;list=PL0lO_mIqDDFXeDkOLHmEsL_HAEhw4-xDX&amp;index=4)
+### [Изучение PyQT (Python GUI) / Урок #5 – Виджеты, изображения и меню](https://www.youtube.com/watch?v=JRJHSrCJ5U0&amp;list=PL0lO_mIqDDFXeDkOLHmEsL_HAEhw4-xDX&amp;index=5)
+### [Изучение PyQT (Python GUI) / Урок #6 – Создание простого текстового редактора](https://www.youtube.com/watch?v=eipstdomHQE&amp;list=PL0lO_mIqDDFXeDkOLHmEsL_HAEhw4-xDX&amp;index=6)
+### [Профессия Python разработчик | Презентация онлайн курса](https://www.youtube.com/watch?v=2XSrueycChI&amp;list=PL0lO_mIqDDFXeDkOLHmEsL_HAEhw4-xDX&amp;index=7)

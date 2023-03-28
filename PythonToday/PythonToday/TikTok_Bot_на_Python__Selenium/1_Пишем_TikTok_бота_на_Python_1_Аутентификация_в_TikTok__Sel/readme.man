@@ -1,0 +1,3 @@
+# [PythonToday](https://www.youtube.com/@PythonToday/playlists)
+## [TikTok Bot на Python + Selenium](https://www.youtube.com/playlist?list=PLqGS6O1-DZLqUCC_Hd7YHWJUcgt3_U5Sv)
+### [Пишем TikTok бота на Python #1 Аутентификация в TikTok | Selenium всплывающие окна, iframe](https://www.youtube.com/watch?v=b4BvpQpKJQo&amp;list=PLqGS6O1-DZLqUCC_Hd7YHWJUcgt3_U5Sv&amp;index=1)

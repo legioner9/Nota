@@ -1,0 +1,3 @@
+# [Билял Хасенов – Excel, VBA & More](https://www.youtube.com/@BilyalKhassenov/playlists?view=58)
+## [Минута Excel - Короткие видео](https://www.youtube.com/playlist?list=PLsPotgU_ELTq4xpSPcPYJFJHDp5hY0bBs)
+### [Как в Excel суммировать профильтрованные таблицы – Функция ПРОМЕЖУТОЧНЫЕ.ИТОГИ](https://www.youtube.com/watch?v=VySvSJuHh18&amp;list=PLsPotgU_ELTq4xpSPcPYJFJHDp5hY0bBs&amp;index=5)

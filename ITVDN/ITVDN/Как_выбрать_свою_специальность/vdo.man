@@ -1,0 +1,3 @@
+### [Что нужно, чтобы стать .Net разработчиком](https://www.youtube.com/watch?v=gPR6lDO9_vM&amp;list=PLvItDmb0sZw9PgxM-O4wlmAXQcymaIPnj&amp;index=1)
+### [Как стать frontend разработчиком](https://www.youtube.com/watch?v=2dc2S89CJ7I&amp;list=PLvItDmb0sZw9PgxM-O4wlmAXQcymaIPnj&amp;index=2)
+### [Что нужно знать, чтобы стать ASP.NET MVC разработчиком?](https://www.youtube.com/watch?v=UveXyO3lMOo&amp;list=PLvItDmb0sZw9PgxM-O4wlmAXQcymaIPnj&amp;index=3)

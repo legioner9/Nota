@@ -1,0 +1,7 @@
+### [Создание SPA на Angular 6. Создание модуля и базового компонента. Настройка окружения. Урок 1](https://www.youtube.com/watch?v=jcJxaoc9mF8&amp;list=PLvItDmb0sZw_KaaeA1t9ix8FmJZFPHZbl&amp;index=1)
+### [Создание SPA на Angular 6. Создание конфигурационных сервисов и директив. Урок 2.](https://www.youtube.com/watch?v=Nz4nQ4bSA7I&amp;list=PLvItDmb0sZw_KaaeA1t9ix8FmJZFPHZbl&amp;index=2)
+### [Создание SPA на Angular 6. Построение меню и навигации. Урок 3](https://www.youtube.com/watch?v=mn4uTCoggbA&amp;list=PLvItDmb0sZw_KaaeA1t9ix8FmJZFPHZbl&amp;index=3)
+### [Создание SPA на Angular 6. Построение меню и навигации. Часть 2. Урок 4](https://www.youtube.com/watch?v=xXKXyZEloNg&amp;list=PLvItDmb0sZw_KaaeA1t9ix8FmJZFPHZbl&amp;index=4)
+### [Создание SPA на Angular 6. Создание меню авторизации и регистрации пользователей. Урок 5](https://www.youtube.com/watch?v=3jhRPkWmc6w&amp;list=PLvItDmb0sZw_KaaeA1t9ix8FmJZFPHZbl&amp;index=5)
+### [Создание SPA на Angular 6. Применение CRUD-операций. Урок 6](https://www.youtube.com/watch?v=uCK_ivOY79M&amp;list=PLvItDmb0sZw_KaaeA1t9ix8FmJZFPHZbl&amp;index=6)
+### [Создание SPA на Angular 6. Добавление маршрутов, настройка Http-запросов. Урок 7](https://www.youtube.com/watch?v=3ru5Vx405zQ&amp;list=PLvItDmb0sZw_KaaeA1t9ix8FmJZFPHZbl&amp;index=7)

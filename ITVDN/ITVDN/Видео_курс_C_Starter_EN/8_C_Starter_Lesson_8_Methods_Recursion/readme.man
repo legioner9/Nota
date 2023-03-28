@@ -1,0 +1,3 @@
+# [ITVDN](https://www.youtube.com/@ITVDN/playlists?view=1)
+## [Видео курс C# Starter (EN)](https://www.youtube.com/playlist?list=PLvItDmb0sZw9Hbt6Cy_07EPFtRUr1QaXS)
+### [C# Starter. Lesson 8. Methods (Recursion)](https://www.youtube.com/watch?v=q6_Ug4J0e7A&amp;list=PLvItDmb0sZw9Hbt6Cy_07EPFtRUr1QaXS&amp;index=8)

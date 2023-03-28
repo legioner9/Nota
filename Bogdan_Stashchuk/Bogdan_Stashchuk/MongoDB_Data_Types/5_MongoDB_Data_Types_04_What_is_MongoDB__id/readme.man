@@ -1,0 +1,3 @@
+# [Bogdan Stashchuk](https://www.youtube.com/@Bogdan_Stashchuk/playlists)
+## [MongoDB Data Types](https://www.youtube.com/playlist?list=PLWkguCWKqN9NidaQVthx2w1xvwNG4cVTa)
+### [MongoDB Data Types: 04 What is MongoDB _id?](https://www.youtube.com/watch?v=NwGeF8snNg8&amp;list=PLWkguCWKqN9NidaQVthx2w1xvwNG4cVTa&amp;index=5)

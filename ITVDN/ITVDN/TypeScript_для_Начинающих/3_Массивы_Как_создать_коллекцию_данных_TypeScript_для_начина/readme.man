@@ -1,0 +1,3 @@
+# [ITVDN](https://www.youtube.com/@ITVDN/playlists?view=1)
+## [TypeScript для Начинающих](https://www.youtube.com/playlist?list=PLvItDmb0sZw9ByEtLc0XIK8DBradcqp6g)
+### [Массивы. Как создать коллекцию данных? TypeScript для начинающих. Урок 3](https://www.youtube.com/watch?v=ghi3Q22m44w&amp;list=PLvItDmb0sZw9ByEtLc0XIK8DBradcqp6g&amp;index=3)

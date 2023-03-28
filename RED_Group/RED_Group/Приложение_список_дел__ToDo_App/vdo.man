@@ -1,0 +1,4 @@
+### [Пишем простое мобильное ToDo приложение на React Native // Мобильное приложение на JavaScript](https://www.youtube.com/watch?v=r0C5xzgNuEU&amp;list=PLXkonRjGXZwxK-SvW8c7KwdY9Uhh7FFXU&amp;index=1)
+### [Разработал ToDo приложение на React // Список задач на Реакт // React с нуля до профи](https://www.youtube.com/watch?v=a1KmoKMqZW4&amp;list=PLXkonRjGXZwxK-SvW8c7KwdY9Uhh7FFXU&amp;index=2)
+### [Пишем мобильное ToDo приложение на React Native // Мобильное приложение на JavaScript // База данных](https://www.youtube.com/watch?v=zHx6mi3YqqM&amp;list=PLXkonRjGXZwxK-SvW8c7KwdY9Uhh7FFXU&amp;index=3)
+### [Авторизация на React Native // Todo приложение](https://www.youtube.com/watch?v=X4x7vXvwcs4&amp;list=PLXkonRjGXZwxK-SvW8c7KwdY9Uhh7FFXU&amp;index=4)

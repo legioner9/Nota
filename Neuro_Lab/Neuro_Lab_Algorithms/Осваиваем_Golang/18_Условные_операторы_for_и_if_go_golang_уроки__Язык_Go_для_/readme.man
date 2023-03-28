@@ -1,0 +1,3 @@
+# [Neuro Lab! Algorithms](https://www.youtube.com/@NeuroLabAlgorithms/playlists)
+## [Осваиваем Golang](https://www.youtube.com/playlist?list=PLHUicSITKZEmz2w3zo-aUpxCUZuqONE4c)
+### [Условные операторы for и if #go #golang #уроки | Язык Go для бизнес-аналитиков. Урок #2](https://www.youtube.com/watch?v=QPcrh_MqWRU&amp;list=PLHUicSITKZEmz2w3zo-aUpxCUZuqONE4c&amp;index=18)

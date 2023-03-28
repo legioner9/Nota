@@ -1,0 +1,3 @@
+# [ITVDN](https://www.youtube.com/@ITVDN/playlists?view=1)
+## [Видеокурс по AngularJS Essential](https://www.youtube.com/playlist?list=PLvItDmb0sZw-9LXhYO9Ts8mToESWCr4e4)
+### [AngularJS Essential. Урок 6. Создание пользовательских директив](https://www.youtube.com/watch?v=2p433-MSg10&amp;list=PLvItDmb0sZw-9LXhYO9Ts8mToESWCr4e4&amp;index=7)

@@ -1,0 +1,3 @@
+# [selfedu](https://www.youtube.com/@selfedu_rus/playlists?view=1)
+## [Уроки по Java с нуля](https://www.youtube.com/playlist?list=PLA0M1Bcd0w8ylU5QOQvRhS7TaaWCgnys3)
+### [#27 Ограничения типов, метасимвольные аргументы, обобщенные методы и конструкторы | Java для тебя](https://www.youtube.com/watch?v=PmWf6JPA8Vs&amp;list=PLA0M1Bcd0w8ylU5QOQvRhS7TaaWCgnys3&amp;index=28)

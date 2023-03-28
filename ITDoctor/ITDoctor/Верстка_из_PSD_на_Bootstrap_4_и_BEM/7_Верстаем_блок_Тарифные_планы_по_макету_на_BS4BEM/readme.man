@@ -1,0 +1,3 @@
+# [ITDoctor](https://www.youtube.com/@ITDoctor/playlists?view=1&sort=dd&shelf_id=0)
+## [Верстка из PSD на Bootstrap 4 и BEM](https://www.youtube.com/playlist?list=PLuY6eeDuleIMbdiCzaZuPjxXE24eAG5qo)
+### [Верстаем блок Тарифные планы по макету на BS4+BEM](https://www.youtube.com/watch?v=2khHKa8ETSQ&amp;list=PLuY6eeDuleIMbdiCzaZuPjxXE24eAG5qo&amp;index=7)

@@ -1,0 +1,3 @@
+# [ZProger [ IT ]](https://www.youtube.com/@zproger/playlists)
+## [Парсинг Selenium Python [Курс]](https://www.youtube.com/playlist?list=PL6plRXMq5RABXsb0-B0CrWniWBoFZOL20)
+### [Selenium Python - # 2 Working with objects on the page, filling out forms](https://www.youtube.com/watch?v=RfiMUeq4zLk&amp;list=PL6plRXMq5RABXsb0-B0CrWniWBoFZOL20&amp;index=3)

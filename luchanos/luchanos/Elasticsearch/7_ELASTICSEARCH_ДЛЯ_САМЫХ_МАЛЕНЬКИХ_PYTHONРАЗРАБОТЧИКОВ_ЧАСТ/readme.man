@@ -1,0 +1,3 @@
+# [luchanos](https://www.youtube.com/@luchanos/playlists?view=1&sort=dd&shelf_id=0)
+## [Elasticsearch](https://www.youtube.com/playlist?list=PLlKID9PnOE5jzJmRYfY0Rs1axrlH4-Qe_)
+### [ELASTICSEARCH ДЛЯ САМЫХ МАЛЕНЬКИХ PYTHON-РАЗРАБОТЧИКОВ. ЧАСТЬ 6. ОБРАТНЫЙ ИНДЕКС И ПОНЯТИЕ МАППИНГА](https://www.youtube.com/watch?v=1C8XF8L-67M&amp;list=PLlKID9PnOE5jzJmRYfY0Rs1axrlH4-Qe_&amp;index=7)

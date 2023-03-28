@@ -1,0 +1,3 @@
+# [OTUS Онлайн - образование](https://www.youtube.com/@otus_education/playlists)
+## [Курс | Python QA Engineer](https://www.youtube.com/playlist?list=PLfnFOImnyWRUYcdw9q_3ZfRB5yxBijQiQ)
+### [Планирование и реализация автоматизированного тестирования. День 1 //  Курс «Python QA Engineer»](https://www.youtube.com/watch?v=dxlIIAwkgCc&amp;list=PLfnFOImnyWRUYcdw9q_3ZfRB5yxBijQiQ&amp;index=18)

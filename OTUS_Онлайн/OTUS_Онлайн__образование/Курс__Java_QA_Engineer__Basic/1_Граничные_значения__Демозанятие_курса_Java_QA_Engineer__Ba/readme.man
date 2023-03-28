@@ -1,0 +1,3 @@
+# [OTUS Онлайн - образование](https://www.youtube.com/@otus_education/playlists)
+## [Курс | Java QA Engineer  Basic](https://www.youtube.com/playlist?list=PLfnFOImnyWRUxCH00szueSxpWhc8n27EN)
+### [Граничные значения // Демо-занятие курса «Java QA Engineer  Basic»](https://www.youtube.com/watch?v=gPj5NzqKyfw&amp;list=PLfnFOImnyWRUxCH00szueSxpWhc8n27EN&amp;index=1)

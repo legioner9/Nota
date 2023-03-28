@@ -1,0 +1,4 @@
+### [C# Professional Express. Урок1. Пользовательские коллекции в C#](https://www.youtube.com/watch?v=p9gbUzNkv8A&amp;list=PLvItDmb0sZw-RTkcxjVsNZyc_O37Qz_SD&amp;index=1)
+### [C# Professional Express. Урок 2. Системные коллекции в C#](https://www.youtube.com/watch?v=5GqeU5ZIN5g&amp;list=PLvItDmb0sZw-RTkcxjVsNZyc_O37Qz_SD&amp;index=2)
+### [C# Professional Express. Урок 3. Программирование ввода-вывода в C#](https://www.youtube.com/watch?v=T1CXi4zNCBg&amp;list=PLvItDmb0sZw-RTkcxjVsNZyc_O37Qz_SD&amp;index=3)
+### [C# Professional Express. Урок 4. Работа с текстом в C#](https://www.youtube.com/watch?v=77B-nCizvxI&amp;list=PLvItDmb0sZw-RTkcxjVsNZyc_O37Qz_SD&amp;index=4)

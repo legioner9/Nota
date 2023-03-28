@@ -1,0 +1,3 @@
+# [Гоша Дударь](https://www.youtube.com/@gosha_dudar/playlists?view=1)
+## [Изучение Xamarin Forms C# для начинающих / Уроки с нуля](https://www.youtube.com/playlist?list=PL0lO_mIqDDFVQIun69pf7B50ICSXpu1Cw)
+### [Xamarin Forms C# / Урок #5 – Контейнеры для элементов](https://www.youtube.com/watch?v=tobtt-4lu8U&amp;list=PL0lO_mIqDDFVQIun69pf7B50ICSXpu1Cw&amp;index=5)

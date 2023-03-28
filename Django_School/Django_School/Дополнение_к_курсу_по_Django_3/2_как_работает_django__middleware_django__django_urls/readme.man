@@ -1,0 +1,3 @@
+# [Django School](https://www.youtube.com/@DjangoSchool/playlists?view=1)
+## [Дополнение к курсу по Django 3](https://www.youtube.com/playlist?list=PLF-NY6ldwAWrQz1aZB-gxR5WnP40RIJSj)
+### [как работает django | middleware django | django urls](https://www.youtube.com/watch?v=bc_d7AbgQ10&amp;list=PLF-NY6ldwAWrQz1aZB-gxR5WnP40RIJSj&amp;index=2)

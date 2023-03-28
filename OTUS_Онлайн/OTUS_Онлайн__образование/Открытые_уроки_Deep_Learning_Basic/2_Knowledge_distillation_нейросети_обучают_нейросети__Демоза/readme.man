@@ -1,0 +1,3 @@
+# [OTUS Онлайн - образование](https://www.youtube.com/@otus_education/playlists)
+## [Открытые уроки Deep Learning. Basic](https://www.youtube.com/playlist?list=PLfnFOImnyWRVn5ALzqnBMsMhBYxsKxksa)
+### [Knowledge distillation: нейросети обучают нейросети // Демо-занятие курса «Deep Learning  Basic»](https://www.youtube.com/watch?v=GtFhOOiK5Ec&amp;list=PLfnFOImnyWRVn5ALzqnBMsMhBYxsKxksa&amp;index=2)

@@ -1,0 +1,3 @@
+# [Django School](https://www.youtube.com/@DjangoSchool/playlists?view=1)
+## [Ответы на вопросы django \ python](https://www.youtube.com/playlist?list=PLF-NY6ldwAWrRWkij4T4Fr63MouSz8VqV)
+### [Нужен ли английский программисту? Где и как учить?](https://www.youtube.com/watch?v=R6kBYa2vX2k&amp;list=PLF-NY6ldwAWrRWkij4T4Fr63MouSz8VqV&amp;index=6)

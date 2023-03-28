@@ -1,0 +1,3 @@
+# [IT-KAMASUTRA](https://www.youtube.com/@ITKAMASUTRA/playlists?view=1)
+## [Todolist - React, TypeScript](https://www.youtube.com/playlist?list=PLcvhF2Wqh7DMM8zDacOPhWfVitvOa_Fhu)
+### [12 - storybook, decorator, snapshot testing (Todolist for student)](https://www.youtube.com/watch?v=CaJoHnnFuis&amp;list=PLcvhF2Wqh7DMM8zDacOPhWfVitvOa_Fhu&amp;index=1)

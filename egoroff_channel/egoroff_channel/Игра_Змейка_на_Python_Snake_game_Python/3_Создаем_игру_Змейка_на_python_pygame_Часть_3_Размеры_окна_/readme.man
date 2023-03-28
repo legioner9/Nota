@@ -1,0 +1,3 @@
+# [egoroff_channel](https://www.youtube.com/@egoroffchannel/playlists)
+## [Игра "Змейка" на Python. Snake game Python](https://www.youtube.com/playlist?list=PLQAt0m1f9OHun6Q9uZPNryl5gXm1ng_kd)
+### [Создаем игру Змейка на python pygame Часть 3 Размеры окна Snake game Python](https://www.youtube.com/watch?v=Hap4iAEcMzs&amp;list=PLQAt0m1f9OHun6Q9uZPNryl5gXm1ng_kd&amp;index=3)

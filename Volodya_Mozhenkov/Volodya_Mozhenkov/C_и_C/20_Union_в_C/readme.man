@@ -1,0 +1,3 @@
+# [Volodya Mozhenkov](https://www.youtube.com/@VladimirMozhenkov/playlists?view=1)
+## [C++ и C](https://www.youtube.com/playlist?list=PLY7PmJJFH5nQKVoJja5vgJKYzThNa-fr2)
+### [Union в C++](https://www.youtube.com/watch?v=kGNW-uv837c&amp;list=PLY7PmJJFH5nQKVoJja5vgJKYzThNa-fr2&amp;index=20)

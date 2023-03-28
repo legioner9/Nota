@@ -1,0 +1,3 @@
+# [Exploring the IT World / Oleg Shpagin / WISEPLAT](https://www.youtube.com/@wiseplat/playlists)
+## [Нейросети на Python](https://www.youtube.com/playlist?list=PLxiU3nwEQ4PFFbQhddlom7ZgivN9OmFTc)
+### [MySql + Pandas Dataframe = Love Data for NN #3](https://www.youtube.com/watch?v=7pEHhRChFsw&amp;list=PLxiU3nwEQ4PFFbQhddlom7ZgivN9OmFTc&amp;index=3)

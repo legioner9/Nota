@@ -1,0 +1,3 @@
+# [ITVDN](https://www.youtube.com/@ITVDN/playlists?view=1)
+## [Видеокурс по AngularJS Essential](https://www.youtube.com/playlist?list=PLvItDmb0sZw-9LXhYO9Ts8mToESWCr4e4)
+### [AngularJS Essential. Урок 7. Работа с модулями и сервисами](https://www.youtube.com/watch?v=M1gmud86FvU&amp;list=PLvItDmb0sZw-9LXhYO9Ts8mToESWCr4e4&amp;index=8)

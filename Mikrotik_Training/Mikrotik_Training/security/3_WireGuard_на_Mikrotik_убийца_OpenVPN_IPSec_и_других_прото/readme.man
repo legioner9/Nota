@@ -1,0 +1,3 @@
+# [Mikrotik Training](https://www.youtube.com/@MikrotikTraining/playlists)
+## [security](https://www.youtube.com/playlist?list=PLg90hRDCH9A7chPm1P-12ezpQf5NMCC3C)
+### [WireGuard на Mikrotik убийца OpenVPN, IPSec и других протоколов. Или нет?](https://www.youtube.com/watch?v=ONsaoGf_PSg&amp;list=PLg90hRDCH9A7chPm1P-12ezpQf5NMCC3C&amp;index=3)

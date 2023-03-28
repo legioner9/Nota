@@ -1,0 +1,3 @@
+# [ITVDN](https://www.youtube.com/@ITVDN/playlists?view=1)
+## [UWP Community Toolkit Basic](https://www.youtube.com/playlist?list=PLvItDmb0sZw8-FF2nX8-TEXQ0hh911MUi)
+### [UWP Community Toolkit Basic. Урок 8. Элементы управления (MarkdownTextBlock, MasterDetailsView)](https://www.youtube.com/watch?v=q5dm-gvkVps&amp;list=PLvItDmb0sZw8-FF2nX8-TEXQ0hh911MUi&amp;index=8)

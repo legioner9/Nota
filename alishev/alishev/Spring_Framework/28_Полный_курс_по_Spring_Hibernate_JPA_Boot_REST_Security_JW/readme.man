@@ -1,0 +1,3 @@
+# [alishev](https://www.youtube.com/@alishevN/playlists)
+## [Spring Framework](https://www.youtube.com/playlist?list=PLAma_mKffTOR5o0WNHnY0mTjKxnCgSXrZ)
+### [Полный курс по Spring (Hibernate, JPA, Boot, REST, Security, JWT)](https://www.youtube.com/watch?v=OGtdfYFIz00&amp;list=PLAma_mKffTOR5o0WNHnY0mTjKxnCgSXrZ&amp;index=28)

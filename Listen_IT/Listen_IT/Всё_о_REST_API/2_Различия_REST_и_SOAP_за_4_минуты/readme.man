@@ -1,0 +1,3 @@
+# [Listen IT](https://www.youtube.com/@ListenIT_channel/playlists)
+## [Всё о REST API](https://www.youtube.com/playlist?list=PLLACapFZr4XuzCGrQ4A0flXqmaTOB8UVD)
+### [Различия REST и SOAP за 4 минуты](https://www.youtube.com/watch?v=ij79SPK89bw&amp;list=PLLACapFZr4XuzCGrQ4A0flXqmaTOB8UVD&amp;index=2)

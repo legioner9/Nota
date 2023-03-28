@@ -1,0 +1,3 @@
+# [ITVDN](https://www.youtube.com/@ITVDN/playlists?view=1)
+## [Практика Python](https://www.youtube.com/playlist?list=PLvItDmb0sZw_oEV5T2xER_IrtVgNthLPI)
+### [Проектирование Web сервиса. Практика Python. Урок 8](https://www.youtube.com/watch?v=5E0B5bGwhnY&amp;list=PLvItDmb0sZw_oEV5T2xER_IrtVgNthLPI&amp;index=8)

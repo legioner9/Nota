@@ -1,0 +1,7 @@
+### [PYTHON PYTEST. ОСНОВЫ. 1 ЧАСТЬ](https://www.youtube.com/watch?v=1HtEPEn4-LY&amp;list=PLlKID9PnOE5hCuNW8L-qxC12U7WPWG6YS&amp;index=1)
+### [PYTHON PYTEST. ОСНОВЫ. 2 ЧАСТЬ](https://www.youtube.com/watch?v=MIHXRF6YMN4&amp;list=PLlKID9PnOE5hCuNW8L-qxC12U7WPWG6YS&amp;index=2)
+### [ПИШЕМ ПРОСТОЙ PYTHON WEB-КЛИЕНТ (ЧТОБЫ ПОТОМ ПРОТЕСТИРОВАТЬ ЕГО С ПОМОЩЬЮ PYTEST)](https://www.youtube.com/watch?v=vmsG3N4N6mc&amp;list=PLlKID9PnOE5hCuNW8L-qxC12U7WPWG6YS&amp;index=3)
+### [PYTEST MONKEYPATCH ПРОСТОЙ ПРИМЕР](https://www.youtube.com/watch?v=4_nC-iHXnCI&amp;list=PLlKID9PnOE5hCuNW8L-qxC12U7WPWG6YS&amp;index=4)
+### [ТЕСТИРУЕМ WEB-CLIENT С ПОМОЩЬЮ PYTEST И RESPONSES](https://www.youtube.com/watch?v=x_-L7MM8rV8&amp;list=PLlKID9PnOE5hCuNW8L-qxC12U7WPWG6YS&amp;index=5)
+### [PYTEST PARAMETRIZE ИСПОЛЬЗОВАНИЕ ПАРАМЕТРИЗАЦИОННОГО ДЕКОРАТОРА В ТЕСТАХ PYTHON](https://www.youtube.com/watch?v=Ogs_QS_sK0k&amp;list=PLlKID9PnOE5hCuNW8L-qxC12U7WPWG6YS&amp;index=6)
+### [PYTEST ИСПОЛЬЗОВАНИЕ ФИКСТУР (FIXTURE) В ТЕСТАХ PYTHON](https://www.youtube.com/watch?v=6Szh-qz4jvw&amp;list=PLlKID9PnOE5hCuNW8L-qxC12U7WPWG6YS&amp;index=7)

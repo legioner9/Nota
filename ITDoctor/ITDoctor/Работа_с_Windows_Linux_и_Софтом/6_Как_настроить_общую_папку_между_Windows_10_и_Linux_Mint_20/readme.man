@@ -1,0 +1,3 @@
+# [ITDoctor](https://www.youtube.com/@ITDoctor/playlists?view=1&sort=dd&shelf_id=0)
+## [Работа с Windows, Linux и Софтом](https://www.youtube.com/playlist?list=PLuY6eeDuleINmSDbs8doggI-tJnnIJzev)
+### [Как настроить общую папку между Windows 10 и Linux Mint 20 на виртуальной машине](https://www.youtube.com/watch?v=ryc4pjlic_U&amp;list=PLuY6eeDuleINmSDbs8doggI-tJnnIJzev&amp;index=6)

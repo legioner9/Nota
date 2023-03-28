@@ -1,0 +1,3 @@
+# [Дмитрий Лаврик](https://www.youtube.com/@dmitrylavrik/playlists)
+## [Laravel](https://www.youtube.com/playlist?list=PLyeqauxei6jeiITLZ3ZYMDACqVusPySrh)
+### [Проблемы изучения фреймворков на примере авторизации в Laravel](https://www.youtube.com/watch?v=VM6-qii1LR8&amp;list=PLyeqauxei6jeiITLZ3ZYMDACqVusPySrh&amp;index=1)

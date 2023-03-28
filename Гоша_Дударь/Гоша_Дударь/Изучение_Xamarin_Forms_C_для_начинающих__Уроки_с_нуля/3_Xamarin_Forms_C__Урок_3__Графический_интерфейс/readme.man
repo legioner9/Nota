@@ -1,0 +1,3 @@
+# [Гоша Дударь](https://www.youtube.com/@gosha_dudar/playlists?view=1)
+## [Изучение Xamarin Forms C# для начинающих / Уроки с нуля](https://www.youtube.com/playlist?list=PL0lO_mIqDDFVQIun69pf7B50ICSXpu1Cw)
+### [Xamarin Forms C# / Урок #3 – Графический интерфейс](https://www.youtube.com/watch?v=_ZS6nCPui9Q&amp;list=PL0lO_mIqDDFVQIun69pf7B50ICSXpu1Cw&amp;index=3)

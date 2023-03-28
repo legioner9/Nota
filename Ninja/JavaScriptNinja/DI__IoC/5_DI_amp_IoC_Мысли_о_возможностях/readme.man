@@ -1,0 +1,3 @@
+# [JavaScript.Ninja](https://www.youtube.com/@JavaScriptNinja/playlists)
+## [DI & IoC](https://www.youtube.com/playlist?list=PLvTBThJr861xKTf1x6P49MwN6yoN4v69k)
+### [DI &amp; IoC: Мысли о возможностях](https://www.youtube.com/watch?v=pV-YKZEqsQ4&amp;list=PLvTBThJr861xKTf1x6P49MwN6yoN4v69k&amp;index=5)

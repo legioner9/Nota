@@ -1,0 +1,3 @@
+# [ITVDN](https://www.youtube.com/@ITVDN/playlists?view=1)
+## [C# Универсальные шаблоны](https://www.youtube.com/playlist?list=PLvItDmb0sZw8AIfuciRvq7wd48I1UVCuT)
+### [C# Универсальные шаблоны. Урок 3. Универсальные классы и интерфейсы.](https://www.youtube.com/watch?v=7rHXKKia-bA&amp;list=PLvItDmb0sZw8AIfuciRvq7wd48I1UVCuT&amp;index=3)

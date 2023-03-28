@@ -1,0 +1,5 @@
+### [Еntity Framework Core 2.0. Начало работы с EF Core. Урок 1](https://www.youtube.com/watch?v=zlVZWK9hxRs&amp;list=PLvItDmb0sZw9ImaZ6Ha9nArLsXNfMLXU7&amp;index=1)
+### [Еntity Framework Core 2.0. Создание моделей в EF Core. Урок 2](https://www.youtube.com/watch?v=9t9omEOtOIw&amp;list=PLvItDmb0sZw9ImaZ6Ha9nArLsXNfMLXU7&amp;index=2)
+### [Еntity Framework Core 2.0. Отношения между моделями. Наследование. Урок 3](https://www.youtube.com/watch?v=jpBra476V3M&amp;list=PLvItDmb0sZw9ImaZ6Ha9nArLsXNfMLXU7&amp;index=3)
+### [Еntity Framework Core 2.0.  Запросы LINQ to Entities. Урок 4](https://www.youtube.com/watch?v=ezUdhNwV0_0&amp;list=PLvItDmb0sZw9ImaZ6Ha9nArLsXNfMLXU7&amp;index=4)
+### [Еntity Framework Core 2.0.  SQL Entity Framework Core. Урок 5](https://www.youtube.com/watch?v=kKGZUrSrB8I&amp;list=PLvItDmb0sZw9ImaZ6Ha9nArLsXNfMLXU7&amp;index=5)

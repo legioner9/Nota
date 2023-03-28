@@ -1,0 +1,6 @@
+### [Что такое База Данных? PostgreSQL основы. Урок 1](https://www.youtube.com/watch?v=cv4uvzWfMVg&amp;list=PLvItDmb0sZw_9bh2KeIKe4KkqKmhLbj3Z&amp;index=1)
+### [DDL команды. Создание баз данных. PostgreSQL основы. Урок 2](https://www.youtube.com/watch?v=AjUVGzSuO_k&amp;list=PLvItDmb0sZw_9bh2KeIKe4KkqKmhLbj3Z&amp;index=2)
+### [DML команды. Связи между таблицами. PostgreSQL основы. Урок 3](https://www.youtube.com/watch?v=7AxqB6S-4Ww&amp;list=PLvItDmb0sZw_9bh2KeIKe4KkqKmhLbj3Z&amp;index=3)
+### [JOINS. PostgreSQL основы. Урок 4](https://www.youtube.com/watch?v=DJJGTIsWjWg&amp;list=PLvItDmb0sZw_9bh2KeIKe4KkqKmhLbj3Z&amp;index=4)
+### [Организация памяти в Базах Данных. View, Index. PostgreSQL основы. Урок 5](https://www.youtube.com/watch?v=3ER4c2wk-sI&amp;list=PLvItDmb0sZw_9bh2KeIKe4KkqKmhLbj3Z&amp;index=5)
+### [Триггеры и Транзакции. PostgreSQL основы. Урок 6](https://www.youtube.com/watch?v=xHgZbHh0AZ0&amp;list=PLvItDmb0sZw_9bh2KeIKe4KkqKmhLbj3Z&amp;index=6)

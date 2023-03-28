@@ -1,0 +1,6 @@
+### [React видеокаст #6 React 17 что нового? Что ждать в новой версии?](https://www.youtube.com/watch?v=3Zv9Zjcf_OE&amp;list=PLNkWIWHIRwMFesGd_dDbQ4H2haApbwIAj&amp;index=1)
+### [React видеокаст #5 16 ВАЖНЫХ инструментов React разработчика](https://www.youtube.com/watch?v=lZQCG5y_UYQ&amp;list=PLNkWIWHIRwMFesGd_dDbQ4H2haApbwIAj&amp;index=2)
+### [React видеокаст #4: React Паттерны](https://www.youtube.com/watch?v=SmRon9z5TSw&amp;list=PLNkWIWHIRwMFesGd_dDbQ4H2haApbwIAj&amp;index=3)
+### [React видеокаст #3: React 16.8 РЕЛИЗ хуков](https://www.youtube.com/watch?v=19EmLE2mZ1Q&amp;list=PLNkWIWHIRwMFesGd_dDbQ4H2haApbwIAj&amp;index=4)
+### [React видеокаст #2 Полное введение в Хуки](https://www.youtube.com/watch?v=X6j7Y7tp3_c&amp;list=PLNkWIWHIRwMFesGd_dDbQ4H2haApbwIAj&amp;index=5)
+### [React видеокаст #1 React 16.6 Новые возможности](https://www.youtube.com/watch?v=vc1shGHGBj0&amp;list=PLNkWIWHIRwMFesGd_dDbQ4H2haApbwIAj&amp;index=6)

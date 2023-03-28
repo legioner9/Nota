@@ -1,0 +1,3 @@
+# [ITVDN](https://www.youtube.com/@ITVDN/playlists?view=1)
+## [Видеокурс WPF Углубленный](https://www.youtube.com/playlist?list=PLvItDmb0sZw_4TkjSAf0vqeLkCeMQqoBU)
+### [Видео курс Windows Presentation Foundation Углубленный. Урок 3. Шаблоны элементов управления](https://www.youtube.com/watch?v=1Ioi8xnYuGY&amp;list=PLvItDmb0sZw_4TkjSAf0vqeLkCeMQqoBU&amp;index=3)

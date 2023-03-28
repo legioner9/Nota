@@ -1,0 +1,3 @@
+# [Билял Хасенов – Excel, VBA & More](https://www.youtube.com/@BilyalKhassenov/playlists?view=58)
+## [Разбор практических примеров](https://www.youtube.com/playlist?list=PLsPotgU_ELTraU9AMhpyuyjCRtDloARI-)
+### [Многоуровневая сортировка массивов в VBA: разбор примера](https://www.youtube.com/watch?v=hTxkTpHAF1s&amp;list=PLsPotgU_ELTraU9AMhpyuyjCRtDloARI-&amp;index=1)

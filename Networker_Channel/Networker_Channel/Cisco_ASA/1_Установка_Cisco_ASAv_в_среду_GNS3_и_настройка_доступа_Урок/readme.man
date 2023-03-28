@@ -1,0 +1,3 @@
+# [Networker Channel](https://www.youtube.com/@NetworkerChannel/playlists?view=1)
+## [Cisco ASA](https://www.youtube.com/playlist?list=PLOrBH9Pfv1tN3frTl0zPN7C1l3r1axJI4)
+### [Установка Cisco ASAv в среду GNS3 и настройка доступа. Урок 4.](https://www.youtube.com/watch?v=TLuv-jnDN6Q&amp;list=PLOrBH9Pfv1tN3frTl0zPN7C1l3r1axJI4&amp;index=1)

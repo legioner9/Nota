@@ -1,0 +1,3 @@
+# [OTUS Онлайн - образование](https://www.youtube.com/@otus_education/playlists)
+## [Курс | Математика для Data Science](https://www.youtube.com/playlist?list=PLfnFOImnyWRU8k_RyMcLOwA4GXaIoMRiP)
+### [Методы регрессионного анализа в Data Science // Демо-занятие курса «Математика для Data Science»](https://www.youtube.com/watch?v=U9GVcVW6NVE&amp;list=PLfnFOImnyWRU8k_RyMcLOwA4GXaIoMRiP&amp;index=12)

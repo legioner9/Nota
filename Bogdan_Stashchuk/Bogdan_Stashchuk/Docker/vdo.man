@@ -1,0 +1,4 @@
+### [Docker Containers vs Virtual Machines](https://www.youtube.com/watch?v=dTZbRf4kY7A&amp;list=PLWkguCWKqN9OHd8uqKg7UhUR1YmSqWpas&amp;index=1)
+### [Docker Images vs Containers](https://www.youtube.com/watch?v=9aRPI2upJrY&amp;list=PLWkguCWKqN9OHd8uqKg7UhUR1YmSqWpas&amp;index=2)
+### [🔴 DOCKER FULL COURSE [5 hours]](https://www.youtube.com/watch?v=Wiu5bEOxkCQ&amp;list=PLWkguCWKqN9OHd8uqKg7UhUR1YmSqWpas&amp;index=3)
+### [Docker - Полный курс Docker Для Начинающих [3 ЧАСА]](https://www.youtube.com/watch?v=_uZQtRyF6Eg&amp;list=PLWkguCWKqN9OHd8uqKg7UhUR1YmSqWpas&amp;index=4)

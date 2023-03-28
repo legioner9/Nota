@@ -1,0 +1,8 @@
+### [Коллекции Java - введение](https://www.youtube.com/watch?v=H8YOHx1dLMI&amp;list=PLY7PmJJFH5nSaAcsqTEKpzaFJe7DZUYRM&amp;index=1)
+### [Коллекции Java - List (списки)](https://www.youtube.com/watch?v=J0m33DkLHLA&amp;list=PLY7PmJJFH5nSaAcsqTEKpzaFJe7DZUYRM&amp;index=2)
+### [Коллекции Java - Queue (очереди)](https://www.youtube.com/watch?v=XX6ARxJqcXk&amp;list=PLY7PmJJFH5nSaAcsqTEKpzaFJe7DZUYRM&amp;index=3)
+### [Коллекции Java - Map (словари)](https://www.youtube.com/watch?v=ix4weK1mI8Q&amp;list=PLY7PmJJFH5nSaAcsqTEKpzaFJe7DZUYRM&amp;index=4)
+### [Коллекции Java - Set (наборы)](https://www.youtube.com/watch?v=7aC9y7Gy4zg&amp;list=PLY7PmJJFH5nSaAcsqTEKpzaFJe7DZUYRM&amp;index=5)
+### [Коллекции Java - Concurrent Queue (единовременные очереди)](https://www.youtube.com/watch?v=Cvszuvr-Eks&amp;list=PLY7PmJJFH5nSaAcsqTEKpzaFJe7DZUYRM&amp;index=6)
+### [Коллекции Java - Concurrent Array и List (единовременные массивы и списки)](https://www.youtube.com/watch?v=2orB8C44xow&amp;list=PLY7PmJJFH5nSaAcsqTEKpzaFJe7DZUYRM&amp;index=7)
+### [Коллекции Java - Concurrent Set (единовременные наборы)](https://www.youtube.com/watch?v=zARU16zBD2Q&amp;list=PLY7PmJJFH5nSaAcsqTEKpzaFJe7DZUYRM&amp;index=8)

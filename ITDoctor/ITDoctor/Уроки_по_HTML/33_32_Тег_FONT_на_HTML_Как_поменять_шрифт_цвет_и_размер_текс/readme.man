@@ -1,0 +1,3 @@
+# [ITDoctor](https://www.youtube.com/@ITDoctor/playlists?view=1&sort=dd&shelf_id=0)
+## [Уроки по HTML](https://www.youtube.com/playlist?list=PLuY6eeDuleIMjV7Kff8yf8RA-XwjXVGgl)
+### [#32 Тег FONT на HTML, Как поменять шрифт цвет и размер текста в html](https://www.youtube.com/watch?v=iwGQoT_JBf0&amp;list=PLuY6eeDuleIMjV7Kff8yf8RA-XwjXVGgl&amp;index=33)

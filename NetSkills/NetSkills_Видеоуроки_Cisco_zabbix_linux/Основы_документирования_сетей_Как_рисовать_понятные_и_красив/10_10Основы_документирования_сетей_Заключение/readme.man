@@ -1,0 +1,3 @@
+# [NetSkills. Видеоуроки. Cisco, zabbix, linux.](https://www.youtube.com/@netskills/playlists)
+## [Основы документирования сетей. Как рисовать понятные и красивые схемы на примере типового дизайна сети](https://www.youtube.com/playlist?list=PLcDkQ2Au8aVPmWZ2vXcby73Tl8SA7fp97)
+### [10.Основы документирования сетей. Заключение](https://www.youtube.com/watch?v=cKkWhGnMSg4&amp;list=PLcDkQ2Au8aVPmWZ2vXcby73Tl8SA7fp97&amp;index=10)

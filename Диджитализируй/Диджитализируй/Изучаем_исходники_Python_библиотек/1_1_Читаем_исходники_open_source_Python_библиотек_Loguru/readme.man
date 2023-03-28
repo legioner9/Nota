@@ -1,0 +1,3 @@
+# [Диджитализируй!](https://www.youtube.com/@t0digital/playlists)
+## [Изучаем исходники Python библиотек](https://www.youtube.com/playlist?list=PLAk6CfuV7hyoIL0iJgOP0fPYfCXAV3lsC)
+### [#1. Читаем исходники open source Python библиотек. Loguru!](https://www.youtube.com/watch?v=g6zzZxxifAw&amp;list=PLAk6CfuV7hyoIL0iJgOP0fPYfCXAV3lsC&amp;index=1)

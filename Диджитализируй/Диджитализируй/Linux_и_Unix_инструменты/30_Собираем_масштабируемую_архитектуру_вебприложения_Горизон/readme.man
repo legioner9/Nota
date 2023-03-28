@@ -1,0 +1,3 @@
+# [Диджитализируй!](https://www.youtube.com/@t0digital/playlists)
+## [Linux и Unix инструменты](https://www.youtube.com/playlist?list=PLAk6CfuV7hyqHyQVHZMQRihAfebXpxn2O)
+### [🚀Собираем масштабируемую архитектуру веб-приложения. Горизонтальное и вертикальное масштабирование](https://www.youtube.com/watch?v=kclYmb47LTg&amp;list=PLAk6CfuV7hyqHyQVHZMQRihAfebXpxn2O&amp;index=30)

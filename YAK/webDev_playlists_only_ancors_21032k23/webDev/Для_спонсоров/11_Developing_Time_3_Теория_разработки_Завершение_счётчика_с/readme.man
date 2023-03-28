@@ -1,0 +1,3 @@
+# [webDev](https://www.youtube.com/@YauhenKavalchuk/playlists?view=1)
+## [Для спонсоров](https://www.youtube.com/playlist?list=PLNkWIWHIRwMEzS1aAKewUM3Ce5a5uNDJ5)
+### [Developing Time #3 Теория разработки. Завершение счётчика символов](https://www.youtube.com/watch?v=YeuFeY_cXHI&amp;list=PLNkWIWHIRwMEzS1aAKewUM3Ce5a5uNDJ5&amp;index=11)

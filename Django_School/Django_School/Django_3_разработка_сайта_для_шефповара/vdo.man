@@ -1,0 +1,6 @@
+### [создание сайта на django | Стрим](https://www.youtube.com/watch?v=f7zwXjPJRtU&amp;list=PLF-NY6ldwAWpK1DDLdRcmRRX4_WtOa-Bo&amp;index=1)
+### [сайт на django | Стрим #2](https://www.youtube.com/watch?v=ALGPghQFGyI&amp;list=PLF-NY6ldwAWpK1DDLdRcmRRX4_WtOa-Bo&amp;index=2)
+### [как создать сайт на django | #3](https://www.youtube.com/watch?v=uwOJUVy2hmk&amp;list=PLF-NY6ldwAWpK1DDLdRcmRRX4_WtOa-Bo&amp;index=3)
+### [django сайт для шеф-повара | создать сайт на django | #4](https://www.youtube.com/watch?v=Yfy55W9rAsg&amp;list=PLF-NY6ldwAWpK1DDLdRcmRRX4_WtOa-Bo&amp;index=4)
+### [Сайт на django для шеф-повара | #5](https://www.youtube.com/watch?v=EWmsWPaM-Oc&amp;list=PLF-NY6ldwAWpK1DDLdRcmRRX4_WtOa-Bo&amp;index=5)
+### [Завершение сайта шеф-повара на django | #6](https://www.youtube.com/watch?v=d3P4ZKC-ank&amp;list=PLF-NY6ldwAWpK1DDLdRcmRRX4_WtOa-Bo&amp;index=6)

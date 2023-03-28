@@ -1,0 +1,3 @@
+# [ITVDN](https://www.youtube.com/@ITVDN/playlists?view=1)
+## [C# Стартовый. Процедурное программирование](https://www.youtube.com/playlist?list=PLvItDmb0sZw_s5uM8V1mlNXWG8RqjSmI7)
+### [Первая программа на C# в Visual Studio. Уроки C# для начинающих.](https://www.youtube.com/watch?v=f-N5br_5mSU&amp;list=PLvItDmb0sZw_s5uM8V1mlNXWG8RqjSmI7&amp;index=1)

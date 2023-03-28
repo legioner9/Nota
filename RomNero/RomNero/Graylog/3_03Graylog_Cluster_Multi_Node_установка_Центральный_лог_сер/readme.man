@@ -1,0 +1,3 @@
+# [RomNero](https://www.youtube.com/@RomNero/playlists)
+## [Graylog](https://www.youtube.com/playlist?list=PLqVeG_R3qMSyYLMeOXFauNvKCTezzb26I)
+### [03-Graylog Cluster. Multi Node установка. Центральный лог сервер для Linux и Windows отчетов.](https://www.youtube.com/watch?v=crkBSx2OT9w&amp;list=PLqVeG_R3qMSyYLMeOXFauNvKCTezzb26I&amp;index=3)

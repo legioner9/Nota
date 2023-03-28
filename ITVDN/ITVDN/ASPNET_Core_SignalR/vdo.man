@@ -1,0 +1,1 @@
+### [Что такое SignalR? ➤ В чем разница между ASP.NET SignalR и ASP.NET Core SignalR?](https://www.youtube.com/watch?v=xETRdIyWxwo&amp;list=PLvItDmb0sZw9aI5Cd0JmArjNsMcfsCs90&amp;index=1)

@@ -1,0 +1,3 @@
+# [OTUS Онлайн - образование](https://www.youtube.com/@otus_education/playlists)
+## [Курс | Android Developer. Professional](https://www.youtube.com/playlist?list=PLfnFOImnyWRW4gqBY3ngpZplAMnaqWOk_)
+### [Пишем Gradle plugin // Демо-занятие курса «Android Developer. Professional»](https://www.youtube.com/watch?v=vLhfHvLWSQ4&amp;list=PLfnFOImnyWRW4gqBY3ngpZplAMnaqWOk_&amp;index=18)

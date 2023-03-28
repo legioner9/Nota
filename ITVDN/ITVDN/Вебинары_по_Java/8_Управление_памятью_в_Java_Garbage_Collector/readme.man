@@ -1,0 +1,3 @@
+# [ITVDN](https://www.youtube.com/@ITVDN/playlists?view=1)
+## [Вебинары по Java](https://www.youtube.com/playlist?list=PLvItDmb0sZw_Kj4_z2OJJCQM3q-G7T0Ax)
+### [Управление памятью в Java. Garbage Collector](https://www.youtube.com/watch?v=7VRjIsQ_CW4&amp;list=PLvItDmb0sZw_Kj4_z2OJJCQM3q-G7T0Ax&amp;index=8)

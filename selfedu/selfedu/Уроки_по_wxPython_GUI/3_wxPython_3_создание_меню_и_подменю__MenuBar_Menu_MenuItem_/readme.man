@@ -1,0 +1,3 @@
+# [selfedu](https://www.youtube.com/@selfedu_rus/playlists?view=1)
+## [Уроки по wxPython (GUI)](https://www.youtube.com/playlist?list=PLA0M1Bcd0w8zyJOJXbvTKROHs2JJVGB6C)
+### [wxPython #3: создание меню и подменю - MenuBar, Menu, MenuItem, Bind, Append, AppendSeparator](https://www.youtube.com/watch?v=Y__0Xrm0Mp0&amp;list=PLA0M1Bcd0w8zyJOJXbvTKROHs2JJVGB6C&amp;index=3)

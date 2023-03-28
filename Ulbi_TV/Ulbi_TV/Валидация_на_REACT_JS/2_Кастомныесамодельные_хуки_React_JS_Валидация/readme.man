@@ -1,0 +1,3 @@
+# [Ulbi TV](https://www.youtube.com/@UlbiTV/playlists)
+## [Валидация на REACT JS](https://www.youtube.com/playlist?list=PL6DxKON1uLOHcvuJLmgpOhwbktXLr7noj)
+### [Кастомные\самодельные хуки React JS. Валидация](https://www.youtube.com/watch?v=BGKbJ2aXCog&amp;list=PL6DxKON1uLOHcvuJLmgpOhwbktXLr7noj&amp;index=2)

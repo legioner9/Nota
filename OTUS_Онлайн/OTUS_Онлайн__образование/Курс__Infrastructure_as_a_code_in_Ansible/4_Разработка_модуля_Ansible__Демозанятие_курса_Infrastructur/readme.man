@@ -1,0 +1,3 @@
+# [OTUS Онлайн - образование](https://www.youtube.com/@otus_education/playlists)
+## [Курс | Infrastructure as a code in Ansible](https://www.youtube.com/playlist?list=PLfnFOImnyWRWIkPypFOvqnzzoWV1J0bbA)
+### [Разработка модуля Ansible // Демо-занятие курса «Infrastructure as a code»](https://www.youtube.com/watch?v=7i77hm5PMGA&amp;list=PLfnFOImnyWRWIkPypFOvqnzzoWV1J0bbA&amp;index=4)

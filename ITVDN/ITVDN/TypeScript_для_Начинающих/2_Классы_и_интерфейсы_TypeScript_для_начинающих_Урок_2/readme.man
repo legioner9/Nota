@@ -1,0 +1,3 @@
+# [ITVDN](https://www.youtube.com/@ITVDN/playlists?view=1)
+## [TypeScript для Начинающих](https://www.youtube.com/playlist?list=PLvItDmb0sZw9ByEtLc0XIK8DBradcqp6g)
+### [Классы и интерфейсы. TypeScript для начинающих. Урок 2](https://www.youtube.com/watch?v=v1K-hb6piRY&amp;list=PLvItDmb0sZw9ByEtLc0XIK8DBradcqp6g&amp;index=2)

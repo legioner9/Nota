@@ -1,0 +1,3 @@
+# [egoroff_channel](https://www.youtube.com/@egoroffchannel/playlists)
+## [Анализ данных с помощью Pandas](https://www.youtube.com/playlist?list=PLQAt0m1f9OHvibdelR6YgWvxKRv-FDz4D)
+### [Методы head(),  tail() и  take() класса Series. Анализ данных Python Pandas](https://www.youtube.com/watch?v=SMCRKvF6yGA&amp;list=PLQAt0m1f9OHvibdelR6YgWvxKRv-FDz4D&amp;index=10)

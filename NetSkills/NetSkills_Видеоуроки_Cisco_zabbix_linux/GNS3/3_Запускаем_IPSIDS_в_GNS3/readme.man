@@ -1,0 +1,3 @@
+# [NetSkills. Видеоуроки. Cisco, zabbix, linux.](https://www.youtube.com/@netskills/playlists)
+## [GNS3](https://www.youtube.com/playlist?list=PLcDkQ2Au8aVMo5NPLrLxTbrJybWvKxMw0)
+### [Запускаем IPS/IDS в GNS3](https://www.youtube.com/watch?v=kGD9wY1ql5o&amp;list=PLcDkQ2Au8aVMo5NPLrLxTbrJybWvKxMw0&amp;index=3)

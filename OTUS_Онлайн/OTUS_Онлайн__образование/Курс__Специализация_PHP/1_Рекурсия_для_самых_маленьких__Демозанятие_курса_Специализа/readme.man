@@ -1,0 +1,3 @@
+# [OTUS Онлайн - образование](https://www.youtube.com/@otus_education/playlists)
+## [Курс | Специализация PHP](https://www.youtube.com/playlist?list=PLfnFOImnyWRVgButRHq4g0XLx_tPwhymp)
+### [Рекурсия для самых маленьких // Демо-занятие курса «Специализация PHP Developer»](https://www.youtube.com/watch?v=Pps7sQq6R0Y&amp;list=PLfnFOImnyWRVgButRHq4g0XLx_tPwhymp&amp;index=1)

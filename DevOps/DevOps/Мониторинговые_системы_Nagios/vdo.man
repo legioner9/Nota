@@ -1,0 +1,5 @@
+### [1. Установка Nagios Core 4.4.6 на Ubuntu 20.04 Server ?  / Nagios / Ubuntu 20.4](https://www.youtube.com/watch?v=DHgKLnyLwUQ&amp;list=PLkKSgP0nEL0CjQykh2nX-sp5z2C1Io4Ni&amp;index=1)
+### [2.  Как добавить Linux Host в Nagios Core 4.4.6 ?  / Nagio / Linux Host](https://www.youtube.com/watch?v=wgRWEQ8k0Bg&amp;list=PLkKSgP0nEL0CjQykh2nX-sp5z2C1Io4Ni&amp;index=2)
+### [3. Как установить Nagios XI на VMware Workstation 16 Pro ?  / Nagios XI  /VMware Workstation 16 Pro](https://www.youtube.com/watch?v=sRtAPM36QVA&amp;list=PLkKSgP0nEL0CjQykh2nX-sp5z2C1Io4Ni&amp;index=3)
+### [4. Как добавлять Сетевые оборудования в Nagios XI ? / Nagios XI / Linux Host / Switch](https://www.youtube.com/watch?v=0NBWDo6OnNM&amp;list=PLkKSgP0nEL0CjQykh2nX-sp5z2C1Io4Ni&amp;index=4)
+### [5. Уведомления в Telegram с Nagios Core / Alert / Nagios Core / Telegram](https://www.youtube.com/watch?v=9E4oX1if1go&amp;list=PLkKSgP0nEL0CjQykh2nX-sp5z2C1Io4Ni&amp;index=5)

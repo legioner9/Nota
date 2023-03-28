@@ -1,0 +1,3 @@
+# [luchanos](https://www.youtube.com/@luchanos/playlists?view=1&sort=dd&shelf_id=0)
+## [Python-практикум](https://www.youtube.com/playlist?list=PLlKID9PnOE5j1vHkSzerrYQP_p1frL6CT)
+### [ASYNCIO НА ПРАКТИЧЕСКОМ ПРИМЕРЕ](https://www.youtube.com/watch?v=nB9Gn53QbkM&amp;list=PLlKID9PnOE5j1vHkSzerrYQP_p1frL6CT&amp;index=19)

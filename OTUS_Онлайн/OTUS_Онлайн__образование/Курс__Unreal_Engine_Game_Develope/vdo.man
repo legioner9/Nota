@@ -1,0 +1,6 @@
+### [GameDev - направление в OTUS](https://www.youtube.com/watch?v=hx0BKhUq6s8&amp;list=PLfnFOImnyWRUx77btIrRnU4P1-Ldl_Gmt&amp;index=1)
+### [Эволюция Unreal Engine // Демо-занятие курса «Unreal Engine Game Developer»](https://www.youtube.com/watch?v=yY0mCviNGq4&amp;list=PLfnFOImnyWRUx77btIrRnU4P1-Ldl_Gmt&amp;index=2)
+### [Unreal Engine Game Developer | OTUS](https://www.youtube.com/watch?v=yRJtGChv0Kk&amp;list=PLfnFOImnyWRUx77btIrRnU4P1-Ldl_Gmt&amp;index=3)
+### [Ваша первая игра на Unreal Engine // Демо-занятие курса «Unreal Engine Technical Game Design»](https://www.youtube.com/watch?v=y0CH2kctu94&amp;list=PLfnFOImnyWRUx77btIrRnU4P1-Ldl_Gmt&amp;index=4)
+### [Обзор работы современного ИИ в играх. // Демо-занятие курса «Unreal Engine Technical Game Design»](https://www.youtube.com/watch?v=K6o3yVIqqcc&amp;list=PLfnFOImnyWRUx77btIrRnU4P1-Ldl_Gmt&amp;index=5)
+### [Demo Day курса «Unreal Engine Technical Game Design»](https://www.youtube.com/watch?v=4JoNyF_3Ems&amp;list=PLfnFOImnyWRUx77btIrRnU4P1-Ldl_Gmt&amp;index=6)

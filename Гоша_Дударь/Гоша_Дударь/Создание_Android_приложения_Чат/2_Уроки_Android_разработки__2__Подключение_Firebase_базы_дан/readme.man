@@ -1,0 +1,3 @@
+# [Гоша Дударь](https://www.youtube.com/@gosha_dudar/playlists?view=1)
+## [Создание Android приложения «Чат»](https://www.youtube.com/playlist?list=PL0lO_mIqDDFUXOmQ5c6hurb2Nqvc1uCxe)
+### [Уроки Android разработки / #2 - Подключение Firebase базы данных](https://www.youtube.com/watch?v=Q9FxYm8-u7w&amp;list=PL0lO_mIqDDFUXOmQ5c6hurb2Nqvc1uCxe&amp;index=2)

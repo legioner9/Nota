@@ -1,0 +1,3 @@
+# [EngineerSpock - IT & программирование](https://www.youtube.com/@EngineerSpock/playlists)
+## [Чистый код / Clean Code](https://www.youtube.com/playlist?list=PLBheEHDcG7-mLhP_ZknHi7vjesmXVmk7q)
+### [Чистый Код / Clean Code: # 3: Огромные функции и их рефакторинг, Extract Till You Drop](https://www.youtube.com/watch?v=gKlRX1-QDj0&amp;list=PLBheEHDcG7-mLhP_ZknHi7vjesmXVmk7q&amp;index=3)

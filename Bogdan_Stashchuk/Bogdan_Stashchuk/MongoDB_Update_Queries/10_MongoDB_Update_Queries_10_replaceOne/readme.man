@@ -1,0 +1,3 @@
+# [Bogdan Stashchuk](https://www.youtube.com/@Bogdan_Stashchuk/playlists)
+## [MongoDB Update Queries](https://www.youtube.com/playlist?list=PLWkguCWKqN9OncFtHmijyW0VS6f5BEKpV)
+### [MongoDB Update Queries: 10 replaceOne](https://www.youtube.com/watch?v=A9MoRgFAdO0&amp;list=PLWkguCWKqN9OncFtHmijyW0VS6f5BEKpV&amp;index=10)

@@ -1,0 +1,3 @@
+# [ITVDN](https://www.youtube.com/@ITVDN/playlists?view=1)
+## [Разработка приложений под Android. Базовый курс](https://www.youtube.com/playlist?list=PLvItDmb0sZw8OI5IiSvw4cm1O_3b0ElbF)
+### [Разработка приложений под Android. Базовый курс. Урок 3. Элементы экрана Android, разметка макета.](https://www.youtube.com/watch?v=0Mhgkvs0Auc&amp;list=PLvItDmb0sZw8OI5IiSvw4cm1O_3b0ElbF&amp;index=3)

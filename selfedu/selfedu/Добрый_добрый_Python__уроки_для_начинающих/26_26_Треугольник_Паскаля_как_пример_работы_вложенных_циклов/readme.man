@@ -1,0 +1,3 @@
+# [selfedu](https://www.youtube.com/@selfedu_rus/playlists?view=1)
+## [Добрый, добрый Python - уроки для начинающих](https://www.youtube.com/playlist?list=PLA0M1Bcd0w8yWHh2V70bTtbVxJICrnJHd)
+### [#26. Треугольник Паскаля как пример работы вложенных циклов | Python для начинающих](https://www.youtube.com/watch?v=ptq-3bOwgpw&amp;list=PLA0M1Bcd0w8yWHh2V70bTtbVxJICrnJHd&amp;index=26)

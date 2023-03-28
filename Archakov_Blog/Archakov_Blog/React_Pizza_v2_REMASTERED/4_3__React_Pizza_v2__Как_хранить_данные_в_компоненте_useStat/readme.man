@@ -1,0 +1,3 @@
+# [Archakov Blog](https://www.youtube.com/@ArchakovBlog/playlists)
+## [React Pizza v2 [REMASTERED]](https://www.youtube.com/playlist?list=PL0FGkDGJQjJG9eI85xM1_iLIf6BcEdaNl)
+### [#3: 🍕 React Pizza v2 — Как хранить данные в компоненте (useState), onClick, деструктуризация](https://www.youtube.com/watch?v=EXRqsxBNDzE&amp;list=PL0FGkDGJQjJG9eI85xM1_iLIf6BcEdaNl&amp;index=4)

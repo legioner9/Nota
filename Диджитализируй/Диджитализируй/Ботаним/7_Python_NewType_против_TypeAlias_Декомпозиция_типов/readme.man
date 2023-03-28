@@ -1,0 +1,3 @@
+# [Диджитализируй!](https://www.youtube.com/@t0digital/playlists)
+## [Ботаним!](https://www.youtube.com/playlist?list=PLAk6CfuV7hypPtyLqacu7V9pjaMlmkqLi)
+### [Python: NewType против TypeAlias. Декомпозиция типов](https://www.youtube.com/watch?v=xdRroK3WwJg&amp;list=PLAk6CfuV7hypPtyLqacu7V9pjaMlmkqLi&amp;index=7)

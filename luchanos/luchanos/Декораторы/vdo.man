@@ -1,0 +1,5 @@
+### [РАЗБИРАЕМСЯ С ДЕКОРАТОРАМИ В PYTHON С НУЛЯ (ЧАСТЬ 1)](https://www.youtube.com/watch?v=GhgmInoT54c&amp;list=PLlKID9PnOE5h8VJyEiEd_Uv_-tt9KX7MD&amp;index=1)
+### [РАЗБИРАЕМСЯ С ДЕКОРАТОРАМИ В PYTHON С НУЛЯ (ЧАСТЬ 2)](https://www.youtube.com/watch?v=gfvJj0kFQeg&amp;list=PLlKID9PnOE5h8VJyEiEd_Uv_-tt9KX7MD&amp;index=2)
+### [РАЗБИРАЕМСЯ С ДЕКОРАТОРАМИ В PYTHON С НУЛЯ (ЧАСТЬ 3)](https://www.youtube.com/watch?v=M9XG1iOua7c&amp;list=PLlKID9PnOE5h8VJyEiEd_Uv_-tt9KX7MD&amp;index=3)
+### [РАЗБИРАЕМСЯ С ДЕКОРАТОРАМИ В PYTHON С НУЛЯ (ЧАСТЬ 4)](https://www.youtube.com/watch?v=tNkJ1gTnQDM&amp;list=PLlKID9PnOE5h8VJyEiEd_Uv_-tt9KX7MD&amp;index=4)
+### [РАЗБИРАЕМСЯ С ДЕКОРАТОРАМИ В PYTHON С НУЛЯ (ЧАСТЬ 5)](https://www.youtube.com/watch?v=nuwb1mBd7J4&amp;list=PLlKID9PnOE5h8VJyEiEd_Uv_-tt9KX7MD&amp;index=5)

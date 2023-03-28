@@ -1,0 +1,3 @@
+# [ITVDN](https://www.youtube.com/@ITVDN/playlists?view=1)
+## [Видеокурс Unity3D Starter](https://www.youtube.com/playlist?list=PLvItDmb0sZw_oHG-q2tWJXgQ2AEqZLDrC)
+### [Unity3D Starter. Урок 2. Текстуры, материалы и элементы сцены.](https://www.youtube.com/watch?v=VeoezC9JeWE&amp;list=PLvItDmb0sZw_oHG-q2tWJXgQ2AEqZLDrC&amp;index=2)

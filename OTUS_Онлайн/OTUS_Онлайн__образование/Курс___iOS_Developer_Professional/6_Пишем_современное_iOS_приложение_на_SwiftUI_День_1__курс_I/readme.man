@@ -1,0 +1,3 @@
+# [OTUS Онлайн - образование](https://www.youtube.com/@otus_education/playlists)
+## [Курс |  iOS Developer. Professional](https://www.youtube.com/playlist?list=PLfnFOImnyWRXl8vt2LdJeBHEShktuDLzT)
+### [Пишем современное iOS приложение на SwiftUI. День 1 // курс «IOS Developer. Professional». День 1](https://www.youtube.com/watch?v=iB8vOv7kZZA&amp;list=PLfnFOImnyWRXl8vt2LdJeBHEShktuDLzT&amp;index=6)

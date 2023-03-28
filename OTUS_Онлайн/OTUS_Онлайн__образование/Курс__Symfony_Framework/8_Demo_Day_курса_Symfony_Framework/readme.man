@@ -1,0 +1,3 @@
+# [OTUS Онлайн - образование](https://www.youtube.com/@otus_education/playlists)
+## [Курс | Symfony Framework](https://www.youtube.com/playlist?list=PLfnFOImnyWRWBfEeHHVB070uDOIbNQFKE)
+### [Demo Day курса «Symfony Framework»](https://www.youtube.com/watch?v=tmoHX1VV86A&amp;list=PLfnFOImnyWRWBfEeHHVB070uDOIbNQFKE&amp;index=8)

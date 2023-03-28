@@ -1,0 +1,3 @@
+# [OTUS Онлайн - образование](https://www.youtube.com/@otus_education/playlists)
+## [Курс | CI/CD на AWS, Azure и Gitlab](https://www.youtube.com/playlist?list=PLfnFOImnyWRXlzp37yQsipNAxFE3W3Qa3)
+### [CI CD на AWS, Azure и Gitlab // День открытых дверей OTUS](https://www.youtube.com/watch?v=Py0k39dQMck&amp;list=PLfnFOImnyWRXlzp37yQsipNAxFE3W3Qa3&amp;index=3)

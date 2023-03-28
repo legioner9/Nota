@@ -1,0 +1,3 @@
+# [DevOps](https://www.youtube.com/@Devops_Youtube_Channel/playlists)
+## [Мониторинговые системы (Zabbix)](https://www.youtube.com/playlist?list=PLkKSgP0nEL0Avu98ccNINurBaDgVO-wPV)
+### [1. Как установить Zabbix 6.0 на Ubuntu 20.04 Server ? / Zabbix 6.0 / Ubuntu 20.04 Server](https://www.youtube.com/watch?v=Nd9Hvt9A2w4&amp;list=PLkKSgP0nEL0Avu98ccNINurBaDgVO-wPV&amp;index=1)

@@ -1,0 +1,3 @@
+# [Дмитрий Лаврик](https://www.youtube.com/@dmitrylavrik/playlists)
+## [Typescript](https://www.youtube.com/playlist?list=PLyeqauxei6jewgKxQ_7OrhTmN6ox-w17q)
+### [Typescript. Работа со страхом новичка на примере Generics](https://www.youtube.com/watch?v=iHjvvTmhRMM&amp;list=PLyeqauxei6jewgKxQ_7OrhTmN6ox-w17q&amp;index=2)

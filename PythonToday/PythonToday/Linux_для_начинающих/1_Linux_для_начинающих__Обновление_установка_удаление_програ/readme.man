@@ -1,0 +1,3 @@
+# [PythonToday](https://www.youtube.com/@PythonToday/playlists)
+## [Linux для начинающих](https://www.youtube.com/playlist?list=PLqGS6O1-DZLo8fjcztVUM0Eotb1fT2ZOh)
+### [Linux для начинающих | Обновление, установка, удаление программ в Linux | sudo apt](https://www.youtube.com/watch?v=nUKpfhmwcRw&amp;list=PLqGS6O1-DZLo8fjcztVUM0Eotb1fT2ZOh&amp;index=1)

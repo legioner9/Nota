@@ -1,0 +1,3 @@
+# [RED Group](https://www.youtube.com/@REDGroup/playlists)
+## [Webstorm](https://www.youtube.com/playlist?list=PLXkonRjGXZwxQki85eZLS9KOxxSoK-xT0)
+### [Настройка Webstorm 2022 + сравнение с Vs Code [JavaScript / JetBrains]](https://www.youtube.com/watch?v=rXAH2MQQTsY&amp;list=PLXkonRjGXZwxQki85eZLS9KOxxSoK-xT0&amp;index=1)

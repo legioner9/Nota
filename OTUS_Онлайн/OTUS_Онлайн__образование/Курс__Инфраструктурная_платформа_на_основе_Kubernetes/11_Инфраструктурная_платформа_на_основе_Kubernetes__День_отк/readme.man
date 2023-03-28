@@ -1,0 +1,3 @@
+# [OTUS Онлайн - образование](https://www.youtube.com/@otus_education/playlists)
+## [Курс | Инфраструктурная платформа на основе Kubernetes](https://www.youtube.com/playlist?list=PLfnFOImnyWRWQ-6Np_p1ewBvJadcqr418)
+### [Инфраструктурная платформа на основе Kubernetes // День открытых дверей OTUS](https://www.youtube.com/watch?v=pnH0o7eI8fQ&amp;list=PLfnFOImnyWRWQ-6Np_p1ewBvJadcqr418&amp;index=11)

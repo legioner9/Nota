@@ -1,0 +1,75 @@
+ 25.03.2023 16:46:52 done 1. Полноценный почтовый сервер за 10 мин!!!  iRedmail  /mail server/ssl/certbot/domain/linux/
+ 25.03.2023 16:46:53 done iRedMail
+ 25.03.2023 16:47:24 done 1) Полноценный Почтовый сервер за 10 мин! Mail-In-A-Box /mail/server/domen/letsencrypt/SSL/CertBot/
+ 25.03.2023 16:47:24 done Mail-In-A-Box
+ 25.03.2023 16:47:51 done 1. Установка GitLab в Ubuntu Server 20.04 за 5 мин / GitLab/ install/ ubuntu server 20.04/ Linux/
+ 25.03.2023 16:47:51 done GitLab
+ 25.03.2023 16:48:23 done 1.  Установка Pnetlab на Vmware Workstation / Pnetlab/ install/ emulator/
+ 25.03.2023 16:48:26 done 3. Как поднять IPsec туннель между двумя филиалами ? /Pnetlab/IPsec/tonnel/Cisco router
+ 25.03.2023 16:48:28 done 2. Как добавлять сетевые оборудования в Pnetlab ? /Cisco/ Linux/ add/ Pnetlab/ images/ qemu
+ 25.03.2023 16:48:30 done 4. Как быстро поднять IPsec в Linux с любым устройством ? / Racoon/ IPsec/ Cisco Router/ ASA/
+ 25.03.2023 16:48:33 done 5. Как поднять IPsec тоннель в Linux на основе Strongswan с PSK ключом ?  /Strongswan/ IPsec/ Linux/
+ 25.03.2023 16:48:33 done Pnetlab
+ 25.03.2023 16:49:10 done 1. Как установка Git на Windows и Linux ? / Install/ Git/ Windows/ Linux/ MacOS
+ 25.03.2023 16:49:12 done 2.  Как работать с небольшим проектом локально?  Как работать в командной строке с Git ? / git/ cmd
+ 25.03.2023 16:49:14 done 3. Статусы файлов в Git:  Staged, Not Staged, Commited / Git/ status/ file/
+ 25.03.2023 16:49:17 done 4. Как создать игнорируемые файлы в Git?  /gitignore/ git/ files/
+ 25.03.2023 16:49:19 done 5. Локальные и Удалённые Репозитории / git/ git clone/ git push/ git pull
+ 25.03.2023 16:49:21 done 6. Как подключиться к удалённому репозиторию ? /git push/ origin/ master/
+ 25.03.2023 16:49:23 done 7. Как обновить локального репозитория? Разница версий /git pull/ git clone/ git/ git version/
+ 25.03.2023 16:49:25 done 8. Как разрешить конфликтов во время обновлении репозитория? /git/ git conflict/ git pull/ git clone
+ 25.03.2023 16:49:28 done 9. Как создать и удалить локальных и удалённых веток в Git ? / ветки/ git/ main/ master/ add/ delete
+ 25.03.2023 16:49:30 done 10. Как откладывать изменения в Git ? /git / git stash/ git stash pop/ changes in git/
+ 25.03.2023 16:49:30 done Git
+ 25.03.2023 16:50:02 done 1. Как мониторить БД Mysql с помощью Prometheus ? /Mysql/ Prometheus/ Monitoring/ Metrics/ Ubuntu
+ 25.03.2023 16:50:02 done Prometheus
+ 25.03.2023 16:50:33 done 1. Как быстро поднять Proxmox ? / Proxmox/VmWare Workstation/Install/ 7.0 version
+ 25.03.2023 16:50:33 done Proxmox
+ 25.03.2023 16:51:06 done 1. Как быстро поднять Локального Почтового Сервера Zimbra ?  /Ziimbra/Linux/Mail Server/Install
+ 25.03.2023 16:51:07 done Почтовые Сервера (Zimbra)
+ 25.03.2023 16:51:34 done 1.  Как быстро установить Docker на Linux ?  / Docker / Linux/ Ubuntu server 20.04 / install
+ 25.03.2023 16:51:35 done Docker
+ 25.03.2023 16:52:07 done 2.  Как быстро сбросить пароль от Root в ESXI ?  / ESXI / root password /
+ 25.03.2023 16:52:09 done 1.  Как быстро поднять ESXI ?   / ESXI / 5.5/ 6.0/ 6.5/ 7.0 / install
+ 25.03.2023 16:52:10 done Vmware (ESXI)
+ 25.03.2023 16:52:42 done 1.  Как быстро поднять VmWare vsphere Server 6.7 ?  / vmware vsphere server / install
+ 25.03.2023 16:52:43 done VmWare (vSphere)
+ 25.03.2023 16:53:17 done 1. Как быстро поднять WireGuard Server под Linux ? / WireGuard / Ubuntu / VPN
+ 25.03.2023 16:53:17 done VPN (WireGuard)
+ 25.03.2023 16:53:46 done 1.  Как установить OpenVPN Client в Windows ?  /OpenVPN  / Windows /
+ 25.03.2023 16:53:49 done 2.  Как быстро поднять OpenVPN Server ?  / OpenVPN / Linux  / Ubuntu /
+ 25.03.2023 16:53:49 done VPN ( OPENVPN)
+ 25.03.2023 16:54:20 done 1. Как установить Ubuntu 20.04 Server на VMware Workstation 16 Pro ?  / Ubuntu Server 20.04 / VMware
+ 25.03.2023 16:54:22 done 2.  Как узнать какие порты открыты в Linux ? / Порты / Linux / Netstat / ss / lsof / Nmap
+ 25.03.2023 16:54:24 done 3. Как анализировать входящие и исходящие данные в Linux ? /tcpdump / запись в файл / Wireshark
+ 25.03.2023 16:54:26 done 4. Установка UFW Firewall в LINUX / UFW firewall / Linux / install
+ 25.03.2023 16:54:28 done 5.  Как изменить дефолтный порт 22 на любой другой в Linux ?  / ssh / 22 / port / Linux
+ 25.03.2023 16:54:30 done 6. Как быстро поднять Ubntu 22.04 Server ? /Ubuntu 22.04 Server/ Install/ VmWare Workstation/
+ 25.03.2023 16:54:32 done 7. Как правильно поднять Linux с LVM-ом за пару минут ?  / LINUX/ LVM/ install/ Ubuntu/ CentOS
+ 25.03.2023 16:54:33 done Ubuntu
+ 25.03.2023 16:55:04 done Как создать своего Телеграм бота ? / Telegram bot / Token / API
+ 25.03.2023 16:55:04 done Телеграм
+ 25.03.2023 16:55:35 done 1. Установка Nagios Core 4.4.6 на Ubuntu 20.04 Server ?  / Nagios / Ubuntu 20.4
+ 25.03.2023 16:55:37 done 2.  Как добавить Linux Host в Nagios Core 4.4.6 ?  / Nagio / Linux Host
+ 25.03.2023 16:55:39 done 3. Как установить Nagios XI на VMware Workstation 16 Pro ?  / Nagios XI  /VMware Workstation 16 Pro
+ 25.03.2023 16:55:41 done 4. Как добавлять Сетевые оборудования в Nagios XI ? / Nagios XI / Linux Host / Switch
+ 25.03.2023 16:55:43 done 5. Уведомления в Telegram с Nagios Core / Alert / Nagios Core / Telegram
+ 25.03.2023 16:55:44 done Мониторинговые системы (Nagios)
+ 25.03.2023 16:56:15 done 1. Как установить Zabbix 6.0 на Ubuntu 20.04 Server ? / Zabbix 6.0 / Ubuntu 20.04 Server
+ 25.03.2023 16:56:17 done 2. Как добавлять L2 свитчи в Zabbix 6.0? / Zabbix 6.0 / Switch / SNR / Zyxel
+ 25.03.2023 16:56:19 done 3. Как мониторить Linux сервера с помощью Zabbix 6.0 ?  / Monitoring Linux / Zabbix 6.0
+ 25.03.2023 16:56:21 done 4. Как отправлять Алерты из Zabbix Server 6.0 в Telegram ?  / Alert / Telegram / Zabbix 6.0
+ 25.03.2023 16:56:24 done 5. Обновление Zabbix Server до последней версии 6.0 / Zabbix 6.0 / Update Zabbix
+ 25.03.2023 16:56:26 done 5. Обновление Zabbix-Server  до 6.0  / Zabbix update to 6.0 version
+ 25.03.2023 16:56:28 done 6.  Как мониторить Windows в Zabbix 6.0 ?  / Windows Server / Zabbix 6
+ 25.03.2023 16:56:30 done 7.  Как мониторить VMware Esxi c Zabbix-Server ?  /  VMware ESXI / Zabbix / Monitoring
+ 25.03.2023 16:56:32 done 8.  Как добавить Zabbix Plugin в Grafana Server ?  / Zabbix / Grafana / Graphics / Metrics
+ 25.03.2023 16:56:34 done 9. Как мониторить ssh-соединений с помощью Zabbix Server 6.0 ?   /  Zabbix / ssh-connect /monitoring
+ 25.03.2023 16:56:36 done 10. Как быстро поднять Zabbix Server в Docker ? / Zabbix Server/ Docker / Linux / Install
+ 25.03.2023 16:56:38 done 11. Как быстро поднять Zabbix Server 6.2 ? / Zabbix Server 6.2/ Ubuntu 22.04 Server / Install/
+ 25.03.2023 16:56:41 done 12.  Как мониторить удалённую БД Mysql c помощью Zabbix Server /Mysql /Remote/Monitoring/Zabbix Serv
+ 25.03.2023 16:56:43 done 13. Как сделать прямые ссылки по SSH/Telnet из карты сети Zabbix-Server ? /ssh/telnet/Zabbix-map/
+ 25.03.2023 16:56:45 done 14. Установка Zabbix Server 6.4 на Ubuntu Server 22.04 /Zabbix Server/Ubuntu 22.04/install/6.4/howto
+ 25.03.2023 16:56:45 done Мониторинговые системы (Zabbix)
+ 25.03.2023 16:56:46 good end 
+ 25.03.2023 16:56:46 good end 

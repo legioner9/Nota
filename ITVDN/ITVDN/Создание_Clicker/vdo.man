@@ -1,0 +1,8 @@
+### [Unity 3D. Создание Clicker с минимальными знаниями программирования. Урок 1.](https://www.youtube.com/watch?v=U0Ntwwbue6o&amp;list=PLvItDmb0sZw95fkGZQNwmbJeZnq6rLch3&amp;index=1)
+### [Unity 3D. Создание Clicker. Урок 2. Награды и появление новых монстров.](https://www.youtube.com/watch?v=55u2Y_VrylI&amp;list=PLvItDmb0sZw95fkGZQNwmbJeZnq6rLch3&amp;index=2)
+### [Unity 3D. Создание Clicker. Урок 3. Здоровье и новые типы монстров.](https://www.youtube.com/watch?v=8GQbd_kW_hg&amp;list=PLvItDmb0sZw95fkGZQNwmbJeZnq6rLch3&amp;index=3)
+### [Unity 3D. Создание Clicker. Урок 4. Игрок и визуальное отображение атаки.](https://www.youtube.com/watch?v=wfAHqJKuWDk&amp;list=PLvItDmb0sZw95fkGZQNwmbJeZnq6rLch3&amp;index=4)
+### [Unity 3D. Создание Clicker. Урок 5.Улучшение оружия за игровое золото.](https://www.youtube.com/watch?v=ER7KjtiuyW8&amp;list=PLvItDmb0sZw95fkGZQNwmbJeZnq6rLch3&amp;index=5)
+### [Unity 3D. Создание Clicker.Урок 6. Cоздание помощников](https://www.youtube.com/watch?v=_KPozg_BIRc&amp;list=PLvItDmb0sZw95fkGZQNwmbJeZnq6rLch3&amp;index=6)
+### [Unity 3D. Создание Clicker.Урок 7. Помощники и новые типы монстров](https://www.youtube.com/watch?v=JW9ecl-W6eQ&amp;list=PLvItDmb0sZw95fkGZQNwmbJeZnq6rLch3&amp;index=7)
+### [Unity 3D. Создание Clicker.Урок 8. Рубинчики и окончание игры.](https://www.youtube.com/watch?v=K9XDsdl30-g&amp;list=PLvItDmb0sZw95fkGZQNwmbJeZnq6rLch3&amp;index=8)

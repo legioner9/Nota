@@ -1,0 +1,3 @@
+# [Дни Решений](https://www.youtube.com/@teleinfoRU/playlists)
+## [IP телефония (VoIP): лучшие решения](https://www.youtube.com/playlist?list=PLe8r5bEnvnZP6yOWIYyyygqPvS58uMQBJ)
+### [Безопасность VoIP ч4. Сканирование сети через гостевой Wi-Fi при помощи программы Zenmap](https://www.youtube.com/watch?v=qrsK22UbBCo&amp;list=PLe8r5bEnvnZP6yOWIYyyygqPvS58uMQBJ&amp;index=38)

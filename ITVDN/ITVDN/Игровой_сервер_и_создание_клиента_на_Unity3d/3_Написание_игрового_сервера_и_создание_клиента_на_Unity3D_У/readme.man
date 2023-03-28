@@ -1,0 +1,3 @@
+# [ITVDN](https://www.youtube.com/@ITVDN/playlists?view=1)
+## [Игровой сервер и создание клиента на Unity3d](https://www.youtube.com/playlist?list=PLvItDmb0sZw9M6z1FZ9q73iEUgp-qiaWC)
+### [Написание игрового сервера и создание клиента на Unity3D. Урок 3.](https://www.youtube.com/watch?v=TxaztQuNqqo&amp;list=PLvItDmb0sZw9M6z1FZ9q73iEUgp-qiaWC&amp;index=3)

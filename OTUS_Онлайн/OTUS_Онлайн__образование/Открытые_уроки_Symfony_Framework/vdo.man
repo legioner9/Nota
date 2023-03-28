@@ -1,0 +1,5 @@
+### [Symfony. Быстрый старт // Демо-занятие курса «Symfony Framework»](https://www.youtube.com/watch?v=mpGy7VPir3E&amp;list=PLfnFOImnyWRXZZYczFNRPDLxFOUCHEuIZ&amp;index=1)
+### [Микрофреймворки  сравнение производительности Symfony и Symlex // Занятие курса «Symfony Framework»](https://www.youtube.com/watch?v=rjObVpw9qdQ&amp;list=PLfnFOImnyWRXZZYczFNRPDLxFOUCHEuIZ&amp;index=2)
+### [Интенсив «Создание системы статистики для онлайн-магазина». День 2 // Курс «Symfony Framework»](https://www.youtube.com/watch?v=XKvhi-2wY6Y&amp;list=PLfnFOImnyWRXZZYczFNRPDLxFOUCHEuIZ&amp;index=3)
+### [Интенсив «Создание системы статистики для онлайн-магазина». День 1 // Курс «Symfony Framework»](https://www.youtube.com/watch?v=4hLZSwCRteo&amp;list=PLfnFOImnyWRXZZYczFNRPDLxFOUCHEuIZ&amp;index=4)
+### [Инвалидация кэша в распределённой системе // Демо-занятие курса «Symfony Framework»](https://www.youtube.com/watch?v=Vv3pgMFJGCk&amp;list=PLfnFOImnyWRXZZYczFNRPDLxFOUCHEuIZ&amp;index=5)

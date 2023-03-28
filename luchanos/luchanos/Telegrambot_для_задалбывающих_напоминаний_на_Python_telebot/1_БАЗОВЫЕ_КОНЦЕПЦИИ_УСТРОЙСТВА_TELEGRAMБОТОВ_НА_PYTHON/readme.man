@@ -1,0 +1,3 @@
+# [luchanos](https://www.youtube.com/@luchanos/playlists?view=1&sort=dd&shelf_id=0)
+## [Telegram-bot для задалбывающих напоминаний на Python (telebot)](https://www.youtube.com/playlist?list=PLlKID9PnOE5i8kDKcC8pgaM07TTdRB6Au)
+### [БАЗОВЫЕ КОНЦЕПЦИИ УСТРОЙСТВА TELEGRAM-БОТОВ НА PYTHON](https://www.youtube.com/watch?v=nIWJqrspXRM&amp;list=PLlKID9PnOE5i8kDKcC8pgaM07TTdRB6Au&amp;index=1)

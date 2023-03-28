@@ -1,0 +1,3 @@
+# [Слёрм](https://www.youtube.com/@slurm_io/playlists)
+## [Сети для DevOps](https://www.youtube.com/playlist?list=PL8D2P0ruohOB8ucZEPFoa6juYcoR4Bd_-)
+### [Основы траблшутинга сетей в Linux](https://www.youtube.com/watch?v=tnIFQNTU8OY&amp;list=PL8D2P0ruohOB8ucZEPFoa6juYcoR4Bd_-&amp;index=1)

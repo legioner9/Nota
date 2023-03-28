@@ -1,0 +1,3 @@
+# [Школа itProger / Программирование](https://www.youtube.com/@itproger/playlists?view=1)
+## [Уроки Unity C# с нуля / Изучение основ программированная в Unity](https://www.youtube.com/playlist?list=PLDyJYA6aTY1mKdPdoxBW_UAiI-I7enTnb)
+### [Уроки C# Unity / #7 – Отслеживание действий пользователя](https://www.youtube.com/watch?v=ZtlIH4h8OZU&amp;list=PLDyJYA6aTY1mKdPdoxBW_UAiI-I7enTnb&amp;index=7)

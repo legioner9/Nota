@@ -1,0 +1,6 @@
+### [Обзор Java Database Connectivity. JDBC и Hibernate. Урок 1](https://www.youtube.com/watch?v=X-Jpc10os5o&amp;list=PLvItDmb0sZw89wKgHPUTisxCf8_a4L8o9&amp;index=1)
+### [Рассмотрение шаблона DAO. JDBC и Hibernate. Урок 2](https://www.youtube.com/watch?v=yWyqB0yud84&amp;list=PLvItDmb0sZw89wKgHPUTisxCf8_a4L8o9&amp;index=2)
+### [Что такое Hibernate? Создание первого приложения. JDBC и Hibernate. Урок 3](https://www.youtube.com/watch?v=M9awjnyiC-M&amp;list=PLvItDmb0sZw89wKgHPUTisxCf8_a4L8o9&amp;index=3)
+### [В чем разница между JPA и Hibernate? JDBC и Hibernate. Урок 4](https://www.youtube.com/watch?v=fZDhZWCf5Ao&amp;list=PLvItDmb0sZw89wKgHPUTisxCf8_a4L8o9&amp;index=4)
+### [Работа с Hibernate. JDBC и Hibernate. Урок 5](https://www.youtube.com/watch?v=AEGWKrJz7Jo&amp;list=PLvItDmb0sZw89wKgHPUTisxCf8_a4L8o9&amp;index=5)
+### [Расширенные возможности Hibernate. JDBC и Hibernate. Урок 6](https://www.youtube.com/watch?v=MtJ9Helav_s&amp;list=PLvItDmb0sZw89wKgHPUTisxCf8_a4L8o9&amp;index=6)

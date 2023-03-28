@@ -1,0 +1,4 @@
+### [Web Testing. Урок 1. Знакомство со структурой клиент серверных приложений](https://www.youtube.com/watch?v=RL_aSbRzHFs&amp;list=PLvItDmb0sZw-NHhrgG6voZxCUfm1AKN7K&amp;index=1)
+### [Web Testing. Урок 2. Протокол HTTP. Структура запроса/ответа. Методы HTTP](https://www.youtube.com/watch?v=-jR7mGCNXBo&amp;list=PLvItDmb0sZw-NHhrgG6voZxCUfm1AKN7K&amp;index=2)
+### [Web Testing. Урок 3. Chrome Dev Tools. Вкладка «Network»](https://www.youtube.com/watch?v=23xpnhgxxYY&amp;list=PLvItDmb0sZw-NHhrgG6voZxCUfm1AKN7K&amp;index=3)
+### [Web Testing. Урок 4. Chrome Dev Tools. Вкладка «Elements». Cookies](https://www.youtube.com/watch?v=_xnMtfSb7Io&amp;list=PLvItDmb0sZw-NHhrgG6voZxCUfm1AKN7K&amp;index=4)

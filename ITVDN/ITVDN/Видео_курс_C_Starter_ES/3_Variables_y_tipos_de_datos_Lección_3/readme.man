@@ -1,0 +1,3 @@
+# [ITVDN](https://www.youtube.com/@ITVDN/playlists?view=1)
+## [Видео курс C# Starter (ES)](https://www.youtube.com/playlist?list=PLvItDmb0sZw_8aCaFefeyqpNDxaYQC5xd)
+### [Variables y tipos de datos. Lección 3.](https://www.youtube.com/watch?v=ygfUGCSPYtI&amp;list=PLvItDmb0sZw_8aCaFefeyqpNDxaYQC5xd&amp;index=3)

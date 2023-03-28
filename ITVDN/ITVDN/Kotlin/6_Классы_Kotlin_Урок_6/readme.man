@@ -1,0 +1,3 @@
+# [ITVDN](https://www.youtube.com/@ITVDN/playlists?view=1)
+## [Kotlin](https://www.youtube.com/playlist?list=PLvItDmb0sZw-WX3hTubbc30CkZK5DVID1)
+### [Классы. Kotlin. Урок 6](https://www.youtube.com/watch?v=LvuL87TNZjQ&amp;list=PLvItDmb0sZw-WX3hTubbc30CkZK5DVID1&amp;index=6)

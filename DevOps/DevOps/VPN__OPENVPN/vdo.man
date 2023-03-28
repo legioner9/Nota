@@ -1,0 +1,2 @@
+### [1.  Как установить OpenVPN Client в Windows ?  /OpenVPN  / Windows /](https://www.youtube.com/watch?v=1wZESQhIsKU&amp;list=PLkKSgP0nEL0B4EY-sTvJ8M7mNa1xjZswV&amp;index=1)
+### [2.  Как быстро поднять OpenVPN Server ?  / OpenVPN / Linux  / Ubuntu /](https://www.youtube.com/watch?v=bpXR8KmtUFc&amp;list=PLkKSgP0nEL0B4EY-sTvJ8M7mNa1xjZswV&amp;index=2)

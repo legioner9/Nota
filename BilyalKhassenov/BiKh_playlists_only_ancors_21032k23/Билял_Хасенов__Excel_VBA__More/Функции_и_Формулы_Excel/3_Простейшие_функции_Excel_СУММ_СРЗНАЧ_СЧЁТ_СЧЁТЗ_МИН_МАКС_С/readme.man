@@ -1,0 +1,3 @@
+# [Билял Хасенов – Excel, VBA & More](https://www.youtube.com/@BilyalKhassenov/playlists?view=58)
+## [Функции и Формулы Excel](https://www.youtube.com/playlist?list=PLsPotgU_ELTqAgQJs8GdTB1yWEkGFdOtz)
+### [Простейшие функции Excel: СУММ, СРЗНАЧ, СЧЁТ, СЧЁТЗ, МИН, МАКС, СТОЛБЕЦ и т. д. - Функции Excel (3)](https://www.youtube.com/watch?v=pzitXGx5XG4&amp;list=PLsPotgU_ELTqAgQJs8GdTB1yWEkGFdOtz&amp;index=3)

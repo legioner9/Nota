@@ -1,0 +1,3 @@
+# [UNИX](https://www.youtube.com/@unx7784/playlists)
+## [[UNИX] Совместная разработка на Python (весна 2023)](https://www.youtube.com/playlist?list=PL6kSdcHYB3x6eVVuuAPd7drsVv_wTdq7z)
+### [02. Публичный репозиторий. Сторонние модули из pypi (эфир)](https://www.youtube.com/watch?v=5IZaavLpKQQ&amp;list=PL6kSdcHYB3x6eVVuuAPd7drsVv_wTdq7z&amp;index=8)

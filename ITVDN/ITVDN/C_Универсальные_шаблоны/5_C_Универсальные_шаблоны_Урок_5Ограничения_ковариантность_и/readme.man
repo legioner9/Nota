@@ -1,0 +1,3 @@
+# [ITVDN](https://www.youtube.com/@ITVDN/playlists?view=1)
+## [C# Универсальные шаблоны](https://www.youtube.com/playlist?list=PLvItDmb0sZw8AIfuciRvq7wd48I1UVCuT)
+### [C# Универсальные шаблоны. Урок 5.Ограничения, ковариантность и контравариантность.](https://www.youtube.com/watch?v=SFLsgdVzQTo&amp;list=PLvItDmb0sZw8AIfuciRvq7wd48I1UVCuT&amp;index=5)

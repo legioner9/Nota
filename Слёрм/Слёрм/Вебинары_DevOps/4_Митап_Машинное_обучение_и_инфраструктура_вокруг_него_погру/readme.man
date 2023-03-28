@@ -1,0 +1,3 @@
+# [Слёрм](https://www.youtube.com/@slurm_io/playlists)
+## [Вебинары DevOps](https://www.youtube.com/playlist?list=PL8D2P0ruohODzihD0D0FZXkVHXtXbb6w3)
+### [Митап «Машинное обучение и инфраструктура вокруг него: погружение DevOps-специалиста в мир MLOps»](https://www.youtube.com/watch?v=dIpBH-OWtQA&amp;list=PL8D2P0ruohODzihD0D0FZXkVHXtXbb6w3&amp;index=4)

@@ -1,0 +1,3 @@
+# [Bogdan Stashchuk](https://www.youtube.com/@Bogdan_Stashchuk/playlists)
+## [MongoDB Indexing](https://www.youtube.com/playlist?list=PLWkguCWKqN9Pokkb0tDgwYxo2vNuc8iFT)
+### [15 MongoDB Indexing - Example 6: Query performance without index](https://www.youtube.com/watch?v=5kW13JK2QSs&amp;list=PLWkguCWKqN9Pokkb0tDgwYxo2vNuc8iFT&amp;index=15)

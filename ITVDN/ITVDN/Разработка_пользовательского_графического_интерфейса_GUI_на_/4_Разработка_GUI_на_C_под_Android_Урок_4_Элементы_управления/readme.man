@@ -1,0 +1,3 @@
+# [ITVDN](https://www.youtube.com/@ITVDN/playlists?view=1)
+## [Разработка пользовательского графического интерфейса (GUI) на C# под Android](https://www.youtube.com/playlist?list=PLvItDmb0sZw-S1HjqMtEHMtRcH_pOAojh)
+### [Разработка GUI на C# под Android. Урок 4. Элементы управления. Часть 2.](https://www.youtube.com/watch?v=fJ3VolSmQs0&amp;list=PLvItDmb0sZw-S1HjqMtEHMtRcH_pOAojh&amp;index=4)

@@ -1,0 +1,3 @@
+# [Bogdan Stashchuk](https://www.youtube.com/@Bogdan_Stashchuk/playlists)
+## [Advanced Git](https://www.youtube.com/playlist?list=PLWkguCWKqN9N9mvHWFAXqSMStslkILiP0)
+### [Git Interactive rebasing with squashing in the local repository | Advanced Git - 16](https://www.youtube.com/watch?v=JI1_NQ44u-w&amp;list=PLWkguCWKqN9N9mvHWFAXqSMStslkILiP0&amp;index=16)

@@ -1,0 +1,3 @@
+# [Python Hub Studio](https://www.youtube.com/@PythonHubStudio/playlists)
+## [Python tkinter - Создание крутого проекта GUI приложения](https://www.youtube.com/playlist?list=PLNi5HdK6QEmUIkR63RLqkECTCUwThQtcN)
+### [TKINTER Python updating widgets and root after 4](https://www.youtube.com/watch?v=nmgRzuSyXW0&amp;list=PLNi5HdK6QEmUIkR63RLqkECTCUwThQtcN&amp;index=4)

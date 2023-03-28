@@ -1,0 +1,3 @@
+# [alishev](https://www.youtube.com/@alishevN/playlists)
+## [Java EE для начинающих](https://www.youtube.com/playlist?list=PLAma_mKffTOTTFqIkLXgHqVuL6xJhb0mr)
+### [Java EE для начинающих. Урок 3: Практика. Создание Java EE приложения. Первый сервлет.](https://www.youtube.com/watch?v=hk4rzwH9-kY&amp;list=PLAma_mKffTOTTFqIkLXgHqVuL6xJhb0mr&amp;index=3)

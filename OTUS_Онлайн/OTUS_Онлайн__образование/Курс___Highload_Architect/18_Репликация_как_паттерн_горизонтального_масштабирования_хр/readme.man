@@ -1,0 +1,3 @@
+# [OTUS Онлайн - образование](https://www.youtube.com/@otus_education/playlists)
+## [Курс |  Highload Architect](https://www.youtube.com/playlist?list=PLfnFOImnyWRVWEqnZ9nOjKmkW71JOs62a)
+### [Репликация как паттерн горизонтального масштабирования хранилищ // курс «Highload Architect»](https://www.youtube.com/watch?v=hjUsW4bEN4g&amp;list=PLfnFOImnyWRVWEqnZ9nOjKmkW71JOs62a&amp;index=18)

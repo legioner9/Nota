@@ -1,0 +1,3 @@
+# [Станислав Кузнецов](https://www.youtube.com/@user-qz5qv6uc8y/playlists)
+## [Windows Server](https://www.youtube.com/playlist?list=PL9x2twfbtCCPOt4pJxnK29ARgzV-9neBl)
+### [Routing setup on Windows Server 2019](https://www.youtube.com/watch?v=UnZuIOCa8Vw&amp;list=PL9x2twfbtCCPOt4pJxnK29ARgzV-9neBl&amp;index=17)

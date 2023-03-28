@@ -1,0 +1,3 @@
+# [ITVDN](https://www.youtube.com/@ITVDN/playlists?view=1)
+## [Python Essential](https://www.youtube.com/playlist?list=PLvItDmb0sZw_MVK2txwtBSHAzaYRrOdiJ)
+### [Python Essential. Урок 9. Элементы функционального программирования в Python](https://www.youtube.com/watch?v=tjn5YJObyY0&amp;list=PLvItDmb0sZw_MVK2txwtBSHAzaYRrOdiJ&amp;index=9)

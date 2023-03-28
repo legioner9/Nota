@@ -1,0 +1,3 @@
+# [Школа itProger / Программирование](https://www.youtube.com/@itproger/playlists?view=1)
+## [Создание 3Д игры на Unity / Разработка стратегии с нуля](https://www.youtube.com/playlist?list=PLDyJYA6aTY1nDIUVImS46macA7lCzSjLx)
+### [Создание 3D игры на Unity / Урок #3 – Работа с камерой](https://www.youtube.com/watch?v=fy_TbDQoQns&amp;list=PLDyJYA6aTY1nDIUVImS46macA7lCzSjLx&amp;index=3)

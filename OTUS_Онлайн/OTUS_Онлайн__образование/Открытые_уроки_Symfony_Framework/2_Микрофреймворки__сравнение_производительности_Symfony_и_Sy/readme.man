@@ -1,0 +1,3 @@
+# [OTUS Онлайн - образование](https://www.youtube.com/@otus_education/playlists)
+## [Открытые уроки Symfony Framework](https://www.youtube.com/playlist?list=PLfnFOImnyWRXZZYczFNRPDLxFOUCHEuIZ)
+### [Микрофреймворки  сравнение производительности Symfony и Symlex // Занятие курса «Symfony Framework»](https://www.youtube.com/watch?v=rjObVpw9qdQ&amp;list=PLfnFOImnyWRXZZYczFNRPDLxFOUCHEuIZ&amp;index=2)

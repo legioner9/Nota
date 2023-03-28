@@ -1,0 +1,3 @@
+# [ITVDN](https://www.youtube.com/@ITVDN/playlists?view=1)
+## [Еntity Framework Core 2.0](https://www.youtube.com/playlist?list=PLvItDmb0sZw9ImaZ6Ha9nArLsXNfMLXU7)
+### [Еntity Framework Core 2.0. Отношения между моделями. Наследование. Урок 3](https://www.youtube.com/watch?v=jpBra476V3M&amp;list=PLvItDmb0sZw9ImaZ6Ha9nArLsXNfMLXU7&amp;index=3)

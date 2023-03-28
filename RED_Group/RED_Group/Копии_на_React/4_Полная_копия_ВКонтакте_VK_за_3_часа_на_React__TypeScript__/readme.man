@@ -1,0 +1,3 @@
+# [RED Group](https://www.youtube.com/@REDGroup/playlists)
+## [Копии на React](https://www.youtube.com/playlist?list=PLXkonRjGXZwyCAZf2ANYfhJ0r751ODjCh)
+### [Полная копия ВКонтакте VK за 3 часа на React + TypeScript + Firebase + Material UI](https://www.youtube.com/watch?v=OyE49CsSdiU&amp;list=PLXkonRjGXZwyCAZf2ANYfhJ0r751ODjCh&amp;index=4)

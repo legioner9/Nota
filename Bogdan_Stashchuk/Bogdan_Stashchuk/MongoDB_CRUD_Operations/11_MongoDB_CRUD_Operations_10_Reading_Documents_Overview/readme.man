@@ -1,0 +1,3 @@
+# [Bogdan Stashchuk](https://www.youtube.com/@Bogdan_Stashchuk/playlists)
+## [MongoDB CRUD Operations](https://www.youtube.com/playlist?list=PLWkguCWKqN9PbQhhsrewFd3TPuo3kLPQ1)
+### [MongoDB CRUD Operations: 10 Reading Documents Overview](https://www.youtube.com/watch?v=nRI1mYZ2R-4&amp;list=PLWkguCWKqN9PbQhhsrewFd3TPuo3kLPQ1&amp;index=11)

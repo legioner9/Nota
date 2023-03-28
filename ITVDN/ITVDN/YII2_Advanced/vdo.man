@@ -1,0 +1,2 @@
+### [Обзор курса &quot;YII2 Advanced&quot;](https://www.youtube.com/watch?v=ZRul1nPxq_0&amp;list=PLvItDmb0sZw9iOGmIteERdK71EkOVM9ru&amp;index=1)
+### [Установка Yii2 Аdvanced с помощью Composer. Настройка и запуск проекта](https://www.youtube.com/watch?v=rnypy3y_IlY&amp;list=PLvItDmb0sZw9iOGmIteERdK71EkOVM9ru&amp;index=2)

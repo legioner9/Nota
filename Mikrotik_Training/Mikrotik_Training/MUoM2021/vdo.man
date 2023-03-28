@@ -1,0 +1,5 @@
+### [Автоматизация резервного копирования оборудования Mikrotik](https://www.youtube.com/watch?v=Nv7rzRs_O-A&amp;list=PLg90hRDCH9A4bcHk-joRnwUNvrSz0Ud8I&amp;index=1)
+### [В очередь, сукины фреймы, в очередь!](https://www.youtube.com/watch?v=c3fqscIozQg&amp;list=PLg90hRDCH9A4bcHk-joRnwUNvrSz0Ud8I&amp;index=2)
+### [Аппаратная маршрутизация в коммутаторах crs3xx на RouterOS 7 и построение локальных сетей](https://www.youtube.com/watch?v=ewWGf0jdS6s&amp;list=PLg90hRDCH9A4bcHk-joRnwUNvrSz0Ud8I&amp;index=3)
+### [Набор цветных костылей: скрипты, кейсы, идеи](https://www.youtube.com/watch?v=TdLzKPYTjiY&amp;list=PLg90hRDCH9A4bcHk-joRnwUNvrSz0Ud8I&amp;index=4)
+### [Multiwan &amp; routing in RouterOS 7](https://www.youtube.com/watch?v=d7Iid1u7luw&amp;list=PLg90hRDCH9A4bcHk-joRnwUNvrSz0Ud8I&amp;index=5)

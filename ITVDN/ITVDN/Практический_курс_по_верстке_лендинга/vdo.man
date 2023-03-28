@@ -1,0 +1,8 @@
+### [Практический курс по верстке лендинга. Урок 1. Организация рабочего процесса](https://www.youtube.com/watch?v=v_bl7959FCc&amp;list=PLvItDmb0sZw-KU4YCyiuj5ItZ541RDTxg&amp;index=1)
+### [Практический курс по верстке лендинга. Урок 3. Препроцессор SASS](https://www.youtube.com/watch?v=09BAwDX86_o&amp;list=PLvItDmb0sZw-KU4YCyiuj5ItZ541RDTxg&amp;index=2)
+### [Практический курс по верстке лендинга. Урок 4. Начало верстки](https://www.youtube.com/watch?v=VQZxvEd8Sgg&amp;list=PLvItDmb0sZw-KU4YCyiuj5ItZ541RDTxg&amp;index=3)
+### [Практический курс по верстке лендинга. Урок 5. Верстка Часть 2](https://www.youtube.com/watch?v=JaqOg8XOLDI&amp;list=PLvItDmb0sZw-KU4YCyiuj5ItZ541RDTxg&amp;index=4)
+### [Практический курс по верстке лендинга. Урок 6. Верстка Часть 3](https://www.youtube.com/watch?v=dBS3t0-0tus&amp;list=PLvItDmb0sZw-KU4YCyiuj5ItZ541RDTxg&amp;index=5)
+### [Практический курс по верстке лендинга. Урок 7. Верстка Часть 4](https://www.youtube.com/watch?v=c4KnfuRSFVo&amp;list=PLvItDmb0sZw-KU4YCyiuj5ItZ541RDTxg&amp;index=6)
+### [Практический курс по верстке лендинга. Урок 8. Окончание верстки](https://www.youtube.com/watch?v=po5_8Vohuk4&amp;list=PLvItDmb0sZw-KU4YCyiuj5ItZ541RDTxg&amp;index=7)
+### [Практический курс по верстке лендинга. Урок 9. Интерактив на JS](https://www.youtube.com/watch?v=RlmYTkM0m4Y&amp;list=PLvItDmb0sZw-KU4YCyiuj5ItZ541RDTxg&amp;index=8)

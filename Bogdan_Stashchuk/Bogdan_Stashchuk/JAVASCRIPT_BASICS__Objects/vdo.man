@@ -1,0 +1,8 @@
+### [JAVASCRIPT BASICS - Objects](https://www.youtube.com/watch?v=k-NNIlFG2Hw&amp;list=PLWkguCWKqN9M9Jwm-INTTB-l9fFQUE0qU&amp;index=1)
+### [01: LECTURE - Variety of Objects in JavaScript (JAVASCRIPT BASICS - Objects)](https://www.youtube.com/watch?v=eHbLGVDhTfw&amp;list=PLWkguCWKqN9M9Jwm-INTTB-l9fFQUE0qU&amp;index=2)
+### [02: LECTURE - Objects Modification (JAVASCRIPT BASICS - Objects)](https://www.youtube.com/watch?v=7kPVg2kE24o&amp;list=PLWkguCWKqN9M9Jwm-INTTB-l9fFQUE0qU&amp;index=3)
+### [03: PRACTICE and CHALLENGES - Objects in JavaScript - PART 1 (JAVASCRIPT BASICS - Objects)](https://www.youtube.com/watch?v=HsnrFWQc7q0&amp;list=PLWkguCWKqN9M9Jwm-INTTB-l9fFQUE0qU&amp;index=4)
+### [04: PRACTICE and CHALLENGES - Objects - PART 2 (JAVASCRIPT BASICS - Objects)](https://www.youtube.com/watch?v=WrDyeN5bpyw&amp;list=PLWkguCWKqN9M9Jwm-INTTB-l9fFQUE0qU&amp;index=5)
+### [05: PRACTICE and CHALLENGES - Objects - PART 3 (JAVASCRIPT BASICS - Objects)](https://www.youtube.com/watch?v=5nQgWzjkkvA&amp;list=PLWkguCWKqN9M9Jwm-INTTB-l9fFQUE0qU&amp;index=6)
+### [06: LECTURE - Global Objects &quot;window&quot; and &quot;global&quot; (JAVASCRIPT BASICS - Objects)](https://www.youtube.com/watch?v=DSoOZK6J51A&amp;list=PLWkguCWKqN9M9Jwm-INTTB-l9fFQUE0qU&amp;index=7)
+### [07: LECTURE - Methods of the Object (JAVASCRIPT BASICS - Objects)](https://www.youtube.com/watch?v=ebtL82Wx6uU&amp;list=PLWkguCWKqN9M9Jwm-INTTB-l9fFQUE0qU&amp;index=8)

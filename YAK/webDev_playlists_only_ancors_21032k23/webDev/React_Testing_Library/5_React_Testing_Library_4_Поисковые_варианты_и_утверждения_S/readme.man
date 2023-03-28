@@ -1,0 +1,3 @@
+# [webDev](https://www.youtube.com/@YauhenKavalchuk/playlists?view=1)
+## [React Testing Library](https://www.youtube.com/playlist?list=PLNkWIWHIRwMEsMUc0B-lYb7DTLroWlKLK)
+### [React Testing Library #4 Поисковые варианты и утверждения (Search Variants &amp; Assertive Functions)](https://www.youtube.com/watch?v=R_x5citvlL4&amp;list=PLNkWIWHIRwMEsMUc0B-lYb7DTLroWlKLK&amp;index=5)

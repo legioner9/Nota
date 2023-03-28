@@ -1,0 +1,3 @@
+# [PyLounge - программирование на Python и всё о IT](https://www.youtube.com/@pylounge/playlists)
+## [ОбIt](https://www.youtube.com/playlist?list=PLhVGaKnJDpzhNchJ4lpFyX1TqKuKd4BDE)
+### [Основы Linux Для Программистов | Работа С Файловой Системой Linux №1](https://www.youtube.com/watch?v=jZWab8l1fUo&amp;list=PLhVGaKnJDpzhNchJ4lpFyX1TqKuKd4BDE&amp;index=27)

@@ -1,0 +1,8 @@
+### [Базовые шаблоны проектирования. Архитектура Android приложений. Урок 1](https://www.youtube.com/watch?v=xECmT5at-jU&amp;list=PLvItDmb0sZw8CjXIxOcj-mbn7ZCCnL3rd&amp;index=1)
+### [Паттерн MVP. Архитектура Android приложений. Урок 2](https://www.youtube.com/watch?v=NSE1lLw8EpU&amp;list=PLvItDmb0sZw8CjXIxOcj-mbn7ZCCnL3rd&amp;index=2)
+### [Паттерн MVP. Часть 2. Архитектура Android приложений. Урок 3](https://www.youtube.com/watch?v=pmyS4vtyoKM&amp;list=PLvItDmb0sZw8CjXIxOcj-mbn7ZCCnL3rd&amp;index=3)
+### [Паттерн MVVM. Архитектура Android приложений. Урок 4](https://www.youtube.com/watch?v=oAqQRF3667Y&amp;list=PLvItDmb0sZw8CjXIxOcj-mbn7ZCCnL3rd&amp;index=4)
+### [Паттерн MVVM (клиент-серверное приложение). Архитектура Android приложений. Урок 5](https://www.youtube.com/watch?v=99i7sdHhv7A&amp;list=PLvItDmb0sZw8CjXIxOcj-mbn7ZCCnL3rd&amp;index=5)
+### [Android Architecture Components. Архитектура Android приложений. Урок 6](https://www.youtube.com/watch?v=r6cVeR-gLw4&amp;list=PLvItDmb0sZw8CjXIxOcj-mbn7ZCCnL3rd&amp;index=6)
+### [Клиент-серверное приложение. Архитектура Android приложений. Урок 7](https://www.youtube.com/watch?v=QVlZDcH4u9g&amp;list=PLvItDmb0sZw8CjXIxOcj-mbn7ZCCnL3rd&amp;index=7)
+### [Основы тестирования Android приложений. Архитектура Android приложений. Урок 8](https://www.youtube.com/watch?v=rpqydDVAf7E&amp;list=PLvItDmb0sZw8CjXIxOcj-mbn7ZCCnL3rd&amp;index=8)

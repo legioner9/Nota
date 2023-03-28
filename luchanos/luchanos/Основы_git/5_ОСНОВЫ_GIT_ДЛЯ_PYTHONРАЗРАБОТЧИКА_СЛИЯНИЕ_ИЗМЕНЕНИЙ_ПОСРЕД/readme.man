@@ -1,0 +1,3 @@
+# [luchanos](https://www.youtube.com/@luchanos/playlists?view=1&sort=dd&shelf_id=0)
+## [Основы git](https://www.youtube.com/playlist?list=PLlKID9PnOE5hNxXTOG8pOHwIlpmDtL6FM)
+### [ОСНОВЫ GIT ДЛЯ PYTHON-РАЗРАБОТЧИКА. СЛИЯНИЕ ИЗМЕНЕНИЙ ПОСРЕДСТВОМ REBASE (ЧАСТЬ 4)](https://www.youtube.com/watch?v=95QTldd_Cpw&amp;list=PLlKID9PnOE5hNxXTOG8pOHwIlpmDtL6FM&amp;index=5)

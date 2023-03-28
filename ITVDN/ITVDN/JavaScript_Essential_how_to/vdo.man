@@ -1,0 +1,8 @@
+### [How to JavaScript. Урок 1. Как интегрировать JavaScript на страницу?](https://www.youtube.com/watch?v=guEjNeyG1Ko&amp;list=PLvItDmb0sZw_eQ3cQMEHTpt_JUga1qvgm&amp;index=1)
+### [How to JavaScript. Урок 2. Возможности JavaScript](https://www.youtube.com/watch?v=wQjf9JU4-Ag&amp;list=PLvItDmb0sZw_eQ3cQMEHTpt_JUga1qvgm&amp;index=2)
+### [How to JavaScript. Урок 3. Какие есть способы создания переменных в JavaScript](https://www.youtube.com/watch?v=mkr9Ln3rBlE&amp;list=PLvItDmb0sZw_eQ3cQMEHTpt_JUga1qvgm&amp;index=3)
+### [How to JavaScript. Урок 4. Как правильно именовать переменные в JavaScript?](https://www.youtube.com/watch?v=1geMp5v4uXc&amp;list=PLvItDmb0sZw_eQ3cQMEHTpt_JUga1qvgm&amp;index=4)
+### [How to JavaScript. Урок 5. Как правильно создавать константы в JavaScript](https://www.youtube.com/watch?v=YJvfZflbBwU&amp;list=PLvItDmb0sZw_eQ3cQMEHTpt_JUga1qvgm&amp;index=5)
+### [How to JavaScript. Урок 8. Как работают самые популярные арифметические операторы в JavaScript](https://www.youtube.com/watch?v=0GX_X4yqOmE&amp;list=PLvItDmb0sZw_eQ3cQMEHTpt_JUga1qvgm&amp;index=6)
+### [How to JavaScript. Урок 9. Как работает инкремент и декремент в JavaScript](https://www.youtube.com/watch?v=TLYDpW6bKDQ&amp;list=PLvItDmb0sZw_eQ3cQMEHTpt_JUga1qvgm&amp;index=7)
+### [How to JavaScript. Урок 11. Как работает конкатенация строк в JavaScript](https://www.youtube.com/watch?v=_B1drLjJ-xY&amp;list=PLvItDmb0sZw_eQ3cQMEHTpt_JUga1qvgm&amp;index=8)

@@ -1,0 +1,3 @@
+# [Volodya Mozhenkov](https://www.youtube.com/@VladimirMozhenkov/playlists?view=1)
+## [C++ и C](https://www.youtube.com/playlist?list=PLY7PmJJFH5nQKVoJja5vgJKYzThNa-fr2)
+### [if на примере C++](https://www.youtube.com/watch?v=X_loA_lsgMg&amp;list=PLY7PmJJFH5nQKVoJja5vgJKYzThNa-fr2&amp;index=4)

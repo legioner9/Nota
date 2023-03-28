@@ -1,0 +1,3 @@
+# [Школа itProger / Программирование](https://www.youtube.com/@itproger/playlists?view=1)
+## [Уроки Python для начинающих / Программирование на Питон с нуля](https://www.youtube.com/playlist?list=PLDyJYA6aTY1lPWXBPk0gw6gR8fEtPDGKa)
+### [Уроки Python с нуля / #12 – Функции (def, lambda)](https://www.youtube.com/watch?v=6K5v4--G__U&amp;list=PLDyJYA6aTY1lPWXBPk0gw6gR8fEtPDGKa&amp;index=12)

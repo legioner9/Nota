@@ -1,0 +1,3 @@
+### [РедСлёрм. Веб-серверы: опыт и практика Southbridge (Сергей Бондарев)](https://www.youtube.com/watch?v=NC4_-s4Sbjs&amp;list=PL8D2P0ruohODff_L2atuopkdktvawJuYa&amp;index=1)
+### [РедСлёрм. Обзор скриптов автоматизации и мониторинга Southbridge (Евгений Терешков)](https://www.youtube.com/watch?v=OdyHGx9tCrY&amp;list=PL8D2P0ruohODff_L2atuopkdktvawJuYa&amp;index=2)
+### [РедСлёрм. Мониторинг, комплексный подход (Евгений Терешков)](https://www.youtube.com/watch?v=GU8Yx9LOW9c&amp;list=PL8D2P0ruohODff_L2atuopkdktvawJuYa&amp;index=3)

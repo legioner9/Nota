@@ -1,0 +1,3 @@
+# [OTUS Онлайн - образование](https://www.youtube.com/@otus_education/playlists)
+## [Курс | Microservice Architecture](https://www.youtube.com/playlist?list=PLfnFOImnyWRW825IU_xG-IeFP1Nvm109a)
+### [Мониторинг и Алертинг // Демо-занятие курса «Software Architect»](https://www.youtube.com/watch?v=YofhfOE2-9Y&amp;list=PLfnFOImnyWRW825IU_xG-IeFP1Nvm109a&amp;index=11)

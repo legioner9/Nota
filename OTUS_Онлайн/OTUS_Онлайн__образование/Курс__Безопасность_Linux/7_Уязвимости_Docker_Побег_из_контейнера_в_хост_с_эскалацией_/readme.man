@@ -1,0 +1,3 @@
+# [OTUS Онлайн - образование](https://www.youtube.com/@otus_education/playlists)
+## [Курс | Безопасность Linux](https://www.youtube.com/playlist?list=PLfnFOImnyWRXQKVAWCfGZwZN_UX3eP-2X)
+### [Уязвимости Docker. Побег из контейнера в хост с эскалацией привилегий // курс  «Безопасность Linux»](https://www.youtube.com/watch?v=QOOAOOG8AaM&amp;list=PLfnFOImnyWRXQKVAWCfGZwZN_UX3eP-2X&amp;index=7)

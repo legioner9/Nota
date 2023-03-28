@@ -1,0 +1,5 @@
+### [Flask Framework. Вступление. Установка рабочего окружения. Урок 1](https://www.youtube.com/watch?v=GmFCmDh8Ylg&amp;list=PLvItDmb0sZw_b5kpqKuKZAmKwzgsQXICi&amp;index=1)
+### [Flask Framework. Использование шаблонизации в приложении. Урок 2](https://www.youtube.com/watch?v=v03iJdrOUbk&amp;list=PLvItDmb0sZw_b5kpqKuKZAmKwzgsQXICi&amp;index=2)
+### [Flask Framework. Веб-формы. Урок 3](https://www.youtube.com/watch?v=jKF6RGFK8FY&amp;list=PLvItDmb0sZw_b5kpqKuKZAmKwzgsQXICi&amp;index=3)
+### [Flask Framework. Использование базы данных в приложении. Урок 4](https://www.youtube.com/watch?v=NNx840Q_Qug&amp;list=PLvItDmb0sZw_b5kpqKuKZAmKwzgsQXICi&amp;index=4)
+### [Flask Framework. Пользовательские сессии и авторизация. Урок 5](https://www.youtube.com/watch?v=fHOaSmg_z5M&amp;list=PLvItDmb0sZw_b5kpqKuKZAmKwzgsQXICi&amp;index=5)

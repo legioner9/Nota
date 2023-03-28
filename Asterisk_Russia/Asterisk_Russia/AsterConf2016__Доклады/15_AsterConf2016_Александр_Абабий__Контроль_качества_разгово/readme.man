@@ -1,0 +1,3 @@
+# [Asterisk Russia](https://www.youtube.com/@Asterisker/playlists)
+## [AsterConf-2016 - Доклады](https://www.youtube.com/playlist?list=PLrUzrM6usSzqRoVFf2lzaRn-3KFlmZa2J)
+### [AsterConf-2016: Александр Абабий - Контроль качества разговора по RTCP.](https://www.youtube.com/watch?v=7BzM-2TCzHs&amp;list=PLrUzrM6usSzqRoVFf2lzaRn-3KFlmZa2J&amp;index=15)

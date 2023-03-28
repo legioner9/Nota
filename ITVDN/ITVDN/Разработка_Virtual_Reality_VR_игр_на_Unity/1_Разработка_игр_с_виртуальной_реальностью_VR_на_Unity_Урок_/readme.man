@@ -1,0 +1,3 @@
+# [ITVDN](https://www.youtube.com/@ITVDN/playlists?view=1)
+## [Разработка Virtual Reality (VR) игр на Unity](https://www.youtube.com/playlist?list=PLvItDmb0sZw8STPBzJr3jw6MCjsbRMQxO)
+### [Разработка игр с виртуальной реальностью (VR) на Unity. Урок 1. Начало работы с VR](https://www.youtube.com/watch?v=TIWNQNj0C6Q&amp;list=PLvItDmb0sZw8STPBzJr3jw6MCjsbRMQxO&amp;index=1)

@@ -1,0 +1,8 @@
+### [Скрипты и сценарии нагрузочного тестирования-Performance center (PC) и Vugen](https://www.youtube.com/watch?v=UZAslKLRCQM&amp;list=PLfnFOImnyWRX4DEeG1rZ5fNyQmML0EE_S&amp;index=1)
+### [Проведение нагрузочного тестирования в средстве Performance center // Нагрузочное тестирование](https://www.youtube.com/watch?v=ui2sOqDVIq4&amp;list=PLfnFOImnyWRX4DEeG1rZ5fNyQmML0EE_S&amp;index=2)
+### [LoadRunner: разработка и отладка скрипта нагрузочного тестирования // «Нагрузочное тестирование»](https://www.youtube.com/watch?v=BTu1R6d0Z0c&amp;list=PLfnFOImnyWRX4DEeG1rZ5fNyQmML0EE_S&amp;index=3)
+### [Начало работы с Jmeter: запись скрипта, параметризация, отладка // курс «Нагрузочное тестирование»](https://www.youtube.com/watch?v=q2oeGtupfTg&amp;list=PLfnFOImnyWRX4DEeG1rZ5fNyQmML0EE_S&amp;index=4)
+### [Введение в средство НТ Gatling. День 2 // Демо-занятие курса «Нагрузочное тестирование»](https://www.youtube.com/watch?v=UwFlP0G2xoY&amp;list=PLfnFOImnyWRX4DEeG1rZ5fNyQmML0EE_S&amp;index=5)
+### [Введение в средство НТ Gatling. День 1 // Демо-занятие курса «Нагрузочное тестирование»](https://www.youtube.com/watch?v=oyrvudL7UAg&amp;list=PLfnFOImnyWRX4DEeG1rZ5fNyQmML0EE_S&amp;index=6)
+### [Введение в средство НТ Gatling. День 2 // Демо-занятие курса «Нагрузочное тестирование»](https://www.youtube.com/watch?v=Ac35r3Ul52o&amp;list=PLfnFOImnyWRX4DEeG1rZ5fNyQmML0EE_S&amp;index=7)
+### [Введение в средство НТ Gatling. День 1 // Демо-занятие курса «Нагрузочное тестирование»](https://www.youtube.com/watch?v=pahYkcnRJl0&amp;list=PLfnFOImnyWRX4DEeG1rZ5fNyQmML0EE_S&amp;index=8)

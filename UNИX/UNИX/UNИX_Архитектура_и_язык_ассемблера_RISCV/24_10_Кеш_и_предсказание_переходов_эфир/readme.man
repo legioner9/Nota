@@ -1,0 +1,3 @@
+# [UNИX](https://www.youtube.com/@unx7784/playlists)
+## [[UNИX] Архитектура и язык ассемблера RISC-V](https://www.youtube.com/playlist?list=PL6kSdcHYB3x6cjkby4H1RuRMzfbEGSNBi)
+### [10. Кеш и предсказание переходов (эфир)](https://www.youtube.com/watch?v=EvUDTK5Q0CQ&amp;list=PL6kSdcHYB3x6cjkby4H1RuRMzfbEGSNBi&amp;index=24)

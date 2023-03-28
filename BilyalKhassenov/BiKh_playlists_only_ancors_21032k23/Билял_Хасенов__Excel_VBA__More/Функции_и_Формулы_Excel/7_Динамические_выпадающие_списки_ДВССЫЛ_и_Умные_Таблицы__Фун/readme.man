@@ -1,0 +1,3 @@
+# [Билял Хасенов – Excel, VBA & More](https://www.youtube.com/@BilyalKhassenov/playlists?view=58)
+## [Функции и Формулы Excel](https://www.youtube.com/playlist?list=PLsPotgU_ELTqAgQJs8GdTB1yWEkGFdOtz)
+### [Динамические выпадающие списки, ДВССЫЛ и Умные Таблицы - Функции Excel (7)](https://www.youtube.com/watch?v=TOjKlbX3rVA&amp;list=PLsPotgU_ELTqAgQJs8GdTB1yWEkGFdOtz&amp;index=7)

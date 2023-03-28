@@ -1,0 +1,3 @@
+# [OTUS Онлайн - образование](https://www.youtube.com/@otus_education/playlists)
+## [Курс | Observability: мониторинг, логирование, трейсинг](https://www.youtube.com/playlist?list=PLfnFOImnyWRW-BIc1_ClCSEVLHKCNHxtz)
+### [Мониторинг и логирование  Zabbix, Prometheus, ELK // День открытых дверей OTUS](https://www.youtube.com/watch?v=ZypNZ7CwclU&amp;list=PLfnFOImnyWRW-BIc1_ClCSEVLHKCNHxtz&amp;index=1)

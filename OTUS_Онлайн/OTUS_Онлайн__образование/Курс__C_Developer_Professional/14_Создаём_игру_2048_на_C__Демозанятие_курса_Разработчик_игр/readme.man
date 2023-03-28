@@ -1,0 +1,3 @@
+# [OTUS Онлайн - образование](https://www.youtube.com/@otus_education/playlists)
+## [Курс | C# Developer. Professional](https://www.youtube.com/playlist?list=PLfnFOImnyWRUlDMnKYobAhsHjc4aAleBy)
+### [Создаём игру «2048» на C# // Демо-занятие курса «Разработчик игр на C#»](https://www.youtube.com/watch?v=643VxMIS7Q0&amp;list=PLfnFOImnyWRUlDMnKYobAhsHjc4aAleBy&amp;index=14)

@@ -1,0 +1,3 @@
+# [SuperDev](https://www.youtube.com/@superdev8594/playlists)
+## [CRM](https://www.youtube.com/playlist?list=PLSGfCcnnkUS3M4wAk4chIrG7tfZ4L18mP)
+### [Ubuntu+Apache+MariaDB+PHP  Настройка Web-сервера.](https://www.youtube.com/watch?v=EFgIPbN9AJ0&amp;list=PLSGfCcnnkUS3M4wAk4chIrG7tfZ4L18mP&amp;index=10)

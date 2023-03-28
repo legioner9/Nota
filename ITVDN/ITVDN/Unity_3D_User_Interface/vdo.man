@@ -1,0 +1,5 @@
+### [Видео курс Unity 3D User Interface. Урок 1. Базовые элементы. Анимация в UI.](https://www.youtube.com/watch?v=aj9-IxCtb4g&amp;list=PLvItDmb0sZw8GVszFOiZDJB0mOr31KQUG&amp;index=1)
+### [Видео курс Unity 3D User Interface. Урок 2. Выравнивания и разрешение. Полосы состояний.](https://www.youtube.com/watch?v=sqjAOVvGhFw&amp;list=PLvItDmb0sZw8GVszFOiZDJB0mOr31KQUG&amp;index=2)
+### [Видео курс Unity 3D User Interface. Урок 3. Главное меню и меню паузы.](https://www.youtube.com/watch?v=9qvV9BTJduU&amp;list=PLvItDmb0sZw8GVszFOiZDJB0mOr31KQUG&amp;index=3)
+### [Видео курс Unity 3D User Interface. Урок 4. Инвентарь](https://www.youtube.com/watch?v=Z0AYAISdcDc&amp;list=PLvItDmb0sZw8GVszFOiZDJB0mOr31KQUG&amp;index=4)
+### [Видео курс Unity 3D User Interface. Урок 5. Анимации в UI](https://www.youtube.com/watch?v=GkrkCpWHItQ&amp;list=PLvItDmb0sZw8GVszFOiZDJB0mOr31KQUG&amp;index=5)

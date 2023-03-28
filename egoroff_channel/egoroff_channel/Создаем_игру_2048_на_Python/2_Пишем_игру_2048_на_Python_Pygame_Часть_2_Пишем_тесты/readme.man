@@ -1,0 +1,3 @@
+# [egoroff_channel](https://www.youtube.com/@egoroffchannel/playlists)
+## [Создаем игру 2048 на Python](https://www.youtube.com/playlist?list=PLQAt0m1f9OHvjnzfCUmIxfHR-beScFFeG)
+### [Пишем игру 2048 на Python Pygame. Часть 2 Пишем тесты](https://www.youtube.com/watch?v=rm2R-dgq0WE&amp;list=PLQAt0m1f9OHvjnzfCUmIxfHR-beScFFeG&amp;index=2)

@@ -1,0 +1,2 @@
+### [Обзор курса &quot;Unit тестирование в Java с JUnit&quot;](https://www.youtube.com/watch?v=Rp72p8HgmFw&amp;list=PLvItDmb0sZw8shfp69g7XLVlJWxTjDnRh&amp;index=1)
+### [Как создать и запустить простой JUnit тест? Что такое JUnit и как работает юнит-тестирование в Java?](https://www.youtube.com/watch?v=GQKDVSuqQlI&amp;list=PLvItDmb0sZw8shfp69g7XLVlJWxTjDnRh&amp;index=2)

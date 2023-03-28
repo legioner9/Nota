@@ -1,0 +1,4 @@
+### [FastAPI что это такое? | Django School](https://www.youtube.com/watch?v=1J47jwMykL0&amp;list=PLF-NY6ldwAWqoWmTvGzfT0ygGn72wwNbR&amp;index=1)
+### [Webrtc Fastapi aiortc | Трансляция видео на сервер и в браузер](https://www.youtube.com/watch?v=jU7Y9qWHzFQ&amp;list=PLF-NY6ldwAWqoWmTvGzfT0ygGn72wwNbR&amp;index=2)
+### [Распознавание объектов в потоковом видео | opencv fastapi webrtc](https://www.youtube.com/watch?v=qhZbt9T0r9A&amp;list=PLF-NY6ldwAWqoWmTvGzfT0ygGn72wwNbR&amp;index=3)
+### [Речь в текст python | Текст в речь в python](https://www.youtube.com/watch?v=EMo3rbOqC0U&amp;list=PLF-NY6ldwAWqoWmTvGzfT0ygGn72wwNbR&amp;index=4)

@@ -1,0 +1,3 @@
+# [ITVDN](https://www.youtube.com/@ITVDN/playlists?view=1)
+## [Видеокурс по JavaScript Advanced](https://www.youtube.com/playlist?list=PLvItDmb0sZw_-AAcqd6XeZxJMKdv55_mS)
+### [Видеокурс JavaScript Advanced. Урок 10. AJAX и HTTP протокол](https://www.youtube.com/watch?v=GnTuSHg9p5E&amp;list=PLvItDmb0sZw_-AAcqd6XeZxJMKdv55_mS&amp;index=11)

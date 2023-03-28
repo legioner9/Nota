@@ -1,0 +1,3 @@
+# [RED Group](https://www.youtube.com/@REDGroup/playlists)
+## [Мобильное приложение с нуля до публикации в App Store на React Native +таймкоды](https://www.youtube.com/playlist?list=PLXkonRjGXZwyi8jRMqb9qTJxvw-BHjL4T)
+### [🤯 10-ЧАСОВОЙ СТРИМ! Мобильное приложение с нуля на React Native | День 5](https://www.youtube.com/watch?v=4T89T3_tqo8&amp;list=PLXkonRjGXZwyi8jRMqb9qTJxvw-BHjL4T&amp;index=5)

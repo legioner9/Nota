@@ -1,0 +1,5 @@
+### [Введение в Web API. ASP.NET WEB API 2. Урок 1](https://www.youtube.com/watch?v=Vw5wdNuA4x8&amp;list=PLvItDmb0sZw83D7-336FeRPx9GDf3zXx_&amp;index=1)
+### [Контроллеры и actions. ASP.NET WEB API 2. Урок 2](https://www.youtube.com/watch?v=H_pl76O4gGY&amp;list=PLvItDmb0sZw83D7-336FeRPx9GDf3zXx_&amp;index=2)
+### [Маршрутизация. ASP.NET WEB API 2. Урок 3](https://www.youtube.com/watch?v=aYZYTWt4qF0&amp;list=PLvItDmb0sZw83D7-336FeRPx9GDf3zXx_&amp;index=3)
+### [Фильтры. ASP.NET WEB API 2. Урок 4](https://www.youtube.com/watch?v=lGAdNad2GZg&amp;list=PLvItDmb0sZw83D7-336FeRPx9GDf3zXx_&amp;index=4)
+### [Аутентификация и авторизация в приложении Web API. ASP.NET WEB API 2. Урок 5](https://www.youtube.com/watch?v=BWeA3bfFoe0&amp;list=PLvItDmb0sZw83D7-336FeRPx9GDf3zXx_&amp;index=5)

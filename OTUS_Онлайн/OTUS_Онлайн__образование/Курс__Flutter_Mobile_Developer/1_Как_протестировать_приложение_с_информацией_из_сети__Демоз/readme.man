@@ -1,0 +1,3 @@
+# [OTUS Онлайн - образование](https://www.youtube.com/@otus_education/playlists)
+## [Курс | Flutter Mobile Developer](https://www.youtube.com/playlist?list=PLfnFOImnyWRXU_4jbL5J9LJWpjePwXobG)
+### [Как протестировать приложение с информацией из сети // Демо-занятие курса «Flutter Mobile Developer»](https://www.youtube.com/watch?v=9G20heJiWlc&amp;list=PLfnFOImnyWRXU_4jbL5J9LJWpjePwXobG&amp;index=1)

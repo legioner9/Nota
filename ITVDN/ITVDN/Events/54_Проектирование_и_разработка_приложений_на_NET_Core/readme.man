@@ -1,0 +1,3 @@
+# [ITVDN](https://www.youtube.com/@ITVDN/playlists?view=1)
+## [Events](https://www.youtube.com/playlist?list=PLvItDmb0sZw_J35_C_UtDACM_eWg9geTa)
+### [Проектирование и разработка приложений на .NET Core](https://www.youtube.com/watch?v=I1ZD4D6JokQ&amp;list=PLvItDmb0sZw_J35_C_UtDACM_eWg9geTa&amp;index=54)

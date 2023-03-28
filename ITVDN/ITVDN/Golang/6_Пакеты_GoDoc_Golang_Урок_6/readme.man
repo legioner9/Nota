@@ -1,0 +1,3 @@
+# [ITVDN](https://www.youtube.com/@ITVDN/playlists?view=1)
+## [Golang](https://www.youtube.com/playlist?list=PLvItDmb0sZw9zX3dKi6552Vb8OM9D1eZ4)
+### [Пакеты. GoDoc. Golang. Урок 6](https://www.youtube.com/watch?v=FQPFUVoPZ6c&amp;list=PLvItDmb0sZw9zX3dKi6552Vb8OM9D1eZ4&amp;index=6)

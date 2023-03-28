@@ -1,0 +1,3 @@
+# [Гоша Дударь](https://www.youtube.com/@gosha_dudar/playlists?view=1)
+## [Изучение нейронных сетей / Создание ИИ с использованием Python](https://www.youtube.com/playlist?list=PL0lO_mIqDDFWovejFKVKLH0pzVKZluAG-)
+### [Распознавание объектов на Python / Глубокое машинное обучение](https://www.youtube.com/watch?v=Uj4O2_dwRiA&amp;list=PL0lO_mIqDDFWovejFKVKLH0pzVKZluAG-&amp;index=3)

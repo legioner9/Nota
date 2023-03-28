@@ -1,0 +1,4 @@
+### [Основы языка Java](https://www.youtube.com/watch?v=opv874OV-xY&amp;list=PLY7PmJJFH5nRr8ZjW-lMea41NCKcAj3kR&amp;index=1)
+### [Java applets — история провала](https://www.youtube.com/watch?v=F8VWVTWUJ60&amp;list=PLY7PmJJFH5nRr8ZjW-lMea41NCKcAj3kR&amp;index=2)
+### [Коллекции Java - введение](https://www.youtube.com/watch?v=H8YOHx1dLMI&amp;list=PLY7PmJJFH5nRr8ZjW-lMea41NCKcAj3kR&amp;index=3)
+### [Блок Finally Java и C++](https://www.youtube.com/watch?v=i-cD9vVuf6Y&amp;list=PLY7PmJJFH5nRr8ZjW-lMea41NCKcAj3kR&amp;index=4)

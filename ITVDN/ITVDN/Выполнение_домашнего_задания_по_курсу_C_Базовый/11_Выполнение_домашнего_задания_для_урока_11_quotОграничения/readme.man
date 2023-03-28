@@ -1,0 +1,3 @@
+# [ITVDN](https://www.youtube.com/@ITVDN/playlists?view=1)
+## [Выполнение домашнего задания по курсу C# Базовый](https://www.youtube.com/playlist?list=PLvItDmb0sZw9tI-X9_8bn7WiEPNKCTXZC)
+### [Выполнение домашнего задания для урока 11 &quot;Ограничения универсальных шаблонов&quot; курса C# Базовый](https://www.youtube.com/watch?v=Ps_O_Fv9PY0&amp;list=PLvItDmb0sZw9tI-X9_8bn7WiEPNKCTXZC&amp;index=11)

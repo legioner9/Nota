@@ -1,0 +1,3 @@
+# [RomNero](https://www.youtube.com/@RomNero/playlists)
+## [Server. Linux. Системы и решения.](https://www.youtube.com/playlist?list=PLqVeG_R3qMSysWrn9lqcyxP50INzqAnbN)
+### [03-DuckDNS - Динамический DNS / DynDNS. Nginx Proxy Manager.](https://www.youtube.com/watch?v=X5n5cAALhYk&amp;list=PLqVeG_R3qMSysWrn9lqcyxP50INzqAnbN&amp;index=10)

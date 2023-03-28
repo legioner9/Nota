@@ -1,0 +1,3 @@
+# [ITDoctor](https://www.youtube.com/@ITDoctor/playlists?view=1&sort=dd&shelf_id=0)
+## [Верстка из PSD на Flexbox и Less](https://www.youtube.com/playlist?list=PLuY6eeDuleIPKCe3dSJfqkGXS-Ebky02v)
+### [#9 Портфолио с фильтрацией на сайт Часть 2, Верстка из PSD на Flexbox и Less](https://www.youtube.com/watch?v=ADClo71r8kk&amp;list=PLuY6eeDuleIPKCe3dSJfqkGXS-Ebky02v&amp;index=9)

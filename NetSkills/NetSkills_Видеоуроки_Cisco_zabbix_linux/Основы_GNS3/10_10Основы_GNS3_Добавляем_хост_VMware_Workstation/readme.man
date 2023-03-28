@@ -1,0 +1,3 @@
+# [NetSkills. Видеоуроки. Cisco, zabbix, linux.](https://www.youtube.com/@netskills/playlists)
+## [Основы GNS3](https://www.youtube.com/playlist?list=PLcDkQ2Au8aVM3fmdIYcT6wGE2moiahurw)
+### [10.Основы GNS3. Добавляем хост VMware Workstation](https://www.youtube.com/watch?v=qdlbbSll-Nk&amp;list=PLcDkQ2Au8aVM3fmdIYcT6wGE2moiahurw&amp;index=10)

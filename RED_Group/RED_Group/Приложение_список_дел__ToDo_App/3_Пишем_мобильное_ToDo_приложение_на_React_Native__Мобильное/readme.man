@@ -1,0 +1,3 @@
+# [RED Group](https://www.youtube.com/@REDGroup/playlists)
+## [Приложение список дел - ToDo App](https://www.youtube.com/playlist?list=PLXkonRjGXZwxK-SvW8c7KwdY9Uhh7FFXU)
+### [Пишем мобильное ToDo приложение на React Native // Мобильное приложение на JavaScript // База данных](https://www.youtube.com/watch?v=zHx6mi3YqqM&amp;list=PLXkonRjGXZwxK-SvW8c7KwdY9Uhh7FFXU&amp;index=3)

@@ -1,0 +1,5 @@
+### [How To PHP Starter. Как создать и использовать пользовательскую функцию?](https://www.youtube.com/watch?v=TW4R10rlNLo&amp;list=PLvItDmb0sZw-1nEE2bTZ3AYgeKJ8oppZy&amp;index=1)
+### [How To PHP Starter.  Как работать с датой, временем и служебными массивами PHP?](https://www.youtube.com/watch?v=-fwEbocBY64&amp;list=PLvItDmb0sZw-1nEE2bTZ3AYgeKJ8oppZy&amp;index=2)
+### [How To PHP Starter. Как расшифровать ответ сервера?](https://www.youtube.com/watch?v=sbec3eGW8LU&amp;list=PLvItDmb0sZw-1nEE2bTZ3AYgeKJ8oppZy&amp;index=3)
+### [How To PHP Starter. Как отправить данные из формы и обработать на сервере?](https://www.youtube.com/watch?v=bB6WsGYcJxs&amp;list=PLvItDmb0sZw-1nEE2bTZ3AYgeKJ8oppZy&amp;index=4)
+### [How To PHP Starter. Как загрузить файл на сервер и настроить скачивание?](https://www.youtube.com/watch?v=tV67pGrtlOo&amp;list=PLvItDmb0sZw-1nEE2bTZ3AYgeKJ8oppZy&amp;index=5)

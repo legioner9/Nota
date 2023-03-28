@@ -1,0 +1,3 @@
+# [Bogdan Stashchuk](https://www.youtube.com/@Bogdan_Stashchuk/playlists)
+## [Linux for Beginners](https://www.youtube.com/playlist?list=PLWkguCWKqN9OrwsklvLC8FB87TbaOQGqY)
+### [Linux Tutorial: 50 Adding path to scripts to the PATH variable](https://www.youtube.com/watch?v=62M1bexLzno&amp;list=PLWkguCWKqN9OrwsklvLC8FB87TbaOQGqY&amp;index=51)

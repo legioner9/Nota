@@ -1,0 +1,3 @@
+# [Школа itProger / Программирование](https://www.youtube.com/@itproger/playlists?view=1)
+## [Уроки React JS с нуля для начинающих / Полный курс](https://www.youtube.com/playlist?list=PLDyJYA6aTY1lpbNh66kFpF62QpJyzliT2)
+### [Уроки React JS с нуля / #7 – Работа со списками. Разработка проекта](https://www.youtube.com/watch?v=dOog3l9JUjE&amp;list=PLDyJYA6aTY1lpbNh66kFpF62QpJyzliT2&amp;index=7)

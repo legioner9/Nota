@@ -1,0 +1,3 @@
+# [RED Group](https://www.youtube.com/@REDGroup/playlists)
+## [Стримы](https://www.youtube.com/playlist?list=PLXkonRjGXZwx5mcE0NJ5RsN-dse8u_nBu)
+### [Осталось совсем немного! Продолжаем изучать backend [Nest.js / MySQL / GraphQL]](https://www.youtube.com/watch?v=wJZk5pN64EA&amp;list=PLXkonRjGXZwx5mcE0NJ5RsN-dse8u_nBu&amp;index=8)

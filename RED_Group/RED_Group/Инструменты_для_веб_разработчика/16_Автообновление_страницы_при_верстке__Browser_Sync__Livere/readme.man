@@ -1,0 +1,3 @@
+# [RED Group](https://www.youtube.com/@REDGroup/playlists)
+## [Инструменты для веб разработчика](https://www.youtube.com/playlist?list=PLXkonRjGXZwwKAAB4ihUHv6C9hyGHvnru)
+### [Автообновление страницы при верстке // Browser Sync // Livereload](https://www.youtube.com/watch?v=bu0BqINU84w&amp;list=PLXkonRjGXZwwKAAB4ihUHv6C9hyGHvnru&amp;index=16)

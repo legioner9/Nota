@@ -1,0 +1,3 @@
+# [Bogdan Stashchuk](https://www.youtube.com/@Bogdan_Stashchuk/playlists)
+## [Understanding NPM - Node.js Package Manager](https://www.youtube.com/playlist?list=PLWkguCWKqN9PI8zI57E4FsxHbcPbrL8rp)
+### [22 How package-lock.json file is handled in NPM](https://www.youtube.com/watch?v=ABHArX-fsgQ&amp;list=PLWkguCWKqN9PI8zI57E4FsxHbcPbrL8rp&amp;index=16)

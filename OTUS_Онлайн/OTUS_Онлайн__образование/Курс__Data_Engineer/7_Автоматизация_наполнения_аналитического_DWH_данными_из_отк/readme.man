@@ -1,0 +1,3 @@
+# [OTUS Онлайн - образование](https://www.youtube.com/@otus_education/playlists)
+## [Курс | Data Engineer](https://www.youtube.com/playlist?list=PLfnFOImnyWRVqMta6B8aD8E_F6FVj55D4)
+### [Автоматизация наполнения аналитического DWH данными из открытых источников. День 2](https://www.youtube.com/watch?v=qh-Q8H16leg&amp;list=PLfnFOImnyWRVqMta6B8aD8E_F6FVj55D4&amp;index=7)

@@ -1,0 +1,8 @@
+### [Телефония Asterisk с нуля - 3.1 - Введение](https://www.youtube.com/watch?v=35j2NGrtAys&amp;list=PLT4btQkgy42s9Z9FbfsqJ4IibydML8eAr&amp;index=1)
+### [Телефония Asterisk с нуля - 3.2 - Первоначальные меры](https://www.youtube.com/watch?v=womDFcqQnaU&amp;list=PLT4btQkgy42s9Z9FbfsqJ4IibydML8eAr&amp;index=2)
+### [Телефония Asterisk с нуля - 3.3 - Настройка iptables](https://www.youtube.com/watch?v=FHjTuT6Lm50&amp;list=PLT4btQkgy42s9Z9FbfsqJ4IibydML8eAr&amp;index=3)
+### [Телефония Asterisk с нуля - 3.4 - Последующие меры](https://www.youtube.com/watch?v=BJwPY4unzjs&amp;list=PLT4btQkgy42s9Z9FbfsqJ4IibydML8eAr&amp;index=4)
+### [Телефония Asterisk с нуля - 3.5 - Fail2Ban](https://www.youtube.com/watch?v=dDLHDCrx-_Y&amp;list=PLT4btQkgy42s9Z9FbfsqJ4IibydML8eAr&amp;index=5)
+### [Телефония Asterisk с нуля - 3.6 - Защита от DDOS](https://www.youtube.com/watch?v=7OMgDOgjxdo&amp;list=PLT4btQkgy42s9Z9FbfsqJ4IibydML8eAr&amp;index=6)
+### [Телефония Asterisk с нуля - 3.7 - Защита от сканирования портов](https://www.youtube.com/watch?v=cIxjarEBssI&amp;list=PLT4btQkgy42s9Z9FbfsqJ4IibydML8eAr&amp;index=7)
+### [Телефония Asterisk с нуля - 3.8 - Сертификация SSH](https://www.youtube.com/watch?v=dmvH7M6O_5k&amp;list=PLT4btQkgy42s9Z9FbfsqJ4IibydML8eAr&amp;index=8)

@@ -1,0 +1,3 @@
+# [ITVDN](https://www.youtube.com/@ITVDN/playlists?view=1)
+## [Видео курс Transact SQL](https://www.youtube.com/playlist?list=PLvItDmb0sZw_ALKpj5uy5k71w28L5Xmol)
+### [Видео курс Transact SQL. Урок 13. Хранимые процедуры. Пользовательские функции.](https://www.youtube.com/watch?v=DGhRXjyBw9k&amp;list=PLvItDmb0sZw_ALKpj5uy5k71w28L5Xmol&amp;index=13)

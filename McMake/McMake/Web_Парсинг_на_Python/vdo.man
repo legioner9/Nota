@@ -1,0 +1,2 @@
+### [Парсер сайта на Python: (инструмент) для сбора данных](https://www.youtube.com/watch?v=7j_ddQtiH7I&amp;list=PLc3mLrv1phSkiAA-chSrbQ7b64aSQTtWw&amp;index=1)
+### [Парсер ютуба Python: (без ограничений) новый способ](https://www.youtube.com/watch?v=oMO_feXJi5Q&amp;list=PLc3mLrv1phSkiAA-chSrbQ7b64aSQTtWw&amp;index=2)

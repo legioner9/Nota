@@ -1,0 +1,3 @@
+# [Ulbi TV](https://www.youtube.com/@UlbiTV/playlists)
+## [React Redux Webpack - практический курс.](https://www.youtube.com/playlist?list=PL6DxKON1uLOHTgN679Es1vkCS911i9HJX)
+### [8. React Redux - Роутинг\Маршрутизация по страницам. React-router-dom, Router, Switch, Redirect](https://www.youtube.com/watch?v=gs1hLntyczo&amp;list=PL6DxKON1uLOHTgN679Es1vkCS911i9HJX&amp;index=8)

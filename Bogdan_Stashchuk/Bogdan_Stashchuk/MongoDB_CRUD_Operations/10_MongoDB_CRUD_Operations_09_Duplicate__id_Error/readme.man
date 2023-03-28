@@ -1,0 +1,3 @@
+# [Bogdan Stashchuk](https://www.youtube.com/@Bogdan_Stashchuk/playlists)
+## [MongoDB CRUD Operations](https://www.youtube.com/playlist?list=PLWkguCWKqN9PbQhhsrewFd3TPuo3kLPQ1)
+### [MongoDB CRUD Operations: 09 Duplicate  id Error](https://www.youtube.com/watch?v=N6XS6ur39Zk&amp;list=PLWkguCWKqN9PbQhhsrewFd3TPuo3kLPQ1&amp;index=10)

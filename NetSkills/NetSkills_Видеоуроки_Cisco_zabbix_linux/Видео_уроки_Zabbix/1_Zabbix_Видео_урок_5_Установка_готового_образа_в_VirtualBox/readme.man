@@ -1,0 +1,3 @@
+# [NetSkills. Видеоуроки. Cisco, zabbix, linux.](https://www.youtube.com/@netskills/playlists)
+## [Видео уроки Zabbix](https://www.youtube.com/playlist?list=PLcDkQ2Au8aVMbBQNjiQlhlL003xoJxM_L)
+### [Zabbix. Видео урок №5. Установка готового образа в VirtualBox](https://www.youtube.com/watch?v=M24M1muHNrA&amp;list=PLcDkQ2Au8aVMbBQNjiQlhlL003xoJxM_L&amp;index=1)

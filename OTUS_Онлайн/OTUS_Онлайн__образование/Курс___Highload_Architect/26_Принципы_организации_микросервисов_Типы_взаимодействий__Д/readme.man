@@ -1,0 +1,3 @@
+# [OTUS Онлайн - образование](https://www.youtube.com/@otus_education/playlists)
+## [Курс |  Highload Architect](https://www.youtube.com/playlist?list=PLfnFOImnyWRVWEqnZ9nOjKmkW71JOs62a)
+### [Принципы организации микросервисов. Типы взаимодействий // Демо-занятие курса «Highload Architect»](https://www.youtube.com/watch?v=FMx4-BfTT-U&amp;list=PLfnFOImnyWRVWEqnZ9nOjKmkW71JOs62a&amp;index=26)

@@ -1,0 +1,3 @@
+# [OTUS Онлайн - образование](https://www.youtube.com/@otus_education/playlists)
+## [Открытые уроки Symfony Framework](https://www.youtube.com/playlist?list=PLfnFOImnyWRXZZYczFNRPDLxFOUCHEuIZ)
+### [Инвалидация кэша в распределённой системе // Демо-занятие курса «Symfony Framework»](https://www.youtube.com/watch?v=Vv3pgMFJGCk&amp;list=PLfnFOImnyWRXZZYczFNRPDLxFOUCHEuIZ&amp;index=5)

@@ -1,0 +1,2 @@
+### [🚀 RUTUBE и ТОЧКА. Разработка РУТУБА за 5 часов *БЕЗ ВОДЫ* [Next / React / Nest / PostgreSQL / Redux]](https://www.youtube.com/watch?v=QUY_sazqgkY&amp;list=PLXkonRjGXZwy5Rv1uVZzVx64Rzb6ZYF2w&amp;index=1)
+### [🚀 AMAZON 2.0 - ИНТЕРНЕТ МАГАЗИН с нуля за 6 часов [Next / React / Nest / PostgreSQL / Prisma / TS]](https://www.youtube.com/watch?v=7-zwvUPKYpE&amp;list=PLXkonRjGXZwy5Rv1uVZzVx64Rzb6ZYF2w&amp;index=2)

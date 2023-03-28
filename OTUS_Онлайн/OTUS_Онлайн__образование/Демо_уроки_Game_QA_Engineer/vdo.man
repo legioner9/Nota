@@ -1,0 +1,4 @@
+### [Demo Day курса  «Game QA Engineer»](https://www.youtube.com/watch?v=Fhzsb3tBjjk&amp;list=PLfnFOImnyWRUFJDeNoywy8v-_iOXXSKVH&amp;index=1)
+### [&quot;Теория тестирования игр. Практикуемся в Unity 3D и на эмуляторах. День 2 // «Game QA Engineer»](https://www.youtube.com/watch?v=0OWz1WSP_ic&amp;list=PLfnFOImnyWRUFJDeNoywy8v-_iOXXSKVH&amp;index=2)
+### [Теория тестирования игр. Практикуемся в Unity 3D и на эмуляторах. День 1 // Курс «Game QA Engineer»](https://www.youtube.com/watch?v=2jZdkIOCQpU&amp;list=PLfnFOImnyWRUFJDeNoywy8v-_iOXXSKVH&amp;index=3)
+### [Кунг Фу тестировщика игр // Демо-занятие курса «Game QA Engineer»](https://www.youtube.com/watch?v=5D_eOz-jOZM&amp;list=PLfnFOImnyWRUFJDeNoywy8v-_iOXXSKVH&amp;index=4)

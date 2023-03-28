@@ -1,0 +1,8 @@
+### [Уроки по Python 3 для новичков / Часть #1 - Введение в Python](https://www.youtube.com/watch?v=l55idoDKw_g&amp;list=PLBheEHDcG7-mtn0lwo3F2kbojtewF6bL0&amp;index=1)
+### [Уроки по Python 3 для новичков / Часть #2 - Основы Python](https://www.youtube.com/watch?v=hxQI6i1Tuas&amp;list=PLBheEHDcG7-mtn0lwo3F2kbojtewF6bL0&amp;index=2)
+### [Уроки по Python 3 для новичков / Часть #3 - Коллекции, циклы и логика](https://www.youtube.com/watch?v=zvJOyCnFcYo&amp;list=PLBheEHDcG7-mtn0lwo3F2kbojtewF6bL0&amp;index=3)
+### [Уроки по Python 3 для новичков / Часть #4 - Функции в Python](https://www.youtube.com/watch?v=YkVk_5xC0cI&amp;list=PLBheEHDcG7-mtn0lwo3F2kbojtewF6bL0&amp;index=4)
+### [Уроки по Python 3 для новичков / Часть #5 - Ошибки и исключения в Python](https://www.youtube.com/watch?v=ox5k-S0KkFA&amp;list=PLBheEHDcG7-mtn0lwo3F2kbojtewF6bL0&amp;index=5)
+### [Уроки по Python 3 для новичков / Часть #6 - ООП в Python](https://www.youtube.com/watch?v=Sb4KcUCUpEU&amp;list=PLBheEHDcG7-mtn0lwo3F2kbojtewF6bL0&amp;index=6)
+### [Уроки по Python 3 для новичков / Часть #7 - Модули и пакеты в Python](https://www.youtube.com/watch?v=tr7B5IPLYeQ&amp;list=PLBheEHDcG7-mtn0lwo3F2kbojtewF6bL0&amp;index=7)
+### [Уроки по Python 3 для новичков / Часть #8 - PyCharm и Финальная практика](https://www.youtube.com/watch?v=X80WIwMIlUg&amp;list=PLBheEHDcG7-mtn0lwo3F2kbojtewF6bL0&amp;index=8)

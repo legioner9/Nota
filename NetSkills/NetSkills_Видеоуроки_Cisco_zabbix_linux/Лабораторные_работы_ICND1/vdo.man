@@ -1,0 +1,5 @@
+### [Видео уроки cisco. ICND1. Введение в IOS](https://www.youtube.com/watch?v=SG3jATgd89U&amp;list=PLcDkQ2Au8aVNreEQcp5zga6V-E3jJadhE&amp;index=1)
+### [Видео уроки cisco. ICND1. Основы безопасности](https://www.youtube.com/watch?v=nidN7e7uYms&amp;list=PLcDkQ2Au8aVNreEQcp5zga6V-E3jJadhE&amp;index=2)
+### [Видео уроки cisco. ICND1. Cisco Discovery Protocol (CDP in cisco)](https://www.youtube.com/watch?v=eexRPBTvHb4&amp;list=PLcDkQ2Au8aVNreEQcp5zga6V-E3jJadhE&amp;index=3)
+### [Видео уроки cisco. ICND1. Сisco router interface configuring](https://www.youtube.com/watch?v=PWSaIJs-XXM&amp;list=PLcDkQ2Au8aVNreEQcp5zga6V-E3jJadhE&amp;index=4)
+### [Видео уроки cisco. ICND1. Таблицы узлов (cisco ip host table)](https://www.youtube.com/watch?v=mDOj9tNYGdc&amp;list=PLcDkQ2Au8aVNreEQcp5zga6V-E3jJadhE&amp;index=5)

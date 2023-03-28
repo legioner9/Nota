@@ -1,0 +1,3 @@
+# [DevOps](https://www.youtube.com/@Devops_Youtube_Channel/playlists)
+## [Git](https://www.youtube.com/playlist?list=PLkKSgP0nEL0Cd50vp3CbfnCGtqJfxBCIr)
+### [6. Как подключиться к удалённому репозиторию ? /git push/ origin/ master/](https://www.youtube.com/watch?v=dKmE133BYzY&amp;list=PLkKSgP0nEL0Cd50vp3CbfnCGtqJfxBCIr&amp;index=6)

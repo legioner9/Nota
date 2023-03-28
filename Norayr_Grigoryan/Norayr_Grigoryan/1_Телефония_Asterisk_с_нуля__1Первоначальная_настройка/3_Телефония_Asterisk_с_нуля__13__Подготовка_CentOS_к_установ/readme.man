@@ -1,0 +1,3 @@
+# [Norayr Grigoryan](https://www.youtube.com/@NorayrGrigoryan/playlists)
+## [1. Телефония Asterisk с нуля - 1.Первоначальная настройка](https://www.youtube.com/playlist?list=PLT4btQkgy42tWzvcOFFu670ENXJJgk8X_)
+### [Телефония Asterisk с нуля - 1.3 - Подготовка CentOS к установке Asterisk](https://www.youtube.com/watch?v=Dr5EU5Xhc2c&amp;list=PLT4btQkgy42tWzvcOFFu670ENXJJgk8X_&amp;index=3)

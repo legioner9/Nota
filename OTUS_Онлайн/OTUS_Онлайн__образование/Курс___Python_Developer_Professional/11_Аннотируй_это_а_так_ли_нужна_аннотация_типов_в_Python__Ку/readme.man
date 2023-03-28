@@ -1,0 +1,3 @@
+# [OTUS Онлайн - образование](https://www.youtube.com/@otus_education/playlists)
+## [Курс |  Python Developer. Professional](https://www.youtube.com/playlist?list=PLfnFOImnyWRUrNJYC3gvN13Np2Eo8ZYSc)
+### [Аннотируй это: а так ли нужна аннотация типов в Python // Курс «Python Developer. Professional»](https://www.youtube.com/watch?v=97TGqx6oJUs&amp;list=PLfnFOImnyWRUrNJYC3gvN13Np2Eo8ZYSc&amp;index=11)

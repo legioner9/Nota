@@ -1,0 +1,3 @@
+# [ITVDN](https://www.youtube.com/@ITVDN/playlists?view=1)
+## [ASP.NET Core Essential](https://www.youtube.com/playlist?list=PLvItDmb0sZw95wv4PCFipJch_mspptRFS)
+### [ASP.NET Core Essential. Урок 3. Конфигурация. Основы конфигурации.](https://www.youtube.com/watch?v=YyXhNLBzVAo&amp;list=PLvItDmb0sZw95wv4PCFipJch_mspptRFS&amp;index=3)

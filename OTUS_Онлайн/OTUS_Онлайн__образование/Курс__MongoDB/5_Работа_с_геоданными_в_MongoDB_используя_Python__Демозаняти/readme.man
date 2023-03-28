@@ -1,0 +1,3 @@
+# [OTUS Онлайн - образование](https://www.youtube.com/@otus_education/playlists)
+## [Курс | MongoDB](https://www.youtube.com/playlist?list=PLfnFOImnyWRUHBTkQiLPPtcpS1YgnDBQ8)
+### [Работа с геоданными в MongoDB используя Python // Демо-занятие курса «MongoDB»](https://www.youtube.com/watch?v=Y5lrUimYVQ8&amp;list=PLfnFOImnyWRUHBTkQiLPPtcpS1YgnDBQ8&amp;index=5)

@@ -1,0 +1,3 @@
+# [egoroff_channel](https://www.youtube.com/@egoroffchannel/playlists)
+## [Курс по Django 3](https://www.youtube.com/playlist?list=PLQAt0m1f9OHvGM7Y7jAQP8TKbBd3up4K2)
+### [59 Связь &quot;Многие ко многим&quot;. Django Many To Many Field. Курс по Django](https://www.youtube.com/watch?v=imX16EFduyg&amp;list=PLQAt0m1f9OHvGM7Y7jAQP8TKbBd3up4K2&amp;index=61)

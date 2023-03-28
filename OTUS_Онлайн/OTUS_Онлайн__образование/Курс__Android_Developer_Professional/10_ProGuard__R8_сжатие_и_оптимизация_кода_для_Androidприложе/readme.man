@@ -1,0 +1,3 @@
+# [OTUS Онлайн - образование](https://www.youtube.com/@otus_education/playlists)
+## [Курс | Android Developer. Professional](https://www.youtube.com/playlist?list=PLfnFOImnyWRW4gqBY3ngpZplAMnaqWOk_)
+### [ProGuard / R8: сжатие и оптимизация кода для Android-приложений // «Android Developer. Professional»](https://www.youtube.com/watch?v=hrlPX3-QPJc&amp;list=PLfnFOImnyWRW4gqBY3ngpZplAMnaqWOk_&amp;index=10)

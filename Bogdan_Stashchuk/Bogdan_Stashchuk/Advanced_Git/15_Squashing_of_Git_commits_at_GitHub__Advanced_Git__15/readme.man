@@ -1,0 +1,3 @@
+# [Bogdan Stashchuk](https://www.youtube.com/@Bogdan_Stashchuk/playlists)
+## [Advanced Git](https://www.youtube.com/playlist?list=PLWkguCWKqN9N9mvHWFAXqSMStslkILiP0)
+### [Squashing of Git commits at GitHub | Advanced Git - 15](https://www.youtube.com/watch?v=AQWE8nwgANg&amp;list=PLWkguCWKqN9N9mvHWFAXqSMStslkILiP0&amp;index=15)

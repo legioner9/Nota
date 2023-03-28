@@ -1,0 +1,3 @@
+# [JavaScript.Ninja](https://www.youtube.com/@JavaScriptNinja/playlists)
+## [Бесплатный курс по Vue.js](https://www.youtube.com/playlist?list=PLvTBThJr861yMBhpKafII3HZLAYujuNWw)
+### [#22 Криптономикон: refs - Vue.js: практика](https://www.youtube.com/watch?v=uWDmfA7WE5Q&amp;list=PLvTBThJr861yMBhpKafII3HZLAYujuNWw&amp;index=23)

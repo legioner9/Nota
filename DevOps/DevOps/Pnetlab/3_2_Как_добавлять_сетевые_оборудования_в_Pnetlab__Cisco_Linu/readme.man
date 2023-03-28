@@ -1,0 +1,3 @@
+# [DevOps](https://www.youtube.com/@Devops_Youtube_Channel/playlists)
+## [Pnetlab](https://www.youtube.com/playlist?list=PLkKSgP0nEL0DW-BTtk0UjXl2EyY42n8Nb)
+### [2. Как добавлять сетевые оборудования в Pnetlab ? /Cisco/ Linux/ add/ Pnetlab/ images/ qemu](https://www.youtube.com/watch?v=3WLGdSwTAnE&amp;list=PLkKSgP0nEL0DW-BTtk0UjXl2EyY42n8Nb&amp;index=3)

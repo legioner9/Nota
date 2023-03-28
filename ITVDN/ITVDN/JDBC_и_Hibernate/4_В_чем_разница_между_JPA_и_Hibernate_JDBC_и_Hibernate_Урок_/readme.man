@@ -1,0 +1,3 @@
+# [ITVDN](https://www.youtube.com/@ITVDN/playlists?view=1)
+## [JDBC и Hibernate](https://www.youtube.com/playlist?list=PLvItDmb0sZw89wKgHPUTisxCf8_a4L8o9)
+### [В чем разница между JPA и Hibernate? JDBC и Hibernate. Урок 4](https://www.youtube.com/watch?v=fZDhZWCf5Ao&amp;list=PLvItDmb0sZw89wKgHPUTisxCf8_a4L8o9&amp;index=4)

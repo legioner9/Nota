@@ -1,0 +1,3 @@
+# [ITVDN](https://www.youtube.com/@ITVDN/playlists?view=1)
+## [Java Starter](https://www.youtube.com/playlist?list=PLvItDmb0sZw_0HA2f97JEDNVxPM_RY9jk)
+### [Что такое Java? Особенности и отличия языка Java. Java Starter. Урок 1](https://www.youtube.com/watch?v=XpyEdgI_BCU&amp;list=PLvItDmb0sZw_0HA2f97JEDNVxPM_RY9jk&amp;index=1)

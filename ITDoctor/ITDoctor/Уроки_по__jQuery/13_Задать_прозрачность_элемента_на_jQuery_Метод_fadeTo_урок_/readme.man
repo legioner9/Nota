@@ -1,0 +1,3 @@
+# [ITDoctor](https://www.youtube.com/@ITDoctor/playlists?view=1&sort=dd&shelf_id=0)
+## [Уроки по  jQuery](https://www.youtube.com/playlist?list=PLuY6eeDuleIO6ys8_OmKphvobZxabbGBz)
+### [Задать прозрачность элемента на jQuery, Метод fadeTo(), урок 13](https://www.youtube.com/watch?v=AGrFhW4MQpM&amp;list=PLuY6eeDuleIO6ys8_OmKphvobZxabbGBz&amp;index=13)

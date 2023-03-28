@@ -1,0 +1,3 @@
+# [Mikrotik Training](https://www.youtube.com/@MikrotikTraining/playlists)
+## [L3](https://www.youtube.com/playlist?list=PLg90hRDCH9A64F-fT6HVnlMC8-0z_W_fl)
+### [Современная Packet Flow Diagram](https://www.youtube.com/watch?v=tB8Xf3X5IQc&amp;list=PLg90hRDCH9A64F-fT6HVnlMC8-0z_W_fl&amp;index=6)

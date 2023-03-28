@@ -1,0 +1,3 @@
+# [JavaScript.Ninja](https://www.youtube.com/@JavaScriptNinja/playlists)
+## [Docker: глубокое погружение](https://www.youtube.com/playlist?list=PLvTBThJr861x2qFBVwOlqIrbaft-Im-0u)
+### [#6 Файловые слои: магия overlay - Docker](https://www.youtube.com/watch?v=6fczsvaKxp0&amp;list=PLvTBThJr861x2qFBVwOlqIrbaft-Im-0u&amp;index=6)

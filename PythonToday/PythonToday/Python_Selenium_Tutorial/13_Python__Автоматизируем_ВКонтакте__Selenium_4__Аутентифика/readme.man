@@ -1,0 +1,3 @@
+# [PythonToday](https://www.youtube.com/@PythonToday/playlists)
+## [Python Selenium Tutorial](https://www.youtube.com/playlist?list=PLqGS6O1-DZLp1kgiQNpueIMCHRNzgHa1r)
+### [Python | Автоматизируем ВКонтакте | Selenium 4 | Аутентификация, скролл, нахождение элементов, клики](https://www.youtube.com/watch?v=3jMA7fdVI2s&amp;list=PLqGS6O1-DZLp1kgiQNpueIMCHRNzgHa1r&amp;index=13)

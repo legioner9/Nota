@@ -1,0 +1,3 @@
+# [ITVDN](https://www.youtube.com/@ITVDN/playlists?view=1)
+## [Видеокурс по тестированию ПО](https://www.youtube.com/playlist?list=PLvItDmb0sZw8UDC1HZLumLMcLL_WnSakU)
+### [Тестирование ПО. Урок 3. Bugs.](https://www.youtube.com/watch?v=nxfCnNQqKWE&amp;list=PLvItDmb0sZw8UDC1HZLumLMcLL_WnSakU&amp;index=3)

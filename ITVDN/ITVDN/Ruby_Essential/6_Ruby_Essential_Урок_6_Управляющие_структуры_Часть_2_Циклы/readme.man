@@ -1,0 +1,3 @@
+# [ITVDN](https://www.youtube.com/@ITVDN/playlists?view=1)
+## [Ruby Essential](https://www.youtube.com/playlist?list=PLvItDmb0sZw9ujotIe0HeMnkmAf1XbWlK)
+### [Ruby Essential. Урок 6. Управляющие структуры. Часть 2. Циклы](https://www.youtube.com/watch?v=JUGA5kE8eYI&amp;list=PLvItDmb0sZw9ujotIe0HeMnkmAf1XbWlK&amp;index=6)

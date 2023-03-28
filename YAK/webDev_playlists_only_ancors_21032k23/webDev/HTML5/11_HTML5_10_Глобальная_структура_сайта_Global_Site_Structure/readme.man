@@ -1,0 +1,3 @@
+# [webDev](https://www.youtube.com/@YauhenKavalchuk/playlists?view=1)
+## [HTML5](https://www.youtube.com/playlist?list=PLNkWIWHIRwMFtHHg0amAgocYP-kZypbY7)
+### [HTML5 #10 Глобальная структура сайта (Global Site Structure)](https://www.youtube.com/watch?v=ylCstIgYd54&amp;list=PLNkWIWHIRwMFtHHg0amAgocYP-kZypbY7&amp;index=11)

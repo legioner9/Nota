@@ -1,0 +1,3 @@
+# [OTUS Онлайн - образование](https://www.youtube.com/@otus_education/playlists)
+## [Курс | Java QA Engineer. Professional](https://www.youtube.com/playlist?list=PLfnFOImnyWRXU9a_6i_05hXRDcHPMZp1a)
+### [Паттерн PageObject // Демо-занятие «Java QA Engineer»](https://www.youtube.com/watch?v=EUVsznJiA8E&amp;list=PLfnFOImnyWRXU9a_6i_05hXRDcHPMZp1a&amp;index=12)

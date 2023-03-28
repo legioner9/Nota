@@ -1,0 +1,3 @@
+# [OTUS Онлайн - образование](https://www.youtube.com/@otus_education/playlists)
+## [Курс | Специализация C++ Developer](https://www.youtube.com/playlist?list=PLfnFOImnyWRWmpS_2emHHAuGNz3YAi8iM)
+### [С++ Zero Cost Abstractions // Демо-занятие «Специализация C++ Developer»](https://www.youtube.com/watch?v=JzX74WJ8tQA&amp;list=PLfnFOImnyWRWmpS_2emHHAuGNz3YAi8iM&amp;index=2)

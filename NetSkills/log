@@ -1,0 +1,171 @@
+ 25.03.2023 16:08:38 done 1.Основы виртуализации. Введение
+ 25.03.2023 16:08:40 done 2.Основы виртуализации. История развития виртуализации
+ 25.03.2023 16:08:42 done 3.Основы виртуализации. Серверы
+ 25.03.2023 16:08:44 done 4.Основы виртуализации. Виртуальные машины
+ 25.03.2023 16:08:46 done 5.Основы виртуализации. Гипервизоры второго типа
+ 25.03.2023 16:08:48 done 6.Основы виртуализации. Лабораторная работа №1. Создаем VM
+ 25.03.2023 16:08:51 done 7.Основы виртуализации. Гипервизоры первого типа
+ 25.03.2023 16:08:53 done 8.Основы виртуализации. Лабораторная работа №2. ESXi
+ 25.03.2023 16:08:55 done 9.Основы виртуализации. Контейнеры
+ 25.03.2023 16:08:57 done 10.Основы виртуализации. Лабораторная работа №3
+ 25.03.2023 16:08:59 done 11.Основы виртуализации. Микросервисная архитектура
+ 25.03.2023 16:09:01 done 12.Основы виртуализации. Kubernetes
+ 25.03.2023 16:09:03 done 13.Основы виртуализации. Облачные провайдеры
+ 25.03.2023 16:09:06 done 14.Основы виртуализации. Лабораторная работа №4
+ 25.03.2023 16:09:08 done 15.Основы виртуализации. Заключение
+ 25.03.2023 16:09:08 done Основы виртуализации
+ 25.03.2023 16:09:40 done 1.Основы документирования сетей. Введение
+ 25.03.2023 16:09:43 done 2.Основы документирования сетей. Чем рисовать? Visio
+ 25.03.2023 16:09:45 done 3.Основы документирования сетей. Чем рисовать? Diagrams.net
+ 25.03.2023 16:09:47 done 4.Основы документирования сетей. Структурная схема сети
+ 25.03.2023 16:09:49 done 5.Основы документирования сетей. L3 схема сети
+ 25.03.2023 16:09:51 done 6.Основы документирования сетей. L2 схема сети
+ 25.03.2023 16:09:53 done 7.Основы документирования сетей. Расположение оборудования в стойке
+ 25.03.2023 16:09:55 done 8.Основы документирования сетей. IP-план
+ 25.03.2023 16:09:58 done 9.Основы документирования сетей. Описание настроек
+ 25.03.2023 16:10:00 done 10.Основы документирования сетей. Заключение
+ 25.03.2023 16:10:00 done Основы документирования сетей. Как рисовать понятные и красивые схемы на примере типового дизайна сети
+ 25.03.2023 16:10:31 done Сетевой инженер - ответы на ключевые вопросы
+ 25.03.2023 16:10:33 done Как строить карьеру в IT
+ 25.03.2023 16:10:34 done LifeSkills
+ 25.03.2023 16:11:06 done 1.Network traffic analysis and troubleshooting. Overview
+ 25.03.2023 16:11:08 done 2.Network traffic analysis and troubleshooting. Three ways
+ 25.03.2023 16:11:10 done 3.Network traffic analysis and troubleshooting. Tcpdump
+ 25.03.2023 16:11:12 done 4.Network traffic analysis and troubleshooting. Frame, Packet, Segment
+ 25.03.2023 16:11:15 done 5.Network traffic analysis and troubleshooting. Basics of traffic capturing
+ 25.03.2023 16:11:17 done 6.Network traffic analysis and troubleshooting. Network Discovery
+ 25.03.2023 16:11:19 done 7.Network traffic analysis and troubleshooting. Basics of filtering
+ 25.03.2023 16:11:21 done 8.Network traffic analysis and troubleshooting. Basics of TCP
+ 25.03.2023 16:11:23 done 9.Network traffic analysis and troubleshooting. RTT &amp; Window Size
+ 25.03.2023 16:11:25 done 10.Network traffic analysis and troubleshooting. Problems
+ 25.03.2023 16:11:27 done 11.Network traffic analysis and troubleshooting. Statistics
+ 25.03.2023 16:11:30 done 12.Network traffic analysis and troubleshooting. Summary
+ 25.03.2023 16:11:30 done Network traffic analysis and troubleshooting
+ 25.03.2023 16:12:01 done 0. Cisco ASA Administrator. Анонс
+ 25.03.2023 16:12:04 done 1. Cisco ASA Administrator. Что такое межсетевой экран?
+ 25.03.2023 16:12:06 done 2. Cisco ASA Administrator. Межсетевые экраны Cisco
+ 25.03.2023 16:12:08 done 3. Cisco ASA Administrator. Подготовка макета (GNS3)
+ 25.03.2023 16:12:10 done 4. Cisco ASA Administrator. Подготовка макета (EVE-NG)
+ 25.03.2023 16:12:12 done 5. Cisco ASA Administrator. Начало работы (unboxing)
+ 25.03.2023 16:12:14 done 6. Cisco ASA Administrator. Stateful packet Inspection
+ 25.03.2023 16:12:16 done 7. Cisco ASA Administrator. Security Level
+ 25.03.2023 16:12:17 done Cisco ASA Administrator
+ 25.03.2023 16:12:49 done 1.Check Point Security CheckUP R80.10. Обзор
+ 25.03.2023 16:12:51 done 2.Check Point Security CheckUP R80.10. Установка, Инициализация
+ 25.03.2023 16:12:53 done 3.Check Point Security CheckUP R80.10. Настройка
+ 25.03.2023 16:12:54 done CheckUP R80.10
+ 25.03.2023 16:13:28 done 0.Check Point SandBlast. Введение
+ 25.03.2023 16:13:30 done 1.Check Point SandBlast. Обзор современных угроз
+ 25.03.2023 16:13:32 done 2.Check Point SandBlast. Лабораторная работа №1
+ 25.03.2023 16:13:34 done 3.Check Point SandBlast. Лабораторная работа №2
+ 25.03.2023 16:13:36 done 4.Check Point SandBlast. Технологии &quot;песочниц&quot;
+ 25.03.2023 16:13:38 done 5.Check Point SandBlast. Лабораторная работа №3
+ 25.03.2023 16:13:41 done 6.Check Point SandBlast. Лабораторная работа №4
+ 25.03.2023 16:13:43 done 7.Check Point SandBlast. Лабораторная работа №5
+ 25.03.2023 16:13:45 done 8.Check Point SandBlast. Агенты
+ 25.03.2023 16:13:47 done 9.Check Point SandBlast. Лабораторная работа №6
+ 25.03.2023 16:13:49 done 10.Check Point SandBlast. Лабораторная работа №7
+ 25.03.2023 16:13:51 done 11.Check Point SandBlast. Заключение
+ 25.03.2023 16:13:52 done Check Point SandBlast
+ 25.03.2023 16:14:24 done 1.Корпоративная сеть на MikroTik. Введение
+ 25.03.2023 16:14:26 done 2.Корпоративная сеть на MikroTik. Установка
+ 25.03.2023 16:14:28 done 3.Корпоративная сеть на MikroTik. Базовая настройка
+ 25.03.2023 16:14:30 done 4.Корпоративная сеть на MikroTik. VPN
+ 25.03.2023 16:14:32 done 5.Корпоративная сеть на MikroTik. Firewall
+ 25.03.2023 16:14:34 done 6.Корпоративная сеть на MikroTik. Резервирование каналов
+ 25.03.2023 16:14:37 done 7.Корпоративная сеть на MikroTik. Отказоустойчивость (VRRP)
+ 25.03.2023 16:14:39 done 8.Корпоративная сеть на MikroTik. Блокировка сайтов
+ 25.03.2023 16:14:41 done 9.Корпоративная сеть на MikroTik. VLAN
+ 25.03.2023 16:14:43 done 10.Корпоративная сеть на MikroTIk. Troubleshooting
+ 25.03.2023 16:14:44 done MikroTik
+ 25.03.2023 16:15:14 done 1.Курс UNetLab. Введение
+ 25.03.2023 16:15:16 done 2.Курс UNetLab. Установка
+ 25.03.2023 16:15:19 done 3.Курс UNetLab. Dynamips
+ 25.03.2023 16:15:21 done 4.UNetLab. Telnet, VNC, Wireshark
+ 25.03.2023 16:15:23 done 5.UNetLab. Создание сетевой топологии
+ 25.03.2023 16:15:25 done 6.UNetLab. Компьютер в сетевой топологии - VPCS
+ 25.03.2023 16:15:27 done 7.UNetLab. Компьютер в сетевой топологии - VMware
+ 25.03.2023 16:15:29 done 8.UNetLab. Компьютер в сетевой топологии - QEMU
+ 25.03.2023 16:15:31 done 9.UNetLab. Компьютер в сетевой топологии - Docker
+ 25.03.2023 16:15:34 done 10.UNetLab. Cisco vIOS
+ 25.03.2023 16:15:36 done 11.UNetLab. Cisco ASA
+ 25.03.2023 16:15:36 done Курс UNetLab
+ 25.03.2023 16:16:12 done 1.Linux для начинающих. Введение
+ 25.03.2023 16:16:14 done 2.Linux для начинающих. Установка CentOS в VirtualBox
+ 25.03.2023 16:16:17 done 3.Linux для начинающих. Файловая система и основные команды
+ 25.03.2023 16:16:19 done 4.Linux для начинающих. Настройка сети
+ 25.03.2023 16:16:21 done 5.Linux для начинающих. Заведение пользователей
+ 25.03.2023 16:16:23 done 6.Linux для начинающих. Установка пакетов
+ 25.03.2023 16:16:25 done 7.Linux для начинающих. Межсетевой экран
+ 25.03.2023 16:16:28 done 8.Linux для начинающих. DHCP сервер
+ 25.03.2023 16:16:30 done 9.Linux для начинающих. Заключение
+ 25.03.2023 16:16:31 done Linux для начинающих
+ 25.03.2023 16:17:06 done 1.Основы GNS3. Введение
+ 25.03.2023 16:17:08 done 2.Основы GNS3. Установка на Windows
+ 25.03.2023 16:17:11 done 3.Основы GNS3. Установка на Linux
+ 25.03.2023 16:17:13 done 4.Основы GNS3. Базовая настройка. Добавляем образы Cisco
+ 25.03.2023 16:17:15 done 5.Основы GNS3. Простейшая сеть
+ 25.03.2023 16:17:17 done 6.Основы GNS3. Добавляем хост в сеть. Virtual PC Simulator
+ 25.03.2023 16:17:20 done 7.Основы GNS3. Коммутатор в GNS3
+ 25.03.2023 16:17:22 done 8.Основы GNS3. L3 коммутатор (Router+EtherSwitch module)
+ 25.03.2023 16:17:24 done 9.Основы GNS3. Добавляем хост VirtualBox
+ 25.03.2023 16:17:26 done 10.Основы GNS3. Добавляем хост VMware Workstation
+ 25.03.2023 16:17:29 done 11.Основы GNS3. Добавляем свой компьютер в сеть GNS3
+ 25.03.2023 16:17:31 done 12.Основы GNS3. Подключение GNS3 к реальной сети
+ 25.03.2023 16:17:33 done 13.Основы GNS3. Cisco ASA + ASDM
+ 25.03.2023 16:17:35 done 14.Основы GNS3. Wireshark
+ 25.03.2023 16:17:37 done 15.Основы GNS. Заключение
+ 25.03.2023 16:17:38 done Основы GNS3
+ 25.03.2023 16:18:12 done 0.Видео уроки Cisco Packet Tracer. Курс молодого бойца. Введение
+ 25.03.2023 16:18:14 done 1.Видео уроки Cisco Packet Tracer. Курс молодого бойца. Установка
+ 25.03.2023 16:18:16 done 2.Видео уроки Cisco Packet Tracer. Курс молодого бойца. Простейшая сеть
+ 25.03.2023 16:18:18 done 3.Видео уроки Cisco Packet Tracer. Курс молодого бойца. Коммутатор
+ 25.03.2023 16:18:21 done 4.Видео уроки Cisco Packet Tracer. Курс молодого бойца. Основы Cisco IOS
+ 25.03.2023 16:18:23 done 5.Видео уроки Cisco Packet Tracer. Курс молодого бойца. VLAN
+ 25.03.2023 16:18:25 done 6.Видео уроки Cisco Packet Tracer. Курс молодого бойца. STP
+ 25.03.2023 16:18:27 done 7.Видео уроки Cisco Packet Tracer. Курс молодого бойца. EtherChannel
+ 25.03.2023 16:18:30 done 8.Видео уроки Cisco Packet Tracer. Курс молодого бойца. L3 коммутатор
+ 25.03.2023 16:18:32 done 9.Видео уроки Cisco Packet Tracer. Курс молодого бойца. Маршрутизатор
+ 25.03.2023 16:18:34 done 10.Видео уроки Cisco Packet Tracer. Курс молодого бойца. Статическая маршрутизация
+ 25.03.2023 16:18:36 done 11.Видео уроки Cisco Packet Tracer. Курс молодого бойца. DHCP
+ 25.03.2023 16:18:38 done 12.Видео уроки Cisco Packet Tracer. Курс молодого бойца. NAT
+ 25.03.2023 16:18:41 done 13.Видео уроки Cisco Packet Tracer. Курс молодого бойца. OSPF
+ 25.03.2023 16:18:43 done 14.Видео уроки Cisco Packet Tracer. Курс молодого бойца. EIGRP
+ 25.03.2023 16:18:45 done 15.Видео уроки Cisco Packet Tracer. Курс молодого бойца. Access-List
+ 25.03.2023 16:18:47 done 16.Видео уроки Cisco Packet Tracer. Курс молодого бойца. Cisco ASA
+ 25.03.2023 16:18:49 done 17.Видео уроки Cisco Packet Tracer. Курс молодого бойца. DMZ
+ 25.03.2023 16:18:51 done 18.Видео уроки Cisco Packet Tracer. Курс молодого бойца. VPN
+ 25.03.2023 16:18:53 done 19.Видео уроки Cisco Packet Tracer. Курс молодого бойца. Syslog, NTP
+ 25.03.2023 16:18:56 done 20.Видео уроки Cisco Packet Tracer. Курс молодого бойца. AAA
+ 25.03.2023 16:18:58 done 21.Видео уроки Cisco Packet Tracer. Курс молодого бойца. TFTP
+ 25.03.2023 16:19:00 done 22.Видео уроки Cisco Packet Tracer. Курс молодого бойца. WiFi
+ 25.03.2023 16:19:03 done 23.Видео уроки Cisco Packet Tracer. Курс молодого бойца. Troubleshooting
+ 25.03.2023 16:19:05 done 24.Видео уроки Cisco Packet Tracer. Курс молодого бойца. Заключение
+ 25.03.2023 16:19:05 done Курс молодого бойца
+ 25.03.2023 16:19:33 done Видео уроки cisco. Запускаем PIX Firewall в GNS3
+ 25.03.2023 16:19:35 done Установка GNS3 на Ubuntu (Install GNS3 on Ubuntu) ver. 2
+ 25.03.2023 16:19:37 done Запускаем IPS/IDS в GNS3
+ 25.03.2023 16:19:39 done Cisco ASA в GNS3
+ 25.03.2023 16:19:41 done GNS3 and VMware
+ 25.03.2023 16:19:44 done Switch in GNS3 and Cisco Packet Tracer
+ 25.03.2023 16:19:46 done Подключение VirtualBox к gns3 (virtualbox + gns3)
+ 25.03.2023 16:19:48 done Добавление компьютера в GNS3 (add host in gns3)
+ 25.03.2023 16:19:50 done Установка GNS на Ubuntu(GNS3 isntall ubuntu)
+ 25.03.2023 16:19:51 done GNS3
+ 25.03.2023 16:20:23 done Видео уроки cisco. ICND1. Введение в IOS
+ 25.03.2023 16:20:26 done Видео уроки cisco. ICND1. Основы безопасности
+ 25.03.2023 16:20:28 done Видео уроки cisco. ICND1. Cisco Discovery Protocol (CDP in cisco)
+ 25.03.2023 16:20:30 done Видео уроки cisco. ICND1. Сisco router interface configuring
+ 25.03.2023 16:20:32 done Видео уроки cisco. ICND1. Таблицы узлов (cisco ip host table)
+ 25.03.2023 16:20:32 done Лабораторные работы ICND1
+ 25.03.2023 16:21:07 done Zabbix. Видео урок №5. Установка готового образа в VirtualBox
+ 25.03.2023 16:21:09 done Zabbix. Видео урок №4. Настройка email оповещений (gmail ssmtp)
+ 25.03.2023 16:21:12 done Zabbix. Видеоурок №3.zabbix 2.0 on ubuntu
+ 25.03.2023 16:21:14 done Zabbix. Видеоурок №2.SNMP(смотреть в HD качестве)
+ 25.03.2023 16:21:16 done Zabbix. Видеоурок №1(смотреть в HD качестве)
+ 25.03.2023 16:21:17 done Видео уроки Zabbix
+ 25.03.2023 16:21:47 done MicroNugget: How to Configure NAT (PAT) on Cisco Routers
+ 25.03.2023 16:21:50 done CCBOOTCAMP Webinar - Cisco ASA SSL VPN
+ 25.03.2023 16:21:50 done Favorites
+ 25.03.2023 16:21:51 good end 
+ 25.03.2023 16:21:51 good end 

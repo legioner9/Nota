@@ -1,0 +1,3 @@
+# [DevOps](https://www.youtube.com/@Devops_Youtube_Channel/playlists)
+## [Prometheus](https://www.youtube.com/playlist?list=PLkKSgP0nEL0DtL48dOJxHJjweE_JZ9sbM)
+### [1. Как мониторить БД Mysql с помощью Prometheus ? /Mysql/ Prometheus/ Monitoring/ Metrics/ Ubuntu](https://www.youtube.com/watch?v=4o1XKa7zYrU&amp;list=PLkKSgP0nEL0DtL48dOJxHJjweE_JZ9sbM&amp;index=1)

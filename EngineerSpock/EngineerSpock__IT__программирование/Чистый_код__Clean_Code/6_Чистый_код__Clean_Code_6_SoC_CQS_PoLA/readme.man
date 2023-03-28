@@ -1,0 +1,3 @@
+# [EngineerSpock - IT & программирование](https://www.youtube.com/@EngineerSpock/playlists)
+## [Чистый код / Clean Code](https://www.youtube.com/playlist?list=PLBheEHDcG7-mLhP_ZknHi7vjesmXVmk7q)
+### [Чистый код / Clean Code #6: SoC, CQS, PoLA](https://www.youtube.com/watch?v=FnO0KpDd26w&amp;list=PLBheEHDcG7-mLhP_ZknHi7vjesmXVmk7q&amp;index=6)

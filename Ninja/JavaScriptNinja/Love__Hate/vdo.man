@@ -1,0 +1,2 @@
+### [💖 VueJS: Аргументы &quot;за&quot;](https://www.youtube.com/watch?v=FFZfmIQ9I44&amp;list=PLvTBThJr861yew_0p-x_4DlXh6wTGjkPX&amp;index=1)
+### [💔 VueJS: аргументы &quot;против&quot;](https://www.youtube.com/watch?v=kuHSJNxNFQw&amp;list=PLvTBThJr861yew_0p-x_4DlXh6wTGjkPX&amp;index=2)

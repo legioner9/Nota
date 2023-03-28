@@ -1,0 +1,5 @@
+### [Практикум курса C# Стартовый на примерах из GTA 5. Урок 1. Окружение.](https://www.youtube.com/watch?v=uVvhxOXNGuA&amp;list=PLvItDmb0sZw9-vIHba_lA8WmPJv5gIKhv&amp;index=1)
+### [Практикум курса C# Стартовый на примерах из GTA 5. Урок 2. Переменные и типы данных](https://www.youtube.com/watch?v=ERpdYHWTfWY&amp;list=PLvItDmb0sZw9-vIHba_lA8WmPJv5gIKhv&amp;index=2)
+### [Практикум курса C# Стартовый на примерах из GTA 5. Урок 3. Таймер и циклы](https://www.youtube.com/watch?v=WRGnHOAGWko&amp;list=PLvItDmb0sZw9-vIHba_lA8WmPJv5gIKhv&amp;index=3)
+### [Практикум курса C# Стартовый на примерах из GTA 5. Урок 4. Создаем киллера.](https://www.youtube.com/watch?v=mAqor1iLdpE&amp;list=PLvItDmb0sZw9-vIHba_lA8WmPJv5gIKhv&amp;index=4)
+### [Практикум курса C# Стартовый на примерах из GTA 5. Урок 5. Call native functions](https://www.youtube.com/watch?v=poPpPbfvgv0&amp;list=PLvItDmb0sZw9-vIHba_lA8WmPJv5gIKhv&amp;index=5)

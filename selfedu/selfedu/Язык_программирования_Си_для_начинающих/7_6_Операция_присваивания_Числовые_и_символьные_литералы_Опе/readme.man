@@ -1,0 +1,3 @@
+# [selfedu](https://www.youtube.com/@selfedu_rus/playlists?view=1)
+## [Язык программирования Си для начинающих](https://www.youtube.com/playlist?list=PLA0M1Bcd0w8w-mqVmBjt-2J8Z1gVmPZVz)
+### [#6. Операция присваивания. Числовые и символьные литералы. Операция sizeof | Язык C для начинающих](https://www.youtube.com/watch?v=e9CVbaW9kSc&amp;list=PLA0M1Bcd0w8w-mqVmBjt-2J8Z1gVmPZVz&amp;index=7)

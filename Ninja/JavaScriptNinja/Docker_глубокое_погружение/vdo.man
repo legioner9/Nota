@@ -1,0 +1,6 @@
+### [#1 Изоляция. Начало: Файловая система - Docker](https://www.youtube.com/watch?v=v_GbcTpMTLE&amp;list=PLvTBThJr861x2qFBVwOlqIrbaft-Im-0u&amp;index=1)
+### [#2 Файловая система: Выбираемся из chroot - Docker](https://www.youtube.com/watch?v=6XlqSfOEiGU&amp;list=PLvTBThJr861x2qFBVwOlqIrbaft-Im-0u&amp;index=2)
+### [#3 Пространства имён: введение -  Docker](https://www.youtube.com/watch?v=wVSQ0_v3t_8&amp;list=PLvTBThJr861x2qFBVwOlqIrbaft-Im-0u&amp;index=3)
+### [#4 Пространства имён: полная изоляция - Docker](https://www.youtube.com/watch?v=C4w0Kk52EcA&amp;list=PLvTBThJr861x2qFBVwOlqIrbaft-Im-0u&amp;index=4)
+### [#5 Пространства имён: изоляция сети](https://www.youtube.com/watch?v=8a3gDy6ykHE&amp;list=PLvTBThJr861x2qFBVwOlqIrbaft-Im-0u&amp;index=5)
+### [#6 Файловые слои: магия overlay - Docker](https://www.youtube.com/watch?v=6fczsvaKxp0&amp;list=PLvTBThJr861x2qFBVwOlqIrbaft-Im-0u&amp;index=6)

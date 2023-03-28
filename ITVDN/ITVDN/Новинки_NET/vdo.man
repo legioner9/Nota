@@ -1,0 +1,5 @@
+### [Что такое C#? Почему это лучший язык программирования для начинающих? Уроки C# для начинающих.](https://www.youtube.com/watch?v=A1bDOw1q0lw&amp;list=PLvItDmb0sZw-CqEVgew-JI90_7jt0Bgss&amp;index=1)
+### [Шаблон MVC в ASP.NET Core.](https://www.youtube.com/watch?v=swYDyDLIQVk&amp;list=PLvItDmb0sZw-CqEVgew-JI90_7jt0Bgss&amp;index=2)
+### [Что лучше ASP.NET или ASP.NET Core?](https://www.youtube.com/watch?v=Hm9xO9C3DWg&amp;list=PLvItDmb0sZw-CqEVgew-JI90_7jt0Bgss&amp;index=3)
+### [Что такое SignalR? ➤ В чем разница между ASP.NET SignalR и ASP.NET Core SignalR?](https://www.youtube.com/watch?v=xETRdIyWxwo&amp;list=PLvItDmb0sZw-CqEVgew-JI90_7jt0Bgss&amp;index=4)
+### [Практический курс ASP.NET Core ➤ Организация работы с Web API](https://www.youtube.com/watch?v=374OCJ1z_a0&amp;list=PLvItDmb0sZw-CqEVgew-JI90_7jt0Bgss&amp;index=5)

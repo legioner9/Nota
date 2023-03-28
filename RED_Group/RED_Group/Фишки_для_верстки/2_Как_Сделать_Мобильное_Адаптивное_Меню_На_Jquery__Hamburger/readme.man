@@ -1,0 +1,3 @@
+# [RED Group](https://www.youtube.com/@REDGroup/playlists)
+## [Фишки для верстки](https://www.youtube.com/playlist?list=PLXkonRjGXZwxw0P_SexI5kgMfUN5WqYJc)
+### [Как Сделать Мобильное Адаптивное Меню На Jquery // Hamburger menu // Верстка сайта](https://www.youtube.com/watch?v=GED2cUPbEO8&amp;list=PLXkonRjGXZwxw0P_SexI5kgMfUN5WqYJc&amp;index=2)

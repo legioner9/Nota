@@ -1,0 +1,3 @@
+# [OTUS Онлайн - образование](https://www.youtube.com/@otus_education/playlists)
+## [Курс | C# Developer. Professional](https://www.youtube.com/playlist?list=PLfnFOImnyWRUlDMnKYobAhsHjc4aAleBy)
+### [Асинхронное программирование и магические слова async/await // Курс «C# Developer. Professional»](https://www.youtube.com/watch?v=9N9Vw6m1598&amp;list=PLfnFOImnyWRUlDMnKYobAhsHjc4aAleBy&amp;index=27)

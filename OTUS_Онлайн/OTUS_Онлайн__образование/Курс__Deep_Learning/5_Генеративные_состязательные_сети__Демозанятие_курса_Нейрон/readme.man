@@ -1,0 +1,3 @@
+# [OTUS Онлайн - образование](https://www.youtube.com/@otus_education/playlists)
+## [Курс | Deep Learning.](https://www.youtube.com/playlist?list=PLfnFOImnyWRU-KZqUWatetetxL69wk1ET)
+### [Генеративные состязательные сети // Демо-занятие курса «Нейронные сети на Python»](https://www.youtube.com/watch?v=bf1OdT5A1iA&amp;list=PLfnFOImnyWRU-KZqUWatetetxL69wk1ET&amp;index=5)

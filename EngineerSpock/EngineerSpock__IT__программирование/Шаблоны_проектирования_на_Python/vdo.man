@@ -1,0 +1,8 @@
+### [Паттерны проектирования на Python: Паттерн Строитель](https://www.youtube.com/watch?v=x5yGIuf13Rk&amp;list=PLBheEHDcG7-k0eMcAdrzNFgYBf9jua3va&amp;index=1)
+### [Паттерны проектирования на Python: Паттерн Фабричный метод](https://www.youtube.com/watch?v=FONWO-xdqYo&amp;list=PLBheEHDcG7-k0eMcAdrzNFgYBf9jua3va&amp;index=2)
+### [Паттерны проектирования на Python: Паттерн Прототип](https://www.youtube.com/watch?v=Wm27d6Nn6VU&amp;list=PLBheEHDcG7-k0eMcAdrzNFgYBf9jua3va&amp;index=3)
+### [SOLID принципы на Python: SRP - Принцип единственной ответственности](https://www.youtube.com/watch?v=_kBcJrk70vQ&amp;list=PLBheEHDcG7-k0eMcAdrzNFgYBf9jua3va&amp;index=4)
+### [SOLID принципы на Python: OCP - Принцип открытости / закрытости](https://www.youtube.com/watch?v=vU-iw-Fnwzg&amp;list=PLBheEHDcG7-k0eMcAdrzNFgYBf9jua3va&amp;index=5)
+### [SOLID принципы на Python: LSP - Принцип подстановки Лисков / Liskov Substitution Principle](https://www.youtube.com/watch?v=bb9HLu_rtyA&amp;list=PLBheEHDcG7-k0eMcAdrzNFgYBf9jua3va&amp;index=6)
+### [SOLID принципы на Python: ISP - Принцип разделения интерфейса / Interface Segregation Principle](https://www.youtube.com/watch?v=gEHMnLuex6M&amp;list=PLBheEHDcG7-k0eMcAdrzNFgYBf9jua3va&amp;index=7)
+### [SOLID принципы на Python: DIP - Принцип инверсии зависимостей / Dependency Inversion Principle](https://www.youtube.com/watch?v=ZS1klrs6g-4&amp;list=PLBheEHDcG7-k0eMcAdrzNFgYBf9jua3va&amp;index=8)

@@ -1,0 +1,3 @@
+# [Neuro Lab! Algorithms](https://www.youtube.com/@NeuroLabAlgorithms/playlists)
+## [Осваиваем Golang](https://www.youtube.com/playlist?list=PLHUicSITKZEmz2w3zo-aUpxCUZuqONE4c)
+### [Пример простого приложения Go + Vue. Сохранение данных в локальную базу](https://www.youtube.com/watch?v=g0OAy8fzStU&amp;list=PLHUicSITKZEmz2w3zo-aUpxCUZuqONE4c&amp;index=7)

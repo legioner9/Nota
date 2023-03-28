@@ -1,0 +1,3 @@
+# [Школа itProger / Программирование](https://www.youtube.com/@itproger/playlists?view=1)
+## [Изучение MySQL для начинающих с нуля!](https://www.youtube.com/playlist?list=PLDyJYA6aTY1lPhlF2iHiLlkDW6bd39VmE)
+### [Уроки MySQL для начинающих / #4 – Добавление данных в таблицу](https://www.youtube.com/watch?v=WyhgG2LVac0&amp;list=PLDyJYA6aTY1lPhlF2iHiLlkDW6bd39VmE&amp;index=4)

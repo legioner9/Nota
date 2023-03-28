@@ -1,0 +1,3 @@
+# [alishev](https://www.youtube.com/@alishevN/playlists)
+## [Python для начинающих](https://www.youtube.com/playlist?list=PLAma_mKffTOSY12JZS6l8lxKCpooPVcrn)
+### [Python для начинающих. Урок 14: ООП. Методы, параметр self.](https://www.youtube.com/watch?v=jvPJKf0fFLw&amp;list=PLAma_mKffTOSY12JZS6l8lxKCpooPVcrn&amp;index=14)

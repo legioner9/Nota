@@ -1,0 +1,3 @@
+# [EngineerSpock - IT & программирование](https://www.youtube.com/@EngineerSpock/playlists)
+## [Функциональное программирование](https://www.youtube.com/playlist?list=PLBheEHDcG7-nMDbXiGLxM5HiFaT0hplq3)
+### [Функциональное программирование # 4: Шаблон проектирования Строитель и ФП](https://www.youtube.com/watch?v=wEuU_RCpH1U&amp;list=PLBheEHDcG7-nMDbXiGLxM5HiFaT0hplq3&amp;index=4)

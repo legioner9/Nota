@@ -1,0 +1,3 @@
+# [RED Group](https://www.youtube.com/@REDGroup/playlists)
+## [Back End](https://www.youtube.com/playlist?list=PLXkonRjGXZwwil3SidT8o6XaubHL4JBXh)
+### [Я СМОГ! АВТОРИЗАЦИЯ ГОТОВА! Пишем новый back-end на [Nest.js / GraphQL / MySQL] + РЕВЬЮ ВАШИХ РАБОТ](https://www.youtube.com/watch?v=pjg20ld0Vwk&amp;list=PLXkonRjGXZwwil3SidT8o6XaubHL4JBXh&amp;index=5)

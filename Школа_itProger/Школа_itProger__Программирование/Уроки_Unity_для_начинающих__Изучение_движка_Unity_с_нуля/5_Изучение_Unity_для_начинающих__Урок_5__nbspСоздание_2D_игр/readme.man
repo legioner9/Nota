@@ -1,0 +1,3 @@
+# [Школа itProger / Программирование](https://www.youtube.com/@itproger/playlists?view=1)
+## [Уроки Unity для начинающих / Изучение движка Unity с нуля](https://www.youtube.com/playlist?list=PLDyJYA6aTY1k_-3fFiMVoYY04jCr-QY55)
+### [Изучение Unity для начинающих / Урок #5 – &nbsp;Создание 2D игр. Спрайты,  материалы и текстуры](https://www.youtube.com/watch?v=YSMrQeBf8CM&amp;list=PLDyJYA6aTY1k_-3fFiMVoYY04jCr-QY55&amp;index=5)

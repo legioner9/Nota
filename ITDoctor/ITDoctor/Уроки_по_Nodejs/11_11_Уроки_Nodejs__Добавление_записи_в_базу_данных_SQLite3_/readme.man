@@ -1,0 +1,3 @@
+# [ITDoctor](https://www.youtube.com/@ITDoctor/playlists?view=1&sort=dd&shelf_id=0)
+## [Уроки по Node.js](https://www.youtube.com/playlist?list=PLuY6eeDuleIOmCbpBUPDIdkNqn9XSnhsG)
+### [#11 Уроки Node.js - Добавление записи в базу данных SQLite3 на Node.js](https://www.youtube.com/watch?v=z95sX1r0uHA&amp;list=PLuY6eeDuleIOmCbpBUPDIdkNqn9XSnhsG&amp;index=11)

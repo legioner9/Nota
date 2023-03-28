@@ -1,0 +1,3 @@
+# [Merion Academy - доступное IT образование](https://www.youtube.com/@merionacademy/playlists)
+## [Настройка Asterisk (FreePBX) с нуля](https://www.youtube.com/playlist?list=PLVULwBUtsriMvr8IUSWrBtATUq4akIEUC)
+### [FreePBX 13 - настройка SIP транка](https://www.youtube.com/watch?v=Y6vTti1jZD8&amp;list=PLVULwBUtsriMvr8IUSWrBtATUq4akIEUC&amp;index=7)

@@ -1,0 +1,3 @@
+# [ITVDN](https://www.youtube.com/@ITVDN/playlists?view=1)
+## [Видеокурс по Entity Framework 6](https://www.youtube.com/playlist?list=PLvItDmb0sZw9FohaaH2utnCloyM_fqYhN)
+### [Entity Framework 6. Видео урок 4. Fluent API &amp; Data Annotations](https://www.youtube.com/watch?v=CK4AakifTfw&amp;list=PLvItDmb0sZw9FohaaH2utnCloyM_fqYhN&amp;index=4)

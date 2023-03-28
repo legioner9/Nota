@@ -1,0 +1,3 @@
+# [selfedu](https://www.youtube.com/@selfedu_rus/playlists?view=1)
+## [Уроки PYTHON для начинающих](https://www.youtube.com/playlist?list=PLA0M1Bcd0w8xIdFNA95aQrwJ_GQJEV8ko)
+### [Python 3 #5: условный оператор if, составные условия с and, or, not](https://www.youtube.com/watch?v=mlv2POHhZn8&amp;list=PLA0M1Bcd0w8xIdFNA95aQrwJ_GQJEV8ko&amp;index=5)

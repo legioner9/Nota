@@ -1,0 +1,3 @@
+# [ITDoctor](https://www.youtube.com/@ITDoctor/playlists?view=1&sort=dd&shelf_id=0)
+## [Уроки по MySQL](https://www.youtube.com/playlist?list=PLuY6eeDuleINWpCD2IbtMm-R5ClBA70Dw)
+### [#6 Всё про Таблицы и операции с ними в phpMyAdmin, Базы данных MySQL](https://www.youtube.com/watch?v=9QUjpzoR0Vk&amp;list=PLuY6eeDuleINWpCD2IbtMm-R5ClBA70Dw&amp;index=7)

@@ -1,0 +1,3 @@
+# [ITVDN](https://www.youtube.com/@ITVDN/playlists?view=1)
+## [Практика программирования для начинающих](https://www.youtube.com/playlist?list=PLvItDmb0sZw_Fb0ZmRxXslwI4uQeX-qmE)
+### [3D моделирование на JavaScript. Three.js для начинающих](https://www.youtube.com/watch?v=zzK5eOhPlLw&amp;list=PLvItDmb0sZw_Fb0ZmRxXslwI4uQeX-qmE&amp;index=69)

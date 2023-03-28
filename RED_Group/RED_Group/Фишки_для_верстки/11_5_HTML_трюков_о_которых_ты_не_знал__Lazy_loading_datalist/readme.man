@@ -1,0 +1,3 @@
+# [RED Group](https://www.youtube.com/@REDGroup/playlists)
+## [Фишки для верстки](https://www.youtube.com/playlist?list=PLXkonRjGXZwxw0P_SexI5kgMfUN5WqYJc)
+### [5 HTML трюков, о которых ты не знал! // Lazy loading, datalist, picture tag, refresher, base url...](https://www.youtube.com/watch?v=2dk1yvBlF44&amp;list=PLXkonRjGXZwxw0P_SexI5kgMfUN5WqYJc&amp;index=11)

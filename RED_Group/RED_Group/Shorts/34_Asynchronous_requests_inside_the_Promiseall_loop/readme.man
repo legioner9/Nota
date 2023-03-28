@@ -1,0 +1,3 @@
+# [RED Group](https://www.youtube.com/@REDGroup/playlists)
+## [Shorts](https://www.youtube.com/playlist?list=PLXkonRjGXZwy5HwLU2FCnYFF3KeOilMsj)
+### [Asynchronous requests inside the Promise.all loop](https://www.youtube.com/watch?v=cmZoUbGSQEo&amp;list=PLXkonRjGXZwy5HwLU2FCnYFF3KeOilMsj&amp;index=34)

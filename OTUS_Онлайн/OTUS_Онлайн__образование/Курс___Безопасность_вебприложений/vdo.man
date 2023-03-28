@@ -1,0 +1,6 @@
+### [SQL injection  найти и обезвредить // Демо-занятие курса «Безопасность веб-приложений»](https://www.youtube.com/watch?v=us8MvILehvM&amp;list=PLfnFOImnyWRVlziB4gmHQfar33Llse9-K&amp;index=1)
+### [Безопасность веб приложений // День открытых дверей OTUS2](https://www.youtube.com/watch?v=cXaI5e1xH08&amp;list=PLfnFOImnyWRVlziB4gmHQfar33Llse9-K&amp;index=2)
+### [Безопасность веб-приложений // День открытых дверей OTUS](https://www.youtube.com/watch?v=Ep80dITSxu0&amp;list=PLfnFOImnyWRVlziB4gmHQfar33Llse9-K&amp;index=3)
+### [Основы технологий, необходимые для понимания уязвимостей // курс «Безопасность веб-приложений»](https://www.youtube.com/watch?v=sFWWt3rrEr0&amp;list=PLfnFOImnyWRVlziB4gmHQfar33Llse9-K&amp;index=4)
+### [Безопасность веб-приложений // День открытых дверей OTUS](https://www.youtube.com/watch?v=zI_tzlmeVmk&amp;list=PLfnFOImnyWRVlziB4gmHQfar33Llse9-K&amp;index=5)
+### [CTF: подведение итогов. Первый вебинар // Демо-занятие курса «CTF по ИБ»](https://www.youtube.com/watch?v=ICU0TOuN-y8&amp;list=PLfnFOImnyWRVlziB4gmHQfar33Llse9-K&amp;index=6)

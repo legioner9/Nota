@@ -1,0 +1,3 @@
+# [Cisco Ne Slabo / SEDICOMM TV](https://www.youtube.com/@cisconeslabo/playlists)
+## [QoS (Quality of Service, качество обслуживания) — Бесплатные мастер-классы от Академии Cisco Университет СЭДИКОММ](https://www.youtube.com/playlist?list=PLMiVLClzZDbQheSYVI92TQi8b9miJDDWg)
+### [Как настроить классификацию трафика для QoS на маршру...](https://www.youtube.com/watch?v=NR55PXQUk68&amp;list=PLMiVLClzZDbQheSYVI92TQi8b9miJDDWg&amp;index=1)

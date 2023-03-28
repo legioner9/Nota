@@ -1,0 +1,3 @@
+# [RED Group](https://www.youtube.com/@REDGroup/playlists)
+## [Интересные штуки](https://www.youtube.com/playlist?list=PLXkonRjGXZwzbkLQ8aEjYeKexbPE1LN9z)
+### [Пишем простую библиотеку для уведомлений // Библиотека на JavaScript с нуля](https://www.youtube.com/watch?v=515ZqLisbyc&amp;list=PLXkonRjGXZwzbkLQ8aEjYeKexbPE1LN9z&amp;index=2)

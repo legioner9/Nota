@@ -1,0 +1,3 @@
+# [UNИX](https://www.youtube.com/@unx7784/playlists)
+## [[UNИX] Сетевые протоколы в Linux (весна 2023)](https://www.youtube.com/playlist?list=PL6kSdcHYB3x6ocPglvEji5im6mfEjSzZR)
+### [02. Интерфейсный уровень и его представление](https://www.youtube.com/watch?v=Lswvy_busq8&amp;list=PL6kSdcHYB3x6ocPglvEji5im6mfEjSzZR&amp;index=3)

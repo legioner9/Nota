@@ -1,0 +1,7 @@
+### [ООП на пальцах на примере Python // Демо-занятие курса «Разработчик Python. Базовый курс»](https://www.youtube.com/watch?v=trqbD-6U1AU&amp;list=PLfnFOImnyWRXrEGaEMy4RIMEC4AHmXa_3&amp;index=1)
+### [Разработка десктоп-приложения с помощью библиотеки Tkinter. День 2 // Курс «Python Developer. Basic»](https://www.youtube.com/watch?v=-Ugv0uRtQL8&amp;list=PLfnFOImnyWRXrEGaEMy4RIMEC4AHmXa_3&amp;index=2)
+### [Разработка десктоп-приложения с помощью библиотеки Tkinter. День1 // Курс «Python Developer. Basic»](https://www.youtube.com/watch?v=HqfFS45GT3g&amp;list=PLfnFOImnyWRXrEGaEMy4RIMEC4AHmXa_3&amp;index=3)
+### [Мобильное приложение для автоматических рассылок с использованием Kivy Framework. День 2](https://www.youtube.com/watch?v=NBuQyoWrVP0&amp;list=PLfnFOImnyWRXrEGaEMy4RIMEC4AHmXa_3&amp;index=4)
+### [Мобильное приложение для автоматических рассылок с использованием Kivy Framework. День 1](https://www.youtube.com/watch?v=g_MTBKrP8tI&amp;list=PLfnFOImnyWRXrEGaEMy4RIMEC4AHmXa_3&amp;index=5)
+### [Основы ООП // Демо-занятие курса «Python Developer Basic»](https://www.youtube.com/watch?v=MFBXq1g7xtI&amp;list=PLfnFOImnyWRXrEGaEMy4RIMEC4AHmXa_3&amp;index=6)
+### [Базовые типы и структуры данных. Управление потоком // Демо-занятие курса «Python Developer. Basic»](https://www.youtube.com/watch?v=-4CdjLW4GNg&amp;list=PLfnFOImnyWRXrEGaEMy4RIMEC4AHmXa_3&amp;index=7)

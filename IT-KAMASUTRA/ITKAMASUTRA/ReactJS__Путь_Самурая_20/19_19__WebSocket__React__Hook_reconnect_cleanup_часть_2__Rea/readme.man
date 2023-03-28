@@ -1,0 +1,3 @@
+# [IT-KAMASUTRA](https://www.youtube.com/@ITKAMASUTRA/playlists?view=1)
+## [ReactJS - Путь Самурая 2.0](https://www.youtube.com/playlist?list=PLcvhF2Wqh7DM3z1XqMw0kPuxpbyMo3HvN)
+### [19 - WebSocket + React + Hook, reconnect, cleanup, часть 2 / React JS - Путь Самурая 2.0](https://www.youtube.com/watch?v=xJSNB0pGYdM&amp;list=PLcvhF2Wqh7DM3z1XqMw0kPuxpbyMo3HvN&amp;index=19)

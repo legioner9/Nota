@@ -1,0 +1,3 @@
+# [Django School](https://www.youtube.com/@DjangoSchool/playlists?view=1)
+## [Стримы](https://www.youtube.com/playlist?list=PLF-NY6ldwAWpebFCs324GXEvznObJ2qm8)
+### [Пет проекты и собеседования | Django School &amp; luchanos часть 2](https://www.youtube.com/watch?v=yRlVerSi0ZI&amp;list=PLF-NY6ldwAWpebFCs324GXEvznObJ2qm8&amp;index=8)

@@ -1,0 +1,3 @@
+# [PyLounge - программирование на Python и всё о IT](https://www.youtube.com/@pylounge/playlists)
+## [ОбIt](https://www.youtube.com/playlist?list=PLhVGaKnJDpzhNchJ4lpFyX1TqKuKd4BDE)
+### [Как Связаны Нейронные сети Машинное обучение Deep Learning с ИИ](https://www.youtube.com/watch?v=xEgwWUyh-O0&amp;list=PLhVGaKnJDpzhNchJ4lpFyX1TqKuKd4BDE&amp;index=2)

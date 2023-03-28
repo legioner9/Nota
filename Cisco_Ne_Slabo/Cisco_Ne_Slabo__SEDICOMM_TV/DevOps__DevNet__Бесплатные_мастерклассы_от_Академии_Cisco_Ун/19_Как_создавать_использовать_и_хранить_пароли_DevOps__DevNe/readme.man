@@ -1,0 +1,3 @@
+# [Cisco Ne Slabo / SEDICOMM TV](https://www.youtube.com/@cisconeslabo/playlists)
+## [DevOps / DevNet — Бесплатные мастер-классы от Академии Cisco Университет СЭДИКОММ](https://www.youtube.com/playlist?list=PLMiVLClzZDbSq8_Fljy8H0t-ZXRIfvjx2)
+### [Как создавать, использовать и хранить пароли DevOps / DevNet](https://www.youtube.com/watch?v=aBq48wrr7YA&amp;list=PLMiVLClzZDbSq8_Fljy8H0t-ZXRIfvjx2&amp;index=19)

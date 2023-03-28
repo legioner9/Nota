@@ -1,0 +1,3 @@
+# [ITDoctor](https://www.youtube.com/@ITDoctor/playlists?view=1&sort=dd&shelf_id=0)
+## [Уроки по JavaScript](https://www.youtube.com/playlist?list=PLuY6eeDuleINjS4_G7KuYThU_T4uzpAuG)
+### [Как вывести в HTML любую таблицу из объекта или массива JavaScript](https://www.youtube.com/watch?v=TYRJ_X9qMSE&amp;list=PLuY6eeDuleINjS4_G7KuYThU_T4uzpAuG&amp;index=40)

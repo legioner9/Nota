@@ -1,0 +1,3 @@
+# [luchanos](https://www.youtube.com/@luchanos/playlists?view=1&sort=dd&shelf_id=0)
+## [Основы git](https://www.youtube.com/playlist?list=PLlKID9PnOE5hNxXTOG8pOHwIlpmDtL6FM)
+### [ОСНОВЫ GIT ДЛЯ PYTHON-РАЗРАБОТЧИКА. КОНФЛИКТЫ И СПОСОБЫ ИХ РЕШЕНИЯ (ЧАСТЬ 5)](https://www.youtube.com/watch?v=C2Tz0pLdBj8&amp;list=PLlKID9PnOE5hNxXTOG8pOHwIlpmDtL6FM&amp;index=6)

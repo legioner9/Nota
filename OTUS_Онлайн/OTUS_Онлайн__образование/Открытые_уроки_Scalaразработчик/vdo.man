@@ -1,0 +1,6 @@
+### [Scala в разработке веб приложений // Демо-занятие курса «Scala-разработчик»](https://www.youtube.com/watch?v=-2kImsQQygs&amp;list=PLfnFOImnyWRV4gkTAk3sHSORctjjRkNzz&amp;index=1)
+### [Эффекты в Scala // Демо-занятие «Scala разработчик»](https://www.youtube.com/watch?v=x56WuzbriF4&amp;list=PLfnFOImnyWRV4gkTAk3sHSORctjjRkNzz&amp;index=2)
+### [Событие как основной тип данных в системе // Демо-занятие курса «Scala-разработчик»](https://www.youtube.com/watch?v=2FYlcAQeBhI&amp;list=PLfnFOImnyWRV4gkTAk3sHSORctjjRkNzz&amp;index=3)
+### [Разработка простого REST API c помощью HTTP4S и ZIO // Демо-занятие курса «Scala-разработчик»](https://www.youtube.com/watch?v=rprxRNGVO9k&amp;list=PLfnFOImnyWRV4gkTAk3sHSORctjjRkNzz&amp;index=4)
+### [Scala и парсер-комбинаторы // Демо-занятия курса «Scala разработчик»](https://www.youtube.com/watch?v=xWTCn-v7Wrw&amp;list=PLfnFOImnyWRV4gkTAk3sHSORctjjRkNzz&amp;index=5)
+### [Scala коллекции // Демо занятие курса «Scala разработчик»](https://www.youtube.com/watch?v=4YDw6WLGq4Y&amp;list=PLfnFOImnyWRV4gkTAk3sHSORctjjRkNzz&amp;index=6)

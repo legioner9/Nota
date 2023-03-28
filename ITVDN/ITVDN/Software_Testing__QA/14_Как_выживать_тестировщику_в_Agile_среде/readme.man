@@ -1,0 +1,3 @@
+# [ITVDN](https://www.youtube.com/@ITVDN/playlists?view=1)
+## [Software Testing & QA](https://www.youtube.com/playlist?list=PLvItDmb0sZw_d9N4wLrrEFXduxDp4pNwy)
+### [Как выживать тестировщику в Agile среде](https://www.youtube.com/watch?v=dHGq4ago09k&amp;list=PLvItDmb0sZw_d9N4wLrrEFXduxDp4pNwy&amp;index=14)

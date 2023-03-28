@@ -1,0 +1,3 @@
+# [ITVDN](https://www.youtube.com/@ITVDN/playlists?view=1)
+## [Видео курс Java Essential](https://www.youtube.com/playlist?list=PLvItDmb0sZw_557eC43XyLCVqJnt6F0NV)
+### [Видео курс Java Essential. Урок 10. Универсальные шаблоны](https://www.youtube.com/watch?v=uwJDaEDpHeY&amp;list=PLvItDmb0sZw_557eC43XyLCVqJnt6F0NV&amp;index=10)

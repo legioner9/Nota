@@ -1,0 +1,5 @@
+### [Primitive vs Reference Value Types in JavaScript](https://www.youtube.com/watch?v=FxUQazhlS9o&amp;list=PLWkguCWKqN9MOMJMuyQj6GnLatXTI3ujx&amp;index=1)
+### [Array reduce in JavaScript](https://www.youtube.com/watch?v=gmvaJCiMqDI&amp;list=PLWkguCWKqN9MOMJMuyQj6GnLatXTI3ujx&amp;index=2)
+### [JavaScript in 5 Minutes](https://www.youtube.com/watch?v=IYbkZgR77rs&amp;list=PLWkguCWKqN9MOMJMuyQj6GnLatXTI3ujx&amp;index=3)
+### [JavaScript - Полный Курс JavaScript Для Начинающих [11 ЧАСОВ]](https://www.youtube.com/watch?v=CxgOKJh4zWE&amp;list=PLWkguCWKqN9MOMJMuyQj6GnLatXTI3ujx&amp;index=4)
+### [React.js Touch Typing App [I CREATED IT]](https://www.youtube.com/watch?v=OVQNvy08FWU&amp;list=PLWkguCWKqN9MOMJMuyQj6GnLatXTI3ujx&amp;index=5)

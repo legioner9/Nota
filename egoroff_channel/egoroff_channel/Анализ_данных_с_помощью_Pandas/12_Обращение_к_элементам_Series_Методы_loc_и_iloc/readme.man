@@ -1,0 +1,3 @@
+# [egoroff_channel](https://www.youtube.com/@egoroffchannel/playlists)
+## [Анализ данных с помощью Pandas](https://www.youtube.com/playlist?list=PLQAt0m1f9OHvibdelR6YgWvxKRv-FDz4D)
+### [Обращение к элементам Series. Методы loc и iloc](https://www.youtube.com/watch?v=oE12iws9Dp0&amp;list=PLQAt0m1f9OHvibdelR6YgWvxKRv-FDz4D&amp;index=12)

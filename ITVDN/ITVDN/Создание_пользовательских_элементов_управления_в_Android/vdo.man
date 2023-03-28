@@ -1,0 +1,2 @@
+### [Основы RxJava 2. Создание пользовательских элементов управления в Android](https://www.youtube.com/watch?v=2WaKMd1IAvo&amp;list=PLvItDmb0sZw-xrDE0DRFJWGpuTnAGG8nZ&amp;index=1)
+### [Kotlin MVVM (Model View View-Model). Создание пользовательских элементов управления в Android](https://www.youtube.com/watch?v=l7bVVdGBCSA&amp;list=PLvItDmb0sZw-xrDE0DRFJWGpuTnAGG8nZ&amp;index=2)

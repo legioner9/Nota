@@ -1,0 +1,3 @@
+# [OTUS Онлайн - образование](https://www.youtube.com/@otus_education/playlists)
+## [Курс | Web-разработчик на Python](https://www.youtube.com/playlist?list=PLfnFOImnyWRUWvKT62vPMaY3v-Rf_yyZw)
+### [Паттерны Page Controller и Front Controller: реализация в Django // Курс «Web-разработчик на Python»](https://www.youtube.com/watch?v=pGC7v7rMkzI&amp;list=PLfnFOImnyWRUWvKT62vPMaY3v-Rf_yyZw&amp;index=17)

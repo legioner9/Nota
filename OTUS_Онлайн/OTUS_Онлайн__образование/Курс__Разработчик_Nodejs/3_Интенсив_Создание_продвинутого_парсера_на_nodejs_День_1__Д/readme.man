@@ -1,0 +1,3 @@
+# [OTUS Онлайн - образование](https://www.youtube.com/@otus_education/playlists)
+## [Курс | Разработчик Node.js](https://www.youtube.com/playlist?list=PLfnFOImnyWRWzmUn7eT02a2zenfO78eRW)
+### [Интенсив «Создание продвинутого парсера на node.js» День 1 // Демо-занятие курса «Node js Developer»](https://www.youtube.com/watch?v=sPzPlfYY-tM&amp;list=PLfnFOImnyWRWzmUn7eT02a2zenfO78eRW&amp;index=3)

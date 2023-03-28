@@ -1,0 +1,1 @@
+### [Работа с формами в ASP.NET Core. Создание и валидация форм.](https://www.youtube.com/watch?v=iLGvnUgd2_A&amp;list=PLvItDmb0sZw-t_FGpEszrYejjJKgge_zm&amp;index=1)

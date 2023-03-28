@@ -1,0 +1,5 @@
+### [Async Patterns в JavaScript // Демо-занятие курса «Специализация Fullstack developer»](https://www.youtube.com/watch?v=xR6nTaQW330&amp;list=PLfnFOImnyWRW2XS5NUwaqGXhk1LgC9pV8&amp;index=1)
+### [Анимация первого экрана сайта // Демо-занятие курса «Специализация Fullstack developer»](https://www.youtube.com/watch?v=WOLuWUDc5eQ&amp;list=PLfnFOImnyWRW2XS5NUwaqGXhk1LgC9pV8&amp;index=2)
+### [Такие разные числа // Демо-занятие курса «Специализация Fullstack developer»](https://www.youtube.com/watch?v=JH17r5Aecd0&amp;list=PLfnFOImnyWRW2XS5NUwaqGXhk1LgC9pV8&amp;index=3)
+### [Demo Day курса «Специализация Fullstack developer»](https://www.youtube.com/watch?v=viillhCphgs&amp;list=PLfnFOImnyWRW2XS5NUwaqGXhk1LgC9pV8&amp;index=4)
+### [Карточка товара // Демо-занятие курса «Специализация Fullstack developer»](https://www.youtube.com/watch?v=h3mOuGXp90k&amp;list=PLfnFOImnyWRW2XS5NUwaqGXhk1LgC9pV8&amp;index=5)

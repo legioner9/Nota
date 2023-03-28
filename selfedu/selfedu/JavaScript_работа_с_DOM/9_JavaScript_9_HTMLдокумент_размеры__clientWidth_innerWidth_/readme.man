@@ -1,0 +1,3 @@
+# [selfedu](https://www.youtube.com/@selfedu_rus/playlists?view=1)
+## [JavaScript работа с DOM](https://www.youtube.com/playlist?list=PLA0M1Bcd0w8zri9wWiDFmOukXhguEYBBO)
+### [JavaScript #9: HTML-документ: размеры - clientWidth, innerWidth,  положение - pageYOffset, scrollBy](https://www.youtube.com/watch?v=fkwgAOI-01g&amp;list=PLA0M1Bcd0w8zri9wWiDFmOukXhguEYBBO&amp;index=9)

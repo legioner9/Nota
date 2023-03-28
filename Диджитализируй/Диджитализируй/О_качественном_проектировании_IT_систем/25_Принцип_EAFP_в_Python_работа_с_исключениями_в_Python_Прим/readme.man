@@ -1,0 +1,3 @@
+# [Диджитализируй!](https://www.youtube.com/@t0digital/playlists)
+## [О качественном проектировании IT систем](https://www.youtube.com/playlist?list=PLAk6CfuV7hypHYocT3jky3yaCZcmxPFcC)
+### [Принцип EAFP в Python, работа с исключениями в Python. Применение принципов Zen of Python](https://www.youtube.com/watch?v=f-GFxTlqD2Q&amp;list=PLAk6CfuV7hypHYocT3jky3yaCZcmxPFcC&amp;index=25)

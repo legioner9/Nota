@@ -1,0 +1,3 @@
+# [Гоша Дударь](https://www.youtube.com/@gosha_dudar/playlists?view=1)
+## [Изучение PyQt5 для начинающих / Графический интерфейс на Python](https://www.youtube.com/playlist?list=PL0lO_mIqDDFXeDkOLHmEsL_HAEhw4-xDX)
+### [Изучение PyQT (Python GUI) / Урок #5 – Виджеты, изображения и меню](https://www.youtube.com/watch?v=JRJHSrCJ5U0&amp;list=PL0lO_mIqDDFXeDkOLHmEsL_HAEhw4-xDX&amp;index=5)

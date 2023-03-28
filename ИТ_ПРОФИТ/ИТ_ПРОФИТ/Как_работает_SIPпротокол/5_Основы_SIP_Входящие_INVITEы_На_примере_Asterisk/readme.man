@@ -1,0 +1,3 @@
+# [ИТ ПРОФИТ](https://www.youtube.com/@user-jc7qc6ug3y/playlists)
+## [Как работает SIP-протокол](https://www.youtube.com/playlist?list=PLVn0GO8KywWOaqcTT_uWDt10Iquitc8yX)
+### [Основы SIP. Входящие INVITE-ы. На примере Asterisk.](https://www.youtube.com/watch?v=Nwo5zqu_zfs&amp;list=PLVn0GO8KywWOaqcTT_uWDt10Iquitc8yX&amp;index=5)

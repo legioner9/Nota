@@ -1,0 +1,3 @@
+# [ITDoctor](https://www.youtube.com/@ITDoctor/playlists?view=1&sort=dd&shelf_id=0)
+## [Уроки по JavaScript](https://www.youtube.com/playlist?list=PLuY6eeDuleINoCQtGZsMoVVCSgEH7gKQ5)
+### [#1 Работа с DOM деревом на JavaScript, изменение текста и стилей на JS](https://www.youtube.com/watch?v=kUyEby5Anzg&amp;list=PLuY6eeDuleINoCQtGZsMoVVCSgEH7gKQ5&amp;index=14)

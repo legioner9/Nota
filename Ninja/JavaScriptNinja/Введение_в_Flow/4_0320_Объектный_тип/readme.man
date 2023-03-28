@@ -1,0 +1,3 @@
+# [JavaScript.Ninja](https://www.youtube.com/@JavaScriptNinja/playlists)
+## [Введение в Flow](https://www.youtube.com/playlist?list=PLvTBThJr861zvILAjREUakZ6E5l7h7lsZ)
+### [[03/20] Объектный тип](https://www.youtube.com/watch?v=o4fdEnVP6tQ&amp;list=PLvTBThJr861zvILAjREUakZ6E5l7h7lsZ&amp;index=4)

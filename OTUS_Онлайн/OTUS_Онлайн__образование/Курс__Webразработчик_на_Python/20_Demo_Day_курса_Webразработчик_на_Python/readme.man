@@ -1,0 +1,3 @@
+# [OTUS Онлайн - образование](https://www.youtube.com/@otus_education/playlists)
+## [Курс | Web-разработчик на Python](https://www.youtube.com/playlist?list=PLfnFOImnyWRUWvKT62vPMaY3v-Rf_yyZw)
+### [Demo Day курса «Web-разработчик на Python»](https://www.youtube.com/watch?v=Lw7an3LoFzU&amp;list=PLfnFOImnyWRUWvKT62vPMaY3v-Rf_yyZw&amp;index=20)

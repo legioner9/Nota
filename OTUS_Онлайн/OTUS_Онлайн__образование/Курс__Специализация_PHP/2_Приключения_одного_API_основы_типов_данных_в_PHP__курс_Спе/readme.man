@@ -1,0 +1,3 @@
+# [OTUS Онлайн - образование](https://www.youtube.com/@otus_education/playlists)
+## [Курс | Специализация PHP](https://www.youtube.com/playlist?list=PLfnFOImnyWRVgButRHq4g0XLx_tPwhymp)
+### [Приключения одного API: основы типов данных в PHP // курс «Специализация PHP Developer»](https://www.youtube.com/watch?v=t7JxxfWaHMI&amp;list=PLfnFOImnyWRVgButRHq4g0XLx_tPwhymp&amp;index=2)

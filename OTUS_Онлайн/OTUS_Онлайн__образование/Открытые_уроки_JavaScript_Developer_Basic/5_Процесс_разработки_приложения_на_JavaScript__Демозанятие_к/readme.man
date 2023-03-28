@@ -1,0 +1,3 @@
+# [OTUS Онлайн - образование](https://www.youtube.com/@otus_education/playlists)
+## [Открытые уроки JavaScript Developer. Basic](https://www.youtube.com/playlist?list=PLfnFOImnyWRV9VO51SDjn884AqKLciLu1)
+### [Процесс разработки приложения на JavaScript // Демо-занятие курса «JavaScript Developer. Basic»](https://www.youtube.com/watch?v=6_WQ6dQFk7c&amp;list=PLfnFOImnyWRV9VO51SDjn884AqKLciLu1&amp;index=5)

@@ -1,0 +1,3 @@
+# [ITVDN](https://www.youtube.com/@ITVDN/playlists?view=1)
+## [Что нового в С#?](https://www.youtube.com/playlist?list=PLvItDmb0sZw8bF6CjBouzAbWY87dyMVsT)
+### [Что нового в C# 6.0-7.0](https://www.youtube.com/watch?v=b17zDXnpDX8&amp;list=PLvItDmb0sZw8bF6CjBouzAbWY87dyMVsT&amp;index=1)

@@ -1,0 +1,3 @@
+# [Ulbi TV](https://www.youtube.com/@UlbiTV/playlists)
+## [MERN - FullStack разработка облачного хранилища](https://www.youtube.com/playlist?list=PL6DxKON1uLOGd4E6kG6d5K-tsTFj-Deln)
+### [2. React + Node.js - Создаем БД и React приложение - Облачное хранилище](https://www.youtube.com/watch?v=dLf_eXpUDjY&amp;list=PL6DxKON1uLOGd4E6kG6d5K-tsTFj-Deln&amp;index=2)

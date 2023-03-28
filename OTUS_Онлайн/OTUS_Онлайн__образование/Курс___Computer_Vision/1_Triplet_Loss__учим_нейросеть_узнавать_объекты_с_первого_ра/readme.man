@@ -1,0 +1,3 @@
+# [OTUS Онлайн - образование](https://www.youtube.com/@otus_education/playlists)
+## [Курс |  Computer Vision](https://www.youtube.com/playlist?list=PLfnFOImnyWRWVcshMWPu60O-DNDGuh6yg)
+### [Triplet Loss  учим нейросеть узнавать объекты с первого раза // курс «Компьютерное зрение»](https://www.youtube.com/watch?v=lYhp7lpopEw&amp;list=PLfnFOImnyWRWVcshMWPu60O-DNDGuh6yg&amp;index=1)

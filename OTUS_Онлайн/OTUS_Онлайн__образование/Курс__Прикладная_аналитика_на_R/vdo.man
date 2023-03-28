@@ -1,0 +1,2 @@
+### [Прикладная аналитика на R // День открытых дверей OTUS](https://www.youtube.com/watch?v=Ks12dWu6gHc&amp;list=PLfnFOImnyWRVV3j_msvETDfHzoP3sZv08&amp;index=1)
+### [Манипуляция данными в R с помощью dplyr // Демо-занятие курса «Прикладная аналитика на R»](https://www.youtube.com/watch?v=0ABBb9eRstg&amp;list=PLfnFOImnyWRVV3j_msvETDfHzoP3sZv08&amp;index=2)

@@ -1,0 +1,3 @@
+# [Asterisk Russia](https://www.youtube.com/@Asterisker/playlists)
+## [AsterConf-2019 - Мастер-классы](https://www.youtube.com/playlist?list=PLrUzrM6usSzoXfRI23drS_NBCAHua9nRP)
+### [VoxDistro: корпоративный дистрибутив для проектов VoxLink | AsterConf-2019](https://www.youtube.com/watch?v=iIO1qoxta4E&amp;list=PLrUzrM6usSzoXfRI23drS_NBCAHua9nRP&amp;index=18)

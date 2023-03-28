@@ -1,0 +1,3 @@
+# [Mikrotik Training](https://www.youtube.com/@MikrotikTraining/playlists)
+## [theory](https://www.youtube.com/playlist?list=PLg90hRDCH9A4Buon8-tXpZLHjpPQR4i1v)
+### [Цепочка Forward в Firewall Mikrotik Filter](https://www.youtube.com/watch?v=I-E-PZN8gyg&amp;list=PLg90hRDCH9A4Buon8-tXpZLHjpPQR4i1v&amp;index=8)

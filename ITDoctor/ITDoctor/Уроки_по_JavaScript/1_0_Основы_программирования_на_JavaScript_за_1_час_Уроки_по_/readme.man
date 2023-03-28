@@ -1,0 +1,3 @@
+# [ITDoctor](https://www.youtube.com/@ITDoctor/playlists?view=1&sort=dd&shelf_id=0)
+## [Уроки по JavaScript](https://www.youtube.com/playlist?list=PLuY6eeDuleINjS4_G7KuYThU_T4uzpAuG)
+### [#0 Основы программирования на JavaScript за 1 час, Уроки по JavaScript](https://www.youtube.com/watch?v=2yT8jMgWvko&amp;list=PLuY6eeDuleINjS4_G7KuYThU_T4uzpAuG&amp;index=1)

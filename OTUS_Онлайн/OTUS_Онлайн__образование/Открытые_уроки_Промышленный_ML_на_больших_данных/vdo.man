@@ -1,0 +1,8 @@
+### [Вывод ML моделей в промышленную среду на примере онлайн рекомендаций](https://www.youtube.com/watch?v=4iiak01lhFg&amp;list=PLfnFOImnyWRXqI3pacN-Qa1TrEQlrnGON&amp;index=1)
+### [Вывод ML моделей в промышленную среду  на примере онлайн-рекомендаций](https://www.youtube.com/watch?v=dU6A6OaRnkU&amp;list=PLfnFOImnyWRXqI3pacN-Qa1TrEQlrnGON&amp;index=2)
+### [Современные большие данные, анализ и оптимизация производительности](https://www.youtube.com/watch?v=qGj3TSwtZFM&amp;list=PLfnFOImnyWRXqI3pacN-Qa1TrEQlrnGON&amp;index=3)
+### [Потоковая обработка больших данных. Сегодня и завтра! // курс «Промышленный ML на больших данных»](https://www.youtube.com/watch?v=QOitGpsx26k&amp;list=PLfnFOImnyWRXqI3pacN-Qa1TrEQlrnGON&amp;index=4)
+### [Воспроизводимость в ML // Демо-занятие «Промышленный ML на больших данных»](https://www.youtube.com/watch?v=eG3RQ-4n-LU&amp;list=PLfnFOImnyWRXqI3pacN-Qa1TrEQlrnGON&amp;index=5)
+### [Как вывести модель в продакшн  с помошью AWS? День 1 // курс «Промышленный ML на больших данных»](https://www.youtube.com/watch?v=7qKog1Cu6Jk&amp;list=PLfnFOImnyWRXqI3pacN-Qa1TrEQlrnGON&amp;index=6)
+### [Как вывести модель в продакшн с помошью AWS? День 2 // Демо-занятие курса «MLOps»](https://www.youtube.com/watch?v=Ejs-0zjBAHA&amp;list=PLfnFOImnyWRXqI3pacN-Qa1TrEQlrnGON&amp;index=7)
+### [Как вывести модель в продакшн с помошью AWS? День 1 // Демо-занятие курса «MLOps»](https://www.youtube.com/watch?v=jiPzSeRTSkg&amp;list=PLfnFOImnyWRXqI3pacN-Qa1TrEQlrnGON&amp;index=8)

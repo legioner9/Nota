@@ -1,0 +1,3 @@
+# [ITDoctor](https://www.youtube.com/@ITDoctor/playlists?view=1&sort=dd&shelf_id=0)
+## [Уроки по JavaScript](https://www.youtube.com/playlist?list=PLuY6eeDuleINoCQtGZsMoVVCSgEH7gKQ5)
+### [#12 Возможности ES6 или ECMAScript 2015, Супер JavaScript, Основы](https://www.youtube.com/watch?v=-hzVbRz0IaI&amp;list=PLuY6eeDuleINoCQtGZsMoVVCSgEH7gKQ5&amp;index=13)

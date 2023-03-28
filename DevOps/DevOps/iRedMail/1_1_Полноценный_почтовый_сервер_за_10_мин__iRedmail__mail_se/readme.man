@@ -1,0 +1,3 @@
+# [DevOps](https://www.youtube.com/@Devops_Youtube_Channel/playlists)
+## [iRedMail](https://www.youtube.com/playlist?list=PLkKSgP0nEL0CbZJ9u36rkqHNd3uahHNbf)
+### [1. Полноценный почтовый сервер за 10 мин!!!  iRedmail  /mail server/ssl/certbot/domain/linux/](https://www.youtube.com/watch?v=BOcT0PEUdQw&amp;list=PLkKSgP0nEL0CbZJ9u36rkqHNd3uahHNbf&amp;index=1)

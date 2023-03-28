@@ -1,0 +1,3 @@
+# [Bogdan Stashchuk](https://www.youtube.com/@Bogdan_Stashchuk/playlists)
+## [MongoDB Queries](https://www.youtube.com/playlist?list=PLWkguCWKqN9OSqOOKvoQaUtQAszYhoBYE)
+### [01 MongoDB Queries - Introduction to the MongoDB Queries](https://www.youtube.com/watch?v=7zTPK-fQo8c&amp;list=PLWkguCWKqN9OSqOOKvoQaUtQAszYhoBYE&amp;index=1)

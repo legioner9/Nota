@@ -1,0 +1,3 @@
+# [ITVDN](https://www.youtube.com/@ITVDN/playlists?view=1)
+## [Практика программирования для начинающих](https://www.youtube.com/playlist?list=PLvItDmb0sZw_Fb0ZmRxXslwI4uQeX-qmE)
+### [Создание игры Тетрис на JavaScript | Часть 2 | Tetris game in JavaScript.](https://www.youtube.com/watch?v=b_4y44HzhKw&amp;list=PLvItDmb0sZw_Fb0ZmRxXslwI4uQeX-qmE&amp;index=65)

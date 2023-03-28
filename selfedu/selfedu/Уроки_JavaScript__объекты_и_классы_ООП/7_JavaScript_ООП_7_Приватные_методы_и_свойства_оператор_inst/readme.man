@@ -1,0 +1,3 @@
+# [selfedu](https://www.youtube.com/@selfedu_rus/playlists?view=1)
+## [Уроки JavaScript - объекты и классы (ООП)](https://www.youtube.com/playlist?list=PLA0M1Bcd0w8xXjtQlT1vf8xgJKtSh8j4w)
+### [JavaScript ООП #7: Приватные методы и свойства, оператор instanceof](https://www.youtube.com/watch?v=FHGyblLVbaE&amp;list=PLA0M1Bcd0w8xXjtQlT1vf8xgJKtSh8j4w&amp;index=7)

@@ -1,0 +1,3 @@
+# [Bogdan Stashchuk](https://www.youtube.com/@Bogdan_Stashchuk/playlists)
+## [MongoDB CRUD Operations](https://www.youtube.com/playlist?list=PLWkguCWKqN9PbQhhsrewFd3TPuo3kLPQ1)
+### [MongoDB CRUD Operations: 20 count, limit, skip and sort](https://www.youtube.com/watch?v=udwFO6f7Vyo&amp;list=PLWkguCWKqN9PbQhhsrewFd3TPuo3kLPQ1&amp;index=21)

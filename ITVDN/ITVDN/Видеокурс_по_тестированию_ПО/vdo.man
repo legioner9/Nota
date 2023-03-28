@@ -1,0 +1,8 @@
+### [Тестирование ПО. Урок 1. Цель тестирования - aim of testing.](https://www.youtube.com/watch?v=zf8eygeXq9M&amp;list=PLvItDmb0sZw8UDC1HZLumLMcLL_WnSakU&amp;index=1)
+### [Тестирование ПО. Урок 2. Типы тестирования ПО (types of testing).](https://www.youtube.com/watch?v=nrIt3Fsh4p4&amp;list=PLvItDmb0sZw8UDC1HZLumLMcLL_WnSakU&amp;index=2)
+### [Тестирование ПО. Урок 3. Bugs.](https://www.youtube.com/watch?v=nxfCnNQqKWE&amp;list=PLvItDmb0sZw8UDC1HZLumLMcLL_WnSakU&amp;index=3)
+### [Тестирование ПО. Урок 4. Цикл тестирования ПО (Software testing lifecycle).](https://www.youtube.com/watch?v=TNLpLmETNpY&amp;list=PLvItDmb0sZw8UDC1HZLumLMcLL_WnSakU&amp;index=4)
+### [Тестирование ПО. Урок 5. Bug report.](https://www.youtube.com/watch?v=Axm-F0pH8cg&amp;list=PLvItDmb0sZw8UDC1HZLumLMcLL_WnSakU&amp;index=5)
+### [Тестирование ПО. Урок 6. Test case.](https://www.youtube.com/watch?v=O3Hm14qJDbs&amp;list=PLvItDmb0sZw8UDC1HZLumLMcLL_WnSakU&amp;index=6)
+### [Тестирование ПО. Урок 7. Практика. Создание тест кейсов.](https://www.youtube.com/watch?v=-Y0dxInLDWc&amp;list=PLvItDmb0sZw8UDC1HZLumLMcLL_WnSakU&amp;index=7)
+### [Тестирование ПО. Урок 8. Практика. Тестирование веб приложений.](https://www.youtube.com/watch?v=MaBqf0keCLw&amp;list=PLvItDmb0sZw8UDC1HZLumLMcLL_WnSakU&amp;index=8)

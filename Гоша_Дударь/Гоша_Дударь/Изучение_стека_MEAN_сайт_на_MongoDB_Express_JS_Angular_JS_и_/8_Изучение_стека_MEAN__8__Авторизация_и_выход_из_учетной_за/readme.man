@@ -1,0 +1,3 @@
+# [Гоша Дударь](https://www.youtube.com/@gosha_dudar/playlists?view=1)
+## [Изучение стека MEAN: сайт на MongoDB, Express JS, Angular JS и Node JS](https://www.youtube.com/playlist?list=PL0lO_mIqDDFU8KEQuZ3xOBSgKR8RMVRbR)
+### [Изучение стека MEAN / #8 - Авторизация и выход из учетной записи](https://www.youtube.com/watch?v=bJ1cJxfOWNI&amp;list=PL0lO_mIqDDFU8KEQuZ3xOBSgKR8RMVRbR&amp;index=8)

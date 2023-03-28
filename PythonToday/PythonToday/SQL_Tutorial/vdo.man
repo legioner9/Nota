@@ -1,0 +1,7 @@
+### [Как установить MySQL server на Linux | Создание БД, пользователя, подключение к MySQL на Python](https://www.youtube.com/watch?v=OT7JGcUKWK0&amp;list=PLqGS6O1-DZLp_UAGnZ-t49iZXKsDEts_k&amp;index=1)
+### [Уроки по SQL | Установка MySQL на Windows 10 | Подключение к MySQL на Python](https://www.youtube.com/watch?v=WMGRfexUz64&amp;list=PLqGS6O1-DZLp_UAGnZ-t49iZXKsDEts_k&amp;index=2)
+### [Установка PostgreSQL и pgAdmin4 на Linux Ubuntu](https://www.youtube.com/watch?v=kWUW3sMK0Mk&amp;list=PLqGS6O1-DZLp_UAGnZ-t49iZXKsDEts_k&amp;index=3)
+### [Уроки по SQL | Создание таблиц, добавление данных | Связь один к одному](https://www.youtube.com/watch?v=xeZtWOWsZPo&amp;list=PLqGS6O1-DZLp_UAGnZ-t49iZXKsDEts_k&amp;index=4)
+### [Уроки по SQL | Создание таблиц, добавление и выборка данных | Связь один ко многим](https://www.youtube.com/watch?v=aNIFgDwKmbg&amp;list=PLqGS6O1-DZLp_UAGnZ-t49iZXKsDEts_k&amp;index=5)
+### [Уроки по SQL | Создание таблиц, добавление и выборка данных | Связь многие ко многим](https://www.youtube.com/watch?v=IjLqJKJxNzg&amp;list=PLqGS6O1-DZLp_UAGnZ-t49iZXKsDEts_k&amp;index=6)
+### [Как подключиться к PostgreSQL на Python | Создание таблицы, добавление, удаление, вывод данных](https://www.youtube.com/watch?v=UZ7vCwbnn2c&amp;list=PLqGS6O1-DZLp_UAGnZ-t49iZXKsDEts_k&amp;index=7)

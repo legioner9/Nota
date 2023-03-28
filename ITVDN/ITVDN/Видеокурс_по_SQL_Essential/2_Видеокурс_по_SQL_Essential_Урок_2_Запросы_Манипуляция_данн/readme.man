@@ -1,0 +1,3 @@
+# [ITVDN](https://www.youtube.com/@ITVDN/playlists?view=1)
+## [Видеокурс по SQL Essential](https://www.youtube.com/playlist?list=PLvItDmb0sZw_NDm3pDMQ4_9bV_zKzBmNv)
+### [Видеокурс по SQL Essential. Урок 2. Запросы. Манипуляция данными.](https://www.youtube.com/watch?v=CGkLhpys2Qw&amp;list=PLvItDmb0sZw_NDm3pDMQ4_9bV_zKzBmNv&amp;index=2)

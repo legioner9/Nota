@@ -1,0 +1,5 @@
+### [Кеширование в Операционной Системе](https://www.youtube.com/watch?v=QvAV-zBEP8M&amp;list=PLY7PmJJFH5nS_gB9R19klSXCYIJiMn77p&amp;index=1)
+### [Классическое разбиение диска](https://www.youtube.com/watch?v=_gpkZcSMTpA&amp;list=PLY7PmJJFH5nS_gB9R19klSXCYIJiMn77p&amp;index=2)
+### [ОЗУ диски в GNU/Linux](https://www.youtube.com/watch?v=NWEiDKfBt0g&amp;list=PLY7PmJJFH5nS_gB9R19klSXCYIJiMn77p&amp;index=3)
+### [Чего не хватает в файловых системах](https://www.youtube.com/watch?v=hbT8ek1ezNM&amp;list=PLY7PmJJFH5nS_gB9R19klSXCYIJiMn77p&amp;index=4)
+### [Чего не хватает в файловых системах](https://www.youtube.com/watch?v=hbT8ek1ezNM&amp;list=PLY7PmJJFH5nS_gB9R19klSXCYIJiMn77p&amp;index=5)

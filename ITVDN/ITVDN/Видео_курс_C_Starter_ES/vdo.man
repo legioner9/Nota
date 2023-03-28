@@ -1,0 +1,8 @@
+### [Conociendo el lenguaje C#.  Lección 1.](https://www.youtube.com/watch?v=j91OPWbPTgM&amp;list=PLvItDmb0sZw_8aCaFefeyqpNDxaYQC5xd&amp;index=1)
+### [Las matemáticas de las máquinas y sistemas de numeración. Lección 2.](https://www.youtube.com/watch?v=gaa0dPiyF7Y&amp;list=PLvItDmb0sZw_8aCaFefeyqpNDxaYQC5xd&amp;index=2)
+### [Variables y tipos de datos. Lección 3.](https://www.youtube.com/watch?v=ygfUGCSPYtI&amp;list=PLvItDmb0sZw_8aCaFefeyqpNDxaYQC5xd&amp;index=3)
+### [Estructuras condicionales. Lección 4.](https://www.youtube.com/watch?v=cBUMUV1JDHA&amp;list=PLvItDmb0sZw_8aCaFefeyqpNDxaYQC5xd&amp;index=4)
+### [Operaciones lógicas. Lección 5.](https://www.youtube.com/watch?v=uds9u261EwE&amp;list=PLvItDmb0sZw_8aCaFefeyqpNDxaYQC5xd&amp;index=5)
+### [Contrucciones cíclicas. Lección 6.](https://www.youtube.com/watch?v=Nt0HUfgqiws&amp;list=PLvItDmb0sZw_8aCaFefeyqpNDxaYQC5xd&amp;index=6)
+### [Métodos. Lección 7.](https://www.youtube.com/watch?v=25UQBjOowMw&amp;list=PLvItDmb0sZw_8aCaFefeyqpNDxaYQC5xd&amp;index=7)
+### [Métodos. Recursividad. Lección 8.](https://www.youtube.com/watch?v=1lJcMG70KaU&amp;list=PLvItDmb0sZw_8aCaFefeyqpNDxaYQC5xd&amp;index=8)

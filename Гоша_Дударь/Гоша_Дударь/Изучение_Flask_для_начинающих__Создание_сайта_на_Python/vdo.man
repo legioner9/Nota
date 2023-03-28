@@ -1,0 +1,8 @@
+### [Изучение Flask / #1 - Создание веб сайтов на Python](https://www.youtube.com/watch?v=jgAVGtkk03Q&amp;list=PL0lO_mIqDDFXiIQYjLbncE9Lb6sx8elKA&amp;index=1)
+### [Изучение Flask / #2 - Разработка страниц и добавление стилей](https://www.youtube.com/watch?v=crUHP8Zo12k&amp;list=PL0lO_mIqDDFXiIQYjLbncE9Lb6sx8elKA&amp;index=2)
+### [Изучение Flask / #3 - Работа с базой данных SQLite](https://www.youtube.com/watch?v=G-si1WbtNeM&amp;list=PL0lO_mIqDDFXiIQYjLbncE9Lb6sx8elKA&amp;index=3)
+### [Изучение Flask / #4 - Отображение данных из БД](https://www.youtube.com/watch?v=gDaTTjmCCwQ&amp;list=PL0lO_mIqDDFXiIQYjLbncE9Lb6sx8elKA&amp;index=4)
+### [Изучение Flask / #5 - Удаление и обновление записей](https://www.youtube.com/watch?v=7O-QNWwxQSE&amp;list=PL0lO_mIqDDFXiIQYjLbncE9Lb6sx8elKA&amp;index=5)
+### [Изучение Flask / #6 - Публикация на сервер](https://www.youtube.com/watch?v=tHOaWq8Nio4&amp;list=PL0lO_mIqDDFXiIQYjLbncE9Lb6sx8elKA&amp;index=6)
+### [Профессия Python разработчик | Презентация онлайн курса](https://www.youtube.com/watch?v=2XSrueycChI&amp;list=PL0lO_mIqDDFXiIQYjLbncE9Lb6sx8elKA&amp;index=7)
+### [Онлайн магазин с оплатой на Python / Изучение Flask за час!](https://www.youtube.com/watch?v=759C2p3CAA4&amp;list=PL0lO_mIqDDFXiIQYjLbncE9Lb6sx8elKA&amp;index=8)

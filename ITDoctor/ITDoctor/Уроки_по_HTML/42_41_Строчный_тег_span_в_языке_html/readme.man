@@ -1,0 +1,3 @@
+# [ITDoctor](https://www.youtube.com/@ITDoctor/playlists?view=1&sort=dd&shelf_id=0)
+## [Уроки по HTML](https://www.youtube.com/playlist?list=PLuY6eeDuleIMjV7Kff8yf8RA-XwjXVGgl)
+### [#41 Строчный тег span в языке html](https://www.youtube.com/watch?v=dSUblex7O0g&amp;list=PLuY6eeDuleIMjV7Kff8yf8RA-XwjXVGgl&amp;index=42)

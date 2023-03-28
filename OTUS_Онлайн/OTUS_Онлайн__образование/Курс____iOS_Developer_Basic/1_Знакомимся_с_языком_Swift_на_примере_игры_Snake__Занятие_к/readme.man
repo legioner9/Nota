@@ -1,0 +1,3 @@
+# [OTUS Онлайн - образование](https://www.youtube.com/@otus_education/playlists)
+## [Курс |   iOS Developer. Basic](https://www.youtube.com/playlist?list=PLfnFOImnyWRVnNaTq9jEH9MtLaQTBVBPt)
+### [Знакомимся с языком Swift на примере игры Snake // Занятие курса «iOS-разработчик. EX-Базовый курс»](https://www.youtube.com/watch?v=KX_u-IgYSm4&amp;list=PLfnFOImnyWRVnNaTq9jEH9MtLaQTBVBPt&amp;index=1)

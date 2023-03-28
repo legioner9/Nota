@@ -1,0 +1,5 @@
+### [Паттерны проектирования: EngineerSpock VS Лёша Корепанов](https://www.youtube.com/watch?v=EuMlqBEhkC8&amp;list=PLBheEHDcG7-lJWDMiqeS21dPqsUtYMpEV&amp;index=1)
+### [Extreme Code: &quot;Чистый код не существует&quot;. Чистый код: &quot;Extreme Code не существует&quot;](https://www.youtube.com/watch?v=GQgSyKs4CL8&amp;list=PLBheEHDcG7-lJWDMiqeS21dPqsUtYMpEV&amp;index=2)
+### [Winderton: слив и разоблачение инфоцыгана. Кто такой EngineerSpock?](https://www.youtube.com/watch?v=wfmUSDnqxL8&amp;list=PLBheEHDcG7-lJWDMiqeS21dPqsUtYMpEV&amp;index=3)
+### [Хауди Хо и Гоша Дударь vs Роман Сакутин. Казнить нельзя помиловать.](https://www.youtube.com/watch?v=kalhCVeOHjw&amp;list=PLBheEHDcG7-lJWDMiqeS21dPqsUtYMpEV&amp;index=4)
+### [SkillBox и GeekBrains: Казнить нельзя Помиловать? Разоблачение!](https://www.youtube.com/watch?v=freX4qZR0EE&amp;list=PLBheEHDcG7-lJWDMiqeS21dPqsUtYMpEV&amp;index=5)

@@ -1,0 +1,3 @@
+# [ITVDN](https://www.youtube.com/@ITVDN/playlists?view=1)
+## [Golang](https://www.youtube.com/playlist?list=PLvItDmb0sZw9zX3dKi6552Vb8OM9D1eZ4)
+### [Массивы, срезы, словари, оператор range. Golang. Урок 3](https://www.youtube.com/watch?v=3ik4xFimGFI&amp;list=PLvItDmb0sZw9zX3dKi6552Vb8OM9D1eZ4&amp;index=3)

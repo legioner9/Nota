@@ -1,0 +1,3 @@
+# [OTUS Онлайн - образование](https://www.youtube.com/@otus_education/playlists)
+## [B2B](https://www.youtube.com/playlist?list=PLfnFOImnyWRWaxWQjGn4WdXXDHhR-H7G-)
+### [Как писать высоконагруженные приложения на С++  //  b2b-webinar  OTUS](https://www.youtube.com/watch?v=sPoXtr-Et0I&amp;list=PLfnFOImnyWRWaxWQjGn4WdXXDHhR-H7G-&amp;index=16)

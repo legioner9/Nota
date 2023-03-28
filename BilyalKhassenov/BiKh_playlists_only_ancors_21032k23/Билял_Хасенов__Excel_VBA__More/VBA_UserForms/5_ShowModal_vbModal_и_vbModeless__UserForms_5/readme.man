@@ -1,0 +1,3 @@
+# [Билял Хасенов – Excel, VBA & More](https://www.youtube.com/@BilyalKhassenov/playlists?view=58)
+## [VBA UserForms](https://www.youtube.com/playlist?list=PLsPotgU_ELTqX7LZg8_Pl9vUz2wy-5J_E)
+### [ShowModal: vbModal и vbModeless - UserForms (5)](https://www.youtube.com/watch?v=wVaPVbWAGfo&amp;list=PLsPotgU_ELTqX7LZg8_Pl9vUz2wy-5J_E&amp;index=5)

@@ -1,0 +1,3 @@
+# [OTUS Онлайн - образование](https://www.youtube.com/@otus_education/playlists)
+## [Курс | SRE практики и инструменты](https://www.youtube.com/playlist?list=PLfnFOImnyWRVcX1vFJ7mBYcmu1aTpEHxF)
+### [Demo Day курса «SRE практики и инструменты»](https://www.youtube.com/watch?v=3BIrhf0jLqk&amp;list=PLfnFOImnyWRVcX1vFJ7mBYcmu1aTpEHxF&amp;index=2)

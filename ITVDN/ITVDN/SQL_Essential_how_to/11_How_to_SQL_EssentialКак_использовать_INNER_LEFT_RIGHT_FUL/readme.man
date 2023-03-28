@@ -1,0 +1,3 @@
+# [ITVDN](https://www.youtube.com/@ITVDN/playlists?view=1)
+## [SQL Essential, how to...](https://www.youtube.com/playlist?list=PLvItDmb0sZw8BsPPGyZwGBDFjUgoxadKJ)
+### [How to SQL Essential.Как использовать INNER, LEFT, RIGHT, FULL, CROSS JOIN в MS SQL Server 2014?](https://www.youtube.com/watch?v=5IOR-18uSdI&amp;list=PLvItDmb0sZw8BsPPGyZwGBDFjUgoxadKJ&amp;index=11)

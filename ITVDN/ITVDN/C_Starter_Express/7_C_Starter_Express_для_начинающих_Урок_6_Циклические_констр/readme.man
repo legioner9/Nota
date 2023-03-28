@@ -1,0 +1,3 @@
+# [ITVDN](https://www.youtube.com/@ITVDN/playlists?view=1)
+## [C# Starter Express](https://www.youtube.com/playlist?list=PLvItDmb0sZw_qN6_RAC86tZSu4uddKy50)
+### [C# Starter Express (для начинающих). Урок 6. Циклические конструкции](https://www.youtube.com/watch?v=tHmvpHmHasI&amp;list=PLvItDmb0sZw_qN6_RAC86tZSu4uddKy50&amp;index=7)

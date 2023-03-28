@@ -1,0 +1,2 @@
+### [🏋️‍♂️ Мобильное приложение с уведомлениями [React Native / Javascript / TypeScript / Tailwind]](https://www.youtube.com/watch?v=hwlfgkZ5H3Q&amp;list=PLXkonRjGXZwwkvPWaW77k1VnXos3Hkt6g&amp;index=1)
+### [🤯 React Native vs Flutter | Одно приложение на разных языках | Что выбрать?](https://www.youtube.com/watch?v=E9nQjBFvIVk&amp;list=PLXkonRjGXZwwkvPWaW77k1VnXos3Hkt6g&amp;index=2)

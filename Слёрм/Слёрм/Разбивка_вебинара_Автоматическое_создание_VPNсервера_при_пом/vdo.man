@@ -1,0 +1,4 @@
+### [Часть 1. Инфраструктура как код](https://www.youtube.com/watch?v=cKO6RdlTzMk&amp;list=PL8D2P0ruohOAGp_GcC5O-aw65YduXTJof&amp;index=1)
+### [Часть 2. Системы управления конфигурациями](https://www.youtube.com/watch?v=1s_DolBfjHg&amp;list=PL8D2P0ruohOAGp_GcC5O-aw65YduXTJof&amp;index=2)
+### [Часть 3. Знакомство с Ansible](https://www.youtube.com/watch?v=SXUDHglOnfI&amp;list=PL8D2P0ruohOAGp_GcC5O-aw65YduXTJof&amp;index=3)
+### [Часть 4.  Live](https://www.youtube.com/watch?v=R3DtiS6QwPE&amp;list=PL8D2P0ruohOAGp_GcC5O-aw65YduXTJof&amp;index=4)

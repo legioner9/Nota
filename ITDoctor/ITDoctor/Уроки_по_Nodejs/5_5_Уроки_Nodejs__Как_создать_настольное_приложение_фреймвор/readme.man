@@ -1,0 +1,3 @@
+# [ITDoctor](https://www.youtube.com/@ITDoctor/playlists?view=1&sort=dd&shelf_id=0)
+## [Уроки по Node.js](https://www.youtube.com/playlist?list=PLuY6eeDuleIOmCbpBUPDIdkNqn9XSnhsG)
+### [#5 Уроки Node.js - Как создать настольное приложение, фреймворк Electron.js](https://www.youtube.com/watch?v=zmm-gTiO9DY&amp;list=PLuY6eeDuleIOmCbpBUPDIdkNqn9XSnhsG&amp;index=5)

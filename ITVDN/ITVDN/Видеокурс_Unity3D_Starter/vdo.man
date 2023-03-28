@@ -1,0 +1,7 @@
+### [Unity3D Starter. Урок 1. Введение в Unity3D.](https://www.youtube.com/watch?v=m0sKo81DZME&amp;list=PLvItDmb0sZw_oHG-q2tWJXgQ2AEqZLDrC&amp;index=1)
+### [Unity3D Starter. Урок 2. Текстуры, материалы и элементы сцены.](https://www.youtube.com/watch?v=VeoezC9JeWE&amp;list=PLvItDmb0sZw_oHG-q2tWJXgQ2AEqZLDrC&amp;index=2)
+### [Unity3D Starter. Урок 3. Скрипты и движение объектов.](https://www.youtube.com/watch?v=_GlQ16eFknU&amp;list=PLvItDmb0sZw_oHG-q2tWJXgQ2AEqZLDrC&amp;index=3)
+### [Unity3D Starter. Урок 4. Управление игроками и триггеры.](https://www.youtube.com/watch?v=0SVMc2e4UhY&amp;list=PLvItDmb0sZw_oHG-q2tWJXgQ2AEqZLDrC&amp;index=4)
+### [Unity3D Starter. Урок 5. UI (пользовательский интерфейс).](https://www.youtube.com/watch?v=zNQ8N3svGN4&amp;list=PLvItDmb0sZw_oHG-q2tWJXgQ2AEqZLDrC&amp;index=5)
+### [Unity3D Starter. Урок 6. Анимации.](https://www.youtube.com/watch?v=yrqBXFG2Yns&amp;list=PLvItDmb0sZw_oHG-q2tWJXgQ2AEqZLDrC&amp;index=6)
+### [Unity3D Starter. Урок 7. Создание небольшой игры.](https://www.youtube.com/watch?v=RVa6O3E5nPU&amp;list=PLvItDmb0sZw_oHG-q2tWJXgQ2AEqZLDrC&amp;index=7)

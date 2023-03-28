@@ -1,0 +1,3 @@
+# [selfedu](https://www.youtube.com/@selfedu_rus/playlists?view=1)
+## [Алгоритмы и структуры данных на Python](https://www.youtube.com/playlist?list=PLA0M1Bcd0w8yF0PO0eJ9v8VlsYEowmsnJ)
+### [#2. Алгоритм Бойера-Мура-Хорспула | Алгоритмы на Python](https://www.youtube.com/watch?v=kvWFAZwZ_8U&amp;list=PLA0M1Bcd0w8yF0PO0eJ9v8VlsYEowmsnJ&amp;index=2)

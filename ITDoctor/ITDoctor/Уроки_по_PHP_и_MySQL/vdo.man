@@ -1,0 +1,7 @@
+### [MAMP локальный сервер, установка и настройка MAMP, первая программа на PHP](https://www.youtube.com/watch?v=66zvdz7wJ24&amp;list=PLuY6eeDuleIPUDtVRCM4aEWQwdONcTXW5&amp;index=1)
+### [Open Server локальный сервер, установка и настройка Open Server, работа с PHP и MySQL](https://www.youtube.com/watch?v=cVXWqyE6HoA&amp;list=PLuY6eeDuleIPUDtVRCM4aEWQwdONcTXW5&amp;index=2)
+### [Видео курс по языку PHP, Язык программирования PHP в одном уроке](https://www.youtube.com/watch?v=M-peGbXCvNA&amp;list=PLuY6eeDuleIPUDtVRCM4aEWQwdONcTXW5&amp;index=3)
+### [MySQL в phpMyAdmin полный курс по базам данных](https://www.youtube.com/watch?v=oevyoqUK-YY&amp;list=PLuY6eeDuleIPUDtVRCM4aEWQwdONcTXW5&amp;index=4)
+### [Самый подробный урок про Блок-схемы, Понимание, Чтение и Создание блок-схем](https://www.youtube.com/watch?v=uY0I4c3nwfA&amp;list=PLuY6eeDuleIPUDtVRCM4aEWQwdONcTXW5&amp;index=5)
+### [Быстрая сортировка массива на языке PHP - Алгоритмы и Блок схемы](https://www.youtube.com/watch?v=TZhqrs-Xpx4&amp;list=PLuY6eeDuleIPUDtVRCM4aEWQwdONcTXW5&amp;index=6)
+### [Работа с базой данных на PHP и MySQL](https://www.youtube.com/watch?v=1oiUNKlylBM&amp;list=PLuY6eeDuleIPUDtVRCM4aEWQwdONcTXW5&amp;index=7)

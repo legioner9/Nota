@@ -1,0 +1,3 @@
+# [NetSkills. Видеоуроки. Cisco, zabbix, linux.](https://www.youtube.com/@netskills/playlists)
+## [GNS3](https://www.youtube.com/playlist?list=PLcDkQ2Au8aVMo5NPLrLxTbrJybWvKxMw0)
+### [Switch in GNS3 and Cisco Packet Tracer](https://www.youtube.com/watch?v=N4Y-u0Q7eAw&amp;list=PLcDkQ2Au8aVMo5NPLrLxTbrJybWvKxMw0&amp;index=6)

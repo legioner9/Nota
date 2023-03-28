@@ -1,0 +1,8 @@
+### [End-to-end решение для аналитики на примере источника MaestroQA // курс «Data Warehouse Analyst»](https://www.youtube.com/watch?v=ImchI3LeHeg&amp;list=PLfnFOImnyWRVy4_As4CZVQpVj1vJxT1y4&amp;index=1)
+### [SQL для аналитики — прикладные задачи и подходы к их решению // курс «Data Warehouse Analyst»](https://www.youtube.com/watch?v=UIJjXBVWONo&amp;list=PLfnFOImnyWRVy4_As4CZVQpVj1vJxT1y4&amp;index=2)
+### [Вопросы оптимизации производительности // Демо-занятие курса «Data Warehouse Analyst»](https://www.youtube.com/watch?v=OW86m6OQevA&amp;list=PLfnFOImnyWRVy4_As4CZVQpVj1vJxT1y4&amp;index=3)
+### [Полуструктурированные данные в Аналитических Хранилищах: Nested JSON + Arrays](https://www.youtube.com/watch?v=lBwmLnMwfl0&amp;list=PLfnFOImnyWRVy4_As4CZVQpVj1vJxT1y4&amp;index=4)
+### [Demo Day курса «Data Warehouse Analyst»](https://www.youtube.com/watch?v=N9DYDmQ5qVY&amp;list=PLfnFOImnyWRVy4_As4CZVQpVj1vJxT1y4&amp;index=5)
+### [Business Intelligence 101: Развертывание и конфигурирование решения – DWH Analyst @ OTUS](https://www.youtube.com/watch?v=haZTIjxfcnM&amp;list=PLfnFOImnyWRVy4_As4CZVQpVj1vJxT1y4&amp;index=6)
+### [Configuring Slim CI: легковесные интеграционные тесты для Хранилища Данных](https://www.youtube.com/watch?v=yfMWiyKpUkQ&amp;list=PLfnFOImnyWRVy4_As4CZVQpVj1vJxT1y4&amp;index=7)
+### [Практическое Качество Данных – DWH Analyst @ OTUS](https://www.youtube.com/watch?v=j5V36kztvEI&amp;list=PLfnFOImnyWRVy4_As4CZVQpVj1vJxT1y4&amp;index=8)

@@ -1,0 +1,7 @@
+### [Ты всего лишь грёбанный джун](https://www.youtube.com/watch?v=iJ4UGNGzJzY&amp;list=PLcvhF2Wqh7DNyQsYjupz6G1lWP6RQNfjF&amp;index=1)
+### [01 - React + TypeScript \ Middle+ \ CRM \ EditPopup refactoring](https://www.youtube.com/watch?v=3cmgImej2vg&amp;list=PLcvhF2Wqh7DNyQsYjupz6G1lWP6RQNfjF&amp;index=2)
+### [02 - React + TypeScript \ Middle+ \ CRM \ Redirect after editing](https://www.youtube.com/watch?v=F7-eEFQSUMY&amp;list=PLcvhF2Wqh7DNyQsYjupz6G1lWP6RQNfjF&amp;index=3)
+### [03 - React + TypeScript \ Middle+ \ CRM \ дублирование в thunk](https://www.youtube.com/watch?v=vhvpNqbC4ZM&amp;list=PLcvhF2Wqh7DNyQsYjupz6G1lWP6RQNfjF&amp;index=4)
+### [04 - React + TypeScript \ Middle+ \ CRM \ Плавно от классов к hook](https://www.youtube.com/watch?v=9cSrgu1DqKU&amp;list=PLcvhF2Wqh7DNyQsYjupz6G1lWP6RQNfjF&amp;index=5)
+### [05 - React + TypeScript \ Middle+ \ CRM \ refactoring](https://www.youtube.com/watch?v=KW5245hXo3g&amp;list=PLcvhF2Wqh7DNyQsYjupz6G1lWP6RQNfjF&amp;index=6)
+### [12 - React + TypeScript \ Middle+ \ CRM \ Оптимизация с помощью throttle и react memo](https://www.youtube.com/watch?v=REXU_T9G63E&amp;list=PLcvhF2Wqh7DNyQsYjupz6G1lWP6RQNfjF&amp;index=7)

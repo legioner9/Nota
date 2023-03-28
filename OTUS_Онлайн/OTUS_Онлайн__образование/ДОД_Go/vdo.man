@@ -1,0 +1,5 @@
+### [День Открытых Дверей курса «Разработчик Golang»](https://www.youtube.com/watch?v=9Pgadu6US6U&amp;list=PLfnFOImnyWRXFlH8mv_aEPROJpBDSPq2G&amp;index=1)
+### [Разработчик Golang // День открытых дверей OTUS](https://www.youtube.com/watch?v=H8iXDOwFWMI&amp;list=PLfnFOImnyWRXFlH8mv_aEPROJpBDSPq2G&amp;index=2)
+### [Итеративная разработка http-сервиса, часть 2 // Бесплатный урок OTUS](https://www.youtube.com/watch?v=QSErxX-IAJc&amp;list=PLfnFOImnyWRXFlH8mv_aEPROJpBDSPq2G&amp;index=3)
+### [Итеративная разработка http-сервиса, часть 1 // Демо-занятие курса «Golang Developer. Professional»](https://www.youtube.com/watch?v=LXXYnwrHFRw&amp;list=PLfnFOImnyWRXFlH8mv_aEPROJpBDSPq2G&amp;index=4)
+### [Разработчик Golang // День открытых дверей OTUS](https://www.youtube.com/watch?v=54v7xkp9uSk&amp;list=PLfnFOImnyWRXFlH8mv_aEPROJpBDSPq2G&amp;index=5)

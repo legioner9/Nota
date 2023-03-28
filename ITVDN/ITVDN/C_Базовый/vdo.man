@@ -1,0 +1,8 @@
+### [Что такое пользовательские типы данных? C++ Базовый. Урок 1](https://www.youtube.com/watch?v=n6KTPdDuupI&amp;list=PLvItDmb0sZw8Y2mvBjw0BsBcqTOO_dObi&amp;index=1)
+### [Классы и объекты в С++. C++ Базовый. Урок 2](https://www.youtube.com/watch?v=OqZm7r4YpTA&amp;list=PLvItDmb0sZw8Y2mvBjw0BsBcqTOO_dObi&amp;index=2)
+### [Наследование, полиморфизм. C++ Базовый. Урок 3](https://www.youtube.com/watch?v=tu7UxunsgBI&amp;list=PLvItDmb0sZw8Y2mvBjw0BsBcqTOO_dObi&amp;index=3)
+### [Множественное наследование. C++ Базовый. Урок 4](https://www.youtube.com/watch?v=NLTjIQ6v2xM&amp;list=PLvItDmb0sZw8Y2mvBjw0BsBcqTOO_dObi&amp;index=4)
+### [Дополнительные возможности классов. C++ Базовый. Урок 5](https://www.youtube.com/watch?v=354d8SIiZjU&amp;list=PLvItDmb0sZw8Y2mvBjw0BsBcqTOO_dObi&amp;index=5)
+### [Шаблоны. C++ Базовый. Урок 6](https://www.youtube.com/watch?v=aIKweA0l-uk&amp;list=PLvItDmb0sZw8Y2mvBjw0BsBcqTOO_dObi&amp;index=6)
+### [Умные указатели. C++ Базовый. Урок 7](https://www.youtube.com/watch?v=I3T4kMBajeI&amp;list=PLvItDmb0sZw8Y2mvBjw0BsBcqTOO_dObi&amp;index=7)
+### [Исключения. C++ Базовый. Урок 8](https://www.youtube.com/watch?v=FUM42jRBwv0&amp;list=PLvItDmb0sZw8Y2mvBjw0BsBcqTOO_dObi&amp;index=8)

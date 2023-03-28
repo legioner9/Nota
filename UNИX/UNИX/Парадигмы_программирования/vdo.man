@@ -1,0 +1,8 @@
+### [00. Что такое «Парадигма программирования» (2022)](https://www.youtube.com/watch?v=wlC_dunyk_k&amp;list=PL6kSdcHYB3x6MmGMxqzqQPCrHmB8pyzhH&amp;index=1)
+### [01. Императивное программирование (2022)](https://www.youtube.com/watch?v=-s7Js_scnRE&amp;list=PL6kSdcHYB3x6MmGMxqzqQPCrHmB8pyzhH&amp;index=2)
+### [03. Парадигмы программирования - макроязыки (2022)](https://www.youtube.com/watch?v=LfY3A2-aT6E&amp;list=PL6kSdcHYB3x6MmGMxqzqQPCrHmB8pyzhH&amp;index=3)
+### [00. Что такое «Парадигма программирования» (2022, эфир)](https://www.youtube.com/watch?v=SgmmVgaSvTs&amp;list=PL6kSdcHYB3x6MmGMxqzqQPCrHmB8pyzhH&amp;index=4)
+### [01. Императивное программирование (2022, эфир)](https://www.youtube.com/watch?v=eSm6lGwyicE&amp;list=PL6kSdcHYB3x6MmGMxqzqQPCrHmB8pyzhH&amp;index=5)
+### [00. Парадигмы программирования - вводная лекция (2020)](https://www.youtube.com/watch?v=s5DmdwRnxxg&amp;list=PL6kSdcHYB3x6MmGMxqzqQPCrHmB8pyzhH&amp;index=6)
+### [01. Парадигмы программирования - Императивное программирование (2020)](https://www.youtube.com/watch?v=RYtHd1Ay2QY&amp;list=PL6kSdcHYB3x6MmGMxqzqQPCrHmB8pyzhH&amp;index=7)
+### [12. Скриптовые языки и обработка текстов](https://www.youtube.com/watch?v=K2ZeQbFjCJA&amp;list=PL6kSdcHYB3x6MmGMxqzqQPCrHmB8pyzhH&amp;index=8)

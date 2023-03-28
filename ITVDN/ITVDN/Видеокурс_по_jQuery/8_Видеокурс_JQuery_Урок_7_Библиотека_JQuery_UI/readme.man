@@ -1,0 +1,3 @@
+# [ITVDN](https://www.youtube.com/@ITVDN/playlists?view=1)
+## [Видеокурс по jQuery](https://www.youtube.com/playlist?list=PLvItDmb0sZw964PmBjUcB75x17RK7M5ZA)
+### [Видеокурс JQuery. Урок 7. Библиотека JQuery UI](https://www.youtube.com/watch?v=baQFrGcorGw&amp;list=PLvItDmb0sZw964PmBjUcB75x17RK7M5ZA&amp;index=8)

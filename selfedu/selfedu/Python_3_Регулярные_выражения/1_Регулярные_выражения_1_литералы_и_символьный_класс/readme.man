@@ -1,0 +1,3 @@
+# [selfedu](https://www.youtube.com/@selfedu_rus/playlists?view=1)
+## [Python 3. Регулярные выражения](https://www.youtube.com/playlist?list=PLA0M1Bcd0w8w8gtWzf9YkfAxFCgDb09pA)
+### [Регулярные выражения #1: литералы и символьный класс](https://www.youtube.com/watch?v=1SWGdyVwN3E&amp;list=PLA0M1Bcd0w8w8gtWzf9YkfAxFCgDb09pA&amp;index=1)

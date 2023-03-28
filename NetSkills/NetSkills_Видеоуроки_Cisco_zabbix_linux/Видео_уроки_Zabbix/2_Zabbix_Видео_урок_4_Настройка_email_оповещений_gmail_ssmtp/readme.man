@@ -1,0 +1,3 @@
+# [NetSkills. Видеоуроки. Cisco, zabbix, linux.](https://www.youtube.com/@netskills/playlists)
+## [Видео уроки Zabbix](https://www.youtube.com/playlist?list=PLcDkQ2Au8aVMbBQNjiQlhlL003xoJxM_L)
+### [Zabbix. Видео урок №4. Настройка email оповещений (gmail ssmtp)](https://www.youtube.com/watch?v=nzPzgFgOtMI&amp;list=PLcDkQ2Au8aVMbBQNjiQlhlL003xoJxM_L&amp;index=2)

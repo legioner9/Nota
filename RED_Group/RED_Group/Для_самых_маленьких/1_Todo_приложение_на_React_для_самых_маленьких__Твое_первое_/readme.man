@@ -1,0 +1,3 @@
+# [RED Group](https://www.youtube.com/@REDGroup/playlists)
+## [Для самых маленьких](https://www.youtube.com/playlist?list=PLXkonRjGXZww-nbaPAoqONuckgsY1Ag4B)
+### [Todo приложение на React для самых маленьких // Твое первое приложение [React, JavaScript, Tailwind]](https://www.youtube.com/watch?v=sAa71agGwcg&amp;list=PLXkonRjGXZww-nbaPAoqONuckgsY1Ag4B&amp;index=1)

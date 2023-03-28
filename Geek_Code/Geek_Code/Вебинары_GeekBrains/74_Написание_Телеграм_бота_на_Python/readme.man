@@ -1,0 +1,3 @@
+# [Geek Code](https://www.youtube.com/@GeekCode/playlists)
+## [Вебинары GeekBrains](https://www.youtube.com/playlist?list=PLhgRAQ8BwWFbg6YUNOfzRBrNRNtJ9-Cam)
+### [Написание Телеграм бота на Python](https://www.youtube.com/watch?v=S6HVz4p9W3I&amp;list=PLhgRAQ8BwWFbg6YUNOfzRBrNRNtJ9-Cam&amp;index=74)

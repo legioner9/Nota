@@ -1,0 +1,3 @@
+# [OTUS Онлайн - образование](https://www.youtube.com/@otus_education/playlists)
+## [Открытые уроки  Golang Developer. Professional](https://www.youtube.com/playlist?list=PLfnFOImnyWRUADFreftcl7WZpPLqlK-RG)
+### [Примитивы синхронизации. Часть 1 // Демо-занятие курса «Golang Developer  Professional»](https://www.youtube.com/watch?v=UZhEU9tVkPo&amp;list=PLfnFOImnyWRUADFreftcl7WZpPLqlK-RG&amp;index=14)

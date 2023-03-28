@@ -1,0 +1,3 @@
+# [UNИX](https://www.youtube.com/@unx7784/playlists)
+## [[UNИX] Программирование на Python для начинающих (2021)](https://www.youtube.com/playlist?list=PL6kSdcHYB3x6FyT5dJfxJZKsaZxys0_Rn)
+### [04. Логические выражения и цикл](https://www.youtube.com/watch?v=TMy7TNb38a8&amp;list=PL6kSdcHYB3x6FyT5dJfxJZKsaZxys0_Rn&amp;index=4)

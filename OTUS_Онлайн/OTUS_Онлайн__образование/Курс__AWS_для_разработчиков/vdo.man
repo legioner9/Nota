@@ -1,0 +1,3 @@
+### [AWS для разработчиков // День открытых дверей OTUS](https://www.youtube.com/watch?v=KE1-JBwsBUo&amp;list=PLfnFOImnyWRWgDZLsreqiWBxwkBM8w5Bt&amp;index=1)
+### [AWS EC2 сервис // Демо-занятие курса «TeamLead»‎](https://www.youtube.com/watch?v=SdFad1nIUOU&amp;list=PLfnFOImnyWRWgDZLsreqiWBxwkBM8w5Bt&amp;index=2)
+### [Балансировка нагрузки // Демо-занятие курса «AWS для разработчиков»‎](https://www.youtube.com/watch?v=L3e5bylykOU&amp;list=PLfnFOImnyWRWgDZLsreqiWBxwkBM8w5Bt&amp;index=3)

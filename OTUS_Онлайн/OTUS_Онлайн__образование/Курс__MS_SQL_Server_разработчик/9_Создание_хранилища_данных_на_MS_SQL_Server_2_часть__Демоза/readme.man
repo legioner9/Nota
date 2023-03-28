@@ -1,0 +1,3 @@
+# [OTUS Онлайн - образование](https://www.youtube.com/@otus_education/playlists)
+## [Курс | MS SQL Server разработчик](https://www.youtube.com/playlist?list=PLfnFOImnyWRVYUwkpb5SKAX784oj_x4j_)
+### [Создание хранилища данных на MS SQL Server. 2 часть. // Демо-занятие курса «MS SQL Server Developer»](https://www.youtube.com/watch?v=vFQwqf1C8OA&amp;list=PLfnFOImnyWRVYUwkpb5SKAX784oj_x4j_&amp;index=9)

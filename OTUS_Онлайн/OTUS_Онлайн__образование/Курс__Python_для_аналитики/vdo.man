@@ -1,0 +1,6 @@
+### [Знакомство с Jupyter Notebook, основы Python // Демо-занятие курса «Python для аналитики»](https://www.youtube.com/watch?v=iuVsKgeFIRs&amp;list=PLfnFOImnyWRWfWJgM9YQs3PfUbIlsBy2b&amp;index=1)
+### [Визуализация данных с помощью библиотек Python // Демо-занятие курса «Python для аналитики»](https://www.youtube.com/watch?v=5jbip8rcEGk&amp;list=PLfnFOImnyWRWfWJgM9YQs3PfUbIlsBy2b&amp;index=2)
+### [Визуализация данных с помощью Python // Демо-занятие курса «Python для аналитики»](https://www.youtube.com/watch?v=ef3u4xt1Ias&amp;list=PLfnFOImnyWRWfWJgM9YQs3PfUbIlsBy2b&amp;index=3)
+### [Demo Day курса «Python для аналитики»](https://www.youtube.com/watch?v=TfRSRYePCdU&amp;list=PLfnFOImnyWRWfWJgM9YQs3PfUbIlsBy2b&amp;index=4)
+### [Построение графиков при помощи популярных Python библиотек // курс «Python для аналитики»](https://www.youtube.com/watch?v=PRrrVj8uKFU&amp;list=PLfnFOImnyWRWfWJgM9YQs3PfUbIlsBy2b&amp;index=5)
+### [SQL для работы с данными // Демо-занятие курса «Python для аналитики»](https://www.youtube.com/watch?v=JH3ILJR4wWM&amp;list=PLfnFOImnyWRWfWJgM9YQs3PfUbIlsBy2b&amp;index=6)

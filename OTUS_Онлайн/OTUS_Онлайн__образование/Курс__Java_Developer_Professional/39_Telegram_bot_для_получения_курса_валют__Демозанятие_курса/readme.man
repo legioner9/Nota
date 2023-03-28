@@ -1,0 +1,3 @@
+# [OTUS Онлайн - образование](https://www.youtube.com/@otus_education/playlists)
+## [Курс | Java Developer Professional](https://www.youtube.com/playlist?list=PLfnFOImnyWRUkY6JaagQsWDrtRBK7gPRd)
+### [Telegram bot для получения курса валют // Демо-занятие курса «Java Developer. Professional»](https://www.youtube.com/watch?v=nVaMFY2AWWs&amp;list=PLfnFOImnyWRUkY6JaagQsWDrtRBK7gPRd&amp;index=39)

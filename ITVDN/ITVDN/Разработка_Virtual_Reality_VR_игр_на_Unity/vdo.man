@@ -1,0 +1,6 @@
+### [Разработка игр с виртуальной реальностью (VR) на Unity. Урок 1. Начало работы с VR](https://www.youtube.com/watch?v=TIWNQNj0C6Q&amp;list=PLvItDmb0sZw8STPBzJr3jw6MCjsbRMQxO&amp;index=1)
+### [Разработка игр с виртуальной реальностью (VR) на Unity. Урок 2. Подготовка проекта и создание оружия](https://www.youtube.com/watch?v=k5Xk9zSbc1I&amp;list=PLvItDmb0sZw8STPBzJr3jw6MCjsbRMQxO&amp;index=2)
+### [Разработка игр с виртуальной реальностью (VR) на Unity. Урок 3.Создание игрока](https://www.youtube.com/watch?v=u1dEJbcDIms&amp;list=PLvItDmb0sZw8STPBzJr3jw6MCjsbRMQxO&amp;index=3)
+### [Разработка игр с виртуальной реальностью (VR) на Unity. Урок 4. Создание врагов](https://www.youtube.com/watch?v=0yRP_uBQrBM&amp;list=PLvItDmb0sZw8STPBzJr3jw6MCjsbRMQxO&amp;index=4)
+### [Разработка игр с виртуальной реальностью (VR) на Unity. Урок 5. Игровой процесс](https://www.youtube.com/watch?v=Cmh4yDAWyQc&amp;list=PLvItDmb0sZw8STPBzJr3jw6MCjsbRMQxO&amp;index=5)
+### [Разработка игр с виртуальной реальностью (VR) на Unity. Урок 6 Создаем уровень](https://www.youtube.com/watch?v=7H_eK8pxoOE&amp;list=PLvItDmb0sZw8STPBzJr3jw6MCjsbRMQxO&amp;index=6)

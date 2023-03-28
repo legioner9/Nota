@@ -1,0 +1,2 @@
+### [Знакомство с Micronaut // Демо-занятие курса «Groovy Developer»](https://www.youtube.com/watch?v=aAdh6D_LEZo&amp;list=PLfnFOImnyWRVZ0lewEHVSz8D9q3McPqZF&amp;index=1)
+### [Знакомство с Groovy - как сделать разработку быстрее и удобнее // курс «Groovy Developer»](https://www.youtube.com/watch?v=dy48j0FYAkE&amp;list=PLfnFOImnyWRVZ0lewEHVSz8D9q3McPqZF&amp;index=2)

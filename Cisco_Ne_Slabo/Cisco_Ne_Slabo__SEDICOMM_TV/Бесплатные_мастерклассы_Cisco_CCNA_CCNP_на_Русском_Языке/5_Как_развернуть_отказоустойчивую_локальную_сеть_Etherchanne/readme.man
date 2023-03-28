@@ -1,0 +1,3 @@
+# [Cisco Ne Slabo / SEDICOMM TV](https://www.youtube.com/@cisconeslabo/playlists)
+## [Бесплатные мастер-классы Cisco (CCNA, CCNP) на Русском Языке](https://www.youtube.com/playlist?list=PLMiVLClzZDbR_Y0cxgjHV6zZA1T26zyX3)
+### [Как развернуть отказоустойчивую локальную сеть: Etherchannel и FHRP](https://www.youtube.com/watch?v=9wr8K34R_3s&amp;list=PLMiVLClzZDbR_Y0cxgjHV6zZA1T26zyX3&amp;index=5)

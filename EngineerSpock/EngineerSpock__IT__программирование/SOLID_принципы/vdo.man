@@ -1,0 +1,5 @@
+### [SOLID принципы / # 1 Введение в SOLID принципы: запахи кода, философия принципов](https://www.youtube.com/watch?v=1KhhJ5f_BbU&amp;list=PLBheEHDcG7-nJsPVaejwcth7r9WhWWPdI&amp;index=1)
+### [SOLID принципы / # 2 SRP - Single Responsibility Principle / Принцип единственной ответственности](https://www.youtube.com/watch?v=lWA4GuksfsA&amp;list=PLBheEHDcG7-nJsPVaejwcth7r9WhWWPdI&amp;index=2)
+### [SOLID принципы / # 3 OCP - Open Closed Principle / Принцип открытости закрытости](https://www.youtube.com/watch?v=9YJUkl58rCM&amp;list=PLBheEHDcG7-nJsPVaejwcth7r9WhWWPdI&amp;index=3)
+### [SOLID принципы / # 4 LSP - Liskov Substituion Principle / Часть 1 / Принцип подстановки Лисков](https://www.youtube.com/watch?v=2LzIEvwyY6E&amp;list=PLBheEHDcG7-nJsPVaejwcth7r9WhWWPdI&amp;index=4)
+### [SOLID принципы / # 5 LSP - Liskov Substituion Principle / Часть 2 / Принцип подстановки Лисков](https://www.youtube.com/watch?v=eGzmlCzRlC0&amp;list=PLBheEHDcG7-nJsPVaejwcth7r9WhWWPdI&amp;index=5)

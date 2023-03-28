@@ -1,0 +1,3 @@
+# [ITVDN](https://www.youtube.com/@ITVDN/playlists?view=1)
+## [ASP.NET Core Advanced](https://www.youtube.com/playlist?list=PLvItDmb0sZw_ym-uAAHNC9LusLkEdn3ky)
+### [ASP.NET Core Advanced. Введение. Урок 1](https://www.youtube.com/watch?v=M-PKRsL8efY&amp;list=PLvItDmb0sZw_ym-uAAHNC9LusLkEdn3ky&amp;index=1)

@@ -1,0 +1,3 @@
+# [OTUS Онлайн - образование](https://www.youtube.com/@otus_education/playlists)
+## [Курс |  Python Developer. Professional](https://www.youtube.com/playlist?list=PLfnFOImnyWRUrNJYC3gvN13Np2Eo8ZYSc)
+### [Быстрая разработка JSON API приложений на Flask. День 2 // курс «Python Developer. Professional»](https://www.youtube.com/watch?v=fPkjRseOpjA&amp;list=PLfnFOImnyWRUrNJYC3gvN13Np2Eo8ZYSc&amp;index=33)

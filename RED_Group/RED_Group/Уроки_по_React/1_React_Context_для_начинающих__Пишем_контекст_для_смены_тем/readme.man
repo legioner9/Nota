@@ -1,0 +1,3 @@
+# [RED Group](https://www.youtube.com/@REDGroup/playlists)
+## [Уроки по React](https://www.youtube.com/playlist?list=PLXkonRjGXZwzL7roeExkrkaMZ2MWPAaEN)
+### [React Context для начинающих // Пишем контекст для смены темы приложения - useContext](https://www.youtube.com/watch?v=JcHvKj24NBc&amp;list=PLXkonRjGXZwzL7roeExkrkaMZ2MWPAaEN&amp;index=1)

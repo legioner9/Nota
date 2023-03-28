@@ -1,0 +1,6 @@
+### [Делаем игру Тетрис на Python / Урок #1 / tkinter](https://www.youtube.com/watch?v=BqlNV148lNY&amp;list=PLxiU3nwEQ4PGI5EFN6zx4UoqC07aArtuB&amp;index=1)
+### [Делаем игру Тетрис на Python / Урок #2 / tkinter](https://www.youtube.com/watch?v=fI2jhAWtodY&amp;list=PLxiU3nwEQ4PGI5EFN6zx4UoqC07aArtuB&amp;index=2)
+### [Делаем игру Тетрис на Python / Урок #3 / tkinter](https://www.youtube.com/watch?v=Hhh-2tuo1FQ&amp;list=PLxiU3nwEQ4PGI5EFN6zx4UoqC07aArtuB&amp;index=3)
+### [Делаем игру Тетрис на Python / Урок #4 / tkinter](https://www.youtube.com/watch?v=A3lER-SXlfA&amp;list=PLxiU3nwEQ4PGI5EFN6zx4UoqC07aArtuB&amp;index=4)
+### [Делаем игру Тетрис на Python / Урок #5 / tkinter](https://www.youtube.com/watch?v=lkt_RVlATVg&amp;list=PLxiU3nwEQ4PGI5EFN6zx4UoqC07aArtuB&amp;index=5)
+### [Делаем игру Тетрис на Python / Урок #6 / tkinter - ФИНИШ](https://www.youtube.com/watch?v=8yka_ZZysp4&amp;list=PLxiU3nwEQ4PGI5EFN6zx4UoqC07aArtuB&amp;index=6)

@@ -1,0 +1,3 @@
+# [Django School](https://www.youtube.com/@DjangoSchool/playlists?view=1)
+## [FastAPI](https://www.youtube.com/playlist?list=PLF-NY6ldwAWqoWmTvGzfT0ygGn72wwNbR)
+### [Webrtc Fastapi aiortc | Трансляция видео на сервер и в браузер](https://www.youtube.com/watch?v=jU7Y9qWHzFQ&amp;list=PLF-NY6ldwAWqoWmTvGzfT0ygGn72wwNbR&amp;index=2)

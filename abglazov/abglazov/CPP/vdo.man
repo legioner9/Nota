@@ -1,0 +1,8 @@
+### [cb001 Консольный калькулятор на С Builder](https://www.youtube.com/watch?v=uiwDjPzx8vs&amp;list=PLku9se_HAVOouwFtWY3qt-rLTj3FWt9-T&amp;index=1)
+### [cb002 Тривиальный оконный калькулятор на С Builder](https://www.youtube.com/watch?v=0Te3jpXpiio&amp;list=PLku9se_HAVOouwFtWY3qt-rLTj3FWt9-T&amp;index=2)
+### [cb003 Куранты на С Builder](https://www.youtube.com/watch?v=3N2oaeprcwI&amp;list=PLku9se_HAVOouwFtWY3qt-rLTj3FWt9-T&amp;index=3)
+### [cp004  Указатели: введение](https://www.youtube.com/watch?v=ONoveFa3mYo&amp;list=PLku9se_HAVOouwFtWY3qt-rLTj3FWt9-T&amp;index=4)
+### [cp005 Указатели:  работа с массивом](https://www.youtube.com/watch?v=XnTYoqVX0C4&amp;list=PLku9se_HAVOouwFtWY3qt-rLTj3FWt9-T&amp;index=5)
+### [cp006 Указатели: стек](https://www.youtube.com/watch?v=RdD74eVCsdg&amp;list=PLku9se_HAVOouwFtWY3qt-rLTj3FWt9-T&amp;index=6)
+### [cp007 Указатели: односвязный список](https://www.youtube.com/watch?v=nGsh6VePzLw&amp;list=PLku9se_HAVOouwFtWY3qt-rLTj3FWt9-T&amp;index=7)
+### [cp008 Указатели: двусвязный список](https://www.youtube.com/watch?v=ywnZ05YFNws&amp;list=PLku9se_HAVOouwFtWY3qt-rLTj3FWt9-T&amp;index=8)

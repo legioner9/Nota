@@ -1,0 +1,3 @@
+# [PyLounge - программирование на Python и всё о IT](https://www.youtube.com/@pylounge/playlists)
+## [Боты На Python](https://www.youtube.com/playlist?list=PLhVGaKnJDpzjAOvGkXtNirBmE2xZ_UHvQ)
+### [Python Тelegram Бот Для Студии Уличных Танцев | Библиотеки Aiogram Pygsheets (Google Sheets API)](https://www.youtube.com/watch?v=JByWnTMH3WU&amp;list=PLhVGaKnJDpzjAOvGkXtNirBmE2xZ_UHvQ&amp;index=1)

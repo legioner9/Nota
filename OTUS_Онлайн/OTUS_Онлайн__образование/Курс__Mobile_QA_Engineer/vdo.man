@@ -1,0 +1,6 @@
+### [Mobile QA Engineer // День открытых дверей OTUS](https://www.youtube.com/watch?v=cuyvnQZgg_Q&amp;list=PLfnFOImnyWRXpZxJZtTzhnxvSRTkDcU8q&amp;index=1)
+### [Введение в автоматизацию тестирования мобильных приложений // Бесплатный урок OTUS](https://www.youtube.com/watch?v=kZy4KG7NMco&amp;list=PLfnFOImnyWRXpZxJZtTzhnxvSRTkDcU8q&amp;index=2)
+### [Введение в автоматизацию тестирования мобильных приложений 2// Бесплатный урок OTUS](https://www.youtube.com/watch?v=vbqLeMxbUng&amp;list=PLfnFOImnyWRXpZxJZtTzhnxvSRTkDcU8q&amp;index=3)
+### [Mindmaps и матрицы трассировки // Демо-занятие курса «Mobile QA Engineer 2.0»‎](https://www.youtube.com/watch?v=ANWjf0Zc0fg&amp;list=PLfnFOImnyWRXpZxJZtTzhnxvSRTkDcU8q&amp;index=4)
+### [Mobile QA Engineer // День открытых дверей OTUS](https://www.youtube.com/watch?v=oHSJFRw91l8&amp;list=PLfnFOImnyWRXpZxJZtTzhnxvSRTkDcU8q&amp;index=5)
+### [Основные тренды в тестировании // Демо-занятие курса «Mobile QA Engineer 2.0»‎](https://www.youtube.com/watch?v=LhWBCmEWmj4&amp;list=PLfnFOImnyWRXpZxJZtTzhnxvSRTkDcU8q&amp;index=6)

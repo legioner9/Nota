@@ -1,0 +1,3 @@
+# [ITVDN](https://www.youtube.com/@ITVDN/playlists?view=1)
+## [Практика Python](https://www.youtube.com/playlist?list=PLvItDmb0sZw_oEV5T2xER_IrtVgNthLPI)
+### [Добавление отображения курсов валют. Практика Python. Урок 9](https://www.youtube.com/watch?v=NjS5X1wjb6w&amp;list=PLvItDmb0sZw_oEV5T2xER_IrtVgNthLPI&amp;index=9)

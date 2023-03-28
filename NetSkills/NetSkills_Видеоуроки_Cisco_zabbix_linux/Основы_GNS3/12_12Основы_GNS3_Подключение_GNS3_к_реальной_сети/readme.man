@@ -1,0 +1,3 @@
+# [NetSkills. Видеоуроки. Cisco, zabbix, linux.](https://www.youtube.com/@netskills/playlists)
+## [Основы GNS3](https://www.youtube.com/playlist?list=PLcDkQ2Au8aVM3fmdIYcT6wGE2moiahurw)
+### [12.Основы GNS3. Подключение GNS3 к реальной сети](https://www.youtube.com/watch?v=cf9xv7LSztE&amp;list=PLcDkQ2Au8aVM3fmdIYcT6wGE2moiahurw&amp;index=12)

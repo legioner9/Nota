@@ -1,0 +1,3 @@
+# [UNИX](https://www.youtube.com/@unx7784/playlists)
+## [[UNИX] Совместная разработка на Python (Весна 2021)](https://www.youtube.com/playlist?list=PL6kSdcHYB3x6Z6ZCgAeKo2XxgxM2Tw2LI)
+### [06. Взаимодействие посредством email; этапы разработки GUI-приложения](https://www.youtube.com/watch?v=pAbC4JGU8EU&amp;list=PL6kSdcHYB3x6Z6ZCgAeKo2XxgxM2Tw2LI&amp;index=7)

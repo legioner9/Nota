@@ -1,0 +1,3 @@
+# [Exploring the IT World / Oleg Shpagin / WISEPLAT](https://www.youtube.com/@wiseplat/playlists)
+## [Искусственный интеллект на Python](https://www.youtube.com/playlist?list=PLxiU3nwEQ4PFp9tZnpqu2kNEkuphRzdW0)
+### [Speech recognition / Python Lessons](https://www.youtube.com/watch?v=GcqhuGQuFnM&amp;list=PLxiU3nwEQ4PFp9tZnpqu2kNEkuphRzdW0&amp;index=3)

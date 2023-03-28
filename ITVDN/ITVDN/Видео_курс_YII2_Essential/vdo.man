@@ -1,0 +1,6 @@
+### [Видео курс YII2 Essential. Урок 1. Установка YII2 и подготовка к работе](https://www.youtube.com/watch?v=0E4QKJwZok4&amp;list=PLvItDmb0sZw-Hdv1nYwi8drpf4iFgRfMd&amp;index=1)
+### [Видео курс YII2 Essential. Урок 2. MVC pattern в YII2](https://www.youtube.com/watch?v=HTcJrCkOeAw&amp;list=PLvItDmb0sZw-Hdv1nYwi8drpf4iFgRfMd&amp;index=2)
+### [Видео курс YII2 Essential. Урок 3. Создание Controller](https://www.youtube.com/watch?v=KpCDatgeevA&amp;list=PLvItDmb0sZw-Hdv1nYwi8drpf4iFgRfMd&amp;index=3)
+### [Видео курс YII2 Essential. Урок 4. Работа с базой данных](https://www.youtube.com/watch?v=0pvQBlAtm-c&amp;list=PLvItDmb0sZw-Hdv1nYwi8drpf4iFgRfMd&amp;index=4)
+### [Видео курс YII2 Essential. Урок 5. Работа с GII](https://www.youtube.com/watch?v=RIkcfpohLco&amp;list=PLvItDmb0sZw-Hdv1nYwi8drpf4iFgRfMd&amp;index=5)
+### [Видео курс YII2 Essential. Урок 6. Админ интерфейс и работа с формами](https://www.youtube.com/watch?v=LdZqffpXL6E&amp;list=PLvItDmb0sZw-Hdv1nYwi8drpf4iFgRfMd&amp;index=6)

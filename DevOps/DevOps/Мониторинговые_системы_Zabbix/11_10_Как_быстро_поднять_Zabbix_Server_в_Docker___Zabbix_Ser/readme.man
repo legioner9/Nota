@@ -1,0 +1,3 @@
+# [DevOps](https://www.youtube.com/@Devops_Youtube_Channel/playlists)
+## [Мониторинговые системы (Zabbix)](https://www.youtube.com/playlist?list=PLkKSgP0nEL0Avu98ccNINurBaDgVO-wPV)
+### [10. Как быстро поднять Zabbix Server в Docker ? / Zabbix Server/ Docker / Linux / Install](https://www.youtube.com/watch?v=t9_TqqJf6RI&amp;list=PLkKSgP0nEL0Avu98ccNINurBaDgVO-wPV&amp;index=11)

@@ -1,0 +1,3 @@
+# [ITVDN](https://www.youtube.com/@ITVDN/playlists?view=1)
+## [Видеокурс Unity3D Starter](https://www.youtube.com/playlist?list=PLvItDmb0sZw_oHG-q2tWJXgQ2AEqZLDrC)
+### [Unity3D Starter. Урок 4. Управление игроками и триггеры.](https://www.youtube.com/watch?v=0SVMc2e4UhY&amp;list=PLvItDmb0sZw_oHG-q2tWJXgQ2AEqZLDrC&amp;index=4)

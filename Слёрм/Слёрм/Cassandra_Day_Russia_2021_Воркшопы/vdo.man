@@ -1,0 +1,5 @@
+### [Cassandra Day Russia 2021, Воркшопы: Cassandra Application Development](https://www.youtube.com/watch?v=yLm7fx4r5Ls&amp;list=PL8D2P0ruohODSc3-Hk3wu62_EN9J6KPDB&amp;index=1)
+### [Cassandra Day Russia 2021, Воркшопы, Викторина](https://www.youtube.com/watch?v=7YnjQaakhJs&amp;list=PL8D2P0ruohODSc3-Hk3wu62_EN9J6KPDB&amp;index=2)
+### [Cassandra Day Russia 2021, Воркшопы: Cassandra Data Modeling](https://www.youtube.com/watch?v=7ic5_80tzEw&amp;list=PL8D2P0ruohODSc3-Hk3wu62_EN9J6KPDB&amp;index=3)
+### [Cassandra Day Russia 2021, Воркшопы: Cassandra Fundamentals](https://www.youtube.com/watch?v=nL1B_RzBGlY&amp;list=PL8D2P0ruohODSc3-Hk3wu62_EN9J6KPDB&amp;index=4)
+### [Cassandra Day Russia 2021, Воркшопы, Приветствие](https://www.youtube.com/watch?v=skHpK_dHFrU&amp;list=PL8D2P0ruohODSc3-Hk3wu62_EN9J6KPDB&amp;index=5)

@@ -1,0 +1,3 @@
+# [OTUS Онлайн - образование](https://www.youtube.com/@otus_education/playlists)
+## [Открытые уроки Автоматизация тестирования на JavaScript](https://www.youtube.com/playlist?list=PLfnFOImnyWRX97AFz292k98c6So7JEMMZ)
+### [Контейнеры. Docker // Демо занятие курса «JavaScript QA Engineer»](https://www.youtube.com/watch?v=mz8T5mYGoCU&amp;list=PLfnFOImnyWRX97AFz292k98c6So7JEMMZ&amp;index=4)

@@ -1,0 +1,3 @@
+# [JavaScript.Ninja](https://www.youtube.com/@JavaScriptNinja/playlists)
+## [JWT](https://www.youtube.com/playlist?list=PLvTBThJr861y60LQrUGpJNPu3Nt2EeQsP)
+### [JWT. Часть 2. Проблемы](https://www.youtube.com/watch?v=601CnGGp_MU&amp;list=PLvTBThJr861y60LQrUGpJNPu3Nt2EeQsP&amp;index=2)

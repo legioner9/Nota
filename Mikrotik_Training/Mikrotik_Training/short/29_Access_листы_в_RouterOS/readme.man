@@ -1,0 +1,3 @@
+# [Mikrotik Training](https://www.youtube.com/@MikrotikTraining/playlists)
+## [short](https://www.youtube.com/playlist?list=PLg90hRDCH9A7HkDxJYAnDn4VRnnMKL5tB)
+### [Access листы в RouterOS](https://www.youtube.com/watch?v=bJ2QTzx11VI&amp;list=PLg90hRDCH9A7HkDxJYAnDn4VRnnMKL5tB&amp;index=29)

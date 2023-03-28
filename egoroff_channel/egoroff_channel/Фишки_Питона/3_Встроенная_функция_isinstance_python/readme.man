@@ -1,0 +1,3 @@
+# [egoroff_channel](https://www.youtube.com/@egoroffchannel/playlists)
+## [Фишки Питона](https://www.youtube.com/playlist?list=PLQAt0m1f9OHvjhjLZhYsJirRYIPKLoJML)
+### [Встроенная функция isinstance python](https://www.youtube.com/watch?v=pFqctAKGSzI&amp;list=PLQAt0m1f9OHvjhjLZhYsJirRYIPKLoJML&amp;index=3)

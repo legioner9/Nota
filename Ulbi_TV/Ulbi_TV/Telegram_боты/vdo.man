@@ -1,0 +1,2 @@
+### [Web app TELEGRAM Бот на node js и React. Интернет магазин и форма обратной связи в телеграмм боте](https://www.youtube.com/watch?v=MzO-0IYkZMU&amp;list=PL6DxKON1uLOF__OyEeEYhjqNdmVyviN8U&amp;index=1)
+### [Telegram БОТ на JavaScript за 15 минут. Деплой, База данных, node js telegram bot.](https://www.youtube.com/watch?v=slcqnHIFrj8&amp;list=PL6DxKON1uLOF__OyEeEYhjqNdmVyviN8U&amp;index=2)

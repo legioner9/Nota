@@ -1,0 +1,3 @@
+# [ITVDN](https://www.youtube.com/@ITVDN/playlists?view=1)
+## [Видеокурс Team Foundation Server Fundamentals](https://www.youtube.com/playlist?list=PLvItDmb0sZw-LVcFN7_0f3GqsjRAuNuJz)
+### [Team Foundation Server Fundamentals. Урок 1. Архитектура TFS. Основы администрирования](https://www.youtube.com/watch?v=bJq7KwjtxyU&amp;list=PLvItDmb0sZw-LVcFN7_0f3GqsjRAuNuJz&amp;index=1)

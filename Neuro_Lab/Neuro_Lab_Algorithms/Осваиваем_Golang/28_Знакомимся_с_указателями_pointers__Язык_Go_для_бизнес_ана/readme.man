@@ -1,0 +1,3 @@
+# [Neuro Lab! Algorithms](https://www.youtube.com/@NeuroLabAlgorithms/playlists)
+## [Осваиваем Golang](https://www.youtube.com/playlist?list=PLHUicSITKZEmz2w3zo-aUpxCUZuqONE4c)
+### [Знакомимся с указателями (pointers) | Язык Go для бизнес аналитиков. Урок #7 #go #golang #уроки](https://www.youtube.com/watch?v=ygLYvC1Abo8&amp;list=PLHUicSITKZEmz2w3zo-aUpxCUZuqONE4c&amp;index=28)

@@ -1,0 +1,3 @@
+# [OTUS Онлайн - образование](https://www.youtube.com/@otus_education/playlists)
+## [Курс | Нереляционные базы данных](https://www.youtube.com/playlist?list=PLfnFOImnyWRUxaw1oMYGh5K5M_Vo3JQWd)
+### [Интенсив «MongoDB Map-Reduce Framework». День 1 // Демо занятие курса «NoSQL»](https://www.youtube.com/watch?v=JW0DTehRbWg&amp;list=PLfnFOImnyWRUxaw1oMYGh5K5M_Vo3JQWd&amp;index=5)

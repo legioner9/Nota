@@ -1,0 +1,6 @@
+### [ОСНОВЫ GIT ДЛЯ PYTHON-РАЗРАБОТЧИКА. ФОРМАЛИЗАЦИЯ ПРОБЛЕМ (ЧАСТЬ 0)](https://www.youtube.com/watch?v=4umrUlOD4E8&amp;list=PLlKID9PnOE5hNxXTOG8pOHwIlpmDtL6FM&amp;index=1)
+### [ОСНОВЫ GIT ДЛЯ PYTHON-РАЗРАБОТЧИКА. ПОНЯТИЕ РЕПОЗТОРИЯ (ЧАСТЬ 1)](https://www.youtube.com/watch?v=H88FDg-Zt-Y&amp;list=PLlKID9PnOE5hNxXTOG8pOHwIlpmDtL6FM&amp;index=2)
+### [ОСНОВЫ GIT ДЛЯ PYTHON-РАЗРАБОТЧИКА. СОЗДАНИЕ LOCAL И REMOTE РЕПОЗИТОРИЯ (ЧАСТЬ 2)](https://www.youtube.com/watch?v=ic7cukryHkA&amp;list=PLlKID9PnOE5hNxXTOG8pOHwIlpmDtL6FM&amp;index=3)
+### [ОСНОВЫ GIT ДЛЯ PYTHON-РАЗРАБОТЧИКА. ВЕТКИ. СЛИЯНИЕ ВЕТОК. PULL-REQUEST (ЧАСТЬ 3)](https://www.youtube.com/watch?v=HUmQJlfDQxw&amp;list=PLlKID9PnOE5hNxXTOG8pOHwIlpmDtL6FM&amp;index=4)
+### [ОСНОВЫ GIT ДЛЯ PYTHON-РАЗРАБОТЧИКА. СЛИЯНИЕ ИЗМЕНЕНИЙ ПОСРЕДСТВОМ REBASE (ЧАСТЬ 4)](https://www.youtube.com/watch?v=95QTldd_Cpw&amp;list=PLlKID9PnOE5hNxXTOG8pOHwIlpmDtL6FM&amp;index=5)
+### [ОСНОВЫ GIT ДЛЯ PYTHON-РАЗРАБОТЧИКА. КОНФЛИКТЫ И СПОСОБЫ ИХ РЕШЕНИЯ (ЧАСТЬ 5)](https://www.youtube.com/watch?v=C2Tz0pLdBj8&amp;list=PLlKID9PnOE5hNxXTOG8pOHwIlpmDtL6FM&amp;index=6)

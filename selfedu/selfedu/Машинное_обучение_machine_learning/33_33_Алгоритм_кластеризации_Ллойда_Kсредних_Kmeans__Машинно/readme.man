@@ -1,0 +1,3 @@
+# [selfedu](https://www.youtube.com/@selfedu_rus/playlists?view=1)
+## [Машинное обучение (machine learning)](https://www.youtube.com/playlist?list=PLA0M1Bcd0w8zxDIDOTQHsX68MCDOAJDtj)
+### [#33. Алгоритм кластеризации Ллойда (K-средних, K-means) | Машинное обучение](https://www.youtube.com/watch?v=8vCuR1AndH0&amp;list=PLA0M1Bcd0w8zxDIDOTQHsX68MCDOAJDtj&amp;index=33)

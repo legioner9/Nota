@@ -1,0 +1,2 @@
+### [Урок 1,  Angular5, с нуля (ваще с нуля)](https://www.youtube.com/watch?v=enoghByyWnI&amp;list=PLcvhF2Wqh7DPsnLqpv-wUQkeTqrQ_pmzF&amp;index=1)
+### [Урок 2, Angular5, с нуля (ваще с нуля)](https://www.youtube.com/watch?v=HMFIMurJlbI&amp;list=PLcvhF2Wqh7DPsnLqpv-wUQkeTqrQ_pmzF&amp;index=2)

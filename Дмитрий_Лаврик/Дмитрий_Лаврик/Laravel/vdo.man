@@ -1,0 +1,2 @@
+### [Проблемы изучения фреймворков на примере авторизации в Laravel](https://www.youtube.com/watch?v=VM6-qii1LR8&amp;list=PLyeqauxei6jeiITLZ3ZYMDACqVusPySrh&amp;index=1)
+### [Как изучать Laravel. Субъективное мнение про доп. пакеты](https://www.youtube.com/watch?v=TydQA_5hH6Y&amp;list=PLyeqauxei6jeiITLZ3ZYMDACqVusPySrh&amp;index=2)

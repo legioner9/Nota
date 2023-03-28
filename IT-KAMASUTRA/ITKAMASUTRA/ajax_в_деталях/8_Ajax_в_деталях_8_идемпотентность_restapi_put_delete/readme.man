@@ -1,0 +1,3 @@
+# [IT-KAMASUTRA](https://www.youtube.com/@ITKAMASUTRA/playlists?view=1)
+## [ajax в деталях](https://www.youtube.com/playlist?list=PLcvhF2Wqh7DNDDIp2MGbv8cMYsoUO1lew)
+### [Ajax в деталях #8, идемпотентность, rest-api, put, delete](https://www.youtube.com/watch?v=xWFKulRRVaI&amp;list=PLcvhF2Wqh7DNDDIp2MGbv8cMYsoUO1lew&amp;index=8)

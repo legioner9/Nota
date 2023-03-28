@@ -1,0 +1,3 @@
+# [OTUS Онлайн - образование](https://www.youtube.com/@otus_education/playlists)
+## [Курс |  Administrator Linux. Professional](https://www.youtube.com/playlist?list=PLfnFOImnyWRVXnmQ0wZwlLmzlkLaJpbhA)
+### [Работа с текстом в оболочке Bash // Демо-занятие курса «Administrator Linux. Professional»](https://www.youtube.com/watch?v=zo2k8neqrSg&amp;list=PLfnFOImnyWRVXnmQ0wZwlLmzlkLaJpbhA&amp;index=28)

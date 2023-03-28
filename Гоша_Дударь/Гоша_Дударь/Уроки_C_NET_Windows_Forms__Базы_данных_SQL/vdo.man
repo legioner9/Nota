@@ -1,0 +1,8 @@
+### [Уроки C# .NET Windows Forms / #1 - Создание приложения на C# с SQL (базами данных)](https://www.youtube.com/watch?v=gp2rA0rgq_0&amp;list=PL0lO_mIqDDFWOMqSKFaLypANf1W7-o87q&amp;index=1)
+### [Уроки C# .NET Windows Forms / #2 - Создание дизайна для окна авторизации](https://www.youtube.com/watch?v=gnvxVv60xnI&amp;list=PL0lO_mIqDDFWOMqSKFaLypANf1W7-o87q&amp;index=2)
+### [Уроки C# .NET Windows Forms / #3 - Подключение MySQL и создание базы данных](https://www.youtube.com/watch?v=pNTQy48Pafc&amp;list=PL0lO_mIqDDFWOMqSKFaLypANf1W7-o87q&amp;index=3)
+### [Уроки C# .NET Windows Forms / #4 - Авторизация пользователя через базу данных](https://www.youtube.com/watch?v=eLQAgHexThM&amp;list=PL0lO_mIqDDFWOMqSKFaLypANf1W7-o87q&amp;index=4)
+### [Уроки C# .NET Windows Forms / #5 - Окно регистрации пользователя](https://www.youtube.com/watch?v=Ier5xem-TTA&amp;list=PL0lO_mIqDDFWOMqSKFaLypANf1W7-o87q&amp;index=5)
+### [Уроки C# .NET Windows Forms / #6 - Регистрация пользователя в базе данных](https://www.youtube.com/watch?v=dKgFg9p-Lyk&amp;list=PL0lO_mIqDDFWOMqSKFaLypANf1W7-o87q&amp;index=6)
+### [Уроки C# .NET Windows Forms / #7 - Переход между окнами в приложении](https://www.youtube.com/watch?v=uXlMHzjBEDU&amp;list=PL0lO_mIqDDFWOMqSKFaLypANf1W7-o87q&amp;index=7)
+### [Профессия C# разработчик | Презентация онлайн курса](https://www.youtube.com/watch?v=pxrSETwYXRU&amp;list=PL0lO_mIqDDFWOMqSKFaLypANf1W7-o87q&amp;index=8)

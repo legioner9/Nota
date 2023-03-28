@@ -1,0 +1,6 @@
+### [ConstraintLayout. Android User Interface. Урок 2](https://www.youtube.com/watch?v=XYXjqZ2lV58&amp;list=PLvItDmb0sZw9fKnWs-FBT8jKkSHUT9jVB&amp;index=1)
+### [RecyclerView. Android User Interface. Урок 3](https://www.youtube.com/watch?v=s3FB6YqeoU4&amp;list=PLvItDmb0sZw9fKnWs-FBT8jKkSHUT9jVB&amp;index=2)
+### [Всплывающие уведомления (Toast, Snackbar). Android User Interface. Урок 4](https://www.youtube.com/watch?v=9RE4g39yw1o&amp;list=PLvItDmb0sZw9fKnWs-FBT8jKkSHUT9jVB&amp;index=3)
+### [Диалог (Dialog). Android User Interface. Урок 5](https://www.youtube.com/watch?v=KVQDhDSOq5M&amp;list=PLvItDmb0sZw9fKnWs-FBT8jKkSHUT9jVB&amp;index=4)
+### [Меню. Android User Interface. Урок 6](https://www.youtube.com/watch?v=MD9kGWDoTes&amp;list=PLvItDmb0sZw9fKnWs-FBT8jKkSHUT9jVB&amp;index=5)
+### [Элементы управления вводом. Android User Interface. Урок 7](https://www.youtube.com/watch?v=ofk4jlPCH0M&amp;list=PLvItDmb0sZw9fKnWs-FBT8jKkSHUT9jVB&amp;index=6)

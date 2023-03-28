@@ -1,0 +1,5 @@
+### [ASP.NET MVC 4. Урок 1. Введение. Оптимизация веб приложений.](https://www.youtube.com/watch?v=2V8HTvfZ4zs&amp;list=PLvItDmb0sZw_Jw1p2lXy9STvRqMWxeypG&amp;index=1)
+### [ASP.NET MVC 4. Урок 2. Web API. Часть 1](https://www.youtube.com/watch?v=Ofcdnjeq_9w&amp;list=PLvItDmb0sZw_Jw1p2lXy9STvRqMWxeypG&amp;index=2)
+### [ASP.NET MVC 4. Урок 3 . Web API. Часть 2](https://www.youtube.com/watch?v=vKxPPiTjBeI&amp;list=PLvItDmb0sZw_Jw1p2lXy9STvRqMWxeypG&amp;index=3)
+### [ASP.NET MVC 4. Урок 4 . Асинхронное программирование.](https://www.youtube.com/watch?v=U9kNVjn5tqI&amp;list=PLvItDmb0sZw_Jw1p2lXy9STvRqMWxeypG&amp;index=4)
+### [ASP.NET MVC 4. Урок 5 . Разработка для мобильных устройств.](https://www.youtube.com/watch?v=BoyNh0JAsV8&amp;list=PLvItDmb0sZw_Jw1p2lXy9STvRqMWxeypG&amp;index=5)

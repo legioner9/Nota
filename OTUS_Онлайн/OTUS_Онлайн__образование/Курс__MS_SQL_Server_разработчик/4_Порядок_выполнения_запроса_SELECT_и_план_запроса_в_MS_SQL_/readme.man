@@ -1,0 +1,3 @@
+# [OTUS Онлайн - образование](https://www.youtube.com/@otus_education/playlists)
+## [Курс | MS SQL Server разработчик](https://www.youtube.com/playlist?list=PLfnFOImnyWRVYUwkpb5SKAX784oj_x4j_)
+### [Порядок выполнения запроса SELECT и план запроса в MS SQL Server // Бесплатный урок OTUS](https://www.youtube.com/watch?v=H9oS-eLSX_8&amp;list=PLfnFOImnyWRVYUwkpb5SKAX784oj_x4j_&amp;index=4)

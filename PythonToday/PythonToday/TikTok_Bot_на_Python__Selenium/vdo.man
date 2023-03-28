@@ -1,0 +1,2 @@
+### [Пишем TikTok бота на Python #1 Аутентификация в TikTok | Selenium всплывающие окна, iframe](https://www.youtube.com/watch?v=b4BvpQpKJQo&amp;list=PLqGS6O1-DZLqUCC_Hd7YHWJUcgt3_U5Sv&amp;index=1)
+### [Пишем TikTok бота на Python #2 Ставим лайки в TikTok | Сохраняем и загружаем cookies](https://www.youtube.com/watch?v=HVPxuKBooOc&amp;list=PLqGS6O1-DZLqUCC_Hd7YHWJUcgt3_U5Sv&amp;index=2)

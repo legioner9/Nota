@@ -1,0 +1,8 @@
+### [#1 Введение в курс - Магазин на чистом JavaScript и Bootstrap 5](https://www.youtube.com/watch?v=S0jT0KMcQa4&amp;list=PLuY6eeDuleIOqWFLLOKwiSuF8Ehz7J1FM&amp;index=1)
+### [#2 Подготовка проекта - Магазин на чистом JavaScript и Bootstrap 5](https://www.youtube.com/watch?v=JcydIXfUFNE&amp;list=PLuY6eeDuleIOqWFLLOKwiSuF8Ehz7J1FM&amp;index=2)
+### [#3 Создание интерфейса - Магазин на чистом JavaScript и Bootstrap 5](https://www.youtube.com/watch?v=z2UYXthyqzo&amp;list=PLuY6eeDuleIOqWFLLOKwiSuF8Ehz7J1FM&amp;index=3)
+### [#4 Добавление товара - Магазин на чистом JavaScript и Bootstrap 5](https://www.youtube.com/watch?v=feUs6JGqL1I&amp;list=PLuY6eeDuleIOqWFLLOKwiSuF8Ehz7J1FM&amp;index=4)
+### [#5 Обновление графического интерфейса - Магазин на чистом JavaScript и Bootstrap 5](https://www.youtube.com/watch?v=Ag-9Y6f4Pzg&amp;list=PLuY6eeDuleIOqWFLLOKwiSuF8Ehz7J1FM&amp;index=5)
+### [#6 Удаление товара и поиск - Магазин на чистом JavaScript и Bootstrap 5](https://www.youtube.com/watch?v=qAFHeJAeEuI&amp;list=PLuY6eeDuleIOqWFLLOKwiSuF8Ehz7J1FM&amp;index=6)
+### [#7 Добавление товара в корзину и удаление - Магазин на чистом JavaScript и Bootstrap 5](https://www.youtube.com/watch?v=8LRa8E-lfas&amp;list=PLuY6eeDuleIOqWFLLOKwiSuF8Ehz7J1FM&amp;index=7)
+### [#8 Сортировка таблицы и скидка на товар - Магазин на чистом JavaScript и Bootstrap 5](https://www.youtube.com/watch?v=qZsltr_3ab8&amp;list=PLuY6eeDuleIOqWFLLOKwiSuF8Ehz7J1FM&amp;index=8)

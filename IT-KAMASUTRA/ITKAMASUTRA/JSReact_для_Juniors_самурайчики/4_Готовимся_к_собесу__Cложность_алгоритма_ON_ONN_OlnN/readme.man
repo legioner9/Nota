@@ -1,0 +1,3 @@
+# [IT-KAMASUTRA](https://www.youtube.com/@ITKAMASUTRA/playlists?view=1)
+## [JS+React для Juniors (самурайчики)](https://www.youtube.com/playlist?list=PLcvhF2Wqh7DMuHec4RCfGuMwiij2_IvFR)
+### [Готовимся к собесу / Cложность алгоритма O(N), O(N*N), O(lnN)](https://www.youtube.com/watch?v=9p0Pk5lRYgA&amp;list=PLcvhF2Wqh7DMuHec4RCfGuMwiij2_IvFR&amp;index=4)

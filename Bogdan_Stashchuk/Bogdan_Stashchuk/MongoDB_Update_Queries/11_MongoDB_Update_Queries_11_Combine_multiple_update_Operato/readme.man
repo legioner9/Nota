@@ -1,0 +1,3 @@
+# [Bogdan Stashchuk](https://www.youtube.com/@Bogdan_Stashchuk/playlists)
+## [MongoDB Update Queries](https://www.youtube.com/playlist?list=PLWkguCWKqN9OncFtHmijyW0VS6f5BEKpV)
+### [MongoDB Update Queries: 11 Combine multiple update Operators](https://www.youtube.com/watch?v=soemCDx5N5g&amp;list=PLWkguCWKqN9OncFtHmijyW0VS6f5BEKpV&amp;index=11)

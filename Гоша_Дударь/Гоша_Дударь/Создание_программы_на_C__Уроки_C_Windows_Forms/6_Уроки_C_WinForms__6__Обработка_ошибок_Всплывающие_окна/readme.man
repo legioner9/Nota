@@ -1,0 +1,3 @@
+# [Гоша Дударь](https://www.youtube.com/@gosha_dudar/playlists?view=1)
+## [Создание программы на C++ / Уроки C++ Windows Forms](https://www.youtube.com/playlist?list=PL0lO_mIqDDFU4jqX2KAJkp7dfpc-IuKjB)
+### [Уроки C++ WinForms / #6 – Обработка ошибок. Всплывающие окна](https://www.youtube.com/watch?v=NhonkUGP2KE&amp;list=PL0lO_mIqDDFU4jqX2KAJkp7dfpc-IuKjB&amp;index=6)

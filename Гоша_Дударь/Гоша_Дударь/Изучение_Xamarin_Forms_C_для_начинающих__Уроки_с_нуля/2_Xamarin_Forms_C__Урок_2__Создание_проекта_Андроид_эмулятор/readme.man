@@ -1,0 +1,3 @@
+# [Гоша Дударь](https://www.youtube.com/@gosha_dudar/playlists?view=1)
+## [Изучение Xamarin Forms C# для начинающих / Уроки с нуля](https://www.youtube.com/playlist?list=PL0lO_mIqDDFVQIun69pf7B50ICSXpu1Cw)
+### [Xamarin Forms C# / Урок #2 – Создание проекта. Андроид эмулятор](https://www.youtube.com/watch?v=8f-IdJc4DnA&amp;list=PL0lO_mIqDDFVQIun69pf7B50ICSXpu1Cw&amp;index=2)

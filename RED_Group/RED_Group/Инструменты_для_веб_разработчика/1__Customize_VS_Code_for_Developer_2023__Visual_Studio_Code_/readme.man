@@ -1,0 +1,3 @@
+# [RED Group](https://www.youtube.com/@REDGroup/playlists)
+## [Инструменты для веб разработчика](https://www.youtube.com/playlist?list=PLXkonRjGXZwwKAAB4ihUHv6C9hyGHvnru)
+### [🦋 Customize VS Code for Developer 2023 | Visual Studio Code for [Javascript/React/PHP]](https://www.youtube.com/watch?v=ZMDdsH7QUQU&amp;list=PLXkonRjGXZwwKAAB4ihUHv6C9hyGHvnru&amp;index=1)

@@ -1,0 +1,7 @@
+### [ASP.NET MVC 5. Уровень 1. Урок 1. Начало работы с ASP.NET MVC 5](https://www.youtube.com/watch?v=tTTXvIjkQiw&amp;list=PLvItDmb0sZw-nwRDePWTBATvBCrC6Cslr&amp;index=1)
+### [ASP.NET MVC 5. Уровень 1. Урок 2. Контроллеры и предствления](https://www.youtube.com/watch?v=TgxY44cl9hU&amp;list=PLvItDmb0sZw-nwRDePWTBATvBCrC6Cslr&amp;index=2)
+### [ASP.NET MVC 5. Уровень 1. Урок 3. Модели](https://www.youtube.com/watch?v=OtNhxQwT2z4&amp;list=PLvItDmb0sZw-nwRDePWTBATvBCrC6Cslr&amp;index=3)
+### [ASP.NET MVC 5. Уровень 1. Урок 4. Маршрутизация](https://www.youtube.com/watch?v=GYfboFX7mNM&amp;list=PLvItDmb0sZw-nwRDePWTBATvBCrC6Cslr&amp;index=4)
+### [ASP.NET MVC 5. Уровень 1. Урок 5. Мета данные и валидация](https://www.youtube.com/watch?v=YIvjIpwmAk4&amp;list=PLvItDmb0sZw-nwRDePWTBATvBCrC6Cslr&amp;index=5)
+### [ASP.NET MVC 5. Уровень 1. Урок 6. Фильтры](https://www.youtube.com/watch?v=qgFyz34WMls&amp;list=PLvItDmb0sZw-nwRDePWTBATvBCrC6Cslr&amp;index=6)
+### [ASP.NET MVC 5. Уровень 1. Урок 7. Привязка модели](https://www.youtube.com/watch?v=7zBizr2Q0lg&amp;list=PLvItDmb0sZw-nwRDePWTBATvBCrC6Cslr&amp;index=7)

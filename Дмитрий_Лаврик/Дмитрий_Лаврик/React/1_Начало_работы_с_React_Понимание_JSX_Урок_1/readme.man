@@ -1,0 +1,3 @@
+# [Дмитрий Лаврик](https://www.youtube.com/@dmitrylavrik/playlists)
+## [React](https://www.youtube.com/playlist?list=PLyeqauxei6jdnPIamSer3up67DHlS5QtR)
+### [Начало работы с React. Понимание JSX. Урок №1.](https://www.youtube.com/watch?v=v8q0e0bqJXk&amp;list=PLyeqauxei6jdnPIamSer3up67DHlS5QtR&amp;index=1)

@@ -1,0 +1,3 @@
+# [OTUS Онлайн - образование](https://www.youtube.com/@otus_education/playlists)
+## [Курс | Прикладная аналитика на R](https://www.youtube.com/playlist?list=PLfnFOImnyWRVV3j_msvETDfHzoP3sZv08)
+### [Манипуляция данными в R с помощью dplyr // Демо-занятие курса «Прикладная аналитика на R»](https://www.youtube.com/watch?v=0ABBb9eRstg&amp;list=PLfnFOImnyWRVV3j_msvETDfHzoP3sZv08&amp;index=2)

@@ -1,0 +1,8 @@
+### [Уроки Angular 11 для начинающих ➤ Как начать работу с Angular 11 с нуля?](https://www.youtube.com/watch?v=KbI-Y-fjecE&amp;list=PLvItDmb0sZw8MqPe5VeVEe6JRpG0B3j3X&amp;index=1)
+### [Symfony - лучший PHP фреймворк? ➤ Веб разработка на PHP Symfony](https://www.youtube.com/watch?v=OAcjnOq75Nk&amp;list=PLvItDmb0sZw8MqPe5VeVEe6JRpG0B3j3X&amp;index=2)
+### [Курс Основы JavaScript ➤ Что такое DOM и зачем он нужен?](https://www.youtube.com/watch?v=TLlnJJe5noo&amp;list=PLvItDmb0sZw8MqPe5VeVEe6JRpG0B3j3X&amp;index=3)
+### [ООП в PHP ➤ Что такое ООП (Объектно-ориентированное программирование). Курс основы PHP.](https://www.youtube.com/watch?v=WjZmUaEeXpM&amp;list=PLvItDmb0sZw8MqPe5VeVEe6JRpG0B3j3X&amp;index=4)
+### [PHP c нуля ➤ Плюсы и минусы PHP. Начало работы с PHP 8.0. Курс Создание сайтов на PHP для начинающих](https://www.youtube.com/watch?v=bGV6ssggAhM&amp;list=PLvItDmb0sZw8MqPe5VeVEe6JRpG0B3j3X&amp;index=5)
+### [CSS Grid с нуля ➤ Что такое CSS Grid?](https://www.youtube.com/watch?v=7MFO5m928dE&amp;list=PLvItDmb0sZw8MqPe5VeVEe6JRpG0B3j3X&amp;index=6)
+### [Как создать сайт на Vue.js с нуля?](https://www.youtube.com/watch?v=Gp2d7TWXNpw&amp;list=PLvItDmb0sZw8MqPe5VeVEe6JRpG0B3j3X&amp;index=7)
+### [Уроки JavaScript для начинающих ➤ Что такое JavaScript?](https://www.youtube.com/watch?v=w5S84IHafmc&amp;list=PLvItDmb0sZw8MqPe5VeVEe6JRpG0B3j3X&amp;index=8)

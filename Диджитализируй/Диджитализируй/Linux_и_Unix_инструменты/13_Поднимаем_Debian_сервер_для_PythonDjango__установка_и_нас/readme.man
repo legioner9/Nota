@@ -1,0 +1,3 @@
+# [Диджитализируй!](https://www.youtube.com/@t0digital/playlists)
+## [Linux и Unix инструменты](https://www.youtube.com/playlist?list=PLAk6CfuV7hyqHyQVHZMQRihAfebXpxn2O)
+### [Поднимаем Debian сервер для Python/Django — установка и настройка с нуля. Как настроить сервер?](https://www.youtube.com/watch?v=FLiKTJqyyvs&amp;list=PLAk6CfuV7hyqHyQVHZMQRihAfebXpxn2O&amp;index=13)

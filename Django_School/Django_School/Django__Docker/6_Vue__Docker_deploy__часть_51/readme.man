@@ -1,0 +1,3 @@
+# [Django School](https://www.youtube.com/@DjangoSchool/playlists?view=1)
+## [Django + Docker](https://www.youtube.com/playlist?list=PLF-NY6ldwAWrTEtHA8zhIVeNIzXjmS8Vu)
+### [Vue + Docker deploy - часть 5/1](https://www.youtube.com/watch?v=TUWWMz6z2To&amp;list=PLF-NY6ldwAWrTEtHA8zhIVeNIzXjmS8Vu&amp;index=6)

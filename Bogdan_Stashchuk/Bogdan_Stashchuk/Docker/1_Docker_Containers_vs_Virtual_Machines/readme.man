@@ -1,0 +1,3 @@
+# [Bogdan Stashchuk](https://www.youtube.com/@Bogdan_Stashchuk/playlists)
+## [Docker](https://www.youtube.com/playlist?list=PLWkguCWKqN9OHd8uqKg7UhUR1YmSqWpas)
+### [Docker Containers vs Virtual Machines](https://www.youtube.com/watch?v=dTZbRf4kY7A&amp;list=PLWkguCWKqN9OHd8uqKg7UhUR1YmSqWpas&amp;index=1)

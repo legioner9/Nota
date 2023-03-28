@@ -1,0 +1,3 @@
+# [SuperDev](https://www.youtube.com/@superdev8594/playlists)
+## [Телефония (Спринт1)](https://www.youtube.com/playlist?list=PLSGfCcnnkUS1nY6ETKFlqlUGuf8-kEAXL)
+### [Asterisk установка на Ubuntu Server 20.04 с нуля](https://www.youtube.com/watch?v=5ot_Vxc9T6k&amp;list=PLSGfCcnnkUS1nY6ETKFlqlUGuf8-kEAXL&amp;index=5)

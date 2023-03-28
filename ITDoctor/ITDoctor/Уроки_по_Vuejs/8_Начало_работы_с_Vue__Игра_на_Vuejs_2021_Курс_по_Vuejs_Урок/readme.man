@@ -1,0 +1,3 @@
+# [ITDoctor](https://www.youtube.com/@ITDoctor/playlists?view=1&sort=dd&shelf_id=0)
+## [Уроки по Vue.js](https://www.youtube.com/playlist?list=PLuY6eeDuleIPrHjeWPtEw6KWni2W35-XO)
+### [Начало работы с Vue - Игра на Vue.js [2021] Курс по Vue.js, Урок 7](https://www.youtube.com/watch?v=wXdzFnpA7Bc&amp;list=PLuY6eeDuleIPrHjeWPtEw6KWni2W35-XO&amp;index=8)

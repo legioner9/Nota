@@ -1,0 +1,3 @@
+# [PythonToday](https://www.youtube.com/@PythonToday/playlists)
+## [Проекты на Python](https://www.youtube.com/playlist?list=PLqGS6O1-DZLoAADhgzzkvc8ifKsKG4G-T)
+### [Django | Выполняем тестовое задание на Junior Python разработчика с зарплатой 70000р](https://www.youtube.com/watch?v=mrn_Jqh_Zyo&amp;list=PLqGS6O1-DZLoAADhgzzkvc8ifKsKG4G-T&amp;index=27)

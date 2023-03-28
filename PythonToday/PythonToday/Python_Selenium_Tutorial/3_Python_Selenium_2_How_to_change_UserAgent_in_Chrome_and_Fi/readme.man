@@ -1,0 +1,3 @@
+# [PythonToday](https://www.youtube.com/@PythonToday/playlists)
+## [Python Selenium Tutorial](https://www.youtube.com/playlist?list=PLqGS6O1-DZLp1kgiQNpueIMCHRNzgHa1r)
+### [Python Selenium #2 How to change User-Agent in Chrome and Firefox browsers](https://www.youtube.com/watch?v=K0423-b25-k&amp;list=PLqGS6O1-DZLp1kgiQNpueIMCHRNzgHa1r&amp;index=3)

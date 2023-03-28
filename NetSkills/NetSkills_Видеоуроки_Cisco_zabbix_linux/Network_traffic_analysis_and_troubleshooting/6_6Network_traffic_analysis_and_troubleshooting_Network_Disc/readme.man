@@ -1,0 +1,3 @@
+# [NetSkills. Видеоуроки. Cisco, zabbix, linux.](https://www.youtube.com/@netskills/playlists)
+## [Network traffic analysis and troubleshooting](https://www.youtube.com/playlist?list=PLcDkQ2Au8aVNXuTxX18aw5uP4MrBeg16p)
+### [6.Network traffic analysis and troubleshooting. Network Discovery](https://www.youtube.com/watch?v=xE_s4z0Q68Q&amp;list=PLcDkQ2Au8aVNXuTxX18aw5uP4MrBeg16p&amp;index=6)

@@ -1,0 +1,3 @@
+# [ITVDN](https://www.youtube.com/@ITVDN/playlists?view=1)
+## [Практика Python](https://www.youtube.com/playlist?list=PLvItDmb0sZw_oEV5T2xER_IrtVgNthLPI)
+### [Работа с XML документами. Добавление нового источника валют. Практика Python. Урок 5](https://www.youtube.com/watch?v=TLaZLID8sDo&amp;list=PLvItDmb0sZw_oEV5T2xER_IrtVgNthLPI&amp;index=5)

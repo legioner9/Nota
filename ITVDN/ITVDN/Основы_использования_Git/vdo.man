@@ -1,0 +1,4 @@
+### [Основы использования Git. Урок 1. Вступление в Git.](https://www.youtube.com/watch?v=0kezCbphyQc&amp;list=PLvItDmb0sZw8WmkxzGJUZl6S3KU_-7-aP&amp;index=1)
+### [Основы использования Git. Урок 2. Локальная работа Git.](https://www.youtube.com/watch?v=ll1O3VJWmEo&amp;list=PLvItDmb0sZw8WmkxzGJUZl6S3KU_-7-aP&amp;index=2)
+### [Основы использования Git. Урок 3. Работа с Github.](https://www.youtube.com/watch?v=4NChP2fcqAU&amp;list=PLvItDmb0sZw8WmkxzGJUZl6S3KU_-7-aP&amp;index=3)
+### [Основы использования Git. Урок 4. Ветвления и слияния в Git.](https://www.youtube.com/watch?v=hAjPagx-tzg&amp;list=PLvItDmb0sZw8WmkxzGJUZl6S3KU_-7-aP&amp;index=4)

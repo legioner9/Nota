@@ -1,0 +1,3 @@
+# [ITVDN](https://www.youtube.com/@ITVDN/playlists?view=1)
+## [MySQL](https://www.youtube.com/playlist?list=PLvItDmb0sZw9-yTHNWpfXDyPPg8aXYb-B)
+### [Вложенные запросы. Курс MySQL Базовый. Урок 5](https://www.youtube.com/watch?v=2H4ag6q7wCg&amp;list=PLvItDmb0sZw9-yTHNWpfXDyPPg8aXYb-B&amp;index=5)

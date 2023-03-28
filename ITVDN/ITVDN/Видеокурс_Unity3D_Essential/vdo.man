@@ -1,0 +1,7 @@
+### [Unity3D Essential. Урок 1. Основы работы с 2D в Unity3D](https://www.youtube.com/watch?v=HcsKUEUijVM&amp;list=PLvItDmb0sZw9sPm3jg-Ew2l--bpTh-htA&amp;index=1)
+### [Unity3D Essential. Урок 2. Создание персонажа в Unity3D](https://www.youtube.com/watch?v=9Q894QsbR10&amp;list=PLvItDmb0sZw9sPm3jg-Ew2l--bpTh-htA&amp;index=2)
+### [Unity3D Essential. Урок 3. Поиск пути в Unity3D](https://www.youtube.com/watch?v=eHRtbF-TQ8s&amp;list=PLvItDmb0sZw9sPm3jg-Ew2l--bpTh-htA&amp;index=3)
+### [Unity3D Essential. Урок 4. (IK) Inverse Kinematics в Unity3D](https://www.youtube.com/watch?v=KDkKHI_LL1w&amp;list=PLvItDmb0sZw9sPm3jg-Ew2l--bpTh-htA&amp;index=4)
+### [Unity3D Essential. Урок 5. NPC в Unity3D](https://www.youtube.com/watch?v=DGQ4IbXLLu4&amp;list=PLvItDmb0sZw9sPm3jg-Ew2l--bpTh-htA&amp;index=5)
+### [Unity3D Essential. Урок 6. Game Level в Unity3D](https://www.youtube.com/watch?v=sSJT8c4LwhQ&amp;list=PLvItDmb0sZw9sPm3jg-Ew2l--bpTh-htA&amp;index=6)
+### [Unity3D Essential. Урок 7. Game Level Part 2 в Unity3D](https://www.youtube.com/watch?v=35VC6LyqmSc&amp;list=PLvItDmb0sZw9sPm3jg-Ew2l--bpTh-htA&amp;index=7)

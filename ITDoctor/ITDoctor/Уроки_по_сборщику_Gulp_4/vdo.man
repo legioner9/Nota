@@ -1,0 +1,6 @@
+### [Сборка проекта на Gulp 4, Подробный видео урок по сборщику Gulp, Уроки по сборщику Gulp 4](https://www.youtube.com/watch?v=r2S423N-ETA&amp;list=PLuY6eeDuleIM7fEgWkXJvfiVOd2ecZyEE&amp;index=1)
+### [Compiling SASS and SCCS using Gulp](https://www.youtube.com/watch?v=jjqvl0M0tGw&amp;list=PLuY6eeDuleIM7fEgWkXJvfiVOd2ecZyEE&amp;index=2)
+### [Препроцессор SASS, LESS и STYLUS на Gulp 4, Уроки по сборщику Gulp 4](https://www.youtube.com/watch?v=KNSP_jDQ1n4&amp;list=PLuY6eeDuleIM7fEgWkXJvfiVOd2ecZyEE&amp;index=3)
+### [Улучшенная сборка проекта на Gulp 4, Сжатие изображений на Gulp 4, Плагин gulp-imagemin](https://www.youtube.com/watch?v=ZLH9T3f-X-M&amp;list=PLuY6eeDuleIM7fEgWkXJvfiVOd2ecZyEE&amp;index=4)
+### [Модуль gulp-rename на Gulp 4, Уроки по сборщику Gulp 4](https://www.youtube.com/watch?v=IhoMm8jrRi8&amp;list=PLuY6eeDuleIM7fEgWkXJvfiVOd2ecZyEE&amp;index=5)
+### [Как к Gulp подключить jQuery или другую стороннюю библиотеку, Уроки по сборщику Gulp 4](https://www.youtube.com/watch?v=Y00N8pE55uw&amp;list=PLuY6eeDuleIM7fEgWkXJvfiVOd2ecZyEE&amp;index=6)

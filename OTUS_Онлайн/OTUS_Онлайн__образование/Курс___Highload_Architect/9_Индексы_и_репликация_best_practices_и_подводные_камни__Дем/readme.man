@@ -1,0 +1,3 @@
+# [OTUS Онлайн - образование](https://www.youtube.com/@otus_education/playlists)
+## [Курс |  Highload Architect](https://www.youtube.com/playlist?list=PLfnFOImnyWRVWEqnZ9nOjKmkW71JOs62a)
+### [Индексы и репликация: best practices и подводные камни // Демо-занятие курса «Highload Architect»](https://www.youtube.com/watch?v=k8bAgK6qn2s&amp;list=PLfnFOImnyWRVWEqnZ9nOjKmkW71JOs62a&amp;index=9)

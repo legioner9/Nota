@@ -1,0 +1,3 @@
+# [ITDoctor](https://www.youtube.com/@ITDoctor/playlists?view=1&sort=dd&shelf_id=0)
+## [Язык CSS для новичков](https://www.youtube.com/playlist?list=PLuY6eeDuleINJ5hIlBJWopSWHWDJYz_XW)
+### [CSS селекторы что это и как с ними работать, Урок 1](https://www.youtube.com/watch?v=cxvhHXGlUF0&amp;list=PLuY6eeDuleINJ5hIlBJWopSWHWDJYz_XW&amp;index=1)

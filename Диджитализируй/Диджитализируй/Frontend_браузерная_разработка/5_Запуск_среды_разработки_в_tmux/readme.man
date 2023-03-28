@@ -1,0 +1,3 @@
+# [Диджитализируй!](https://www.youtube.com/@t0digital/playlists)
+## [Frontend (браузерная разработка)](https://www.youtube.com/playlist?list=PLAk6CfuV7hyqWuFgcWIvodqNF94oaD0R5)
+### [Запуск среды разработки в tmux](https://www.youtube.com/watch?v=P10cuGj-J8E&amp;list=PLAk6CfuV7hyqWuFgcWIvodqNF94oaD0R5&amp;index=5)

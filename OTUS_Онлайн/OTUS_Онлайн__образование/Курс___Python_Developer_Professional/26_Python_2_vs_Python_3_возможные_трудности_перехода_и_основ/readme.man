@@ -1,0 +1,3 @@
+# [OTUS Онлайн - образование](https://www.youtube.com/@otus_education/playlists)
+## [Курс |  Python Developer. Professional](https://www.youtube.com/playlist?list=PLfnFOImnyWRUrNJYC3gvN13Np2Eo8ZYSc)
+### [Python 2 vs Python 3: возможные трудности перехода и основные различия  // День открытых дверей OTUS](https://www.youtube.com/watch?v=DvWwH7yTl9Y&amp;list=PLfnFOImnyWRUrNJYC3gvN13Np2Eo8ZYSc&amp;index=26)

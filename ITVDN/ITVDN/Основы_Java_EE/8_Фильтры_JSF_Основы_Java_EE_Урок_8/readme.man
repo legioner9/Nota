@@ -1,0 +1,3 @@
+# [ITVDN](https://www.youtube.com/@ITVDN/playlists?view=1)
+## [Основы Java EE](https://www.youtube.com/playlist?list=PLvItDmb0sZw8IEZsTMCvcuQhqU_t-v8Y1)
+### [Фильтры. JSF. Основы Java EE. Урок 8](https://www.youtube.com/watch?v=xf3pwfn8hxs&amp;list=PLvItDmb0sZw8IEZsTMCvcuQhqU_t-v8Y1&amp;index=8)

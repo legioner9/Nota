@@ -1,0 +1,3 @@
+# [ITVDN](https://www.youtube.com/@ITVDN/playlists?view=1)
+## [SOLID принципы в Java](https://www.youtube.com/playlist?list=PLvItDmb0sZw876qQfRu8z9Hh474KQrzTx)
+### [SOLID принципы в Java. Принцип единственной ответственности. Урок 1](https://www.youtube.com/watch?v=BUhN2q_DEvk&amp;list=PLvItDmb0sZw876qQfRu8z9Hh474KQrzTx&amp;index=1)

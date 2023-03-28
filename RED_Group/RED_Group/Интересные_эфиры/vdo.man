@@ -1,0 +1,3 @@
+### [⏱ Разработка трекера привычек на Vanilla JavaScript](https://www.youtube.com/watch?v=72wCqPHODh0&amp;list=PLXkonRjGXZwxh4gJ0sPz8Cz290sSTlCrn&amp;index=1)
+### [🚀 6 ФРЕЙМВОРКОВ ЗА 7 ЧАСОВ [React / Vue / Angular / Svelte / Solid / PReact] - Какой лучше?](https://www.youtube.com/watch?v=z3OJo_4xE6M&amp;list=PLXkonRjGXZwxh4gJ0sPz8Cz290sSTlCrn&amp;index=2)
+### [💸 Закажи функционал и я его реализую | Разработка на React по вашим заказам](https://www.youtube.com/watch?v=RLW7_Fs_BDU&amp;list=PLXkonRjGXZwxh4gJ0sPz8Cz290sSTlCrn&amp;index=3)

@@ -1,0 +1,3 @@
+# [Mikrotik Training](https://www.youtube.com/@MikrotikTraining/playlists)
+## [security](https://www.youtube.com/playlist?list=PLg90hRDCH9A7chPm1P-12ezpQf5NMCC3C)
+### [Принцип «Если-То» в Firewall MikroTik, Вкладки «General», «Advanced», «Extra», «Action»](https://www.youtube.com/watch?v=hvtsoHzl14w&amp;list=PLg90hRDCH9A7chPm1P-12ezpQf5NMCC3C&amp;index=12)

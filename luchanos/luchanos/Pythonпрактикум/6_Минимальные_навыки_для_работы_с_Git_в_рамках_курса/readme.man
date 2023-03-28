@@ -1,0 +1,3 @@
+# [luchanos](https://www.youtube.com/@luchanos/playlists?view=1&sort=dd&shelf_id=0)
+## [Python-практикум](https://www.youtube.com/playlist?list=PLlKID9PnOE5j1vHkSzerrYQP_p1frL6CT)
+### [Минимальные навыки для работы с Git в рамках курса](https://www.youtube.com/watch?v=-cPCza9Ex3w&amp;list=PLlKID9PnOE5j1vHkSzerrYQP_p1frL6CT&amp;index=6)

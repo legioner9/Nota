@@ -1,0 +1,3 @@
+# [DevOps](https://www.youtube.com/@Devops_Youtube_Channel/playlists)
+## [Git](https://www.youtube.com/playlist?list=PLkKSgP0nEL0Cd50vp3CbfnCGtqJfxBCIr)
+### [5. Локальные и Удалённые Репозитории / git/ git clone/ git push/ git pull](https://www.youtube.com/watch?v=pcf0rQmyMC8&amp;list=PLkKSgP0nEL0Cd50vp3CbfnCGtqJfxBCIr&amp;index=5)

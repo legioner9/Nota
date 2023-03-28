@@ -1,0 +1,7 @@
+### [Installing MongoDB on the VPS server: 01 - Hosting Services Overview](https://www.youtube.com/watch?v=41S84sWBNR8&amp;list=PLWkguCWKqN9OqgXpU7Vc_7iZqcE9K1tbY&amp;index=1)
+### [Installing MongoDB on the VPS server: 02 - Launch Amazon EC2 server](https://www.youtube.com/watch?v=AwnfBp_gXBU&amp;list=PLWkguCWKqN9OqgXpU7Vc_7iZqcE9K1tbY&amp;index=2)
+### [Installing MongoDB on the VPS server: 03 - Installing MongoDB on the Ubuntu Server](https://www.youtube.com/watch?v=hBQLN9q-1vg&amp;list=PLWkguCWKqN9OqgXpU7Vc_7iZqcE9K1tbY&amp;index=3)
+### [Installing MongoDB on the VPS server: 04 - Configure MongoDB network access](https://www.youtube.com/watch?v=sWvmsZviMvM&amp;list=PLWkguCWKqN9OqgXpU7Vc_7iZqcE9K1tbY&amp;index=4)
+### [Installing MongoDB on the VPS server: 05 - Allow external access to the server](https://www.youtube.com/watch?v=BV4lmDK_4jM&amp;list=PLWkguCWKqN9OqgXpU7Vc_7iZqcE9K1tbY&amp;index=5)
+### [Installing MongoDB on the VPS server: 06 - Create MongoDB Admin user](https://www.youtube.com/watch?v=DrBUmCzuOIw&amp;list=PLWkguCWKqN9OqgXpU7Vc_7iZqcE9K1tbY&amp;index=6)
+### [Installing MongoDB on the VPS server: 07 - Connecting to MongoDB](https://www.youtube.com/watch?v=lHylGMOmhFA&amp;list=PLWkguCWKqN9OqgXpU7Vc_7iZqcE9K1tbY&amp;index=7)

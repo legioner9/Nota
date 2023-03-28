@@ -1,0 +1,3 @@
+# [DevOps](https://www.youtube.com/@Devops_Youtube_Channel/playlists)
+## [Ubuntu](https://www.youtube.com/playlist?list=PLkKSgP0nEL0BpOAxQMeJNMcBIiWm7JXur)
+### [1. Как установить Ubuntu 20.04 Server на VMware Workstation 16 Pro ?  / Ubuntu Server 20.04 / VMware](https://www.youtube.com/watch?v=8H0Gt5YRILc&amp;list=PLkKSgP0nEL0BpOAxQMeJNMcBIiWm7JXur&amp;index=1)

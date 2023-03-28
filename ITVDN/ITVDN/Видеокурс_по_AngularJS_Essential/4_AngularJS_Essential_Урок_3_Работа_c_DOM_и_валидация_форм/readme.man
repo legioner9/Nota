@@ -1,0 +1,3 @@
+# [ITVDN](https://www.youtube.com/@ITVDN/playlists?view=1)
+## [Видеокурс по AngularJS Essential](https://www.youtube.com/playlist?list=PLvItDmb0sZw-9LXhYO9Ts8mToESWCr4e4)
+### [AngularJS Essential. Урок 3. Работа c DOM и валидация форм](https://www.youtube.com/watch?v=4t26bbeDjbI&amp;list=PLvItDmb0sZw-9LXhYO9Ts8mToESWCr4e4&amp;index=4)

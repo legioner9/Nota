@@ -1,0 +1,2 @@
+### [Django асинхронность на примере сайта | Django School](https://www.youtube.com/watch?v=mKoLjXX6QFY&amp;list=PLF-NY6ldwAWqGiTWqSyVUjh9W-PosoWpL&amp;index=1)
+### [Django 4 что нового? | Django School](https://www.youtube.com/watch?v=7eglg8pozYI&amp;list=PLF-NY6ldwAWqGiTWqSyVUjh9W-PosoWpL&amp;index=2)

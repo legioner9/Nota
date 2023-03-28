@@ -1,0 +1,3 @@
+# [Дни Решений](https://www.youtube.com/@teleinfoRU/playlists)
+## [GSM и VoIP (SIP) шлюзы](https://www.youtube.com/playlist?list=PLe8r5bEnvnZMDQWOdwiN7umy94me5RqUa)
+### [Как использовать GSM шлюз 2N для приёма и отправки СМС, активация лицензии Email2SMS](https://www.youtube.com/watch?v=El3wn2-74WI&amp;list=PLe8r5bEnvnZMDQWOdwiN7umy94me5RqUa&amp;index=21)

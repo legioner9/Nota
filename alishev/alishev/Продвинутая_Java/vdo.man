@@ -1,0 +1,5 @@
+### [Продвинутая Java: Динамический массив (ArrayList) - Введение](https://www.youtube.com/watch?v=QCjLMw988kQ&amp;list=PLAma_mKffTOTtGQEbqurDRoPwDEKzzZQA&amp;index=1)
+### [Продвинутая Java: Динамический массив (ArrayList) - Как устроен?](https://www.youtube.com/watch?v=lbvF7PwGyvY&amp;list=PLAma_mKffTOTtGQEbqurDRoPwDEKzzZQA&amp;index=2)
+### [Продвинутая Java: Введение в многопоточность в Java](https://www.youtube.com/watch?v=0Cdsk2BeNA8&amp;list=PLAma_mKffTOTtGQEbqurDRoPwDEKzzZQA&amp;index=3)
+### [Продвинутая Java: Ключевое слово volatile](https://www.youtube.com/watch?v=CI_rOvL-OTE&amp;list=PLAma_mKffTOTtGQEbqurDRoPwDEKzzZQA&amp;index=4)
+### [Продвинутая Java: Введение в тестирование. Модульное (Unit) тестирование.](https://www.youtube.com/watch?v=SZloaAlgFUY&amp;list=PLAma_mKffTOTtGQEbqurDRoPwDEKzzZQA&amp;index=5)

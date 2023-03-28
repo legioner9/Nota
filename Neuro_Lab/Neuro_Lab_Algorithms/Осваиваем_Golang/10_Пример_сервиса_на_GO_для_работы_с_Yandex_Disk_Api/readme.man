@@ -1,0 +1,3 @@
+# [Neuro Lab! Algorithms](https://www.youtube.com/@NeuroLabAlgorithms/playlists)
+## [Осваиваем Golang](https://www.youtube.com/playlist?list=PLHUicSITKZEmz2w3zo-aUpxCUZuqONE4c)
+### [Пример сервиса на GO для работы с Yandex Disk Api](https://www.youtube.com/watch?v=0C5hxmqH6-A&amp;list=PLHUicSITKZEmz2w3zo-aUpxCUZuqONE4c&amp;index=10)

@@ -1,0 +1,3 @@
+# [Дни Решений](https://www.youtube.com/@teleinfoRU/playlists)
+## [Система анализа xFlow OBSERVER GIGAFLOW](https://www.youtube.com/playlist?list=PLe8r5bEnvnZM14abdU17rU2qmrH_5rO9w)
+### [Анализ пакетных данных и данных xFlow в системе NPMD Observer Gigastor](https://www.youtube.com/watch?v=hzVUOeV9fjo&amp;list=PLe8r5bEnvnZM14abdU17rU2qmrH_5rO9w&amp;index=1)

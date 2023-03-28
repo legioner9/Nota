@@ -1,0 +1,3 @@
+# [luchanos](https://www.youtube.com/@luchanos/playlists?view=1&sort=dd&shelf_id=0)
+## [PYTEST ТЕСТИРОВАНИЕ](https://www.youtube.com/playlist?list=PLlKID9PnOE5hCuNW8L-qxC12U7WPWG6YS)
+### [ПИШЕМ ПРОСТОЙ PYTHON WEB-КЛИЕНТ (ЧТОБЫ ПОТОМ ПРОТЕСТИРОВАТЬ ЕГО С ПОМОЩЬЮ PYTEST)](https://www.youtube.com/watch?v=vmsG3N4N6mc&amp;list=PLlKID9PnOE5hCuNW8L-qxC12U7WPWG6YS&amp;index=3)

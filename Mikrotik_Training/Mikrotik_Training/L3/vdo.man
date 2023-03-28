@@ -1,0 +1,6 @@
+### [Firewall в Mikrotik: разбираем, как обеспечивать безопасность сети](https://www.youtube.com/watch?v=F8sf6NUzQHA&amp;list=PLg90hRDCH9A64F-fT6HVnlMC8-0z_W_fl&amp;index=1)
+### [WireGuard на Mikrotik: убийца OpenVPN, IPSec и других протоколов. Или нет?](https://www.youtube.com/watch?v=vol2f1PHyH8&amp;list=PLg90hRDCH9A64F-fT6HVnlMC8-0z_W_fl&amp;index=2)
+### [WireGuard на Mikrotik убийца OpenVPN, IPSec и других протоколов. Или нет?](https://www.youtube.com/watch?v=ONsaoGf_PSg&amp;list=PLg90hRDCH9A64F-fT6HVnlMC8-0z_W_fl&amp;index=3)
+### [OSPF маршрутизация в MikroTik](https://www.youtube.com/watch?v=B3nsNvklcZY&amp;list=PLg90hRDCH9A64F-fT6HVnlMC8-0z_W_fl&amp;index=4)
+### [Настройка ppp secret для подключения к PPP серверам на Mikrotik](https://www.youtube.com/watch?v=xcjAZ6lYvAo&amp;list=PLg90hRDCH9A64F-fT6HVnlMC8-0z_W_fl&amp;index=5)
+### [Современная Packet Flow Diagram](https://www.youtube.com/watch?v=tB8Xf3X5IQc&amp;list=PLg90hRDCH9A64F-fT6HVnlMC8-0z_W_fl&amp;index=6)

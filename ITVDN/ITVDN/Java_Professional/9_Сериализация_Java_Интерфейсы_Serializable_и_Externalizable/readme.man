@@ -1,0 +1,3 @@
+# [ITVDN](https://www.youtube.com/@ITVDN/playlists?view=1)
+## [Java Professional](https://www.youtube.com/playlist?list=PLvItDmb0sZw-NCZgLKsjtMQS8CvxN13II)
+### [Сериализация Java. Интерфейсы Serializable и Externalizable. Java Professional. Урок 9](https://www.youtube.com/watch?v=cSX7Dja12aw&amp;list=PLvItDmb0sZw-NCZgLKsjtMQS8CvxN13II&amp;index=9)

@@ -1,0 +1,3 @@
+# [Ulbi TV](https://www.youtube.com/@UlbiTV/playlists)
+## [Node JS](https://www.youtube.com/playlist?list=PL6DxKON1uLOEz4NoMVXoHXixotxo2CEDO)
+### [Node JS фундаментальный курс от А до Я. Node.js Теория и практика](https://www.youtube.com/watch?v=243pQXC5Ebs&amp;list=PL6DxKON1uLOEz4NoMVXoHXixotxo2CEDO&amp;index=12)

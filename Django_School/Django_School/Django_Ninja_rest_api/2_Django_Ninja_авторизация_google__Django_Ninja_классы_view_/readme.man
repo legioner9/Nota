@@ -1,0 +1,3 @@
+# [Django School](https://www.youtube.com/@DjangoSchool/playlists?view=1)
+## [Django Ninja rest api](https://www.youtube.com/playlist?list=PLF-NY6ldwAWrqI91iSRk0jqbhsYQlh1_Q)
+### [Django Ninja авторизация google | Django Ninja классы view | #2](https://www.youtube.com/watch?v=BdtByeyEIxE&amp;list=PLF-NY6ldwAWrqI91iSRk0jqbhsYQlh1_Q&amp;index=2)

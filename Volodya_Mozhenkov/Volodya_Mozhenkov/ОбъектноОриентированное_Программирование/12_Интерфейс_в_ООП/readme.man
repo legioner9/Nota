@@ -1,0 +1,3 @@
+# [Volodya Mozhenkov](https://www.youtube.com/@VladimirMozhenkov/playlists?view=1)
+## [Объектно-Ориентированное Программирование](https://www.youtube.com/playlist?list=PLY7PmJJFH5nRcWGKbgl9N7txM5YLtela6)
+### [Интерфейс в ООП](https://www.youtube.com/watch?v=cGCLDYqH7Pw&amp;list=PLY7PmJJFH5nRcWGKbgl9N7txM5YLtela6&amp;index=12)

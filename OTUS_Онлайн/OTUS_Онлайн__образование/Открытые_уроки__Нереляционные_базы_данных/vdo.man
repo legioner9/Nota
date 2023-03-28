@@ -1,0 +1,3 @@
+### [Кластерные возможности MongoDB // Демо-занятие курса «Нереляционные базы данных»](https://www.youtube.com/watch?v=KQqidRmWEks&amp;list=PLfnFOImnyWRWJyGt1QslSbB5a_CEp6hor&amp;index=1)
+### [Интенсив «MongoDB Map-Reduce Framework». День 2 // Демо занятие курса «NoSQL»](https://www.youtube.com/watch?v=GWHj2OcOwRI&amp;list=PLfnFOImnyWRWJyGt1QslSbB5a_CEp6hor&amp;index=2)
+### [Интенсив «MongoDB Map-Reduce Framework». День 1 // Демо занятие курса «NoSQL»](https://www.youtube.com/watch?v=JW0DTehRbWg&amp;list=PLfnFOImnyWRWJyGt1QslSbB5a_CEp6hor&amp;index=3)

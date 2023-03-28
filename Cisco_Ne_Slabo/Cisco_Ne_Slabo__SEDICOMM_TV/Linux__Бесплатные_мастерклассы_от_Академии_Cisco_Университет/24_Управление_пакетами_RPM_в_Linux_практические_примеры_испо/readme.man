@@ -1,0 +1,3 @@
+# [Cisco Ne Slabo / SEDICOMM TV](https://www.youtube.com/@cisconeslabo/playlists)
+## [Linux — Бесплатные мастер-классы от Академии Cisco Университет СЭДИКОММ](https://www.youtube.com/playlist?list=PLMiVLClzZDbTahs2dn-p7rwgadZwvbP7Y)
+### [Управление пакетами RPM в Linux, практические примеры использования](https://www.youtube.com/watch?v=fhcZc-xNZVE&amp;list=PLMiVLClzZDbTahs2dn-p7rwgadZwvbP7Y&amp;index=24)

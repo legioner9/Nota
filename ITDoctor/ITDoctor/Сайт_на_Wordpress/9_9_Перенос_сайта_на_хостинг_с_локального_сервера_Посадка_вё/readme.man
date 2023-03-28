@@ -1,0 +1,3 @@
+# [ITDoctor](https://www.youtube.com/@ITDoctor/playlists?view=1&sort=dd&shelf_id=0)
+## [Сайт на Wordpress](https://www.youtube.com/playlist?list=PLuY6eeDuleIPnp9VCtshQ1F5pPsRhpTws)
+### [#9 Перенос сайта на хостинг с локального сервера, Посадка вёрстки на Wordpress](https://www.youtube.com/watch?v=5r1Cgklsx9c&amp;list=PLuY6eeDuleIPnp9VCtshQ1F5pPsRhpTws&amp;index=9)

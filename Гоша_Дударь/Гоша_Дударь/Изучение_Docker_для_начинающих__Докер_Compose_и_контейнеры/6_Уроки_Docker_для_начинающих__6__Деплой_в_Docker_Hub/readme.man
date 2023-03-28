@@ -1,0 +1,3 @@
+# [Гоша Дударь](https://www.youtube.com/@gosha_dudar/playlists?view=1)
+## [Изучение Docker для начинающих / Докер Compose и контейнеры](https://www.youtube.com/playlist?list=PL0lO_mIqDDFX1c0JHogP5YuZdOVawoepS)
+### [Уроки Docker для начинающих / #6 – Деплой в Docker Hub](https://www.youtube.com/watch?v=k6tDraepW24&amp;list=PL0lO_mIqDDFX1c0JHogP5YuZdOVawoepS&amp;index=6)

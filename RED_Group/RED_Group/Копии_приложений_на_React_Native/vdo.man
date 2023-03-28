@@ -1,0 +1,5 @@
+### [Копия Тинькофф Банк на React Native (typescript, firebase, tailwind, dayjs)](https://www.youtube.com/watch?v=Ri-L4AkOhWs&amp;list=PLXkonRjGXZwyCKmtyLoJrOj347ouqZyPU&amp;index=1)
+### [Копия приложения WhatsApp за 2 часа на React Native + Firebase + React Navigation](https://www.youtube.com/watch?v=Ch0RwN424Ns&amp;list=PLXkonRjGXZwyCKmtyLoJrOj347ouqZyPU&amp;index=2)
+### [Копия приложения Сбербанк за 2 часа на React Native + Firebase](https://www.youtube.com/watch?v=Sd5hDBVOJ00&amp;list=PLXkonRjGXZwyCKmtyLoJrOj347ouqZyPU&amp;index=3)
+### [Делаю копию приложения McDonald’s на React Native с нуля](https://www.youtube.com/watch?v=dZy8GtKcz-Q&amp;list=PLXkonRjGXZwyCKmtyLoJrOj347ouqZyPU&amp;index=4)
+### [Делаю копию приложения OZON на React Native с нуля](https://www.youtube.com/watch?v=sDW-NQYEskM&amp;list=PLXkonRjGXZwyCKmtyLoJrOj347ouqZyPU&amp;index=5)

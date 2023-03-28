@@ -1,0 +1,3 @@
+# [ITDoctor](https://www.youtube.com/@ITDoctor/playlists?view=1&sort=dd&shelf_id=0)
+## [Bootstrap 5 уроки для начинающих](https://www.youtube.com/playlist?list=PLuY6eeDuleINmJ4DV22gtPL4--HQ49Df3)
+### [#6 Уроки по Bootstrap 5 - Адаптивные изображения на Bootstrap 5](https://www.youtube.com/watch?v=8SO1p5hiS7Q&amp;list=PLuY6eeDuleINmJ4DV22gtPL4--HQ49Df3&amp;index=6)

@@ -1,0 +1,3 @@
+# [Mikrotik Training](https://www.youtube.com/@MikrotikTraining/playlists)
+## [security](https://www.youtube.com/playlist?list=PLg90hRDCH9A7chPm1P-12ezpQf5NMCC3C)
+### [Firewall в Mikrotik: разбираем, как обеспечивать безопасность сети](https://www.youtube.com/watch?v=F8sf6NUzQHA&amp;list=PLg90hRDCH9A7chPm1P-12ezpQf5NMCC3C&amp;index=1)

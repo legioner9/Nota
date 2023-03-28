@@ -1,0 +1,3 @@
+# [RED Group](https://www.youtube.com/@REDGroup/playlists)
+## [Back End](https://www.youtube.com/playlist?list=PLXkonRjGXZwwil3SidT8o6XaubHL4JBXh)
+### [Правильный выбор базы данных [MySQL / PostgreSQL / MongoDB]](https://www.youtube.com/watch?v=06VLWRHp17E&amp;list=PLXkonRjGXZwwil3SidT8o6XaubHL4JBXh&amp;index=6)

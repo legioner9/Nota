@@ -1,0 +1,3 @@
+# [Bogdan Stashchuk](https://www.youtube.com/@Bogdan_Stashchuk/playlists)
+## [MongoDB CRUD Operations](https://www.youtube.com/playlist?list=PLWkguCWKqN9PbQhhsrewFd3TPuo3kLPQ1)
+### [MongoDB CRUD Operations: 15 Difference between Batch Size and Iterator Size](https://www.youtube.com/watch?v=ZDk9hu6mSDA&amp;list=PLWkguCWKqN9PbQhhsrewFd3TPuo3kLPQ1&amp;index=16)

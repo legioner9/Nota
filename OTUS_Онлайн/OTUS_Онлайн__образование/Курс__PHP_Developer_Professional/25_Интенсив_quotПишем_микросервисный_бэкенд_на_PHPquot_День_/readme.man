@@ -1,0 +1,3 @@
+# [OTUS Онлайн - образование](https://www.youtube.com/@otus_education/playlists)
+## [Курс | PHP Developer. Professional](https://www.youtube.com/playlist?list=PLfnFOImnyWRVMrvaNpPJJaLVbBS3JQjIm)
+### [Интенсив &quot;Пишем микросервисный бэкенд на PHP&quot;. День 2 // Занятие курса «PHP Developer  Professional»](https://www.youtube.com/watch?v=AOmjQRW3Lb0&amp;list=PLfnFOImnyWRVMrvaNpPJJaLVbBS3JQjIm&amp;index=25)

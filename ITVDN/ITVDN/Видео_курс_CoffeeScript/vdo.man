@@ -1,0 +1,5 @@
+### [Видео курс CoffeeScript. Урок 1. Введение в CoffeeScript](https://www.youtube.com/watch?v=AVzWyrd9J9M&amp;list=PLvItDmb0sZw8ps2tq0qrhFWBwkS_dltUd&amp;index=1)
+### [Видео курс CoffeeScript. Урок 2. Управляющие конструкции](https://www.youtube.com/watch?v=ip5gYeCKj7g&amp;list=PLvItDmb0sZw8ps2tq0qrhFWBwkS_dltUd&amp;index=2)
+### [Видео курс CoffeeScript. Урок 3. Функции](https://www.youtube.com/watch?v=H80wdjJ0jmk&amp;list=PLvItDmb0sZw8ps2tq0qrhFWBwkS_dltUd&amp;index=3)
+### [Видео курс CoffeeScript. Урок 4. Коллекции и итерации](https://www.youtube.com/watch?v=e2rcSGJDVCc&amp;list=PLvItDmb0sZw8ps2tq0qrhFWBwkS_dltUd&amp;index=4)
+### [Видео курс CoffeeScript. Урок 5. Классы](https://www.youtube.com/watch?v=E_cZter90-s&amp;list=PLvItDmb0sZw8ps2tq0qrhFWBwkS_dltUd&amp;index=5)

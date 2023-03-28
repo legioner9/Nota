@@ -1,0 +1,3 @@
+# [ITVDN](https://www.youtube.com/@ITVDN/playlists?view=1)
+## [Видеокурс по ASP.NET Advanced](https://www.youtube.com/playlist?list=PLvItDmb0sZw_TRwlGr0BVFtS-sP3YaDMU)
+### [ASP.NET Advanced. Урок 7. Кэширование данных](https://www.youtube.com/watch?v=ByZEa83ezgQ&amp;list=PLvItDmb0sZw_TRwlGr0BVFtS-sP3YaDMU&amp;index=7)

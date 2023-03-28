@@ -1,0 +1,3 @@
+# [JavaScript.Ninja](https://www.youtube.com/@JavaScriptNinja/playlists)
+## [Deploy](https://www.youtube.com/playlist?list=PLvTBThJr861yRiGrXAeMO3qmqn69oxAQR)
+### [Введение - Deploy](https://www.youtube.com/watch?v=o05rXQ5bwCk&amp;list=PLvTBThJr861yRiGrXAeMO3qmqn69oxAQR&amp;index=1)

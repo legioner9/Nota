@@ -1,0 +1,3 @@
+# [PythonToday](https://www.youtube.com/@PythonToday/playlists)
+## [Python Selenium Tutorial](https://www.youtube.com/playlist?list=PLqGS6O1-DZLp1kgiQNpueIMCHRNzgHa1r)
+### [Python Selenium #3 Установка и работа с proxy в Selenium Chrome и Firefox WebDriver](https://www.youtube.com/watch?v=sZcs5eNT4Cc&amp;list=PLqGS6O1-DZLp1kgiQNpueIMCHRNzgHa1r&amp;index=4)

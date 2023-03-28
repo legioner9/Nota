@@ -1,0 +1,3 @@
+# [RomNero](https://www.youtube.com/@RomNero/playlists)
+## [AWX/Tower. Ansible.](https://www.youtube.com/playlist?list=PLqVeG_R3qMSza1YnuD8owbskkieBx7bcs)
+### [02-Ansible AWX. Подключение проекта. Настройка и запуск.](https://www.youtube.com/watch?v=zasg9pwoTdM&amp;list=PLqVeG_R3qMSza1YnuD8owbskkieBx7bcs&amp;index=2)

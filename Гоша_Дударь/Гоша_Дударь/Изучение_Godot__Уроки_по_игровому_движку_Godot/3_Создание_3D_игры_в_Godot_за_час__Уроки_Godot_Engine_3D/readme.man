@@ -1,0 +1,3 @@
+# [Гоша Дударь](https://www.youtube.com/@gosha_dudar/playlists?view=1)
+## [Изучение Godot / Уроки по игровому движку Godot](https://www.youtube.com/playlist?list=PL0lO_mIqDDFXet3wlhUkx-OixV19IAYYz)
+### [Создание 3D игры в Godot за час / Уроки Godot Engine 3D](https://www.youtube.com/watch?v=-maL9z-WSOk&amp;list=PL0lO_mIqDDFXet3wlhUkx-OixV19IAYYz&amp;index=3)

@@ -1,0 +1,3 @@
+# [egoroff_channel](https://www.youtube.com/@egoroffchannel/playlists)
+## [Pygame](https://www.youtube.com/playlist?list=PLQAt0m1f9OHsMP67JNONOMh13dw_UHf52)
+### [Перемещение текста по экрану Pygame](https://www.youtube.com/watch?v=ZijAA7zjJCo&amp;list=PLQAt0m1f9OHsMP67JNONOMh13dw_UHf52&amp;index=4)

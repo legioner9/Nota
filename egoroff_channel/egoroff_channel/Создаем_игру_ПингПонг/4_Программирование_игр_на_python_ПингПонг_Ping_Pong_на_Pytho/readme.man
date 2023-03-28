@@ -1,0 +1,3 @@
+# [egoroff_channel](https://www.youtube.com/@egoroffchannel/playlists)
+## [Создаем игру "Пинг-Понг"](https://www.youtube.com/playlist?list=PLQAt0m1f9OHt4G8G016AJOQuX4u1MekE-)
+### [Программирование игр на python. Пинг-Понг (Ping Pong) на Python Часть 4](https://www.youtube.com/watch?v=l25nSvtYLaY&amp;list=PLQAt0m1f9OHt4G8G016AJOQuX4u1MekE-&amp;index=4)

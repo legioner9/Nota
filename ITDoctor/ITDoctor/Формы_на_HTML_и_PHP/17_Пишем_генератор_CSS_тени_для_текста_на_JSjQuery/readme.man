@@ -1,0 +1,3 @@
+# [ITDoctor](https://www.youtube.com/@ITDoctor/playlists?view=1&sort=dd&shelf_id=0)
+## [Формы на HTML и PHP](https://www.youtube.com/playlist?list=PLuY6eeDuleIOvzLBfgqsZKJJjphb-wugA)
+### [Пишем генератор CSS тени для текста на JS+jQuery](https://www.youtube.com/watch?v=NCYdVU-43IU&amp;list=PLuY6eeDuleIOvzLBfgqsZKJJjphb-wugA&amp;index=17)

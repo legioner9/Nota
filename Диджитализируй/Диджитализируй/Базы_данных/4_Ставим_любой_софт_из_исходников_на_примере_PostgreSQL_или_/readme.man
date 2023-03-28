@@ -1,0 +1,3 @@
+# [Диджитализируй!](https://www.youtube.com/@t0digital/playlists)
+## [Базы данных](https://www.youtube.com/playlist?list=PLAk6CfuV7hyqcOpV5k7XeEpigQWJp3n3F)
+### [Ставим любой софт из исходников на примере PostgreSQL или когда пакетного менеджера мало](https://www.youtube.com/watch?v=Y_bker96mK8&amp;list=PLAk6CfuV7hyqcOpV5k7XeEpigQWJp3n3F&amp;index=4)

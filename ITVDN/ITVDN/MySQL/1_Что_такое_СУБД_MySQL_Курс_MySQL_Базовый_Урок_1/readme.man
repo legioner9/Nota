@@ -1,0 +1,3 @@
+# [ITVDN](https://www.youtube.com/@ITVDN/playlists?view=1)
+## [MySQL](https://www.youtube.com/playlist?list=PLvItDmb0sZw9-yTHNWpfXDyPPg8aXYb-B)
+### [Что такое СУБД MySQL? Курс MySQL Базовый. Урок 1](https://www.youtube.com/watch?v=24J-3YBEJwI&amp;list=PLvItDmb0sZw9-yTHNWpfXDyPPg8aXYb-B&amp;index=1)

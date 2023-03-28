@@ -1,0 +1,3 @@
+# [ITVDN](https://www.youtube.com/@ITVDN/playlists?view=1)
+## [Scala Essential](https://www.youtube.com/playlist?list=PLvItDmb0sZw971R963pXcqAJGIq4AJ0Zr)
+### [Зачем учить Scala? Плюсы и минусы Scala.](https://www.youtube.com/watch?v=vLw9UR1R0AA&amp;list=PLvItDmb0sZw971R963pXcqAJGIq4AJ0Zr&amp;index=2)

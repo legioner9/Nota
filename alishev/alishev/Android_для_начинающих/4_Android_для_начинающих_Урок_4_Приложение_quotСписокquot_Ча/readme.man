@@ -1,0 +1,3 @@
+# [alishev](https://www.youtube.com/@alishevN/playlists)
+## [Android для начинающих](https://www.youtube.com/playlist?list=PLAma_mKffTOT_bGrVruy1_JxkFLjh5sfF)
+### [Android для начинающих. Урок 4: Приложение &quot;Список&quot; (Часть 2). Компонент ScrollView.](https://www.youtube.com/watch?v=9Sm0V7uXTAQ&amp;list=PLAma_mKffTOT_bGrVruy1_JxkFLjh5sfF&amp;index=4)

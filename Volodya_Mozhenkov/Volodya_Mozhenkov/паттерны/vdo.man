@@ -1,0 +1,6 @@
+### [Singleton - избегайте его](https://www.youtube.com/watch?v=-AlFSe_K27A&amp;list=PLY7PmJJFH5nTKZtGIkO1vUDVd45FaifBy&amp;index=1)
+### [Singleton на C++11](https://www.youtube.com/watch?v=2M66Uy_NrjM&amp;list=PLY7PmJJFH5nTKZtGIkO1vUDVd45FaifBy&amp;index=2)
+### [Фабричный метод](https://www.youtube.com/watch?v=5UqUDR6_2cY&amp;list=PLY7PmJJFH5nTKZtGIkO1vUDVd45FaifBy&amp;index=3)
+### [Абстрактная Фабрика](https://www.youtube.com/watch?v=1mVONOCxfLg&amp;list=PLY7PmJJFH5nTKZtGIkO1vUDVd45FaifBy&amp;index=4)
+### [Простая фабрика](https://www.youtube.com/watch?v=_5f2zs-8e04&amp;list=PLY7PmJJFH5nTKZtGIkO1vUDVd45FaifBy&amp;index=5)
+### [Паттерн Декоратор](https://www.youtube.com/watch?v=Lwb9bm8yKD0&amp;list=PLY7PmJJFH5nTKZtGIkO1vUDVd45FaifBy&amp;index=6)

@@ -1,0 +1,6 @@
+### [Что такое Vue.js? Vue.js с нуля. Урок 1](https://www.youtube.com/watch?v=ZuPvPM2EwKw&amp;list=PLvItDmb0sZw_PB1IviJaK6AHxFxXTxXyC&amp;index=1)
+### [Формы. Vue.js с нуля. Урок 2](https://www.youtube.com/watch?v=Mq048ea0OTs&amp;list=PLvItDmb0sZw_PB1IviJaK6AHxFxXTxXyC&amp;index=2)
+### [Условное отображение данных. Vue.js с нуля. Урок 3](https://www.youtube.com/watch?v=dwzdS1TU71M&amp;list=PLvItDmb0sZw_PB1IviJaK6AHxFxXTxXyC&amp;index=3)
+### [Компоненты в Vue.js. Vue.js с нуля. Урок 4](https://www.youtube.com/watch?v=wtu-n8qwcZ4&amp;list=PLvItDmb0sZw_PB1IviJaK6AHxFxXTxXyC&amp;index=4)
+### [Анимации и переходы. Vue.js с нуля. Урок 5](https://www.youtube.com/watch?v=5JQJrak05Yc&amp;list=PLvItDmb0sZw_PB1IviJaK6AHxFxXTxXyC&amp;index=5)
+### [Маршрутизация в Vue.js. Vue.js с нуля. Урок 6](https://www.youtube.com/watch?v=1ie6WWeQ7a0&amp;list=PLvItDmb0sZw_PB1IviJaK6AHxFxXTxXyC&amp;index=6)

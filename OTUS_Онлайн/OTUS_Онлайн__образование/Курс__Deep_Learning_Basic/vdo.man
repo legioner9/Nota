@@ -1,0 +1,5 @@
+### [Метод максимального правдоподобия // Демо-занятие курса «Deep Learning. Basic»](https://www.youtube.com/watch?v=vxrZD6nH7K4&amp;list=PLfnFOImnyWRW_DaV6NIco2uv-H6tL9L64&amp;index=1)
+### [Knowledge distillation: нейросети обучают нейросети // Демо-занятие курса «Deep Learning  Basic»](https://www.youtube.com/watch?v=GtFhOOiK5Ec&amp;list=PLfnFOImnyWRW_DaV6NIco2uv-H6tL9L64&amp;index=2)
+### [Demo Day курсов «Компьютерное зрение»  и «Deep Learning. Basic»](https://www.youtube.com/watch?v=c0kefWNbkjc&amp;list=PLfnFOImnyWRW_DaV6NIco2uv-H6tL9L64&amp;index=3)
+### [Transfer learning при помощи перемежающейся тренировки // Демо-занятие курса «Deep Learning. Basic»](https://www.youtube.com/watch?v=yePff8Wqzr8&amp;list=PLfnFOImnyWRW_DaV6NIco2uv-H6tL9L64&amp;index=4)
+### [Demo Day курсов «Deep Learning Basic» и «Computer Vision»](https://www.youtube.com/watch?v=2VIA29GErZY&amp;list=PLfnFOImnyWRW_DaV6NIco2uv-H6tL9L64&amp;index=5)

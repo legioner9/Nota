@@ -1,0 +1,3 @@
+# [Ulbi TV](https://www.youtube.com/@UlbiTV/playlists)
+## [React Redux Webpack - практический курс.](https://www.youtube.com/playlist?list=PL6DxKON1uLOHTgN679Es1vkCS911i9HJX)
+### [5. React Redux - Главная страница. Axios - асинхронные запросы на API GitHub](https://www.youtube.com/watch?v=tODggNhelQ4&amp;list=PL6DxKON1uLOHTgN679Es1vkCS911i9HJX&amp;index=5)

@@ -1,0 +1,3 @@
+# [OTUS Онлайн - образование](https://www.youtube.com/@otus_education/playlists)
+## [Визитки преподавателей OTUS](https://www.youtube.com/playlist?list=PLfnFOImnyWRXo8XC5RI9JV4o0pcafuJq0)
+### [CI/CD на AWS, Azure и Gitlab // Игорь Саблин о курсе OTUS](https://www.youtube.com/watch?v=pjC15j-N_9g&amp;list=PLfnFOImnyWRXo8XC5RI9JV4o0pcafuJq0&amp;index=2)

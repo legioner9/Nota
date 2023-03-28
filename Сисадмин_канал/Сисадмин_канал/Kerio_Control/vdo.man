@@ -1,0 +1,7 @@
+### [Kerio Control не открывает некоторые сайты. Настройка доступа. Предотвращение вторжений](https://www.youtube.com/watch?v=vt4BitjFIpw&amp;list=PL1pvuHxj7HgSPe8SG7Q20JRpzWZGseUom&amp;index=1)
+### [Kerio Control настройка правила для RDP доступа с пробросом портов](https://www.youtube.com/watch?v=wqlb0OR-H7U&amp;list=PL1pvuHxj7HgSPe8SG7Q20JRpzWZGseUom&amp;index=2)
+### [Kerio Control блокировка сайтов БЕЗ web-фильтра. Вконтакте, одноклассники, ютуб и т.д.](https://www.youtube.com/watch?v=RIOIxNQCmSc&amp;list=PL1pvuHxj7HgSPe8SG7Q20JRpzWZGseUom&amp;index=3)
+### [Kerio Control ограничение скорости загрузки. Управление полосой пропускания](https://www.youtube.com/watch?v=dLjlFy6Eq6k&amp;list=PL1pvuHxj7HgSPe8SG7Q20JRpzWZGseUom&amp;index=4)
+### [Kerio Control разрешаем сайты пользователям. Доступ только к одному сайту. Фильтрация содержимого.](https://www.youtube.com/watch?v=ZxcLgFc9lis&amp;list=PL1pvuHxj7HgSPe8SG7Q20JRpzWZGseUom&amp;index=5)
+### [Kerio Control установка и первоначальная настройка](https://www.youtube.com/watch?v=r2W7bnDnTO4&amp;list=PL1pvuHxj7HgSPe8SG7Q20JRpzWZGseUom&amp;index=6)
+### [Kerio Control бэкап конфигурации сервера средствами FTP](https://www.youtube.com/watch?v=QpP51kSlQLY&amp;list=PL1pvuHxj7HgSPe8SG7Q20JRpzWZGseUom&amp;index=7)

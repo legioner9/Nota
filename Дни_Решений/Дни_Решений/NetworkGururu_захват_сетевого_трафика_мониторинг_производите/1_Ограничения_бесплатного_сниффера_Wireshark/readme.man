@@ -1,0 +1,3 @@
+# [Дни Решений](https://www.youtube.com/@teleinfoRU/playlists)
+## [NetworkGuru.ru: захват сетевого трафика, мониторинг производительности сетей и приложений, информационная безопасность](https://www.youtube.com/playlist?list=PLe8r5bEnvnZN0HTLGH-nxUJZd0h_eOq7g)
+### [Ограничения бесплатного сниффера Wireshark](https://www.youtube.com/watch?v=qIJp2TE7K28&amp;list=PLe8r5bEnvnZN0HTLGH-nxUJZd0h_eOq7g&amp;index=1)

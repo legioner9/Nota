@@ -1,0 +1,3 @@
+# [RED Group](https://www.youtube.com/@REDGroup/playlists)
+## [Angular](https://www.youtube.com/playlist?list=PLXkonRjGXZwxKzElHsJ-fVlrHpW1sjl7P)
+### [🦁 Svelte с нуля за 5 часов! Svelte js урок для начинающих + TypeScript - RED Test](https://www.youtube.com/watch?v=ZMOdvPXP1iY&amp;list=PLXkonRjGXZwxKzElHsJ-fVlrHpW1sjl7P&amp;index=2)

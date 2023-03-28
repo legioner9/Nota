@@ -1,0 +1,3 @@
+# [DevOps](https://www.youtube.com/@Devops_Youtube_Channel/playlists)
+## [Git](https://www.youtube.com/playlist?list=PLkKSgP0nEL0Cd50vp3CbfnCGtqJfxBCIr)
+### [8. Как разрешить конфликтов во время обновлении репозитория? /git/ git conflict/ git pull/ git clone](https://www.youtube.com/watch?v=Zf0WFGA7d6A&amp;list=PLkKSgP0nEL0Cd50vp3CbfnCGtqJfxBCIr&amp;index=8)

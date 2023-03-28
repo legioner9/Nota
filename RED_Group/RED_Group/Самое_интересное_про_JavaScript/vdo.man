@@ -1,0 +1,3 @@
+### [10 самых популярных Javasript методов для массивов // Reduce, Flat, Concat, Foreach...](https://www.youtube.com/watch?v=i2lYRE0GxVQ&amp;list=PLXkonRjGXZwxs5qD1M0UuNzgSLvoQHH-F&amp;index=1)
+### [Ввод только цифр в поле input на JavaScript + вариант на HTML // Регулярное выражение JS](https://www.youtube.com/watch?v=TrGSSfDagF8&amp;list=PLXkonRjGXZwxs5qD1M0UuNzgSLvoQHH-F&amp;index=2)
+### [Научись писать красивый и чистый JavaScript код // Clean vanilla JavaScript](https://www.youtube.com/watch?v=cg_MDUe7xMw&amp;list=PLXkonRjGXZwxs5qD1M0UuNzgSLvoQHH-F&amp;index=3)

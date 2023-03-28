@@ -1,0 +1,3 @@
+# [OTUS Онлайн - образование](https://www.youtube.com/@otus_education/playlists)
+## [Курс | Java QA Engineer. Professional](https://www.youtube.com/playlist?list=PLfnFOImnyWRXU9a_6i_05hXRDcHPMZp1a)
+### [Что такое CI/CD, обзор популярных серверов и практика в Jenkins&quot; День 1](https://www.youtube.com/watch?v=p_ZYvkTHiTI&amp;list=PLfnFOImnyWRXU9a_6i_05hXRDcHPMZp1a&amp;index=16)

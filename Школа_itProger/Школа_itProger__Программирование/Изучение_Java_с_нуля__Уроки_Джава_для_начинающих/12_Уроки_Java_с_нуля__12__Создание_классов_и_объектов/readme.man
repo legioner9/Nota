@@ -1,0 +1,3 @@
+# [Школа itProger / Программирование](https://www.youtube.com/@itproger/playlists?view=1)
+## [Изучение Java с нуля / Уроки Джава для начинающих](https://www.youtube.com/playlist?list=PLDyJYA6aTY1lT614ixLYq48har7EnCXpk)
+### [Уроки Java с нуля / #12 – Создание классов и объектов](https://www.youtube.com/watch?v=7UJyp2A5lQ8&amp;list=PLDyJYA6aTY1lT614ixLYq48har7EnCXpk&amp;index=12)

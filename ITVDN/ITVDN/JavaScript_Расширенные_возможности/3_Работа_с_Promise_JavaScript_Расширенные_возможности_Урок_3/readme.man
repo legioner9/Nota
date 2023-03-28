@@ -1,0 +1,3 @@
+# [ITVDN](https://www.youtube.com/@ITVDN/playlists?view=1)
+## [JavaScript: Расширенные возможности](https://www.youtube.com/playlist?list=PLvItDmb0sZw87LktiSdDqhzKv6IyCOs6N)
+### [Работа с Promise. JavaScript: Расширенные возможности. Урок 3](https://www.youtube.com/watch?v=mJsqdO-uZk8&amp;list=PLvItDmb0sZw87LktiSdDqhzKv6IyCOs6N&amp;index=3)

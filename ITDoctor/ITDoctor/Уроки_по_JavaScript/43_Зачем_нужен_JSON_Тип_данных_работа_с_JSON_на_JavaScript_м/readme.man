@@ -1,0 +1,3 @@
+# [ITDoctor](https://www.youtube.com/@ITDoctor/playlists?view=1&sort=dd&shelf_id=0)
+## [Уроки по JavaScript](https://www.youtube.com/playlist?list=PLuY6eeDuleINjS4_G7KuYThU_T4uzpAuG)
+### [Зачем нужен JSON Тип данных, работа с JSON на JavaScript метод JSON.parse() и метод JSON.stingify()](https://www.youtube.com/watch?v=3xaN1tDdkF4&amp;list=PLuY6eeDuleINjS4_G7KuYThU_T4uzpAuG&amp;index=43)

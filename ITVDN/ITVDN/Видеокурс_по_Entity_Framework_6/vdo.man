@@ -1,0 +1,5 @@
+### [Entity Framework 6 видео урок - Введение](https://www.youtube.com/watch?v=2YaIfvlRiWY&amp;list=PLvItDmb0sZw9FohaaH2utnCloyM_fqYhN&amp;index=1)
+### [Entity Framework 6. Видео урок 2. Основы Entity Framework](https://www.youtube.com/watch?v=_kXjxMjQnZI&amp;list=PLvItDmb0sZw9FohaaH2utnCloyM_fqYhN&amp;index=2)
+### [Entity Framework 6. Видео урок 3. Особенности LINQ](https://www.youtube.com/watch?v=cegC6eaR0Ts&amp;list=PLvItDmb0sZw9FohaaH2utnCloyM_fqYhN&amp;index=3)
+### [Entity Framework 6. Видео урок 4. Fluent API &amp; Data Annotations](https://www.youtube.com/watch?v=CK4AakifTfw&amp;list=PLvItDmb0sZw9FohaaH2utnCloyM_fqYhN&amp;index=4)
+### [Entity Framework 6. Видео урок 5. Наследование и асинхронность](https://www.youtube.com/watch?v=Sfachk2wHjQ&amp;list=PLvItDmb0sZw9FohaaH2utnCloyM_fqYhN&amp;index=5)

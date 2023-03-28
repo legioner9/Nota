@@ -1,0 +1,3 @@
+# [Mikrotik Training](https://www.youtube.com/@MikrotikTraining/playlists)
+## [short](https://www.youtube.com/playlist?list=PLg90hRDCH9A7HkDxJYAnDn4VRnnMKL5tB)
+### [Port Knocking в Mikrotik Firewall Filter](https://www.youtube.com/watch?v=0pBEJ-imxTY&amp;list=PLg90hRDCH9A7HkDxJYAnDn4VRnnMKL5tB&amp;index=14)

@@ -1,0 +1,3 @@
+# [Mikrotik Training](https://www.youtube.com/@MikrotikTraining/playlists)
+## [short](https://www.youtube.com/playlist?list=PLg90hRDCH9A7HkDxJYAnDn4VRnnMKL5tB)
+### [Настройка точки доступа Wi Fi на Mikrotik RouterOS](https://www.youtube.com/watch?v=-K7xFrEeDt4&amp;list=PLg90hRDCH9A7HkDxJYAnDn4VRnnMKL5tB&amp;index=24)

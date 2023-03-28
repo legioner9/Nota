@@ -1,0 +1,3 @@
+# [DevOps](https://www.youtube.com/@Devops_Youtube_Channel/playlists)
+## [Мониторинговые системы (Nagios)](https://www.youtube.com/playlist?list=PLkKSgP0nEL0CjQykh2nX-sp5z2C1Io4Ni)
+### [2.  Как добавить Linux Host в Nagios Core 4.4.6 ?  / Nagio / Linux Host](https://www.youtube.com/watch?v=wgRWEQ8k0Bg&amp;list=PLkKSgP0nEL0CjQykh2nX-sp5z2C1Io4Ni&amp;index=2)

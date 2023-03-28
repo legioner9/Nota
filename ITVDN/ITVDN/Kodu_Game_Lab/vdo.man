@@ -1,0 +1,6 @@
+### [Разработка игр на Kodu](https://www.youtube.com/watch?v=WPV7EbnGcDY&amp;list=PLvItDmb0sZw9FxJukMRTNUojKfhfayF8Z&amp;index=1)
+### [Разработка игр на Kodu Game Lab. Урок 1. Введение](https://www.youtube.com/watch?v=wmlBwaI9giQ&amp;list=PLvItDmb0sZw9FxJukMRTNUojKfhfayF8Z&amp;index=2)
+### [Разработка игр на Kodu Game Lab. Урок 2. Разбор основ](https://www.youtube.com/watch?v=JbR0YrQX5Y8&amp;list=PLvItDmb0sZw9FxJukMRTNUojKfhfayF8Z&amp;index=3)
+### [Разработка игр на Kodu Game Lab. Урок 3. Использование Скриптов](https://www.youtube.com/watch?v=fPqlBGMNm4c&amp;list=PLvItDmb0sZw9FxJukMRTNUojKfhfayF8Z&amp;index=4)
+### [Разработка игр на Kodu Game Lab. Урок 4. Создание программы](https://www.youtube.com/watch?v=jxszNLwDWxU&amp;list=PLvItDmb0sZw9FxJukMRTNUojKfhfayF8Z&amp;index=5)
+### [Разработка игр на Kodu Game Lab. Урок 5. Подведение итогов](https://www.youtube.com/watch?v=HWkp6LzAz-4&amp;list=PLvItDmb0sZw9FxJukMRTNUojKfhfayF8Z&amp;index=6)

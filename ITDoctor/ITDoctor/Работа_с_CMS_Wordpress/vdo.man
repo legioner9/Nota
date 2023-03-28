@@ -1,0 +1,5 @@
+### [Как сделать Landing Page за 30 минут на Wordpress | Llorix One Lite](https://www.youtube.com/watch?v=b7GMG-Ht_E0&amp;list=PLuY6eeDuleIPgHRvtoFnIxSxyTt6vKGpi&amp;index=1)
+### [Как создать форму на Wordpress Плагин Pirate Forms](https://www.youtube.com/watch?v=D0dxvx-G0uY&amp;list=PLuY6eeDuleIPgHRvtoFnIxSxyTt6vKGpi&amp;index=2)
+### [Что нового в Wordpress 5.0, Изменения в обновленной версии](https://www.youtube.com/watch?v=KV4dCnTMV7o&amp;list=PLuY6eeDuleIPgHRvtoFnIxSxyTt6vKGpi&amp;index=3)
+### [Обзор плагина CPT UI для Wordpress, Создание custom post type на Wordpress](https://www.youtube.com/watch?v=kfwi5RVbXcs&amp;list=PLuY6eeDuleIPgHRvtoFnIxSxyTt6vKGpi&amp;index=4)
+### [Как установить WordPress локально на компьютер, Установка WordPress 6.0 на OpenServer](https://www.youtube.com/watch?v=TJFfTW6hsDw&amp;list=PLuY6eeDuleIPgHRvtoFnIxSxyTt6vKGpi&amp;index=5)

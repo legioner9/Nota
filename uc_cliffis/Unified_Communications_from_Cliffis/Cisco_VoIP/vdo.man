@@ -1,0 +1,7 @@
+### [Установка CUCM - очень просто!!!](https://www.youtube.com/watch?v=k-_sPeJoZdQ&amp;list=PLQkhRYZT7TCkSsxGb2V47CQq4g65j6nxW&amp;index=1)
+### [Установка Cisco IM &amp; Presence (IM&amp;P) - очень просто!!!](https://www.youtube.com/watch?v=MiQr5-XIhdY&amp;list=PLQkhRYZT7TCkSsxGb2V47CQq4g65j6nxW&amp;index=2)
+### [Регистрация телефона Yealink на Cisco UCM(CUCM) - проще простого!](https://www.youtube.com/watch?v=A4Ea9VDzEfE&amp;list=PLQkhRYZT7TCkSsxGb2V47CQq4g65j6nxW&amp;index=3)
+### [Recovery Cisco IM &amp; Presence (IM&amp;P) - очень просто!!!](https://www.youtube.com/watch?v=Pg2P-pIPxQw&amp;list=PLQkhRYZT7TCkSsxGb2V47CQq4g65j6nxW&amp;index=4)
+### [Обновление Devicepack или как подключить новую линейку оборудования к старому CUCM - очень просто!!!](https://www.youtube.com/watch?v=IcCTuhmced4&amp;list=PLQkhRYZT7TCkSsxGb2V47CQq4g65j6nxW&amp;index=5)
+### [Настройка Backup у CUCM - очень просто!!!](https://www.youtube.com/watch?v=VhC9bd0NQZM&amp;list=PLQkhRYZT7TCkSsxGb2V47CQq4g65j6nxW&amp;index=6)
+### [Настройка SIP Trunk между Asterisk и CUCM - очень просто!!!](https://www.youtube.com/watch?v=k1N-6R-XRIw&amp;list=PLQkhRYZT7TCkSsxGb2V47CQq4g65j6nxW&amp;index=7)

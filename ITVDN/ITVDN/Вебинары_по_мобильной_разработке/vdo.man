@@ -1,0 +1,5 @@
+### [ОС Android. Введение в разработку мобильных приложений.](https://www.youtube.com/watch?v=Ofxu6How6uM&amp;list=PLvItDmb0sZw_V84CNdTBdoyBq8913xC4E&amp;index=1)
+### [Хранение данных в Android](https://www.youtube.com/watch?v=lMUglsu42yM&amp;list=PLvItDmb0sZw_V84CNdTBdoyBq8913xC4E&amp;index=2)
+### [Создание API на PHP и JavaScirpt для трансляции игры Lines в браузере](https://www.youtube.com/watch?v=YJdZNBxgnPg&amp;list=PLvItDmb0sZw_V84CNdTBdoyBq8913xC4E&amp;index=3)
+### [Создание игры &quot;Три в ряд&quot; на C# и Unity для Android | Создали Candy Crush используя С# и Unity!](https://www.youtube.com/watch?v=yEr254YlaSk&amp;list=PLvItDmb0sZw_V84CNdTBdoyBq8913xC4E&amp;index=4)
+### [Разработка под Android. Современные подходы и перспективы](https://www.youtube.com/watch?v=GPqE-ceUQxM&amp;list=PLvItDmb0sZw_V84CNdTBdoyBq8913xC4E&amp;index=5)

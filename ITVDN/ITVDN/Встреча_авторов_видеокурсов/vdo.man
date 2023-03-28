@@ -1,0 +1,4 @@
+### [Андрей Сташук, JavaScript разработчик, Swivl](https://www.youtube.com/watch?v=xXtjLuJ_v50&amp;list=PLvItDmb0sZw8fTEkZ7RHzzn-B9SBpmJsX&amp;index=1)
+### [&quot;Если вы выбрали свой путь, важно не сдаваться на полпути.&quot; Вадим Смиюн](https://www.youtube.com/watch?v=lmtBKPbcRJk&amp;list=PLvItDmb0sZw8fTEkZ7RHzzn-B9SBpmJsX&amp;index=2)
+### [Илья Железный рассказал о профессиональной жизни fullstack разработчика](https://www.youtube.com/watch?v=O9gPo50dETs&amp;list=PLvItDmb0sZw8fTEkZ7RHzzn-B9SBpmJsX&amp;index=3)
+### [Java разработчик Евгений Тихонов: практика - самое главное!](https://www.youtube.com/watch?v=sHvYXazjA9c&amp;list=PLvItDmb0sZw8fTEkZ7RHzzn-B9SBpmJsX&amp;index=4)

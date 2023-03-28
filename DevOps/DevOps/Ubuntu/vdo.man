@@ -1,0 +1,7 @@
+### [1. Как установить Ubuntu 20.04 Server на VMware Workstation 16 Pro ?  / Ubuntu Server 20.04 / VMware](https://www.youtube.com/watch?v=8H0Gt5YRILc&amp;list=PLkKSgP0nEL0BpOAxQMeJNMcBIiWm7JXur&amp;index=1)
+### [2.  Как узнать какие порты открыты в Linux ? / Порты / Linux / Netstat / ss / lsof / Nmap](https://www.youtube.com/watch?v=fjpxR6i0nz8&amp;list=PLkKSgP0nEL0BpOAxQMeJNMcBIiWm7JXur&amp;index=2)
+### [3. Как анализировать входящие и исходящие данные в Linux ? /tcpdump / запись в файл / Wireshark](https://www.youtube.com/watch?v=ONiQiz33vWw&amp;list=PLkKSgP0nEL0BpOAxQMeJNMcBIiWm7JXur&amp;index=3)
+### [4. Установка UFW Firewall в LINUX / UFW firewall / Linux / install](https://www.youtube.com/watch?v=kUmYIcx7BDM&amp;list=PLkKSgP0nEL0BpOAxQMeJNMcBIiWm7JXur&amp;index=4)
+### [5.  Как изменить дефолтный порт 22 на любой другой в Linux ?  / ssh / 22 / port / Linux](https://www.youtube.com/watch?v=yZy39fU6Jl0&amp;list=PLkKSgP0nEL0BpOAxQMeJNMcBIiWm7JXur&amp;index=5)
+### [6. Как быстро поднять Ubntu 22.04 Server ? /Ubuntu 22.04 Server/ Install/ VmWare Workstation/](https://www.youtube.com/watch?v=XlVfvFjOvV0&amp;list=PLkKSgP0nEL0BpOAxQMeJNMcBIiWm7JXur&amp;index=6)
+### [7. Как правильно поднять Linux с LVM-ом за пару минут ?  / LINUX/ LVM/ install/ Ubuntu/ CentOS](https://www.youtube.com/watch?v=MnAv-SXUdig&amp;list=PLkKSgP0nEL0BpOAxQMeJNMcBIiWm7JXur&amp;index=7)

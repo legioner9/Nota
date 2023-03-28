@@ -1,0 +1,5 @@
+### [Изучение Git для новичков / #1 - Что такое Git, установка и настройка](https://www.youtube.com/watch?v=bkNCylkzFRk&amp;list=PL0lO_mIqDDFUesRNkeg46TDd5I6r7p2PI&amp;index=1)
+### [Изучение Git для новичков / #2 - Добавление файлов в репозиторий](https://www.youtube.com/watch?v=MrSRPb-Ezw4&amp;list=PL0lO_mIqDDFUesRNkeg46TDd5I6r7p2PI&amp;index=2)
+### [Изучение Git для новичков / #3 - Отмена действий. Возвращение к старым версиям](https://www.youtube.com/watch?v=sgbKdriaDHg&amp;list=PL0lO_mIqDDFUesRNkeg46TDd5I6r7p2PI&amp;index=3)
+### [Изучение Git для новичков / #4 - Работа с ветками. Объединение веток](https://www.youtube.com/watch?v=Lw0i9VoKJRM&amp;list=PL0lO_mIqDDFUesRNkeg46TDd5I6r7p2PI&amp;index=4)
+### [Изучение Git для новичков / #5 - Введение в GitHub. Работа с удаленным репозиторием](https://www.youtube.com/watch?v=HHhaoUAe1K8&amp;list=PL0lO_mIqDDFUesRNkeg46TDd5I6r7p2PI&amp;index=5)

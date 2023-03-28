@@ -1,0 +1,4 @@
+### [ASP.NET MVC 5. Углубленный. Авторизация и аутентификация. Урок 1](https://www.youtube.com/watch?v=KxkEyWyCSWU&amp;list=PLvItDmb0sZw-bfDISljqYWFVs04sZW4r0&amp;index=1)
+### [ASP.NET MVC 5. Углубленный. Бандлы и минификация. Урок 2](https://www.youtube.com/watch?v=9K-UocIrgKk&amp;list=PLvItDmb0sZw-bfDISljqYWFVs04sZW4r0&amp;index=2)
+### [ASP.NET MVC 5. Углубленный. Bootstrap в ASP.NET MVC 5. Урок 3](https://www.youtube.com/watch?v=YMaUYxIgBr8&amp;list=PLvItDmb0sZw-bfDISljqYWFVs04sZW4r0&amp;index=3)
+### [ASP.NET MVC 5. Углубленный. SignalR 2. Урок 4](https://www.youtube.com/watch?v=FoGl2_21Erw&amp;list=PLvItDmb0sZw-bfDISljqYWFVs04sZW4r0&amp;index=4)

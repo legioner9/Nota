@@ -1,0 +1,3 @@
+# [ITVDN](https://www.youtube.com/@ITVDN/playlists?view=1)
+## [Видео курс PHP Starter](https://www.youtube.com/playlist?list=PLvItDmb0sZw_ElMO_UTUaq-e1cFugkr2H)
+### [Видео курс PHP Starter. Урок 5. Типы переменных](https://www.youtube.com/watch?v=_PSPhl-yTc8&amp;list=PLvItDmb0sZw_ElMO_UTUaq-e1cFugkr2H&amp;index=5)

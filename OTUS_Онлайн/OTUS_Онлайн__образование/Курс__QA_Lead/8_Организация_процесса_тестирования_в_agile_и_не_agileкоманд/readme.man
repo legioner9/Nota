@@ -1,0 +1,3 @@
+# [OTUS Онлайн - образование](https://www.youtube.com/@otus_education/playlists)
+## [Курс | QA Lead](https://www.youtube.com/playlist?list=PLfnFOImnyWRUJhd1hi8JWu3QBH08w8kA_)
+### [Организация процесса тестирования в agile и не agile-командах // Демо-занятие курса «QA Lead»](https://www.youtube.com/watch?v=-E4Pw4rw9PM&amp;list=PLfnFOImnyWRUJhd1hi8JWu3QBH08w8kA_&amp;index=8)

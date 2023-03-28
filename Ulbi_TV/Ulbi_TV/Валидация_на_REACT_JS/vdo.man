@@ -1,0 +1,2 @@
+### [Валидация форм на React JS. Простая валидация. Урок 1.](https://www.youtube.com/watch?v=WADswtZB-qg&amp;list=PL6DxKON1uLOHcvuJLmgpOhwbktXLr7noj&amp;index=1)
+### [Кастомные\самодельные хуки React JS. Валидация](https://www.youtube.com/watch?v=BGKbJ2aXCog&amp;list=PL6DxKON1uLOHcvuJLmgpOhwbktXLr7noj&amp;index=2)

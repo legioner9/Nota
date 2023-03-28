@@ -1,0 +1,3 @@
+# [ITVDN](https://www.youtube.com/@ITVDN/playlists?view=1)
+## [Практика программирования для начинающих](https://www.youtube.com/playlist?list=PLvItDmb0sZw_Fb0ZmRxXslwI4uQeX-qmE)
+### [Пишем пошаговую боевую систему на JavaScript с нуля. На примере игры Final Fantasy в 2D.](https://www.youtube.com/watch?v=5emyO5Nb1OU&amp;list=PLvItDmb0sZw_Fb0ZmRxXslwI4uQeX-qmE&amp;index=6)

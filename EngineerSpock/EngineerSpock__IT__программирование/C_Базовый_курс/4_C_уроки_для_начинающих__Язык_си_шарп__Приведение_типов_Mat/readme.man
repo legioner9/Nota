@@ -1,0 +1,3 @@
+# [EngineerSpock - IT & программирование](https://www.youtube.com/@EngineerSpock/playlists)
+## [C# Базовый курс](https://www.youtube.com/playlist?list=PLBheEHDcG7-k4Fst9mFSwujc0jeqhoH_I)
+### [C# уроки для начинающих # Язык си шарп - Приведение типов, Math, массивы, DateTime](https://www.youtube.com/watch?v=Bbr33yqGYBE&amp;list=PLBheEHDcG7-k4Fst9mFSwujc0jeqhoH_I&amp;index=4)

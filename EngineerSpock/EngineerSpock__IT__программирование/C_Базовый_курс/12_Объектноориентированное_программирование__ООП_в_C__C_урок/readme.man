@@ -1,0 +1,3 @@
+# [EngineerSpock - IT & программирование](https://www.youtube.com/@EngineerSpock/playlists)
+## [C# Базовый курс](https://www.youtube.com/playlist?list=PLBheEHDcG7-k4Fst9mFSwujc0jeqhoH_I)
+### [Объектно-ориентированное программирование - ООП в C# / C# уроки для начинающих / Язык си шарп](https://www.youtube.com/watch?v=JH8YufkxMcQ&amp;list=PLBheEHDcG7-k4Fst9mFSwujc0jeqhoH_I&amp;index=12)

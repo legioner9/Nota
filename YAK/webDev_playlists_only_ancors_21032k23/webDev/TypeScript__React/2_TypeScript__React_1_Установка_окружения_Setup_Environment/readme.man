@@ -1,0 +1,3 @@
+# [webDev](https://www.youtube.com/@YauhenKavalchuk/playlists?view=1)
+## [TypeScript + React](https://www.youtube.com/playlist?list=PLNkWIWHIRwMFQBDhZ6HfwO9NL09X3N3Gq)
+### [TypeScript + React #1 Установка окружения (Setup Environment)](https://www.youtube.com/watch?v=VDJcfJ1j7Bs&amp;list=PLNkWIWHIRwMFQBDhZ6HfwO9NL09X3N3Gq&amp;index=2)

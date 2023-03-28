@@ -1,0 +1,4 @@
+### [Функциональное программирование # 1: Введение в функциональное программирование](https://www.youtube.com/watch?v=3q4ov8168H4&amp;list=PLBheEHDcG7-nMDbXiGLxM5HiFaT0hplq3&amp;index=1)
+### [Функциональное программирование # 3: Поверхностная и замораживаемая неизменяемость](https://www.youtube.com/watch?v=BGET7THkO1g&amp;list=PLBheEHDcG7-nMDbXiGLxM5HiFaT0hplq3&amp;index=2)
+### [Функциональное программирование # 2: Внутренняя и внешняя неизменяемость (иммутабельность)](https://www.youtube.com/watch?v=M5UQRQK_08k&amp;list=PLBheEHDcG7-nMDbXiGLxM5HiFaT0hplq3&amp;index=3)
+### [Функциональное программирование # 4: Шаблон проектирования Строитель и ФП](https://www.youtube.com/watch?v=wEuU_RCpH1U&amp;list=PLBheEHDcG7-nMDbXiGLxM5HiFaT0hplq3&amp;index=4)

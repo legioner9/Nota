@@ -1,0 +1,3 @@
+# [ITDoctor](https://www.youtube.com/@ITDoctor/playlists?view=1&sort=dd&shelf_id=0)
+## [PHP Уроки с нуля](https://www.youtube.com/playlist?list=PLuY6eeDuleIN_pFzp1vlu0PD3KXUrPTVS)
+### [#16 Уроки PHP - Учим язык PHP, Конкатенация строк на языке PHP](https://www.youtube.com/watch?v=AHdWyIZ3W-w&amp;list=PLuY6eeDuleIN_pFzp1vlu0PD3KXUrPTVS&amp;index=16)

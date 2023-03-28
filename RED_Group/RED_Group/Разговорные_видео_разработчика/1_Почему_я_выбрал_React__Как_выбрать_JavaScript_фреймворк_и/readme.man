@@ -1,0 +1,3 @@
+# [RED Group](https://www.youtube.com/@REDGroup/playlists)
+## [Разговорные видео разработчика](https://www.youtube.com/playlist?list=PLXkonRjGXZwz8ZoYcTXyi6IaNLaYMnowP)
+### [Почему я выбрал React? // Как выбрать JavaScript фреймворк или библиотеку? // Моё мнение](https://www.youtube.com/watch?v=uKNz7EVYsg8&amp;list=PLXkonRjGXZwz8ZoYcTXyi6IaNLaYMnowP&amp;index=1)

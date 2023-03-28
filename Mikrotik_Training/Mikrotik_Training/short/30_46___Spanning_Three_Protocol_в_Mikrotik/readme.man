@@ -1,0 +1,3 @@
+# [Mikrotik Training](https://www.youtube.com/@MikrotikTraining/playlists)
+## [short](https://www.youtube.com/playlist?list=PLg90hRDCH9A7HkDxJYAnDn4VRnnMKL5tB)
+### [#46   Spanning Three Protocol в Mikrotik](https://www.youtube.com/watch?v=swwm1vtGiRQ&amp;list=PLg90hRDCH9A7HkDxJYAnDn4VRnnMKL5tB&amp;index=30)

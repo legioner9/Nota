@@ -1,0 +1,3 @@
+# [DevOps](https://www.youtube.com/@Devops_Youtube_Channel/playlists)
+## [Ubuntu](https://www.youtube.com/playlist?list=PLkKSgP0nEL0BpOAxQMeJNMcBIiWm7JXur)
+### [2.  Как узнать какие порты открыты в Linux ? / Порты / Linux / Netstat / ss / lsof / Nmap](https://www.youtube.com/watch?v=fjpxR6i0nz8&amp;list=PLkKSgP0nEL0BpOAxQMeJNMcBIiWm7JXur&amp;index=2)

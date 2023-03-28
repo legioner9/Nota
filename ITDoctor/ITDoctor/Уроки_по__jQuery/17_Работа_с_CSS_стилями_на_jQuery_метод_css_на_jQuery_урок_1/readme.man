@@ -1,0 +1,3 @@
+# [ITDoctor](https://www.youtube.com/@ITDoctor/playlists?view=1&sort=dd&shelf_id=0)
+## [Уроки по  jQuery](https://www.youtube.com/playlist?list=PLuY6eeDuleIO6ys8_OmKphvobZxabbGBz)
+### [Работа с CSS стилями на jQuery, метод css() на jQuery, урок 17](https://www.youtube.com/watch?v=7u6gH64W3eI&amp;list=PLuY6eeDuleIO6ys8_OmKphvobZxabbGBz&amp;index=17)

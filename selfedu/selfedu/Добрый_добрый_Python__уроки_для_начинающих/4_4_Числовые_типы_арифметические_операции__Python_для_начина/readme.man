@@ -1,0 +1,3 @@
+# [selfedu](https://www.youtube.com/@selfedu_rus/playlists?view=1)
+## [Добрый, добрый Python - уроки для начинающих](https://www.youtube.com/playlist?list=PLA0M1Bcd0w8yWHh2V70bTtbVxJICrnJHd)
+### [#4. Числовые типы, арифметические операции | Python для начинающих](https://www.youtube.com/watch?v=HZrbYY10cJI&amp;list=PLA0M1Bcd0w8yWHh2V70bTtbVxJICrnJHd&amp;index=4)

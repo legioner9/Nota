@@ -1,0 +1,3 @@
+# [ITVDN](https://www.youtube.com/@ITVDN/playlists?view=1)
+## [Вебинары FrontEnd](https://www.youtube.com/playlist?list=PLvItDmb0sZw-8z5udpsIyofAv0fwnMbLw)
+### [Как перестать бояться Angular 2 и начать использовать компоненты уже сегодня](https://www.youtube.com/watch?v=sSnPmLxW89s&amp;list=PLvItDmb0sZw-8z5udpsIyofAv0fwnMbLw&amp;index=19)

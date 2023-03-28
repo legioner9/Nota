@@ -1,0 +1,3 @@
+# [Слёрм](https://www.youtube.com/@slurm_io/playlists)
+## [Открытые темы курса «Ansible: от первых шагов до большого проекта»](https://www.youtube.com/playlist?list=PL8D2P0ruohOB654j4crPB5HFZOrQ2y1hn)
+### [Открытое демо по курсу &quot;Ansible: от первых шагов до большого проекта&quot;](https://www.youtube.com/watch?v=yyFdb6hBQqc&amp;list=PL8D2P0ruohOB654j4crPB5HFZOrQ2y1hn&amp;index=3)

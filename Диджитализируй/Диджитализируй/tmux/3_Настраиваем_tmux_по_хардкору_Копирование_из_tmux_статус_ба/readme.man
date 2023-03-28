@@ -1,0 +1,3 @@
+# [Диджитализируй!](https://www.youtube.com/@t0digital/playlists)
+## [tmux](https://www.youtube.com/playlist?list=PLAk6CfuV7hyq4NeNn8gJt8OEpPisPh_Fr)
+### [Настраиваем tmux по хардкору! Копирование из tmux, статус бар, цвета, hot keys](https://www.youtube.com/watch?v=LkFtvMzMwjw&amp;list=PLAk6CfuV7hyq4NeNn8gJt8OEpPisPh_Fr&amp;index=3)

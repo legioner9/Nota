@@ -1,0 +1,7 @@
+### [Уроки Vue.js - создание проекта vue - урок 1](https://www.youtube.com/watch?v=jR_srstmixo&amp;list=PLF-NY6ldwAWrZnUw0szzXuR_Q2TS1upsh&amp;index=1)
+### [Уроки Vue.js - разбор проекта и компонентов vue - урок 2](https://www.youtube.com/watch?v=z0t-vuzgnTQ&amp;list=PLF-NY6ldwAWrZnUw0szzXuR_Q2TS1upsh&amp;index=2)
+### [Уроки Vue.js - создание компонентов и router vue - урок 3](https://www.youtube.com/watch?v=TYO5cpAZSCE&amp;list=PLF-NY6ldwAWrZnUw0szzXuR_Q2TS1upsh&amp;index=3)
+### [Уроки Vue.js - store во vue, использование fetch во vue и вывод списка фильмов  - урок 4](https://www.youtube.com/watch?v=0gjH9CXHPkk&amp;list=PLF-NY6ldwAWrZnUw0szzXuR_Q2TS1upsh&amp;index=4)
+### [Уроки Vue.js - vue router и вывод полного описания фильма  - урок 5](https://www.youtube.com/watch?v=s_jIbxt5DAE&amp;list=PLF-NY6ldwAWrZnUw0szzXuR_Q2TS1upsh&amp;index=5)
+### [Уроки Vue.js - fetch post, emit vue, отзывы к фильму  - урок 6](https://www.youtube.com/watch?v=WQ1SHLtnZi0&amp;list=PLF-NY6ldwAWrZnUw0szzXuR_Q2TS1upsh&amp;index=6)
+### [Уроки Vue.js пагинация - урок 7](https://www.youtube.com/watch?v=B6oRm_eDtew&amp;list=PLF-NY6ldwAWrZnUw0szzXuR_Q2TS1upsh&amp;index=7)

@@ -1,0 +1,3 @@
+# [ITVDN](https://www.youtube.com/@ITVDN/playlists?view=1)
+## [ASP.NET MVC 5. Углубленный](https://www.youtube.com/playlist?list=PLvItDmb0sZw-bfDISljqYWFVs04sZW4r0)
+### [ASP.NET MVC 5. Углубленный. Бандлы и минификация. Урок 2](https://www.youtube.com/watch?v=9K-UocIrgKk&amp;list=PLvItDmb0sZw-bfDISljqYWFVs04sZW4r0&amp;index=2)

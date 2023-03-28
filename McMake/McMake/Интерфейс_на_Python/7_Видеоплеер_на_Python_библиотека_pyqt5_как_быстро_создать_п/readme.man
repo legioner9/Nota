@@ -1,0 +1,3 @@
+# [McMake](https://www.youtube.com/@mc_make/playlists)
+## [Интерфейс на Python](https://www.youtube.com/playlist?list=PLc3mLrv1phSliQWWTrKsJa7u5l5fQvB05)
+### [Видеоплеер на Python: (библиотека pyqt5) как быстро создать приложение?](https://www.youtube.com/watch?v=GdapwXMV7J8&amp;list=PLc3mLrv1phSliQWWTrKsJa7u5l5fQvB05&amp;index=7)

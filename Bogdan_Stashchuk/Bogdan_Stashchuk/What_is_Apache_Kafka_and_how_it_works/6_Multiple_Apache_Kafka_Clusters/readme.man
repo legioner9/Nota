@@ -1,0 +1,3 @@
+# [Bogdan Stashchuk](https://www.youtube.com/@Bogdan_Stashchuk/playlists)
+## [What is Apache Kafka and how it works](https://www.youtube.com/playlist?list=PLWkguCWKqN9OynZMTMbTUEs5p4V7eB1mY)
+### [Multiple Apache Kafka Clusters](https://www.youtube.com/watch?v=rnp3o7PtjSs&amp;list=PLWkguCWKqN9OynZMTMbTUEs5p4V7eB1mY&amp;index=6)

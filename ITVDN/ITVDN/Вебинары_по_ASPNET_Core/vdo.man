@@ -1,0 +1,2 @@
+### [ASP.NET Core. Лучшие архитектурные практики. Часть 1](https://www.youtube.com/watch?v=GcfUrMFrGQE&amp;list=PLvItDmb0sZw9_TcD8gEjcN9I2U-txyUHF&amp;index=1)
+### [ASP.NET Core. Лучшие архитектурные практики. Часть 2](https://www.youtube.com/watch?v=MKuckMtKLwo&amp;list=PLvItDmb0sZw9_TcD8gEjcN9I2U-txyUHF&amp;index=2)

@@ -1,0 +1,3 @@
+# [Гоша Дударь](https://www.youtube.com/@gosha_dudar/playlists?view=1)
+## [Разработка Telegram Ботов на Python с нуля / Телеграм Bot для начинающих](https://www.youtube.com/playlist?list=PL0lO_mIqDDFUev1gp9yEwmwcy8SicqKbt)
+### [Телеграм бот на Python / #7 – Библиотека aiogram для разработки ботов](https://www.youtube.com/watch?v=BvPaua-oC08&amp;list=PL0lO_mIqDDFUev1gp9yEwmwcy8SicqKbt&amp;index=7)

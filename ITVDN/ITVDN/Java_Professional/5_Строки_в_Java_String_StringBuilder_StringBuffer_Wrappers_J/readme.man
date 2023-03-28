@@ -1,0 +1,3 @@
+# [ITVDN](https://www.youtube.com/@ITVDN/playlists?view=1)
+## [Java Professional](https://www.youtube.com/playlist?list=PLvItDmb0sZw-NCZgLKsjtMQS8CvxN13II)
+### [Строки в Java. String, StringBuilder, StringBuffer, Wrappers. Java Professional. Урок 5](https://www.youtube.com/watch?v=Cymc-H_8v30&amp;list=PLvItDmb0sZw-NCZgLKsjtMQS8CvxN13II&amp;index=5)

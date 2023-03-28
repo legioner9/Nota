@@ -1,0 +1,3 @@
+# [UNИX](https://www.youtube.com/@unx7784/playlists)
+## [[UNИX] Разработка программного обеспечения на GNU/Linux 2020](https://www.youtube.com/playlist?list=PL6kSdcHYB3x4QsCD904JYOLs35FqGNkss)
+### [12. Скриптовые языки и обработка текстов](https://www.youtube.com/watch?v=K2ZeQbFjCJA&amp;list=PL6kSdcHYB3x4QsCD904JYOLs35FqGNkss&amp;index=12)

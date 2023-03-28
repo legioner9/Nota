@@ -1,0 +1,3 @@
+# [Django School](https://www.youtube.com/@DjangoSchool/playlists?view=1)
+## [Ответы на вопросы django \ python](https://www.youtube.com/playlist?list=PLF-NY6ldwAWrRWkij4T4Fr63MouSz8VqV)
+### [Почему &quot;блог&quot; как первое приложение на django 2?](https://www.youtube.com/watch?v=KP0UdEbmZUI&amp;list=PLF-NY6ldwAWrRWkij4T4Fr63MouSz8VqV&amp;index=13)

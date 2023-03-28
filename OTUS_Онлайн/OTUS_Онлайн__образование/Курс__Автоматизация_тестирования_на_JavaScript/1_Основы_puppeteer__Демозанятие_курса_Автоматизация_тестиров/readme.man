@@ -1,0 +1,3 @@
+# [OTUS Онлайн - образование](https://www.youtube.com/@otus_education/playlists)
+## [Курс | Автоматизация тестирования на JavaScript](https://www.youtube.com/playlist?list=PLfnFOImnyWRXQA1jhlHQkm-mdQUFrtuhj)
+### [Основы puppeteer // Демо-занятие курса «Автоматизация тестирования на JavaScript»](https://www.youtube.com/watch?v=DGUqcMts0_I&amp;list=PLfnFOImnyWRXQA1jhlHQkm-mdQUFrtuhj&amp;index=1)

@@ -1,0 +1,3 @@
+# [egoroff_channel](https://www.youtube.com/@egoroffchannel/playlists)
+## [Модуль turtle. Создаем графику в Python](https://www.youtube.com/playlist?list=PLQAt0m1f9OHvowenYcOHrRP_v1VN-0TWF)
+### [Мяч и сила притяжения | Программирование на Python](https://www.youtube.com/watch?v=VCE5o91E-a4&amp;list=PLQAt0m1f9OHvowenYcOHrRP_v1VN-0TWF&amp;index=11)

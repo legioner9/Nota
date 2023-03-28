@@ -1,0 +1,4 @@
+### [Server's Evolution. Part 1. Before Cisco UCS](https://www.youtube.com/watch?v=y-0RSPveD4k&amp;list=PLOrBH9Pfv1tPM9eQ8z-bkYACCxdZYzT6b&amp;index=1)
+### [Эволюция серверов 2. Cisco UCS. Начало.](https://www.youtube.com/watch?v=kemQ_pAOUE8&amp;list=PLOrBH9Pfv1tPM9eQ8z-bkYACCxdZYzT6b&amp;index=2)
+### [Эволюция серверов - 3. Cisco UCS Unified Fabric.](https://www.youtube.com/watch?v=xWTMYqOHqyQ&amp;list=PLOrBH9Pfv1tPM9eQ8z-bkYACCxdZYzT6b&amp;index=3)
+### [Install Cisco UCS server in 20 minutes](https://www.youtube.com/watch?v=T8Pd_Vcx8JI&amp;list=PLOrBH9Pfv1tPM9eQ8z-bkYACCxdZYzT6b&amp;index=4)

@@ -1,0 +1,3 @@
+# [OTUS Онлайн - образование](https://www.youtube.com/@otus_education/playlists)
+## [Открытые уроки Мобильная разработка на Flutter](https://www.youtube.com/playlist?list=PLfnFOImnyWRW6fjFVuhxSnBl5SJtYXsf-)
+### [Интенсив «Flutter engine, анимация и ее оптимизация»  День 1 // курс «Flutter Mobile Developer»](https://www.youtube.com/watch?v=DrihsJThSSE&amp;list=PLfnFOImnyWRW6fjFVuhxSnBl5SJtYXsf-&amp;index=8)

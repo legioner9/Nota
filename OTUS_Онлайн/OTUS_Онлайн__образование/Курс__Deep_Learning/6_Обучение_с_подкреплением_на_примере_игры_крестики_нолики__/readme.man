@@ -1,0 +1,3 @@
+# [OTUS Онлайн - образование](https://www.youtube.com/@otus_education/playlists)
+## [Курс | Deep Learning.](https://www.youtube.com/playlist?list=PLfnFOImnyWRU-KZqUWatetetxL69wk1ET)
+### [Обучение с подкреплением на примере игры 'крестики нолики' // курс «Нейронные сети на Python»](https://www.youtube.com/watch?v=UEWMOjA0LeY&amp;list=PLfnFOImnyWRU-KZqUWatetetxL69wk1ET&amp;index=6)

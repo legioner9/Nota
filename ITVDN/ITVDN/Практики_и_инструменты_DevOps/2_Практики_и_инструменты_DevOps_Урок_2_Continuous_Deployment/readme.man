@@ -1,0 +1,3 @@
+# [ITVDN](https://www.youtube.com/@ITVDN/playlists?view=1)
+## [Практики и инструменты DevOps](https://www.youtube.com/playlist?list=PLvItDmb0sZw_xTNDv8Bb1fsivN_Z_4oo9)
+### [Практики и инструменты DevOps. Урок 2. Continuous Deployment](https://www.youtube.com/watch?v=26pEJNrqnn0&amp;list=PLvItDmb0sZw_xTNDv8Bb1fsivN_Z_4oo9&amp;index=2)

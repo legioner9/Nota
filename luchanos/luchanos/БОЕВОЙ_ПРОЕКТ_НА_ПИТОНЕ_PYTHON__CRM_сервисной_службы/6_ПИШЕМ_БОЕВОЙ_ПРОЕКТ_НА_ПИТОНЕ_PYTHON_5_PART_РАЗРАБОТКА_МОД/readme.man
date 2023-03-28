@@ -1,0 +1,3 @@
+# [luchanos](https://www.youtube.com/@luchanos/playlists?view=1&sort=dd&shelf_id=0)
+## [БОЕВОЙ ПРОЕКТ НА ПИТОНЕ (PYTHON) - CRM сервисной службы](https://www.youtube.com/playlist?list=PLlKID9PnOE5g_cDYpEZBAQYcSDSeTb-kN)
+### [ПИШЕМ БОЕВОЙ ПРОЕКТ НА ПИТОНЕ (PYTHON) 5 PART. РАЗРАБОТКА МОДЕЛЕЙ DJANGO + НАСТРОЙКА АДМИНКИ.](https://www.youtube.com/watch?v=WfvwFPQ0Wms&amp;list=PLlKID9PnOE5g_cDYpEZBAQYcSDSeTb-kN&amp;index=6)

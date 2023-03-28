@@ -1,0 +1,3 @@
+# [OTUS Онлайн - образование](https://www.youtube.com/@otus_education/playlists)
+## [Курс |  iOS Developer. Professional](https://www.youtube.com/playlist?list=PLfnFOImnyWRXl8vt2LdJeBHEShktuDLzT)
+### [SwiftUI: перенос приложения с iOS на Android. День 2 // курс «iOS Developer. Professional»](https://www.youtube.com/watch?v=k79l8IBJfXI&amp;list=PLfnFOImnyWRXl8vt2LdJeBHEShktuDLzT&amp;index=11)

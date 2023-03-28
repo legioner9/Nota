@@ -1,0 +1,3 @@
+# [Cisco Ne Slabo / SEDICOMM TV](https://www.youtube.com/@cisconeslabo/playlists)
+## [Cisco Packet Tracer Курс молодого бойца Часть 1 2021 CCNA 1 ITN от Академии Cisco Университет СЭДИКОММ](https://www.youtube.com/playlist?list=PLMiVLClzZDbQS6nAFQ46LXx4o9n9jjVRr)
+### [Курс Молодого Бойца Cisco Часть 1 2021 CCNA 1 ITN 12.6.6 Packet Tracer – Configure IPv6 Addressing](https://www.youtube.com/watch?v=tMkITYc-LdU&amp;list=PLMiVLClzZDbQS6nAFQ46LXx4o9n9jjVRr&amp;index=21)

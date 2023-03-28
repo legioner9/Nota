@@ -1,0 +1,3 @@
+# [PyLounge - программирование на Python и всё о IT](https://www.youtube.com/@pylounge/playlists)
+## [Изучение Python](https://www.youtube.com/playlist?list=PLhVGaKnJDpzhfH-5jrlyMylobwOS-I7LW)
+### [Пишем Тelegram Бота На Python | Добавление Водяного Знака На Фото](https://www.youtube.com/watch?v=fhRGgshJYrs&amp;list=PLhVGaKnJDpzhfH-5jrlyMylobwOS-I7LW&amp;index=13)

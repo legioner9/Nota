@@ -1,0 +1,3 @@
+# [Диджитализируй!](https://www.youtube.com/@t0digital/playlists)
+## [Linux и Unix инструменты](https://www.youtube.com/playlist?list=PLAk6CfuV7hyqHyQVHZMQRihAfebXpxn2O)
+### [Настройка Vim. Простейший конфиг Vim (.vimrc) для разработки](https://www.youtube.com/watch?v=xmYil6Y9X68&amp;list=PLAk6CfuV7hyqHyQVHZMQRihAfebXpxn2O&amp;index=21)

@@ -1,0 +1,3 @@
+# [Cisco Ne Slabo / SEDICOMM TV](https://www.youtube.com/@cisconeslabo/playlists)
+## [Кибербезопасность, курсы Cisco Cyber Ops Associate / CCNA Cyber Ops — Бесплатные мастер-классы от Академии Cisco Университет СЭДИКОММ](https://www.youtube.com/playlist?list=PLMiVLClzZDbR9rt4d09h-JN1NjkTbRw6c)
+### [Как обеспечить целостность данных с помощью хеширования средствами OpenSSL](https://www.youtube.com/watch?v=MmTLunXMYF8&amp;list=PLMiVLClzZDbR9rt4d09h-JN1NjkTbRw6c&amp;index=39)

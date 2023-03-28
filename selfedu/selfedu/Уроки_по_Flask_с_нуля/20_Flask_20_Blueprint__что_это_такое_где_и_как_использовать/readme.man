@@ -1,0 +1,3 @@
+# [selfedu](https://www.youtube.com/@selfedu_rus/playlists?view=1)
+## [Уроки по Flask с нуля](https://www.youtube.com/playlist?list=PLA0M1Bcd0w8yrxtwgqBvT6OM4HkOU3xYn)
+### [Flask #20: Blueprint - что это такое, где и как использовать](https://www.youtube.com/watch?v=leUbqB2A1HI&amp;list=PLA0M1Bcd0w8yrxtwgqBvT6OM4HkOU3xYn&amp;index=20)

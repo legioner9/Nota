@@ -1,0 +1,3 @@
+# [Диджитализируй!](https://www.youtube.com/@t0digital/playlists)
+## [Linux и Unix инструменты](https://www.youtube.com/playlist?list=PLAk6CfuV7hyqHyQVHZMQRihAfebXpxn2O)
+### [Как получить и настроить LetsEncrypt SSL сертификат для сайта?](https://www.youtube.com/watch?v=1wnOw1vwPEo&amp;list=PLAk6CfuV7hyqHyQVHZMQRihAfebXpxn2O&amp;index=6)

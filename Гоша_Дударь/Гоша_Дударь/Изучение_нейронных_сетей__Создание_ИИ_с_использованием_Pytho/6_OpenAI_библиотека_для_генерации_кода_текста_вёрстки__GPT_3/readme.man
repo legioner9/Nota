@@ -1,0 +1,3 @@
+# [Гоша Дударь](https://www.youtube.com/@gosha_dudar/playlists?view=1)
+## [Изучение нейронных сетей / Создание ИИ с использованием Python](https://www.youtube.com/playlist?list=PL0lO_mIqDDFWovejFKVKLH0pzVKZluAG-)
+### [OpenAI библиотека для генерации кода, текста, вёрстки… / GPT 3 — библиотека будущего?](https://www.youtube.com/watch?v=KAhVu2E7NMo&amp;list=PL0lO_mIqDDFWovejFKVKLH0pzVKZluAG-&amp;index=6)

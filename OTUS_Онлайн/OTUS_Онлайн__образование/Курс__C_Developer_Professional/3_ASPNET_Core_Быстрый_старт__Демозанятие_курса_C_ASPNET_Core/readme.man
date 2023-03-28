@@ -1,0 +1,3 @@
+# [OTUS Онлайн - образование](https://www.youtube.com/@otus_education/playlists)
+## [Курс | C# Developer. Professional](https://www.youtube.com/playlist?list=PLfnFOImnyWRUlDMnKYobAhsHjc4aAleBy)
+### [ASP.NET Core: Быстрый старт // Демо-занятие курса «C# ASP.NET Core разработчик»](https://www.youtube.com/watch?v=clEKBj5o8D4&amp;list=PLfnFOImnyWRUlDMnKYobAhsHjc4aAleBy&amp;index=3)

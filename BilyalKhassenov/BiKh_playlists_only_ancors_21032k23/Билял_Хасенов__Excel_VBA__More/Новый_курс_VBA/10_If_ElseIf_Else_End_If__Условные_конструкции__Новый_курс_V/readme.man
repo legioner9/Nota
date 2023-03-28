@@ -1,0 +1,3 @@
+# [Билял Хасенов – Excel, VBA & More](https://www.youtube.com/@BilyalKhassenov/playlists?view=58)
+## [Новый курс VBA](https://www.youtube.com/playlist?list=PLsPotgU_ELTrZjKisd91DtKGt83ror7Zj)
+### [If, ElseIf, Else, End If - Условные конструкции - Новый курс VBA (10)](https://www.youtube.com/watch?v=OcrIwgfgbrM&amp;list=PLsPotgU_ELTrZjKisd91DtKGt83ror7Zj&amp;index=10)

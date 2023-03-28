@@ -1,0 +1,3 @@
+# [ITVDN](https://www.youtube.com/@ITVDN/playlists?view=1)
+## [Unit тестирование в Java с JUnit](https://www.youtube.com/playlist?list=PLvItDmb0sZw8shfp69g7XLVlJWxTjDnRh)
+### [Как создать и запустить простой JUnit тест? Что такое JUnit и как работает юнит-тестирование в Java?](https://www.youtube.com/watch?v=GQKDVSuqQlI&amp;list=PLvItDmb0sZw8shfp69g7XLVlJWxTjDnRh&amp;index=2)

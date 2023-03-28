@@ -1,0 +1,2 @@
+### [Основы MongoDB. Введение. Урок 1](https://www.youtube.com/watch?v=RBCVGRkDMQM&amp;list=PLvItDmb0sZw9JdsMMM6L-JFLElEjJdlUF&amp;index=1)
+### [Основы MongoDB. Установка и начало работы. Урок 2](https://www.youtube.com/watch?v=i12whtn6gCA&amp;list=PLvItDmb0sZw9JdsMMM6L-JFLElEjJdlUF&amp;index=2)

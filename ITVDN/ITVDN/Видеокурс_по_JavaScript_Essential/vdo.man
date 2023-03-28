@@ -1,0 +1,6 @@
+### [Знакомство с курсом JavaScript Essential](https://www.youtube.com/watch?v=3_a4u2VQ8Qc&amp;list=PLvItDmb0sZw8opJURj5eHdfdU5bnnhE5W&amp;index=1)
+### [Обучение JavaScript для начинающих. Часть 1. Введение в JavaScript](https://www.youtube.com/watch?v=fXi49EkrMPI&amp;list=PLvItDmb0sZw8opJURj5eHdfdU5bnnhE5W&amp;index=2)
+### [Обучение JavaScript для начинающих. Часть 2. Условные и циклические конструкции](https://www.youtube.com/watch?v=xvNC6jy7VyI&amp;list=PLvItDmb0sZw8opJURj5eHdfdU5bnnhE5W&amp;index=3)
+### [Обучение JavaScript для начинающих. Часть 3. Массивы](https://www.youtube.com/watch?v=BKKGyHubO6Q&amp;list=PLvItDmb0sZw8opJURj5eHdfdU5bnnhE5W&amp;index=4)
+### [Обучение JavaScript для начинающих. Часть 4. Функции](https://www.youtube.com/watch?v=ZqA-ZsfOQjk&amp;list=PLvItDmb0sZw8opJURj5eHdfdU5bnnhE5W&amp;index=5)
+### [Обучение JavaScript для начинающих. Часть 5. Объекты](https://www.youtube.com/watch?v=6IQFZf-Km24&amp;list=PLvItDmb0sZw8opJURj5eHdfdU5bnnhE5W&amp;index=6)

@@ -1,0 +1,3 @@
+# [OTUS Онлайн - образование](https://www.youtube.com/@otus_education/playlists)
+## [Курс |  Spring Framework Developer](https://www.youtube.com/playlist?list=PLfnFOImnyWRUMdnuQyY_FvHDZJZ3R1Apb)
+### [Веб-приложения и микросервисы на Spring Boot 2.0 // Занятие курса «Разработчик на Spring Framework»](https://www.youtube.com/watch?v=zgd9SfSxO0Y&amp;list=PLfnFOImnyWRUMdnuQyY_FvHDZJZ3R1Apb&amp;index=12)

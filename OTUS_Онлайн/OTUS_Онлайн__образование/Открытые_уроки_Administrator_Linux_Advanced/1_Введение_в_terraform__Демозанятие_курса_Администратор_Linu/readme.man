@@ -1,0 +1,3 @@
+# [OTUS Онлайн - образование](https://www.youtube.com/@otus_education/playlists)
+## [Открытые уроки Administrator Linux. Advanced](https://www.youtube.com/playlist?list=PLfnFOImnyWRUvuowOQKr9hDLyiaMWT79M)
+### [Введение в terraform // Демо-занятие курса «Администратор Linux. Виртуализация и кластеризация»](https://www.youtube.com/watch?v=PWNOGs8Jyik&amp;list=PLfnFOImnyWRUvuowOQKr9hDLyiaMWT79M&amp;index=1)

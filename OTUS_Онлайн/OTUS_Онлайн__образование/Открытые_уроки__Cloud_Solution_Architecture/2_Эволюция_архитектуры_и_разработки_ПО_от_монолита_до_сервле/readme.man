@@ -1,0 +1,3 @@
+# [OTUS Онлайн - образование](https://www.youtube.com/@otus_education/playlists)
+## [Открытые уроки | Cloud Solution Architecture](https://www.youtube.com/playlist?list=PLfnFOImnyWRX9hfvqJbXGKHgUmn0gcL9C)
+### [Эволюция архитектуры и разработки ПО от монолита до сервлета // курс «Cloud Solution Architecture»](https://www.youtube.com/watch?v=4no5GDAwEmw&amp;list=PLfnFOImnyWRX9hfvqJbXGKHgUmn0gcL9C&amp;index=2)

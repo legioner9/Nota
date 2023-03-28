@@ -1,0 +1,3 @@
+# [PythonToday](https://www.youtube.com/@PythonToday/playlists)
+## [Instagram Bot на Python + Selenium](https://www.youtube.com/playlist?list=PLqGS6O1-DZLqYx83MknKLaDxaIlES2nZr)
+### [Пишем Instagram бота на Python #3 | Как быстро накрутить лайки в Instagram | Instagram bot](https://www.youtube.com/watch?v=7y_W5w0-yXs&amp;list=PLqGS6O1-DZLqYx83MknKLaDxaIlES2nZr&amp;index=3)

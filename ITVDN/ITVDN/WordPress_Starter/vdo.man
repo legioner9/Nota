@@ -1,0 +1,5 @@
+### [WordPress Starter. Урок 1. Введение в WordPress](https://www.youtube.com/watch?v=2g9hp2X2ZIk&amp;list=PLvItDmb0sZw_-agXyd3XoYCOVEnGOHHfw&amp;index=1)
+### [WordPress Starter. Урок 2. Настройка и пользователи](https://www.youtube.com/watch?v=KIF4a-onZuM&amp;list=PLvItDmb0sZw_-agXyd3XoYCOVEnGOHHfw&amp;index=2)
+### [WordPress Starter. Урок 3. Шаблоны WordPress](https://www.youtube.com/watch?v=rsfAioCwpiY&amp;list=PLvItDmb0sZw_-agXyd3XoYCOVEnGOHHfw&amp;index=3)
+### [WordPress Starter. Урок 4.  Записи и страницы](https://www.youtube.com/watch?v=qqLAb1zCOlk&amp;list=PLvItDmb0sZw_-agXyd3XoYCOVEnGOHHfw&amp;index=4)
+### [WordPress Starter. Урок 5. Медиафайлы, виджеты, меню](https://www.youtube.com/watch?v=4GjZqsCTxyQ&amp;list=PLvItDmb0sZw_-agXyd3XoYCOVEnGOHHfw&amp;index=5)

@@ -1,0 +1,7 @@
+### [Телеграм бот на Python / #1 – Разработка ботов с нуля. Как создать Telegram Bot?](https://www.youtube.com/watch?v=ObwoMskHDoA&amp;list=PL0lO_mIqDDFUev1gp9yEwmwcy8SicqKbt&amp;index=1)
+### [Телеграм бот на Python / #2 – Базовые концепции создания бота](https://www.youtube.com/watch?v=-l_CYgBj4IE&amp;list=PL0lO_mIqDDFUev1gp9yEwmwcy8SicqKbt&amp;index=2)
+### [Телеграм бот на Python / #3 – Основной функционал бота](https://www.youtube.com/watch?v=RpiWnPNTeww&amp;list=PL0lO_mIqDDFUev1gp9yEwmwcy8SicqKbt&amp;index=3)
+### [Телеграм бот на Python / #4 – SQLite3. Подключение к базе данных](https://www.youtube.com/watch?v=f2z4uuDJO3c&amp;list=PL0lO_mIqDDFUev1gp9yEwmwcy8SicqKbt&amp;index=4)
+### [Телеграм бот на Python / #5 – Бот для получения погоды](https://www.youtube.com/watch?v=v8Nqa78v2tE&amp;list=PL0lO_mIqDDFUev1gp9yEwmwcy8SicqKbt&amp;index=5)
+### [Телеграм бот на Python / #6 – Бот для конвертации валют](https://www.youtube.com/watch?v=YrDL6EpYNiA&amp;list=PL0lO_mIqDDFUev1gp9yEwmwcy8SicqKbt&amp;index=6)
+### [Телеграм бот на Python / #7 – Библиотека aiogram для разработки ботов](https://www.youtube.com/watch?v=BvPaua-oC08&amp;list=PL0lO_mIqDDFUev1gp9yEwmwcy8SicqKbt&amp;index=7)

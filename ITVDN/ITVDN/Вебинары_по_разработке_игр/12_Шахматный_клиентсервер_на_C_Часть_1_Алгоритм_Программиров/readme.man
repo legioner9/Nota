@@ -1,0 +1,3 @@
+# [ITVDN](https://www.youtube.com/@ITVDN/playlists?view=1)
+## [Вебинары по разработке игр](https://www.youtube.com/playlist?list=PLvItDmb0sZw_eiiisOt1VO7Vh0QIUGKvy)
+### [Шахматный клиент-сервер на C#. Часть 1. Алгоритм. Программирование шахматных правил игры.](https://www.youtube.com/watch?v=ZuIB4s-5b9g&amp;list=PLvItDmb0sZw_eiiisOt1VO7Vh0QIUGKvy&amp;index=12)

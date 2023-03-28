@@ -1,0 +1,3 @@
+# [OTUS Онлайн - образование](https://www.youtube.com/@otus_education/playlists)
+## [Курс | Разработчик программных роботов (RPA)](https://www.youtube.com/playlist?list=PLfnFOImnyWRVHkZMhjs6ktpfiBNWKMVw1)
+### [Demo Day курса «Разработчик программных роботов RPA на базе UiPath и PIX»](https://www.youtube.com/watch?v=wK8DUCtXoIg&amp;list=PLfnFOImnyWRVHkZMhjs6ktpfiBNWKMVw1&amp;index=5)

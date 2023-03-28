@@ -1,0 +1,3 @@
+# [Cisco Ne Slabo / SEDICOMM TV](https://www.youtube.com/@cisconeslabo/playlists)
+## [Linux — Бесплатные мастер-классы от Академии Cisco Университет СЭДИКОММ](https://www.youtube.com/playlist?list=PLMiVLClzZDbTahs2dn-p7rwgadZwvbP7Y)
+### [Как удалить Linux, оставить Windows на компьютере и восстановить UEFI загрузчик](https://www.youtube.com/watch?v=svD34pVqQH0&amp;list=PLMiVLClzZDbTahs2dn-p7rwgadZwvbP7Y&amp;index=26)

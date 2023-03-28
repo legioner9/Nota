@@ -1,0 +1,3 @@
+# [Гоша Дударь](https://www.youtube.com/@gosha_dudar/playlists?view=1)
+## [Python на практике / Разработка программ на Питоне](https://www.youtube.com/playlist?list=PL0lO_mIqDDFXr3RB0UDbUyZixUnIM_7LY)
+### [НЕЙРОСЕТЬ: просто о сложном! Создание нейронной сети на Python](https://www.youtube.com/watch?v=kUDOcl9anxU&amp;list=PL0lO_mIqDDFXr3RB0UDbUyZixUnIM_7LY&amp;index=14)

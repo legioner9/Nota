@@ -1,0 +1,7 @@
+### [Apache Kafka with Node.js: 01 Installing Node.js with NPM](https://www.youtube.com/watch?v=UhGUaoEEze0&amp;list=PLWkguCWKqN9ODj1BNk5V-aOhjvjPxSb2R&amp;index=1)
+### [Apache Kafka with Node.js: 02 Starting up Kafka cluster with 3 brokers](https://www.youtube.com/watch?v=LCQf9Z0fi4E&amp;list=PLWkguCWKqN9ODj1BNk5V-aOhjvjPxSb2R&amp;index=2)
+### [Apache Kafka with Node.js: 03 Initializing Node.js project](https://www.youtube.com/watch?v=e-ElGiz7oas&amp;list=PLWkguCWKqN9ODj1BNk5V-aOhjvjPxSb2R&amp;index=3)
+### [Apache Kafka with Node.js: 04 Final Node.js project files](https://www.youtube.com/watch?v=zg33lbVbgUo&amp;list=PLWkguCWKqN9ODj1BNk5V-aOhjvjPxSb2R&amp;index=4)
+### [Apache Kafka with Node.js: 05 Creating basic Node.js producer](https://www.youtube.com/watch?v=LOLgEGet9yA&amp;list=PLWkguCWKqN9ODj1BNk5V-aOhjvjPxSb2R&amp;index=5)
+### [Apache Kafka with Node.js: 06 Producing random animal names](https://www.youtube.com/watch?v=I1_ZzL_DdxE&amp;list=PLWkguCWKqN9ODj1BNk5V-aOhjvjPxSb2R&amp;index=6)
+### [Apache Kafka with Node.js: 07 Creating Node.js consumer](https://www.youtube.com/watch?v=r4Xt1jEGXtg&amp;list=PLWkguCWKqN9ODj1BNk5V-aOhjvjPxSb2R&amp;index=7)

@@ -1,0 +1,3 @@
+# [Диджитализируй!](https://www.youtube.com/@t0digital/playlists)
+## [Python разработка](https://www.youtube.com/playlist?list=PLAk6CfuV7hyooMRqhHAO9-Gt6kOQqM_-Y)
+### [Асинхронный Python-код медленнее обычного кода! Ааа!!1один. Aiohttp VS синхронные фреймворки](https://www.youtube.com/watch?v=z7WIm0iZcOU&amp;list=PLAk6CfuV7hyooMRqhHAO9-Gt6kOQqM_-Y&amp;index=30)

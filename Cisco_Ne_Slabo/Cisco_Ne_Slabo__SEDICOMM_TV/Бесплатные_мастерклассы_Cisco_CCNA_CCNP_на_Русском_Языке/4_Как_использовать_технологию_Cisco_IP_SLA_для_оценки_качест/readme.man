@@ -1,0 +1,3 @@
+# [Cisco Ne Slabo / SEDICOMM TV](https://www.youtube.com/@cisconeslabo/playlists)
+## [Бесплатные мастер-классы Cisco (CCNA, CCNP) на Русском Языке](https://www.youtube.com/playlist?list=PLMiVLClzZDbR_Y0cxgjHV6zZA1T26zyX3)
+### [Как использовать технологию Cisco IP SLA для оценки качества и мониторинга сети](https://www.youtube.com/watch?v=QD0W86Q65CA&amp;list=PLMiVLClzZDbR_Y0cxgjHV6zZA1T26zyX3&amp;index=4)

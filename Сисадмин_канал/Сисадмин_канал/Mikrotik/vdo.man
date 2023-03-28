@@ -1,0 +1,6 @@
+### [Mikrotik проброс портов для RDP доступа из внешки](https://www.youtube.com/watch?v=vFmJOgE0Ckg&amp;list=PL1pvuHxj7HgQ9mJkA_edR5X_DxPOITGgI&amp;index=1)
+### [Wi-Fi на MikroTik - НАСТРОЙКА. Создание пользователя.](https://www.youtube.com/watch?v=FyGzhDTZ9BU&amp;list=PL1pvuHxj7HgQ9mJkA_edR5X_DxPOITGgI&amp;index=2)
+### [Первоначальная настройка MIKROTIK с нуля: DNS, DHCP, NAT, статический и динамический IP](https://www.youtube.com/watch?v=9BWbkvrpyZA&amp;list=PL1pvuHxj7HgQ9mJkA_edR5X_DxPOITGgI&amp;index=3)
+### [Настройка PPPoE на mikrotik](https://www.youtube.com/watch?v=iEbSm3FSZsE&amp;list=PL1pvuHxj7HgQ9mJkA_edR5X_DxPOITGgI&amp;index=4)
+### [Automatic backup of mikrotik configuration SCRIPT/Бэкап конфигурации микротик скриптами](https://www.youtube.com/watch?v=bVlVQjA-vDE&amp;list=PL1pvuHxj7HgQ9mJkA_edR5X_DxPOITGgI&amp;index=5)
+### [Настройка VPN сервера на Mikrotik. Пул адресов, VPN профиль, PPTP сервер, Firewall](https://www.youtube.com/watch?v=7aFyUcx7A_w&amp;list=PL1pvuHxj7HgQ9mJkA_edR5X_DxPOITGgI&amp;index=6)

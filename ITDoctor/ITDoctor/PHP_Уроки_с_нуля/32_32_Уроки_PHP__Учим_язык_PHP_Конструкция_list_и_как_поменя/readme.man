@@ -1,0 +1,3 @@
+# [ITDoctor](https://www.youtube.com/@ITDoctor/playlists?view=1&sort=dd&shelf_id=0)
+## [PHP Уроки с нуля](https://www.youtube.com/playlist?list=PLuY6eeDuleIN_pFzp1vlu0PD3KXUrPTVS)
+### [#32 Уроки PHP - Учим язык PHP, Конструкция list и как поменять местами значения переменных](https://www.youtube.com/watch?v=2G8QHkofraM&amp;list=PLuY6eeDuleIN_pFzp1vlu0PD3KXUrPTVS&amp;index=32)

@@ -1,0 +1,3 @@
+# [Asterisk Russia](https://www.youtube.com/@Asterisker/playlists)
+## [AsterConf-2018 - Доклады](https://www.youtube.com/playlist?list=PLrUzrM6usSzq0u8zsOBQROnxey36CIx08)
+### [AsterConf-2018: Егор Иванов - Звонки через Telegram как доп. способ взаимодействия с клиентами.](https://www.youtube.com/watch?v=xbecxmqZ0vI&amp;list=PLrUzrM6usSzq0u8zsOBQROnxey36CIx08&amp;index=20)

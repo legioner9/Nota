@@ -1,0 +1,5 @@
+### [SQL Практикум. Урок 1. Создание базы данных в MS SQL](https://www.youtube.com/watch?v=Xux3_o2bImY&amp;list=PLvItDmb0sZw-WX3dpyJJcuIyy6i2dT7FA&amp;index=1)
+### [SQL Практикум. Урок 2. Создание триггеров с помощью MS SQL](https://www.youtube.com/watch?v=AXn7uZFrcs4&amp;list=PLvItDmb0sZw-WX3dpyJJcuIyy6i2dT7FA&amp;index=2)
+### [SQL Практикум. Урок 3. Запрос в MS SQL](https://www.youtube.com/watch?v=xUFqPnb_xWc&amp;list=PLvItDmb0sZw-WX3dpyJJcuIyy6i2dT7FA&amp;index=3)
+### [SQL Практикум. Урок 4. Подзапрос. Функция в MS SQL](https://www.youtube.com/watch?v=NfDrb8Gx1V8&amp;list=PLvItDmb0sZw-WX3dpyJJcuIyy6i2dT7FA&amp;index=4)
+### [SQL Практикум. Урок 5. Представление, процедура в MS SQL](https://www.youtube.com/watch?v=WdE54nWDLVM&amp;list=PLvItDmb0sZw-WX3dpyJJcuIyy6i2dT7FA&amp;index=5)

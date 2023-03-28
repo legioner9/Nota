@@ -1,0 +1,5 @@
+### [Настройка IP - телефона Grandstream GXP1620](https://www.youtube.com/watch?v=2pXnGv9220w&amp;list=PLVULwBUtsriOyNZCYlZjGJOob2pmcwbYi&amp;index=1)
+### [Настройка беспроводного IP-телефона Yealink W52P](https://www.youtube.com/watch?v=o9giXW_YEhA&amp;list=PLVULwBUtsriOyNZCYlZjGJOob2pmcwbYi&amp;index=2)
+### [Настройка IP - телефона Grandstream GXP1610](https://www.youtube.com/watch?v=HTFfAjJkCV8&amp;list=PLVULwBUtsriOyNZCYlZjGJOob2pmcwbYi&amp;index=3)
+### [Настройка Gigaset N510 IP PRO в связке с R650H PRO для Asterisk](https://www.youtube.com/watch?v=ScvE6biT7u4&amp;list=PLVULwBUtsriOyNZCYlZjGJOob2pmcwbYi&amp;index=4)
+### [Настройка IP - телефона Yealink SIP T21-E2](https://www.youtube.com/watch?v=KzubHAO3sjw&amp;list=PLVULwBUtsriOyNZCYlZjGJOob2pmcwbYi&amp;index=5)

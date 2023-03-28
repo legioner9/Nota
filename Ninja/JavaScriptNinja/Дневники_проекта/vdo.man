@@ -1,0 +1,7 @@
+### [#1 Первые шаги - Дневники проекта](https://www.youtube.com/watch?v=g2mc-04in0E&amp;list=PLvTBThJr861x-HzxtMpj98PQXoegchi3N&amp;index=1)
+### [#2 Стек - Дневники проекта](https://www.youtube.com/watch?v=Vh5dh5jmwT0&amp;list=PLvTBThJr861x-HzxtMpj98PQXoegchi3N&amp;index=2)
+### [#3 Backend - Дневники проекта](https://www.youtube.com/watch?v=hFZiN0LoUqA&amp;list=PLvTBThJr861x-HzxtMpj98PQXoegchi3N&amp;index=3)
+### [#4 Выбор базы данных - Дневники проекта](https://www.youtube.com/watch?v=engZ2qNYnKg&amp;list=PLvTBThJr861x-HzxtMpj98PQXoegchi3N&amp;index=4)
+### [#5 ORM - Дневники проекта](https://www.youtube.com/watch?v=2E2ElxA8EUk&amp;list=PLvTBThJr861x-HzxtMpj98PQXoegchi3N&amp;index=5)
+### [#6 Vue.js - Дневники проекта](https://www.youtube.com/watch?v=M9j-ctLM_5Q&amp;list=PLvTBThJr861x-HzxtMpj98PQXoegchi3N&amp;index=6)
+### [#7 ACL (сервер) - Дневники проекта](https://www.youtube.com/watch?v=k-N7RWSg_J4&amp;list=PLvTBThJr861x-HzxtMpj98PQXoegchi3N&amp;index=7)

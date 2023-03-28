@@ -1,0 +1,6 @@
+### [Знакомство с курсом JavaScript Шаблоны](https://www.youtube.com/watch?v=ild2rCyrsoU&amp;list=PLvItDmb0sZw9GTaAsuPGRydAUG61MnCsy&amp;index=1)
+### [JavaScript Шаблоны. Урок 1. Литералы и конструкторы.](https://www.youtube.com/watch?v=h0LJpFQfB8s&amp;list=PLvItDmb0sZw9GTaAsuPGRydAUG61MnCsy&amp;index=2)
+### [JavaScript Шаблоны. Урок 2. Функции.](https://www.youtube.com/watch?v=gma6YhFjoK4&amp;list=PLvItDmb0sZw9GTaAsuPGRydAUG61MnCsy&amp;index=3)
+### [JavaScript Шаблоны. Урок 3. Шаблоны создания объектов и повторное использование кода.](https://www.youtube.com/watch?v=iqXG4D4RsQE&amp;list=PLvItDmb0sZw9GTaAsuPGRydAUG61MnCsy&amp;index=4)
+### [JavaScript Шаблоны. Урок 4. Шаблоны проектирования в JavaScript](https://www.youtube.com/watch?v=2ixC3c4u4ic&amp;list=PLvItDmb0sZw9GTaAsuPGRydAUG61MnCsy&amp;index=5)
+### [JavaScript Шаблоны. Урок 5. Шаблоны JavaScript  работы с DOM деревом](https://www.youtube.com/watch?v=3m1RHV00m1U&amp;list=PLvItDmb0sZw9GTaAsuPGRydAUG61MnCsy&amp;index=6)

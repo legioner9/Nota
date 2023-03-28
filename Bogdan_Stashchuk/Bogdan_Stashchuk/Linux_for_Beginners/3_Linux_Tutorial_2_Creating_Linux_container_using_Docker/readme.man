@@ -1,0 +1,3 @@
+# [Bogdan Stashchuk](https://www.youtube.com/@Bogdan_Stashchuk/playlists)
+## [Linux for Beginners](https://www.youtube.com/playlist?list=PLWkguCWKqN9OrwsklvLC8FB87TbaOQGqY)
+### [Linux Tutorial: 2 Creating Linux container using Docker](https://www.youtube.com/watch?v=sDdSGHnx_Mk&amp;list=PLWkguCWKqN9OrwsklvLC8FB87TbaOQGqY&amp;index=3)

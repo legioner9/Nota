@@ -1,0 +1,3 @@
+# [OTUS Онлайн - образование](https://www.youtube.com/@otus_education/playlists)
+## [Курс | DataOps Engineer](https://www.youtube.com/playlist?list=PLfnFOImnyWRUW3zhr_fvq_TFKeXsll6pc)
+### [ETL. Что это такое и инструменты создания // Демо-занятие курса «DataOps Engineer»](https://www.youtube.com/watch?v=uAWTVNPQUtQ&amp;list=PLfnFOImnyWRUW3zhr_fvq_TFKeXsll6pc&amp;index=2)

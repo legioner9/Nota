@@ -1,0 +1,3 @@
+# [ITVDN](https://www.youtube.com/@ITVDN/playlists?view=1)
+## [React Advanced](https://www.youtube.com/playlist?list=PLvItDmb0sZw9CbcmbrRsdWSxPcr3qi4eZ)
+### [React Advanced. Урок 4. Redux practice. Part 2](https://www.youtube.com/watch?v=axZYUYNJe9c&amp;list=PLvItDmb0sZw9CbcmbrRsdWSxPcr3qi4eZ&amp;index=4)

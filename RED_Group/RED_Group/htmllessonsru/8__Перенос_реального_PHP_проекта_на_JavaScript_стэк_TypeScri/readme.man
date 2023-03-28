@@ -1,0 +1,3 @@
+# [RED Group](https://www.youtube.com/@REDGroup/playlists)
+## [htmllessons.ru](https://www.youtube.com/playlist?list=PLXkonRjGXZwydC_NN5PfE_rwfudBiu-Vs)
+### [✨ Перенос реального PHP проекта на JavaScript стэк [TypeScript / React / Nest.js / GraphQL]](https://www.youtube.com/watch?v=38fi3cis6Ac&amp;list=PLXkonRjGXZwydC_NN5PfE_rwfudBiu-Vs&amp;index=8)

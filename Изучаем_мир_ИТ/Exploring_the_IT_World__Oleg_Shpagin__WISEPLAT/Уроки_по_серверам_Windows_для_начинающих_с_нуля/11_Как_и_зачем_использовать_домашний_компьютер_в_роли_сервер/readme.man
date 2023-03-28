@@ -1,0 +1,3 @@
+# [Exploring the IT World / Oleg Shpagin / WISEPLAT](https://www.youtube.com/@wiseplat/playlists)
+## [Уроки по серверам Windows для начинающих с нуля](https://www.youtube.com/playlist?list=PLxiU3nwEQ4PFXS8RB0mqF1DTyTR5LNK1B)
+### [Как и зачем использовать домашний компьютер в роли сервера](https://www.youtube.com/watch?v=qmn0l2IUlUE&amp;list=PLxiU3nwEQ4PFXS8RB0mqF1DTyTR5LNK1B&amp;index=11)

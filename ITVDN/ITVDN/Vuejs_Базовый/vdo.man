@@ -1,0 +1,2 @@
+### [Работа с компонентами. Vue.js Базовый. Урок 1](https://www.youtube.com/watch?v=-4r9bUuch1M&amp;list=PLvItDmb0sZw824HaPhmC3yix6PasHDjfh&amp;index=1)
+### [Работа с директивами, фильтрами. Vue.js Базовый. Урок 2](https://www.youtube.com/watch?v=T7sbLKz6GaY&amp;list=PLvItDmb0sZw824HaPhmC3yix6PasHDjfh&amp;index=2)

@@ -1,0 +1,3 @@
+# [ITVDN](https://www.youtube.com/@ITVDN/playlists?view=1)
+## [Гайд по курсам](https://www.youtube.com/playlist?list=PLvItDmb0sZw9X6FaxPw69b5vEV4Gc2OB-)
+### [Знакомство с курсом AngularJS](https://www.youtube.com/watch?v=J5aD2RLawfs&amp;list=PLvItDmb0sZw9X6FaxPw69b5vEV4Gc2OB-&amp;index=7)

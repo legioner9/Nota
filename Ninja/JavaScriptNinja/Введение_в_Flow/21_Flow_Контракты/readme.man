@@ -1,0 +1,3 @@
+# [JavaScript.Ninja](https://www.youtube.com/@JavaScriptNinja/playlists)
+## [Введение в Flow](https://www.youtube.com/playlist?list=PLvTBThJr861zvILAjREUakZ6E5l7h7lsZ)
+### [Flow: Контракты](https://www.youtube.com/watch?v=7CcbEGVpnMg&amp;list=PLvTBThJr861zvILAjREUakZ6E5l7h7lsZ&amp;index=21)

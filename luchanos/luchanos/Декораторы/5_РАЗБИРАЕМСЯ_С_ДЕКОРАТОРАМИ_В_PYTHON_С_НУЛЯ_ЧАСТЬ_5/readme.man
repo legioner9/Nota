@@ -1,0 +1,3 @@
+# [luchanos](https://www.youtube.com/@luchanos/playlists?view=1&sort=dd&shelf_id=0)
+## [Декораторы](https://www.youtube.com/playlist?list=PLlKID9PnOE5h8VJyEiEd_Uv_-tt9KX7MD)
+### [РАЗБИРАЕМСЯ С ДЕКОРАТОРАМИ В PYTHON С НУЛЯ (ЧАСТЬ 5)](https://www.youtube.com/watch?v=nuwb1mBd7J4&amp;list=PLlKID9PnOE5h8VJyEiEd_Uv_-tt9KX7MD&amp;index=5)

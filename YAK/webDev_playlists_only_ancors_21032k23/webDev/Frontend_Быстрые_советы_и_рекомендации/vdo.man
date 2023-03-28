@@ -1,0 +1,3 @@
+### [Front-end. Быстрые советы и рекомендации #3 Используй консоль браузера на 100%](https://www.youtube.com/watch?v=9U2hloR0Ies&amp;list=PLNkWIWHIRwMFDRZRMMUVkn3QXEogqBJfA&amp;index=1)
+### [Front-end. Быстрые советы и рекомендации #2 Портфолио разработчика на GitHub](https://www.youtube.com/watch?v=WX7bXeRze5o&amp;list=PLNkWIWHIRwMFDRZRMMUVkn3QXEogqBJfA&amp;index=2)
+### [Front-end. Быстрые советы и рекомендации #1 Деплоим React-приложение на GitHub](https://www.youtube.com/watch?v=b1i7vximfqE&amp;list=PLNkWIWHIRwMFDRZRMMUVkn3QXEogqBJfA&amp;index=3)

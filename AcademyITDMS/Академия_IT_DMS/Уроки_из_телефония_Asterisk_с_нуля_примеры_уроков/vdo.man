@@ -1,0 +1,5 @@
+### [Безопасность Asterisk](https://www.youtube.com/watch?v=3a3IHSOExZY&amp;list=PLvGOckMhKg77B0N62spLJPoK8OGYTMQDd&amp;index=1)
+### [Автоответчик (голосовая почта) Asterisk](https://www.youtube.com/watch?v=WMFyXZb6P2M&amp;list=PLvGOckMhKg77B0N62spLJPoK8OGYTMQDd&amp;index=2)
+### [Установка Asterisk](https://www.youtube.com/watch?v=TFm0rw05XZQ&amp;list=PLvGOckMhKg77B0N62spLJPoK8OGYTMQDd&amp;index=3)
+### [Настройка Dial плана в Asterisk](https://www.youtube.com/watch?v=OvJ2kZT3WYE&amp;list=PLvGOckMhKg77B0N62spLJPoK8OGYTMQDd&amp;index=4)
+### [Перехват звонков Asterisk (Pickup)](https://www.youtube.com/watch?v=oFEJNFpjGI0&amp;list=PLvGOckMhKg77B0N62spLJPoK8OGYTMQDd&amp;index=5)

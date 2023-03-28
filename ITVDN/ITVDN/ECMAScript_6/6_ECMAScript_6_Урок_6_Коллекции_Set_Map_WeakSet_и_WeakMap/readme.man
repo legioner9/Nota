@@ -1,0 +1,3 @@
+# [ITVDN](https://www.youtube.com/@ITVDN/playlists?view=1)
+## [ECMAScript 6](https://www.youtube.com/playlist?list=PLvItDmb0sZw84dGN9CVh1A6HcehHgXECW)
+### [ECMAScript 6. Урок 6. Коллекции Set, Map, WeakSet и WeakMap](https://www.youtube.com/watch?v=P8fI0fX-LFI&amp;list=PLvItDmb0sZw84dGN9CVh1A6HcehHgXECW&amp;index=6)

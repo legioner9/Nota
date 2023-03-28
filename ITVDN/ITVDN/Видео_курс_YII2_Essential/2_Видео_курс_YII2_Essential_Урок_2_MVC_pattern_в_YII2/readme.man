@@ -1,0 +1,3 @@
+# [ITVDN](https://www.youtube.com/@ITVDN/playlists?view=1)
+## [Видео курс YII2 Essential](https://www.youtube.com/playlist?list=PLvItDmb0sZw-Hdv1nYwi8drpf4iFgRfMd)
+### [Видео курс YII2 Essential. Урок 2. MVC pattern в YII2](https://www.youtube.com/watch?v=HTcJrCkOeAw&amp;list=PLvItDmb0sZw-Hdv1nYwi8drpf4iFgRfMd&amp;index=2)

@@ -1,0 +1,3 @@
+# [OTUS Онлайн - образование](https://www.youtube.com/@otus_education/playlists)
+## [Курс |  Spring Framework Developer](https://www.youtube.com/playlist?list=PLfnFOImnyWRUMdnuQyY_FvHDZJZ3R1Apb)
+### [Введение в облака, создание кластера в Mongo DB Atlas // Курс «Разработчик на Spring Framework»](https://www.youtube.com/watch?v=jpPS7dWccPs&amp;list=PLfnFOImnyWRUMdnuQyY_FvHDZJZ3R1Apb&amp;index=22)

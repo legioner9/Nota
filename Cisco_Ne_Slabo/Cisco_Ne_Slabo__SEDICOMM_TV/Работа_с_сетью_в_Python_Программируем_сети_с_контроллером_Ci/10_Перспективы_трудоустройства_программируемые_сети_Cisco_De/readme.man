@@ -1,0 +1,3 @@
+# [Cisco Ne Slabo / SEDICOMM TV](https://www.youtube.com/@cisconeslabo/playlists)
+## [Работа с сетью в Python: Программируем сети с контроллером Cisco APIC-EM](https://www.youtube.com/playlist?list=PLMiVLClzZDbSQ8uKf12pOA9PEYtuW1VQO)
+### [Перспективы трудоустройства: программируемые сети Cisco DevNet, Python](https://www.youtube.com/watch?v=7U5giwBx-jw&amp;list=PLMiVLClzZDbSQ8uKf12pOA9PEYtuW1VQO&amp;index=10)

@@ -1,0 +1,5 @@
+### [Angular Advanced. Урок 1. Пользовательские директивы и компоненты](https://www.youtube.com/watch?v=zL5o_A4l4uE&amp;list=PLvItDmb0sZw_ZzDOqRAwCr4dkbd1-Fm2P&amp;index=1)
+### [Angular Advanced. Урок 2. Формы. Часть 1](https://www.youtube.com/watch?v=9NMk2-Eza7Q&amp;list=PLvItDmb0sZw_ZzDOqRAwCr4dkbd1-Fm2P&amp;index=2)
+### [Angular Advanced. Урок 3. Формы. Часть 2](https://www.youtube.com/watch?v=jTGozkg79K4&amp;list=PLvItDmb0sZw_ZzDOqRAwCr4dkbd1-Fm2P&amp;index=3)
+### [Angular Advanced. Урок 4. Реактивное программирование. RxJS](https://www.youtube.com/watch?v=jxlyAOuY9nU&amp;list=PLvItDmb0sZw_ZzDOqRAwCr4dkbd1-Fm2P&amp;index=4)
+### [Angular Advanced. Урок 5. Отслеживание изменений](https://www.youtube.com/watch?v=7LLnPxP8Txw&amp;list=PLvItDmb0sZw_ZzDOqRAwCr4dkbd1-Fm2P&amp;index=5)

@@ -1,0 +1,3 @@
+# [RED Group](https://www.youtube.com/@REDGroup/playlists)
+## [Копии приложений на React Native](https://www.youtube.com/playlist?list=PLXkonRjGXZwyCKmtyLoJrOj347ouqZyPU)
+### [Копия приложения WhatsApp за 2 часа на React Native + Firebase + React Navigation](https://www.youtube.com/watch?v=Ch0RwN424Ns&amp;list=PLXkonRjGXZwyCKmtyLoJrOj347ouqZyPU&amp;index=2)

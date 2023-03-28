@@ -1,0 +1,3 @@
+# [OTUS Онлайн - образование](https://www.youtube.com/@otus_education/playlists)
+## [Курс | NOSQL](https://www.youtube.com/playlist?list=PLfnFOImnyWRWjV1HN7Nt7gzPQUjRqKpOM)
+### [Redis под микроскопом для разработчиков // Демо-занятие курса «NoSQL»](https://www.youtube.com/watch?v=F7G094ioQfE&amp;list=PLfnFOImnyWRWjV1HN7Nt7gzPQUjRqKpOM&amp;index=4)

@@ -1,0 +1,3 @@
+# [ITVDN](https://www.youtube.com/@ITVDN/playlists?view=1)
+## [Выполнение домашнего задания по курсу C# Базовый](https://www.youtube.com/playlist?list=PLvItDmb0sZw9tI-X9_8bn7WiEPNKCTXZC)
+### [Выполнение домашнего задания для урока 15 &quot;Обработка исключений (exception)&quot; курса C# Базовый](https://www.youtube.com/watch?v=dd6l_bneUFM&amp;list=PLvItDmb0sZw9tI-X9_8bn7WiEPNKCTXZC&amp;index=15)

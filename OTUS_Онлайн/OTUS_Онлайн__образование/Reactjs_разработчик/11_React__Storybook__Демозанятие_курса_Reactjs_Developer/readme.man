@@ -1,0 +1,3 @@
+# [OTUS Онлайн - образование](https://www.youtube.com/@otus_education/playlists)
+## [React.js разработчик](https://www.youtube.com/playlist?list=PLfnFOImnyWRWhDwoXXqkn2iIRHdA2iJjX)
+### [React + Storybook // Демо-занятие курса «React.js Developer»](https://www.youtube.com/watch?v=XtQv-t2Wm7M&amp;list=PLfnFOImnyWRWhDwoXXqkn2iIRHdA2iJjX&amp;index=11)

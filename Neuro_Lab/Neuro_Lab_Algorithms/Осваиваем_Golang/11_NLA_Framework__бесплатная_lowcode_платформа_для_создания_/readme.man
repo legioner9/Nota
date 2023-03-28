@@ -1,0 +1,3 @@
+# [Neuro Lab! Algorithms](https://www.youtube.com/@NeuroLabAlgorithms/playlists)
+## [Осваиваем Golang](https://www.youtube.com/playlist?list=PLHUicSITKZEmz2w3zo-aUpxCUZuqONE4c)
+### [NL!A Framework - бесплатная low-code платформа для создания бизнес приложений](https://www.youtube.com/watch?v=M3_irQG_tXg&amp;list=PLHUicSITKZEmz2w3zo-aUpxCUZuqONE4c&amp;index=11)

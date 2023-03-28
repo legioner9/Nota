@@ -1,0 +1,3 @@
+# [OTUS Онлайн - образование](https://www.youtube.com/@otus_education/playlists)
+## [Курс | DevOps практики и инструменты](https://www.youtube.com/playlist?list=PLfnFOImnyWRUOpAQLhyadp7mK2PXKj5xj)
+### [Делаем immutable infrastructure с помощью Packer и Terraform // DevOps практики и инструменты. День2](https://www.youtube.com/watch?v=X5EV83S2d1Q&amp;list=PLfnFOImnyWRUOpAQLhyadp7mK2PXKj5xj&amp;index=27)

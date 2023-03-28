@@ -1,0 +1,3 @@
+# [Marlin](https://www.youtube.com/@ToBeCloser007/playlists)
+## [PHP Основы](https://www.youtube.com/playlist?list=PLa9lO_Eq-vZX6117LwsYYKoYOWunvce-8)
+### [Основы PHP - Массив $_GET #10](https://www.youtube.com/watch?v=WOEZVT3LsOc&amp;list=PLa9lO_Eq-vZX6117LwsYYKoYOWunvce-8&amp;index=11)

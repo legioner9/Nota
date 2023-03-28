@@ -1,0 +1,3 @@
+# [ITVDN](https://www.youtube.com/@ITVDN/playlists?view=1)
+## [C# Essential, how to...](https://www.youtube.com/playlist?list=PLvItDmb0sZw9Ypjrcgaq0QI84lfHvhP7p)
+### [How to C# Essential. Урок 13. Как работает модификатор доступа protected в C#](https://www.youtube.com/watch?v=eZ_14Uq7p48&amp;list=PLvItDmb0sZw9Ypjrcgaq0QI84lfHvhP7p&amp;index=4)

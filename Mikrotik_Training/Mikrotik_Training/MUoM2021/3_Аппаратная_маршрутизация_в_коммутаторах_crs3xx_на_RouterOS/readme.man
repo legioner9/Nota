@@ -1,0 +1,3 @@
+# [Mikrotik Training](https://www.youtube.com/@MikrotikTraining/playlists)
+## [MUoM-2021](https://www.youtube.com/playlist?list=PLg90hRDCH9A4bcHk-joRnwUNvrSz0Ud8I)
+### [Аппаратная маршрутизация в коммутаторах crs3xx на RouterOS 7 и построение локальных сетей](https://www.youtube.com/watch?v=ewWGf0jdS6s&amp;list=PLg90hRDCH9A4bcHk-joRnwUNvrSz0Ud8I&amp;index=3)

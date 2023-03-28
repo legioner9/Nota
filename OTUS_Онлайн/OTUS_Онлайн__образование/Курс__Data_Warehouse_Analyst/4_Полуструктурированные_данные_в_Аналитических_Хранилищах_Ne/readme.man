@@ -1,0 +1,3 @@
+# [OTUS Онлайн - образование](https://www.youtube.com/@otus_education/playlists)
+## [Курс | Data Warehouse Analyst](https://www.youtube.com/playlist?list=PLfnFOImnyWRVy4_As4CZVQpVj1vJxT1y4)
+### [Полуструктурированные данные в Аналитических Хранилищах: Nested JSON + Arrays](https://www.youtube.com/watch?v=lBwmLnMwfl0&amp;list=PLfnFOImnyWRVy4_As4CZVQpVj1vJxT1y4&amp;index=4)

@@ -1,0 +1,2 @@
+### [Установка Centos 7 в Hyper-V](https://www.youtube.com/watch?v=ZUr2TdUqT2s&amp;list=PLVULwBUtsriMKpIuEiTtN-nCTlMkyQZTu&amp;index=1)
+### [Установка OpenVPN в CentOS](https://www.youtube.com/watch?v=R2pCC29AtiI&amp;list=PLVULwBUtsriMKpIuEiTtN-nCTlMkyQZTu&amp;index=2)

@@ -1,0 +1,4 @@
+### [JWT. Часть 1. Теория](https://www.youtube.com/watch?v=vQldMjSJ6-w&amp;list=PLvTBThJr861y60LQrUGpJNPu3Nt2EeQsP&amp;index=1)
+### [JWT. Часть 2. Проблемы](https://www.youtube.com/watch?v=601CnGGp_MU&amp;list=PLvTBThJr861y60LQrUGpJNPu3Nt2EeQsP&amp;index=2)
+### [JWT. Часть 3. Сервер](https://www.youtube.com/watch?v=_BSag4ABBMY&amp;list=PLvTBThJr861y60LQrUGpJNPu3Nt2EeQsP&amp;index=3)
+### [JWT. Часть 4. Клиент](https://www.youtube.com/watch?v=XG-xOHogPkY&amp;list=PLvTBThJr861y60LQrUGpJNPu3Nt2EeQsP&amp;index=4)

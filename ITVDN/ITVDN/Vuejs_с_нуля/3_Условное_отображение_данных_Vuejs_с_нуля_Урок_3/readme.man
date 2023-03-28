@@ -1,0 +1,3 @@
+# [ITVDN](https://www.youtube.com/@ITVDN/playlists?view=1)
+## [Vue.js с нуля](https://www.youtube.com/playlist?list=PLvItDmb0sZw_PB1IviJaK6AHxFxXTxXyC)
+### [Условное отображение данных. Vue.js с нуля. Урок 3](https://www.youtube.com/watch?v=dwzdS1TU71M&amp;list=PLvItDmb0sZw_PB1IviJaK6AHxFxXTxXyC&amp;index=3)

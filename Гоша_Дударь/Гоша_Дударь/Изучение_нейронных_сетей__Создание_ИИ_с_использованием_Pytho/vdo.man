@@ -1,0 +1,8 @@
+### [НЕЙРОСЕТЬ: просто о сложном! Создание нейронной сети на Python](https://www.youtube.com/watch?v=kUDOcl9anxU&amp;list=PL0lO_mIqDDFWovejFKVKLH0pzVKZluAG-&amp;index=1)
+### [Искусственный интеллект на Python и Tensorflow. Пишем свою нейронку!](https://www.youtube.com/watch?v=m02ewTyjUSM&amp;list=PL0lO_mIqDDFWovejFKVKLH0pzVKZluAG-&amp;index=2)
+### [Распознавание объектов на Python / Глубокое машинное обучение](https://www.youtube.com/watch?v=Uj4O2_dwRiA&amp;list=PL0lO_mIqDDFWovejFKVKLH0pzVKZluAG-&amp;index=3)
+### [Простой искусственный интеллект на Python. Распознавание голоса на Python](https://www.youtube.com/watch?v=iIOKHKwi2TE&amp;list=PL0lO_mIqDDFWovejFKVKLH0pzVKZluAG-&amp;index=4)
+### [Распознавание голоса и чтение текста на JavaScript (Примеры и демонстрация)](https://www.youtube.com/watch?v=vYnNa3OTyhc&amp;list=PL0lO_mIqDDFWovejFKVKLH0pzVKZluAG-&amp;index=5)
+### [OpenAI библиотека для генерации кода, текста, вёрстки… / GPT 3 — библиотека будущего?](https://www.youtube.com/watch?v=KAhVu2E7NMo&amp;list=PL0lO_mIqDDFWovejFKVKLH0pzVKZluAG-&amp;index=6)
+### [Распознавание текста с картинки. Python Tesseract ORC + OpenCV](https://www.youtube.com/watch?v=1K4_sv90zA0&amp;list=PL0lO_mIqDDFWovejFKVKLH0pzVKZluAG-&amp;index=7)
+### [Изучение Python OpenCV / Урок #1 – Нейронные сети и машинное обучение](https://www.youtube.com/watch?v=_23gclr91P4&amp;list=PL0lO_mIqDDFWovejFKVKLH0pzVKZluAG-&amp;index=8)
