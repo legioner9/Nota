@@ -1,0 +1,3 @@
+# [blacktrub channel](https://www.youtube.com/@blacktrub/playlists)
+## [A Tour of Go](https://www.youtube.com/playlist?list=PLqJ-vFLoJOaFxvnAgs1ap-QmeEhOGLwGT)
+### [A Tour of Go #4: Конкурируем](https://www.youtube.com/watch?v=jlyzRU4OzRE&amp;list=PLqJ-vFLoJOaFxvnAgs1ap-QmeEhOGLwGT&amp;index=4&amp;pp=iAQB)

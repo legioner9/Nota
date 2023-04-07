@@ -1,0 +1,3 @@
+# [loftblog](https://www.youtube.com/@loftblog/playlists)
+## [Вебинар - курс по Android](https://www.youtube.com/playlist?list=PLY4rE9dstrJzX-RR82UUOSxg3zaii-_bg)
+### [Пишем Android-приложение с нуля на Jetpack + Kotlin](https://www.youtube.com/watch?v=1YLWWgTvoUE&amp;list=PLY4rE9dstrJzX-RR82UUOSxg3zaii-_bg&amp;index=14&amp;pp=iAQB)

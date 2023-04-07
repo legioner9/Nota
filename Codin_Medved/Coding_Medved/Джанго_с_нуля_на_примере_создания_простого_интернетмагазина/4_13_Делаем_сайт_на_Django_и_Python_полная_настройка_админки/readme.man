@@ -1,0 +1,3 @@
+# [Coding Medved](https://www.youtube.com/@codingmedved9026/playlists)
+## [Джанго с нуля на примере создания простого интернет-магазина](https://www.youtube.com/playlist?list=PLSWnD6rL-m9adebgpvvOLH5ASGJiznWdg)
+### [1.3 Делаем сайт на Django и Python: полная настройка админки в Джанго + немного о моделях в джанго.](https://www.youtube.com/watch?v=DBU0vQkiJgA&amp;list=PLSWnD6rL-m9adebgpvvOLH5ASGJiznWdg&amp;index=4&amp;pp=iAQB)

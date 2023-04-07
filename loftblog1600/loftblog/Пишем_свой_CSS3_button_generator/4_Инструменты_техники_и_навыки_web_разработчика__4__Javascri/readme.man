@@ -1,0 +1,3 @@
+# [loftblog](https://www.youtube.com/@loftblog/playlists)
+## [Пишем свой CSS3 button generator](https://www.youtube.com/playlist?list=PLY4rE9dstrJw03_uGKTz-v_AYa_aAJr9F)
+### [Инструменты, техники и навыки web разработчика - 4 - Javascript + jquery](https://www.youtube.com/watch?v=Czmzu8Eh1r8&amp;list=PLY4rE9dstrJw03_uGKTz-v_AYa_aAJr9F&amp;index=4&amp;pp=iAQB)

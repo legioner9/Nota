@@ -1,0 +1,3 @@
+# [loftblog](https://www.youtube.com/@loftblog/playlists)
+## [Основы javascript](https://www.youtube.com/playlist?list=PLY4rE9dstrJymG1GyPLgOKsJNq9r-p6pX)
+### [Основы Javascript 2 - Примитивные и объектные данные. Обертки](https://www.youtube.com/watch?v=p-Ob8gEJBJs&amp;list=PLY4rE9dstrJymG1GyPLgOKsJNq9r-p6pX&amp;index=2&amp;pp=iAQB)

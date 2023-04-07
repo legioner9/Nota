@@ -1,0 +1,3 @@
+# [loftblog](https://www.youtube.com/@loftblog/playlists)
+## [Вебинары](https://www.youtube.com/playlist?list=PLY4rE9dstrJwoSoksf2bGCZciaNH-cLEj)
+### [Открытый вебинар по AngularJS. AngularJs + Gulp - быстрая настройка!](https://www.youtube.com/watch?v=G3ItReHq0p0&amp;list=PLY4rE9dstrJwoSoksf2bGCZciaNH-cLEj&amp;index=10&amp;pp=iAQB)

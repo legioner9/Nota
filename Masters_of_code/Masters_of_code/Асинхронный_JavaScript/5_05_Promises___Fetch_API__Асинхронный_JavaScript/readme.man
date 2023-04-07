@@ -1,0 +1,3 @@
+# [Masters of ${code}](https://www.youtube.com/@MastersOfCode/playlists?view=1)
+## [Асинхронный JavaScript](https://www.youtube.com/playlist?list=PLCp7YGqt4kFqd3BzBmpl4QnnmieKAZ6Us)
+### [05 Promises   Fetch API | Асинхронный JavaScript](https://www.youtube.com/watch?v=flaLdZefA4s&amp;list=PLCp7YGqt4kFqd3BzBmpl4QnnmieKAZ6Us&amp;index=5&amp;pp=iAQB)

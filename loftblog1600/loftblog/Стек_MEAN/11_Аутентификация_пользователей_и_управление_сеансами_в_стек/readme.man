@@ -1,0 +1,3 @@
+# [loftblog](https://www.youtube.com/@loftblog/playlists)
+## [Стек MEAN](https://www.youtube.com/playlist?list=PLY4rE9dstrJzF0C_Px5ILePNo8eULCbG4)
+### [Аутентификация пользователей и управление сеансами в стек MEAN](https://www.youtube.com/watch?v=6or8Fj-6NaE&amp;list=PLY4rE9dstrJzF0C_Px5ILePNo8eULCbG4&amp;index=11&amp;pp=iAQB)

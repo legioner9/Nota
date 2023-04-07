@@ -1,0 +1,3 @@
+# [loftblog](https://www.youtube.com/@loftblog/playlists)
+## [Основы javascript](https://www.youtube.com/playlist?list=PLY4rE9dstrJymG1GyPLgOKsJNq9r-p6pX)
+### [Основы javascript 18 — Изменение стилей элемента.](https://www.youtube.com/watch?v=NDe-anrOZ_s&amp;list=PLY4rE9dstrJymG1GyPLgOKsJNq9r-p6pX&amp;index=18&amp;pp=iAQB)

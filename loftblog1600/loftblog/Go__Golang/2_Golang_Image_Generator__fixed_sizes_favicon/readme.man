@@ -1,0 +1,3 @@
+# [loftblog](https://www.youtube.com/@loftblog/playlists)
+## [Go / Golang](https://www.youtube.com/playlist?list=PLY4rE9dstrJxuKKPNdVUojnN3lD-hXy2R)
+### [Golang: Image Generator - fixed sizes [favicon]](https://www.youtube.com/watch?v=LyyK-tGhSuI&amp;list=PLY4rE9dstrJxuKKPNdVUojnN3lD-hXy2R&amp;index=2&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [loftblog](https://www.youtube.com/@loftblog/playlists)
+## [Основы Ruby on Rails](https://www.youtube.com/playlist?list=PLY4rE9dstrJzngTaKaPPL2dj9uBpEw1Zf)
+### [Ruby on Rails - #1 - Введение](https://www.youtube.com/watch?v=nLawteLcBc8&amp;list=PLY4rE9dstrJzngTaKaPPL2dj9uBpEw1Zf&amp;index=1&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [Masters of ${code}](https://www.youtube.com/@MastersOfCode/playlists?view=1)
+## [Асинхронный JavaScript](https://www.youtube.com/playlist?list=PLCp7YGqt4kFqd3BzBmpl4QnnmieKAZ6Us)
+### [21 Запуск Нескольких Promise Параллельно](https://www.youtube.com/watch?v=LCUbk8Cxbm8&amp;list=PLCp7YGqt4kFqd3BzBmpl4QnnmieKAZ6Us&amp;index=21&amp;pp=iAQB)

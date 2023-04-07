@@ -1,0 +1,3 @@
+# [Masters of ${code}](https://www.youtube.com/@MastersOfCode/playlists?view=1)
+## [Асинхронный JavaScript](https://www.youtube.com/playlist?list=PLCp7YGqt4kFqd3BzBmpl4QnnmieKAZ6Us)
+### [12 Асинхронность под Капотом   Event Loop](https://www.youtube.com/watch?v=LIvmnmNFdt8&amp;list=PLCp7YGqt4kFqd3BzBmpl4QnnmieKAZ6Us&amp;index=12&amp;pp=iAQB)

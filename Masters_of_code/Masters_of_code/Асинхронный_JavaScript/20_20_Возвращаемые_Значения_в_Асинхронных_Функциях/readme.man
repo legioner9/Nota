@@ -1,0 +1,3 @@
+# [Masters of ${code}](https://www.youtube.com/@MastersOfCode/playlists?view=1)
+## [Асинхронный JavaScript](https://www.youtube.com/playlist?list=PLCp7YGqt4kFqd3BzBmpl4QnnmieKAZ6Us)
+### [20 Возвращаемые Значения в Асинхронных Функциях](https://www.youtube.com/watch?v=8O5Z7h4dYEk&amp;list=PLCp7YGqt4kFqd3BzBmpl4QnnmieKAZ6Us&amp;index=20&amp;pp=iAQB)

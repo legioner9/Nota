@@ -1,0 +1,3 @@
+# [loftblog](https://www.youtube.com/@loftblog/playlists)
+## [DevShow](https://www.youtube.com/playlist?list=PLY4rE9dstrJxL8Jaa9XMfX5ORwjdiv_ya)
+### [Веб-разработчик Netflix: Инструментарий, собеседование, Chrome Dev Tools Protocol](https://www.youtube.com/watch?v=YRgNxws3jWw&amp;list=PLY4rE9dstrJxL8Jaa9XMfX5ORwjdiv_ya&amp;index=7&amp;pp=iAQB)

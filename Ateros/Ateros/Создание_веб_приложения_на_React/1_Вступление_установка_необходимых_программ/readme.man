@@ -1,0 +1,3 @@
+# [Ateros](https://www.youtube.com/@_ateros/playlists)
+## [Создание веб приложения на React](https://www.youtube.com/playlist?list=PLfSrF_YWov8ZElauVxs5FivTKasXvmMkH)
+### [Вступление, установка необходимых программ](https://www.youtube.com/watch?v=R5sAjEr4lt0&amp;list=PLfSrF_YWov8ZElauVxs5FivTKasXvmMkH&amp;index=1&amp;pp=iAQB)

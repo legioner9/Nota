@@ -1,0 +1,3 @@
+# [BogdanDotPy](https://www.youtube.com/@BogdanDotPy/playlists)
+## [Django](https://www.youtube.com/playlist?list=PLpTYtB-EF1dsfuZGBTcWDHplGTBkxB_VI)
+### [Впервые настраиваем Gitlab CI/CD с реальным примером](https://www.youtube.com/watch?v=phlsVGysQSw&amp;list=PLpTYtB-EF1dsfuZGBTcWDHplGTBkxB_VI&amp;index=11&amp;pp=iAQB)

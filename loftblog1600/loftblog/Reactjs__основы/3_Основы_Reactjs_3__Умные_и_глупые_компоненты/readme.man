@@ -1,0 +1,3 @@
+# [loftblog](https://www.youtube.com/@loftblog/playlists)
+## [React.js — основы](https://www.youtube.com/playlist?list=PLY4rE9dstrJz3CwptC28Ub9Y3pWIL14mI)
+### [Основы React.js #3 — Умные и глупые компоненты](https://www.youtube.com/watch?v=dBGv0vPGpGg&amp;list=PLY4rE9dstrJz3CwptC28Ub9Y3pWIL14mI&amp;index=3&amp;pp=iAQB)

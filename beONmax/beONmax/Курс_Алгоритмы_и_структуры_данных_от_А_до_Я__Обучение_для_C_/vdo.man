@@ -1,0 +1,4 @@
+### [Алгоритмы и структуры данных от А до Я | Урок #1. Как проходит обучение по курсу. Чему вы научитесь](https://www.youtube.com/watch?v=V4uwE0BM8ow&amp;list=PLIMbZPmmhFav8cU0IwAhLHkoSV6ESQzcx&amp;index=1&amp;pp=iAQB)
+### [Алгоритмы и структуры данных от А до Я | Урок #2. Введение в структуры данных](https://www.youtube.com/watch?v=cF-N2c2Lm2c&amp;list=PLIMbZPmmhFav8cU0IwAhLHkoSV6ESQzcx&amp;index=2&amp;pp=iAQB)
+### [Алгоритмы и структуры данных от А до Я | Урок #3. Введение в алгоритмы](https://www.youtube.com/watch?v=wj621F7YTZU&amp;list=PLIMbZPmmhFav8cU0IwAhLHkoSV6ESQzcx&amp;index=3&amp;pp=iAQB)
+### [Алгоритмы и структуры данных от А до Я | Урок #4. Введение в анализ алгоритмов. Временная сложность](https://www.youtube.com/watch?v=c__lCnDzmio&amp;list=PLIMbZPmmhFav8cU0IwAhLHkoSV6ESQzcx&amp;index=4&amp;pp=iAQB)

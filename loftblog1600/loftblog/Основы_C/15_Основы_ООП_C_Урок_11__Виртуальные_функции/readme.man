@@ -1,0 +1,3 @@
+# [loftblog](https://www.youtube.com/@loftblog/playlists)
+## [Основы C++](https://www.youtube.com/playlist?list=PLY4rE9dstrJzGC_1IlAwuY806WasvTIAJ)
+### [Основы ООП C++. Урок 11 - Виртуальные функции](https://www.youtube.com/watch?v=hpC0LRsTJ7M&amp;list=PLY4rE9dstrJzGC_1IlAwuY806WasvTIAJ&amp;index=15&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [beONmax](https://www.youtube.com/@beONmax/playlists)
+## [Курс KOTLIN - Быстрый старт! Уроки KOTLIN для начинающих.](https://www.youtube.com/playlist?list=PLIMbZPmmhFav72hZVhXi5ipmIy-O-slHG)
+### [KOTLIN - Быстрый старт! | Урок #2. Первая программа на Kotlin](https://www.youtube.com/watch?v=u-HbHmoLHOo&amp;list=PLIMbZPmmhFav72hZVhXi5ipmIy-O-slHG&amp;index=2&amp;pp=iAQB)

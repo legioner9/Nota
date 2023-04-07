@@ -1,0 +1,3 @@
+# [loftblog](https://www.youtube.com/@loftblog/playlists)
+## [Создание responsive SVG иконки](https://www.youtube.com/playlist?list=PLY4rE9dstrJz92FnuVZWB4oH5RzPAvPpe)
+### [Встраивание SVG на web-страницу (часть 1)](https://www.youtube.com/watch?v=aEfjPtv8wPQ&amp;list=PLY4rE9dstrJz92FnuVZWB4oH5RzPAvPpe&amp;index=4&amp;pp=iAQB)

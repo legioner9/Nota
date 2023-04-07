@@ -1,0 +1,3 @@
+# [Masters of ${code}](https://www.youtube.com/@MastersOfCode/playlists?view=1)
+## [Python 3 Уроки Для Начинающих](https://www.youtube.com/playlist?list=PLCp7YGqt4kFove1HjnFISvQWIHidUl_et)
+### [Python 3 Уроки Для Начинающих | Урок №1. Как установить Python 3 на Windows 10 | Python для новичков](https://www.youtube.com/watch?v=e9c3Op_Wcik&amp;list=PLCp7YGqt4kFove1HjnFISvQWIHidUl_et&amp;index=4&amp;pp=iAQB)

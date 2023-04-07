@@ -1,0 +1,3 @@
+# [loftblog](https://www.youtube.com/@loftblog/playlists)
+## [WordPress для фрилансера](https://www.youtube.com/playlist?list=PLY4rE9dstrJyvr3-ssA_ai5xnvSOI5tr6)
+### [Что такое Custom Post Type. Функция register_post_type()](https://www.youtube.com/watch?v=O9j-R-GwCt4&amp;list=PLY4rE9dstrJyvr3-ssA_ai5xnvSOI5tr6&amp;index=2&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [DataLearn](https://www.youtube.com/@datalearn4398/playlists)
+## [SQL-101](https://www.youtube.com/playlist?list=PLkcP_moW_BpOs4gO6SrPrvXu0sPcTyUyp)
+### [29.2 Хранимые процедуры. Вычисляемые столбцы. Пользовательские функции. Транзакции, обработка ошибок](https://www.youtube.com/watch?v=77wrh3DQKro&amp;list=PLkcP_moW_BpOs4gO6SrPrvXu0sPcTyUyp&amp;index=35&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [beONmax](https://www.youtube.com/@beONmax/playlists)
+## [Курс LINUX/GIT для начинающих - уроки настройки сервера для сайта](https://www.youtube.com/playlist?list=PLIMbZPmmhFatZm-6cjMxREChLwUluxPue)
+### [LINUX/GIT для начинающих. Урок #3. Работа с редактором NANO в терминале Linux](https://www.youtube.com/watch?v=mSX7BJutl4s&amp;list=PLIMbZPmmhFatZm-6cjMxREChLwUluxPue&amp;index=3&amp;pp=iAQB)

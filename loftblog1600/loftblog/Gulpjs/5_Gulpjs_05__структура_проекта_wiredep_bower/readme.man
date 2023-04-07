@@ -1,0 +1,3 @@
+# [loftblog](https://www.youtube.com/@loftblog/playlists)
+## [Gulp.js](https://www.youtube.com/playlist?list=PLY4rE9dstrJwXCz1utct9b6Vub9VWQoKo)
+### [Gulp.js #05 - структура проекта, wiredep, bower](https://www.youtube.com/watch?v=PNlTFa-XzIM&amp;list=PLY4rE9dstrJwXCz1utct9b6Vub9VWQoKo&amp;index=5&amp;pp=iAQB)

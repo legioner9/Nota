@@ -1,0 +1,2 @@
+### [Переход с Windows на Mac OS](https://www.youtube.com/watch?v=RUFav-sOT9U&amp;list=PLY4rE9dstrJwBtWN0tLqcG12haYmw_SgX&amp;index=1&amp;pp=iAQB)
+### [Workflow — Atom, Sass, Pug, LiveReload, Prepros, FTP, MAMP](https://www.youtube.com/watch?v=onattqqiKNo&amp;list=PLY4rE9dstrJwBtWN0tLqcG12haYmw_SgX&amp;index=2&amp;pp=iAQB)

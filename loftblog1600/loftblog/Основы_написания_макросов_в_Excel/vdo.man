@@ -1,0 +1,7 @@
+### [Основы написания макросов в Excel - #1 - Знакомство с макросами](https://www.youtube.com/watch?v=g1l61o1CTwI&amp;list=PLY4rE9dstrJyumRK-ucl1q6CeyOSLzCXD&amp;index=1&amp;pp=iAQB)
+### [Основы написания макросов в Excel - #2 - 7 Способов запуска макроса](https://www.youtube.com/watch?v=l-6q9XPQYMQ&amp;list=PLY4rE9dstrJyumRK-ucl1q6CeyOSLzCXD&amp;index=2&amp;pp=iAQB)
+### [Основы написания макросов в Excel - #3 - Изучаем редактор VBE](https://www.youtube.com/watch?v=4sY59JfYhD0&amp;list=PLY4rE9dstrJyumRK-ucl1q6CeyOSLzCXD&amp;index=3&amp;pp=iAQB)
+### [Основы написания макросов в Excel - #4 - Пишем код полностью с нуля](https://www.youtube.com/watch?v=xZ8yvKImUI4&amp;list=PLY4rE9dstrJyumRK-ucl1q6CeyOSLzCXD&amp;index=4&amp;pp=iAQB)
+### [Основы написания макросов в Excel - #5 - Макрорекодер=Помощник](https://www.youtube.com/watch?v=0HM7UZLk9UE&amp;list=PLY4rE9dstrJyumRK-ucl1q6CeyOSLzCXD&amp;index=5&amp;pp=iAQB)
+### [Основы написания макросов в Excel - #6 - Объектная модель](https://www.youtube.com/watch?v=D_vL_5e4wCQ&amp;list=PLY4rE9dstrJyumRK-ucl1q6CeyOSLzCXD&amp;index=6&amp;pp=iAQB)
+### [Основы написания макросов в Excel - #7 - Обращение к WorkBooks и Worksheets](https://www.youtube.com/watch?v=E5JlYhczI7s&amp;list=PLY4rE9dstrJyumRK-ucl1q6CeyOSLzCXD&amp;index=7&amp;pp=iAQB)

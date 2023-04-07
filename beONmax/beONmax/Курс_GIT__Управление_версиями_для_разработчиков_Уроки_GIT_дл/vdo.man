@@ -1,0 +1,4 @@
+### [GIT | Урок #1. Введение](https://www.youtube.com/watch?v=YmIU4W96Orw&amp;list=PLIMbZPmmhFatX1r09I4G60_XPnl-pWUoA&amp;index=1&amp;pp=iAQB)
+### [GIT | Урок #2. От установки GIT до первого коммита](https://www.youtube.com/watch?v=3ejPb2uFP6o&amp;list=PLIMbZPmmhFatX1r09I4G60_XPnl-pWUoA&amp;index=2&amp;pp=iAQB)
+### [GIT | Урок #3. Игнор, атомарные коммиты, индекс](https://www.youtube.com/watch?v=FHRiAGl7UOA&amp;list=PLIMbZPmmhFatX1r09I4G60_XPnl-pWUoA&amp;index=3&amp;pp=iAQB)
+### [GIT | Урок #4. Примеры атомарных коммитов](https://www.youtube.com/watch?v=5Wo3ToXpzHI&amp;list=PLIMbZPmmhFatX1r09I4G60_XPnl-pWUoA&amp;index=4&amp;pp=iAQB)

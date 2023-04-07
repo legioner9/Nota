@@ -1,0 +1,3 @@
+# [loftblog](https://www.youtube.com/@loftblog/playlists)
+## [Основы Python](https://www.youtube.com/playlist?list=PLY4rE9dstrJwmHGhM-IA98GZf6I--4hKi)
+### [Python #5 - Работа с модулями, редактирование файлов](https://www.youtube.com/watch?v=WsjOlkR6e9U&amp;list=PLY4rE9dstrJwmHGhM-IA98GZf6I--4hKi&amp;index=5&amp;pp=iAQB)

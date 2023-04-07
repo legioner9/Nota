@@ -1,0 +1,3 @@
+# [Masters of ${code}](https://www.youtube.com/@MastersOfCode/playlists?view=1)
+## [Python 3 Уроки Для Начинающих](https://www.youtube.com/playlist?list=PLCp7YGqt4kFove1HjnFISvQWIHidUl_et)
+### [Python 3 Уроки Для Начинающих | Задание №7 | Форматирование строк | Программирование Азы](https://www.youtube.com/watch?v=57Rr4FCHw5c&amp;list=PLCp7YGqt4kFove1HjnFISvQWIHidUl_et&amp;index=22&amp;pp=iAQB)

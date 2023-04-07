@@ -1,0 +1,3 @@
+# [Ateros](https://www.youtube.com/@_ateros/playlists)
+## [2D игра на JavaScript | Платформер](https://www.youtube.com/playlist?list=PLfSrF_YWov8b37p6HEp-GHzGaWoQlnREL)
+### [[#7] Пишем игру на JavaScript (HTML + CSS + JS) | Игра на JS](https://www.youtube.com/watch?v=luNZjCG0KPc&amp;list=PLfSrF_YWov8b37p6HEp-GHzGaWoQlnREL&amp;index=7&amp;pp=iAQB)

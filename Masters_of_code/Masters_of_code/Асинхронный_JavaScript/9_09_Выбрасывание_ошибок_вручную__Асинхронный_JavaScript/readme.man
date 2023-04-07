@@ -1,0 +1,3 @@
+# [Masters of ${code}](https://www.youtube.com/@MastersOfCode/playlists?view=1)
+## [Асинхронный JavaScript](https://www.youtube.com/playlist?list=PLCp7YGqt4kFqd3BzBmpl4QnnmieKAZ6Us)
+### [09 Выбрасывание ошибок вручную | Асинхронный JavaScript](https://www.youtube.com/watch?v=nzB6k6pEtck&amp;list=PLCp7YGqt4kFqd3BzBmpl4QnnmieKAZ6Us&amp;index=9&amp;pp=iAQB)

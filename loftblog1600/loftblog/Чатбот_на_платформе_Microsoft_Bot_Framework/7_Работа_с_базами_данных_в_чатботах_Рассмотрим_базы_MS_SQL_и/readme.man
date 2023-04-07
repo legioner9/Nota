@@ -1,0 +1,3 @@
+# [loftblog](https://www.youtube.com/@loftblog/playlists)
+## [Чат-бот на платформе Microsoft Bot Framework](https://www.youtube.com/playlist?list=PLY4rE9dstrJzmxrLgws5D9zjSgQMZqMON)
+### [Работа с базами данных в чат-ботах. Рассмотрим базы MS SQL и Mongo](https://www.youtube.com/watch?v=km77LsbyW4A&amp;list=PLY4rE9dstrJzmxrLgws5D9zjSgQMZqMON&amp;index=7&amp;pp=iAQB)

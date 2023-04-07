@@ -1,0 +1,6 @@
+### [BOOTSTRAP адаптивная верстка сайта на практике. Урок #1. Знакомство с Bootstrap. Установка](https://www.youtube.com/watch?v=Zv_pbxEUkWQ&amp;list=PLIMbZPmmhFauZhoshRd1tn5u3rWs46SaL&amp;index=1&amp;pp=iAQB)
+### [BOOTSTRAP верстка сайта на практике. Урок #2. Grid System. Классы container и container-fluid](https://www.youtube.com/watch?v=DVwtgSNeZWY&amp;list=PLIMbZPmmhFauZhoshRd1tn5u3rWs46SaL&amp;index=2&amp;pp=iAQB)
+### [BOOTSTRAP верстка сайта на практике. Урок #3. Grid System. Класс row](https://www.youtube.com/watch?v=NXbrTy3JRzk&amp;list=PLIMbZPmmhFauZhoshRd1tn5u3rWs46SaL&amp;index=3&amp;pp=iAQB)
+### [BOOTSTRAP верстка сайта на практике. Урок #4. Grid System. Позиционирование блоков](https://www.youtube.com/watch?v=PRZ3-fW_x2s&amp;list=PLIMbZPmmhFauZhoshRd1tn5u3rWs46SaL&amp;index=4&amp;pp=iAQB)
+### [BOOTSTRAP верстка сайта на практике. Урок #5. Классы для позиционирования при разных размерах экрана](https://www.youtube.com/watch?v=PYYpJE3o-_M&amp;list=PLIMbZPmmhFauZhoshRd1tn5u3rWs46SaL&amp;index=5&amp;pp=iAQB)
+### [BOOTSTRAP верстка сайта на практике. Урок #6. Классы для создания верхнего меню сайта. Navbar](https://www.youtube.com/watch?v=9a1mo1bodlM&amp;list=PLIMbZPmmhFauZhoshRd1tn5u3rWs46SaL&amp;index=6&amp;pp=iAQB)

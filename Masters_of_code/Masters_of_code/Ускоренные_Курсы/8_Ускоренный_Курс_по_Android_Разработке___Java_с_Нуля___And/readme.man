@@ -1,0 +1,3 @@
+# [Masters of ${code}](https://www.youtube.com/@MastersOfCode/playlists?view=1)
+## [Ускоренные Курсы](https://www.youtube.com/playlist?list=PLCp7YGqt4kFpzVAUaJT2IWVzU3rEo0ipD)
+### [Ускоренный Курс по Android Разработке 👨‍💻 + Java с Нуля 👍 | Android Уроки](https://www.youtube.com/watch?v=U3U-l3IJ59U&amp;list=PLCp7YGqt4kFpzVAUaJT2IWVzU3rEo0ipD&amp;index=8&amp;pp=iAQB)

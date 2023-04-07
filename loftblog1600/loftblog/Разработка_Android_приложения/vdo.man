@@ -1,0 +1,8 @@
+### [Разработка Android приложений. Урок 1 - Вступление.](https://www.youtube.com/watch?v=ILVqD5cAL1k&amp;list=PLY4rE9dstrJxkDQdEJnSpyeY0ZemkJ2lo&amp;index=1&amp;pp=iAQB)
+### [Разработка Android приложений. Урок 2 - Первое приложение.](https://www.youtube.com/watch?v=41rLgJYnGrM&amp;list=PLY4rE9dstrJxkDQdEJnSpyeY0ZemkJ2lo&amp;index=2&amp;pp=iAQB)
+### [Android Annotations](https://www.youtube.com/watch?v=EcqnOKrqjQY&amp;list=PLY4rE9dstrJxkDQdEJnSpyeY0ZemkJ2lo&amp;index=3&amp;pp=iAQB)
+### [Разработка Android приложений. Урок 3 - Работа c Button и ресурсами в Android.](https://www.youtube.com/watch?v=pxhwC3_QI5E&amp;list=PLY4rE9dstrJxkDQdEJnSpyeY0ZemkJ2lo&amp;index=4&amp;pp=iAQB)
+### [Разработка Android приложений. Урок 4 - Взаимодействие двух экранов.](https://www.youtube.com/watch?v=HBPa4WRzf1w&amp;list=PLY4rE9dstrJxkDQdEJnSpyeY0ZemkJ2lo&amp;index=5&amp;pp=iAQB)
+### [Flutter или как сделать в андроид студии. Одно приложение под iOS и Android](https://www.youtube.com/watch?v=vdhKOYiSaYU&amp;list=PLY4rE9dstrJxkDQdEJnSpyeY0ZemkJ2lo&amp;index=6&amp;pp=iAQB)
+### [Вебинар &quot;Переворот экрана и сохранение состояния&quot;](https://www.youtube.com/watch?v=Ld6Z4ed-wNE&amp;list=PLY4rE9dstrJxkDQdEJnSpyeY0ZemkJ2lo&amp;index=7&amp;pp=iAQB)
+### [Мастер-класс «Написание приложения на Android»](https://www.youtube.com/watch?v=TS1YFDMKQ4M&amp;list=PLY4rE9dstrJxkDQdEJnSpyeY0ZemkJ2lo&amp;index=8&amp;pp=iAQB)

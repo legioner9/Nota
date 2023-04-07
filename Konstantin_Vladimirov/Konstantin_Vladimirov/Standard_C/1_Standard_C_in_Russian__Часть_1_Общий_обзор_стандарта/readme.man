@@ -1,0 +1,3 @@
+# [Konstantin Vladimirov](https://www.youtube.com/@tilir/playlists)
+## [Standard C++](https://www.youtube.com/playlist?list=PL3BR09unfgcjJ2YUCgh62vgv_1maXcKuS)
+### [Standard C++ (in Russian) :: Часть 1, Общий обзор стандарта](https://www.youtube.com/watch?v=rxICf0tW7_Q&amp;list=PL3BR09unfgcjJ2YUCgh62vgv_1maXcKuS&amp;index=1&amp;pp=iAQB)

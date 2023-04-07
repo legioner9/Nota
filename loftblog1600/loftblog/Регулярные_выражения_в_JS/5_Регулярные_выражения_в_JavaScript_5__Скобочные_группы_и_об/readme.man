@@ -1,0 +1,3 @@
+# [loftblog](https://www.youtube.com/@loftblog/playlists)
+## [Регулярные выражения в JS](https://www.youtube.com/playlist?list=PLY4rE9dstrJybXiawtabniwVxQSCAb3PL)
+### [Регулярные выражения в JavaScript #5 – Скобочные группы и обратные ссылки в шаблоне](https://www.youtube.com/watch?v=ofJrNneXDiE&amp;list=PLY4rE9dstrJybXiawtabniwVxQSCAb3PL&amp;index=5&amp;pp=iAQB)

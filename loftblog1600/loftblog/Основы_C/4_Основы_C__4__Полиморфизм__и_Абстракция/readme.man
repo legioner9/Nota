@@ -1,0 +1,3 @@
+# [loftblog](https://www.youtube.com/@loftblog/playlists)
+## [Основы C#](https://www.youtube.com/playlist?list=PLY4rE9dstrJxYPjMqk15Vx5aBmRaHFx_Y)
+### [Основы C# - #4 - Полиморфизм  и Абстракция](https://www.youtube.com/watch?v=2YETWynX47g&amp;list=PLY4rE9dstrJxYPjMqk15Vx5aBmRaHFx_Y&amp;index=4&amp;pp=iAQB)

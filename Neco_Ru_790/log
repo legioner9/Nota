@@ -1,0 +1,892 @@
+ 07.04.2023 13:32:29 done Заработок на Яндекс рекламе в PlayStore ( Banner ) - Android Studio
+ 07.04.2023 13:32:30 done Заработок на Яндекс рекламе в Android
+ 07.04.2023 13:33:01 done Простая Игра Рулетка на Jetpack Compose + Kotlin + Android Studio | #1
+ 07.04.2023 13:33:03 done Игра Рулетка на Jetpack Compose + Kotlin + Android Studio | #2
+ 07.04.2023 13:33:03 done Игра Рулетка на Kotlin (Jetpack Compose)
+ 07.04.2023 13:33:34 done Установка Arduino IDE и ESP32
+ 07.04.2023 13:33:35 done Arduino IDE проекты
+ 07.04.2023 13:34:06 done Курс по Retrofit в Android Studio + Kotlin | Урок 1
+ 07.04.2023 13:34:08 done Android Retrofit2, OkHttpClient, HttpLoggingInterceptor в Android Studio (Kotlin)
+ 07.04.2023 13:34:10 done Authentication с помощью Retrofit2 в Android Studio (Kotlin)
+ 07.04.2023 13:34:13 done Retrofit2 получение списка в Android Studio (Kotlin)
+ 07.04.2023 13:34:15 done SearchView + Retrofit2  в Android Studio (Kotlin)
+ 07.04.2023 13:34:17 done Header, Token в Retrofit2  | Android Studio (Kotlin)
+ 07.04.2023 13:34:20 done Retrofit - авторизация, практика. Часть 1   | Android Studio (Kotlin)
+ 07.04.2023 13:34:22 done Retrofit - авторизация, практика. Часть 2   | Android Studio (Kotlin)
+ 07.04.2023 13:34:22 done Курс по Retrofit в Android Studio
+ 07.04.2023 13:34:54 done Урок 1 | Создание проекта | Gps Tracker
+ 07.04.2023 13:34:57 done Урок 2 | BottomNavigationView | Gps Tracker
+ 07.04.2023 13:34:59 done Урок 3 | Fragments | Gps Tracker
+ 07.04.2023 13:35:01 done Урок 4 | Extension file, openFragment() функция | Gps Tracker
+ 07.04.2023 13:35:03 done Урок 5 | Settings Fragment | Gps Tracker
+ 07.04.2023 13:35:06 done Урок 6 | Settings Fragment - Часть 2 | Gps Tracker
+ 07.04.2023 13:35:08 done Урок 7 | Settings Fragment - Часть 3 | Gps Tracker
+ 07.04.2023 13:35:10 done Урок 8 | Settings Fragment - Часть 4 | Gps Tracker
+ 07.04.2023 13:35:12 done Урок 9 | Устранение повторного открытия фрагмента | Gps Tracker
+ 07.04.2023 13:35:15 done Урок 10 | Добавляем OSM | Gps Tracker
+ 07.04.2023 13:35:17 done Урок 11 | Инициализация OSM | Gps Tracker
+ 07.04.2023 13:35:19 done Урок 12 | Location Permission | Gps Tracker
+ 07.04.2023 13:35:22 done Урок 13 | isLocationEnabled | Gps Tracker
+ 07.04.2023 13:35:24 done Урок 14 | DialogManager | Gps Tracker
+ 07.04.2023 13:35:26 done Урок 16 | Обновление после включения GPS | Gps Tracker
+ 07.04.2023 13:35:28 done Урок 15 | DialogManager interface | Gps Tracker
+ 07.04.2023 13:35:30 done Урок 17 | fragment_main.xml | Gps Tracker
+ 07.04.2023 13:35:31 done GPS Tracker - OpenStreetMap
+ 07.04.2023 13:36:04 done Управление ESP32 и Arduino по Bluetooth в Android на Kotlin | #1
+ 07.04.2023 13:36:06 done Управление ESP32 и Arduino по Bluetooth в Android на Kotlin | #2
+ 07.04.2023 13:36:08 done Управление ESP32 и Arduino по Bluetooth в Android на Kotlin | #3
+ 07.04.2023 13:36:10 done Управление ESP32 и Arduino по Bluetooth в Android на Kotlin | #4
+ 07.04.2023 13:36:13 done BluetoothAdapter состояние включения блютуз | #5
+ 07.04.2023 13:36:15 done Код для включения блютуз на Android  | Android Studio | Kotlin #6
+ 07.04.2023 13:36:17 done Получаем список Bluetooth устройств | Android Studio | Kotlin #7
+ 07.04.2023 13:36:19 done Выбор одного устройства через CheckBox | Android Studio | Kotlin #8
+ 07.04.2023 13:36:22 done Сохранение выбранного Bluetooth устройства | Android Studio | Kotlin #9
+ 07.04.2023 13:36:24 done Request Bluetooth Permissions | Android Studio | Kotlin #10
+ 07.04.2023 13:36:26 done Поиск блютуз устройств, BroadcastReceiver  | Android Studio | Kotlin #11
+ 07.04.2023 13:36:28 done Показ найденных Блютуз устройств в списке  | Android Studio | Kotlin #12
+ 07.04.2023 13:36:31 done Соединение блютуз устройства со смартфоном  | Android Studio | Kotlin #13
+ 07.04.2023 13:36:33 done Добавляем ProgresBar  при поиске устройств | Android Studio | Kotlin #14
+ 07.04.2023 13:36:35 done Подключение к устройству, ConnectionThread | Android Studio | Kotlin #15
+ 07.04.2023 13:36:37 done Установка Arduino IDE и ESP32
+ 07.04.2023 13:36:39 done Подготовка экранов, MainFragment, Navigation | Android Studio | Kotlin #16
+ 07.04.2023 13:36:42 done BluetoothController класс и проверка подключения | Android Studio | Kotlin #17
+ 07.04.2023 13:36:44 done Статус подключения блютуз | Android Studio | Kotlin #18
+ 07.04.2023 13:36:44 done Android + ESP32 & Arduino
+ 07.04.2023 13:37:18 done Прогноз погоды Jetpack Compose  | #10 | Android Studio &amp; Kotlin
+ 07.04.2023 13:37:20 done Прогноз погоды Jetpack Compose  | #11 | Android Studio &amp; Kotlin
+ 07.04.2023 13:37:22 done Создание приложения &quot;Прогноз погоды&quot; | Jetpack Compose #12 | Android Studio &amp; Kotlin
+ 07.04.2023 13:37:24 done Jetpack Compose  | #13 |  Создание приложения &quot;Прогноз погоды&quot; | Android Studio &amp; Kotlin
+ 07.04.2023 13:37:27 done Jetpack Compose  | #14 |  Создание приложения &quot;Прогноз погоды&quot; | Android Studio &amp; Kotlin
+ 07.04.2023 13:37:29 done Прогноз погоды на Jetpack Compose #15 | Android Studio &amp; Kotlin
+ 07.04.2023 13:37:31 done Парсинг списка дней Jetpack Compose #16 | ПРОГНОЗ ПОГОДЫ
+ 07.04.2023 13:37:33 done Заполнение MainCard() | Jetpack Compose #17 | ПРОГНОЗ ПОГОДЫ
+ 07.04.2023 13:37:36 done Приложение &quot;Прогноз погоды&quot;  на Jetpack Compose  Kotlin #18 | Android Studio
+ 07.04.2023 13:37:38 done AlertDialog в Jetpack Compose  Kotlin #19 | Android Studio
+ 07.04.2023 13:37:38 done Jetpack compose Weather App
+ 07.04.2023 13:38:13 done Прогноз погоды на Android (Kotlin) #1 | Weather API
+ 07.04.2023 13:38:16 done Приложение &quot;Прогноз погоды&quot; на Android (Kotlin) #2
+ 07.04.2023 13:38:18 done Приложение &quot;Прогноз погоды&quot; на Android (Kotlin) #3
+ 07.04.2023 13:38:20 done Приложение &quot;Прогноз погоды&quot; на Android (Kotlin) #4
+ 07.04.2023 13:38:22 done Приложение &quot;Прогноз погоды&quot; на Android (Kotlin) #5
+ 07.04.2023 13:38:25 done Приложение &quot;Прогноз погоды&quot; на Android (Kotlin) #6
+ 07.04.2023 13:38:27 done Приложение &quot;Прогноз погоды&quot; на Android (Kotlin) #7
+ 07.04.2023 13:38:29 done Приложение &quot;Прогноз погоды&quot; на Android (Kotlin) #8
+ 07.04.2023 13:38:31 done Приложение &quot;Прогноз погоды&quot; на Android (Kotlin) #9
+ 07.04.2023 13:38:34 done Приложение &quot;Прогноз погоды&quot; на Android (Kotlin) #10
+ 07.04.2023 13:38:36 done Получение данных через API Android Studio (Kotlin) #11
+ 07.04.2023 13:38:38 done Парсинг данных полученных с API | Android Studio (Kotlin) #11
+ 07.04.2023 13:38:40 done Парсинг массива полученного с API | Android Studio (Kotlin) #13
+ 07.04.2023 13:38:43 done Приложение &quot;Прогноз погоды&quot; API | Android Studio (Kotlin) #14
+ 07.04.2023 13:38:45 done Приложение &quot;Прогноз погоды&quot; API | Android Studio (Kotlin) #15
+ 07.04.2023 13:38:47 done Приложение &quot;Прогноз погоды&quot; API | Android Studio (Kotlin) #16
+ 07.04.2023 13:38:49 done Приложение &quot;Прогноз погоды&quot; API | Android Studio (Kotlin) #17
+ 07.04.2023 13:38:52 done Приложение &quot;Прогноз погоды&quot; API | Android Studio (Kotlin) #18
+ 07.04.2023 13:38:54 done Проверка включения GPS | WeatherApp | #19 | Android Studio (Kotlin)
+ 07.04.2023 13:38:56 done AlertDialog с выбором города | WeatherApp | #20 | Android Studio (Kotlin)
+ 07.04.2023 13:38:57 done Android приложение Прогноз погоды на котлин
+ 07.04.2023 13:39:31 done Fitness App #1 | SplashScreen
+ 07.04.2023 13:39:33 done Fitness App #2 | FragmentManager |  Android Studio
+ 07.04.2023 13:39:36 done Fitness App #3 | Fragments | Android Studio
+ 07.04.2023 13:39:38 done Fitness App #4 | day_list_item.xml | Android Studio
+ 07.04.2023 13:39:40 done Fitness App #5 | Arrays | Android Studio
+ 07.04.2023 13:39:42 done Fitness App #6 | DayModel data class  | Android Studio
+ 07.04.2023 13:39:45 done Fitness App #7 | RecyclerView Adapter  | Android Studio
+ 07.04.2023 13:39:47 done Fitness App #8 | RecyclerView Adapter. Часть 2  | Android Studio
+ 07.04.2023 13:39:49 done Fitness App #9 | Заполняем массив с днями  | Android Studio
+ 07.04.2023 13:39:52 done Fitness App #10 | Настраиваем RecyclerView  | Android Studio
+ 07.04.2023 13:39:54 done Fitness App #11 | Слушатель нажатий RecyclerView  | Android Studio
+ 07.04.2023 13:39:56 done Fitness App #12 |  Массив для упражнений  | Android Studio
+ 07.04.2023 13:39:58 done Fitness App #13 |  ViewModel  | Android Studio
+ 07.04.2023 13:40:01 done Fitness App #14 |  exercise_list_Item.xml   | Android Studio
+ 07.04.2023 13:40:03 done Fitness App #15 |  ExerciseAdapter   | Android Studio
+ 07.04.2023 13:40:05 done Fitness App #16 |  WaitingFragment   | Android Studio + Kotlin
+ 07.04.2023 13:40:07 done Fitness App #17 | TimeUtils класс   | Android Studio + Kotlin
+ 07.04.2023 13:40:10 done Fitness App #18 | ExerciseFragment | Android Studio + Kotlin
+ 07.04.2023 13:40:12 done Fitness App #19 | ExerciseFragment. Часть 2 | Android Studio + Kotlin
+ 07.04.2023 13:40:14 done Fitness App #20 | ExerciseFragment. Часть 3 | Android Studio + Kotlin
+ 07.04.2023 13:40:16 done Hacer fotos en modo manual - EN ESPAÑOL
+ 07.04.2023 13:40:19 done Fitness App #20 | ExerciseFragment. Часть 4 | Android Studio + Kotlin
+ 07.04.2023 13:40:21 done Fitness App #22 | DayFinishFragment | Android Studio + Kotlin
+ 07.04.2023 13:40:23 done Fitness App #23 | ActionBar | Android Studio + Kotlin
+ 07.04.2023 13:40:26 done Fitness App #24 | Сохранение упражнений | Android Studio + Kotlin
+ 07.04.2023 13:40:28 done Fitness App #25 | Счетчик упражнений в ToolBar | Android Studio + Kotlin
+ 07.04.2023 13:40:30 done Fitness App #27 | Прогресс дней упражнений | Android Studio + Kotlin
+ 07.04.2023 13:40:32 done Fitness App #26 | Отмечаем пройденные дни упражнений | Android Studio + Kotlin
+ 07.04.2023 13:40:35 done Fitness App #28 | Сброс дней | Android Studio + Kotlin
+ 07.04.2023 13:40:37 done Fitness App #29 | Сброс пройденных упражнений | Android Studio + Kotlin
+ 07.04.2023 13:40:39 done Fitness App #30 | Дизайн, анимация | Android Studio + Kotlin
+ 07.04.2023 13:40:41 done Fitness App #31 | Исправление ошибки с таймером | Android Studio + Kotlin
+ 07.04.2023 13:40:42 done Fitness App на Kotlin и Android Studio
+ 07.04.2023 13:41:14 done Слушатель нажатий в RecyclerView | Kotlin + Android Studio
+ 07.04.2023 13:41:16 done Передача данных в ContentActivity  | Kotlin + Android Studio
+ 07.04.2023 13:41:18 done TabLayout в Android #1  | Kotlin + Android Studio
+ 07.04.2023 13:41:21 done ViewPager2, TabLayout в Android #2  | Kotlin + Android Studio
+ 07.04.2023 13:41:23 done Заполнение TabLayout и Fragments | Практика Часть 1  | Kotlin + Android Studio
+ 07.04.2023 13:41:25 done Заполнение TabLayout и Fragments | Практика Часть 2  | Kotlin + Android Studio
+ 07.04.2023 13:41:28 done Extension функции упрощают код! Android Studio &amp; Kotlin
+ 07.04.2023 13:41:30 done Что учить начинающему Андроид разработчику Jetpack Compose или XML?
+ 07.04.2023 13:41:32 done База данных SQLite в Андроид и Room на Kotlin (Android Studio)
+ 07.04.2023 13:41:34 done Navigation в Андроид | Android Studio &amp; Kotlin
+ 07.04.2023 13:41:37 done DrawerLayout и Navigation в Андроид | Android Studio &amp; Kotlin
+ 07.04.2023 13:41:39 done NavigationView и Navigation в Андроид  Часть 2 | Android Studio &amp; Kotlin
+ 07.04.2023 13:41:39 done Android Studio + Kotlin курс - Часть 2
+ 07.04.2023 13:42:11 done Android приложения на Jetpack Compose и KOTLIN #1 | Android Studio
+ 07.04.2023 13:42:13 done Android приложения на Jetpack Compose и KOTLIN #2 | Android Studio
+ 07.04.2023 13:42:15 done Курс по Jetpack Compose Android  | Card, Box, Image | #3 | Android Studio
+ 07.04.2023 13:42:18 done Курс по Jetpack Compose Android  | Modifier | #4 | Android Studio
+ 07.04.2023 13:42:20 done Курс по Jetpack Compose Android, Kotlin  | States | #5 | Android Studio
+ 07.04.2023 13:42:22 done Курс по Jetpack Compose Android, Kotlin  | LazyColumn | #6 | Android Studio
+ 07.04.2023 13:42:24 done Курс по Jetpack Compose Android, Kotlin  | LazyRow | #7 | Android Studio
+ 07.04.2023 13:42:27 done Курс по Jetpack Compose Android, Kotlin  | Text Expand | #8 | Android Studio
+ 07.04.2023 13:42:29 done Прогноз погоды Jetpack Compose  | #9 | Android Studio
+ 07.04.2023 13:42:31 done Прогноз погоды Jetpack Compose  | #10 | Android Studio &amp; Kotlin
+ 07.04.2023 13:42:33 done Прогноз погоды Jetpack Compose  | #11 | Android Studio &amp; Kotlin
+ 07.04.2023 13:42:35 done Создание приложения &quot;Прогноз погоды&quot; | Jetpack Compose #12 | Android Studio &amp; Kotlin
+ 07.04.2023 13:42:38 done Jetpack Compose  | #13 |  Создание приложения &quot;Прогноз погоды&quot; | Android Studio &amp; Kotlin
+ 07.04.2023 13:42:40 done Jetpack Compose  | #14 |  Создание приложения &quot;Прогноз погоды&quot; | Android Studio &amp; Kotlin
+ 07.04.2023 13:42:42 done Прогноз погоды на Jetpack Compose #15 | Android Studio &amp; Kotlin
+ 07.04.2023 13:42:44 done Парсинг списка дней Jetpack Compose #16 | ПРОГНОЗ ПОГОДЫ
+ 07.04.2023 13:42:47 done Заполнение MainCard() | Jetpack Compose #17 | ПРОГНОЗ ПОГОДЫ
+ 07.04.2023 13:42:49 done Приложение &quot;Прогноз погоды&quot;  на Jetpack Compose  Kotlin #18 | Android Studio
+ 07.04.2023 13:42:51 done AlertDialog в Jetpack Compose  Kotlin #19 | Android Studio
+ 07.04.2023 13:42:54 done BottomNavigation в Jetpack Compose | Android Studio - Kotlin | #20
+ 07.04.2023 13:42:56 done Простая Игра Рулетка на Jetpack Compose + Kotlin + Android Studio | #1
+ 07.04.2023 13:42:57 done Jetpack Compose для начинающих
+ 07.04.2023 13:43:29 done ✅Сколько можно заработать на простом приложении Android? | Android Studio
+ 07.04.2023 13:43:32 done ✅Как заработать на приложении Android | Межстраничная реклама в Android | Android Studio
+ 07.04.2023 13:43:34 done ✅Увеличиваем зароботок В 2 РАЗА!! Добавляем  Open App Ads  в Android | Android Studio
+ 07.04.2023 13:43:36 done ✅Сколько можно заработать на простом приложении Android | часть 4
+ 07.04.2023 13:43:39 done ✅Заработок от простого приложения Android | часть 5
+ 07.04.2023 13:43:41 done ✅Заработок на Android приложении | часть 6 | Android Studio
+ 07.04.2023 13:43:43 done ✅МОЙ ЗАРАБОТОК НА ANDROID ПРИЛОЖЕНИИ (РЕАЛЬНЫЕ ЦИФРЫ)
+ 07.04.2023 13:43:45 done Анимация View элементов в Android | Kotlin | Android Studio
+ 07.04.2023 13:43:46 done Как заработать на приложении Android
+ 07.04.2023 13:44:17 done Сканнер QR кода для Android на Kotlin и Android Studio
+ 07.04.2023 13:44:19 done Генератор QR кода для Андроид на Kotlin
+ 07.04.2023 13:44:21 done QR сканнер на андроид |  Camera Permission | Android Studio
+ 07.04.2023 13:44:23 done Разрешения в Андроид на Kotlin ( ActivityResultLauncher) | Android Studio
+ 07.04.2023 13:44:24 done Работа с QR кодом
+ 07.04.2023 13:44:55 done Акселерометр в Android | Android Studio &amp; Kotlin
+ 07.04.2023 13:44:57 done Приложение &quot;Уровень&quot; на Android (KOTLIN)
+ 07.04.2023 13:44:58 done Сенсоры в Андроид
+ 07.04.2023 13:45:34 done Создаем Android приложение &quot;Shopping List&quot; на Room Persistance Library | #1
+ 07.04.2023 13:45:36 done Приложение Shopping List | Entities | #2
+ 07.04.2023 13:45:38 done Приложение Shopping List | Entities | #3
+ 07.04.2023 13:45:40 done Приложение Shopping List | MainDatabase | #4
+ 07.04.2023 13:45:43 done Приложение Shopping List | MainApplication | #5
+ 07.04.2023 13:45:45 done Приложение Shopping List | BottomNavigationView | #6
+ 07.04.2023 13:45:47 done Приложение Shopping List | FragmentManager | #7
+ 07.04.2023 13:45:49 done Приложение Shopping List | ListAdapter | #8
+ 07.04.2023 13:45:52 done Приложение Shopping List | NoteFragment | #9
+ 07.04.2023 13:45:54 done Приложение Shopping List | ViewModel | #10
+ 07.04.2023 13:45:56 done Приложение Shopping List | NewNoteActivity | #11
+ 07.04.2023 13:45:59 done Приложение Shopping List | ActivityResultLauncher (NoteFragment) | #12
+ 07.04.2023 13:46:01 done Приложение Shopping List | Сохранение заметок | #13
+ 07.04.2023 13:46:03 done Приложение Shopping List | Delete NoteItem | #14
+ 07.04.2023 13:46:05 done Приложение Shopping List | Update NoteItem | #15
+ 07.04.2023 13:46:08 done Приложение Shopping List | Bold Style | #16
+ 07.04.2023 13:46:10 done Приложение Shopping List | HtmlManager | #17
+ 07.04.2023 13:46:13 done Приложение Shopping List | ColorPicker | #18
+ 07.04.2023 13:46:15 done Приложение Shopping List | Open ColorPicker | #19
+ 07.04.2023 13:46:17 done Приложение Shopping List | ColorPicker Drag&amp;Drop | #20
+ 07.04.2023 13:46:20 done Приложение Shopping List |  setColor() | #21
+ 07.04.2023 13:46:22 done Приложение Shopping List | ActionMenu, AdjustResize | #22
+ 07.04.2023 13:46:24 done Приложение Shopping List | NewListDialog | #23
+ 07.04.2023 13:46:26 done Приложение Shopping List | ShoppingListNamesFragment | #24
+ 07.04.2023 13:46:29 done Приложение Shopping List | Insert ShopListName | #25
+ 07.04.2023 13:46:31 done Приложение Shopping List | list_name_item.xml | #26
+ 07.04.2023 13:46:33 done Приложение Shopping List | RecyclerView Adapter для названий списков| #27
+ 07.04.2023 13:46:36 done Приложение Shopping List | Delete ShopListName | #28
+ 07.04.2023 13:46:38 done Приложение Shopping List | Update ShopListName | #29
+ 07.04.2023 13:46:40 done Приложение Shopping List | ShopListActivity | #30
+ 07.04.2023 13:46:43 done Приложение Shopping List | ShopListActivity | #31
+ 07.04.2023 13:46:45 done Приложение Shopping List | ShopListActivity | #32
+ 07.04.2023 13:46:47 done Приложение Shopping List | ShopListItemAdapter | #33
+ 07.04.2023 13:46:50 done Приложение Shopping List | ShopListItemAdapter | #34
+ 07.04.2023 13:46:52 done Приложение Shopping List | Insert ShopListItem | #35
+ 07.04.2023 13:46:54 done Приложение Shopping List | RecyclerView | #36
+ 07.04.2023 13:46:57 done Приложение Shopping List | tvInfo | #37
+ 07.04.2023 13:46:59 done Приложение Shopping List | PaintFlag | #38
+ 07.04.2023 13:47:01 done Приложение Shopping List | CheckBox save state | #39
+ 07.04.2023 13:47:04 done Приложение Shopping List | Edit ShopListItem Dialog | #40
+ 07.04.2023 13:47:06 done Приложение Shopping List | Удаление списка | #41
+ 07.04.2023 13:47:08 done Приложение Shopping List | Share List | #42
+ 07.04.2023 13:47:11 done Приложение Shopping List | TextWatcher и LibraryItem  | #43
+ 07.04.2023 13:47:13 done Приложение Shopping List | Запись LibraryItem в БД | #44
+ 07.04.2023 13:47:15 done Приложение Shopping List |  Показ LibraryItem в списке | #45
+ 07.04.2023 13:47:18 done Приложение Shopping List | Edit/Delete LibraryItem | #46
+ 07.04.2023 13:47:20 done Приложение Shopping List | Добавление LibraryItem в список  | #47
+ 07.04.2023 13:47:22 done Приложение Shopping List | Счетчик покупок | #48
+ 07.04.2023 13:47:25 done Приложение Shopping List | PreferenceScreen | #49
+ 07.04.2023 13:47:27 done Приложение Shopping List |  PreferenceScreen  | #50
+ 07.04.2023 13:47:29 done Приложение Shopping List |  SettingsActivity и SettingsFragment | #51
+ 07.04.2023 13:47:32 done Приложение Shopping List |  setTextSize() | #52
+ 07.04.2023 13:47:34 done Приложение Shopping List | Формат времени | #53
+ 07.04.2023 13:47:36 done Приложение Shopping List | Стиль заметок | #54
+ 07.04.2023 13:47:39 done Приложение Shopping List | Theme | #55
+ 07.04.2023 13:47:41 done Приложение Shopping List | Обновление стиля | #56
+ 07.04.2023 13:47:43 done Приложение Shopping List | Interstitial ads | #57
+ 07.04.2023 13:47:45 done Приложение Shopping List | In App Purchase | #58
+ 07.04.2023 13:47:48 done Приложение Shopping List | In App Purchase | #59
+ 07.04.2023 13:47:50 done Приложение Shopping List | In App Purchase | #60
+ 07.04.2023 13:47:52 done Приложение Shopping List | In App Purchase | #61
+ 07.04.2023 13:47:55 done Приложение Shopping List | Публикация приложения | #62
+ 07.04.2023 13:47:57 done Приложение Shopping List | Атрибуты в theme | #63
+ 07.04.2023 13:47:59 done Миграция базы данных ( AutoMigration ) | Приложение Shopping List | #64
+ 07.04.2023 13:48:02 done Миграция базы данных ( AutoMigrationSpec ) | Приложение Shopping List | #65
+ 07.04.2023 13:48:02 done Приложение с нуля Список покупок
+ 07.04.2023 13:48:34 done Bluetooth + Android + ESP32 | Урок  #1 | Android Studio, Kotlin
+ 07.04.2023 13:48:36 done Bluetooth + Android + ESP32 | Урок  #2 | Android Studio, Kotlin
+ 07.04.2023 13:48:38 done Bluetooth + Android + ESP32 | Урок  #3 | Android Studio, Kotlin
+ 07.04.2023 13:48:41 done Bluetooth + Android + ESP32 | Урок  #4 | Android Studio, Kotlin
+ 07.04.2023 13:48:43 done Bluetooth + Android + ESP32 | Урок  #5 | Android Studio, Kotlin
+ 07.04.2023 13:48:45 done Bluetooth + Android + ESP32 | Урок  #6 | Android Studio, Kotlin
+ 07.04.2023 13:48:46 done Bluetooth Терминал
+ 07.04.2023 13:49:17 done Приложение Чат на Firebase для Android | Android Studio | Kotlin | #1
+ 07.04.2023 13:49:19 done Приложение Чат на Firebase для Android | Android Studio | Kotlin | #2
+ 07.04.2023 13:49:21 done Authentication на Firebase через Google Аккаунт | Android Studio | Kotlin | #3
+ 07.04.2023 13:49:24 done Firebase Google Sign Out | Android Studio | Kotlin | #4
+ 07.04.2023 13:49:26 done RecyclerView и ListAdapter | Android Studio | Kotlin | #5
+ 07.04.2023 13:49:27 done Чат на Firebase
+ 07.04.2023 13:49:58 done Простое Android приложение для контроля ESP8266 по WiFI на Android Studio
+ 07.04.2023 13:49:58 done ESP8266 Projects
+ 07.04.2023 13:50:26 done Android Studio тесты приложения по WIFI
+ 07.04.2023 13:50:29 done Спец символы (Enable Ligatures) Android Studio #Shorts
+ 07.04.2023 13:50:29 done Android Studio Инструменты
+ 07.04.2023 13:51:01 done Курс по KOTLIN и ANDROID STUDIO для начинающих  || Установка Android Studio
+ 07.04.2023 13:51:03 done Курс по KOTLIN и ANDROID STUDIO для начинающих  || Урок 2
+ 07.04.2023 13:51:05 done Курс по KOTLIN и ANDROID STUDIO для начинающих  || Урок 3
+ 07.04.2023 13:51:07 done Курс по KOTLIN и ANDROID STUDIO для начинающих  || Урок 4
+ 07.04.2023 13:51:10 done Курс по KOTLIN и ANDROID STUDIO для начинающих  || Урок 5
+ 07.04.2023 13:51:12 done Курс по KOTLIN и ANDROID STUDIO для начинающих  || Урок 6
+ 07.04.2023 13:51:14 done Курс по KOTLIN и ANDROID STUDIO для начинающих  || Урок 7
+ 07.04.2023 13:51:16 done Курс по KOTLIN и ANDROID STUDIO для начинающих  || Урок 8
+ 07.04.2023 13:51:19 done Курс по KOTLIN и ANDROID STUDIO для начинающих  || Урок 9
+ 07.04.2023 13:51:21 done Курс по KOTLIN и ANDROID STUDIO для начинающих  || Урок 10
+ 07.04.2023 13:51:23 done Курс по KOTLIN и ANDROID STUDIO для начинающих  || Урок 11
+ 07.04.2023 13:51:25 done Курс по KOTLIN и ANDROID STUDIO для начинающих  || Урок 12
+ 07.04.2023 13:51:28 done Курс по KOTLIN и ANDROID STUDIO для начинающих  || Урок 13
+ 07.04.2023 13:51:30 done Курс по KOTLIN и ANDROID STUDIO для начинающих  || Урок 14
+ 07.04.2023 13:51:32 done Курс по KOTLIN и ANDROID STUDIO для начинающих  || Урок 15
+ 07.04.2023 13:51:34 done ANDROID STUDIO для начинающих. Создание ACTIVITY  || Урок 16
+ 07.04.2023 13:51:37 done ANDROID STUDIO для начинающих. onActivityResult  || Урок 17
+ 07.04.2023 13:51:39 done ANDROID STUDIO для начинающих. Практика  || Урок 18
+ 07.04.2023 13:51:41 done ANDROID STUDIO для начинающих. Массивы и Списки  || Урок 19
+ 07.04.2023 13:51:44 done KOTLIN и ANDROID STUDIO для начинающих. Циклы  || Урок 20
+ 07.04.2023 13:51:46 done KOTLIN и ANDROID STUDIO для начинающих. Практика  || Урок 21
+ 07.04.2023 13:51:48 done KOTLIN и ANDROID STUDIO для начинающих. Классы  || Урок 22
+ 07.04.2023 13:51:50 done KOTLIN и ANDROID STUDIO для начинающих. Функции  || Урок 23
+ 07.04.2023 13:51:52 done ANDROID STUDIO для начинающих || Приложение Теорема Пифагора  || Урок 24
+ 07.04.2023 13:51:55 done ANDROID STUDIO - ВАЖНО!! ИЗМЕНЕНИЯ || OnActivityResult DEPRECATED  || Урок 25
+ 07.04.2023 13:51:57 done RecyclerView в Android || Android Studio и Kotlin || Урок 26
+ 07.04.2023 13:51:59 done EditActivity, registerForActivityResult ||  Android Studio #27
+ 07.04.2023 13:52:02 done Menu, Toolbar в Android на KOTLIN  || Android Studio || #28
+ 07.04.2023 13:52:04 done BottomNavigationView в Android на KOTLIN  || Android Studio || #29
+ 07.04.2023 13:52:06 done DrawerLayout || Android Studio || Kotlin || #30
+ 07.04.2023 13:52:08 done Navigation View || Android Studio || Kotlin || #31
+ 07.04.2023 13:52:11 done Fragment || Android Studio || Kotlin || #32
+ 07.04.2023 13:52:13 done Передача данных между Fragment || ViewModel || Android Studio || Kotlin || #33
+ 07.04.2023 13:52:15 done Cristal Ball || Простое приложение под Андроид на Kotlin || Android Studio
+ 07.04.2023 13:52:17 done Поиск ошибок в ANDROID STUDIO (Kotlin) на реальном примере
+ 07.04.2023 13:52:19 done CountDownTimer (Таймер обратного отсчета) | Android Studio &amp; Kotlin
+ 07.04.2023 13:52:20 done Курс по Kotlin для начинающих 2021
+ 07.04.2023 13:52:52 done Разработка Android приложений/Урок 4/Изменения в новой версии / Справочник рыбака
+ 07.04.2023 13:52:54 done Разработка Android приложений/Урок 4-1/Справочник рыбака
+ 07.04.2023 13:52:56 done Разработка Android приложений/Урок 4-2/Справочник рыбака
+ 07.04.2023 13:52:58 done Разработка Android приложений/Урок 4-3/Справочник рыбака
+ 07.04.2023 13:53:01 done Разработка Android приложений/Урок 4-4/Справочник рыбака
+ 07.04.2023 13:53:03 done Разработка Android приложений/Урок 4-5/Справочник рыбака
+ 07.04.2023 13:53:05 done Разработка Android приложений /Урок 4-8
+ 07.04.2023 13:53:08 done Разработка Android приложений/Урок 4 - 6/Внешний вид приложения
+ 07.04.2023 13:53:10 done Разработка Android приложений/Урок 4 - 7/Внешний вид приложения
+ 07.04.2023 13:53:12 done Разработка Android приложений/4-9/Поиск ошибок в приложении
+ 07.04.2023 13:53:15 done Разработка Android приложений/Урок 5/Анимация
+ 07.04.2023 13:53:17 done Разработка Android приложений/Урок 6/Внешний вид приложения
+ 07.04.2023 13:53:19 done Разработка Android приложений/Урок 8-1/Экран настроек
+ 07.04.2023 13:53:22 done Разработка Android приложений/Урок 8-2/Экран настроек
+ 07.04.2023 13:53:24 done Разработка Android приложений/Урок 8-3/Экран настроек
+ 07.04.2023 13:53:26 done Разработка Android приложений/Поиск ошибок/Android Studio курс
+ 07.04.2023 13:53:29 done Разработка Android приложений/Библиотека ImageView с увеличением картинки
+ 07.04.2023 13:53:31 done Разработка Android приложений/ Урок 11/ Image Asset
+ 07.04.2023 13:53:33 done Разработка Android приложений// Урок 13/Справочник рыбака (Продолжение)
+ 07.04.2023 13:53:36 done Разработка Android приложений/ Урок 14/Справочник рыбака (Продолжение)
+ 07.04.2023 13:53:36 done Приложение под Андроид  "Справочник Рыбака" на Java
+ 07.04.2023 13:54:11 done Приложение на KOTLIN &quot;Доска объявлений&quot; || Урок 1
+ 07.04.2023 13:54:13 done Приложение на KOTLIN &quot;Доска объявлений&quot; || Урок 2
+ 07.04.2023 13:54:15 done Приложение на KOTLIN &quot;Доска объявлений&quot; || Урок 3
+ 07.04.2023 13:54:18 done Приложение на KOTLIN &quot;Доска объявлений&quot; || Урок 4
+ 07.04.2023 13:54:20 done Приложение на KOTLIN &quot;Доска объявлений&quot; || Урок 5
+ 07.04.2023 13:54:22 done Приложение на KOTLIN &quot;Доска объявлений&quot; || Урок 6
+ 07.04.2023 13:54:25 done Приложение на KOTLIN &quot;Доска объявлений&quot; || Урок 7
+ 07.04.2023 13:54:27 done Приложение на KOTLIN &quot;Доска объявлений&quot; || Урок 8
+ 07.04.2023 13:54:29 done Приложение на KOTLIN &quot;Доска объявлений&quot; || Урок 9
+ 07.04.2023 13:54:32 done Приложение на KOTLIN &quot;Доска объявлений&quot; || Урок 10
+ 07.04.2023 13:54:34 done Приложение на KOTLIN &quot;Доска объявлений&quot; || Урок 11
+ 07.04.2023 13:54:36 done Приложение на KOTLIN &quot;Доска объявлений&quot; || Урок 12
+ 07.04.2023 13:54:39 done Приложение на KOTLIN &quot;Доска объявлений&quot; || Урок 13
+ 07.04.2023 13:54:41 done Приложение на KOTLIN &quot;Доска объявлений&quot; || Урок 14
+ 07.04.2023 13:54:43 done Приложение на KOTLIN &quot;Доска объявлений&quot; || Урок 15
+ 07.04.2023 13:54:46 done Решение проблемы урока 16 про добавление PixImagePicker
+ 07.04.2023 13:54:48 done Приложение на KOTLIN &quot;Доска объявлений&quot; || Урок 16
+ 07.04.2023 13:54:50 done Приложение на KOTLIN &quot;Доска объявлений&quot; || Урок 17
+ 07.04.2023 13:54:53 done Приложение на KOTLIN &quot;Доска объявлений&quot; || Урок 18
+ 07.04.2023 13:54:55 done Приложение на KOTLIN &quot;Доска объявлений&quot; || Урок 19
+ 07.04.2023 13:54:57 done Приложение на KOTLIN &quot;Доска объявлений&quot; || Урок 20
+ 07.04.2023 13:54:59 done Приложение на KOTLIN &quot;Доска объявлений&quot; || Урок 21
+ 07.04.2023 13:55:02 done Приложение на KOTLIN &quot;Доска объявлений&quot; || Урок 22
+ 07.04.2023 13:55:04 done Приложение на KOTLIN &quot;Доска объявлений&quot; || Урок 23
+ 07.04.2023 13:55:06 done Приложение на KOTLIN &quot;Доска объявлений&quot; || Урок 24
+ 07.04.2023 13:55:09 done Приложение на KOTLIN &quot;Доска объявлений&quot; || Урок 25
+ 07.04.2023 13:55:11 done Приложение на KOTLIN &quot;Доска объявлений&quot; || Урок 26
+ 07.04.2023 13:55:13 done Приложение на KOTLIN &quot;Доска объявлений&quot; || Урок 27
+ 07.04.2023 13:55:16 done Приложение на KOTLIN &quot;Доска объявлений&quot; || Урок 28
+ 07.04.2023 13:55:18 done Приложение на KOTLIN &quot;Доска объявлений&quot; || Урок 29
+ 07.04.2023 13:55:20 done Приложение на KOTLIN &quot;Доска объявлений&quot; || Урок 30
+ 07.04.2023 13:55:22 done Приложение на KOTLIN &quot;Доска объявлений&quot; || Урок 31
+ 07.04.2023 13:55:25 done Приложение на KOTLIN &quot;Доска объявлений&quot; || Урок 32
+ 07.04.2023 13:55:27 done Приложение на KOTLIN &quot;Доска объявлений&quot; || Урок 33
+ 07.04.2023 13:55:29 done Приложение на KOTLIN &quot;Доска объявлений&quot; || Урок 34
+ 07.04.2023 13:55:32 done Приложение на KOTLIN &quot;Доска объявлений&quot; || Урок 35
+ 07.04.2023 13:55:34 done Приложение на KOTLIN &quot;Доска объявлений&quot; || Урок 36
+ 07.04.2023 13:55:36 done Приложение на KOTLIN &quot;Доска объявлений&quot; || Урок 37
+ 07.04.2023 13:55:38 done Приложение на KOTLIN &quot;Доска объявлений&quot; || Урок 38
+ 07.04.2023 13:55:40 done Приложение на KOTLIN &quot;Доска объявлений&quot; || Урок 39
+ 07.04.2023 13:55:43 done Приложение на KOTLIN &quot;Доска объявлений&quot; || Урок 40
+ 07.04.2023 13:55:45 done Приложение на KOTLIN &quot;Доска объявлений&quot; || Урок 41
+ 07.04.2023 13:55:47 done Приложение на KOTLIN &quot;Доска объявлений&quot; || Урок 42
+ 07.04.2023 13:55:49 done Приложение на KOTLIN &quot;Доска объявлений&quot; || Урок 43
+ 07.04.2023 13:55:51 done Приложение на KOTLIN &quot;Доска объявлений&quot; || Урок 44
+ 07.04.2023 13:55:53 done Как узнать отпечаток SHA1.
+ 07.04.2023 13:55:55 done Приложение на KOTLIN &quot;Доска объявлений&quot; || Урок 45
+ 07.04.2023 13:55:58 done Подпись приложения для PlayМаркет и Release версия
+ 07.04.2023 13:56:00 done Архитектура MVVM || Урок 46 || Доска объявлений || KOTLIN
+ 07.04.2023 13:56:02 done Bottom Navigation View || Урок 47 || Доска объявлений || KOTLIN
+ 07.04.2023 13:56:05 done Query || Доска объявлений || Урок 48
+ 07.04.2023 13:56:07 done Редактирование объявления || Доска объявлений || Урок 49
+ 07.04.2023 13:56:09 done Редактирование объявления Часть 2 || Доска объявлений || Урок 50
+ 07.04.2023 13:56:11 done Удаление  объявлений, DiffUtil.Callback  || Доска объявлений || Урок 51
+ 07.04.2023 13:56:14 done Счетчик просмотров объявления  || Доска объявлений || Урок 52
+ 07.04.2023 13:56:16 done Категория Избранное  Часть 1 || Доска объявлений || Урок 53
+ 07.04.2023 13:56:18 done Категория Избранное  Часть 2 || Доска объявлений || Урок 54
+ 07.04.2023 13:56:20 done Категория Избранное  Часть 3 || Доска объявлений || Урок 55
+ 07.04.2023 13:56:23 done Анонимный вход. Часть 1|| Доска объявлений || Урок 56
+ 07.04.2023 13:56:25 done Анонимный вход. Часть 2 || Доска объявлений || Урок 57
+ 07.04.2023 13:56:27 done Новая версия библиотеки Pix Image Picker || Доска объявлений || #58
+ 07.04.2023 13:56:29 done Новая версия Pix Image Picker Часть 2 || Доска объявлений || #59
+ 07.04.2023 13:56:31 done Новая версия Pix Image Picker Часть 4 || Доска объявлений || #61
+ 07.04.2023 13:56:34 done Новая версия Pix Image Picker Часть 3 || Доска объявлений || #60
+ 07.04.2023 13:56:36 done Новая версия Pix Image Picker Часть 5 || Доска объявлений || #62
+ 07.04.2023 13:56:38 done Загрузка фото на Firebase Storage || Доска объявлений || #63
+ 07.04.2023 13:56:40 done Загрузка фото на Firebase Storage || Часть 2 || Доска объявлений || #64
+ 07.04.2023 13:56:43 done Показ фото в списке объявлений || Доска объявлений || #65
+ 07.04.2023 13:56:45 done Создаем экран с просмотра объявления || Доска объявлений || #66
+ 07.04.2023 13:56:47 done Показ фото во ViewPager || Доска объявлений || #67
+ 07.04.2023 13:56:50 done Заполнение экрана просмотра объявлений || Доска объявлений || #68
+ 07.04.2023 13:56:52 done Кнопки &quot;Email&quot; и &quot;Позвонить&quot; || Доска объявлений || #69
+ 07.04.2023 13:56:54 done Счетчик фото в DescriptionActivity || Доска объявлений || #70
+ 07.04.2023 13:56:57 done Счетчик фото в EditAdsActivity || Доска объявлений || #71
+ 07.04.2023 13:56:59 done Заменяем OnActivityResult для входа по Google аккаунту  || Доска объявлений || #72
+ 07.04.2023 13:57:01 done Доделываем NavigationView меню  || Доска объявлений || #73
+ 07.04.2023 13:57:04 done Pagination #1  || Доска объявлений || #74
+ 07.04.2023 13:57:06 done Pagination #2  || Доска объявлений || #75
+ 07.04.2023 13:57:08 done Pagination #3  || Доска объявлений || #76
+ 07.04.2023 13:57:10 done Фильтрация по категориям #1  | Доска объявлений | #77
+ 07.04.2023 13:57:13 done Фильтрация по категориям #2 | Доска объявлений | #78
+ 07.04.2023 13:57:15 done FilterActivity #1 | Доска объявлений | #79
+ 07.04.2023 13:57:17 done FilterActivity #2 | Доска объявлений | #80
+ 07.04.2023 13:57:19 done FilterActivity #3 | Доска объявлений | #81
+ 07.04.2023 13:57:22 done Запись фильтров в БД  | Доска объявлений | #82
+ 07.04.2023 13:57:24 done Получения пути фильтра  | Доска объявлений | #83
+ 07.04.2023 13:57:26 done Получение фильтра и путь фильтра  | Доска объявлений | #84
+ 07.04.2023 13:57:29 done Использование фильтра в DbManager  | Доска объявлений | #85
+ 07.04.2023 13:57:31 done Использование фильтра в категориях  | Доска объявлений | #86
+ 07.04.2023 13:57:33 done Очистка фильтра  | Доска объявлений | #87
+ 07.04.2023 13:57:36 done Правила  | Доска объявлений | #88
+ 07.04.2023 13:57:38 done Загрузка новой страницы при фильтрации #1 | Доска объявлений | #89
+ 07.04.2023 13:57:40 done Загрузка новой страницы при фильтрации #2 | Доска объявлений | #90
+ 07.04.2023 13:57:43 done Время публикации объявлений | Доска объявлений | #91
+ 07.04.2023 13:57:45 done AdView на MainActivity | Доска объявлений | #92
+ 07.04.2023 13:57:47 done Open app ads | Доска объявлений | #93
+ 07.04.2023 13:57:50 done Встроенные покупки (In app Purchase) | Доска объявлений | #94
+ 07.04.2023 13:57:52 done Встроенные покупки (In app Purchase) #2 | Доска объявлений | #95
+ 07.04.2023 13:57:54 done Встроенные покупки (In app Purchase) #3 | Доска объявлений | #96
+ 07.04.2023 13:57:57 done Встроенные покупки (In app Purchase) #4 | Доска объявлений | #97
+ 07.04.2023 13:57:57 done Приложение на Kotlin "Доска объявлений"
+ 07.04.2023 13:58:28 done Bluetooth на Андроид || Создаем БЛЮТУЗ МОНИТОР || Часть 1
+ 07.04.2023 13:58:31 done Bluetooth на Андроид || Создаем БЛЮТУЗ МОНИТОР || Часть 2
+ 07.04.2023 13:58:33 done Bluetooth на Андроид || Создаем БЛЮТУЗ МОНИТОР || Часть 3
+ 07.04.2023 13:58:35 done Bluetooth на Андроид || Создаем БЛЮТУЗ МОНИТОР || Часть 4
+ 07.04.2023 13:58:38 done Bluetooth на Андроид || Создаем БЛЮТУЗ МОНИТОР || Часть 5
+ 07.04.2023 13:58:40 done Создаем Bluetooth Monitor || Bluetooth Discovery Часть 6
+ 07.04.2023 13:58:42 done Создаем Bluetooth Monitor || Bluetooth Discovery Часть 7
+ 07.04.2023 13:58:45 done Создаем Bluetooth Monitor || Bluetooth Discovery Часть 8
+ 07.04.2023 13:58:47 done Создаем Bluetooth Monitor || Bluetooth Discovery Часть 9
+ 07.04.2023 13:58:49 done Соединение с ESP32 по Bluetooth  || Android Studio || Часть 10
+ 07.04.2023 13:58:52 done Передача данных с ESP32 на Android || Android Studio || Часть 11
+ 07.04.2023 13:58:54 done Передача данных с Android на ESP32   || Android Studio || Часть 12
+ 07.04.2023 13:58:54 done Приложение Блютуз Монитор
+ 07.04.2023 13:59:25 done SQLite база данных || Создаем приложение &quot;БЛОКНОТ&quot;
+ 07.04.2023 13:59:27 done База данных SQLite на Android (Java)/ УРОК 13N
+ 07.04.2023 13:59:29 done SQLite база данных || Создаем приложение &quot;БЛОКНОТ&quot; || Часть 2
+ 07.04.2023 13:59:31 done SQLite база данных || Создаем приложение &quot;БЛОКНОТ&quot; || Часть 3
+ 07.04.2023 13:59:34 done SQLite база данных || Создаем приложение &quot;БЛОКНОТ&quot; || Часть 4
+ 07.04.2023 13:59:36 done SQLite база данных || Создаем приложение &quot;БЛОКНОТ&quot; || Часть 5
+ 07.04.2023 13:59:38 done Создание приложения &quot;Блокнот&quot; под Андроид || Часть 6
+ 07.04.2023 13:59:41 done Создание приложения &quot;Блокнот&quot; под Андроид || Часть 7
+ 07.04.2023 13:59:43 done Создание приложения &quot;Блокнот&quot; под Андроид || Часть 8
+ 07.04.2023 13:59:45 done Создание приложения &quot;Блокнот&quot; под Андроид || Часть 9
+ 07.04.2023 13:59:48 done Создание приложения &quot;Блокнот&quot; под Андроид || Часть 10
+ 07.04.2023 13:59:48 done Серия уроков "Блокнот на Java и SQLite"
+ 07.04.2023 14:00:20 done SQLite База Данных на Андроид (KOTLIN)/ Урок 17
+ 07.04.2023 14:00:23 done SQLite база данных KOTLIN || Создаем приложение &quot;БЛОКНОТ&quot; || Часть 1
+ 07.04.2023 14:00:25 done SQLite база данных KOTLIN || Создаем приложение &quot;БЛОКНОТ&quot; || Часть 2
+ 07.04.2023 14:00:27 done SQLite база данных KOTLIN || Создаем приложение &quot;БЛОКНОТ&quot; || Часть 3
+ 07.04.2023 14:00:29 done SQLite база данных KOTLIN || Создаем приложение &quot;БЛОКНОТ&quot; || Часть 4
+ 07.04.2023 14:00:32 done KOTLIN база данных SQLite || Приложение &quot;БЛОКНОТ&quot; || Часть 5
+ 07.04.2023 14:00:34 done KOTLIN база данных SQLite || Приложение &quot;БЛОКНОТ&quot; || Часть 6
+ 07.04.2023 14:00:36 done KOTLIN база данных SQLite || Приложение &quot;БЛОКНОТ&quot; || Часть 7
+ 07.04.2023 14:00:39 done KOTLIN база данных SQLite || Приложение &quot;БЛОКНОТ&quot; || Часть 8
+ 07.04.2023 14:00:41 done KOTLIN база данных SQLite || Приложение &quot;БЛОКНОТ&quot; || Часть 9
+ 07.04.2023 14:00:43 done Coroutines, Kotlin, SQLite на Android || Приложение &quot;БЛОКНОТ&quot; || Часть 10
+ 07.04.2023 14:00:44 done Серия уроков "Блокнот на Kotlin и SQLite"
+ 07.04.2023 14:01:15 done Энциклопедия &quot;Do You Know?&quot; / Урок 1 / Android Studio уроки
+ 07.04.2023 14:01:17 done Энциклопедия &quot;Do You Know?&quot; / Урок 2 / Android Studio уроки
+ 07.04.2023 14:01:19 done Энциклопедия &quot;Do You Know?&quot; / Урок 3 / Android Studio уроки
+ 07.04.2023 14:01:22 done Энциклопедия &quot;Do You Know?&quot; / Урок 4 / Android Studio уроки
+ 07.04.2023 14:01:24 done Энциклопедия &quot;Do You Know?&quot; / Урок 5 / Android Studio уроки
+ 07.04.2023 14:01:26 done Энциклопедия &quot;Do You Know?&quot; / Урок 6 / Android Studio уроки
+ 07.04.2023 14:01:28 done Энциклопедия &quot;Do You Know?&quot; / Урок 7/ Android Studio уроки
+ 07.04.2023 14:01:31 done Энциклопедия &quot;Do You Know?&quot; / Урок 8/ Android Studio уроки
+ 07.04.2023 14:01:33 done Создаем приложение Энциклопедия &quot;DoYouKnow&quot;/Урок 9
+ 07.04.2023 14:01:35 done Создаем Android приложение Энциклопедия &quot;DoYouKnow&quot;/Урок 10
+ 07.04.2023 14:01:38 done Создаем Android приложение Энциклопедия &quot;DoYouKnow&quot;/Урок 11
+ 07.04.2023 14:01:40 done Андроид Приложение Энциклопедия &quot;DoYouKnow&quot;/Урок 12
+ 07.04.2023 14:01:40 done Приложение под Android Энциклопедия "DoYouKnow"
+ 07.04.2023 14:02:13 done Создание мобильных игр на Unity/Android &amp; IOS/Часть 1
+ 07.04.2023 14:02:16 done СОЗДАНИЕ МОБИЛЬНЫХ ИГР НА UNITY/ УРОК 1/УСТАНОВКА UNITY
+ 07.04.2023 14:02:18 done СОЗДАНИЕ МОБИЛЬНЫХ ИГР НА UNITY/ УРОК 2
+ 07.04.2023 14:02:20 done Твоя Первая Игра На Unity/ УРОК 3
+ 07.04.2023 14:02:22 done Твоя Первая Игра На Unity/ УРОК 4
+ 07.04.2023 14:02:25 done Создаем Мобильную  Игру На Unity/ УРОК 5
+ 07.04.2023 14:02:27 done Добавляем Joystick в  Игру На Unity/ УРОК 6
+ 07.04.2023 14:02:29 done Создание android Игр на Unity Урок 7
+ 07.04.2023 14:02:32 done Создание android Игр на Unity Урок 8
+ 07.04.2023 14:02:34 done 3D Игра на Unity для Начинающих Урок 9
+ 07.04.2023 14:02:36 done Мобильная Игра на Unity для Начинающих Урок 10
+ 07.04.2023 14:02:38 done Создание 3D моделей для игр и 3D печати || BLENDER
+ 07.04.2023 14:02:40 done Создание 3D моделей для игры Unity || BLENDER || Часть 2
+ 07.04.2023 14:02:43 done Создание 3D моделей для игры Unity || BLENDER || Часть 3
+ 07.04.2023 14:02:45 done Создаем Мобильную Игру на Unity для Начинающих Урок 11
+ 07.04.2023 14:02:47 done Создание 3D моделей для игры Unity || BLENDER || Часть 4
+ 07.04.2023 14:02:49 done Мобильная Игра на Unity для Начинающих Урок 12 || Прыжок
+ 07.04.2023 14:02:52 done Создание 3D моделей для игры Unity || BLENDER || Часть 5
+ 07.04.2023 14:02:54 done Создание 3D моделей для игры Unity || BLENDER || Часть 6
+ 07.04.2023 14:02:56 done Мобильная Игра на Unity для Начинающих Урок 13
+ 07.04.2023 14:02:59 done Создание 3D моделей для игры Unity || BLENDER || Часть 7
+ 07.04.2023 14:03:01 done 3D моделирование для игры Unity || BLENDER || Часть 8
+ 07.04.2023 14:03:03 done Игра на Unity | Оптимизация освещения сцены | Урок 14
+ 07.04.2023 14:03:05 done Игра на Unity | Анимация ловушек | Урок 15
+ 07.04.2023 14:03:08 done Unity |  Анимация Часть 2  | Урок 16
+ 07.04.2023 14:03:10 done Unity | Движение игрока (доработка) | Урок 17
+ 07.04.2023 14:03:12 done Unity | Удары ловушек || Урок 18
+ 07.04.2023 14:03:14 done Unity | Items | Урок 19
+ 07.04.2023 14:03:17 done Создание 3Д игры на Unity | Ключ | #20
+ 07.04.2023 14:03:19 done Создаем 3Д игру на Unity | Урок 21 - Звуковые эффекты
+ 07.04.2023 14:03:21 done Создаем 3Д игру на Unity | Урок 22 - Фоновая мелодия
+ 07.04.2023 14:03:22 done Создание мобильных игр на Unity
+ 07.04.2023 14:03:57 done Создаем мобильное приложение &quot;Доска объявлений&quot; / Firebase / Урок 1/Android Studio
+ 07.04.2023 14:04:00 done Создаем мобильное приложение &quot;Доска объявлений&quot; / Firebase / Урок 2/Android Studio
+ 07.04.2023 14:04:02 done Создаем мобильное приложение &quot;Доска объявлений&quot; / Firebase / Урок 3/Android Studio
+ 07.04.2023 14:04:04 done Создаем мобильное приложение &quot;Доска объявлений&quot; / Firebase / Урок 4/Android Studio
+ 07.04.2023 14:04:07 done Создаем мобильное приложение &quot;Доска объявлений&quot; / Firebase / Урок 5/Android Studio
+ 07.04.2023 14:04:09 done Создаем мобильное приложение &quot;Доска объявлений&quot; / Firebase / Урок 6/Android Studio
+ 07.04.2023 14:04:11 done Создаем мобильное приложение &quot;Доска объявлений&quot; / Firebase / Урок 7/Android Studio
+ 07.04.2023 14:04:13 done Создаем мобильное приложение &quot;Доска объявлений&quot; / Firebase / Урок 8/Android Studio
+ 07.04.2023 14:04:16 done Создаем мобильное приложение &quot;Доска объявлений&quot; / Firebase / Урок 9/Android Studio
+ 07.04.2023 14:04:18 done Создаем мобильное приложение &quot;Доска объявлений&quot; / Firebase / Урок 10/Android Studio
+ 07.04.2023 14:04:20 done Создаем мобильное приложение &quot;Доска объявлений&quot; / Firebase / Урок 11/Android Studio
+ 07.04.2023 14:04:23 done Приложение &quot;Доска объявлений&quot; / Firebase / Урок 12/Android Studio
+ 07.04.2023 14:04:25 done Приложение &quot;Доска объявлений&quot; / Firebase / Урок 13/Android Studio
+ 07.04.2023 14:04:27 done Приложение &quot;Доска объявлений&quot; / Firebase / Урок 14/Android Studio
+ 07.04.2023 14:04:30 done Приложение &quot;Доска объявлений&quot; / Firebase / Урок 15/Android Studio
+ 07.04.2023 14:04:32 done Приложение &quot;Доска объявлений&quot; / Firebase / Урок 16/Android Studio
+ 07.04.2023 14:04:34 done Приложение &quot;Доска объявлений&quot; / Firebase / Урок 17/Android Studio
+ 07.04.2023 14:04:37 done Приложение &quot;Доска объявлений&quot; / Firebase / Урок 18/Android Studio
+ 07.04.2023 14:04:39 done Приложение &quot;Доска объявлений&quot; / Firebase / Урок 19/Android Studio
+ 07.04.2023 14:04:41 done Приложение &quot;Доска объявлений&quot; / Firebase / Урок 20/Android Studio
+ 07.04.2023 14:04:44 done Приложение &quot;Доска объявлений&quot; / Firebase / Урок 21/Android Studio
+ 07.04.2023 14:04:46 done Приложение &quot;Доска объявлений&quot; / Firebase / Урок 22/Android Studio
+ 07.04.2023 14:04:48 done Приложение &quot;Доска объявлений&quot; / Firebase / Урок 23/Android Studio
+ 07.04.2023 14:04:51 done Приложение &quot;Доска объявлений&quot; / Firebase / Урок 24/Android Studio
+ 07.04.2023 14:04:53 done Android Приложение &quot;Доска объявлений&quot; / Firebase / Урок 25
+ 07.04.2023 14:04:55 done Android Приложение &quot;Доска объявлений&quot; / Firebase / Урок 26
+ 07.04.2023 14:04:57 done Android Приложение &quot;Доска объявлений&quot; / Firebase / Урок 27
+ 07.04.2023 14:05:00 done Android Приложение &quot;Доска объявлений&quot; / Firebase / Урок 28
+ 07.04.2023 14:05:02 done Android Приложение &quot;Доска объявлений&quot; / Firebase / Урок 29
+ 07.04.2023 14:05:04 done Android Приложение &quot;Доска объявлений&quot; / Firebase / Урок 30
+ 07.04.2023 14:05:07 done Android Приложение &quot;Доска объявлений&quot; / Firebase / Урок 31
+ 07.04.2023 14:05:09 done Android Приложение &quot;Доска объявлений&quot; / Firebase / Урок 32
+ 07.04.2023 14:05:11 done Android Приложение &quot;Доска объявлений&quot; / Firebase / Урок 33
+ 07.04.2023 14:05:14 done Android Приложение &quot;Доска объявлений&quot; / Firebase / Урок 34
+ 07.04.2023 14:05:16 done Приложение &quot;Доска Объявлений&quot;/Урок 35
+ 07.04.2023 14:05:18 done Приложение &quot;Доска Объявлений&quot;/Урок 36
+ 07.04.2023 14:05:21 done Приложение &quot;Доска Объявлений&quot;/Урок 37
+ 07.04.2023 14:05:23 done Приложение &quot;Доска Объявлений&quot;/Урок 38
+ 07.04.2023 14:05:25 done Приложение &quot;Доска Объявлений&quot;/Урок 39
+ 07.04.2023 14:05:27 done Приложение &quot;Доска Объявлений&quot;/Урок 40
+ 07.04.2023 14:05:30 done Приложение &quot;Доска Объявлений&quot;/Урок 41
+ 07.04.2023 14:05:32 done Приложение &quot;Доска Объявлений&quot;/Урок 42
+ 07.04.2023 14:05:35 done Приложение &quot;Доска Объявлений&quot;/Урок 43
+ 07.04.2023 14:05:37 done Приложение &quot;Доска Объявлений&quot;/Урок 44
+ 07.04.2023 14:05:39 done Приложение &quot;Доска Объявлений&quot;/Урок 45
+ 07.04.2023 14:05:41 done Приложение &quot;Доска Объявлений&quot;/Урок 46
+ 07.04.2023 14:05:44 done Приложение &quot;Доска Объявлений&quot; || Урок 47
+ 07.04.2023 14:05:46 done Приложение &quot;Доска Объявлений&quot; || Урок 48
+ 07.04.2023 14:05:48 done Приложение &quot;Доска Объявлений&quot; || Урок 49
+ 07.04.2023 14:05:51 done Приложение &quot;Доска Объявлений&quot; || Урок 50
+ 07.04.2023 14:05:53 done Приложение &quot;Доска Объявлений&quot; || Урок 51
+ 07.04.2023 14:05:55 done Приложение &quot;Доска Объявлений&quot; || Урок 52
+ 07.04.2023 14:05:58 done Приложение &quot;Доска Объявлений&quot; || Урок 53
+ 07.04.2023 14:06:00 done Приложение &quot;Доска Объявлений&quot; || Урок 54
+ 07.04.2023 14:06:02 done Приложение &quot;Доска Объявлений&quot; || Урок 55
+ 07.04.2023 14:06:05 done Приложение &quot;Доска Объявлений&quot; || Урок 56
+ 07.04.2023 14:06:07 done Приложение &quot;Доска Объявлений&quot; || Урок 57
+ 07.04.2023 14:06:09 done Приложение &quot;Доска Объявлений&quot; || Урок 58
+ 07.04.2023 14:06:11 done Приложение &quot;Доска Объявлений&quot; || Урок 59
+ 07.04.2023 14:06:14 done Приложение &quot;Доска Объявлений&quot; || Урок 60
+ 07.04.2023 14:06:16 done Приложение &quot;Доска Объявлений&quot; || Урок 61
+ 07.04.2023 14:06:19 done Приложение &quot;Доска Объявлений&quot; || Урок 62
+ 07.04.2023 14:06:21 done Приложение &quot;Доска Объявлений&quot; || Урок 63
+ 07.04.2023 14:06:23 done Приложение &quot;Доска Объявлений&quot; || Урок 64
+ 07.04.2023 14:06:25 done Приложение &quot;Доска Объявлений&quot; || Урок 65
+ 07.04.2023 14:06:28 done Приложение &quot;Доска Объявлений&quot; || Урок 66
+ 07.04.2023 14:06:30 done Приложение &quot;Доска Объявлений&quot; || Урок 67
+ 07.04.2023 14:06:33 done Приложение &quot;Доска Объявлений&quot; || Урок 68
+ 07.04.2023 14:06:35 done Приложение &quot;Доска Объявлений&quot; || Урок 69
+ 07.04.2023 14:06:37 done Приложение &quot;Доска Объявлений&quot; || Урок 70
+ 07.04.2023 14:06:40 done Приложение &quot;Доска Объявлений&quot; || Урок 71
+ 07.04.2023 14:06:42 done Приложение &quot;Доска Объявлений&quot; || Урок 72
+ 07.04.2023 14:06:44 done Приложение &quot;Доска Объявлений&quot; || Урок 73
+ 07.04.2023 14:06:47 done Приложение &quot;Доска Объявлений&quot; || Урок 74
+ 07.04.2023 14:06:49 done Приложение &quot;Доска Объявлений&quot; || Урок 75
+ 07.04.2023 14:06:51 done Приложение &quot;Доска Объявлений&quot; || Урок 76
+ 07.04.2023 14:06:54 done Приложение &quot;Доска Объявлений&quot; || Урок 77
+ 07.04.2023 14:06:56 done Приложение &quot;Доска Объявлений&quot; || Урок 78
+ 07.04.2023 14:06:58 done Приложение &quot;Доска Объявлений&quot; || Урок 79
+ 07.04.2023 14:07:01 done Приложение &quot;Доска Объявлений&quot; || Урок 80
+ 07.04.2023 14:07:03 done Приложение &quot;Доска Объявлений&quot; || Урок 81
+ 07.04.2023 14:07:05 done Приложение &quot;Доска Объявлений&quot; || Урок 82
+ 07.04.2023 14:07:08 done Приложение &quot;Доска Объявлений&quot; || Урок 83
+ 07.04.2023 14:07:10 done Приложение &quot;Доска Объявлений&quot; || Урок 84
+ 07.04.2023 14:07:12 done Приложение &quot;Доска Объявлений&quot; || Урок 85
+ 07.04.2023 14:07:14 done Приложение &quot;Доска Объявлений&quot; || Урок 86
+ 07.04.2023 14:07:17 done Приложение &quot;Доска Объявлений&quot; || Урок 87
+ 07.04.2023 14:07:19 done Приложение &quot;Доска Объявлений&quot; || Урок 88
+ 07.04.2023 14:07:21 done Приложение &quot;Доска Объявлений&quot; || Урок 89
+ 07.04.2023 14:07:24 done Приложение &quot;Доска Объявлений&quot; || Урок 90
+ 07.04.2023 14:07:26 done Приложение &quot;Доска Объявлений&quot; || Урок 91
+ 07.04.2023 14:07:28 done Приложение &quot;Доска Объявлений&quot; || Урок 92
+ 07.04.2023 14:07:31 done Приложение &quot;Доска Объявлений&quot; || Урок 93
+ 07.04.2023 14:07:33 done Приложение &quot;Доска Объявлений&quot; || Урок 94
+ 07.04.2023 14:07:35 done Приложение &quot;Доска Объявлений&quot; || Урок 95
+ 07.04.2023 14:07:38 done Приложение &quot;Доска Объявлений&quot; || Урок 96
+ 07.04.2023 14:07:40 done Приложение &quot;Доска Объявлений&quot; || Урок 97
+ 07.04.2023 14:07:42 done Приложение &quot;Доска Объявлений&quot; || Урок 98
+ 07.04.2023 14:07:45 done Приложение &quot;Доска Объявлений&quot; || Урок 99
+ 07.04.2023 14:07:47 done Приложение &quot;Доска Объявлений&quot; || Урок 100
+ 07.04.2023 14:07:47 done Доска Объявлений / Android Studio
+ 07.04.2023 14:08:19 done Продвинутый курс SQLite приложение Client List/Урок 1
+ 07.04.2023 14:08:21 done Продвинутый курс SQLite приложение Client List/Урок 2
+ 07.04.2023 14:08:23 done Продвинутый курс SQLite приложение Client List/Урок 3
+ 07.04.2023 14:08:26 done Продвинутый курс SQLite приложение Client List/Урок 4-1
+ 07.04.2023 14:08:28 done Продвинутый курс SQLite приложение Client List/Урок 4-2
+ 07.04.2023 14:08:30 done Продвинутый курс SQLite приложение Client List/Урок 5
+ 07.04.2023 14:08:33 done Продвинутый курс SQLite приложение Client List/Урок 6
+ 07.04.2023 14:08:35 done Продвинутый курс SQLite приложение Client List / Урок 7
+ 07.04.2023 14:08:37 done Продвинутый курс SQLite приложение Client List/Урок 8
+ 07.04.2023 14:08:39 done Продвинутый курс SQLite приложение Client List/Урок 9
+ 07.04.2023 14:08:42 done Продвинутый курс SQLite приложение Client List/Урок 10
+ 07.04.2023 14:08:44 done Продвинутый курс SQLite приложение Client List/Урок 11
+ 07.04.2023 14:08:46 done Продвинутый курс SQLite приложение Client List/Урок 12
+ 07.04.2023 14:08:49 done Продвинутый курс SQLite приложение Client List/Урок 13
+ 07.04.2023 14:08:51 done Продвинутый курс SQLite приложение Client List/Урок 14
+ 07.04.2023 14:08:53 done Продвинутый курс SQLite приложение Client List/Урок 15
+ 07.04.2023 14:08:56 done Продвинутый курс SQLite приложение Client List/Урок 16
+ 07.04.2023 14:08:56 done (Room) SQLite база данных android
+ 07.04.2023 14:09:28 done Уроки  по Kotlin на Android Studio 2020/Урок 1
+ 07.04.2023 14:09:30 done Уроки  по Kotlin на Android Studio 2020/Урок 2
+ 07.04.2023 14:09:32 done Уроки  по Kotlin на Android Studio 2020/Урок 3
+ 07.04.2023 14:09:34 done Создаем приложение &quot;Светофор&quot; на Kotlin/Урок 4
+ 07.04.2023 14:09:37 done Уроки  по Kotlin на Android Studio 2020/Урок 5
+ 07.04.2023 14:09:39 done Уроки  по Kotlin на Android Studio 2020/Урок 6/ListView
+ 07.04.2023 14:09:41 done Справочник Рыбака на Kotlin /Урок 7/Android Studio 2020
+ 07.04.2023 14:09:43 done Справочник Рыбака на Kotlin /Урок 8/Android Studio 2020
+ 07.04.2023 14:09:45 done Справочник Рыбака на Kotlin /Урок 9/Android Studio 2020
+ 07.04.2023 14:09:48 done Справочник Рыбака на Kotlin /Урок 10/Android Studio 2020
+ 07.04.2023 14:09:50 done Справочник Рыбака на Kotlin /Урок 11/Android Studio 2020
+ 07.04.2023 14:09:52 done Справочник Рыбака на Kotlin /Урок 12/Android Studio 2020
+ 07.04.2023 14:09:55 done Создаем Компас на Kotlin/Урок 13/Android Studio
+ 07.04.2023 14:09:57 done Создание мобильного приложения на Kotlin/Урок 14/Android Studio
+ 07.04.2023 14:09:59 done Курс по Android Studio и Kotlin/AlertDialog
+ 07.04.2023 14:10:01 done Уроки по Kotlin: Урок 16, Android Studio и Сохранение данных в Android
+ 07.04.2023 14:10:03 done SQLite База Данных на Андроид (KOTLIN)/ Урок 17
+ 07.04.2023 14:10:05 done SQLite база данных KOTLIN || Создаем приложение &quot;БЛОКНОТ&quot; || Часть 1
+ 07.04.2023 14:10:07 done SQLite база данных KOTLIN || Создаем приложение &quot;БЛОКНОТ&quot; || Часть 2
+ 07.04.2023 14:10:10 done SQLite база данных KOTLIN || Создаем приложение &quot;БЛОКНОТ&quot; || Часть 3
+ 07.04.2023 14:10:12 done Справочник рыбака на Kotlin || Разработка Мобильного приложения || Часть 2
+ 07.04.2023 14:10:14 done KOTLIN база данных SQLite || Приложение &quot;БЛОКНОТ&quot; || Часть 5
+ 07.04.2023 14:10:16 done Приложение на KOTLIN &quot;Доска объявлений&quot; || Урок 5
+ 07.04.2023 14:10:18 done Приложение на KOTLIN &quot;Доска объявлений&quot; || Урок 6
+ 07.04.2023 14:10:21 done KOTLIN база данных SQLite || Приложение &quot;БЛОКНОТ&quot; || Часть 7
+ 07.04.2023 14:10:23 done Приложение на KOTLIN &quot;Доска объявлений&quot; || Урок 7
+ 07.04.2023 14:10:25 done Приложение на KOTLIN &quot;Доска объявлений&quot; || Урок 8
+ 07.04.2023 14:10:27 done Приложение на KOTLIN &quot;Доска объявлений&quot; || Урок 9
+ 07.04.2023 14:10:30 done Приложение на KOTLIN &quot;Доска объявлений&quot; || Урок 10
+ 07.04.2023 14:10:32 done Курс по KOTLIN и ANDROID STUDIO для начинающих  || Установка Android Studio
+ 07.04.2023 14:10:34 done Приложение на KOTLIN &quot;Доска объявлений&quot; || Урок 12
+ 07.04.2023 14:10:36 done Приложение на KOTLIN &quot;Доска объявлений&quot; || Урок 11
+ 07.04.2023 14:10:39 done KOTLIN база данных SQLite || Приложение &quot;БЛОКНОТ&quot; || Часть 8
+ 07.04.2023 14:10:41 done Курс по KOTLIN и ANDROID STUDIO для начинающих  || Урок 3
+ 07.04.2023 14:10:43 done Курс по KOTLIN и ANDROID STUDIO для начинающих  || Урок 4
+ 07.04.2023 14:10:46 done Приложение на KOTLIN &quot;Доска объявлений&quot; || Урок 13
+ 07.04.2023 14:10:48 done Курс по KOTLIN и ANDROID STUDIO для начинающих  || Урок 5
+ 07.04.2023 14:10:50 done Курс по KOTLIN и ANDROID STUDIO для начинающих  || Урок 6
+ 07.04.2023 14:10:52 done Приложение на KOTLIN &quot;Доска объявлений&quot; || Урок 14
+ 07.04.2023 14:10:55 done Приложение на KOTLIN &quot;Доска объявлений&quot; || Урок 15
+ 07.04.2023 14:10:57 done Курс по KOTLIN и ANDROID STUDIO для начинающих  || Урок 7
+ 07.04.2023 14:10:59 done KOTLIN база данных SQLite || Приложение &quot;БЛОКНОТ&quot; || Часть 9
+ 07.04.2023 14:11:01 done Курс по KOTLIN и ANDROID STUDIO для начинающих  || Урок 8
+ 07.04.2023 14:11:04 done Приложение на KOTLIN &quot;Доска объявлений&quot; || Урок 17
+ 07.04.2023 14:11:06 done Курс по KOTLIN и ANDROID STUDIO для начинающих  || Урок 9
+ 07.04.2023 14:11:08 done Курс по KOTLIN и ANDROID STUDIO для начинающих  || Урок 10
+ 07.04.2023 14:11:10 done Курс по KOTLIN и ANDROID STUDIO для начинающих  || Урок 11
+ 07.04.2023 14:11:13 done Курс по KOTLIN и ANDROID STUDIO для начинающих  || Урок 12
+ 07.04.2023 14:11:13 done Уроки по Kotlin на Android Studio 2020
+ 07.04.2023 14:11:47 done Arduino &amp; ESP32 микроконтроллеры/Установка и настройка
+ 07.04.2023 14:11:49 done Super Android Multimeter With ESP32 and ARDUINO
+ 07.04.2023 14:11:51 done Bluetooth на Андроид || Создаем БЛЮТУЗ МОНИТОР || Часть 1
+ 07.04.2023 14:11:53 done Bluetooth на Андроид || Создаем БЛЮТУЗ МОНИТОР || Часть 5
+ 07.04.2023 14:11:54 done Arduino projects
+ 07.04.2023 14:12:27 done Внутренний генератор на &quot;Smart Hunter&quot;
+ 07.04.2023 14:12:29 done Принцип работы &quot;VLF&quot; металлоискателя
+ 07.04.2023 14:12:31 done Металлоискатель Пират на смартфоне / Импульсный МД
+ 07.04.2023 14:12:34 done Металлоискатель Пират на смартфоне / Импульсный МД / Часть 2
+ 07.04.2023 14:12:36 done Безпроводной металлоискатель Пират/Часть 3
+ 07.04.2023 14:12:38 done Сборка металоискателя Пират/Часть 4.
+ 07.04.2023 14:12:40 done Металлоискатель Пират на микроконтроллере ESP32 / Безпроводной
+ 07.04.2023 14:12:42 done Smartphone Pulse induction metal detector (Spirit PI)/ Oscilloscope test
+ 07.04.2023 14:12:45 done How to make smartphone VLF metal detector in 10 minutes!
+ 07.04.2023 14:12:47 done Android Multimeter PCB Fabrication / PCB
+ 07.04.2023 14:12:49 done Wireless metal detector Spirit PI /PCB
+ 07.04.2023 14:12:51 done VLF metal detector Smart Hunter/ New version 2.0.0
+ 07.04.2023 14:12:54 done VLF Металлоискатель Smart Hunter 2.0.0/ Подстройка под грунт
+ 07.04.2023 14:12:56 done VLF Металлоискатель Smart Hunter 2.0.0 / Проверка с заводской катушкой
+ 07.04.2023 14:12:58 done VLF Металлоискатель  Smart Hunter / Spirit PI из удочки
+ 07.04.2023 14:12:59 done Металлоискатель своими руками
+ 07.04.2023 14:13:31 done Android Studio Уроки Для Начинающих/Урок 5N/Элементы экрана
+ 07.04.2023 14:13:34 done Android Studio Уроки Для Начинающих/Урок 4N/Переменные
+ 07.04.2023 14:13:36 done Android Studio Уроки Для Начинающих / Урок 3N
+ 07.04.2023 14:13:38 done Разработка Android приложений/Android Studio/Вступление
+ 07.04.2023 14:13:41 done Разработка приложений на Android Studio / Урок 1
+ 07.04.2023 14:13:43 done Разработка Android приложений/ Урок 2 / Activity
+ 07.04.2023 14:13:45 done Создаем Android приложение &quot;Фонарик&quot;/ Уроки по Android Studio
+ 07.04.2023 14:13:47 done Создание приложения &quot;Блокнот&quot; под Андроид || Часть 9
+ 07.04.2023 14:13:48 done Создание приложений для Android
+ 07.04.2023 14:14:19 done Homemade metal detector Spirit Pi 4 pro/ESP32 version
+ 07.04.2023 14:14:21 done Автоматическая кормушка для кошек и собак на ардуино / Часть 1
+ 07.04.2023 14:14:23 done Автокормушка для кошек и собак/Часть 2/Automatic Food dispenser
+ 07.04.2023 14:14:25 done 3D models for metal detectors/3D printing
+ 07.04.2023 14:14:28 done Smart Hunter/ Создание рукоятки и печать на 3Д принтере
+ 07.04.2023 14:14:30 done Pulse induction metal detector Spirit Pi 4 Pro A with a 16x2 screen / Part 3
+ 07.04.2023 14:14:32 done Pulse induction metal detector Spirit Pi 4 Pro A with a 16x2 screen / Part 2
+ 07.04.2023 14:14:35 done Импульсный металлоискатель Spirit Pi 4 Pro A/Новая версия
+ 07.04.2023 14:14:37 done Беспроводной металлоискатель Пират ( Spirit Pi  Версия 2.0.0 на ESP32)/Испытания
+ 07.04.2023 14:14:39 done Smart Hunter / металлоискатель c дискриминацией на ардуино/Часть 3
+ 07.04.2023 14:14:42 done Smart Hunter / металлоискатель c дискриминацией на ардуино/Часть 2
+ 07.04.2023 14:14:44 done Smart Hunter / металлоискатель c дискриминацией на ардуино
+ 07.04.2023 14:14:46 done Металлоискатель Пират/Осциллограммы, поиск неисправностей/Часть 2
+ 07.04.2023 14:14:48 done Металлоискатель Пират/Осциллограммы, поиск неисправностей/Часть 1
+ 07.04.2023 14:14:51 done Малыш ФМ 3/Пинпоинтер на смартфоне
+ 07.04.2023 14:14:53 done Измеритель индуктивности на смартфоне / RFinder
+ 07.04.2023 14:14:54 done Крутые проекты на arduino
+ 07.04.2023 14:15:25 done 5 Полезных Трюков на Android Studio 2020/Разработка Android Приложений
+ 07.04.2023 14:15:28 done Разработка приложений на Android Studio / Урок 1
+ 07.04.2023 14:15:30 done Разработка Android приложений/ Урок 2 / Activity
+ 07.04.2023 14:15:32 done Android Studio Уроки Для Начинающих / Урок 3N
+ 07.04.2023 14:15:34 done Android Studio Уроки Для Начинающих/Урок 4N/Переменные
+ 07.04.2023 14:15:37 done Android Studio Уроки Для Начинающих/Урок 5N/Элементы экрана
+ 07.04.2023 14:15:39 done Android Studio Уроки Для Начинающих/Урок 6N
+ 07.04.2023 14:15:42 done Android Studio/Урок 7N/Простейший парсинг и класс String
+ 07.04.2023 14:15:44 done Android Studio/Урок 8N/Классы
+ 07.04.2023 14:15:46 done Android Studio/Урок 9N/AlertDialog
+ 07.04.2023 14:15:48 done Уроки для начинающих по Android Studio / Урок 10N / Intent
+ 07.04.2023 14:15:51 done Android Studio для начинающих/Fragment/Урок 11N
+ 07.04.2023 14:15:53 done Сохранение данных на ANDROID/ УРОК 12N
+ 07.04.2023 14:15:55 done База данных SQLite на Android (Java)/ УРОК 13N
+ 07.04.2023 14:15:58 done Bluetooth на Андроид || Создаем БЛЮТУЗ МОНИТОР || Часть 4
+ 07.04.2023 14:15:58 done Android Studio для начинающих
+ 07.04.2023 14:16:29 done 3D models for metal detectors/3D printing
+ 07.04.2023 14:16:31 done Автоматическая кормушка для кошек и собак на ардуино / Часть 1
+ 07.04.2023 14:16:33 done Автокормушка для кошек и собак/Часть 2/Automatic Food dispenser
+ 07.04.2023 14:16:34 done 3Д печать и моделирование
+ 07.04.2023 14:17:08 done Разработка Android приложений/Android Studio/Вступление
+ 07.04.2023 14:17:10 done Разработка приложений на Android Studio / Урок 1
+ 07.04.2023 14:17:12 done Разработка Android приложений/ Урок 2 / Activity
+ 07.04.2023 14:17:15 done Разработка Android приложений / Урок 3 - 1
+ 07.04.2023 14:17:17 done Разработка  Android приложений  / Урок 3 - 2
+ 07.04.2023 14:17:19 done Разработка  Android приложений  / Урок 3 - 3
+ 07.04.2023 14:17:21 done Android Studio Уроки 2020/Изменения в новой версии 3.6.2 / Справочник рыбака
+ 07.04.2023 14:17:24 done Разработка Android приложений/Урок 4/Изменения в новой версии / Справочник рыбака
+ 07.04.2023 14:17:26 done Разработка Android приложений/Урок 4-1/Справочник рыбака
+ 07.04.2023 14:17:28 done Разработка Android приложений/Урок 4-2/Справочник рыбака
+ 07.04.2023 14:17:30 done Разработка Android приложений/Урок 4-3/Справочник рыбака
+ 07.04.2023 14:17:32 done Разработка Android приложений/Урок 4-4/Справочник рыбака
+ 07.04.2023 14:17:35 done Разработка Android приложений/Урок 4-5/Справочник рыбака
+ 07.04.2023 14:17:37 done Разработка Android приложений/Урок 4 - 6/Внешний вид приложения
+ 07.04.2023 14:17:39 done Разработка Android приложений/Урок 4 - 7/Внешний вид приложения
+ 07.04.2023 14:17:42 done Разработка Android приложений /Урок 4-8
+ 07.04.2023 14:17:44 done Разработка Android приложений/4-9/Поиск ошибок в приложении
+ 07.04.2023 14:17:46 done Разработка Android приложений/Урок 5/Анимация
+ 07.04.2023 14:17:49 done Разработка Android приложений/Урок 6/Внешний вид приложения
+ 07.04.2023 14:17:51 done Разработка Android приложений /Урок 7/Компас
+ 07.04.2023 14:17:53 done Разработка Android приложений/Урок 8-1/Экран настроек
+ 07.04.2023 14:17:55 done Разработка Android приложений/Урок 8-2/Экран настроек
+ 07.04.2023 14:17:58 done Разработка Android приложений/Урок 8-3/Экран настроек
+ 07.04.2023 14:18:00 done Разработка Android приложений/Создаем игру РУССКАЯ РУЛЕТКА
+ 07.04.2023 14:18:02 done Разработка Android приложений/Создаем игру РУССКАЯ РУЛЕТКА/Часть 2
+ 07.04.2023 14:18:05 done Разработка Android приложений/Голосовое управление на Android/ Android Studio Уроки
+ 07.04.2023 14:18:07 done Разработка Android приложений/Библиотека ImageView с увеличением картинки
+ 07.04.2023 14:18:09 done Разработка Android приложений/Поиск ошибок/Android Studio курс
+ 07.04.2023 14:18:11 done Разработка Android приложений/ Урок 11/ Image Asset
+ 07.04.2023 14:18:13 done Разработка Android приложений &quot;Холст для рисования&quot;/ Часть 1
+ 07.04.2023 14:18:16 done Разработка Android приложений/ Создание экранов для приложений/Android Studio
+ 07.04.2023 14:18:18 done Разработка Android приложений/ Урок 12/Сохранение данных с помощью SharedPreferences
+ 07.04.2023 14:18:20 done Разработка Android приложений// Урок 13/Справочник рыбака (Продолжение)
+ 07.04.2023 14:18:22 done Разработка Android приложений/ Урок 14/Справочник рыбака (Продолжение)
+ 07.04.2023 14:18:25 done Как заработать на приложениях Android/Android Studio уроки
+ 07.04.2023 14:18:27 done Разработка  Android приложений/Урок 15/Тренажер Мозга
+ 07.04.2023 14:18:29 done Уроки по Android Studio /Урок 16/Тренажер Мозга
+ 07.04.2023 14:18:32 done Создаем Android приложение &quot;Фонарик&quot;/ Уроки по Android Studio
+ 07.04.2023 14:18:34 done Уроки по Android Studio/Урок 17/Тренажер Мозга
+ 07.04.2023 14:18:36 done Firebase Создаем Базу Данных Для Android /Android Studio уроки
+ 07.04.2023 14:18:39 done Firebase Чтение Данных на Android / Часть 2 / Android Studio уроки
+ 07.04.2023 14:18:41 done Firebase Authentication / Часть 3 / Android Studio уроки
+ 07.04.2023 14:18:43 done Firebase Создаем Базу Данных Для Android/Часть 4 /Android Studio уроки
+ 07.04.2023 14:18:45 done Firebase Storage/ Загрузка картинок / Часть 5
+ 07.04.2023 14:18:48 done Firebase Storage/ Загрузка картинок / Часть 6
+ 07.04.2023 14:18:50 done ОПТИМИЗАЦИЯ WINDOWS 10! 6 СОВЕТОВ ПО ОПТИМИЗАЦИИ
+ 07.04.2023 14:18:52 done Коронавирус Статистика /Парсинг сайта/ Уроки по Android Studio
+ 07.04.2023 14:18:55 done Приложение &quot;Курс Валют&quot;  Часть 1/Парсинг сайта/Уроки по Android Studio Java
+ 07.04.2023 14:18:57 done Приложение &quot;Курс Валют&quot;  Часть 2/Парсинг сайта/Уроки по Android Studio Java
+ 07.04.2023 14:18:59 done Приложение &quot;Курс Валют&quot;  Часть 3/Парсинг сайта/Уроки по Android Studio Java
+ 07.04.2023 14:19:02 done Приложение &quot;Курс Валют&quot;  Часть 4/Парсинг сайта/Уроки по Android Studio Java
+ 07.04.2023 14:19:04 done Создаем приложение &quot;РУЛЕТКА&quot; на Android Studio (Java)
+ 07.04.2023 14:19:06 done Сенсоры в Android/Гироскоп и Акселерометр/Android Studio Уроки
+ 07.04.2023 14:19:08 done Энциклопедия &quot;Do You Know?&quot; / Урок 1 / Android Studio уроки
+ 07.04.2023 14:19:11 done Энциклопедия &quot;Do You Know?&quot; / Урок 2 / Android Studio уроки
+ 07.04.2023 14:19:13 done Энциклопедия &quot;Do You Know?&quot; / Урок 3 / Android Studio уроки
+ 07.04.2023 14:19:15 done Энциклопедия &quot;Do You Know?&quot; / Урок 4 / Android Studio уроки
+ 07.04.2023 14:19:17 done Энциклопедия &quot;Do You Know?&quot; / Урок 5 / Android Studio уроки
+ 07.04.2023 14:19:19 done Энциклопедия &quot;Do You Know?&quot; / Урок 6 / Android Studio уроки
+ 07.04.2023 14:19:22 done Membership НА КАНАЛЕ!! ПРОДВИНУТЫЕ КУРСЫ ПО ANDROID STUDIO!!
+ 07.04.2023 14:19:24 done Приложение GPS трекер / Часть 1/ Android Studio курс
+ 07.04.2023 14:19:26 done Приложение GPS трекер / Часть 2/ Android Studio курс
+ 07.04.2023 14:19:28 done Энциклопедия &quot;Do You Know?&quot; / Урок 7/ Android Studio уроки
+ 07.04.2023 14:19:30 done Firebase Storage/ Загрузка картинок / Часть 7
+ 07.04.2023 14:19:32 done Энциклопедия &quot;Do You Know?&quot; / Урок 8/ Android Studio уроки
+ 07.04.2023 14:19:35 done Создаем приложение Энциклопедия &quot;DoYouKnow&quot;/Урок 9
+ 07.04.2023 14:19:37 done ГОЛОСОВОЕ РАСПОЗНАВАНИЕ НА ANDROID/Урок 3
+ 07.04.2023 14:19:39 done Разработка Android приложений/Голосовое управление/ Часть 2/Android Studio
+ 07.04.2023 14:19:41 done Создаем Android приложение Энциклопедия &quot;DoYouKnow&quot;/Урок 11
+ 07.04.2023 14:19:44 done Андроид Приложение Энциклопедия &quot;DoYouKnow&quot;/Урок 12
+ 07.04.2023 14:19:46 done SQLite база данных || Создаем приложение &quot;БЛОКНОТ&quot;
+ 07.04.2023 14:19:48 done SQLite база данных || Создаем приложение &quot;БЛОКНОТ&quot; || Часть 2
+ 07.04.2023 14:19:50 done SQLite база данных || Создаем приложение &quot;БЛОКНОТ&quot; || Часть 3
+ 07.04.2023 14:19:52 done SQLite база данных || Создаем приложение &quot;БЛОКНОТ&quot; || Часть 4
+ 07.04.2023 14:19:55 done SQLite база данных || Создаем приложение &quot;БЛОКНОТ&quot; || Часть 5
+ 07.04.2023 14:19:57 done SQLite база данных KOTLIN || Создаем приложение &quot;БЛОКНОТ&quot; || Часть 4
+ 07.04.2023 14:19:59 done Создание приложения &quot;Блокнот&quot; под Андроид || Часть 6
+ 07.04.2023 14:20:01 done Bluetooth на Андроид || Создаем БЛЮТУЗ МОНИТОР || Часть 1
+ 07.04.2023 14:20:04 done Bluetooth на Андроид || Создаем БЛЮТУЗ МОНИТОР || Часть 2
+ 07.04.2023 14:20:06 done Конец Java на Андроид?? Изменения на канале
+ 07.04.2023 14:20:09 done Bluetooth на Андроид || Создаем БЛЮТУЗ МОНИТОР || Часть 4
+ 07.04.2023 14:20:11 done Приложение &quot;Доска Объявлений&quot; || Урок 70
+ 07.04.2023 14:20:13 done Приложение &quot;Доска Объявлений&quot; || Урок 71
+ 07.04.2023 14:20:15 done Создание приложения &quot;Блокнот&quot; под Андроид || Часть 7
+ 07.04.2023 14:20:17 done Приложение &quot;Доска Объявлений&quot; || Урок 73
+ 07.04.2023 14:20:19 done Приложение &quot;Доска Объявлений&quot; || Урок 75
+ 07.04.2023 14:20:22 done Создание приложения &quot;Блокнот&quot; под Андроид || Часть 8
+ 07.04.2023 14:20:24 done Приложение &quot;Доска Объявлений&quot; || Урок 76
+ 07.04.2023 14:20:26 done Приложение &quot;Доска Объявлений&quot; || Урок 77
+ 07.04.2023 14:20:29 done Приложение &quot;Доска Объявлений&quot; || Урок 78
+ 07.04.2023 14:20:31 done Создаем Bluetooth Monitor || Bluetooth Discovery Часть 6
+ 07.04.2023 14:20:31 done Разработка приложений на Android Studio
+ 07.04.2023 14:21:03 done Металлоискатель Пират на смартфоне / Импульсный МД
+ 07.04.2023 14:21:05 done Металлоискатель Пират на смартфоне / Импульсный МД / Часть 2
+ 07.04.2023 14:21:08 done Безпроводной металлоискатель Пират/Часть 3
+ 07.04.2023 14:21:10 done Металлоискатель Пират на смартфоне / Импульсный МД / Часть 2
+ 07.04.2023 14:21:12 done Металлоискатель Пират на смартфоне / Импульсный МД
+ 07.04.2023 14:21:14 done Сборка металоискателя Пират/Часть 4.
+ 07.04.2023 14:21:16 done Металлоискатель Пират на микроконтроллере ESP32 / Безпроводной
+ 07.04.2023 14:21:19 done Como GRABAR y MEJORAR audio con Audacity. Programa GRATIS!
+ 07.04.2023 14:21:21 done 8 Отличных Сериалов Начала 2018
+ 07.04.2023 14:21:23 done Recycle your failed 3D prints! Make new filament at home.
+ 07.04.2023 14:21:25 done Установка ESP32 на ардуино IDE
+ 07.04.2023 14:21:28 done Металлоискатель Пират/Осциллограммы, поиск неисправностей/Часть 1
+ 07.04.2023 14:21:30 done Металлоискатель Пират/Осциллограммы, поиск неисправностей/Часть 2
+ 07.04.2023 14:21:32 done Беспроводной металлоискатель Пират ( Spirit Pi  Версия 2.0.0 на ESP32)/Испытания
+ 07.04.2023 14:21:35 done Импульсный металлоискатель Spirit Pi 4 Pro A/Новая версия
+ 07.04.2023 14:21:37 done Импульсный металлоискатель Spirit Pi 4 Pro A с экраном 16х2
+ 07.04.2023 14:21:39 done ¿Vale la pena un Macbook en 2019? ¡Mac vs PC!
+ 07.04.2023 14:21:41 done PEORES MARCAS DE PORTATILES | MARCAS A EVITAR AL COMPRAR UN PORTATIL
+ 07.04.2023 14:21:44 done Pulse induction metal detector Spirit Pi 4 Pro A with a 16x2 screen / Part 3
+ 07.04.2023 14:21:46 done Homemade metal detector Spirit Pi 4 Pro A / part 4
+ 07.04.2023 14:21:48 done Homemade metal detector Spirit Pi 4 pro/ESP32 version
+ 07.04.2023 14:21:50 done Arduino Project-Self Balancing Robot
+ 07.04.2023 14:21:52 done Homemade Metal detector Spirit Pi 4 Pro/Part 2
+ 07.04.2023 14:21:55 done DIY Metal Detector Spirit Pi 4 Pro/Assemble of PCB/ Part 3
+ 07.04.2023 14:21:57 done Самодельный металлоискатель на Arduino и ESP32/Часть 4
+ 07.04.2023 14:21:58 done Spirit Pi - безпроводной импульсный металлоискатель
+ 07.04.2023 14:22:28 done Мультиметр/Осциллоскоп/Измеритель емкости конденсаторов.(Новая версия)
+ 07.04.2023 14:22:31 done Частотомер/Осциллограф на смартфона
+ 07.04.2023 14:22:33 done Ардуино мультиметр
+ 07.04.2023 14:22:35 done Измеритель индуктивности на ардуино.
+ 07.04.2023 14:22:37 done Bluetooth на Андроид || Создаем БЛЮТУЗ МОНИТОР || Часть 3
+ 07.04.2023 14:22:40 done Bluetooth на Андроид || Создаем БЛЮТУЗ МОНИТОР || Часть 5
+ 07.04.2023 14:22:42 done Простой LC МЕТР на смартфоне! Беcпроводной LC метр
+ 07.04.2023 14:22:42 done Мультиметр на смартфоне
+ 07.04.2023 14:23:13 done Металлоискатель на смартфоне/ Сборка схемы
+ 07.04.2023 14:23:16 done Самодельный Металлоискатель на смартфоне
+ 07.04.2023 14:23:18 done Самодельная ДД катушка/ ЧАСТЬ 1
+ 07.04.2023 14:23:20 done Металлоискатель на смартфоне/ Сборка схемы
+ 07.04.2023 14:23:23 done Самодельный Металлоискатель на смартфоне
+ 07.04.2023 14:23:25 done Питание металлоискателя.
+ 07.04.2023 14:23:27 done Самодельный металлоискатель на смартфоне/Smart Hunter
+ 07.04.2023 14:23:30 done Катушка для металлоискателя/ЧАСТЬ 3
+ 07.04.2023 14:23:32 done ДД катушка / вторая версия/ ЧАСТЬ 1
+ 07.04.2023 14:23:34 done Smart Hunter/ Обзор приложения
+ 07.04.2023 14:23:36 done ДД катушка / вторая версия/ ЧАСТЬ 2
+ 07.04.2023 14:23:39 done Smart Hunter/Звук/Ответ на вопрос
+ 07.04.2023 14:23:41 done DD Катушка версия 2/ЧАСТЬ 3
+ 07.04.2023 14:23:43 done Добавлен звук на Smart Hunter
+ 07.04.2023 14:23:46 done Metal Detector Discrimination
+ 07.04.2023 14:23:48 done Treasure hunting &amp; Metal detectors   How it works
+ 07.04.2023 14:23:50 done ДД катушка на 3Д принтере / ЧАСТЬ 1
+ 07.04.2023 14:23:53 done Как настроить резонансную частота катушки МД.
+ 07.04.2023 14:23:55 done Настройка резонансной частоты на катушке МД/ЧАСТЬ 2
+ 07.04.2023 14:23:57 done Настройка резонансной частоты на катушке МД/ЧАСТЬ 2
+ 07.04.2023 14:23:59 done Metal detector on your smartphone / test on the beach 2
+ 07.04.2023 14:24:02 done ДД катушка на 3Д принтере / ЧАСТЬ 2
+ 07.04.2023 14:24:04 done Генератор на NE555 для МД Smart Hunter
+ 07.04.2023 14:24:06 done Smart Hunter / металлоискатель c дискриминацией на ардуино
+ 07.04.2023 14:24:08 done Smart Hunter / металлоискатель c дискриминацией на ардуино
+ 07.04.2023 14:24:11 done Smart Hunter / металлоискатель c дискриминацией на ардуино/Часть 2
+ 07.04.2023 14:24:13 done Smart Hunter / металлоискатель c дискриминацией на ардуино/Часть 3
+ 07.04.2023 14:24:15 done Smart Hunter homemade smartphone metal detector/New beginning/part 1
+ 07.04.2023 14:24:17 done Smartphone metal detector/ New circuit test
+ 07.04.2023 14:24:18 done Мощный Металлоискатель на смартфоне
+ 07.04.2023 14:24:48 done Как сделать шпионскую машинку с камерой на радиоуправлении
+ 07.04.2023 14:24:51 done Как сделать робота с камерой/ЧАСТЬ 1
+ 07.04.2023 14:24:51 done Robotica
+ 07.04.2023 14:24:52 good end 
+ 07.04.2023 14:24:52 good end 

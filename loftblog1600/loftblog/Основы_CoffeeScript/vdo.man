@@ -1,0 +1,4 @@
+### [Основы CoffeeScript - #1 - Установка, настройка, запуск.](https://www.youtube.com/watch?v=K3WnNtdCGwY&amp;list=PLY4rE9dstrJxBMUqGXs3UTbyRx58GWg5n&amp;index=1&amp;pp=iAQB)
+### [Основы CoffeeScript - #2 - Функции и операторы.](https://www.youtube.com/watch?v=Xauqww1s0Rk&amp;list=PLY4rE9dstrJxBMUqGXs3UTbyRx58GWg5n&amp;index=2&amp;pp=iAQB)
+### [Основы CoffeeScript - #3 - Условные операторы и циклы](https://www.youtube.com/watch?v=i6yh-95_UH4&amp;list=PLY4rE9dstrJxBMUqGXs3UTbyRx58GWg5n&amp;index=3&amp;pp=iAQB)
+### [Основы CoffeeScript - #4 - Массивы и объекты](https://www.youtube.com/watch?v=KYRi-fp4nW4&amp;list=PLY4rE9dstrJxBMUqGXs3UTbyRx58GWg5n&amp;index=4&amp;pp=iAQB)

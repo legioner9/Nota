@@ -1,0 +1,3 @@
+# [loftblog](https://www.youtube.com/@loftblog/playlists)
+## [GameDev c Unity3D](https://www.youtube.com/playlist?list=PLY4rE9dstrJzkSRDKRXUQhAetmYnOf2bt)
+### [GameDev с Unity3D - #6 - Компоненты физики](https://www.youtube.com/watch?v=ciWufjf2ehI&amp;list=PLY4rE9dstrJzkSRDKRXUQhAetmYnOf2bt&amp;index=6&amp;pp=iAQB)

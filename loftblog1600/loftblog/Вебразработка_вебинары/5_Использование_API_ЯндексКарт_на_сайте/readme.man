@@ -1,0 +1,3 @@
+# [loftblog](https://www.youtube.com/@loftblog/playlists)
+## [Веб-разработка, вебинары](https://www.youtube.com/playlist?list=PLY4rE9dstrJz6UbNRxNZyO1JrEj6eKxoc)
+### [Использование API Яндекс.Карт на сайте](https://www.youtube.com/watch?v=QkfUqb2XFRw&amp;list=PLY4rE9dstrJz6UbNRxNZyO1JrEj6eKxoc&amp;index=5&amp;pp=iAQB)

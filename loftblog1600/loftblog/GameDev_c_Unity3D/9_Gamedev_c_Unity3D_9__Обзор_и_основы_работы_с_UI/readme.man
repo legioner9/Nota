@@ -1,0 +1,3 @@
+# [loftblog](https://www.youtube.com/@loftblog/playlists)
+## [GameDev c Unity3D](https://www.youtube.com/playlist?list=PLY4rE9dstrJzkSRDKRXUQhAetmYnOf2bt)
+### [Gamedev c Unity3D #9 - Обзор и основы работы с UI](https://www.youtube.com/watch?v=0PRR-S2c_4Y&amp;list=PLY4rE9dstrJzkSRDKRXUQhAetmYnOf2bt&amp;index=9&amp;pp=iAQB)

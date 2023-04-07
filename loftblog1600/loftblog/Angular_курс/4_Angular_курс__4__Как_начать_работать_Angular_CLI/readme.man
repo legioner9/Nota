@@ -1,0 +1,3 @@
+# [loftblog](https://www.youtube.com/@loftblog/playlists)
+## [Angular курс](https://www.youtube.com/playlist?list=PLY4rE9dstrJzlDoCDCKmgD-xv8VwECOtc)
+### [Angular курс - #4 - Как начать работать (Angular CLI)](https://www.youtube.com/watch?v=poxZv_9cPfg&amp;list=PLY4rE9dstrJzlDoCDCKmgD-xv8VwECOtc&amp;index=4&amp;pp=iAQB)

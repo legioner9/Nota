@@ -1,0 +1,3 @@
+# [loftblog](https://www.youtube.com/@loftblog/playlists)
+## [Курс "Разработка SPA с доменом и хостингом в облаке"](https://www.youtube.com/playlist?list=PLY4rE9dstrJy-Z6429_0kG7ml--_NEKQp)
+### [12 урок. Создаем каркас приложения](https://www.youtube.com/watch?v=ETL5qhneqEw&amp;list=PLY4rE9dstrJy-Z6429_0kG7ml--_NEKQp&amp;index=12&amp;pp=iAQB)

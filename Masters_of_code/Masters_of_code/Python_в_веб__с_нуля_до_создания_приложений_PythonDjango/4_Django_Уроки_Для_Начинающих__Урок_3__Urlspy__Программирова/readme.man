@@ -1,0 +1,3 @@
+# [Masters of ${code}](https://www.youtube.com/@MastersOfCode/playlists?view=1)
+## [Python в веб - с нуля до создания приложений. Python+Django](https://www.youtube.com/playlist?list=PLCp7YGqt4kFpZwDACIXz9HAMKQ4F3ME6N)
+### [Django Уроки Для Начинающих | Урок №3 | Urls.py | Программирование Азы](https://www.youtube.com/watch?v=uMXF7cqpRsQ&amp;list=PLCp7YGqt4kFpZwDACIXz9HAMKQ4F3ME6N&amp;index=4&amp;pp=iAQB)

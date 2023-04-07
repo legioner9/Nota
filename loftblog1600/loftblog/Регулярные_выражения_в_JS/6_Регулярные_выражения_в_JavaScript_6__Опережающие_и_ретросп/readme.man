@@ -1,0 +1,3 @@
+# [loftblog](https://www.youtube.com/@loftblog/playlists)
+## [Регулярные выражения в JS](https://www.youtube.com/playlist?list=PLY4rE9dstrJybXiawtabniwVxQSCAb3PL)
+### [Регулярные выражения в JavaScript #6 – Опережающие и ретроспективные проверки, а также альтернация](https://www.youtube.com/watch?v=caRyNyJl2pU&amp;list=PLY4rE9dstrJybXiawtabniwVxQSCAb3PL&amp;index=6&amp;pp=iAQB)

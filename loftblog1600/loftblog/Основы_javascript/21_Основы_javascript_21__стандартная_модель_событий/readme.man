@@ -1,0 +1,3 @@
+# [loftblog](https://www.youtube.com/@loftblog/playlists)
+## [Основы javascript](https://www.youtube.com/playlist?list=PLY4rE9dstrJymG1GyPLgOKsJNq9r-p6pX)
+### [Основы javascript 21 - стандартная модель событий](https://www.youtube.com/watch?v=0udLlA5Y7yc&amp;list=PLY4rE9dstrJymG1GyPLgOKsJNq9r-p6pX&amp;index=21&amp;pp=iAQB)

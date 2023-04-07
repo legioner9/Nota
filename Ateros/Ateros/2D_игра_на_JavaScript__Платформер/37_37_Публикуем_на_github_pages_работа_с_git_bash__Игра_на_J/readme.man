@@ -1,0 +1,3 @@
+# [Ateros](https://www.youtube.com/@_ateros/playlists)
+## [2D игра на JavaScript | Платформер](https://www.youtube.com/playlist?list=PLfSrF_YWov8b37p6HEp-GHzGaWoQlnREL)
+### [[#37] Публикуем на github pages, работа с git, bash | Игра на JS](https://www.youtube.com/watch?v=L2wQoxq9F50&amp;list=PLfSrF_YWov8b37p6HEp-GHzGaWoQlnREL&amp;index=37&amp;pp=iAQB)

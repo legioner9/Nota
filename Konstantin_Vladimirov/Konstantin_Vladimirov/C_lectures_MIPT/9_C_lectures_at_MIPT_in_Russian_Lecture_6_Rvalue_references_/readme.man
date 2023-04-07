@@ -1,0 +1,3 @@
+# [Konstantin Vladimirov](https://www.youtube.com/@tilir/playlists)
+## [C++ lectures, MIPT](https://www.youtube.com/playlist?list=PL3BR09unfgcgJPQZKaacwzGmcXMtEA-19)
+### [C++ lectures at MIPT (in Russian). Lecture 6. Rvalue references, part 2](https://www.youtube.com/watch?v=k_u5fNg1lwQ&amp;list=PL3BR09unfgcgJPQZKaacwzGmcXMtEA-19&amp;index=9&amp;pp=iAQB)

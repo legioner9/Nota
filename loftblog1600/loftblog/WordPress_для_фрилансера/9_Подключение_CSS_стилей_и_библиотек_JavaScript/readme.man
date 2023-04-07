@@ -1,0 +1,3 @@
+# [loftblog](https://www.youtube.com/@loftblog/playlists)
+## [WordPress для фрилансера](https://www.youtube.com/playlist?list=PLY4rE9dstrJyvr3-ssA_ai5xnvSOI5tr6)
+### [Подключение CSS стилей и библиотек JavaScript](https://www.youtube.com/watch?v=VD-7ORTBvfw&amp;list=PLY4rE9dstrJyvr3-ssA_ai5xnvSOI5tr6&amp;index=9&amp;pp=iAQB)

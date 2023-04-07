@@ -1,0 +1,3 @@
+# [loftblog](https://www.youtube.com/@loftblog/playlists)
+## [Разработка Android приложения](https://www.youtube.com/playlist?list=PLY4rE9dstrJxkDQdEJnSpyeY0ZemkJ2lo)
+### [Разработка Android приложений. Урок 3 - Работа c Button и ресурсами в Android.](https://www.youtube.com/watch?v=pxhwC3_QI5E&amp;list=PLY4rE9dstrJxkDQdEJnSpyeY0ZemkJ2lo&amp;index=4&amp;pp=iAQB)

@@ -1,0 +1,4 @@
+### [Практический JAVASCRIPT - продвинутый уровень | Урок #1. О курсе. Чему вы научитесь](https://www.youtube.com/watch?v=I64Gc8ezY4g&amp;list=PLIMbZPmmhFavXWtnZKvs8rZgaHZ2Vol2v&amp;index=1&amp;pp=iAQB)
+### [Практический JAVASCRIPT - продвинутый уровень | Урок #2. Введение. Как проходит обучение по курсу](https://www.youtube.com/watch?v=iljb3hriYxc&amp;list=PLIMbZPmmhFavXWtnZKvs8rZgaHZ2Vol2v&amp;index=2&amp;pp=iAQB)
+### [Практический JAVASCRIPT - продвинутый уровень | Урок #3. Настраиваем сборку проекта и разбираем ТЗ](https://www.youtube.com/watch?v=k4GSjzX0x9Y&amp;list=PLIMbZPmmhFavXWtnZKvs8rZgaHZ2Vol2v&amp;index=3&amp;pp=iAQB)
+### [Практический JAVASCRIPT - продвинутый уровень | Урок #4. Работа с модальными окнами](https://www.youtube.com/watch?v=VLTp4vET83I&amp;list=PLIMbZPmmhFavXWtnZKvs8rZgaHZ2Vol2v&amp;index=4&amp;pp=iAQB)

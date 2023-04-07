@@ -1,0 +1,3 @@
+# [Konstantin Vladimirov](https://www.youtube.com/@tilir/playlists)
+## [C++ lectures, MIPT](https://www.youtube.com/playlist?list=PL3BR09unfgcgJPQZKaacwzGmcXMtEA-19)
+### [C++ Lectures at MIPT (in Russian). Lecture 1. Strings.](https://www.youtube.com/watch?v=bDWdRyt6fIY&amp;list=PL3BR09unfgcgJPQZKaacwzGmcXMtEA-19&amp;index=1&amp;pp=iAQB)

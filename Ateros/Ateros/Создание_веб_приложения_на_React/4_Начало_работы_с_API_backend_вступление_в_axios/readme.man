@@ -1,0 +1,3 @@
+# [Ateros](https://www.youtube.com/@_ateros/playlists)
+## [Создание веб приложения на React](https://www.youtube.com/playlist?list=PLfSrF_YWov8ZElauVxs5FivTKasXvmMkH)
+### [Начало работы с API backend, вступление в axios](https://www.youtube.com/watch?v=W1vL0r5mZ7M&amp;list=PLfSrF_YWov8ZElauVxs5FivTKasXvmMkH&amp;index=4&amp;pp=iAQB)

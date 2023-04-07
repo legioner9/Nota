@@ -1,0 +1,3 @@
+# [Ateros](https://www.youtube.com/@_ateros/playlists)
+## [Создание веб приложения на React](https://www.youtube.com/playlist?list=PLfSrF_YWov8ZElauVxs5FivTKasXvmMkH)
+### [Теория использования хуков useState и useEffect](https://www.youtube.com/watch?v=r5wGKvZ7Lrk&amp;list=PLfSrF_YWov8ZElauVxs5FivTKasXvmMkH&amp;index=5&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [loftblog](https://www.youtube.com/@loftblog/playlists)
+## [Разработка Android приложения](https://www.youtube.com/playlist?list=PLY4rE9dstrJxkDQdEJnSpyeY0ZemkJ2lo)
+### [Flutter или как сделать в андроид студии. Одно приложение под iOS и Android](https://www.youtube.com/watch?v=vdhKOYiSaYU&amp;list=PLY4rE9dstrJxkDQdEJnSpyeY0ZemkJ2lo&amp;index=6&amp;pp=iAQB)

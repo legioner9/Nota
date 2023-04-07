@@ -1,0 +1,3 @@
+# [Masters of ${code}](https://www.youtube.com/@MastersOfCode/playlists?view=1)
+## [React - с Нуля до Профессионала](https://www.youtube.com/playlist?list=PLCp7YGqt4kFpn5Pw5jukSbbXoAblSNKiT)
+### [React Состояния и Работа с Событиями | 08 Работа с Несколькими Состояниями](https://www.youtube.com/watch?v=kmsRW04sUUs&amp;list=PLCp7YGqt4kFpn5Pw5jukSbbXoAblSNKiT&amp;index=36&amp;pp=iAQB)

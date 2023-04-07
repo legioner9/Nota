@@ -1,0 +1,3 @@
+# [Murrengan](https://www.youtube.com/@Murrengan/playlists)
+## [Подкасты](https://www.youtube.com/playlist?list=PLDCohen8NBMYwTuJKwCnc8-mo4l7J4ZLS)
+### [Стал программистом и вот что мы сделали за месяц на python, django, javascript и vue.js.](https://www.youtube.com/watch?v=QyS6J0jPA4k&amp;list=PLDCohen8NBMYwTuJKwCnc8-mo4l7J4ZLS&amp;index=6&amp;pp=iAQB)

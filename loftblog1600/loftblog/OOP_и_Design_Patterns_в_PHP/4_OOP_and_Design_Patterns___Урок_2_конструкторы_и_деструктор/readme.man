@@ -1,0 +1,3 @@
+# [loftblog](https://www.youtube.com/@loftblog/playlists)
+## [OOP и Design Patterns в PHP](https://www.youtube.com/playlist?list=PLY4rE9dstrJwmJUR0qlMcTbeW5uRwluqW)
+### [OOP and Design Patterns -  Урок 2: конструкторы и деструкторы, $this](https://www.youtube.com/watch?v=1QhdCAaSuhs&amp;list=PLY4rE9dstrJwmJUR0qlMcTbeW5uRwluqW&amp;index=4&amp;pp=iAQB)

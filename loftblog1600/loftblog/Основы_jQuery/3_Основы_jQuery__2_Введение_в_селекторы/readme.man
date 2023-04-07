@@ -1,0 +1,3 @@
+# [loftblog](https://www.youtube.com/@loftblog/playlists)
+## [Основы jQuery](https://www.youtube.com/playlist?list=PLY4rE9dstrJxST3xftg5kSCQdUB8hvj4S)
+### [Основы jQuery - 2 Введение в селекторы](https://www.youtube.com/watch?v=5a1d5VwlvxM&amp;list=PLY4rE9dstrJxST3xftg5kSCQdUB8hvj4S&amp;index=3&amp;pp=iAQB)

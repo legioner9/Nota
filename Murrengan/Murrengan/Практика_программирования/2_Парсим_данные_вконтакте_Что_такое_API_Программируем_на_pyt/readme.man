@@ -1,0 +1,3 @@
+# [Murrengan](https://www.youtube.com/@Murrengan/playlists)
+## [Практика программирования](https://www.youtube.com/playlist?list=PLDCohen8NBMZgCuUIPAkNuem-jiVpAv6i)
+### [Парсим данные вконтакте. Что такое API? Программируем на python. Как спарсить данные через API?](https://www.youtube.com/watch?v=UjMZ7lTYvyI&amp;list=PLDCohen8NBMZgCuUIPAkNuem-jiVpAv6i&amp;index=2&amp;pp=iAQB)

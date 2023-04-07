@@ -1,0 +1,5 @@
+### [Продвинутый javascript 1 - Шаблоны вызова функции и this](https://www.youtube.com/watch?v=xydnbUZqzto&amp;list=PLY4rE9dstrJzNRmAeTHXAlT7lJFC2YjDg&amp;index=1&amp;pp=iAQB)
+### [Продвинутый javascript 2 - Функция-конструктор](https://www.youtube.com/watch?v=izR19HsNY2g&amp;list=PLY4rE9dstrJzNRmAeTHXAlT7lJFC2YjDg&amp;index=2&amp;pp=iAQB)
+### [Продвинутый javascript 3 - Прототипное наследование](https://www.youtube.com/watch?v=SveV1LXwWZ4&amp;list=PLY4rE9dstrJzNRmAeTHXAlT7lJFC2YjDg&amp;index=3&amp;pp=iAQB)
+### [Продвинутый javascript 4 - Прототипное наследование ч.2](https://www.youtube.com/watch?v=Ofkepp_QolI&amp;list=PLY4rE9dstrJzNRmAeTHXAlT7lJFC2YjDg&amp;index=4&amp;pp=iAQB)
+### [Продвинутый javascript 5 - Прототипное наследование ч.3 Object.create()](https://www.youtube.com/watch?v=0O_j8sdlenE&amp;list=PLY4rE9dstrJzNRmAeTHXAlT7lJFC2YjDg&amp;index=5&amp;pp=iAQB)

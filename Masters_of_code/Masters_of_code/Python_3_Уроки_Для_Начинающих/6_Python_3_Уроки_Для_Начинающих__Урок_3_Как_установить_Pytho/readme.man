@@ -1,0 +1,3 @@
+# [Masters of ${code}](https://www.youtube.com/@MastersOfCode/playlists?view=1)
+## [Python 3 Уроки Для Начинающих](https://www.youtube.com/playlist?list=PLCp7YGqt4kFove1HjnFISvQWIHidUl_et)
+### [Python 3 Уроки Для Начинающих | Урок №3 Как установить Python 3 на MacOS | Python для новичков](https://www.youtube.com/watch?v=osyzekce11w&amp;list=PLCp7YGqt4kFove1HjnFISvQWIHidUl_et&amp;index=6&amp;pp=iAQB)

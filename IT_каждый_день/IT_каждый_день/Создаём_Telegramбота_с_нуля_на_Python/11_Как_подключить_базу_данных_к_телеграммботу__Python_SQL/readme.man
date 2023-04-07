@@ -1,0 +1,3 @@
+# [IT каждый день](https://www.youtube.com/@it_everyday/playlistss)
+## [Создаём Telegram-бота с нуля на Python](https://www.youtube.com/playlist?list=PLkeGs_OdUTP-uXDyLdCrn0yJeqsVAAjhY)
+### [Как подключить базу данных к телеграмм-боту / Python SQL](https://www.youtube.com/watch?v=yBEz6TjFKKw&amp;list=PLkeGs_OdUTP-uXDyLdCrn0yJeqsVAAjhY&amp;index=11&amp;pp=iAQB)

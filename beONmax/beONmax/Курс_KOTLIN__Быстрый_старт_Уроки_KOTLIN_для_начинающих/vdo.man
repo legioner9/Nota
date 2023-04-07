@@ -1,0 +1,5 @@
+### [KOTLIN - Быстрый старт! | Урок #1. Введение](https://www.youtube.com/watch?v=h39A09S2_Fk&amp;list=PLIMbZPmmhFav72hZVhXi5ipmIy-O-slHG&amp;index=1&amp;pp=iAQB)
+### [KOTLIN - Быстрый старт! | Урок #2. Первая программа на Kotlin](https://www.youtube.com/watch?v=u-HbHmoLHOo&amp;list=PLIMbZPmmhFav72hZVhXi5ipmIy-O-slHG&amp;index=2&amp;pp=iAQB)
+### [KOTLIN - Быстрый старт! | Урок #3. Переменные](https://www.youtube.com/watch?v=0xROvEtqEis&amp;list=PLIMbZPmmhFav72hZVhXi5ipmIy-O-slHG&amp;index=3&amp;pp=iAQB)
+### [KOTLIN - Быстрый старт! | Урок #4. Nullable types (нулабельные типы)](https://www.youtube.com/watch?v=v7MDlKA-U40&amp;list=PLIMbZPmmhFav72hZVhXi5ipmIy-O-slHG&amp;index=4&amp;pp=iAQB)
+### [KOTLIN - Быстрый старт! | Урок #5. Условный оператор if](https://www.youtube.com/watch?v=C7BclHGkxP0&amp;list=PLIMbZPmmhFav72hZVhXi5ipmIy-O-slHG&amp;index=5&amp;pp=iAQB)

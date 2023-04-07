@@ -1,0 +1,3 @@
+# [loftblog](https://www.youtube.com/@loftblog/playlists)
+## [Вебинары](https://www.youtube.com/playlist?list=PLY4rE9dstrJwoSoksf2bGCZciaNH-cLEj)
+### [Пишем Android-приложение с нуля на Jetpack + Kotlin. Часть 2](https://www.youtube.com/watch?v=H_Ylf2eN2YI&amp;list=PLY4rE9dstrJwoSoksf2bGCZciaNH-cLEj&amp;index=29&amp;pp=iAQB)

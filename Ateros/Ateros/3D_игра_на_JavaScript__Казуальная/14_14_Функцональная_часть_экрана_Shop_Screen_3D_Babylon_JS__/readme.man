@@ -1,0 +1,3 @@
+# [Ateros](https://www.youtube.com/@_ateros/playlists)
+## [3D игра на JavaScript | Казуальная](https://www.youtube.com/playlist?list=PLfSrF_YWov8aS8aF3jEGkiVvZvjPUr-bA)
+### [[#14] Функцональная часть экрана Shop Screen, 3D Babylon JS | 3D игра на JacaScript](https://www.youtube.com/watch?v=DucJNLJxSJA&amp;list=PLfSrF_YWov8aS8aF3jEGkiVvZvjPUr-bA&amp;index=14&amp;pp=iAQB)

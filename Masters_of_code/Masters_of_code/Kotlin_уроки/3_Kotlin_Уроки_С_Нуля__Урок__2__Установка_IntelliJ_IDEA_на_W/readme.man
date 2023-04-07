@@ -1,0 +1,3 @@
+# [Masters of ${code}](https://www.youtube.com/@MastersOfCode/playlists?view=1)
+## [Kotlin уроки](https://www.youtube.com/playlist?list=PLCp7YGqt4kFoQVwuIA2hYmehbZRuvRB3m)
+### [Kotlin Уроки С Нуля | Урок № 2 | Установка IntelliJ IDEA на Windows | Программирование Азы](https://www.youtube.com/watch?v=tWINRyYBf3Q&amp;list=PLCp7YGqt4kFoQVwuIA2hYmehbZRuvRB3m&amp;index=3&amp;pp=iAQB)

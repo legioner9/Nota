@@ -1,0 +1,4 @@
+### [#1 - Разбор теории Grid CSS](https://www.youtube.com/watch?v=ZkYhNIxGc8k&amp;list=PLY4rE9dstrJxI-kCaXQnqCjPy4HPNn1DG&amp;index=1&amp;pp=iAQB)
+### [#2 - Grid CSS. Общая вёрстка сайта](https://www.youtube.com/watch?v=D4zwQgV2npk&amp;list=PLY4rE9dstrJxI-kCaXQnqCjPy4HPNn1DG&amp;index=2&amp;pp=iAQB)
+### [#3 - Grid CSS. Делаем grid-сетку](https://www.youtube.com/watch?v=chgx7ozsPiI&amp;list=PLY4rE9dstrJxI-kCaXQnqCjPy4HPNn1DG&amp;index=3&amp;pp=iAQB)
+### [#4 - Grid CSS. Адаптируем сайт](https://www.youtube.com/watch?v=A5o-o2femFU&amp;list=PLY4rE9dstrJxI-kCaXQnqCjPy4HPNn1DG&amp;index=4&amp;pp=iAQB)

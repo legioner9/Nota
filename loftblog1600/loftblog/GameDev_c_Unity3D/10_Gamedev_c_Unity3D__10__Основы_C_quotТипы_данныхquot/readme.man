@@ -1,0 +1,3 @@
+# [loftblog](https://www.youtube.com/@loftblog/playlists)
+## [GameDev c Unity3D](https://www.youtube.com/playlist?list=PLY4rE9dstrJzkSRDKRXUQhAetmYnOf2bt)
+### [Gamedev c Unity3D - #10 - Основы C# &quot;Типы данных&quot;](https://www.youtube.com/watch?v=DjKOhoqgohs&amp;list=PLY4rE9dstrJzkSRDKRXUQhAetmYnOf2bt&amp;index=10&amp;pp=iAQB)

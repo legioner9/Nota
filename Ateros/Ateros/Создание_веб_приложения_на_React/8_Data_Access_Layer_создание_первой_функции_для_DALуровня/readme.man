@@ -1,0 +1,3 @@
+# [Ateros](https://www.youtube.com/@_ateros/playlists)
+## [Создание веб приложения на React](https://www.youtube.com/playlist?list=PLfSrF_YWov8ZElauVxs5FivTKasXvmMkH)
+### [Data Access Layer, создание первой функции для DAL-уровня](https://www.youtube.com/watch?v=tieA-FrM69U&amp;list=PLfSrF_YWov8ZElauVxs5FivTKasXvmMkH&amp;index=8&amp;pp=iAQB)

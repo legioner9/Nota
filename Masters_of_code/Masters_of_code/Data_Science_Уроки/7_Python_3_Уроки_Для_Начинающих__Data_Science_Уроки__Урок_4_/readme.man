@@ -1,0 +1,3 @@
+# [Masters of ${code}](https://www.youtube.com/@MastersOfCode/playlists?view=1)
+## [Data Science Уроки](https://www.youtube.com/playlist?list=PLCp7YGqt4kFqg11gf7ZdQmZJ5CQ1PXNUf)
+### [Python 3 Уроки Для Начинающих | Data Science Уроки | Урок №4 Одномерные массивы. Indexing &amp; Slicing](https://www.youtube.com/watch?v=THs5IPzG6Qc&amp;list=PLCp7YGqt4kFqg11gf7ZdQmZJ5CQ1PXNUf&amp;index=7&amp;pp=iAQB)

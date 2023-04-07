@@ -1,0 +1,3 @@
+# [loftblog](https://www.youtube.com/@loftblog/playlists)
+## [Верстка сайта на Grid CSS](https://www.youtube.com/playlist?list=PLY4rE9dstrJxI-kCaXQnqCjPy4HPNn1DG)
+### [#1 - Разбор теории Grid CSS](https://www.youtube.com/watch?v=ZkYhNIxGc8k&amp;list=PLY4rE9dstrJxI-kCaXQnqCjPy4HPNn1DG&amp;index=1&amp;pp=iAQB)

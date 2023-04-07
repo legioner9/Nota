@@ -1,0 +1,3 @@
+# [Masters of ${code}](https://www.youtube.com/@MastersOfCode/playlists?view=1)
+## [Ускоренные Курсы](https://www.youtube.com/playlist?list=PLCp7YGqt4kFpzVAUaJT2IWVzU3rEo0ipD)
+### [Ускоренный Курс по Современному JavaScript 👨‍💻 с Нуля 👍 | JavaScript Уроки Visual Studio](https://www.youtube.com/watch?v=X3qQPVfgrII&amp;list=PLCp7YGqt4kFpzVAUaJT2IWVzU3rEo0ipD&amp;index=3&amp;pp=iAQB)

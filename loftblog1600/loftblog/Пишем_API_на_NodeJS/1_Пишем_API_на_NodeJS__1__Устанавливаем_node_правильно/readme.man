@@ -1,0 +1,3 @@
+# [loftblog](https://www.youtube.com/@loftblog/playlists)
+## [Пишем API на NodeJS](https://www.youtube.com/playlist?list=PLY4rE9dstrJzrDaSPKOrhNgQ19GhVl19u)
+### [Пишем API на NodeJS - #1 - Устанавливаем node правильно](https://www.youtube.com/watch?v=fHoKs66Z2qQ&amp;list=PLY4rE9dstrJzrDaSPKOrhNgQ19GhVl19u&amp;index=1&amp;pp=iAQB)

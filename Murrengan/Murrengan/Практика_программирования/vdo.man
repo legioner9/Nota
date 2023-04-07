@@ -1,0 +1,6 @@
+### [Git и GitHub: основа для работы. Зачем нужен и как пользоваться Git?](https://www.youtube.com/watch?v=REEM9JG_dQA&amp;list=PLDCohen8NBMZgCuUIPAkNuem-jiVpAv6i&amp;index=1&amp;pp=iAQB)
+### [Парсим данные вконтакте. Что такое API? Программируем на python. Как спарсить данные через API?](https://www.youtube.com/watch?v=UjMZ7lTYvyI&amp;list=PLDCohen8NBMZgCuUIPAkNuem-jiVpAv6i&amp;index=2&amp;pp=iAQB)
+### [Что спросят на собеседовании по программированию? Задачи для junior программиста. Секреты Python 3.](https://www.youtube.com/watch?v=7iy8s5Pvq60&amp;list=PLDCohen8NBMZgCuUIPAkNuem-jiVpAv6i&amp;index=3&amp;pp=iAQB)
+### [How to make a world of warcraft bot. Python, OpenCV, Pillow, Pyautogui](https://www.youtube.com/watch?v=Fm7gLb4LdWg&amp;list=PLDCohen8NBMZgCuUIPAkNuem-jiVpAv6i&amp;index=4&amp;pp=iAQB)
+### [Как работает опен сорс? Как проходит ревью кода?](https://www.youtube.com/watch?v=g3HwfMb_B-8&amp;list=PLDCohen8NBMZgCuUIPAkNuem-jiVpAv6i&amp;index=5&amp;pp=iAQB)
+### [Делаем сайт на python (django) и javaScript (vuejs). Дневник разработчика #2](https://www.youtube.com/watch?v=dwKnafT2R74&amp;list=PLDCohen8NBMZgCuUIPAkNuem-jiVpAv6i&amp;index=6&amp;pp=iAQB)

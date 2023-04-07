@@ -1,0 +1,4 @@
+### [SQL и POSTGRESQL | Урок #1. Как проходит обучение по курсу. Чему вы научитесь?](https://www.youtube.com/watch?v=5JkH89_R9Ts&amp;list=PLIMbZPmmhFaslFA5vMgbzJ7MjT70gLlwI&amp;index=1&amp;pp=iAQB)
+### [SQL и POSTGRESQL | Урок #2. Основные концепции](https://www.youtube.com/watch?v=IczI9d6mMlQ&amp;list=PLIMbZPmmhFaslFA5vMgbzJ7MjT70gLlwI&amp;index=2&amp;pp=iAQB)
+### [SQL и POSTGRESQL | Урок #3. Реляционная модель и SQL](https://www.youtube.com/watch?v=11euA-k1cuU&amp;list=PLIMbZPmmhFaslFA5vMgbzJ7MjT70gLlwI&amp;index=3&amp;pp=iAQB)
+### [SQL и POSTGRESQL | Урок #4. Почему PostgreSQL?](https://www.youtube.com/watch?v=Tte4HT-aJiU&amp;list=PLIMbZPmmhFaslFA5vMgbzJ7MjT70gLlwI&amp;index=4&amp;pp=iAQB)

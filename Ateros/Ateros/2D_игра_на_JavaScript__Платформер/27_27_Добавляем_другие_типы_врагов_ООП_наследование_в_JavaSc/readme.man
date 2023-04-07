@@ -1,0 +1,3 @@
+# [Ateros](https://www.youtube.com/@_ateros/playlists)
+## [2D игра на JavaScript | Платформер](https://www.youtube.com/playlist?list=PLfSrF_YWov8b37p6HEp-GHzGaWoQlnREL)
+### [[#27] Добавляем другие типы врагов, ООП наследование в JavaScript | Игра на JS](https://www.youtube.com/watch?v=_LsYw5FG-mg&amp;list=PLfSrF_YWov8b37p6HEp-GHzGaWoQlnREL&amp;index=27&amp;pp=iAQB)

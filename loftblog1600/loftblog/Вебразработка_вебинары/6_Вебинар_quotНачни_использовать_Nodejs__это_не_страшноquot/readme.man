@@ -1,0 +1,3 @@
+# [loftblog](https://www.youtube.com/@loftblog/playlists)
+## [Веб-разработка, вебинары](https://www.youtube.com/playlist?list=PLY4rE9dstrJz6UbNRxNZyO1JrEj6eKxoc)
+### [Вебинар &quot;Начни использовать Node.js — это не страшно!&quot;](https://www.youtube.com/watch?v=d5mgm43KzfQ&amp;list=PLY4rE9dstrJz6UbNRxNZyO1JrEj6eKxoc&amp;index=6&amp;pp=iAQB)

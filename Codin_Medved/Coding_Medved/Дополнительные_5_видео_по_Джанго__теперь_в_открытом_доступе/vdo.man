@@ -1,0 +1,6 @@
+### [Общее видео по 5-ти бонусным видео](https://www.youtube.com/watch?v=aezNy6j5Tlo&amp;list=PLSWnD6rL-m9Y0qg870RD4C1pkQJSI-ZdZ&amp;index=1&amp;pp=iAQB)
+### [Добавляем политику конфиденциальности на сайт, доступную с любой страницы сайта](https://www.youtube.com/watch?v=vp2M7OyjCRY&amp;list=PLSWnD6rL-m9Y0qg870RD4C1pkQJSI-ZdZ&amp;index=2&amp;pp=iAQB)
+### [Django и Datatables на примере страницы заказов](https://www.youtube.com/watch?v=6vVnP02bkQc&amp;list=PLSWnD6rL-m9Y0qg870RD4C1pkQJSI-ZdZ&amp;index=3&amp;pp=iAQB)
+### [Отправка имейлов в Джанго](https://www.youtube.com/watch?v=5Ni1-OM1GfI&amp;list=PLSWnD6rL-m9Y0qg870RD4C1pkQJSI-ZdZ&amp;index=4&amp;pp=iAQB)
+### [Импорт из Excel файла в базу данных в Джанго](https://www.youtube.com/watch?v=qB7ZRkKL9WM&amp;list=PLSWnD6rL-m9Y0qg870RD4C1pkQJSI-ZdZ&amp;index=5&amp;pp=iAQB)
+### [Использование Highcharts в Django](https://www.youtube.com/watch?v=hbp2M7Enf_U&amp;list=PLSWnD6rL-m9Y0qg870RD4C1pkQJSI-ZdZ&amp;index=6&amp;pp=iAQB)

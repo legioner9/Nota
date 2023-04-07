@@ -1,0 +1,3 @@
+# [loftblog](https://www.youtube.com/@loftblog/playlists)
+## [Веб-приложения на asp.net mvc core](https://www.youtube.com/playlist?list=PLY4rE9dstrJwbcnUjiL7FKd1D4CRLIMCg)
+### [Веб-приложение на asp.net mvc core — #8 Presentation Layer: создание уровня представления](https://www.youtube.com/watch?v=9ueqnMsWbpA&amp;list=PLY4rE9dstrJwbcnUjiL7FKd1D4CRLIMCg&amp;index=8&amp;pp=iAQB)

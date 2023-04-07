@@ -1,0 +1,3 @@
+# [loftblog](https://www.youtube.com/@loftblog/playlists)
+## [Angular + Webpack](https://www.youtube.com/playlist?list=PLY4rE9dstrJzHO3zS-wi8roObKHl_EEY_)
+### [Angular + Webpack - #3 - Используем ES6](https://www.youtube.com/watch?v=-BkeSPMQog8&amp;list=PLY4rE9dstrJzHO3zS-wi8roObKHl_EEY_&amp;index=3&amp;pp=iAQB)

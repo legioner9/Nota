@@ -1,0 +1,3 @@
+# [BogdanDotPy](https://www.youtube.com/@BogdanDotPy/playlists)
+## [Полезные штуки](https://www.youtube.com/playlist?list=PLpTYtB-EF1dtiVreVauDmSqpqY_iJs5Rd)
+### [Включаем HTTPS на своём сайте за 5 минут используя Letsencrypt и Certbot](https://www.youtube.com/watch?v=FPToTCa9X3Y&amp;list=PLpTYtB-EF1dtiVreVauDmSqpqY_iJs5Rd&amp;index=5&amp;pp=iAQB)

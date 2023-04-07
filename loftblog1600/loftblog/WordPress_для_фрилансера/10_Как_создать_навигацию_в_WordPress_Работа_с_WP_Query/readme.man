@@ -1,0 +1,3 @@
+# [loftblog](https://www.youtube.com/@loftblog/playlists)
+## [WordPress для фрилансера](https://www.youtube.com/playlist?list=PLY4rE9dstrJyvr3-ssA_ai5xnvSOI5tr6)
+### [Как создать навигацию в WordPress? Работа с WP_Query](https://www.youtube.com/watch?v=_gt0qM5lhQI&amp;list=PLY4rE9dstrJyvr3-ssA_ai5xnvSOI5tr6&amp;index=10&amp;pp=iAQB)

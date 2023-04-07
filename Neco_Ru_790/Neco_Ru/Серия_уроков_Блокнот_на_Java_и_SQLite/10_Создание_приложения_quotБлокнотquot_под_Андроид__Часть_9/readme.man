@@ -1,0 +1,3 @@
+# [Neco Ru](https://www.youtube.com/@NecoRuChannel/playlists)
+## [Серия уроков "Блокнот на Java и SQLite"](https://www.youtube.com/playlist?list=PLmjT2NFTgg1fPdNnJ3Rf2gNSbWZuMkkTi)
+### [Создание приложения &quot;Блокнот&quot; под Андроид || Часть 9](https://www.youtube.com/watch?v=vp37z11cYRU&amp;list=PLmjT2NFTgg1fPdNnJ3Rf2gNSbWZuMkkTi&amp;index=10&amp;pp=iAQB)

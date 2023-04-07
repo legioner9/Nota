@@ -1,0 +1,3 @@
+# [IT каждый день](https://www.youtube.com/@it_everyday/playlistss)
+## [Продвинутая разработка на Python](https://www.youtube.com/playlist?list=PLkeGs_OdUTP_PLAjaFjC8WFvlwbpr7tn8)
+### [Я сделал прокси для Telegram-бота. Анализ безопасности ботов](https://www.youtube.com/watch?v=Z6BEn5_FsAo&amp;list=PLkeGs_OdUTP_PLAjaFjC8WFvlwbpr7tn8&amp;index=4&amp;pp=iAQB)

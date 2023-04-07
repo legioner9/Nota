@@ -1,0 +1,3 @@
+# [loftblog](https://www.youtube.com/@loftblog/playlists)
+## [Основы javascript](https://www.youtube.com/playlist?list=PLY4rE9dstrJymG1GyPLgOKsJNq9r-p6pX)
+### [Основы Javascript 12 - Функции](https://www.youtube.com/watch?v=FZkSwa_rm_E&amp;list=PLY4rE9dstrJymG1GyPLgOKsJNq9r-p6pX&amp;index=12&amp;pp=iAQB)

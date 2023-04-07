@@ -1,0 +1,3 @@
+# [loftblog](https://www.youtube.com/@loftblog/playlists)
+## [Основы написания макросов в Excel](https://www.youtube.com/playlist?list=PLY4rE9dstrJyumRK-ucl1q6CeyOSLzCXD)
+### [Основы написания макросов в Excel - #3 - Изучаем редактор VBE](https://www.youtube.com/watch?v=4sY59JfYhD0&amp;list=PLY4rE9dstrJyumRK-ucl1q6CeyOSLzCXD&amp;index=3&amp;pp=iAQB)

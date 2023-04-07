@@ -1,0 +1,3 @@
+# [Masters of ${code}](https://www.youtube.com/@MastersOfCode/playlists?view=1)
+## [Python 3 Уроки Для Начинающих](https://www.youtube.com/playlist?list=PLCp7YGqt4kFove1HjnFISvQWIHidUl_et)
+### [Python 3 Уроки Для Начинающих | Урок №16 Работа с множествами (Set) в Python 3](https://www.youtube.com/watch?v=mPpPgeB2f-Y&amp;list=PLCp7YGqt4kFove1HjnFISvQWIHidUl_et&amp;index=29&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [loftblog](https://www.youtube.com/@loftblog/playlists)
+## [Чат-бот на платформе Microsoft Bot Framework](https://www.youtube.com/playlist?list=PLY4rE9dstrJzmxrLgws5D9zjSgQMZqMON)
+### [Работа с диалогами в чат-ботах.](https://www.youtube.com/watch?v=0VI5wjGDd68&amp;list=PLY4rE9dstrJzmxrLgws5D9zjSgQMZqMON&amp;index=5&amp;pp=iAQB)

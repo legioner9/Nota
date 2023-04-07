@@ -1,0 +1,6 @@
+### [Bootstrap 3 - старт](https://www.youtube.com/watch?v=9akF4udEueA&amp;list=PLY4rE9dstrJwP_JUTts9AtMVtJlJVGxWK&amp;index=1&amp;pp=iAQB)
+### [Bootstrap 3 - сетка + responsive image](https://www.youtube.com/watch?v=Zx8f390IyOg&amp;list=PLY4rE9dstrJwP_JUTts9AtMVtJlJVGxWK&amp;index=2&amp;pp=iAQB)
+### [Bootstrap 3 - типографика, иконки, таблицы и пр.](https://www.youtube.com/watch?v=l0kjvTDq8b4&amp;list=PLY4rE9dstrJwP_JUTts9AtMVtJlJVGxWK&amp;index=3&amp;pp=iAQB)
+### [Bootstrap - валидация форм своими руками - 1, подготовка](https://www.youtube.com/watch?v=PjH6-hJRUdE&amp;list=PLY4rE9dstrJwP_JUTts9AtMVtJlJVGxWK&amp;index=4&amp;pp=iAQB)
+### [Bootstrap - валидация форм своими руками - 2, пишем javascript](https://www.youtube.com/watch?v=bBPnHL8b80Y&amp;list=PLY4rE9dstrJwP_JUTts9AtMVtJlJVGxWK&amp;index=5&amp;pp=iAQB)
+### [Bootstrap - валидация форм - 3 (ajax, serverside)](https://www.youtube.com/watch?v=JrSZXy56XW8&amp;list=PLY4rE9dstrJwP_JUTts9AtMVtJlJVGxWK&amp;index=6&amp;pp=iAQB)

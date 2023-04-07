@@ -1,0 +1,6 @@
+### [Инструменты, техники и навыки web разработчика - 1 - Bootstrap, html5boilerplate, initializr](https://www.youtube.com/watch?v=j7c4dpPqHCg&amp;list=PLY4rE9dstrJw03_uGKTz-v_AYa_aAJr9F&amp;index=1&amp;pp=iAQB)
+### [Инструменты, техники и навыки web разработчика - 2 - Bootstrap, CSS3 button generator](https://www.youtube.com/watch?v=QvOSwqqTf18&amp;list=PLY4rE9dstrJw03_uGKTz-v_AYa_aAJr9F&amp;index=2&amp;pp=iAQB)
+### [Инструменты, техники и навыки web разработчика - 3 - Bootstrap, JSColor](https://www.youtube.com/watch?v=VmANRTOmzmA&amp;list=PLY4rE9dstrJw03_uGKTz-v_AYa_aAJr9F&amp;index=3&amp;pp=iAQB)
+### [Инструменты, техники и навыки web разработчика - 4 - Javascript + jquery](https://www.youtube.com/watch?v=Czmzu8Eh1r8&amp;list=PLY4rE9dstrJw03_uGKTz-v_AYa_aAJr9F&amp;index=4&amp;pp=iAQB)
+### [Инструменты, техники и навыки web разработчика - 5 - Javascript + jquery](https://www.youtube.com/watch?v=f-VUVmRBDYE&amp;list=PLY4rE9dstrJw03_uGKTz-v_AYa_aAJr9F&amp;index=5&amp;pp=iAQB)
+### [Инструменты, техники и навыки web разработчика - 6 - Javascript архитектура](https://www.youtube.com/watch?v=QywvspLws_4&amp;list=PLY4rE9dstrJw03_uGKTz-v_AYa_aAJr9F&amp;index=6&amp;pp=iAQB)

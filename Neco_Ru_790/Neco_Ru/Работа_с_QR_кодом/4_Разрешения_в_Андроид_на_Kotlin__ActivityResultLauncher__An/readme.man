@@ -1,0 +1,3 @@
+# [Neco Ru](https://www.youtube.com/@NecoRuChannel/playlists)
+## [Работа с QR кодом](https://www.youtube.com/playlist?list=PLmjT2NFTgg1cJqzBZKT2an_vaXnzA3_BE)
+### [Разрешения в Андроид на Kotlin ( ActivityResultLauncher) | Android Studio](https://www.youtube.com/watch?v=_o33f1SugGE&amp;list=PLmjT2NFTgg1cJqzBZKT2an_vaXnzA3_BE&amp;index=4&amp;pp=iAQB)

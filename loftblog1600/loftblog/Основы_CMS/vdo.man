@@ -1,0 +1,7 @@
+### [CMS для начинающих (joomla, wordpress, drupal, modx, typo3)  - #1 Обзор](https://www.youtube.com/watch?v=RGcZ9SEdFv4&amp;list=PLY4rE9dstrJzZt8JP1OajncDGWIEs8Sr_&amp;index=1&amp;pp=iAQB)
+### [CMS для начинающих - #2 Установка CMS Joomla! на локальный сервер XAMPP](https://www.youtube.com/watch?v=ZLh8gqHewrM&amp;list=PLY4rE9dstrJzZt8JP1OajncDGWIEs8Sr_&amp;index=2&amp;pp=iAQB)
+### [CMS для начинающих - #3 Установка CMS Joomla! на хостинг Украина](https://www.youtube.com/watch?v=b-IRwtp577Q&amp;list=PLY4rE9dstrJzZt8JP1OajncDGWIEs8Sr_&amp;index=3&amp;pp=iAQB)
+### [CMS для начинающих - #4 Установка CMS WordPress на хостинг Украина](https://www.youtube.com/watch?v=BRWzOXirWiw&amp;list=PLY4rE9dstrJzZt8JP1OajncDGWIEs8Sr_&amp;index=4&amp;pp=iAQB)
+### [CMS для начинающих - #5 Установка CMS Drupal на хостинг](https://www.youtube.com/watch?v=EkxHFUKzKJA&amp;list=PLY4rE9dstrJzZt8JP1OajncDGWIEs8Sr_&amp;index=5&amp;pp=iAQB)
+### [CMS для начинающих - #6 Установка CMS MODX на хостинг](https://www.youtube.com/watch?v=cmSgDjA3Kww&amp;list=PLY4rE9dstrJzZt8JP1OajncDGWIEs8Sr_&amp;index=6&amp;pp=iAQB)
+### [CMS для начинающих - #7 Установка CMS TYPO3 на хостинг Украина](https://www.youtube.com/watch?v=dYVonUQZpw0&amp;list=PLY4rE9dstrJzZt8JP1OajncDGWIEs8Sr_&amp;index=7&amp;pp=iAQB)

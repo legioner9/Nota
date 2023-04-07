@@ -1,0 +1,3 @@
+# [Masters of ${code}](https://www.youtube.com/@MastersOfCode/playlists?view=1)
+## [Python 3 Уроки Для Начинающих](https://www.youtube.com/playlist?list=PLCp7YGqt4kFove1HjnFISvQWIHidUl_et)
+### [Python 3 Уроки Для Начинающих | Урок №22 Некоторые часто используемые функции и операторы](https://www.youtube.com/watch?v=qA2j_HuHOd0&amp;list=PLCp7YGqt4kFove1HjnFISvQWIHidUl_et&amp;index=39&amp;pp=iAQB)

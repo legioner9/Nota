@@ -1,0 +1,3 @@
+# [loftblog](https://www.youtube.com/@loftblog/playlists)
+## [Основы PHP](https://www.youtube.com/playlist?list=PLY4rE9dstrJzujrObAWJGH2kCOLfRExLq)
+### [Основы PHP - типы данных](https://www.youtube.com/watch?v=YxpXAdaJ2fs&amp;list=PLY4rE9dstrJzujrObAWJGH2kCOLfRExLq&amp;index=3&amp;pp=iAQB)

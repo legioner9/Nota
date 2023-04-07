@@ -1,0 +1,3 @@
+# [Konstantin Vladimirov](https://www.youtube.com/@tilir/playlists)
+## [C++ lectures, MIPT](https://www.youtube.com/playlist?list=PL3BR09unfgcgJPQZKaacwzGmcXMtEA-19)
+### [C++ lectures at MIPT (in Russian). Lecture 14. Allocators, part 2](https://www.youtube.com/watch?v=MFdppWUwRIs&amp;list=PL3BR09unfgcgJPQZKaacwzGmcXMtEA-19&amp;index=26&amp;pp=iAQB)

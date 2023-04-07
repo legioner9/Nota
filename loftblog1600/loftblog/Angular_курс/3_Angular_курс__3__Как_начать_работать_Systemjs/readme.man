@@ -1,0 +1,3 @@
+# [loftblog](https://www.youtube.com/@loftblog/playlists)
+## [Angular курс](https://www.youtube.com/playlist?list=PLY4rE9dstrJzlDoCDCKmgD-xv8VwECOtc)
+### [Angular курс - #3 - Как начать работать (System.js)](https://www.youtube.com/watch?v=EYk2Sq2v8ak&amp;list=PLY4rE9dstrJzlDoCDCKmgD-xv8VwECOtc&amp;index=3&amp;pp=iAQB)

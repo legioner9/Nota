@@ -1,0 +1,3 @@
+# [Masters of ${code}](https://www.youtube.com/@MastersOfCode/playlists?view=1)
+## [Ускоренные Курсы](https://www.youtube.com/playlist?list=PLCp7YGqt4kFpzVAUaJT2IWVzU3rEo0ipD)
+### [Ускоренный Курс Django С Нуля За 1 час | Пишем Веб Приложение На Python + Django](https://www.youtube.com/watch?v=IoBsjIdfz6Q&amp;list=PLCp7YGqt4kFpzVAUaJT2IWVzU3rEo0ipD&amp;index=5&amp;pp=iAQB)

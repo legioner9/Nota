@@ -1,0 +1,3 @@
+# [Ateros](https://www.youtube.com/@_ateros/playlists)
+## [Создание веб приложения на React](https://www.youtube.com/playlist?list=PLfSrF_YWov8ZElauVxs5FivTKasXvmMkH)
+### [Документация API, подключения к серверу при помощи api-key](https://www.youtube.com/watch?v=XQqMG5uHVqs&amp;list=PLfSrF_YWov8ZElauVxs5FivTKasXvmMkH&amp;index=7&amp;pp=iAQB)

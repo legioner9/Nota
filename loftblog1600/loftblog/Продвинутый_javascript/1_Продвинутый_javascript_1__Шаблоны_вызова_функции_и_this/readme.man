@@ -1,0 +1,3 @@
+# [loftblog](https://www.youtube.com/@loftblog/playlists)
+## [Продвинутый javascript](https://www.youtube.com/playlist?list=PLY4rE9dstrJzNRmAeTHXAlT7lJFC2YjDg)
+### [Продвинутый javascript 1 - Шаблоны вызова функции и this](https://www.youtube.com/watch?v=xydnbUZqzto&amp;list=PLY4rE9dstrJzNRmAeTHXAlT7lJFC2YjDg&amp;index=1&amp;pp=iAQB)

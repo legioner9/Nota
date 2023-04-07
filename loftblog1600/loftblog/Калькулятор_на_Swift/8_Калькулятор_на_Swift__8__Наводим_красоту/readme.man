@@ -1,0 +1,3 @@
+# [loftblog](https://www.youtube.com/@loftblog/playlists)
+## [Калькулятор на Swift](https://www.youtube.com/playlist?list=PLY4rE9dstrJyg-62QD18tKP4vOxmUtl_y)
+### [Калькулятор на Swift - #8 - Наводим красоту](https://www.youtube.com/watch?v=H1oPtRicEK8&amp;list=PLY4rE9dstrJyg-62QD18tKP4vOxmUtl_y&amp;index=8&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [Ateros](https://www.youtube.com/@_ateros/playlists)
+## [Визуализация данных на JavaScript](https://www.youtube.com/playlist?list=PLfSrF_YWov8ZmIYAPXSkpi-kFXupw7gXa)
+### [[#2] Стили и real-time chart | Визуализация данных на JavaScript](https://www.youtube.com/watch?v=KX4wDnjZYAU&amp;list=PLfSrF_YWov8ZmIYAPXSkpi-kFXupw7gXa&amp;index=2&amp;pp=iAQB)

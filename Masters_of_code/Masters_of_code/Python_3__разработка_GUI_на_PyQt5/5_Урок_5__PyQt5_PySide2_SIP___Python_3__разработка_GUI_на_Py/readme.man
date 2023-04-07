@@ -1,0 +1,3 @@
+# [Masters of ${code}](https://www.youtube.com/@MastersOfCode/playlists?view=1)
+## [Python 3 - разработка GUI на PyQt5](https://www.youtube.com/playlist?list=PLCp7YGqt4kFpuWeXTvtWpt3RYXhRJn4FK)
+### [Урок №5 | PyQt5, PySide2, SIP  | Python 3 - разработка GUI на PyQt5 | Python 3 Уроки Для Начинающих](https://www.youtube.com/watch?v=yJkXw39F_Wc&amp;list=PLCp7YGqt4kFpuWeXTvtWpt3RYXhRJn4FK&amp;index=5&amp;pp=iAQB)

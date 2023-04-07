@@ -1,0 +1,3 @@
+# [loftblog](https://www.youtube.com/@loftblog/playlists)
+## [DevNews](https://www.youtube.com/playlist?list=PLY4rE9dstrJx9DeBBAowshzNnnQ49sRaV)
+### [Webpack 4, экосистема Slack + Github, Samsung Galaxy S9, вечные часы, создатель JSON в Киеве](https://www.youtube.com/watch?v=JOl6ZXG708Q&amp;list=PLY4rE9dstrJx9DeBBAowshzNnnQ49sRaV&amp;index=3&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [beONmax](https://www.youtube.com/@beONmax/playlists)
+## [Курс LINUX/GIT для начинающих - уроки настройки сервера для сайта](https://www.youtube.com/playlist?list=PLIMbZPmmhFatZm-6cjMxREChLwUluxPue)
+### [LINUX/GIT для начинающих. Урок #1. Настройка доступ к терминалу Linux через SSH](https://www.youtube.com/watch?v=N7mMN5Zv7DE&amp;list=PLIMbZPmmhFatZm-6cjMxREChLwUluxPue&amp;index=1&amp;pp=iAQB)

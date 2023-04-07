@@ -1,0 +1,3 @@
+# [Neco Ru](https://www.youtube.com/@NecoRuChannel/playlists)
+## [Сенсоры в Андроид](https://www.youtube.com/playlist?list=PLmjT2NFTgg1cIxHwSy4YVM5Sl_UAKzTnZ)
+### [Акселерометр в Android | Android Studio &amp; Kotlin](https://www.youtube.com/watch?v=H92xX4uiu4M&amp;list=PLmjT2NFTgg1cIxHwSy4YVM5Sl_UAKzTnZ&amp;index=1&amp;pp=iAQB)

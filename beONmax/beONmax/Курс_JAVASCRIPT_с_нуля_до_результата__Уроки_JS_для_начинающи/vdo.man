@@ -1,0 +1,5 @@
+### [JAVASCRIPT - с нуля до результата | Урок #1. Как проходит обучение по курсу](https://www.youtube.com/watch?v=v_Z8rEBfVYM&amp;list=PLIMbZPmmhFatAD4QUaGPqkIMvCgQgQTYB&amp;index=1&amp;pp=iAQB)
+### [JAVASCRIPT - с нуля до результата | Урок #2. Подготовка к работе. Настройка рабочего пространства](https://www.youtube.com/watch?v=9OKX5Y5QB1A&amp;list=PLIMbZPmmhFatAD4QUaGPqkIMvCgQgQTYB&amp;index=2&amp;pp=iAQB)
+### [JAVASCRIPT - с нуля до результата | Урок #3. Как использовать и работать с JSHint](https://www.youtube.com/watch?v=enV3wy25kIk&amp;list=PLIMbZPmmhFatAD4QUaGPqkIMvCgQgQTYB&amp;index=3&amp;pp=iAQB)
+### [JAVASCRIPT - с нуля до результата | Урок #4. Подключение JS к странице. Переменные в JavaScript](https://www.youtube.com/watch?v=WQZhCY54DRI&amp;list=PLIMbZPmmhFatAD4QUaGPqkIMvCgQgQTYB&amp;index=4&amp;pp=iAQB)
+### [JAVASCRIPT - с нуля до результата | Урок #5. Классификация типов данных в JavaScript](https://www.youtube.com/watch?v=vIm-vTerBL4&amp;list=PLIMbZPmmhFatAD4QUaGPqkIMvCgQgQTYB&amp;index=5&amp;pp=iAQB)

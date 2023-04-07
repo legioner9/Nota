@@ -1,0 +1,2 @@
+### [Акселерометр в Android | Android Studio &amp; Kotlin](https://www.youtube.com/watch?v=H92xX4uiu4M&amp;list=PLmjT2NFTgg1cIxHwSy4YVM5Sl_UAKzTnZ&amp;index=1&amp;pp=iAQB)
+### [Приложение &quot;Уровень&quot; на Android (KOTLIN)](https://www.youtube.com/watch?v=BM6J6AhEl0Q&amp;list=PLmjT2NFTgg1cIxHwSy4YVM5Sl_UAKzTnZ&amp;index=2&amp;pp=iAQB)

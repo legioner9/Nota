@@ -1,0 +1,6 @@
+### [Gulp.js #1 - работаем с CSS: concat, minify, rename, notify, watch, dest](https://www.youtube.com/watch?v=9zwwmjGz1Vs&amp;list=PLY4rE9dstrJwXCz1utct9b6Vub9VWQoKo&amp;index=1&amp;pp=iAQB)
+### [Gulp.js #2 - autoprefixer, livereload, gulp-connect](https://www.youtube.com/watch?v=bK3kzGhbJR0&amp;list=PLY4rE9dstrJwXCz1utct9b6Vub9VWQoKo&amp;index=2&amp;pp=iAQB)
+### [Gulp.js #3 - gulp-sass, gulp-uncss](https://www.youtube.com/watch?v=M4xHajOZ2iA&amp;list=PLY4rE9dstrJwXCz1utct9b6Vub9VWQoKo&amp;index=3&amp;pp=iAQB)
+### [Gulp.js #4 - Боремся с кэшированием или ревизии подключаемых файлов.](https://www.youtube.com/watch?v=ixe_Jms2XYc&amp;list=PLY4rE9dstrJwXCz1utct9b6Vub9VWQoKo&amp;index=4&amp;pp=iAQB)
+### [Gulp.js #05 - структура проекта, wiredep, bower](https://www.youtube.com/watch?v=PNlTFa-XzIM&amp;list=PLY4rE9dstrJwXCz1utct9b6Vub9VWQoKo&amp;index=5&amp;pp=iAQB)
+### [Gulp.js #06 - сборка и деплой проекта, gulp-useref, gulp-sftp](https://www.youtube.com/watch?v=271lk8jIl5o&amp;list=PLY4rE9dstrJwXCz1utct9b6Vub9VWQoKo&amp;index=6&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [loftblog](https://www.youtube.com/@loftblog/playlists)
+## [jQuery plugins](https://www.youtube.com/playlist?list=PLY4rE9dstrJz77dyBHYiv8ZpVWbxPG-gS)
+### [jQuery plugins - лучшие практики - 10 - обработка ошибок Ajax](https://www.youtube.com/watch?v=9vYvFG6Oay0&amp;list=PLY4rE9dstrJz77dyBHYiv8ZpVWbxPG-gS&amp;index=10&amp;pp=iAQB)

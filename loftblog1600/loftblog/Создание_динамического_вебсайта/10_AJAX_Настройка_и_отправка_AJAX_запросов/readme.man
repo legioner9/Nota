@@ -1,0 +1,3 @@
+# [loftblog](https://www.youtube.com/@loftblog/playlists)
+## [Создание динамического веб-сайта](https://www.youtube.com/playlist?list=PLY4rE9dstrJwCPkdWsDDKkYl4W3G9_Noh)
+### [AJAX. Настройка и отправка AJAX запросов](https://www.youtube.com/watch?v=lEfp6_ByY-Q&amp;list=PLY4rE9dstrJwCPkdWsDDKkYl4W3G9_Noh&amp;index=10&amp;pp=iAQB)

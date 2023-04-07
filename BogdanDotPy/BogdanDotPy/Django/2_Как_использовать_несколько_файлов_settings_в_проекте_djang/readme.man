@@ -1,0 +1,3 @@
+# [BogdanDotPy](https://www.youtube.com/@BogdanDotPy/playlists)
+## [Django](https://www.youtube.com/playlist?list=PLpTYtB-EF1dsfuZGBTcWDHplGTBkxB_VI)
+### [Как использовать несколько файлов settings в проекте django](https://www.youtube.com/watch?v=DoYjhh971qk&amp;list=PLpTYtB-EF1dsfuZGBTcWDHplGTBkxB_VI&amp;index=2&amp;pp=iAQB)

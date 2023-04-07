@@ -1,0 +1,1 @@
+### [Сайт-визитка на nextjs и tailwind за 17 минут с деплоем на vercel](https://www.youtube.com/watch?v=Xk9-rWLcgj4&amp;list=PLY4rE9dstrJyDYhUrYjRiAmYd6uwUpX6m&amp;index=1&amp;pp=iAQB)

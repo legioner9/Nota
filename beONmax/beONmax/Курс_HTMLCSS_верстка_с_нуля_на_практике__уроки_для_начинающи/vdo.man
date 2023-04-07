@@ -1,0 +1,7 @@
+### [HTML/CSS верстка с нуля на практике. Урок #0. Вводная часть. Знакомство. О курсе](https://www.youtube.com/watch?v=L-H4c6BM0FQ&amp;list=PLIMbZPmmhFat01CGwIf9lV6AjXWR8jsi9&amp;index=1&amp;pp=iAQB)
+### [HTML/CSS верстка с нуля на практике. Урок #1. Установка Sublime Text, Package Control, Emmet](https://www.youtube.com/watch?v=TuFdfRy6m1E&amp;list=PLIMbZPmmhFat01CGwIf9lV6AjXWR8jsi9&amp;index=2&amp;pp=iAQB)
+### [HTML/CSS верстка с нуля на практике. Урок #2. Базовая разметка HTML - теги head, title, meta, body](https://www.youtube.com/watch?v=FOSzfDVvrxk&amp;list=PLIMbZPmmhFat01CGwIf9lV6AjXWR8jsi9&amp;index=3&amp;pp=iAQB)
+### [HTML/CSS верстка с нуля на практике. Урок #3. Изучим HTML теги - h1, p, strong](https://www.youtube.com/watch?v=v7tvedJ0ioA&amp;list=PLIMbZPmmhFat01CGwIf9lV6AjXWR8jsi9&amp;index=4&amp;pp=iAQB)
+### [HTML/CSS верстка с нуля на практике. Урок #4. Изучим HTML теги - div, span. Базовый синтаксис CSS](https://www.youtube.com/watch?v=e0z6JCapDek&amp;list=PLIMbZPmmhFat01CGwIf9lV6AjXWR8jsi9&amp;index=5&amp;pp=iAQB)
+### [HTML/CSS верстка с нуля на практике. Урок #5. Этапы создания веб сайта +Изучим HTML теги - ul, li](https://www.youtube.com/watch?v=Rx3qGTsNTe4&amp;list=PLIMbZPmmhFat01CGwIf9lV6AjXWR8jsi9&amp;index=6&amp;pp=iAQB)
+### [HTML/CSS верстка с нуля на практике. Урок #6. Подключение CSS стилей к HTML в отдельном файле](https://www.youtube.com/watch?v=dHCJRDiKCq8&amp;list=PLIMbZPmmhFat01CGwIf9lV6AjXWR8jsi9&amp;index=7&amp;pp=iAQB)

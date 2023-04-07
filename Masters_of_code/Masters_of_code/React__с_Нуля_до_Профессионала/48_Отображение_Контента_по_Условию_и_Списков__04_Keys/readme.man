@@ -1,0 +1,3 @@
+# [Masters of ${code}](https://www.youtube.com/@MastersOfCode/playlists?view=1)
+## [React - с Нуля до Профессионала](https://www.youtube.com/playlist?list=PLCp7YGqt4kFpn5Pw5jukSbbXoAblSNKiT)
+### [Отображение Контента по Условию и Списков | 04 Keys](https://www.youtube.com/watch?v=RT-zl7QRUvU&amp;list=PLCp7YGqt4kFpn5Pw5jukSbbXoAblSNKiT&amp;index=48&amp;pp=iAQB)

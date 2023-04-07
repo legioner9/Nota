@@ -1,0 +1,3 @@
+# [IT каждый день](https://www.youtube.com/@it_everyday/playlistss)
+## [Парсинг сайтов на Python](https://www.youtube.com/playlist?list=PLkeGs_OdUTP9R-CQwA8C5BzkB-G0TCO1Q)
+### [Парсинг магазина на Python (с нуля)](https://www.youtube.com/watch?v=UQlUAmCnbzQ&amp;list=PLkeGs_OdUTP9R-CQwA8C5BzkB-G0TCO1Q&amp;index=4&amp;pp=iAQB)

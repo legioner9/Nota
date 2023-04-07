@@ -1,0 +1,3 @@
+# [loftblog](https://www.youtube.com/@loftblog/playlists)
+## [Основы C++](https://www.youtube.com/playlist?list=PLY4rE9dstrJzGC_1IlAwuY806WasvTIAJ)
+### [Основы ООП C++. Урок 3. Классы и объекты](https://www.youtube.com/watch?v=EpjVri1AZZc&amp;list=PLY4rE9dstrJzGC_1IlAwuY806WasvTIAJ&amp;index=6&amp;pp=iAQB)

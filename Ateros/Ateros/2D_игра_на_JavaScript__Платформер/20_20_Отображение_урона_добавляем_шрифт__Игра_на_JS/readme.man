@@ -1,0 +1,3 @@
+# [Ateros](https://www.youtube.com/@_ateros/playlists)
+## [2D игра на JavaScript | Платформер](https://www.youtube.com/playlist?list=PLfSrF_YWov8b37p6HEp-GHzGaWoQlnREL)
+### [[#20] Отображение урона, добавляем шрифт | Игра на JS](https://www.youtube.com/watch?v=FzCC_bzuby4&amp;list=PLfSrF_YWov8b37p6HEp-GHzGaWoQlnREL&amp;index=20&amp;pp=iAQB)

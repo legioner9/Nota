@@ -1,0 +1,3 @@
+# [loftblog](https://www.youtube.com/@loftblog/playlists)
+## [Гостевая книга на Laravel 5.1](https://www.youtube.com/playlist?list=PLY4rE9dstrJy1xVuLZ5BEVLEGjGA_fN8N)
+### [Гостевая книга на Laravel 5.1 - #4 - Migrations](https://www.youtube.com/watch?v=frDDVnmeMcs&amp;list=PLY4rE9dstrJy1xVuLZ5BEVLEGjGA_fN8N&amp;index=4&amp;pp=iAQB)

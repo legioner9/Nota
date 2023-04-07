@@ -1,0 +1,3 @@
+# [Ateros](https://www.youtube.com/@_ateros/playlists)
+## [3D игра на JavaScript | Казуальная](https://www.youtube.com/playlist?list=PLfSrF_YWov8aS8aF3jEGkiVvZvjPUr-bA)
+### [[#6] Как вывести glTF-модель в Babylon.js | 3д игра на JavaScript](https://www.youtube.com/watch?v=ACWxdmJFEXU&amp;list=PLfSrF_YWov8aS8aF3jEGkiVvZvjPUr-bA&amp;index=6&amp;pp=iAQB)

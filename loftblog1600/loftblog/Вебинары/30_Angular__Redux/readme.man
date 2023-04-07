@@ -1,0 +1,3 @@
+# [loftblog](https://www.youtube.com/@loftblog/playlists)
+## [Вебинары](https://www.youtube.com/playlist?list=PLY4rE9dstrJwoSoksf2bGCZciaNH-cLEj)
+### [Angular + Redux](https://www.youtube.com/watch?v=p2T5NqbepIo&amp;list=PLY4rE9dstrJwoSoksf2bGCZciaNH-cLEj&amp;index=30&amp;pp=iAQB)

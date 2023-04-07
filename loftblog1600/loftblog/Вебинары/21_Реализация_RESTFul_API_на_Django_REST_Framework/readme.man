@@ -1,0 +1,3 @@
+# [loftblog](https://www.youtube.com/@loftblog/playlists)
+## [Вебинары](https://www.youtube.com/playlist?list=PLY4rE9dstrJwoSoksf2bGCZciaNH-cLEj)
+### [Реализация RESTFul API на Django REST Framework](https://www.youtube.com/watch?v=C6S3dMt1s_M&amp;list=PLY4rE9dstrJwoSoksf2bGCZciaNH-cLEj&amp;index=21&amp;pp=iAQB)

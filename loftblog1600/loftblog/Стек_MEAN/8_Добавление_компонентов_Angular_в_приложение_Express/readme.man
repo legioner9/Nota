@@ -1,0 +1,3 @@
+# [loftblog](https://www.youtube.com/@loftblog/playlists)
+## [Стек MEAN](https://www.youtube.com/playlist?list=PLY4rE9dstrJzF0C_Px5ILePNo8eULCbG4)
+### [Добавление компонентов Angular в приложение Express](https://www.youtube.com/watch?v=0BLWLsMMZQE&amp;list=PLY4rE9dstrJzF0C_Px5ILePNo8eULCbG4&amp;index=8&amp;pp=iAQB)

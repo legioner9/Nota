@@ -1,0 +1,3 @@
+# [Coding Medved](https://www.youtube.com/@codingmedved9026/playlists)
+## [Джанго с нуля на примере создания простого интернет-магазина](https://www.youtube.com/playlist?list=PLSWnD6rL-m9adebgpvvOLH5ASGJiznWdg)
+### [1.9.1 Делаем сайт на Django и Python: создаем фронтенд страницы чекаута](https://www.youtube.com/watch?v=BLL6syIUdM8&amp;list=PLSWnD6rL-m9adebgpvvOLH5ASGJiznWdg&amp;index=15&amp;pp=iAQB)

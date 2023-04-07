@@ -1,0 +1,5 @@
+### [DATALEARN | DE - 101 | МОДУЛЬ 7-1 ВВЕДЕНИЕ](https://www.youtube.com/watch?v=3qhcMVsVc5A&amp;list=PLkcP_moW_BpMuwnpqNlE_wuLy-FI8vaJd&amp;index=1&amp;pp=iAQB)
+### [DATALEARN | DE - 101 | МОДУЛЬ 7-2 ЧТО ТАКОЕ APACHE SPARK](https://www.youtube.com/watch?v=Tl9YzC-dQLI&amp;list=PLkcP_moW_BpMuwnpqNlE_wuLy-FI8vaJd&amp;index=2&amp;pp=iAQB)
+### [DATALEARN | DE - 101 | МОДУЛЬ 7-2-1 САМЫЙ МИНИМУМ PYTHON ДЛЯ SPARK (JUST ENOUGH PYTHON FOR SPARK)](https://www.youtube.com/watch?v=ylaby_czbSI&amp;list=PLkcP_moW_BpMuwnpqNlE_wuLy-FI8vaJd&amp;index=3&amp;pp=iAQB)
+### [DATALEARN | DE - 101 | МОДУЛЬ 7-3 НАЧАЛО РАБОТЫ В APACHE SPARK](https://www.youtube.com/watch?v=FiaZnMMOV-A&amp;list=PLkcP_moW_BpMuwnpqNlE_wuLy-FI8vaJd&amp;index=4&amp;pp=iAQB)
+### [DATALEARN | DE - 101 | МОДУЛЬ 7-4 ЗНАКОМСТВО С SPARK API](https://www.youtube.com/watch?v=gg1uip_i2KY&amp;list=PLkcP_moW_BpMuwnpqNlE_wuLy-FI8vaJd&amp;index=5&amp;pp=iAQB)

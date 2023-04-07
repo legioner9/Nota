@@ -1,0 +1,3 @@
+# [loftblog](https://www.youtube.com/@loftblog/playlists)
+## [Введение в Java](https://www.youtube.com/playlist?list=PLY4rE9dstrJzKUZHdGgECOjJLaZBcUdCC)
+### [Введение в Java. Урок №5. ООП теория. Часть 1](https://www.youtube.com/watch?v=wWejskaCJxg&amp;list=PLY4rE9dstrJzKUZHdGgECOjJLaZBcUdCC&amp;index=5&amp;pp=iAQB)

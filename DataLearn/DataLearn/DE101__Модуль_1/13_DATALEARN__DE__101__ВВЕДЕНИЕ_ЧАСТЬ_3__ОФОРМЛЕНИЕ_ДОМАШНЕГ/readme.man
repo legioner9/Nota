@@ -1,0 +1,3 @@
+# [DataLearn](https://www.youtube.com/@datalearn4398/playlists)
+## [DE-101 | Модуль 1](https://www.youtube.com/playlist?list=PLkcP_moW_BpP2w9ZPqW3MGaIfrX2o5MPa)
+### [DATALEARN | DE - 101 | ВВЕДЕНИЕ ЧАСТЬ 3 | ОФОРМЛЕНИЕ ДОМАШНЕГО ЗАДАНИЯ - GIT, MARKDOWN, CLI](https://www.youtube.com/watch?v=USDNzpTMNSs&amp;list=PLkcP_moW_BpP2w9ZPqW3MGaIfrX2o5MPa&amp;index=13&amp;pp=iAQB)

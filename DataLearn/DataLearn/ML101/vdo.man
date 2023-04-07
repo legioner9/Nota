@@ -1,0 +1,4 @@
+### [Что будет на курсе Getting started with Machine Learning и Data Science / ML-101 INTRO](https://www.youtube.com/watch?v=g2azOLGzeNo&amp;list=PLkcP_moW_BpMmxjWJvX3P5mB7tPBYREhP&amp;index=1&amp;pp=iAQB)
+### [ML-101 | Module 01 | Lesson 02 | Datasets, Libraries, Data Load, Train-Validation-Test datasets.](https://www.youtube.com/watch?v=KYeSwj6V150&amp;list=PLkcP_moW_BpMmxjWJvX3P5mB7tPBYREhP&amp;index=2&amp;pp=iAQB)
+### [ML-101 | Module 01 | Lesson 03 | EDA, Data Wrangling and Transformation | Anastasia Rizzo](https://www.youtube.com/watch?v=S-ZBb4yvxAQ&amp;list=PLkcP_moW_BpMmxjWJvX3P5mB7tPBYREhP&amp;index=3&amp;pp=iAQB)
+### [ML-101 | Module 01 | Lesson 04| Machine Learning | Anastasia Rizzo](https://www.youtube.com/watch?v=Ypiv_2luYTU&amp;list=PLkcP_moW_BpMmxjWJvX3P5mB7tPBYREhP&amp;index=4&amp;pp=iAQB)

@@ -1,0 +1,4 @@
+### [Arduino &amp; ESP32 микроконтроллеры/Установка и настройка](https://www.youtube.com/watch?v=lP_YH8TDFRA&amp;list=PLmjT2NFTgg1cARbYDC1ppMm0FNO9CBTMc&amp;index=1&amp;pp=iAQB)
+### [Super Android Multimeter With ESP32 and ARDUINO](https://www.youtube.com/watch?v=Am0xAmBzX68&amp;list=PLmjT2NFTgg1cARbYDC1ppMm0FNO9CBTMc&amp;index=2&amp;pp=iAQB)
+### [Bluetooth на Андроид || Создаем БЛЮТУЗ МОНИТОР || Часть 1](https://www.youtube.com/watch?v=Zjx5F6o6JGI&amp;list=PLmjT2NFTgg1cARbYDC1ppMm0FNO9CBTMc&amp;index=3&amp;pp=iAQB)
+### [Bluetooth на Андроид || Создаем БЛЮТУЗ МОНИТОР || Часть 5](https://www.youtube.com/watch?v=old_HtVrWpY&amp;list=PLmjT2NFTgg1cARbYDC1ppMm0FNO9CBTMc&amp;index=4&amp;pp=iAQB)

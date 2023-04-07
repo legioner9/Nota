@@ -1,0 +1,3 @@
+# [loftblog](https://www.youtube.com/@loftblog/playlists)
+## [Основы Yii2](https://www.youtube.com/playlist?list=PLY4rE9dstrJyV_BIRP7bAwbocR_j3C90A)
+### [Аутентификация пользователей, разграничения прав на основе ролей](https://www.youtube.com/watch?v=Lw4OePHs-d8&amp;list=PLY4rE9dstrJyV_BIRP7bAwbocR_j3C90A&amp;index=8&amp;pp=iAQB)

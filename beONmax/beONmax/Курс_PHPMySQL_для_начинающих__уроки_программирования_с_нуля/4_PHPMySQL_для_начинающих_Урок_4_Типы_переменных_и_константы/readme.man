@@ -1,0 +1,3 @@
+# [beONmax](https://www.youtube.com/@beONmax/playlists)
+## [Курс PHP/MySQL для начинающих - уроки программирования с нуля](https://www.youtube.com/playlist?list=PLIMbZPmmhFasVpPBdfeJ0fNDT8ptgXIlT)
+### [PHP/MySQL для начинающих. Урок #4. Типы переменных и константы в PHP](https://www.youtube.com/watch?v=3nzvx9d5CiU&amp;list=PLIMbZPmmhFasVpPBdfeJ0fNDT8ptgXIlT&amp;index=4&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [loftblog](https://www.youtube.com/@loftblog/playlists)
+## [Gulp.js](https://www.youtube.com/playlist?list=PLY4rE9dstrJwXCz1utct9b6Vub9VWQoKo)
+### [Gulp.js #06 - сборка и деплой проекта, gulp-useref, gulp-sftp](https://www.youtube.com/watch?v=271lk8jIl5o&amp;list=PLY4rE9dstrJwXCz1utct9b6Vub9VWQoKo&amp;index=6&amp;pp=iAQB)

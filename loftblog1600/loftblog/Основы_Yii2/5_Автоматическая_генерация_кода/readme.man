@@ -1,0 +1,3 @@
+# [loftblog](https://www.youtube.com/@loftblog/playlists)
+## [Основы Yii2](https://www.youtube.com/playlist?list=PLY4rE9dstrJyV_BIRP7bAwbocR_j3C90A)
+### [Автоматическая генерация кода](https://www.youtube.com/watch?v=K4DnqmuFV1Q&amp;list=PLY4rE9dstrJyV_BIRP7bAwbocR_j3C90A&amp;index=5&amp;pp=iAQB)

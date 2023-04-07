@@ -1,0 +1,3 @@
+# [Masters of ${code}](https://www.youtube.com/@MastersOfCode/playlists?view=1)
+## [React - с Нуля до Профессионала](https://www.youtube.com/playlist?list=PLCp7YGqt4kFpn5Pw5jukSbbXoAblSNKiT)
+### [Основы React | 09 Создание Компонента | Современный React с Нуля](https://www.youtube.com/watch?v=uqVqi9hM504&amp;list=PLCp7YGqt4kFpn5Pw5jukSbbXoAblSNKiT&amp;index=15&amp;pp=iAQB)

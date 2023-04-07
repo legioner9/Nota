@@ -1,0 +1,5 @@
+### [Специальный выпуск: лекции по тулчейну, часть 1, фронтенд](https://www.youtube.com/watch?v=335ylTUlyng&amp;list=PL3BR09unfgchnggx7IJuSU57mxjMhrSaq&amp;index=1&amp;pp=iAQB)
+### [Специальный выпуск: лекции по тулчейну, часть 2, миддленд и ассемблер](https://www.youtube.com/watch?v=04Gt0HOatUw&amp;list=PL3BR09unfgchnggx7IJuSU57mxjMhrSaq&amp;index=2&amp;pp=iAQB)
+### [Специальный выпуск: лекции по тулчейну, часть 3, линкеры](https://www.youtube.com/watch?v=lUvcvmG6kIw&amp;list=PL3BR09unfgchnggx7IJuSU57mxjMhrSaq&amp;index=3&amp;pp=iAQB)
+### [Специальный выпуск: лекции по тулчейну, часть 4, линкеры и отладка](https://www.youtube.com/watch?v=q2zztv9Z9i4&amp;list=PL3BR09unfgchnggx7IJuSU57mxjMhrSaq&amp;index=4&amp;pp=iAQB)
+### [Специальный выпуск: лекции по тулчейну, часть 5, анализ кода и профилировка](https://www.youtube.com/watch?v=azYgxwXxFJ8&amp;list=PL3BR09unfgchnggx7IJuSU57mxjMhrSaq&amp;index=5&amp;pp=iAQB)

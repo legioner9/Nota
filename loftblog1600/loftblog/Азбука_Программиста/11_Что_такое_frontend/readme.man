@@ -1,0 +1,3 @@
+# [loftblog](https://www.youtube.com/@loftblog/playlists)
+## [Азбука Программиста](https://www.youtube.com/playlist?list=PLY4rE9dstrJwxc8adWOAggNVQ0-TwbP1E)
+### [Что такое frontend?](https://www.youtube.com/watch?v=GQJrzIJEsJ0&amp;list=PLY4rE9dstrJwxc8adWOAggNVQ0-TwbP1E&amp;index=11&amp;pp=iAQB)

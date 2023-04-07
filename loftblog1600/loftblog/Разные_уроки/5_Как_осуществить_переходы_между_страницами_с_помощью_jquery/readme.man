@@ -1,0 +1,3 @@
+# [loftblog](https://www.youtube.com/@loftblog/playlists)
+## [Разные уроки](https://www.youtube.com/playlist?list=PLY4rE9dstrJyhOFRWZwcyl9OJ6qou-3Bx)
+### [Как осуществить переходы между страницами с помощью jquery?](https://www.youtube.com/watch?v=HQwlS8cUbx4&amp;list=PLY4rE9dstrJyhOFRWZwcyl9OJ6qou-3Bx&amp;index=5&amp;pp=iAQB)

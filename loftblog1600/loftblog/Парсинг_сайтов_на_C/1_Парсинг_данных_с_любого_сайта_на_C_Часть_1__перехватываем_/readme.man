@@ -1,0 +1,3 @@
+# [loftblog](https://www.youtube.com/@loftblog/playlists)
+## [Парсинг сайтов на C#](https://www.youtube.com/playlist?list=PLY4rE9dstrJxd1h-FVMeIafVB2Zyo3lWE)
+### [Парсинг данных с любого сайта на C#. Часть 1 - перехватываем данные, изменяем данные онлайн теста.](https://www.youtube.com/watch?v=Aop-0HxHq04&amp;list=PLY4rE9dstrJxd1h-FVMeIafVB2Zyo3lWE&amp;index=1&amp;pp=iAQB)

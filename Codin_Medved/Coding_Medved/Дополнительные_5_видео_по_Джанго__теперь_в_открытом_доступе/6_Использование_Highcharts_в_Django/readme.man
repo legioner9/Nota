@@ -1,0 +1,3 @@
+# [Coding Medved](https://www.youtube.com/@codingmedved9026/playlists)
+## [Дополнительные 5 видео по Джанго  теперь в открытом доступе.](https://www.youtube.com/playlist?list=PLSWnD6rL-m9Y0qg870RD4C1pkQJSI-ZdZ)
+### [Использование Highcharts в Django](https://www.youtube.com/watch?v=hbp2M7Enf_U&amp;list=PLSWnD6rL-m9Y0qg870RD4C1pkQJSI-ZdZ&amp;index=6&amp;pp=iAQB)

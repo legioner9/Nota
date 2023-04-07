@@ -1,0 +1,3 @@
+# [beONmax](https://www.youtube.com/@beONmax/playlists)
+## [Курс SQL и POSTGRESQL для начинающих](https://www.youtube.com/playlist?list=PLIMbZPmmhFaslFA5vMgbzJ7MjT70gLlwI)
+### [SQL и POSTGRESQL | Урок #3. Реляционная модель и SQL](https://www.youtube.com/watch?v=11euA-k1cuU&amp;list=PLIMbZPmmhFaslFA5vMgbzJ7MjT70gLlwI&amp;index=3&amp;pp=iAQB)

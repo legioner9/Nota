@@ -1,0 +1,5 @@
+### [A Tour of Go #1: Вкатываемся в Golang, начинаем туториал](https://www.youtube.com/watch?v=5akBipDKDaY&amp;list=PLqJ-vFLoJOaFxvnAgs1ap-QmeEhOGLwGT&amp;index=1&amp;pp=iAQB)
+### [A Tour of Go #2: Продолжаем вкатываться в Golang, туториал по гоферски](https://www.youtube.com/watch?v=UpRwDOOAtB0&amp;list=PLqJ-vFLoJOaFxvnAgs1ap-QmeEhOGLwGT&amp;index=2&amp;pp=iAQB)
+### [A Tour of Go #3: Методируем Golang, продолжение туториала](https://www.youtube.com/watch?v=2WcIfdsM2BI&amp;list=PLqJ-vFLoJOaFxvnAgs1ap-QmeEhOGLwGT&amp;index=3&amp;pp=iAQB)
+### [A Tour of Go #4: Конкурируем](https://www.youtube.com/watch?v=jlyzRU4OzRE&amp;list=PLqJ-vFLoJOaFxvnAgs1ap-QmeEhOGLwGT&amp;index=4&amp;pp=iAQB)
+### [A Tour of Go #5: Финал](https://www.youtube.com/watch?v=pyA_4FKulog&amp;list=PLqJ-vFLoJOaFxvnAgs1ap-QmeEhOGLwGT&amp;index=5&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [loftblog](https://www.youtube.com/@loftblog/playlists)
+## [Создание сайта на 1С Битрикс](https://www.youtube.com/playlist?list=PLY4rE9dstrJyqAWUVlT7PLGjdmPEwhfg6)
+### [Создание сайта на 1С Битрикс - #19 - Как и зачем делать result_modifier.php](https://www.youtube.com/watch?v=llROfeVQmk0&amp;list=PLY4rE9dstrJyqAWUVlT7PLGjdmPEwhfg6&amp;index=19&amp;pp=iAQB)

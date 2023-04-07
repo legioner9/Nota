@@ -1,0 +1,3 @@
+# [loftblog](https://www.youtube.com/@loftblog/playlists)
+## [Jekyll](https://www.youtube.com/playlist?list=PLY4rE9dstrJwNaQSCbQxBFbcu8EQorlVC)
+### [Введение в Jekyll  - урок #1](https://www.youtube.com/watch?v=aE670zRzC10&amp;list=PLY4rE9dstrJwNaQSCbQxBFbcu8EQorlVC&amp;index=1&amp;pp=iAQB)

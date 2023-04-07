@@ -1,0 +1,7 @@
+### [Мультиметр/Осциллоскоп/Измеритель емкости конденсаторов.(Новая версия)](https://www.youtube.com/watch?v=9rNn2ZSQ0AA&amp;list=PLmjT2NFTgg1e64MX1Fv67_HoU0U2bDI2q&amp;index=1&amp;pp=iAQB)
+### [Частотомер/Осциллограф на смартфона](https://www.youtube.com/watch?v=MsRwX9qJ64Y&amp;list=PLmjT2NFTgg1e64MX1Fv67_HoU0U2bDI2q&amp;index=2&amp;pp=iAQB)
+### [Ардуино мультиметр](https://www.youtube.com/watch?v=HA3XwPnj8S0&amp;list=PLmjT2NFTgg1e64MX1Fv67_HoU0U2bDI2q&amp;index=3&amp;pp=iAQB)
+### [Измеритель индуктивности на ардуино.](https://www.youtube.com/watch?v=mJ_hsGDrSmM&amp;list=PLmjT2NFTgg1e64MX1Fv67_HoU0U2bDI2q&amp;index=4&amp;pp=iAQB)
+### [Bluetooth на Андроид || Создаем БЛЮТУЗ МОНИТОР || Часть 3](https://www.youtube.com/watch?v=Dq1WbBBC1fI&amp;list=PLmjT2NFTgg1e64MX1Fv67_HoU0U2bDI2q&amp;index=5&amp;pp=iAQB)
+### [Bluetooth на Андроид || Создаем БЛЮТУЗ МОНИТОР || Часть 5](https://www.youtube.com/watch?v=old_HtVrWpY&amp;list=PLmjT2NFTgg1e64MX1Fv67_HoU0U2bDI2q&amp;index=6&amp;pp=iAQB)
+### [Простой LC МЕТР на смартфоне! Беcпроводной LC метр](https://www.youtube.com/watch?v=szolesOGR4E&amp;list=PLmjT2NFTgg1e64MX1Fv67_HoU0U2bDI2q&amp;index=7&amp;pp=iAQB)

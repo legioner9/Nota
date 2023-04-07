@@ -1,0 +1,3 @@
+# [loftblog](https://www.youtube.com/@loftblog/playlists)
+## [Angular + Webpack](https://www.youtube.com/playlist?list=PLY4rE9dstrJzHO3zS-wi8roObKHl_EEY_)
+### [Angular + Webpack - #4 - Подключаем шаблон в directive](https://www.youtube.com/watch?v=hMrPy7X-anA&amp;list=PLY4rE9dstrJzHO3zS-wi8roObKHl_EEY_&amp;index=4&amp;pp=iAQB)

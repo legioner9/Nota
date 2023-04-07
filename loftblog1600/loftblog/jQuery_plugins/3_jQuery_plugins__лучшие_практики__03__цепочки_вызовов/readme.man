@@ -1,0 +1,3 @@
+# [loftblog](https://www.youtube.com/@loftblog/playlists)
+## [jQuery plugins](https://www.youtube.com/playlist?list=PLY4rE9dstrJz77dyBHYiv8ZpVWbxPG-gS)
+### [jQuery plugins - лучшие практики - 03 - цепочки вызовов](https://www.youtube.com/watch?v=TznnzFEj7A4&amp;list=PLY4rE9dstrJz77dyBHYiv8ZpVWbxPG-gS&amp;index=3&amp;pp=iAQB)

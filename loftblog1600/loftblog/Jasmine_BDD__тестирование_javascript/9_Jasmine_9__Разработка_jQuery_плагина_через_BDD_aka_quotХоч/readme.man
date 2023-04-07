@@ -1,0 +1,3 @@
+# [loftblog](https://www.youtube.com/@loftblog/playlists)
+## [Jasmine BDD - тестирование javascript](https://www.youtube.com/playlist?list=PLY4rE9dstrJwM36wcLi4we_JfhlhgYbcB)
+### [Jasmine 9 - Разработка jQuery плагина через BDD aka &quot;Хочу писать плагины как король !&quot;](https://www.youtube.com/watch?v=enGNWkJWZn4&amp;list=PLY4rE9dstrJwM36wcLi4we_JfhlhgYbcB&amp;index=9&amp;pp=iAQB)

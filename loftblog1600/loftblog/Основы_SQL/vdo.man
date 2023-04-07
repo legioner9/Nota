@@ -1,0 +1,5 @@
+### [Основы SQL - #1 – Введение](https://www.youtube.com/watch?v=P2Eaf9M4gOU&amp;list=PLY4rE9dstrJwFmPYd03vZU90-TvXEpVzD&amp;index=1&amp;pp=iAQB)
+### [Основы SQL - #2 – Нормализация](https://www.youtube.com/watch?v=u4Tfr3hgXu0&amp;list=PLY4rE9dstrJwFmPYd03vZU90-TvXEpVzD&amp;index=2&amp;pp=iAQB)
+### [Основы SQL - #3 – Редактирование таблиц, расширенные возможности SELECT, функции](https://www.youtube.com/watch?v=GSanCvaOKWA&amp;list=PLY4rE9dstrJwFmPYd03vZU90-TvXEpVzD&amp;index=3&amp;pp=iAQB)
+### [Основы SQL - #4 – Триггеры](https://www.youtube.com/watch?v=jv1k1mT_9lU&amp;list=PLY4rE9dstrJwFmPYd03vZU90-TvXEpVzD&amp;index=4&amp;pp=iAQB)
+### [Основы SQL - #5 – Транзакции](https://www.youtube.com/watch?v=d6c1S9O1rJ8&amp;list=PLY4rE9dstrJwFmPYd03vZU90-TvXEpVzD&amp;index=5&amp;pp=iAQB)

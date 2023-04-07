@@ -1,0 +1,3 @@
+# [Ateros](https://www.youtube.com/@_ateros/playlists)
+## [3D игра на JavaScript | Казуальная](https://www.youtube.com/playlist?list=PLfSrF_YWov8aS8aF3jEGkiVvZvjPUr-bA)
+### [[#11] Доработка визуала 3д игры на движке Babylon JS | 3д игра на JavaScript](https://www.youtube.com/watch?v=aTZwCiJWNv8&amp;list=PLfSrF_YWov8aS8aF3jEGkiVvZvjPUr-bA&amp;index=11&amp;pp=iAQB)

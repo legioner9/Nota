@@ -1,0 +1,3 @@
+# [loftblog](https://www.youtube.com/@loftblog/playlists)
+## [Workflow на MacOS](https://www.youtube.com/playlist?list=PLY4rE9dstrJwBtWN0tLqcG12haYmw_SgX)
+### [Workflow — Atom, Sass, Pug, LiveReload, Prepros, FTP, MAMP](https://www.youtube.com/watch?v=onattqqiKNo&amp;list=PLY4rE9dstrJwBtWN0tLqcG12haYmw_SgX&amp;index=2&amp;pp=iAQB)

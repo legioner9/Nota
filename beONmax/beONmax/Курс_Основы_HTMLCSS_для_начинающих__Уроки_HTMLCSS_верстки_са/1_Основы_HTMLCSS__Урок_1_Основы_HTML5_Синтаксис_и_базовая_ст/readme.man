@@ -1,0 +1,3 @@
+# [beONmax](https://www.youtube.com/@beONmax/playlists)
+## [Курс Основы HTML/CSS для начинающих - Уроки HTML/CSS верстки сайтов с нуля](https://www.youtube.com/playlist?list=PLIMbZPmmhFavK9PxiLz0htkL8Ceo9TijD)
+### [Основы HTML/CSS | Урок #1. Основы HTML5. Синтаксис и базовая структура HTML. Теги и атрибуты](https://www.youtube.com/watch?v=_jSs-3NC9TE&amp;list=PLIMbZPmmhFavK9PxiLz0htkL8Ceo9TijD&amp;index=1&amp;pp=iAQB)

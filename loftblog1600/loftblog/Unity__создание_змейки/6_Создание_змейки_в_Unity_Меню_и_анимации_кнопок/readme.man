@@ -1,0 +1,3 @@
+# [loftblog](https://www.youtube.com/@loftblog/playlists)
+## [Unity – создание змейки](https://www.youtube.com/playlist?list=PLY4rE9dstrJz0pbbcZLLdHCEIOZm5Mt9R)
+### [Создание змейки в Unity. Меню и анимации кнопок](https://www.youtube.com/watch?v=3qhfYqN3en4&amp;list=PLY4rE9dstrJz0pbbcZLLdHCEIOZm5Mt9R&amp;index=6&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [loftblog](https://www.youtube.com/@loftblog/playlists)
+## [jQuery Mobile](https://www.youtube.com/playlist?list=PLY4rE9dstrJwvqCsoNNlD59-dBbWfDltR)
+### [Урок №5 jQuery Mobile. Компоненты интерфейса пользователя. Часть 3. Формы.](https://www.youtube.com/watch?v=b4FaFM95HdE&amp;list=PLY4rE9dstrJwvqCsoNNlD59-dBbWfDltR&amp;index=5&amp;pp=iAQB)

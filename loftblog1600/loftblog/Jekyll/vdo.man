@@ -1,0 +1,2 @@
+### [Введение в Jekyll  - урок #1](https://www.youtube.com/watch?v=aE670zRzC10&amp;list=PLY4rE9dstrJwNaQSCbQxBFbcu8EQorlVC&amp;index=1&amp;pp=iAQB)
+### [Введение в Jekyll  - урок #2](https://www.youtube.com/watch?v=iZmpOYPECKk&amp;list=PLY4rE9dstrJwNaQSCbQxBFbcu8EQorlVC&amp;index=2&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [BogdanDotPy](https://www.youtube.com/@BogdanDotPy/playlists)
+## [Django](https://www.youtube.com/playlist?list=PLpTYtB-EF1dsfuZGBTcWDHplGTBkxB_VI)
+### [Django 4.0 - делаем регистрацию и аутентификацию пользователей без лишнего кода](https://www.youtube.com/watch?v=5hGIg2h63g0&amp;list=PLpTYtB-EF1dsfuZGBTcWDHplGTBkxB_VI&amp;index=6&amp;pp=iAQB)

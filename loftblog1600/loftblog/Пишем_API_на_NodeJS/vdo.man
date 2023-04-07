@@ -1,0 +1,6 @@
+### [Пишем API на NodeJS - #1 - Устанавливаем node правильно](https://www.youtube.com/watch?v=fHoKs66Z2qQ&amp;list=PLY4rE9dstrJzrDaSPKOrhNgQ19GhVl19u&amp;index=1&amp;pp=iAQB)
+### [Пишем API на NodeJS - #2 - Установка Express. Добавляем базовый роутинг.](https://www.youtube.com/watch?v=aOS7cFmYkko&amp;list=PLY4rE9dstrJzrDaSPKOrhNgQ19GhVl19u&amp;index=2&amp;pp=iAQB)
+### [Пишем API на NodeJS - #3 - Реализуем добавление и обновление данных](https://www.youtube.com/watch?v=18eqpKrdjdA&amp;list=PLY4rE9dstrJzrDaSPKOrhNgQ19GhVl19u&amp;index=3&amp;pp=iAQB)
+### [Пишем API на NodeJS - #4 - Подключение базы данных к express](https://www.youtube.com/watch?v=BmPUqg8A4PM&amp;list=PLY4rE9dstrJzrDaSPKOrhNgQ19GhVl19u&amp;index=4&amp;pp=iAQB)
+### [Пишем API на NodeJS - #5 - Реализуем добавление и обновление исполнителей в базе данных](https://www.youtube.com/watch?v=el24xavOeWs&amp;list=PLY4rE9dstrJzrDaSPKOrhNgQ19GhVl19u&amp;index=5&amp;pp=iAQB)
+### [Пишем API на NodeJS - #6 - Модели и контроллеры в node](https://www.youtube.com/watch?v=ELslnuxdonw&amp;list=PLY4rE9dstrJzrDaSPKOrhNgQ19GhVl19u&amp;index=6&amp;pp=iAQB)

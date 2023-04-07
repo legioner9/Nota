@@ -1,0 +1,4 @@
+### [Парсинг данных с любого сайта на C#. Часть 1 - перехватываем данные, изменяем данные онлайн теста.](https://www.youtube.com/watch?v=Aop-0HxHq04&amp;list=PLY4rE9dstrJxd1h-FVMeIafVB2Zyo3lWE&amp;index=1&amp;pp=iAQB)
+### [Парсинг данных с любого сайта на C#. Часть 2 - парсинг через API.](https://www.youtube.com/watch?v=sjWznafw4kc&amp;list=PLY4rE9dstrJxd1h-FVMeIafVB2Zyo3lWE&amp;index=2&amp;pp=iAQB)
+### [Парсинг данных с любого сайта на C#. Часть 3 - парсинг данных интернет-магазина.](https://www.youtube.com/watch?v=ehA6kwLbpwo&amp;list=PLY4rE9dstrJxd1h-FVMeIafVB2Zyo3lWE&amp;index=3&amp;pp=iAQB)
+### [Парсинг данных с любого сайта на C#. Часть 4 - Selenium](https://www.youtube.com/watch?v=WrWYPU5lm5U&amp;list=PLY4rE9dstrJxd1h-FVMeIafVB2Zyo3lWE&amp;index=4&amp;pp=iAQB)

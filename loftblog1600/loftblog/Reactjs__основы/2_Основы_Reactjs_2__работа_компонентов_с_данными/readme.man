@@ -1,0 +1,3 @@
+# [loftblog](https://www.youtube.com/@loftblog/playlists)
+## [React.js — основы](https://www.youtube.com/playlist?list=PLY4rE9dstrJz3CwptC28Ub9Y3pWIL14mI)
+### [Основы React.js #2 — работа компонентов с данными](https://www.youtube.com/watch?v=0ranQD0G-8Y&amp;list=PLY4rE9dstrJz3CwptC28Ub9Y3pWIL14mI&amp;index=2&amp;pp=iAQB)

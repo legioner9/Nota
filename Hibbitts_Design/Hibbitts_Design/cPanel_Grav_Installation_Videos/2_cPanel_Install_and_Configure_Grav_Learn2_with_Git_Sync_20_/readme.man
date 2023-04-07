@@ -1,0 +1,3 @@
+# [Hibbitts Design](https://www.youtube.com/@hibbittsdesign/playlists)
+## [cPanel Grav Installation Videos](https://www.youtube.com/playlist?list=PLk2Bz5X36nXBALky8QmGqpPokk88uInz2)
+### [cPanel: Install and Configure Grav Learn2 with Git Sync 2.0 (with Audio)](https://www.youtube.com/watch?v=mtVQiSCBH6Q&amp;list=PLk2Bz5X36nXBALky8QmGqpPokk88uInz2&amp;index=2&amp;pp=iAQB)

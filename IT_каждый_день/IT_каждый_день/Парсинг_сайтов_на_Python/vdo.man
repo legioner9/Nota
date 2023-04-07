@@ -1,0 +1,5 @@
+### [Парсинг сайта Avito с помощью Python (с нуля)](https://www.youtube.com/watch?v=8iE2CYxxNdY&amp;list=PLkeGs_OdUTP9R-CQwA8C5BzkB-G0TCO1Q&amp;index=1&amp;pp=iAQB)
+### [Django-админка для парсера Avito на Python](https://www.youtube.com/watch?v=dKdkuYXylx8&amp;list=PLkeGs_OdUTP9R-CQwA8C5BzkB-G0TCO1Q&amp;index=2&amp;pp=iAQB)
+### [Django - дорабатываем парсер Avito на Python](https://www.youtube.com/watch?v=rETpqbHpEKo&amp;list=PLkeGs_OdUTP9R-CQwA8C5BzkB-G0TCO1Q&amp;index=3&amp;pp=iAQB)
+### [Парсинг магазина на Python (с нуля)](https://www.youtube.com/watch?v=UQlUAmCnbzQ&amp;list=PLkeGs_OdUTP9R-CQwA8C5BzkB-G0TCO1Q&amp;index=4&amp;pp=iAQB)
+### [Python-стрим: работа, парсинг, etc](https://www.youtube.com/watch?v=nkZNouReb6g&amp;list=PLkeGs_OdUTP9R-CQwA8C5BzkB-G0TCO1Q&amp;index=5&amp;pp=iAQB)

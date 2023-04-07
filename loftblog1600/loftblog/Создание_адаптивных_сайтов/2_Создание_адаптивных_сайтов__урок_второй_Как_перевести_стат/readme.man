@@ -1,0 +1,3 @@
+# [loftblog](https://www.youtube.com/@loftblog/playlists)
+## [Создание адаптивных сайтов](https://www.youtube.com/playlist?list=PLY4rE9dstrJyJEghRkl7qfqdAdlyvaOVQ)
+### [Создание адаптивных сайтов - урок второй. Как перевести статичную разметку в гибкую.](https://www.youtube.com/watch?v=LDdZlRgGWQA&amp;list=PLY4rE9dstrJyJEghRkl7qfqdAdlyvaOVQ&amp;index=2&amp;pp=iAQB)

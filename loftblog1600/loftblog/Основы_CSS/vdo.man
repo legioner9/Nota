@@ -1,0 +1,7 @@
+### [Основы CSS - #1 -  Введение](https://www.youtube.com/watch?v=NkmZl1Yy94Q&amp;list=PLY4rE9dstrJzdkXYQXpZA0voVgB_0RJ_q&amp;index=1&amp;pp=iAQB)
+### [Основы CSS - #2 - Селекторы](https://www.youtube.com/watch?v=C8pO3Rbepgs&amp;list=PLY4rE9dstrJzdkXYQXpZA0voVgB_0RJ_q&amp;index=2&amp;pp=iAQB)
+### [Основы CSS - #3 - Box model, margin](https://www.youtube.com/watch?v=5ibNZAmyDV0&amp;list=PLY4rE9dstrJzdkXYQXpZA0voVgB_0RJ_q&amp;index=3&amp;pp=iAQB)
+### [Основы CSS - #4 - Структура сайта](https://www.youtube.com/watch?v=wQhN0SdSZuY&amp;list=PLY4rE9dstrJzdkXYQXpZA0voVgB_0RJ_q&amp;index=4&amp;pp=iAQB)
+### [Основы CSS - #5 - Подробно о каскадности](https://www.youtube.com/watch?v=7XaJDe5V2Mk&amp;list=PLY4rE9dstrJzdkXYQXpZA0voVgB_0RJ_q&amp;index=5&amp;pp=iAQB)
+### [Основы CSS - #6 - Использование шрифтов.](https://www.youtube.com/watch?v=qssxQvRZ0mE&amp;list=PLY4rE9dstrJzdkXYQXpZA0voVgB_0RJ_q&amp;index=6&amp;pp=iAQB)
+### [Основы CSS - #7 - Цветовые модели и единицы измерения](https://www.youtube.com/watch?v=oRtpd-nci94&amp;list=PLY4rE9dstrJzdkXYQXpZA0voVgB_0RJ_q&amp;index=7&amp;pp=iAQB)

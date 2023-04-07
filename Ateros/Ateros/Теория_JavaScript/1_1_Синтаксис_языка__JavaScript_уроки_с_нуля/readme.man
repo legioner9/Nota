@@ -1,0 +1,3 @@
+# [Ateros](https://www.youtube.com/@_ateros/playlists)
+## [Теория JavaScript](https://www.youtube.com/playlist?list=PLfSrF_YWov8bI-sxNpkIKD4wZwaegsddz)
+### [[#1] Синтаксис языка | JavaScript уроки с нуля](https://www.youtube.com/watch?v=SsZM_v3bSXY&amp;list=PLfSrF_YWov8bI-sxNpkIKD4wZwaegsddz&amp;index=1&amp;pp=iAQB)

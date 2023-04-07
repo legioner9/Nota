@@ -1,0 +1,3 @@
+# [mr.Marshanskiy](https://www.youtube.com/@mrMarshanskiy/playlists)
+## [DJANGO СТРИМЫ](https://www.youtube.com/playlist?list=PLNqpSxWyl1hfbsIXOMpV45UirjfXRfSyF)
+### [Миксины: Основа DRY + продолжаем делать функционал 🔴 #012 Django СТРИМ](https://www.youtube.com/watch?v=dbt8Y2Jr99k&amp;list=PLNqpSxWyl1hfbsIXOMpV45UirjfXRfSyF&amp;index=15&amp;pp=iAQB)

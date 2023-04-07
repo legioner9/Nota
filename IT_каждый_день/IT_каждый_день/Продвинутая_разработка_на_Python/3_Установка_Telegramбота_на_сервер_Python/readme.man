@@ -1,0 +1,3 @@
+# [IT каждый день](https://www.youtube.com/@it_everyday/playlistss)
+## [Продвинутая разработка на Python](https://www.youtube.com/playlist?list=PLkeGs_OdUTP_PLAjaFjC8WFvlwbpr7tn8)
+### [Установка Telegram-бота на сервер (Python)](https://www.youtube.com/watch?v=wO2Po55qMuI&amp;list=PLkeGs_OdUTP_PLAjaFjC8WFvlwbpr7tn8&amp;index=3&amp;pp=iAQB)

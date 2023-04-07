@@ -1,0 +1,8 @@
+### [Android Studio Уроки Для Начинающих/Урок 5N/Элементы экрана](https://www.youtube.com/watch?v=1HUpfvS3uJQ&amp;list=PLmjT2NFTgg1eyxItJXvckB9UYPrPkEDhd&amp;index=1&amp;pp=iAQB)
+### [Android Studio Уроки Для Начинающих/Урок 4N/Переменные](https://www.youtube.com/watch?v=_gg8hNsSjT4&amp;list=PLmjT2NFTgg1eyxItJXvckB9UYPrPkEDhd&amp;index=2&amp;pp=iAQB)
+### [Android Studio Уроки Для Начинающих / Урок 3N](https://www.youtube.com/watch?v=VnKRAVfm2_U&amp;list=PLmjT2NFTgg1eyxItJXvckB9UYPrPkEDhd&amp;index=3&amp;pp=iAQB)
+### [Разработка Android приложений/Android Studio/Вступление](https://www.youtube.com/watch?v=Sp04fLzeuqo&amp;list=PLmjT2NFTgg1eyxItJXvckB9UYPrPkEDhd&amp;index=4&amp;pp=iAQB)
+### [Разработка приложений на Android Studio / Урок 1](https://www.youtube.com/watch?v=m9rONh99RXE&amp;list=PLmjT2NFTgg1eyxItJXvckB9UYPrPkEDhd&amp;index=5&amp;pp=iAQB)
+### [Разработка Android приложений/ Урок 2 / Activity](https://www.youtube.com/watch?v=KUr4MA_ZtpA&amp;list=PLmjT2NFTgg1eyxItJXvckB9UYPrPkEDhd&amp;index=6&amp;pp=iAQB)
+### [Создаем Android приложение &quot;Фонарик&quot;/ Уроки по Android Studio](https://www.youtube.com/watch?v=K-yJKxfIiak&amp;list=PLmjT2NFTgg1eyxItJXvckB9UYPrPkEDhd&amp;index=7&amp;pp=iAQB)
+### [Создание приложения &quot;Блокнот&quot; под Андроид || Часть 9](https://www.youtube.com/watch?v=vp37z11cYRU&amp;list=PLmjT2NFTgg1eyxItJXvckB9UYPrPkEDhd&amp;index=8&amp;pp=iAQB)

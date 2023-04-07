@@ -1,0 +1,6 @@
+### [Создание змейки в Unity. Введение](https://www.youtube.com/watch?v=TEdKpkgj8WM&amp;list=PLY4rE9dstrJz0pbbcZLLdHCEIOZm5Mt9R&amp;index=1&amp;pp=iAQB)
+### [Создание змейки в Unity. Настройка сцены](https://www.youtube.com/watch?v=bKvOvNTk77w&amp;list=PLY4rE9dstrJz0pbbcZLLdHCEIOZm5Mt9R&amp;index=2&amp;pp=iAQB)
+### [Создание змейки в Unity. Скрипт контроллер и сбор еды](https://www.youtube.com/watch?v=kModdlk4z58&amp;list=PLY4rE9dstrJz0pbbcZLLdHCEIOZm5Mt9R&amp;index=3&amp;pp=iAQB)
+### [Создание змейки в Unity. События игры и звук](https://www.youtube.com/watch?v=HX6PB4vIOhE&amp;list=PLY4rE9dstrJz0pbbcZLLdHCEIOZm5Mt9R&amp;index=4&amp;pp=iAQB)
+### [Создание змейки в Unity. Анимации](https://www.youtube.com/watch?v=yILnUOhmyI8&amp;list=PLY4rE9dstrJz0pbbcZLLdHCEIOZm5Mt9R&amp;index=5&amp;pp=iAQB)
+### [Создание змейки в Unity. Меню и анимации кнопок](https://www.youtube.com/watch?v=3qhfYqN3en4&amp;list=PLY4rE9dstrJz0pbbcZLLdHCEIOZm5Mt9R&amp;index=6&amp;pp=iAQB)

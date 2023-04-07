@@ -1,0 +1,3 @@
+### [Golang: Image Generator - server](https://www.youtube.com/watch?v=8okDA5nUESw&amp;list=PLY4rE9dstrJxuKKPNdVUojnN3lD-hXy2R&amp;index=1&amp;pp=iAQB)
+### [Golang: Image Generator - fixed sizes [favicon]](https://www.youtube.com/watch?v=LyyK-tGhSuI&amp;list=PLY4rE9dstrJxuKKPNdVUojnN3lD-hXy2R&amp;index=2&amp;pp=iAQB)
+### [Golang: Image Generator - params [sizes/colors/label]](https://www.youtube.com/watch?v=Nyb_jE0G5Yc&amp;list=PLY4rE9dstrJxuKKPNdVUojnN3lD-hXy2R&amp;index=3&amp;pp=iAQB)

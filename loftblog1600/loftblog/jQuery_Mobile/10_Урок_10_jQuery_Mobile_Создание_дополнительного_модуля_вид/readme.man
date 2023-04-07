@@ -1,0 +1,3 @@
+# [loftblog](https://www.youtube.com/@loftblog/playlists)
+## [jQuery Mobile](https://www.youtube.com/playlist?list=PLY4rE9dstrJwvqCsoNNlD59-dBbWfDltR)
+### [Урок №10 jQuery Mobile. Создание дополнительного модуля (виджета).](https://www.youtube.com/watch?v=kqkPukaP3ZA&amp;list=PLY4rE9dstrJwvqCsoNNlD59-dBbWfDltR&amp;index=10&amp;pp=iAQB)

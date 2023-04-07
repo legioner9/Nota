@@ -1,0 +1,3 @@
+# [loftblog](https://www.youtube.com/@loftblog/playlists)
+## [Веб-разработка, вебинары](https://www.youtube.com/playlist?list=PLY4rE9dstrJz6UbNRxNZyO1JrEj6eKxoc)
+### [Основы работы с canvas и svg](https://www.youtube.com/watch?v=DCotZpftf9Y&amp;list=PLY4rE9dstrJz6UbNRxNZyO1JrEj6eKxoc&amp;index=2&amp;pp=iAQB)

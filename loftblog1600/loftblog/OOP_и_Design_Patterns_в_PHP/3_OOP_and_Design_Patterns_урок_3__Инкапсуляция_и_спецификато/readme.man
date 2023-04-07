@@ -1,0 +1,3 @@
+# [loftblog](https://www.youtube.com/@loftblog/playlists)
+## [OOP и Design Patterns в PHP](https://www.youtube.com/playlist?list=PLY4rE9dstrJwmJUR0qlMcTbeW5uRwluqW)
+### [OOP and Design Patterns (урок 3) - Инкапсуляция и спецификаторы доступа](https://www.youtube.com/watch?v=dsgqs9ZSUR8&amp;list=PLY4rE9dstrJwmJUR0qlMcTbeW5uRwluqW&amp;index=3&amp;pp=iAQB)

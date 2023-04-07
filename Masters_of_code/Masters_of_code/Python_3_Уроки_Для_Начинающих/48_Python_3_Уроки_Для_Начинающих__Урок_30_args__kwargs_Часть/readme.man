@@ -1,0 +1,3 @@
+# [Masters of ${code}](https://www.youtube.com/@MastersOfCode/playlists?view=1)
+## [Python 3 Уроки Для Начинающих](https://www.youtube.com/playlist?list=PLCp7YGqt4kFove1HjnFISvQWIHidUl_et)
+### [Python 3 Уроки Для Начинающих | Урок №30 *args  **kwargs Часть 1 | Программирование Азы](https://www.youtube.com/watch?v=bR2f9qezZXE&amp;list=PLCp7YGqt4kFove1HjnFISvQWIHidUl_et&amp;index=48&amp;pp=iAQB)

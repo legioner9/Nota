@@ -1,0 +1,3 @@
+# [loftblog](https://www.youtube.com/@loftblog/playlists)
+## [Основы javascript](https://www.youtube.com/playlist?list=PLY4rE9dstrJymG1GyPLgOKsJNq9r-p6pX)
+### [Основы javascript 22 — модель событий Internet Explorer](https://www.youtube.com/watch?v=OGs4L59vVS4&amp;list=PLY4rE9dstrJymG1GyPLgOKsJNq9r-p6pX&amp;index=22&amp;pp=iAQB)

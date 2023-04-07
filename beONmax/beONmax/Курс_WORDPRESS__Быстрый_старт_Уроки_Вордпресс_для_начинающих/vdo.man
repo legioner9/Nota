@@ -1,0 +1,3 @@
+### [WORDPRESS - Быстрый старт | Урок #1. Знакомство с CMS WordPress](https://www.youtube.com/watch?v=iEQLoEaEhT0&amp;list=PLIMbZPmmhFavqixLo8nyfhOxWtbopxCYs&amp;index=1&amp;pp=iAQB)
+### [WORDPRESS - Быстрый старт | Урок #2. Начало работы. Установка WordPress. Первые настройки](https://www.youtube.com/watch?v=92TEGAYmOaU&amp;list=PLIMbZPmmhFavqixLo8nyfhOxWtbopxCYs&amp;index=2&amp;pp=iAQB)
+### [WORDPRESS - Быстрый старт | Урок #3. Создание страниц, записей и рубрик](https://www.youtube.com/watch?v=Jq0kKI-yipQ&amp;list=PLIMbZPmmhFavqixLo8nyfhOxWtbopxCYs&amp;index=3&amp;pp=iAQB)

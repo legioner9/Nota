@@ -1,0 +1,3 @@
+# [loftblog](https://www.youtube.com/@loftblog/playlists)
+## [Создание динамического веб-сайта](https://www.youtube.com/playlist?list=PLY4rE9dstrJwCPkdWsDDKkYl4W3G9_Noh)
+### [Основы PHP. Часть 1. Операторы, циклы, условные конструкции](https://www.youtube.com/watch?v=ulK57zd4JhQ&amp;list=PLY4rE9dstrJwCPkdWsDDKkYl4W3G9_Noh&amp;index=2&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [Coding Medved](https://www.youtube.com/@codingmedved9026/playlists)
+## [GoUpworkIntensive](https://www.youtube.com/playlist?list=PLSWnD6rL-m9Zn2JaIfdWA35IpBCwuzS4s)
+### [Придумываем структуру базы данных в Django для приложения заказа такси](https://www.youtube.com/watch?v=aNuyEutmBio&amp;list=PLSWnD6rL-m9Zn2JaIfdWA35IpBCwuzS4s&amp;index=1&amp;pp=iAQB)

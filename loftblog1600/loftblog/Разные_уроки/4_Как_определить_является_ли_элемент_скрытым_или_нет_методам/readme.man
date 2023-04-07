@@ -1,0 +1,3 @@
+# [loftblog](https://www.youtube.com/@loftblog/playlists)
+## [Разные уроки](https://www.youtube.com/playlist?list=PLY4rE9dstrJyhOFRWZwcyl9OJ6qou-3Bx)
+### [Как определить является ли элемент скрытым или нет, методами Jquery ?](https://www.youtube.com/watch?v=RgfxaK6AOJQ&amp;list=PLY4rE9dstrJyhOFRWZwcyl9OJ6qou-3Bx&amp;index=4&amp;pp=iAQB)

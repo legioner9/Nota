@@ -1,0 +1,3 @@
+# [beONmax](https://www.youtube.com/@beONmax/playlists)
+## [Курс Программирование на JAVA с нуля - Уровень 2 + 10 собеседований](https://www.youtube.com/playlist?list=PLIMbZPmmhFavtWEeON5_FMkQAELUd7TOV)
+### [JAVA с нуля - Уровень 2 | Урок #3. JUnit - тестирование. Часть 2](https://www.youtube.com/watch?v=PQU4jY9wKyA&amp;list=PLIMbZPmmhFavtWEeON5_FMkQAELUd7TOV&amp;index=3&amp;pp=iAQB)

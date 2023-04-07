@@ -1,0 +1,3 @@
+### [Продвинутое программирование по Си/С++ урок 4](https://www.youtube.com/watch?v=_BpbPUzhFH4&amp;list=PL7KBbsb4oaOmdBqZ0PevJgug3yT-MiSbi&amp;index=1&amp;pp=iAQB)
+### [Продвинутое программирование на Си урок 5 qgcc](https://www.youtube.com/watch?v=4NVYglsNjPM&amp;list=PL7KBbsb4oaOmdBqZ0PevJgug3yT-MiSbi&amp;index=2&amp;pp=iAQB)
+### [Программирование на Си нахождение max, min числа в массиве](https://www.youtube.com/watch?v=WhVMl8jqnsQ&amp;list=PL7KBbsb4oaOmdBqZ0PevJgug3yT-MiSbi&amp;index=3&amp;pp=iAQB)

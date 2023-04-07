@@ -1,0 +1,3 @@
+# [loftblog](https://www.youtube.com/@loftblog/playlists)
+## [Курс "Разработка SPA с доменом и хостингом в облаке"](https://www.youtube.com/playlist?list=PLY4rE9dstrJy-Z6429_0kG7ml--_NEKQp)
+### [13 урок. Пишем обработчик регистрации нового пользователя](https://www.youtube.com/watch?v=yCV4QKoSiMs&amp;list=PLY4rE9dstrJy-Z6429_0kG7ml--_NEKQp&amp;index=13&amp;pp=iAQB)

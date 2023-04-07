@@ -1,0 +1,3 @@
+# [loftblog](https://www.youtube.com/@loftblog/playlists)
+## [jQuery Mobile](https://www.youtube.com/playlist?list=PLY4rE9dstrJwvqCsoNNlD59-dBbWfDltR)
+### [Урок №6 jQuery Mobile. Динамическое создание элементов.](https://www.youtube.com/watch?v=q7joMG0m1jA&amp;list=PLY4rE9dstrJwvqCsoNNlD59-dBbWfDltR&amp;index=6&amp;pp=iAQB)

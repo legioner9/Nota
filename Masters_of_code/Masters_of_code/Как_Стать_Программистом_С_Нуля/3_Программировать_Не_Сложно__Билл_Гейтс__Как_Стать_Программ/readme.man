@@ -1,0 +1,3 @@
+# [Masters of ${code}](https://www.youtube.com/@MastersOfCode/playlists?view=1)
+## [Как Стать Программистом С Нуля?](https://www.youtube.com/playlist?list=PLCp7YGqt4kFrqk1pbd1rq5T3DB1obYdVe)
+### [Программировать Не Сложно - Билл Гейтс | Как Стать Программистом С Нуля?](https://www.youtube.com/watch?v=bjyW8nTCWqE&amp;list=PLCp7YGqt4kFrqk1pbd1rq5T3DB1obYdVe&amp;index=3&amp;pp=iAQB)

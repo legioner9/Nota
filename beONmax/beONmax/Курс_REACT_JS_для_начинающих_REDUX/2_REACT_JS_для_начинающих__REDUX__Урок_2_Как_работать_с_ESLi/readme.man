@@ -1,0 +1,3 @@
+# [beONmax](https://www.youtube.com/@beONmax/playlists)
+## [Курс REACT JS для начинающих +REDUX](https://www.youtube.com/playlist?list=PLIMbZPmmhFatKaVvDkc9M2JCORL-QxJUO)
+### [REACT JS для начинающих + REDUX | Урок #2. Как работать с ESLint](https://www.youtube.com/watch?v=V1qke8RWQAw&amp;list=PLIMbZPmmhFatKaVvDkc9M2JCORL-QxJUO&amp;index=2&amp;pp=iAQB)

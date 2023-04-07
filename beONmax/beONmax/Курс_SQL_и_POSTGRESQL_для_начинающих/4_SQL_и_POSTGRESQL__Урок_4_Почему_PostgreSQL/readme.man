@@ -1,0 +1,3 @@
+# [beONmax](https://www.youtube.com/@beONmax/playlists)
+## [Курс SQL и POSTGRESQL для начинающих](https://www.youtube.com/playlist?list=PLIMbZPmmhFaslFA5vMgbzJ7MjT70gLlwI)
+### [SQL и POSTGRESQL | Урок #4. Почему PostgreSQL?](https://www.youtube.com/watch?v=Tte4HT-aJiU&amp;list=PLIMbZPmmhFaslFA5vMgbzJ7MjT70gLlwI&amp;index=4&amp;pp=iAQB)

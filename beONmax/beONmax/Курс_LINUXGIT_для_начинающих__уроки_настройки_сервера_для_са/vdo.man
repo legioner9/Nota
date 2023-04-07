@@ -1,0 +1,4 @@
+### [LINUX/GIT для начинающих. Урок #1. Настройка доступ к терминалу Linux через SSH](https://www.youtube.com/watch?v=N7mMN5Zv7DE&amp;list=PLIMbZPmmhFatZm-6cjMxREChLwUluxPue&amp;index=1&amp;pp=iAQB)
+### [LINUX/GIT для начинающих. Урок #2.Терминал Linux. Базовые команды - pwd, ls, cd, cat, mkdir, touch](https://www.youtube.com/watch?v=0K6TjIqP-k0&amp;list=PLIMbZPmmhFatZm-6cjMxREChLwUluxPue&amp;index=2&amp;pp=iAQB)
+### [LINUX/GIT для начинающих. Урок #3. Работа с редактором NANO в терминале Linux](https://www.youtube.com/watch?v=mSX7BJutl4s&amp;list=PLIMbZPmmhFatZm-6cjMxREChLwUluxPue&amp;index=3&amp;pp=iAQB)
+### [LINUX/GIT для начинающих. Урок #4.  Команды терминала Linux: CP и MV](https://www.youtube.com/watch?v=qSWTJz3ljdI&amp;list=PLIMbZPmmhFatZm-6cjMxREChLwUluxPue&amp;index=4&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [Konstantin Vladimirov](https://www.youtube.com/@tilir/playlists)
+## [Graphics and heterogeneous programming](https://www.youtube.com/playlist?list=PL3BR09unfgcgA03zB3vjrssyy_iZ6Vqku)
+### [Обзор компиляции гетерогенных программ для Intel GPU](https://www.youtube.com/watch?v=hoKfOB56m9M&amp;list=PL3BR09unfgcgA03zB3vjrssyy_iZ6Vqku&amp;index=2&amp;pp=iAQB)

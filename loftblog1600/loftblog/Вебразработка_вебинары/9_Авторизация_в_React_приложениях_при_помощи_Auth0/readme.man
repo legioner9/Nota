@@ -1,0 +1,3 @@
+# [loftblog](https://www.youtube.com/@loftblog/playlists)
+## [Веб-разработка, вебинары](https://www.youtube.com/playlist?list=PLY4rE9dstrJz6UbNRxNZyO1JrEj6eKxoc)
+### [Авторизация в React приложениях при помощи Auth0](https://www.youtube.com/watch?v=0N60mKMlwiA&amp;list=PLY4rE9dstrJz6UbNRxNZyO1JrEj6eKxoc&amp;index=9&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [loftblog](https://www.youtube.com/@loftblog/playlists)
+## [Основы SQL](https://www.youtube.com/playlist?list=PLY4rE9dstrJwFmPYd03vZU90-TvXEpVzD)
+### [Основы SQL - #5 – Транзакции](https://www.youtube.com/watch?v=d6c1S9O1rJ8&amp;list=PLY4rE9dstrJwFmPYd03vZU90-TvXEpVzD&amp;index=5&amp;pp=iAQB)

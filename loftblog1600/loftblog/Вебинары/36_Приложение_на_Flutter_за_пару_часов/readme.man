@@ -1,0 +1,3 @@
+# [loftblog](https://www.youtube.com/@loftblog/playlists)
+## [Вебинары](https://www.youtube.com/playlist?list=PLY4rE9dstrJwoSoksf2bGCZciaNH-cLEj)
+### [Приложение на Flutter за пару часов](https://www.youtube.com/watch?v=qWRpFswupyE&amp;list=PLY4rE9dstrJwoSoksf2bGCZciaNH-cLEj&amp;index=36&amp;pp=iAQB)

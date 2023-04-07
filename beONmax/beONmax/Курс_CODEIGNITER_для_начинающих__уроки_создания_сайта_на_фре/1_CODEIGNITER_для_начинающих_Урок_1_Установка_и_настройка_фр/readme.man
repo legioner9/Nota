@@ -1,0 +1,3 @@
+# [beONmax](https://www.youtube.com/@beONmax/playlists)
+## [Курс CODEIGNITER для начинающих - уроки создания сайта на фреймворке](https://www.youtube.com/playlist?list=PLIMbZPmmhFav7FZiaY_cl6jKAOWgUmi09)
+### [CODEIGNITER для начинающих. Урок #1. Установка и настройка фреймворка CodeIgniter и MVC](https://www.youtube.com/watch?v=VRK9yqv3RKU&amp;list=PLIMbZPmmhFav7FZiaY_cl6jKAOWgUmi09&amp;index=1&amp;pp=iAQB)

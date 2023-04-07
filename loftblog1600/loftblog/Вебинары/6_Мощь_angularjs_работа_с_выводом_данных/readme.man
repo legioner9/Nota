@@ -1,0 +1,3 @@
+# [loftblog](https://www.youtube.com/@loftblog/playlists)
+## [Вебинары](https://www.youtube.com/playlist?list=PLY4rE9dstrJwoSoksf2bGCZciaNH-cLEj)
+### [Мощь angular.js: работа с выводом данных](https://www.youtube.com/watch?v=o0wExqfwGbg&amp;list=PLY4rE9dstrJwoSoksf2bGCZciaNH-cLEj&amp;index=6&amp;pp=iAQB)

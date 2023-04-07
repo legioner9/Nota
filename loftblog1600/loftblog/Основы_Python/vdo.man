@@ -1,0 +1,5 @@
+### [Python  #1 -  Первая программа, переменные и строки](https://www.youtube.com/watch?v=hBHHyclXRhQ&amp;list=PLY4rE9dstrJwmHGhM-IA98GZf6I--4hKi&amp;index=1&amp;pp=iAQB)
+### [Python #2 - Списки и кортежи](https://www.youtube.com/watch?v=I_2J07cv_q0&amp;list=PLY4rE9dstrJwmHGhM-IA98GZf6I--4hKi&amp;index=2&amp;pp=iAQB)
+### [Python #3 - Циклы и оператор ветвления](https://www.youtube.com/watch?v=pnOY0CBaqxI&amp;list=PLY4rE9dstrJwmHGhM-IA98GZf6I--4hKi&amp;index=3&amp;pp=iAQB)
+### [Python #4 - функции](https://www.youtube.com/watch?v=3-eK0jCJpCA&amp;list=PLY4rE9dstrJwmHGhM-IA98GZf6I--4hKi&amp;index=4&amp;pp=iAQB)
+### [Python #5 - Работа с модулями, редактирование файлов](https://www.youtube.com/watch?v=WsjOlkR6e9U&amp;list=PLY4rE9dstrJwmHGhM-IA98GZf6I--4hKi&amp;index=5&amp;pp=iAQB)

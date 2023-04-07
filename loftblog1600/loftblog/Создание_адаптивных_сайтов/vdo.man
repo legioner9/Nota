@@ -1,0 +1,7 @@
+### [Создание адаптивных сайтов - урок первый](https://www.youtube.com/watch?v=Au6d1d-vFjU&amp;list=PLY4rE9dstrJyJEghRkl7qfqdAdlyvaOVQ&amp;index=1&amp;pp=iAQB)
+### [Создание адаптивных сайтов - урок второй. Как перевести статичную разметку в гибкую.](https://www.youtube.com/watch?v=LDdZlRgGWQA&amp;list=PLY4rE9dstrJyJEghRkl7qfqdAdlyvaOVQ&amp;index=2&amp;pp=iAQB)
+### [Создание адаптивных сайтов - урок третий. гибридная верстка](https://www.youtube.com/watch?v=FZFyRb_LXy8&amp;list=PLY4rE9dstrJyJEghRkl7qfqdAdlyvaOVQ&amp;index=3&amp;pp=iAQB)
+### [Создание адаптивных сайтов - урок четвертый. Гибкая сетка (Fluid grid)](https://www.youtube.com/watch?v=txOKjSEwHVM&amp;list=PLY4rE9dstrJyJEghRkl7qfqdAdlyvaOVQ&amp;index=4&amp;pp=iAQB)
+### [Создание адаптивных сайтов - урок пятый. Media queries](https://www.youtube.com/watch?v=tssLXAynfOg&amp;list=PLY4rE9dstrJyJEghRkl7qfqdAdlyvaOVQ&amp;index=5&amp;pp=iAQB)
+### [Создание адаптивных сайтов - урок шестой. Flexible media (гибкие медиа)](https://www.youtube.com/watch?v=jEtvucZTQMQ&amp;list=PLY4rE9dstrJyJEghRkl7qfqdAdlyvaOVQ&amp;index=6&amp;pp=iAQB)
+### [Создание адаптивных сайтов - урок седьмой. Тестирование](https://www.youtube.com/watch?v=v16ayKAwQD4&amp;list=PLY4rE9dstrJyJEghRkl7qfqdAdlyvaOVQ&amp;index=7&amp;pp=iAQB)

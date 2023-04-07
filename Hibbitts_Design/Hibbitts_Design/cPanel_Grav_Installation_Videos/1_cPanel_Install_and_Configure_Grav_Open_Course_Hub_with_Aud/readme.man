@@ -1,0 +1,3 @@
+# [Hibbitts Design](https://www.youtube.com/@hibbittsdesign/playlists)
+## [cPanel Grav Installation Videos](https://www.youtube.com/playlist?list=PLk2Bz5X36nXBALky8QmGqpPokk88uInz2)
+### [cPanel: Install and Configure Grav Open Course Hub (with Audio)](https://www.youtube.com/watch?v=LEPbq74KdGw&amp;list=PLk2Bz5X36nXBALky8QmGqpPokk88uInz2&amp;index=1&amp;pp=iAQB)

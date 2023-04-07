@@ -1,0 +1,3 @@
+# [loftblog](https://www.youtube.com/@loftblog/playlists)
+## [Основы написания макросов в Excel](https://www.youtube.com/playlist?list=PLY4rE9dstrJyumRK-ucl1q6CeyOSLzCXD)
+### [Основы написания макросов в Excel - #7 - Обращение к WorkBooks и Worksheets](https://www.youtube.com/watch?v=E5JlYhczI7s&amp;list=PLY4rE9dstrJyumRK-ucl1q6CeyOSLzCXD&amp;index=7&amp;pp=iAQB)

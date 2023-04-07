@@ -1,0 +1,2 @@
+### [DJANGO 3 - разработка веб сайтов на PYTHON | Урок #1. О курсе. Чему вы научитесь](https://www.youtube.com/watch?v=6Os3Hk93YlY&amp;list=PLIMbZPmmhFatqClqIYJTCufXZVLIj6rEk&amp;index=1&amp;pp=iAQB)
+### [DJANGO 3 - разработка веб сайтов на PYTHON | Урок #2. Вступительное слово](https://www.youtube.com/watch?v=8kAYF5QGV2E&amp;list=PLIMbZPmmhFatqClqIYJTCufXZVLIj6rEk&amp;index=2&amp;pp=iAQB)

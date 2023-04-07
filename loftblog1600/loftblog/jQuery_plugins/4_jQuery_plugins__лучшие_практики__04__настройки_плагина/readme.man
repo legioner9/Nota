@@ -1,0 +1,3 @@
+# [loftblog](https://www.youtube.com/@loftblog/playlists)
+## [jQuery plugins](https://www.youtube.com/playlist?list=PLY4rE9dstrJz77dyBHYiv8ZpVWbxPG-gS)
+### [jQuery plugins - лучшие практики - 04 - настройки плагина](https://www.youtube.com/watch?v=TUtST3-LJAg&amp;list=PLY4rE9dstrJz77dyBHYiv8ZpVWbxPG-gS&amp;index=4&amp;pp=iAQB)

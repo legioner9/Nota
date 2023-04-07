@@ -1,0 +1,3 @@
+# [loftblog](https://www.youtube.com/@loftblog/playlists)
+## [Стек MEAN](https://www.youtube.com/playlist?list=PLY4rE9dstrJzF0C_Px5ILePNo8eULCbG4)
+### [Введение в cтек MEAN. Основные компоненты](https://www.youtube.com/watch?v=SbY3K3DD4Ic&amp;list=PLY4rE9dstrJzF0C_Px5ILePNo8eULCbG4&amp;index=1&amp;pp=iAQB)

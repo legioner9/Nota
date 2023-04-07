@@ -1,0 +1,3 @@
+# [Masters of ${code}](https://www.youtube.com/@MastersOfCode/playlists?view=1)
+## [TypeScript Уроки С Нуля На Русском](https://www.youtube.com/playlist?list=PLCp7YGqt4kFrLLx2rrg5RXVELPIzCJAT0)
+### [Запуск TypeScript Кода | TypeScript Уроки С Нуля На Русском | Урок 4](https://www.youtube.com/watch?v=S3IgnFlQxTo&amp;list=PLCp7YGqt4kFrLLx2rrg5RXVELPIzCJAT0&amp;index=4&amp;pp=iAQB)

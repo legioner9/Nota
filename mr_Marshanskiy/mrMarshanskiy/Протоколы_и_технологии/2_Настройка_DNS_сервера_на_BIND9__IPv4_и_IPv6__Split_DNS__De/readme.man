@@ -1,0 +1,3 @@
+# [mr.Marshanskiy](https://www.youtube.com/@mrMarshanskiy/playlists)
+## [Протоколы и технологии](https://www.youtube.com/playlist?list=PLNqpSxWyl1hdlvkYQ6ZvFm6ynRGeycttn)
+### [Настройка DNS сервера на BIND9 • IPv4 и IPv6 • Split DNS • Debian](https://www.youtube.com/watch?v=UKBDT56SrF0&amp;list=PLNqpSxWyl1hdlvkYQ6ZvFm6ynRGeycttn&amp;index=2&amp;pp=iAQB)

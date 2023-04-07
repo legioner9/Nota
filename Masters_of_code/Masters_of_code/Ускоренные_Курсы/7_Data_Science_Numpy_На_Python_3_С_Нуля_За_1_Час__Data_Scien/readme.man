@@ -1,0 +1,3 @@
+# [Masters of ${code}](https://www.youtube.com/@MastersOfCode/playlists?view=1)
+## [Ускоренные Курсы](https://www.youtube.com/playlist?list=PLCp7YGqt4kFpzVAUaJT2IWVzU3rEo0ipD)
+### [Data Science Numpy На Python 3 С Нуля За 1 Час | Data Science Уроки](https://www.youtube.com/watch?v=XGtQTK2YD7g&amp;list=PLCp7YGqt4kFpzVAUaJT2IWVzU3rEo0ipD&amp;index=7&amp;pp=iAQB)

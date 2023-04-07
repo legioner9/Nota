@@ -1,0 +1,3 @@
+# [Masters of ${code}](https://www.youtube.com/@MastersOfCode/playlists?view=1)
+## [Парсинг Сайтов Python Beautifulsoup](https://www.youtube.com/playlist?list=PLCp7YGqt4kFrInwG4jZMNMYYEJ0SYQ-9j)
+### [Python 3 Уроки Для Начинающих | Парсинг Сайтов Python Beautifulsoup  | Python для начинающих](https://www.youtube.com/watch?v=8JYYYA3nw9w&amp;list=PLCp7YGqt4kFrInwG4jZMNMYYEJ0SYQ-9j&amp;index=3&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [loftblog](https://www.youtube.com/@loftblog/playlists)
+## [Регулярные выражения в JS](https://www.youtube.com/playlist?list=PLY4rE9dstrJybXiawtabniwVxQSCAb3PL)
+### [Регулярные выражения в JavaScript #1 – Символьные классы, наборы и диапазоны символов](https://www.youtube.com/watch?v=pSdXUgOLpwo&amp;list=PLY4rE9dstrJybXiawtabniwVxQSCAb3PL&amp;index=1&amp;pp=iAQB)

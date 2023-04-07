@@ -1,0 +1,3 @@
+# [loftblog](https://www.youtube.com/@loftblog/playlists)
+## [OOP и Design Patterns в PHP](https://www.youtube.com/playlist?list=PLY4rE9dstrJwmJUR0qlMcTbeW5uRwluqW)
+### [OOP and Design Patterns (урок 4) - Наследование](https://www.youtube.com/watch?v=o6CCsncHsFg&amp;list=PLY4rE9dstrJwmJUR0qlMcTbeW5uRwluqW&amp;index=2&amp;pp=iAQB)

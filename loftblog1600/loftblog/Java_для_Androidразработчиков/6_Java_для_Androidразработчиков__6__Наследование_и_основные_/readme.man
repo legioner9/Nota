@@ -1,0 +1,3 @@
+# [loftblog](https://www.youtube.com/@loftblog/playlists)
+## [Java для Android-разработчиков](https://www.youtube.com/playlist?list=PLY4rE9dstrJxka0Ug_i-u6yVvrK6OXs_M)
+### [Java для Android-разработчиков - #6 - Наследование и основные принципы ООП](https://www.youtube.com/watch?v=z6ZmbiiKeE0&amp;list=PLY4rE9dstrJxka0Ug_i-u6yVvrK6OXs_M&amp;index=6&amp;pp=iAQB)

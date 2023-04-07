@@ -1,0 +1,3 @@
+# [Neco Ru](https://www.youtube.com/@NecoRuChannel/playlists)
+## [Работа с QR кодом](https://www.youtube.com/playlist?list=PLmjT2NFTgg1cJqzBZKT2an_vaXnzA3_BE)
+### [Генератор QR кода для Андроид на Kotlin](https://www.youtube.com/watch?v=pQ1KYUJpCGU&amp;list=PLmjT2NFTgg1cJqzBZKT2an_vaXnzA3_BE&amp;index=2&amp;pp=iAQB)

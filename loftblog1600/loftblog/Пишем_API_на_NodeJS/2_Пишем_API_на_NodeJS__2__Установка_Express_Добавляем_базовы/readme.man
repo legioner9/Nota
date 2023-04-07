@@ -1,0 +1,3 @@
+# [loftblog](https://www.youtube.com/@loftblog/playlists)
+## [Пишем API на NodeJS](https://www.youtube.com/playlist?list=PLY4rE9dstrJzrDaSPKOrhNgQ19GhVl19u)
+### [Пишем API на NodeJS - #2 - Установка Express. Добавляем базовый роутинг.](https://www.youtube.com/watch?v=aOS7cFmYkko&amp;list=PLY4rE9dstrJzrDaSPKOrhNgQ19GhVl19u&amp;index=2&amp;pp=iAQB)

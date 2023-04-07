@@ -1,0 +1,3 @@
+# [Neco Ru](https://www.youtube.com/@NecoRuChannel/playlists)
+## [Чат на Firebase](https://www.youtube.com/playlist?list=PLmjT2NFTgg1cqRUGQ6ngKOA3gNrbC42wp)
+### [RecyclerView и ListAdapter | Android Studio | Kotlin | #5](https://www.youtube.com/watch?v=InTbo920el4&amp;list=PLmjT2NFTgg1cqRUGQ6ngKOA3gNrbC42wp&amp;index=5&amp;pp=iAQB)

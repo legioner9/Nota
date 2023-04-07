@@ -1,0 +1,3 @@
+# [Masters of ${code}](https://www.youtube.com/@MastersOfCode/playlists?view=1)
+## [React - с Нуля до Профессионала](https://www.youtube.com/playlist?list=PLCp7YGqt4kFpn5Pw5jukSbbXoAblSNKiT)
+### [Отображение Контента по Условию и Списков | 06 Задание 3  Решение](https://www.youtube.com/watch?v=PGqcGxSGOwM&amp;list=PLCp7YGqt4kFpn5Pw5jukSbbXoAblSNKiT&amp;index=50&amp;pp=iAQB)

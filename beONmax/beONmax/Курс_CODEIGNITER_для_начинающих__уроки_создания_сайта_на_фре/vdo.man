@@ -1,0 +1,5 @@
+### [CODEIGNITER для начинающих. Урок #1. Установка и настройка фреймворка CodeIgniter и MVC](https://www.youtube.com/watch?v=VRK9yqv3RKU&amp;list=PLIMbZPmmhFav7FZiaY_cl6jKAOWgUmi09&amp;index=1&amp;pp=iAQB)
+### [CODEIGNITER для начинающих. Урок #2. CRUD приложение на Codeigniter. Структура базы данных MySQL](https://www.youtube.com/watch?v=84vRBAy1t6A&amp;list=PLIMbZPmmhFav7FZiaY_cl6jKAOWgUmi09&amp;index=2&amp;pp=iAQB)
+### [CODEIGNITER для начинающих. Урок #3. CRUD: Вывод новостей из базы данных. Создание моделей (Models)](https://www.youtube.com/watch?v=nde6qQj656g&amp;list=PLIMbZPmmhFav7FZiaY_cl6jKAOWgUmi09&amp;index=3&amp;pp=iAQB)
+### [CODEIGNITER для начинающих. Урок #4. CRUD: Просмотр каждой новости по отдельности](https://www.youtube.com/watch?v=LDePSwmqybA&amp;list=PLIMbZPmmhFav7FZiaY_cl6jKAOWgUmi09&amp;index=4&amp;pp=iAQB)
+### [CODEIGNITER для начинающих. Урок #5. SEO: Friendly URL для сайта в Codeigniter](https://www.youtube.com/watch?v=wQWdkWAcuDs&amp;list=PLIMbZPmmhFav7FZiaY_cl6jKAOWgUmi09&amp;index=5&amp;pp=iAQB)

@@ -1,0 +1,8 @@
+### [Калькулятор на Swift - #1 - Вступление](https://www.youtube.com/watch?v=JSJM1-Taxh4&amp;list=PLY4rE9dstrJyg-62QD18tKP4vOxmUtl_y&amp;index=1&amp;pp=iAQB)
+### [Калькулятор на Swift - #2 - Работа с элементами интерфейса](https://www.youtube.com/watch?v=4F3XQKfgmzM&amp;list=PLY4rE9dstrJyg-62QD18tKP4vOxmUtl_y&amp;index=2&amp;pp=iAQB)
+### [Калькулятор на Swift - #3 - Позиционирование и закрепление элементов интерфейса](https://www.youtube.com/watch?v=sD6uq7neoJE&amp;list=PLY4rE9dstrJyg-62QD18tKP4vOxmUtl_y&amp;index=3&amp;pp=iAQB)
+### [Калькулятор на Swift - #4 - Работа с кодом (Часть 1)](https://www.youtube.com/watch?v=96d0qSZiO8A&amp;list=PLY4rE9dstrJyg-62QD18tKP4vOxmUtl_y&amp;index=4&amp;pp=iAQB)
+### [Калькулятор на Swift - #5 - Работа с кодом (Часть 2)](https://www.youtube.com/watch?v=D8rPm8DYIBI&amp;list=PLY4rE9dstrJyg-62QD18tKP4vOxmUtl_y&amp;index=5&amp;pp=iAQB)
+### [Калькулятор на Swift - #6 - Работа с кодом (Часть 3)](https://www.youtube.com/watch?v=qhUvZrHPApo&amp;list=PLY4rE9dstrJyg-62QD18tKP4vOxmUtl_y&amp;index=6&amp;pp=iAQB)
+### [Калькулятор на Swift - #7 - Работа с кодом (Часть 4)](https://www.youtube.com/watch?v=oII0f1EjzBA&amp;list=PLY4rE9dstrJyg-62QD18tKP4vOxmUtl_y&amp;index=7&amp;pp=iAQB)
+### [Калькулятор на Swift - #8 - Наводим красоту](https://www.youtube.com/watch?v=H1oPtRicEK8&amp;list=PLY4rE9dstrJyg-62QD18tKP4vOxmUtl_y&amp;index=8&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+### [Админ-панель на REACT JS + PHP | Урок #1. О курсе. Чему вы научитесь?](https://www.youtube.com/watch?v=67ORQMtVTbY&amp;list=PLIMbZPmmhFav4ZQX7Gch4P8d3uI33EztC&amp;index=1&amp;pp=iAQB)
+### [Админ-панель на REACT JS + PHP | Урок #2. Введение. Как проходит обучение по курсу](https://www.youtube.com/watch?v=Bsqha3MEfu0&amp;list=PLIMbZPmmhFav4ZQX7Gch4P8d3uI33EztC&amp;index=2&amp;pp=iAQB)
+### [Админ-панель на REACT JS + PHP | Урок #3. Административная панель и зачем она нужна](https://www.youtube.com/watch?v=i2W_6QJgF4s&amp;list=PLIMbZPmmhFav4ZQX7Gch4P8d3uI33EztC&amp;index=3&amp;pp=iAQB)

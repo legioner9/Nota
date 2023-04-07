@@ -1,0 +1,3 @@
+# [loftblog](https://www.youtube.com/@loftblog/playlists)
+## [HardCode](https://www.youtube.com/playlist?list=PLY4rE9dstrJwnMiwsyhoiFOWC_8eMPH2y)
+### [Создание игры-змейка через консольное React.js приложение](https://www.youtube.com/watch?v=iCYTjcNi-rI&amp;list=PLY4rE9dstrJwnMiwsyhoiFOWC_8eMPH2y&amp;index=4&amp;pp=iAQB)

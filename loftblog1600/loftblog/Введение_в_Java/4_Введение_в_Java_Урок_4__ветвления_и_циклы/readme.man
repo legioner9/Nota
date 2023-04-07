@@ -1,0 +1,3 @@
+# [loftblog](https://www.youtube.com/@loftblog/playlists)
+## [Введение в Java](https://www.youtube.com/playlist?list=PLY4rE9dstrJzKUZHdGgECOjJLaZBcUdCC)
+### [Введение в Java. Урок №4 - ветвления и циклы](https://www.youtube.com/watch?v=7UIlKa8g2ok&amp;list=PLY4rE9dstrJzKUZHdGgECOjJLaZBcUdCC&amp;index=4&amp;pp=iAQB)

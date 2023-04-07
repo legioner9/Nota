@@ -1,0 +1,3 @@
+# [loftblog](https://www.youtube.com/@loftblog/playlists)
+## [Gulp.js](https://www.youtube.com/playlist?list=PLY4rE9dstrJwXCz1utct9b6Vub9VWQoKo)
+### [Gulp.js #4 - Боремся с кэшированием или ревизии подключаемых файлов.](https://www.youtube.com/watch?v=ixe_Jms2XYc&amp;list=PLY4rE9dstrJwXCz1utct9b6Vub9VWQoKo&amp;index=4&amp;pp=iAQB)

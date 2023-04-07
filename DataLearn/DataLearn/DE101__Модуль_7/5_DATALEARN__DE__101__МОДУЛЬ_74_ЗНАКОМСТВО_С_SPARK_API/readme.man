@@ -1,0 +1,3 @@
+# [DataLearn](https://www.youtube.com/@datalearn4398/playlists)
+## [DE-101 | Модуль 7](https://www.youtube.com/playlist?list=PLkcP_moW_BpMuwnpqNlE_wuLy-FI8vaJd)
+### [DATALEARN | DE - 101 | МОДУЛЬ 7-4 ЗНАКОМСТВО С SPARK API](https://www.youtube.com/watch?v=gg1uip_i2KY&amp;list=PLkcP_moW_BpMuwnpqNlE_wuLy-FI8vaJd&amp;index=5&amp;pp=iAQB)

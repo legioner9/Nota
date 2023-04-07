@@ -1,0 +1,3 @@
+# [Neco Ru](https://www.youtube.com/@NecoRuChannel/playlists)
+## [Android Studio + Kotlin курс - Часть 2](https://www.youtube.com/playlist?list=PLmjT2NFTgg1enAwbqriBKAekm_HeK76yz)
+### [Что учить начинающему Андроид разработчику Jetpack Compose или XML?](https://www.youtube.com/watch?v=VMfxxswge-0&amp;list=PLmjT2NFTgg1enAwbqriBKAekm_HeK76yz&amp;index=8&amp;pp=iAQB)

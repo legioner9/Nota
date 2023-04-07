@@ -1,0 +1,3 @@
+# [loftblog](https://www.youtube.com/@loftblog/playlists)
+## [Делаем игру на Unity](https://www.youtube.com/playlist?list=PLY4rE9dstrJybjD7c7b7DiITIpVaKv4Lx)
+### [Делаем игру на Unity #1 / Ознакомление с интерфейсом Unity](https://www.youtube.com/watch?v=vW_tpwSH7DY&amp;list=PLY4rE9dstrJybjD7c7b7DiITIpVaKv4Lx&amp;index=1&amp;pp=iAQB)

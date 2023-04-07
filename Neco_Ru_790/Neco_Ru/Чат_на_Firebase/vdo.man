@@ -1,0 +1,5 @@
+### [Приложение Чат на Firebase для Android | Android Studio | Kotlin | #1](https://www.youtube.com/watch?v=cVKYl-wWCUA&amp;list=PLmjT2NFTgg1cqRUGQ6ngKOA3gNrbC42wp&amp;index=1&amp;pp=iAQB)
+### [Приложение Чат на Firebase для Android | Android Studio | Kotlin | #2](https://www.youtube.com/watch?v=OGkpYOtrjto&amp;list=PLmjT2NFTgg1cqRUGQ6ngKOA3gNrbC42wp&amp;index=2&amp;pp=iAQB)
+### [Authentication на Firebase через Google Аккаунт | Android Studio | Kotlin | #3](https://www.youtube.com/watch?v=mqkc7SzoLso&amp;list=PLmjT2NFTgg1cqRUGQ6ngKOA3gNrbC42wp&amp;index=3&amp;pp=iAQB)
+### [Firebase Google Sign Out | Android Studio | Kotlin | #4](https://www.youtube.com/watch?v=BtHVHe7iEZ4&amp;list=PLmjT2NFTgg1cqRUGQ6ngKOA3gNrbC42wp&amp;index=4&amp;pp=iAQB)
+### [RecyclerView и ListAdapter | Android Studio | Kotlin | #5](https://www.youtube.com/watch?v=InTbo920el4&amp;list=PLmjT2NFTgg1cqRUGQ6ngKOA3gNrbC42wp&amp;index=5&amp;pp=iAQB)

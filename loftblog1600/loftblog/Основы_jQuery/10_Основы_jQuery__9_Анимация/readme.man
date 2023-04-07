@@ -1,0 +1,3 @@
+# [loftblog](https://www.youtube.com/@loftblog/playlists)
+## [Основы jQuery](https://www.youtube.com/playlist?list=PLY4rE9dstrJxST3xftg5kSCQdUB8hvj4S)
+### [Основы jQuery - 9 Анимация](https://www.youtube.com/watch?v=oWgR2NDqjAc&amp;list=PLY4rE9dstrJxST3xftg5kSCQdUB8hvj4S&amp;index=10&amp;pp=iAQB)

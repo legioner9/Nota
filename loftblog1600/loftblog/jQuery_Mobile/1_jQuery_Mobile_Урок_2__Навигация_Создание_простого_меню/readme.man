@@ -1,0 +1,3 @@
+# [loftblog](https://www.youtube.com/@loftblog/playlists)
+## [jQuery Mobile](https://www.youtube.com/playlist?list=PLY4rE9dstrJwvqCsoNNlD59-dBbWfDltR)
+### [jQuery Mobile. Урок №2 - Навигация. Создание простого меню.](https://www.youtube.com/watch?v=cSyBi8BnNKE&amp;list=PLY4rE9dstrJwvqCsoNNlD59-dBbWfDltR&amp;index=1&amp;pp=iAQB)

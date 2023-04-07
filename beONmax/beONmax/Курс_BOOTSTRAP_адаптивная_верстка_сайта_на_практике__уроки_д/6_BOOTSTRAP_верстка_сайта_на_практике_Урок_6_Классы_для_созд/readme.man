@@ -1,0 +1,3 @@
+# [beONmax](https://www.youtube.com/@beONmax/playlists)
+## [Курс BOOTSTRAP адаптивная верстка сайта на практике - уроки для начинающих](https://www.youtube.com/playlist?list=PLIMbZPmmhFauZhoshRd1tn5u3rWs46SaL)
+### [BOOTSTRAP верстка сайта на практике. Урок #6. Классы для создания верхнего меню сайта. Navbar](https://www.youtube.com/watch?v=9a1mo1bodlM&amp;list=PLIMbZPmmhFauZhoshRd1tn5u3rWs46SaL&amp;index=6&amp;pp=iAQB)

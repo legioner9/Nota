@@ -1,0 +1,3 @@
+# [loftblog](https://www.youtube.com/@loftblog/playlists)
+## [Java для Android-разработчиков](https://www.youtube.com/playlist?list=PLY4rE9dstrJxka0Ug_i-u6yVvrK6OXs_M)
+### [Java для Android-разработчиков - #13 - Потоки](https://www.youtube.com/watch?v=tparBpSyUPs&amp;list=PLY4rE9dstrJxka0Ug_i-u6yVvrK6OXs_M&amp;index=13&amp;pp=iAQB)

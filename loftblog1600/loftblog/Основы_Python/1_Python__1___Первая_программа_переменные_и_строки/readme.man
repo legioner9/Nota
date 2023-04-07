@@ -1,0 +1,3 @@
+# [loftblog](https://www.youtube.com/@loftblog/playlists)
+## [Основы Python](https://www.youtube.com/playlist?list=PLY4rE9dstrJwmHGhM-IA98GZf6I--4hKi)
+### [Python  #1 -  Первая программа, переменные и строки](https://www.youtube.com/watch?v=hBHHyclXRhQ&amp;list=PLY4rE9dstrJwmHGhM-IA98GZf6I--4hKi&amp;index=1&amp;pp=iAQB)

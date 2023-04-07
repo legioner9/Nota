@@ -1,0 +1,5 @@
+### [Ruby on Rails - #1 - Введение](https://www.youtube.com/watch?v=nLawteLcBc8&amp;list=PLY4rE9dstrJzngTaKaPPL2dj9uBpEw1Zf&amp;index=1&amp;pp=iAQB)
+### [Ruby on Rails - #2 - Установка гемов, создание страниц](https://www.youtube.com/watch?v=zmG8QkEkdzk&amp;list=PLY4rE9dstrJzngTaKaPPL2dj9uBpEw1Zf&amp;index=2&amp;pp=iAQB)
+### [Ruby on Rails - #3 – Работа с базой. CRUD](https://www.youtube.com/watch?v=_0i2E6qz_UA&amp;list=PLY4rE9dstrJzngTaKaPPL2dj9uBpEw1Zf&amp;index=3&amp;pp=iAQB)
+### [Ruby on Rails - #4(full-version) –  CRUD (create, read, update, delete) всего за 10 минут!](https://www.youtube.com/watch?v=XA1paaPZJgU&amp;list=PLY4rE9dstrJzngTaKaPPL2dj9uBpEw1Zf&amp;index=4&amp;pp=iAQB)
+### [Основы Ruby on Rails - #5 - Ассоциации. Многие ко многим](https://www.youtube.com/watch?v=gG8D9WUkuOA&amp;list=PLY4rE9dstrJzngTaKaPPL2dj9uBpEw1Zf&amp;index=5&amp;pp=iAQB)

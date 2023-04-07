@@ -1,0 +1,3 @@
+### [Разработка виджетов для Figma – Часть 1](https://www.youtube.com/watch?v=o3H-bjBvWac&amp;list=PLY4rE9dstrJy3lH2xeXfLTH6s1g9-b56Y&amp;index=1&amp;pp=iAQB)
+### [Разработка виджетов для Figma – Часть 2](https://www.youtube.com/watch?v=Dux2W5RiWx8&amp;list=PLY4rE9dstrJy3lH2xeXfLTH6s1g9-b56Y&amp;index=2&amp;pp=iAQB)
+### [Разработка виджетов для Figma – Часть 3](https://www.youtube.com/watch?v=AHztPnag7Zo&amp;list=PLY4rE9dstrJy3lH2xeXfLTH6s1g9-b56Y&amp;index=3&amp;pp=iAQB)

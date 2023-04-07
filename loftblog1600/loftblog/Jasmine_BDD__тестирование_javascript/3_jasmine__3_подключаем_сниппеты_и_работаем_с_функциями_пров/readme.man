@@ -1,0 +1,3 @@
+# [loftblog](https://www.youtube.com/@loftblog/playlists)
+## [Jasmine BDD - тестирование javascript](https://www.youtube.com/playlist?list=PLY4rE9dstrJwM36wcLi4we_JfhlhgYbcB)
+### [jasmine - 3 подключаем сниппеты и работаем с функциями проверки ожиданий](https://www.youtube.com/watch?v=ga6LP0vrqmY&amp;list=PLY4rE9dstrJwM36wcLi4we_JfhlhgYbcB&amp;index=3&amp;pp=iAQB)

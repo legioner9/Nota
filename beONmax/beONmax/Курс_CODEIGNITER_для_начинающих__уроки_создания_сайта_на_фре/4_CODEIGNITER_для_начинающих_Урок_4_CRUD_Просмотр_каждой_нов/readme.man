@@ -1,0 +1,3 @@
+# [beONmax](https://www.youtube.com/@beONmax/playlists)
+## [Курс CODEIGNITER для начинающих - уроки создания сайта на фреймворке](https://www.youtube.com/playlist?list=PLIMbZPmmhFav7FZiaY_cl6jKAOWgUmi09)
+### [CODEIGNITER для начинающих. Урок #4. CRUD: Просмотр каждой новости по отдельности](https://www.youtube.com/watch?v=LDePSwmqybA&amp;list=PLIMbZPmmhFav7FZiaY_cl6jKAOWgUmi09&amp;index=4&amp;pp=iAQB)

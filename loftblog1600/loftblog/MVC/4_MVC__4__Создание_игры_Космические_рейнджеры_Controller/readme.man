@@ -1,0 +1,3 @@
+# [loftblog](https://www.youtube.com/@loftblog/playlists)
+## [MVC](https://www.youtube.com/playlist?list=PLY4rE9dstrJya20WfIeVLOuof4yQk8tC_)
+### [MVC - #4 – Создание игры “Космические рейнджеры” (Controller)](https://www.youtube.com/watch?v=UvEw1gwwr6Q&amp;list=PLY4rE9dstrJya20WfIeVLOuof4yQk8tC_&amp;index=4&amp;pp=iAQB)

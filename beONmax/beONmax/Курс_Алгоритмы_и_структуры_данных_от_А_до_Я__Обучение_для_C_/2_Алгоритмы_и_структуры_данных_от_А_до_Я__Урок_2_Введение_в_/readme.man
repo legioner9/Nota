@@ -1,0 +1,3 @@
+# [beONmax](https://www.youtube.com/@beONmax/playlists)
+## [Курс Алгоритмы и структуры данных от А до Я - Обучение для C# и Java разработчиков](https://www.youtube.com/playlist?list=PLIMbZPmmhFav8cU0IwAhLHkoSV6ESQzcx)
+### [Алгоритмы и структуры данных от А до Я | Урок #2. Введение в структуры данных](https://www.youtube.com/watch?v=cF-N2c2Lm2c&amp;list=PLIMbZPmmhFav8cU0IwAhLHkoSV6ESQzcx&amp;index=2&amp;pp=iAQB)

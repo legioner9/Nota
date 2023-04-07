@@ -1,0 +1,3 @@
+# [loftblog](https://www.youtube.com/@loftblog/playlists)
+## [Пакетные менеджеры](https://www.youtube.com/playlist?list=PLY4rE9dstrJxQtN9m8W-IxAxI9PiDlXMa)
+### [Пакетный менеджер Ruby - RubyGems. Незаменимая вещь для современного веб-разработчика.](https://www.youtube.com/watch?v=3jgMBmf7Sg4&amp;list=PLY4rE9dstrJxQtN9m8W-IxAxI9PiDlXMa&amp;index=2&amp;pp=iAQB)

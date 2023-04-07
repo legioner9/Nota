@@ -1,0 +1,4 @@
+### [Git - для новичков - #1 - основы](https://www.youtube.com/watch?v=PEKN8NtBDQ0&amp;list=PLY4rE9dstrJyTdVJpv7FibSaXB4BHPInb&amp;index=1&amp;pp=iAQB)
+### [Git - для новичков - #2 - первые коммиты](https://www.youtube.com/watch?v=9d5bJc8o7MA&amp;list=PLY4rE9dstrJyTdVJpv7FibSaXB4BHPInb&amp;index=2&amp;pp=iAQB)
+### [Git - для новичков - #3 - работаем с github](https://www.youtube.com/watch?v=vFj2-bKGwkw&amp;list=PLY4rE9dstrJyTdVJpv7FibSaXB4BHPInb&amp;index=3&amp;pp=iAQB)
+### [Как начать работать с git за 10 минут](https://www.youtube.com/watch?v=f2TurkSBnYQ&amp;list=PLY4rE9dstrJyTdVJpv7FibSaXB4BHPInb&amp;index=4&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [beONmax](https://www.youtube.com/@beONmax/playlists)
+## [Курс HTML/CSS верстка с нуля на практике - уроки для начинающих](https://www.youtube.com/playlist?list=PLIMbZPmmhFat01CGwIf9lV6AjXWR8jsi9)
+### [HTML/CSS верстка с нуля на практике. Урок #4. Изучим HTML теги - div, span. Базовый синтаксис CSS](https://www.youtube.com/watch?v=e0z6JCapDek&amp;list=PLIMbZPmmhFat01CGwIf9lV6AjXWR8jsi9&amp;index=5&amp;pp=iAQB)

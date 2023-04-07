@@ -1,0 +1,3 @@
+# [From the LAMER to the Programmer](https://www.youtube.com/@FromtheLAMERtotheProgrammer/playlists)
+## [Изучаем Linux на примере UBUNTU](https://www.youtube.com/playlist?list=PL7KBbsb4oaOnEdCxwKkRDXCUNZ-gPYf89)
+### [Видео урок 6 Терминал Linux разбираем команды grep, zip, unzip, tar](https://www.youtube.com/watch?v=ixl5beydW70&amp;list=PL7KBbsb4oaOnEdCxwKkRDXCUNZ-gPYf89&amp;index=7&amp;pp=iAQB)

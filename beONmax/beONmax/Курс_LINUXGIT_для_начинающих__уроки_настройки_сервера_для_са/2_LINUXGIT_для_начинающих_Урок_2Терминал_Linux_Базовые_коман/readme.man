@@ -1,0 +1,3 @@
+# [beONmax](https://www.youtube.com/@beONmax/playlists)
+## [Курс LINUX/GIT для начинающих - уроки настройки сервера для сайта](https://www.youtube.com/playlist?list=PLIMbZPmmhFatZm-6cjMxREChLwUluxPue)
+### [LINUX/GIT для начинающих. Урок #2.Терминал Linux. Базовые команды - pwd, ls, cd, cat, mkdir, touch](https://www.youtube.com/watch?v=0K6TjIqP-k0&amp;list=PLIMbZPmmhFatZm-6cjMxREChLwUluxPue&amp;index=2&amp;pp=iAQB)

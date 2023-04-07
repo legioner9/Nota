@@ -1,0 +1,3 @@
+# [loftblog](https://www.youtube.com/@loftblog/playlists)
+## [Веб-приложения на asp.net mvc core](https://www.youtube.com/playlist?list=PLY4rE9dstrJwbcnUjiL7FKd1D4CRLIMCg)
+### [Веб-приложение на asp.net mvc core — #11 Создание Page-контроллера](https://www.youtube.com/watch?v=GOZnXROuzLA&amp;list=PLY4rE9dstrJwbcnUjiL7FKd1D4CRLIMCg&amp;index=11&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [beONmax](https://www.youtube.com/@beONmax/playlists)
+## [Курс HTML/CSS верстка с нуля на практике - уроки для начинающих](https://www.youtube.com/playlist?list=PLIMbZPmmhFat01CGwIf9lV6AjXWR8jsi9)
+### [HTML/CSS верстка с нуля на практике. Урок #2. Базовая разметка HTML - теги head, title, meta, body](https://www.youtube.com/watch?v=FOSzfDVvrxk&amp;list=PLIMbZPmmhFat01CGwIf9lV6AjXWR8jsi9&amp;index=3&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [Konstantin Vladimirov](https://www.youtube.com/@tilir/playlists)
+## [C++ базовый курс, MIPT](https://www.youtube.com/playlist?list=PL3BR09unfgciJ1_K_E914nohpiOiHnpsK)
+### [Базовый курс C++ (MIPT, ILab). Lecture 3. Имена и сущности](https://www.youtube.com/watch?v=TQ5VPnKWqoY&amp;list=PL3BR09unfgciJ1_K_E914nohpiOiHnpsK&amp;index=3&amp;pp=iAQB)

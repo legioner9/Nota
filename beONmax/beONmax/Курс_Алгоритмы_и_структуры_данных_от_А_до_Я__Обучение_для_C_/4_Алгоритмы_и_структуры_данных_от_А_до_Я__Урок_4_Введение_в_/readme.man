@@ -1,0 +1,3 @@
+# [beONmax](https://www.youtube.com/@beONmax/playlists)
+## [Курс Алгоритмы и структуры данных от А до Я - Обучение для C# и Java разработчиков](https://www.youtube.com/playlist?list=PLIMbZPmmhFav8cU0IwAhLHkoSV6ESQzcx)
+### [Алгоритмы и структуры данных от А до Я | Урок #4. Введение в анализ алгоритмов. Временная сложность](https://www.youtube.com/watch?v=c__lCnDzmio&amp;list=PLIMbZPmmhFav8cU0IwAhLHkoSV6ESQzcx&amp;index=4&amp;pp=iAQB)

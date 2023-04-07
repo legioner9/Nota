@@ -1,0 +1,3 @@
+# [loftblog](https://www.youtube.com/@loftblog/playlists)
+## [Вебинары](https://www.youtube.com/playlist?list=PLY4rE9dstrJwoSoksf2bGCZciaNH-cLEj)
+### [Морской бой // React.js+Node.js+WebSocket](https://www.youtube.com/watch?v=YV6RaVu0rtI&amp;list=PLY4rE9dstrJwoSoksf2bGCZciaNH-cLEj&amp;index=47&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [loftblog](https://www.youtube.com/@loftblog/playlists)
+## [Работа с BrowserSync](https://www.youtube.com/playlist?list=PLY4rE9dstrJxchfQOLIN2peO-G6_zNjD4)
+### [BrowserSync - #2 - Рассмотрение browser-sync API. Интеграция с gulp и sass.](https://www.youtube.com/watch?v=SyBvrg-olZk&amp;list=PLY4rE9dstrJxchfQOLIN2peO-G6_zNjD4&amp;index=2&amp;pp=iAQB)

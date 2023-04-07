@@ -1,0 +1,3 @@
+# [Masters of ${code}](https://www.youtube.com/@MastersOfCode/playlists?view=1)
+## [Kotlin уроки](https://www.youtube.com/playlist?list=PLCp7YGqt4kFoQVwuIA2hYmehbZRuvRB3m)
+### [Kotlin Уроки С Нуля | Урок № 14 | Magic 8 Ball  Решение задания | Программирование Азы](https://www.youtube.com/watch?v=mUAete3IKH4&amp;list=PLCp7YGqt4kFoQVwuIA2hYmehbZRuvRB3m&amp;index=18&amp;pp=iAQB)

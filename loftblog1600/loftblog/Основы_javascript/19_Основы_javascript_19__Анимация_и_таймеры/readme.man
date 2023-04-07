@@ -1,0 +1,3 @@
+# [loftblog](https://www.youtube.com/@loftblog/playlists)
+## [Основы javascript](https://www.youtube.com/playlist?list=PLY4rE9dstrJymG1GyPLgOKsJNq9r-p6pX)
+### [Основы javascript 19 — Анимация и таймеры](https://www.youtube.com/watch?v=-CGo9A7_oEg&amp;list=PLY4rE9dstrJymG1GyPLgOKsJNq9r-p6pX&amp;index=19&amp;pp=iAQB)

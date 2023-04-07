@@ -1,0 +1,3 @@
+# [loftblog](https://www.youtube.com/@loftblog/playlists)
+## [iOS приложения ToDo List на Swift](https://www.youtube.com/playlist?list=PLY4rE9dstrJyPbNmc1GjVUrfKjRakp-Dj)
+### [iOS приложение ToDo List на Swift. Введение](https://www.youtube.com/watch?v=lSyo8Yxl8iI&amp;list=PLY4rE9dstrJyPbNmc1GjVUrfKjRakp-Dj&amp;index=1&amp;pp=iAQB)

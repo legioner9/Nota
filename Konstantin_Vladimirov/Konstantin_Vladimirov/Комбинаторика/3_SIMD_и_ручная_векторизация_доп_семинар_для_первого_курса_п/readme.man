@@ -1,0 +1,3 @@
+# [Konstantin Vladimirov](https://www.youtube.com/@tilir/playlists)
+## [Комбинаторика](https://www.youtube.com/playlist?list=PL3BR09unfgcjDxyA_WIlx_GbCp2Ua1CdR)
+### [SIMD и ручная векторизация (доп. семинар для первого курса по языку C и алгоритмам)](https://www.youtube.com/watch?v=DHai10xqySU&amp;list=PL3BR09unfgcjDxyA_WIlx_GbCp2Ua1CdR&amp;index=3&amp;pp=iAQB)

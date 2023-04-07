@@ -1,0 +1,5 @@
+### [(3/2)-арные деревья](https://www.youtube.com/watch?v=ORy3rH9mkjA&amp;list=PL3BR09unfgcjDxyA_WIlx_GbCp2Ua1CdR&amp;index=1&amp;pp=iAQB)
+### [Матроиды (доп. семинар для первого курса по языку C и алгоритмам)](https://www.youtube.com/watch?v=roymyfCKgHg&amp;list=PL3BR09unfgcjDxyA_WIlx_GbCp2Ua1CdR&amp;index=2&amp;pp=iAQB)
+### [SIMD и ручная векторизация (доп. семинар для первого курса по языку C и алгоритмам)](https://www.youtube.com/watch?v=DHai10xqySU&amp;list=PL3BR09unfgcjDxyA_WIlx_GbCp2Ua1CdR&amp;index=3&amp;pp=iAQB)
+### [Tight pavings (доп. семинар для первого курса)](https://www.youtube.com/watch?v=sAWA55YyZZk&amp;list=PL3BR09unfgcjDxyA_WIlx_GbCp2Ua1CdR&amp;index=4&amp;pp=iAQB)
+### [Деревья-близнецы (доп. семинар для второго курса)](https://www.youtube.com/watch?v=JoaNcwBVDGE&amp;list=PL3BR09unfgcjDxyA_WIlx_GbCp2Ua1CdR&amp;index=5&amp;pp=iAQB)

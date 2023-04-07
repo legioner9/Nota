@@ -1,0 +1,3 @@
+# [loftblog](https://www.youtube.com/@loftblog/playlists)
+## [Создание динамического веб-сайта](https://www.youtube.com/playlist?list=PLY4rE9dstrJwCPkdWsDDKkYl4W3G9_Noh)
+### [DOM. Навигацию по элементам. Обработка событий](https://www.youtube.com/watch?v=KI0HOE3yyeM&amp;list=PLY4rE9dstrJwCPkdWsDDKkYl4W3G9_Noh&amp;index=9&amp;pp=iAQB)

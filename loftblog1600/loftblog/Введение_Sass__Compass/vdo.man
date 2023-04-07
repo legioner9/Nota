@@ -1,0 +1,2 @@
+### [Введение в Sass &amp; Compass - #1 - Автоматическое создание спрайта в sass с помощью compass.](https://www.youtube.com/watch?v=imehdKZMUdI&amp;list=PLY4rE9dstrJwpnXMXKDUpIcVpoTwbWCY6&amp;index=1&amp;pp=iAQB)
+### [Введение в Sass &amp; Compass - #2 - Миксины](https://www.youtube.com/watch?v=cMVWcKg1wt8&amp;list=PLY4rE9dstrJwpnXMXKDUpIcVpoTwbWCY6&amp;index=2&amp;pp=iAQB)

@@ -1,0 +1,4 @@
+### [ВЕБ-разработчик | Урок #1. О курсе. Как проходит обучение по курсу. Чему вы научитесь?](https://www.youtube.com/watch?v=EERe1AzE7fU&amp;list=PLIMbZPmmhFasbPdtGr7zmzXr1D6v3trgu&amp;index=1&amp;pp=iAQB)
+### [ВЕБ-разработчик | Урок #2. Зачем нужен этот модуль?](https://www.youtube.com/watch?v=D6e70BsI2aE&amp;list=PLIMbZPmmhFasbPdtGr7zmzXr1D6v3trgu&amp;index=2&amp;pp=iAQB)
+### [ВЕБ-разработчик | Урок #3. Классификация сайтов. Этапы создания](https://www.youtube.com/watch?v=gdwBiuDVFLA&amp;list=PLIMbZPmmhFasbPdtGr7zmzXr1D6v3trgu&amp;index=3&amp;pp=iAQB)
+### [ВЕБ-разработчик | Урок #4. Установка и настройка редактора кода Visual Studio Code](https://www.youtube.com/watch?v=rDS3SHG162o&amp;list=PLIMbZPmmhFasbPdtGr7zmzXr1D6v3trgu&amp;index=4&amp;pp=iAQB)

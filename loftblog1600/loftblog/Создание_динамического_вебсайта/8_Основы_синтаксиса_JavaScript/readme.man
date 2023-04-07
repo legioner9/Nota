@@ -1,0 +1,3 @@
+# [loftblog](https://www.youtube.com/@loftblog/playlists)
+## [Создание динамического веб-сайта](https://www.youtube.com/playlist?list=PLY4rE9dstrJwCPkdWsDDKkYl4W3G9_Noh)
+### [Основы синтаксиса JavaScript](https://www.youtube.com/watch?v=h0wIxxempxU&amp;list=PLY4rE9dstrJwCPkdWsDDKkYl4W3G9_Noh&amp;index=8&amp;pp=iAQB)

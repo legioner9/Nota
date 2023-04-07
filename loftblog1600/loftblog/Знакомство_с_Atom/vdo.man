@@ -1,0 +1,5 @@
+### [Знакомство с Atom - #1 - Первое знакомство. Установка.](https://www.youtube.com/watch?v=16qXX3vwEzg&amp;list=PLY4rE9dstrJzpFizUPSJkSZ9fgdyB4hRL&amp;index=1&amp;pp=iAQB)
+### [Знакомство с Atom - #2 - Плагины для фронтенд разработки. Установка.](https://www.youtube.com/watch?v=9hZOCQkHb4Y&amp;list=PLY4rE9dstrJzpFizUPSJkSZ9fgdyB4hRL&amp;index=2&amp;pp=iAQB)
+### [Знакомство с Atom - #3 - Настройка workflow. Препроцессоры](https://www.youtube.com/watch?v=ZtE_fsABtNc&amp;list=PLY4rE9dstrJzpFizUPSJkSZ9fgdyB4hRL&amp;index=3&amp;pp=iAQB)
+### [Знакомство с Atom - #4 - Кастомизация пользовательского интерфейса](https://www.youtube.com/watch?v=QE99_RSZgww&amp;list=PLY4rE9dstrJzpFizUPSJkSZ9fgdyB4hRL&amp;index=4&amp;pp=iAQB)
+### [Знакомство с Atom - #5 - Создание собственного плагина.](https://www.youtube.com/watch?v=LqCVgVzEhWE&amp;list=PLY4rE9dstrJzpFizUPSJkSZ9fgdyB4hRL&amp;index=5&amp;pp=iAQB)

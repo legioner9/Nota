@@ -1,0 +1,4 @@
+### [Инструменты ВЕБ-разработчика | Урок #1. Чему вы научитесь на курсе?](https://www.youtube.com/watch?v=5FZeJf9U9Lg&amp;list=PLIMbZPmmhFatdqMyYOwn78rQGjjZxLaAc&amp;index=1&amp;pp=iAQB)
+### [Инструменты ВЕБ-разработчика | Урок #2. Введение. Как устроен курс и проходит обучение?](https://www.youtube.com/watch?v=NbrxJfyY8Z0&amp;list=PLIMbZPmmhFatdqMyYOwn78rQGjjZxLaAc&amp;index=2&amp;pp=iAQB)
+### [Инструменты ВЕБ-разработчика | Урок #3. Составляющие сайта](https://www.youtube.com/watch?v=SxPZhzgl0q4&amp;list=PLIMbZPmmhFatdqMyYOwn78rQGjjZxLaAc&amp;index=3&amp;pp=iAQB)
+### [Инструменты ВЕБ-разработчика | Урок #4. Хостинг](https://www.youtube.com/watch?v=8oM8pn8GSis&amp;list=PLIMbZPmmhFatdqMyYOwn78rQGjjZxLaAc&amp;index=4&amp;pp=iAQB)

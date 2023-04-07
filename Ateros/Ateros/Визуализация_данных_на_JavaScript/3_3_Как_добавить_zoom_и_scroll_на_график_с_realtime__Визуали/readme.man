@@ -1,0 +1,3 @@
+# [Ateros](https://www.youtube.com/@_ateros/playlists)
+## [Визуализация данных на JavaScript](https://www.youtube.com/playlist?list=PLfSrF_YWov8ZmIYAPXSkpi-kFXupw7gXa)
+### [[#3] Как добавить zoom и scroll, на график с real-time | Визуализация данных на JavaScript](https://www.youtube.com/watch?v=1yS_-njRSNI&amp;list=PLfSrF_YWov8ZmIYAPXSkpi-kFXupw7gXa&amp;index=3&amp;pp=iAQB)

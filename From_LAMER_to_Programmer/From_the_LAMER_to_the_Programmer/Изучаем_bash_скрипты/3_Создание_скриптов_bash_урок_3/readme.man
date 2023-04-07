@@ -1,0 +1,3 @@
+# [From the LAMER to the Programmer](https://www.youtube.com/@FromtheLAMERtotheProgrammer/playlists)
+## [Изучаем bash скрипты](https://www.youtube.com/playlist?list=PL7KBbsb4oaOnz1FOlCDof2oSgEE-YDywp)
+### [Создание скриптов bash урок #3](https://www.youtube.com/watch?v=_wrDQ-g70Kw&amp;list=PL7KBbsb4oaOnz1FOlCDof2oSgEE-YDywp&amp;index=3&amp;pp=iAQB)

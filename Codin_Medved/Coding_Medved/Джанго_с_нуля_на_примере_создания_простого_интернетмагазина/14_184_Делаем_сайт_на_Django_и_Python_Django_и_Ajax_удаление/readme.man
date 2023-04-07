@@ -1,0 +1,3 @@
+# [Coding Medved](https://www.youtube.com/@codingmedved9026/playlists)
+## [Джанго с нуля на примере создания простого интернет-магазина](https://www.youtube.com/playlist?list=PLSWnD6rL-m9adebgpvvOLH5ASGJiznWdg)
+### [1.8.4 Делаем сайт на Django и Python: Django и Ajax: удаление товаров из корзины](https://www.youtube.com/watch?v=xYb8Nk2bEi8&amp;list=PLSWnD6rL-m9adebgpvvOLH5ASGJiznWdg&amp;index=14&amp;pp=iAQB)

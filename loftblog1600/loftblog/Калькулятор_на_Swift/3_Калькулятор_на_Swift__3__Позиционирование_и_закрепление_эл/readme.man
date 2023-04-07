@@ -1,0 +1,3 @@
+# [loftblog](https://www.youtube.com/@loftblog/playlists)
+## [Калькулятор на Swift](https://www.youtube.com/playlist?list=PLY4rE9dstrJyg-62QD18tKP4vOxmUtl_y)
+### [Калькулятор на Swift - #3 - Позиционирование и закрепление элементов интерфейса](https://www.youtube.com/watch?v=sD6uq7neoJE&amp;list=PLY4rE9dstrJyg-62QD18tKP4vOxmUtl_y&amp;index=3&amp;pp=iAQB)

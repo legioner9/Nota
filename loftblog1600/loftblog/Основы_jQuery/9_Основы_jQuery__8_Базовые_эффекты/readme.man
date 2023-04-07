@@ -1,0 +1,3 @@
+# [loftblog](https://www.youtube.com/@loftblog/playlists)
+## [Основы jQuery](https://www.youtube.com/playlist?list=PLY4rE9dstrJxST3xftg5kSCQdUB8hvj4S)
+### [Основы jQuery - 8 Базовые эффекты](https://www.youtube.com/watch?v=I6Y9Q7TIyZw&amp;list=PLY4rE9dstrJxST3xftg5kSCQdUB8hvj4S&amp;index=9&amp;pp=iAQB)

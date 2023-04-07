@@ -1,0 +1,3 @@
+# [loftblog](https://www.youtube.com/@loftblog/playlists)
+## [Крестики нолики / WEBSOCKET](https://www.youtube.com/playlist?list=PLY4rE9dstrJzdcGkXXlXElCw3Y6sf7dsh)
+### [Поиграем в крестики нолики через WebSocket](https://www.youtube.com/watch?v=QxqF3jdHGtQ&amp;list=PLY4rE9dstrJzdcGkXXlXElCw3Y6sf7dsh&amp;index=1&amp;pp=iAQB)

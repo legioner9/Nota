@@ -1,0 +1,4 @@
+### [WORDPRESS - Посадка верстки и создание тем | Урок #1. О курсе. Как проходит обучение по курсу.](https://www.youtube.com/watch?v=SRvkh5ScQfc&amp;list=PLIMbZPmmhFatqrpmWopzGvdFN2-4tpxX7&amp;index=1&amp;pp=iAQB)
+### [WORDPRESS - Посадка верстки и создание тем | Урок #2. Как будет строится работа на курсе. 1-й модуль](https://www.youtube.com/watch?v=gOOll7_Yyd8&amp;list=PLIMbZPmmhFatqrpmWopzGvdFN2-4tpxX7&amp;index=2&amp;pp=iAQB)
+### [WORDPRESS - Посадка верстки и создание тем | Урок #3. Системы управления сайтами. CMS WordPress](https://www.youtube.com/watch?v=7ujB9PAGpv4&amp;list=PLIMbZPmmhFatqrpmWopzGvdFN2-4tpxX7&amp;index=3&amp;pp=iAQB)
+### [WORDPRESS - Посадка верстки и создание тем | Урок #4. Настройка рабочей среды](https://www.youtube.com/watch?v=Q9age8NCQYc&amp;list=PLIMbZPmmhFatqrpmWopzGvdFN2-4tpxX7&amp;index=4&amp;pp=iAQB)

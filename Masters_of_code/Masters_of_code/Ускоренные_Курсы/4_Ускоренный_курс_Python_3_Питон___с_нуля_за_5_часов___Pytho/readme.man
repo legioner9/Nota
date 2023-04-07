@@ -1,0 +1,3 @@
+# [Masters of ${code}](https://www.youtube.com/@MastersOfCode/playlists?view=1)
+## [Ускоренные Курсы](https://www.youtube.com/playlist?list=PLCp7YGqt4kFpzVAUaJT2IWVzU3rEo0ipD)
+### [Ускоренный курс Python 3 (Питон) 🐍 - с нуля за 5 часов 👍 | Python 3 Уроки Для Начинающих](https://www.youtube.com/watch?v=Rpf63XT5XLI&amp;list=PLCp7YGqt4kFpzVAUaJT2IWVzU3rEo0ipD&amp;index=4&amp;pp=iAQB)

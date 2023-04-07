@@ -1,0 +1,3 @@
+### [Пакетный менеджер PHP - Composer. Ускоряйся !](https://www.youtube.com/watch?v=M4a88QyKjT8&amp;list=PLY4rE9dstrJxQtN9m8W-IxAxI9PiDlXMa&amp;index=1&amp;pp=iAQB)
+### [Пакетный менеджер Ruby - RubyGems. Незаменимая вещь для современного веб-разработчика.](https://www.youtube.com/watch?v=3jgMBmf7Sg4&amp;list=PLY4rE9dstrJxQtN9m8W-IxAxI9PiDlXMa&amp;index=2&amp;pp=iAQB)
+### [Npm - пакетный менеджер Node.js. Бездонный ящик с инструментами.](https://www.youtube.com/watch?v=G4HmqOR0b8Q&amp;list=PLY4rE9dstrJxQtN9m8W-IxAxI9PiDlXMa&amp;index=3&amp;pp=iAQB)

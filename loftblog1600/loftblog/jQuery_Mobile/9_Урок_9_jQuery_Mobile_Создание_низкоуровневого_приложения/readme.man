@@ -1,0 +1,3 @@
+# [loftblog](https://www.youtube.com/@loftblog/playlists)
+## [jQuery Mobile](https://www.youtube.com/playlist?list=PLY4rE9dstrJwvqCsoNNlD59-dBbWfDltR)
+### [Урок №9 jQuery Mobile. Создание низкоуровневого приложения.](https://www.youtube.com/watch?v=fUg8JicCvfc&amp;list=PLY4rE9dstrJwvqCsoNNlD59-dBbWfDltR&amp;index=9&amp;pp=iAQB)

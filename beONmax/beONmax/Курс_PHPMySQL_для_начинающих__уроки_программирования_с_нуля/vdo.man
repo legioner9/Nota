@@ -1,0 +1,7 @@
+### [PHP/MySQL для начинающих. Урок #1. Установка PHP и настройка веб-сервера XAMPP](https://www.youtube.com/watch?v=5h3-ntaoN5s&amp;list=PLIMbZPmmhFasVpPBdfeJ0fNDT8ptgXIlT&amp;index=1&amp;pp=iAQB)
+### [PHP/MySQL для начинающих. Урок #2. Настройка виртуального хоста (Virtual Host) в XAMPP](https://www.youtube.com/watch?v=LRwTBhAW_Vs&amp;list=PLIMbZPmmhFasVpPBdfeJ0fNDT8ptgXIlT&amp;index=2&amp;pp=iAQB)
+### [PHP/MySQL для начинающих. Урок #3. Переменные в PHP](https://www.youtube.com/watch?v=usi8kfPg_bM&amp;list=PLIMbZPmmhFasVpPBdfeJ0fNDT8ptgXIlT&amp;index=3&amp;pp=iAQB)
+### [PHP/MySQL для начинающих. Урок #4. Типы переменных и константы в PHP](https://www.youtube.com/watch?v=3nzvx9d5CiU&amp;list=PLIMbZPmmhFasVpPBdfeJ0fNDT8ptgXIlT&amp;index=4&amp;pp=iAQB)
+### [PHP/MySQL для начинающих. Урок #5. Ветвления. Условные операторы if else в PHP](https://www.youtube.com/watch?v=J5Jd0057aB0&amp;list=PLIMbZPmmhFasVpPBdfeJ0fNDT8ptgXIlT&amp;index=5&amp;pp=iAQB)
+### [PHP/MySQL для начинающих. Урок #6. Ветвления. Условные операторы Switch case в PHP](https://www.youtube.com/watch?v=_3Jkgu0QU84&amp;list=PLIMbZPmmhFasVpPBdfeJ0fNDT8ptgXIlT&amp;index=6&amp;pp=iAQB)
+### [PHP/MySQL для начинающих. Урок #7. Циклы в PHP. Цикл while](https://www.youtube.com/watch?v=Mu8nSO8br80&amp;list=PLIMbZPmmhFasVpPBdfeJ0fNDT8ptgXIlT&amp;index=7&amp;pp=iAQB)

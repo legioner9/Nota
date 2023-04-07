@@ -1,0 +1,3 @@
+# [loftblog](https://www.youtube.com/@loftblog/playlists)
+## [Курс "Разработка SPA с доменом и хостингом в облаке"](https://www.youtube.com/playlist?list=PLY4rE9dstrJy-Z6429_0kG7ml--_NEKQp)
+### [7 урок. Ставим необходимые пакеты:](https://www.youtube.com/watch?v=4yxoq5wQITI&amp;list=PLY4rE9dstrJy-Z6429_0kG7ml--_NEKQp&amp;index=7&amp;pp=iAQB)

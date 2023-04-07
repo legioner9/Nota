@@ -1,0 +1,3 @@
+# [loftblog](https://www.youtube.com/@loftblog/playlists)
+## [Разработка Android приложения](https://www.youtube.com/playlist?list=PLY4rE9dstrJxkDQdEJnSpyeY0ZemkJ2lo)
+### [Вебинар &quot;Переворот экрана и сохранение состояния&quot;](https://www.youtube.com/watch?v=Ld6Z4ed-wNE&amp;list=PLY4rE9dstrJxkDQdEJnSpyeY0ZemkJ2lo&amp;index=7&amp;pp=iAQB)

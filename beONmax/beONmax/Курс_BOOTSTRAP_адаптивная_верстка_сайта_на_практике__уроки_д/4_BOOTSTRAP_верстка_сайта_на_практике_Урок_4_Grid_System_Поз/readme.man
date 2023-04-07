@@ -1,0 +1,3 @@
+# [beONmax](https://www.youtube.com/@beONmax/playlists)
+## [Курс BOOTSTRAP адаптивная верстка сайта на практике - уроки для начинающих](https://www.youtube.com/playlist?list=PLIMbZPmmhFauZhoshRd1tn5u3rWs46SaL)
+### [BOOTSTRAP верстка сайта на практике. Урок #4. Grid System. Позиционирование блоков](https://www.youtube.com/watch?v=PRZ3-fW_x2s&amp;list=PLIMbZPmmhFauZhoshRd1tn5u3rWs46SaL&amp;index=4&amp;pp=iAQB)

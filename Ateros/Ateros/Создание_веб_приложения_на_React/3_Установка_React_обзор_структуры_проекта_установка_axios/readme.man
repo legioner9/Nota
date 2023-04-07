@@ -1,0 +1,3 @@
+# [Ateros](https://www.youtube.com/@_ateros/playlists)
+## [Создание веб приложения на React](https://www.youtube.com/playlist?list=PLfSrF_YWov8ZElauVxs5FivTKasXvmMkH)
+### [Установка React, обзор структуры проекта (+установка axios)](https://www.youtube.com/watch?v=8DIXP9G4GJU&amp;list=PLfSrF_YWov8ZElauVxs5FivTKasXvmMkH&amp;index=3&amp;pp=iAQB)

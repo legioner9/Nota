@@ -1,0 +1,7 @@
+### [Шаблонизатор PUG/JADE для HTML | Урок #1. Введение](https://www.youtube.com/watch?v=ZLMoyAHNZZQ&amp;list=PLIMbZPmmhFauH0nOz7smU9r_jQGBV2umv&amp;index=1&amp;pp=iAQB)
+### [Шаблонизатор PUG/JADE для HTML | Урок #2. Настройка среды разработки для Pug](https://www.youtube.com/watch?v=KC_pfLzdXsc&amp;list=PLIMbZPmmhFauH0nOz7smU9r_jQGBV2umv&amp;index=2&amp;pp=iAQB)
+### [Шаблонизатор PUG/JADE для HTML | Урок #3. Быстрые теги HTML и вложенность](https://www.youtube.com/watch?v=peE75HmM0vM&amp;list=PLIMbZPmmhFauH0nOz7smU9r_jQGBV2umv&amp;index=3&amp;pp=iAQB)
+### [Шаблонизатор PUG/JADE для HTML | Урок #4. Работа с текстом внутри тегов](https://www.youtube.com/watch?v=u95RARrhJk8&amp;list=PLIMbZPmmhFauH0nOz7smU9r_jQGBV2umv&amp;index=4&amp;pp=iAQB)
+### [Шаблонизатор PUG/JADE для HTML | Урок #5. Быстрое добавление классов и идентификаторов](https://www.youtube.com/watch?v=WPtfUQ3CMWs&amp;list=PLIMbZPmmhFauH0nOz7smU9r_jQGBV2umv&amp;index=5&amp;pp=iAQB)
+### [Шаблонизатор PUG/JADE для HTML | Урок #6. Расширенная работа с атрибутами](https://www.youtube.com/watch?v=mc4KkM7wLgw&amp;list=PLIMbZPmmhFauH0nOz7smU9r_jQGBV2umv&amp;index=6&amp;pp=iAQB)
+### [Шаблонизатор PUG/JADE для HTML | Урок #7. Создание базовой структуры HTML-документа](https://www.youtube.com/watch?v=LU4ptaUgxE0&amp;list=PLIMbZPmmhFauH0nOz7smU9r_jQGBV2umv&amp;index=7&amp;pp=iAQB)

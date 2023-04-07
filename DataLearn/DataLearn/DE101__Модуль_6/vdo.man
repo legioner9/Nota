@@ -1,0 +1,8 @@
+### [DATALEARN | DE - 101 | МОДУЛЬ 6-1 ВВЕДЕНИЕ](https://www.youtube.com/watch?v=yxNjsrePuqo&amp;list=PLkcP_moW_BpPWPFzTXsHQIbL4OafJHZCm&amp;index=1&amp;pp=iAQB)
+### [DATALEARN | DE - 101 | МОДУЛЬ 6-2 ЧТО ТАКОЕ АНАЛИТИЧЕСКОЕ ХРАНИЛИЩЕ ДАННЫХ](https://www.youtube.com/watch?v=JuQCUGUWqgU&amp;list=PLkcP_moW_BpPWPFzTXsHQIbL4OafJHZCm&amp;index=2&amp;pp=iAQB)
+### [DATALEARN | DE - 101 | МОДУЛЬ 6-3 ЗНАКОМСТВО С AMAZON REDSHIFT](https://www.youtube.com/watch?v=K0TOh-Pl3q0&amp;list=PLkcP_moW_BpPWPFzTXsHQIbL4OafJHZCm&amp;index=3&amp;pp=iAQB)
+### [DATALEARN | DE - 101 | МОДУЛЬ 6-4 ЗНАКОМСТВО С AZURE SYNAPSE ANALYTICS (AZURE DATAWAREHOUSE)](https://www.youtube.com/watch?v=gQAGa3xZr_M&amp;list=PLkcP_moW_BpPWPFzTXsHQIbL4OafJHZCm&amp;index=4&amp;pp=iAQB)
+### [DATALEARN | DE - 101 | МОДУЛЬ 6-5 ЗНАКОМСТВО С SNOWFLAKE - THE ELASTIC DATA WAREHOUSE](https://www.youtube.com/watch?v=CzrOa15QbWk&amp;list=PLkcP_moW_BpPWPFzTXsHQIbL4OafJHZCm&amp;index=5&amp;pp=iAQB)
+### [DATALEARN | DE - 101 | МОДУЛЬ 6-6 ЗНАКОМСТВО С СОВРЕМЕННЫМИ РЕШЕНИЯМИ ETL/ELT](https://www.youtube.com/watch?v=4PA6IPO4P1A&amp;list=PLkcP_moW_BpPWPFzTXsHQIbL4OafJHZCm&amp;index=6&amp;pp=iAQB)
+### [DATALEARN | DE - 101 | МОДУЛЬ 6-7 РЕШЕНИЯ ОПЕРАЦИОННОЙ АНАЛИТИКИ](https://www.youtube.com/watch?v=uDwgJGYI8Mw&amp;list=PLkcP_moW_BpPWPFzTXsHQIbL4OafJHZCm&amp;index=7&amp;pp=iAQB)
+### [DATALEARN | DE - 101 | МОДУЛЬ 6-8 ОБЗОР ВАКАНСИЙ ДАТА ИНЖЕНЕРА (DATA ENGINEER) ПО ВСЕМУ МИРУ](https://www.youtube.com/watch?v=xXpoegKJUYU&amp;list=PLkcP_moW_BpPWPFzTXsHQIbL4OafJHZCm&amp;index=8&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [loftblog](https://www.youtube.com/@loftblog/playlists)
+## [Вебинар - курс по Android](https://www.youtube.com/playlist?list=PLY4rE9dstrJzX-RR82UUOSxg3zaii-_bg)
+### [Сравнение библиотек Picasso и Glide](https://www.youtube.com/watch?v=S9EzP6RkchA&amp;list=PLY4rE9dstrJzX-RR82UUOSxg3zaii-_bg&amp;index=1&amp;pp=iAQB)

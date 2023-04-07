@@ -1,0 +1,3 @@
+# [loftblog](https://www.youtube.com/@loftblog/playlists)
+## [Go / Golang](https://www.youtube.com/playlist?list=PLY4rE9dstrJxuKKPNdVUojnN3lD-hXy2R)
+### [Golang: Image Generator - server](https://www.youtube.com/watch?v=8okDA5nUESw&amp;list=PLY4rE9dstrJxuKKPNdVUojnN3lD-hXy2R&amp;index=1&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [loftblog](https://www.youtube.com/@loftblog/playlists)
+## [Введение в Python](https://www.youtube.com/playlist?list=PLY4rE9dstrJx_hAV4O5ygS9GM69cuOF26)
+### [Введение в Python - #2 - Понятие переменной, начало знакомства с типами данных в Python](https://www.youtube.com/watch?v=iVUH9_A7fmU&amp;list=PLY4rE9dstrJx_hAV4O5ygS9GM69cuOF26&amp;index=2&amp;pp=iAQB)

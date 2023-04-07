@@ -1,0 +1,4 @@
+### [LBMM #1 - Сергей Мелюков, современные Single Page Application](https://www.youtube.com/watch?v=qjny5dhyhFE&amp;list=PLY4rE9dstrJyUq5sVmFR0QFd6p9Nt9nIi&amp;index=1&amp;pp=iAQB)
+### [LBMM #2 - Александр Каменяр, Превращение бизнес-задачи в UI](https://www.youtube.com/watch?v=5LQ1T_-Qlug&amp;list=PLY4rE9dstrJyUq5sVmFR0QFd6p9Nt9nIi&amp;index=2&amp;pp=iAQB)
+### [LBMM #3 - Дарья Пушкарская, Сколько времени нужно на изучение новой технологии?](https://www.youtube.com/watch?v=RiSJtfw0kmI&amp;list=PLY4rE9dstrJyUq5sVmFR0QFd6p9Nt9nIi&amp;index=3&amp;pp=iAQB)
+### [LBMM #4 - Я. Саверин, В. Галахов, Собственная система прототипирования на основе веб-компонентов](https://www.youtube.com/watch?v=2Mp6DD-gUjU&amp;list=PLY4rE9dstrJyUq5sVmFR0QFd6p9Nt9nIi&amp;index=4&amp;pp=iAQB)

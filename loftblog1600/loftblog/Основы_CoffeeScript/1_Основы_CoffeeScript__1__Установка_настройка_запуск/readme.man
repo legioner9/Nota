@@ -1,0 +1,3 @@
+# [loftblog](https://www.youtube.com/@loftblog/playlists)
+## [Основы CoffeeScript](https://www.youtube.com/playlist?list=PLY4rE9dstrJxBMUqGXs3UTbyRx58GWg5n)
+### [Основы CoffeeScript - #1 - Установка, настройка, запуск.](https://www.youtube.com/watch?v=K3WnNtdCGwY&amp;list=PLY4rE9dstrJxBMUqGXs3UTbyRx58GWg5n&amp;index=1&amp;pp=iAQB)

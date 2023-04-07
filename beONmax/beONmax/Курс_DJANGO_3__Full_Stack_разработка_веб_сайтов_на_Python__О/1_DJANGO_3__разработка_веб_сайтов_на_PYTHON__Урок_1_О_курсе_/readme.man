@@ -1,0 +1,3 @@
+# [beONmax](https://www.youtube.com/@beONmax/playlists)
+## [Курс DJANGO 3 - Full Stack разработка веб сайтов на Python - Обучение Django с нуля](https://www.youtube.com/playlist?list=PLIMbZPmmhFatqClqIYJTCufXZVLIj6rEk)
+### [DJANGO 3 - разработка веб сайтов на PYTHON | Урок #1. О курсе. Чему вы научитесь](https://www.youtube.com/watch?v=6Os3Hk93YlY&amp;list=PLIMbZPmmhFatqClqIYJTCufXZVLIj6rEk&amp;index=1&amp;pp=iAQB)

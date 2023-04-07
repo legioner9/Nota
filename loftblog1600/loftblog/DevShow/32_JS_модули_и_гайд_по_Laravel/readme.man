@@ -1,0 +1,3 @@
+# [loftblog](https://www.youtube.com/@loftblog/playlists)
+## [DevShow](https://www.youtube.com/playlist?list=PLY4rE9dstrJxL8Jaa9XMfX5ORwjdiv_ya)
+### [JS модули и гайд по Laravel](https://www.youtube.com/watch?v=TJ9E5WhBFPE&amp;list=PLY4rE9dstrJxL8Jaa9XMfX5ORwjdiv_ya&amp;index=32&amp;pp=iAQB)

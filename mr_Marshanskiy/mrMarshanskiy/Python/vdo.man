@@ -1,0 +1,4 @@
+### [Настройка сервера для Django 🔥 Git, Nginx, Gunicorn, PostgreSQL, домен, SSL-сертификат](https://www.youtube.com/watch?v=Qvtr7es5dpc&amp;list=PLNqpSxWyl1hc6lAcXMHml1nxHHWU5b73f&amp;index=1&amp;pp=iAQB)
+### [Перенос PyCharm с сохранением всех настроек](https://www.youtube.com/watch?v=jpYjqRk9uGw&amp;list=PLNqpSxWyl1hc6lAcXMHml1nxHHWU5b73f&amp;index=2&amp;pp=iAQB)
+### [Проверка День Рождения в диапазоне дат | Django ORM | Работа с DateField](https://www.youtube.com/watch?v=UptxYI3X9I8&amp;list=PLNqpSxWyl1hc6lAcXMHml1nxHHWU5b73f&amp;index=3&amp;pp=iAQB)
+### [Python + Google Calendar API  + Service Account](https://www.youtube.com/watch?v=zAUv09DzrK4&amp;list=PLNqpSxWyl1hc6lAcXMHml1nxHHWU5b73f&amp;index=4&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [Neco Ru](https://www.youtube.com/@NecoRuChannel/playlists)
+## [Игра Рулетка на Kotlin (Jetpack Compose)](https://www.youtube.com/playlist?list=PLmjT2NFTgg1cdLPicXNAb2IQaC3mo74rb)
+### [Простая Игра Рулетка на Jetpack Compose + Kotlin + Android Studio | #1](https://www.youtube.com/watch?v=BoVmq24wRGE&amp;list=PLmjT2NFTgg1cdLPicXNAb2IQaC3mo74rb&amp;index=1&amp;pp=iAQB)

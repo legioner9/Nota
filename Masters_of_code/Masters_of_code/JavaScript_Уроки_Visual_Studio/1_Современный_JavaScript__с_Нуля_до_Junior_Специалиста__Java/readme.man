@@ -1,0 +1,3 @@
+# [Masters of ${code}](https://www.youtube.com/@MastersOfCode/playlists?view=1)
+## [JavaScript Уроки Visual Studio](https://www.youtube.com/playlist?list=PLCp7YGqt4kFrqqgjk7PwrG3QUB4pSGL97)
+### [Современный JavaScript - с Нуля до Junior Специалиста | JavaScript Уроки Visual Studio](https://www.youtube.com/watch?v=K5r2kdJAAaE&amp;list=PLCp7YGqt4kFrqqgjk7PwrG3QUB4pSGL97&amp;index=1&amp;pp=iAQB)

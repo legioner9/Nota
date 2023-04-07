@@ -1,0 +1,3 @@
+# [loftblog](https://www.youtube.com/@loftblog/playlists)
+## [Основы Python](https://www.youtube.com/playlist?list=PLY4rE9dstrJwmHGhM-IA98GZf6I--4hKi)
+### [Python #2 - Списки и кортежи](https://www.youtube.com/watch?v=I_2J07cv_q0&amp;list=PLY4rE9dstrJwmHGhM-IA98GZf6I--4hKi&amp;index=2&amp;pp=iAQB)

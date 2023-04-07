@@ -1,0 +1,5 @@
+### [Angular курс - #1 - Как начать работать (script tag)](https://www.youtube.com/watch?v=IEFgUtVN3vw&amp;list=PLY4rE9dstrJzlDoCDCKmgD-xv8VwECOtc&amp;index=1&amp;pp=iAQB)
+### [Angular курс - #2 - Как начать работать (plnkr.co)](https://www.youtube.com/watch?v=5erfEjCCClM&amp;list=PLY4rE9dstrJzlDoCDCKmgD-xv8VwECOtc&amp;index=2&amp;pp=iAQB)
+### [Angular курс - #3 - Как начать работать (System.js)](https://www.youtube.com/watch?v=EYk2Sq2v8ak&amp;list=PLY4rE9dstrJzlDoCDCKmgD-xv8VwECOtc&amp;index=3&amp;pp=iAQB)
+### [Angular курс - #4 - Как начать работать (Angular CLI)](https://www.youtube.com/watch?v=poxZv_9cPfg&amp;list=PLY4rE9dstrJzlDoCDCKmgD-xv8VwECOtc&amp;index=4&amp;pp=iAQB)
+### [Angular курс - #5 - Как начать работать (Angular Class Webpack)](https://www.youtube.com/watch?v=coeoyyptiAA&amp;list=PLY4rE9dstrJzlDoCDCKmgD-xv8VwECOtc&amp;index=5&amp;pp=iAQB)
