@@ -1,0 +1,2 @@
+### [Gulp настройка установка плагины. Пошаговая инструкция по настройке сборки Gulp 4 для верстки сайтов](https://www.youtube.com/watch?v=stFOy0Noahg&amp;list=PLM6XATa8CAG5r23rupAHv2g9cq-NUv_Ux&amp;index=1&amp;pp=iAQB)
+### [GULP 2022 установка настройка плагины. Подробный курс по настройке галпа для быстрой сборки проекта](https://www.youtube.com/watch?v=jU88mLuLWlk&amp;list=PLM6XATa8CAG5r23rupAHv2g9cq-NUv_Ux&amp;index=2&amp;pp=iAQB)

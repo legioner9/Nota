@@ -1,0 +1,3 @@
+# [Фриланс прокачка](https://www.youtube.com/@freelance-pro/playlists)
+## [Курс для новичка по webflow](https://www.youtube.com/playlist?list=PLb25rCxggZ7LaoN1ktwBtEm-OcYCk7yzf)
+### [Работа с DIV блоками, отступы, позиционирование и стилизация элементов на webflow, урок №3](https://www.youtube.com/watch?v=O3EcpevphN0&amp;list=PLb25rCxggZ7LaoN1ktwBtEm-OcYCk7yzf&amp;index=3&amp;pp=iAQB)

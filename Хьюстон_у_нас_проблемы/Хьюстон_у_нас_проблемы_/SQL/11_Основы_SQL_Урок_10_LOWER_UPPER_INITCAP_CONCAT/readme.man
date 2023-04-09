@@ -1,0 +1,3 @@
+# [Хьюстон у нас проблемы !](https://www.youtube.com/@HSTNproblem/playlists)
+## [SQL](https://www.youtube.com/playlist?list=PLV_vplloSltFIpMVTQgaf3IfJpc93x8av)
+### [Основы SQL. Урок 10. LOWER, UPPER, INITCAP, CONCAT.](https://www.youtube.com/watch?v=y9Hd1V4-hJ4&amp;list=PLV_vplloSltFIpMVTQgaf3IfJpc93x8av&amp;index=11&amp;pp=iAQB)

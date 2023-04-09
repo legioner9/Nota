@@ -1,0 +1,3 @@
+# [Хороший программист](https://www.youtube.com/@goodprogrammer/playlists?view=1)
+## [Мастерклассы](https://www.youtube.com/playlist?list=PL87kYOx0cUgglR2MUtGtoxKYz3Odcsg2y)
+### [Онлайн-чат на Ruby on Rails 7 с помощью Hotwire ⚡](https://www.youtube.com/watch?v=Ji567_hkgg0&amp;list=PL87kYOx0cUgglR2MUtGtoxKYz3Odcsg2y&amp;index=1&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [Тимофей Хирьянов](https://www.youtube.com/@tkhirianov/playlistsa)
+## [2017-2018 ООП на С++14](https://www.youtube.com/playlist?list=PLRDzFCPr95fItmofHO4KuGjfGtbQtEj-x)
+### [ООП на С++14, лекция 3](https://www.youtube.com/watch?v=GpLS7DHsVi0&amp;list=PLRDzFCPr95fItmofHO4KuGjfGtbQtEj-x&amp;index=3&amp;pp=iAQB)

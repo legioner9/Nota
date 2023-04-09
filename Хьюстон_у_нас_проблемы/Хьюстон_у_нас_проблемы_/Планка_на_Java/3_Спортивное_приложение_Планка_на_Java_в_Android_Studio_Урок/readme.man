@@ -1,0 +1,3 @@
+# [Хьюстон у нас проблемы !](https://www.youtube.com/@HSTNproblem/playlists)
+## [Планка на Java.](https://www.youtube.com/playlist?list=PLV_vplloSltHSUctnzggl4yfZEc6gvArM)
+### [Спортивное приложение Планка на Java в Android Studio. Урок 01_1. Рефакторинг, фиксим баги.](https://www.youtube.com/watch?v=NUYIl7giBwo&amp;list=PLV_vplloSltHSUctnzggl4yfZEc6gvArM&amp;index=3&amp;pp=iAQB)

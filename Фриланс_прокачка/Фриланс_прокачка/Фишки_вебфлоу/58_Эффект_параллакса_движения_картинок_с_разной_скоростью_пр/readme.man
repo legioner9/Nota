@@ -1,0 +1,3 @@
+# [Фриланс прокачка](https://www.youtube.com/@freelance-pro/playlists)
+## [Фишки вебфлоу](https://www.youtube.com/playlist?list=PLb25rCxggZ7I1Ku3s-eE9BhhHjXsmPp8w)
+### [Эффект параллакса, движения картинок с разной скоростью при скролле страницы. Webflow parallax](https://www.youtube.com/watch?v=fpiu7zNYPQ4&amp;list=PLb25rCxggZ7I1Ku3s-eE9BhhHjXsmPp8w&amp;index=58&amp;pp=iAQB)

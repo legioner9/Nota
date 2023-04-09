@@ -1,0 +1,3 @@
+# [Фриланс прокачка](https://www.youtube.com/@freelance-pro/playlists)
+## [Курс для новичка по webflow](https://www.youtube.com/playlist?list=PLb25rCxggZ7LaoN1ktwBtEm-OcYCk7yzf)
+### [Делаем универсальный первый (главный) экран сайта на webflow. Лучший вариант hero section. Урок №6](https://www.youtube.com/watch?v=xAJVSu9TPi0&amp;list=PLb25rCxggZ7LaoN1ktwBtEm-OcYCk7yzf&amp;index=6&amp;pp=iAQB)

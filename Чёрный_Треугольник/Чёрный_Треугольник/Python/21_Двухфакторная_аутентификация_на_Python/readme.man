@@ -1,0 +1,3 @@
+# [Чёрный Треугольник](https://www.youtube.com/@Black_Triangle/playlists)
+## [Python](https://www.youtube.com/playlist?list=PLLqKATfceKNuX2Hc3CBmD5Yk4PIHgIaWx)
+### [Двухфакторная аутентификация на Python](https://www.youtube.com/watch?v=yjCN47bK41U&amp;list=PLLqKATfceKNuX2Hc3CBmD5Yk4PIHgIaWx&amp;index=21&amp;pp=iAQB)

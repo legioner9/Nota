@@ -1,0 +1,4 @@
+### [Как понять, кто твой пользователь?](https://www.youtube.com/watch?v=BsoX6yFuZxI&amp;list=PLIb4jh0gYNwU1frXtJhwJlt0tsWaGmoT4&amp;index=1&amp;pp=iAQB)
+### [WNB #1: «Создание инфраструктуры для вашего проекта с помощью Yeoman», Михаил Ларченко](https://www.youtube.com/watch?v=LieMUGWdYYk&amp;list=PLIb4jh0gYNwU1frXtJhwJlt0tsWaGmoT4&amp;index=2&amp;pp=iAQB)
+### [Пора начать говорить! Карьера в IT. Доклад на конференции Career Day 2021](https://www.youtube.com/watch?v=7X_vqXIFp_Y&amp;list=PLIb4jh0gYNwU1frXtJhwJlt0tsWaGmoT4&amp;index=3&amp;pp=iAQB)
+### [&quot;Тестирование изоморфных React приложений.&quot; Михаил Ларченко, func2015](https://www.youtube.com/watch?v=0eVp__0cjqA&amp;list=PLIb4jh0gYNwU1frXtJhwJlt0tsWaGmoT4&amp;index=4&amp;pp=iAQB)

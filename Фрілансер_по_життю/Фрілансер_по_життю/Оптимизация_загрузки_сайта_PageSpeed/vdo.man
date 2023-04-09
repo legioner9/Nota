@@ -1,0 +1,1 @@
+### [Lazy Loading (ленивая загрузка). Объяснение и практические примеры на JavaScript. Атрибут loading.](https://www.youtube.com/watch?v=IdUbsiQUxa4&amp;list=PLM6XATa8CAG6h4q2Urs2_BDbKSKMquLiX&amp;index=1&amp;pp=iAQB)

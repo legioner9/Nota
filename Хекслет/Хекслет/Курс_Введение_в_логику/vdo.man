@@ -1,0 +1,7 @@
+### [Курс «Введение в логику» на Hexlet.io](https://www.youtube.com/watch?v=4mKHlq3AQDI&amp;list=PLo6puixMwuSNCt4bd99UheEjaS4EudoGJ&amp;index=1&amp;pp=iAQB)
+### [Введение в логику, урок 1: Базовые понятия](https://www.youtube.com/watch?v=eXI_TFW5Cdo&amp;list=PLo6puixMwuSNCt4bd99UheEjaS4EudoGJ&amp;index=2&amp;pp=iAQB)
+### [Введение в логику, урок 2: Представление функций](https://www.youtube.com/watch?v=eFcz9agrOro&amp;list=PLo6puixMwuSNCt4bd99UheEjaS4EudoGJ&amp;index=3&amp;pp=iAQB)
+### [Введение в логику, урок 3: Самая сложная логическая задача](https://www.youtube.com/watch?v=y6Wj5mCs-o4&amp;list=PLo6puixMwuSNCt4bd99UheEjaS4EudoGJ&amp;index=4&amp;pp=iAQB)
+### [Введение в логику, урок 4: Предикаты и кванторы](https://www.youtube.com/watch?v=l-eV7U4oB94&amp;list=PLo6puixMwuSNCt4bd99UheEjaS4EudoGJ&amp;index=5&amp;pp=iAQB)
+### [Введение в логику, урок 5: Теории: интуиции](https://www.youtube.com/watch?v=RC9L7Dhla4w&amp;list=PLo6puixMwuSNCt4bd99UheEjaS4EudoGJ&amp;index=6&amp;pp=iAQB)
+### [Введение в логику, урок 6: Парадоксы и заключение](https://www.youtube.com/watch?v=Ghr6Qi_J7gs&amp;list=PLo6puixMwuSNCt4bd99UheEjaS4EudoGJ&amp;index=7&amp;pp=iAQB)

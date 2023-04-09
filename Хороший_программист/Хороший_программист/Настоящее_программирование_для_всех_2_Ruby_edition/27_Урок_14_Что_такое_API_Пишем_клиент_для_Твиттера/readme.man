@@ -1,0 +1,3 @@
+# [Хороший программист](https://www.youtube.com/@goodprogrammer/playlists?view=1)
+## [Настоящее программирование для всех 2 (Ruby edition)](https://www.youtube.com/playlist?list=PL87kYOx0cUghcn2pCBHzEeMnKx79an8uq)
+### [Урок 14: Что такое API. Пишем клиент для Твиттера](https://www.youtube.com/watch?v=ybR4ICHjhTw&amp;list=PL87kYOx0cUghcn2pCBHzEeMnKx79an8uq&amp;index=27&amp;pp=iAQB)

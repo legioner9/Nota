@@ -1,0 +1,3 @@
+# [Фриланс прокачка](https://www.youtube.com/@freelance-pro/playlists)
+## [Фишки вебфлоу](https://www.youtube.com/playlist?list=PLb25rCxggZ7I1Ku3s-eE9BhhHjXsmPp8w)
+### [3D параллакс при движении мышки, создаем объемные анимированные SVG-шки на webflow](https://www.youtube.com/watch?v=HIb7nponS90&amp;list=PLb25rCxggZ7I1Ku3s-eE9BhhHjXsmPp8w&amp;index=61&amp;pp=iAQB)

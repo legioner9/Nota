@@ -1,0 +1,3 @@
+# [Хороший программист](https://www.youtube.com/@goodprogrammer/playlists?view=1)
+## [Уроки Ruby on Rails](https://www.youtube.com/playlist?list=PL87kYOx0cUgh_2FH8flx11o0mbN9vNMIj)
+### [Уроки Ruby on Rails - 7. Аутентификация, cookies, session 🛤️](https://www.youtube.com/watch?v=7sx9EOekjwA&amp;list=PL87kYOx0cUgh_2FH8flx11o0mbN9vNMIj&amp;index=7&amp;pp=iAQB)

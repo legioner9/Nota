@@ -1,0 +1,3 @@
+# [Хекслет](https://www.youtube.com/@HexletOrg/playlists?view=1)
+## [Курс «Разработка приложений для Mac OS X»](https://www.youtube.com/playlist?list=PLo6puixMwuSOM7brTfOKDlLrfOO1PWzhy)
+### [Разработка приложений для Mac OS X: Custom views и Objective C. Лекция 10 Модуль 3](https://www.youtube.com/watch?v=0Vs4eCgXkio&amp;list=PLo6puixMwuSOM7brTfOKDlLrfOO1PWzhy&amp;index=47&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [Хьюстон у нас проблемы !](https://www.youtube.com/@HSTNproblem/playlists)
+## [Планка на Java.](https://www.youtube.com/playlist?list=PLV_vplloSltHSUctnzggl4yfZEc6gvArM)
+### [Приложение Планка на Java в Android Studio. Урок 14. Обрабатываем нажатия на все кнопки.](https://www.youtube.com/watch?v=pemE8pNrNMM&amp;list=PLV_vplloSltHSUctnzggl4yfZEc6gvArM&amp;index=17&amp;pp=iAQB)

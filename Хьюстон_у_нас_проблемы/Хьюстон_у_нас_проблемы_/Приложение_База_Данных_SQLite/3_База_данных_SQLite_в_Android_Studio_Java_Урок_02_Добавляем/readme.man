@@ -1,0 +1,3 @@
+# [Хьюстон у нас проблемы !](https://www.youtube.com/@HSTNproblem/playlists)
+## [Приложение База Данных. SQLite.](https://www.youtube.com/playlist?list=PLV_vplloSltGSLARrkGRfF3I4XCez1otZ)
+### [База данных SQLite в Android Studio, Java. Урок 02. Добавляем статические переменные.](https://www.youtube.com/watch?v=8gBJzXLB4AY&amp;list=PLV_vplloSltGSLARrkGRfF3I4XCez1otZ&amp;index=3&amp;pp=iAQB)

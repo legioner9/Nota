@@ -1,0 +1,3 @@
+# [Фриланс прокачка](https://www.youtube.com/@freelance-pro/playlists)
+## [Курс: Сайт студии](https://www.youtube.com/playlist?list=PLb25rCxggZ7JL9CpfaJ6tQrOiM6QHfFIV)
+### [Выпадающее меню сайта на webflow, анимация набора текста + анимация движения частиц, урок #2](https://www.youtube.com/watch?v=Ylg8UgZNl1E&amp;list=PLb25rCxggZ7JL9CpfaJ6tQrOiM6QHfFIV&amp;index=2&amp;pp=iAQB)

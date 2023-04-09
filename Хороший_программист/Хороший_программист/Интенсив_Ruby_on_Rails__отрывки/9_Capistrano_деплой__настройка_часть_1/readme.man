@@ -1,0 +1,3 @@
+# [Хороший программист](https://www.youtube.com/@goodprogrammer/playlists?view=1)
+## [Интенсив Ruby on Rails — отрывки](https://www.youtube.com/playlist?list=PL87kYOx0cUgjhIzbysKiQlh3-lgZ0Lxno)
+### [Capistrano деплой — настройка (часть 1)](https://www.youtube.com/watch?v=xg-oB5kzTMY&amp;list=PL87kYOx0cUgjhIzbysKiQlh3-lgZ0Lxno&amp;index=9&amp;pp=iAQB)

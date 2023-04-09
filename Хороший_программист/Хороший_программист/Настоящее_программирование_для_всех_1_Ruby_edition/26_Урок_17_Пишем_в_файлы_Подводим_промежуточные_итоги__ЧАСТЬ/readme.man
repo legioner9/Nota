@@ -1,0 +1,3 @@
+# [Хороший программист](https://www.youtube.com/@goodprogrammer/playlists?view=1)
+## [Настоящее программирование для всех 1 (Ruby edition)](https://www.youtube.com/playlist?list=PL87kYOx0cUgiOH4sa4ionrDxY2rtjDujq)
+### [Урок 17: Пишем в файлы. Подводим промежуточные итоги — ЧАСТЬ 1](https://www.youtube.com/watch?v=bzdJ6NWIeHw&amp;list=PL87kYOx0cUgiOH4sa4ionrDxY2rtjDujq&amp;index=26&amp;pp=iAQB)

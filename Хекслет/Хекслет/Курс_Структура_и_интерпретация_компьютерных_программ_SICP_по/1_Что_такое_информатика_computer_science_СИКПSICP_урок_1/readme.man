@@ -1,0 +1,3 @@
+# [Хекслет](https://www.youtube.com/@HexletOrg/playlists?view=1)
+## [Курс «Структура и интерпретация компьютерных программ» (SICP по-русски)](https://www.youtube.com/playlist?list=PLo6puixMwuSO8eB2uBH5lZy5kjNtdhTfT)
+### [Что такое информатика (computer science)? [СИКП/SICP], урок 1](https://www.youtube.com/watch?v=bFMbqKRjU84&amp;list=PLo6puixMwuSO8eB2uBH5lZy5kjNtdhTfT&amp;index=1&amp;pp=iAQB)

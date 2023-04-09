@@ -1,0 +1,3 @@
+# [Хекслет](https://www.youtube.com/@HexletOrg/playlists?view=1)
+## [Курс «Язык программирования Swift»](https://www.youtube.com/playlist?list=PLo6puixMwuSN48TxS4UNCmf6xKXZyQpYX)
+### [Язык Swift, урок 26: Инициализаторы](https://www.youtube.com/watch?v=nAu39dJCndM&amp;list=PLo6puixMwuSN48TxS4UNCmf6xKXZyQpYX&amp;index=27&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [Хьюстон у нас проблемы !](https://www.youtube.com/@HSTNproblem/playlists)
+## [SQL](https://www.youtube.com/playlist?list=PLV_vplloSltFIpMVTQgaf3IfJpc93x8av)
+### [Основы SQL. Урок 07. Сортировка. ORDER BY, ASC, DESC.](https://www.youtube.com/watch?v=yU5teMSkIYU&amp;list=PLV_vplloSltFIpMVTQgaf3IfJpc93x8av&amp;index=8&amp;pp=iAQB)

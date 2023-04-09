@@ -1,0 +1,3 @@
+# [Чёрный Треугольник](https://www.youtube.com/@Black_Triangle/playlists)
+## [Rust](https://www.youtube.com/playlist?list=PLLqKATfceKNs5IUd9tju7r6S4bW0or--u)
+### [Пишем код на языке RUST](https://www.youtube.com/watch?v=PPncKCXMNE4&amp;list=PLLqKATfceKNs5IUd9tju7r6S4bW0or--u&amp;index=1&amp;pp=iAQB)

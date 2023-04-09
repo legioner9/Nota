@@ -1,0 +1,3 @@
+# [Хороший программист](https://www.youtube.com/@goodprogrammer/playlists?view=1)
+## [Уроки Ruby on Rails](https://www.youtube.com/playlist?list=PL87kYOx0cUgh_2FH8flx11o0mbN9vNMIj)
+### [Уроки Ruby on Rails - 2. Модели, миграции, ORM, CRUD 🛤️](https://www.youtube.com/watch?v=-6ot36LhW4I&amp;list=PL87kYOx0cUgh_2FH8flx11o0mbN9vNMIj&amp;index=2&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [Хекслет](https://www.youtube.com/@HexletOrg/playlists?view=1)
+## [Собеседования в прямом эфире](https://www.youtube.com/playlist?list=PLo6puixMwuSOa_0EH6X4OXzFAmyQGS3a3)
+### [Cобеседование Junior Frontend разработчика: сразу после учебных курсов! Вёрстка, JS, event loop](https://www.youtube.com/watch?v=5gplqEVgajc&amp;list=PLo6puixMwuSOa_0EH6X4OXzFAmyQGS3a3&amp;index=4&amp;pp=iAQB)

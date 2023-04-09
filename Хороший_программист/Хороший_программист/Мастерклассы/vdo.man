@@ -1,0 +1,2 @@
+### [Онлайн-чат на Ruby on Rails 7 с помощью Hotwire ⚡](https://www.youtube.com/watch?v=Ji567_hkgg0&amp;list=PL87kYOx0cUgglR2MUtGtoxKYz3Odcsg2y&amp;index=1&amp;pp=iAQB)
+### [ChatGPT для разработчиков с примерами 🤖](https://www.youtube.com/watch?v=1QxGcLELOrs&amp;list=PL87kYOx0cUgglR2MUtGtoxKYz3Odcsg2y&amp;index=2&amp;pp=iAQB)

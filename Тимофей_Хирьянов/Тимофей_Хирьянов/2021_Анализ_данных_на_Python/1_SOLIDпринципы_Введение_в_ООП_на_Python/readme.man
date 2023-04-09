@@ -1,0 +1,3 @@
+# [Тимофей Хирьянов](https://www.youtube.com/@tkhirianov/playlistsa)
+## [2021 Анализ данных на Python](https://www.youtube.com/playlist?list=PLRDzFCPr95fIgPrFFW-0nXT5YH6ZnjRM6)
+### [SOLID-принципы. Введение в ООП на Python.](https://www.youtube.com/watch?v=Dx2SE4hYy4g&amp;list=PLRDzFCPr95fIgPrFFW-0nXT5YH6ZnjRM6&amp;index=1&amp;pp=iAQB)

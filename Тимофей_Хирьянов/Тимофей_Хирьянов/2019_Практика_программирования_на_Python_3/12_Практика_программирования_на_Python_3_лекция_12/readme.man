@@ -1,0 +1,3 @@
+# [Тимофей Хирьянов](https://www.youtube.com/@tkhirianov/playlistsa)
+## [2019 Практика программирования на Python 3](https://www.youtube.com/playlist?list=PLRDzFCPr95fLuusPXwvOPgXzBL3ZTzybY)
+### [Практика программирования на Python 3, лекция №12](https://www.youtube.com/watch?v=wLT-oGoWMBY&amp;list=PLRDzFCPr95fLuusPXwvOPgXzBL3ZTzybY&amp;index=12&amp;pp=iAQB)

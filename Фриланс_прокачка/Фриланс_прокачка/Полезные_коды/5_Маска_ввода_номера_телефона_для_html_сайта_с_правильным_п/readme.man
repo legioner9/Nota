@@ -1,0 +1,3 @@
+# [Фриланс прокачка](https://www.youtube.com/@freelance-pro/playlists)
+## [Полезные коды](https://www.youtube.com/playlist?list=PLb25rCxggZ7JP6eUbI_R4ffRsHkTuHHZv)
+### [Маска ввода номера телефона для html сайта, с правильным позиционированием курсора на js](https://www.youtube.com/watch?v=hxUOT0hrkG8&amp;list=PLb25rCxggZ7JP6eUbI_R4ffRsHkTuHHZv&amp;index=5&amp;pp=iAQB)

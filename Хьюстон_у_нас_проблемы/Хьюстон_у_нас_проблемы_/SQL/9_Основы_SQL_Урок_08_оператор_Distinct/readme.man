@@ -1,0 +1,3 @@
+# [Хьюстон у нас проблемы !](https://www.youtube.com/@HSTNproblem/playlists)
+## [SQL](https://www.youtube.com/playlist?list=PLV_vplloSltFIpMVTQgaf3IfJpc93x8av)
+### [Основы SQL. Урок 08. оператор Distinct.](https://www.youtube.com/watch?v=VupNowRLnac&amp;list=PLV_vplloSltFIpMVTQgaf3IfJpc93x8av&amp;index=9&amp;pp=iAQB)

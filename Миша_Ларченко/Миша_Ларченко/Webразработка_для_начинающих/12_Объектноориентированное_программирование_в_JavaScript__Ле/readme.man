@@ -1,0 +1,3 @@
+# [Миша Ларченко](https://www.youtube.com/@larchanka/playlists)
+## [Web-разработка для начинающих](https://www.youtube.com/playlist?list=PLIb4jh0gYNwWRaG_Z8RY05yVEvfTTg1Mm)
+### [Объектно-ориентированное программирование в JavaScript | Лекция 10 | Web-разработка для начинающих](https://www.youtube.com/watch?v=CbOfxzRM9aw&amp;list=PLIb4jh0gYNwWRaG_Z8RY05yVEvfTTg1Mm&amp;index=12&amp;pp=iAQB)

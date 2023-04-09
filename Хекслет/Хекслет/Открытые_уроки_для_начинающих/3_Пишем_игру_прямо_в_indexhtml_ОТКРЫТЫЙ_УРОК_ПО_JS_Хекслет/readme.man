@@ -1,0 +1,3 @@
+# [Хекслет](https://www.youtube.com/@HexletOrg/playlists?view=1)
+## [Открытые уроки для начинающих](https://www.youtube.com/playlist?list=PLo6puixMwuSNiBG5NP7kOtblBhy6rcAzw)
+### [Пишем игру прямо в index.html: ОТКРЫТЫЙ УРОК ПО JS [Хекслет]](https://www.youtube.com/watch?v=990vxSHslAo&amp;list=PLo6puixMwuSNiBG5NP7kOtblBhy6rcAzw&amp;index=3&amp;pp=iAQB)

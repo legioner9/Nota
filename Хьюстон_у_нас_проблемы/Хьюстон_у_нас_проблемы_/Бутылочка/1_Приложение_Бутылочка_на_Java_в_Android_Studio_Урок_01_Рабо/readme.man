@@ -1,0 +1,3 @@
+# [Хьюстон у нас проблемы !](https://www.youtube.com/@HSTNproblem/playlists)
+## [Бутылочка](https://www.youtube.com/playlist?list=PLV_vplloSltFqW4IjbAA149ELPWV9B9g0)
+### [Приложение Бутылочка на Java в Android Studio. Урок 01. Работаем с XML.](https://www.youtube.com/watch?v=aC9VupqAfao&amp;list=PLV_vplloSltFqW4IjbAA149ELPWV9B9g0&amp;index=1&amp;pp=iAQB)

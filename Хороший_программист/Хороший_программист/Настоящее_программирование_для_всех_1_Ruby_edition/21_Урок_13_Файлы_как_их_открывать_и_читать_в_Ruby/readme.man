@@ -1,0 +1,3 @@
+# [Хороший программист](https://www.youtube.com/@goodprogrammer/playlists?view=1)
+## [Настоящее программирование для всех 1 (Ruby edition)](https://www.youtube.com/playlist?list=PL87kYOx0cUgiOH4sa4ionrDxY2rtjDujq)
+### [Урок 13: Файлы, как их открывать и читать в Ruby](https://www.youtube.com/watch?v=YNejOXrvB3s&amp;list=PL87kYOx0cUgiOH4sa4ionrDxY2rtjDujq&amp;index=21&amp;pp=iAQB)

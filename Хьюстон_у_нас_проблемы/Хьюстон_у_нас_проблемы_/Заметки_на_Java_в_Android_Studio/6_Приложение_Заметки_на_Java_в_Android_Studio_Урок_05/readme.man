@@ -1,0 +1,3 @@
+# [Хьюстон у нас проблемы !](https://www.youtube.com/@HSTNproblem/playlists)
+## [Заметки на Java в Android Studio.](https://www.youtube.com/playlist?list=PLV_vplloSltGy64t1JmYP0zizdIqcoo93)
+### [Приложение Заметки на Java в Android Studio. Урок 05.](https://www.youtube.com/watch?v=OfOiWasDTaA&amp;list=PLV_vplloSltGy64t1JmYP0zizdIqcoo93&amp;index=6&amp;pp=iAQB)

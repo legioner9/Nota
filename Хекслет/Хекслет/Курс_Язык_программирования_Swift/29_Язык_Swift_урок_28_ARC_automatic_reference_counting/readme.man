@@ -1,0 +1,3 @@
+# [Хекслет](https://www.youtube.com/@HexletOrg/playlists?view=1)
+## [Курс «Язык программирования Swift»](https://www.youtube.com/playlist?list=PLo6puixMwuSN48TxS4UNCmf6xKXZyQpYX)
+### [Язык Swift, урок 28: ARC (automatic reference counting)](https://www.youtube.com/watch?v=ZvWtW9gnClc&amp;list=PLo6puixMwuSN48TxS4UNCmf6xKXZyQpYX&amp;index=29&amp;pp=iAQB)

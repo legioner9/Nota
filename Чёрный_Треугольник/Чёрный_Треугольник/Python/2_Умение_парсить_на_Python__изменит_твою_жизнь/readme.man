@@ -1,0 +1,3 @@
+# [Чёрный Треугольник](https://www.youtube.com/@Black_Triangle/playlists)
+## [Python](https://www.youtube.com/playlist?list=PLLqKATfceKNuX2Hc3CBmD5Yk4PIHgIaWx)
+### [Умение парсить на Python — изменит твою жизнь](https://www.youtube.com/watch?v=n7BIbh_-WG4&amp;list=PLLqKATfceKNuX2Hc3CBmD5Yk4PIHgIaWx&amp;index=2&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [Хороший программист](https://www.youtube.com/@goodprogrammer/playlists?view=1)
+## [Настоящее программирование для всех 2 (Ruby edition)](https://www.youtube.com/playlist?list=PL87kYOx0cUghcn2pCBHzEeMnKx79an8uq)
+### [Урок 1 (часть 2): Среда разработки. Установка и настройка RubyMine](https://www.youtube.com/watch?v=9Q9NZI7KukQ&amp;list=PL87kYOx0cUghcn2pCBHzEeMnKx79an8uq&amp;index=3&amp;pp=iAQB)

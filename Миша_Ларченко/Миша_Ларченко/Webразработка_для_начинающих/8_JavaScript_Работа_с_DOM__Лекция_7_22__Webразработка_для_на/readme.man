@@ -1,0 +1,3 @@
+# [Миша Ларченко](https://www.youtube.com/@larchanka/playlists)
+## [Web-разработка для начинающих](https://www.youtube.com/playlist?list=PLIb4jh0gYNwWRaG_Z8RY05yVEvfTTg1Mm)
+### [JavaScript. Работа с DOM | Лекция 7 2/2 | Web-разработка для начинающих | Программирование](https://www.youtube.com/watch?v=IsQK0UskxiA&amp;list=PLIb4jh0gYNwWRaG_Z8RY05yVEvfTTg1Mm&amp;index=8&amp;pp=iAQB)

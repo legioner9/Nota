@@ -1,0 +1,3 @@
+# [Чёрный Треугольник](https://www.youtube.com/@Black_Triangle/playlists)
+## [Python](https://www.youtube.com/playlist?list=PLLqKATfceKNuX2Hc3CBmD5Yk4PIHgIaWx)
+### [Парсинг сайтов на Python — ЧАСТЬ 2 — Selenium](https://www.youtube.com/watch?v=MzcOcYJGHoo&amp;list=PLLqKATfceKNuX2Hc3CBmD5Yk4PIHgIaWx&amp;index=1&amp;pp=iAQB)

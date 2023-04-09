@@ -1,0 +1,3 @@
+# [Фриланс прокачка](https://www.youtube.com/@freelance-pro/playlists)
+## [Фишки вебфлоу](https://www.youtube.com/playlist?list=PLb25rCxggZ7I1Ku3s-eE9BhhHjXsmPp8w)
+### [Раскрывающееся меню на мобильном (выпадашка, дропдаун), а на ПК обычный список. Лайфхак webflow](https://www.youtube.com/watch?v=LKK-RrHjBA8&amp;list=PLb25rCxggZ7I1Ku3s-eE9BhhHjXsmPp8w&amp;index=48&amp;pp=iAQB)

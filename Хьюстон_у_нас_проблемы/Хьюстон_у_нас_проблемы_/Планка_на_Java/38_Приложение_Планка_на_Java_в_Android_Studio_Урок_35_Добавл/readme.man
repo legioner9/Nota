@@ -1,0 +1,3 @@
+# [Хьюстон у нас проблемы !](https://www.youtube.com/@HSTNproblem/playlists)
+## [Планка на Java.](https://www.youtube.com/playlist?list=PLV_vplloSltHSUctnzggl4yfZEc6gvArM)
+### [Приложение Планка на Java в Android Studio. Урок 35. Добавляем функционал уровня сложности.](https://www.youtube.com/watch?v=1SPx_s7uVDE&amp;list=PLV_vplloSltHSUctnzggl4yfZEc6gvArM&amp;index=38&amp;pp=iAQB)

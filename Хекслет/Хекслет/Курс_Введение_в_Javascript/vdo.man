@@ -1,0 +1,7 @@
+### [JavaScript, урок 1: Введение. Числа](https://www.youtube.com/watch?v=aGTjRU7Dp20&amp;list=PLo6puixMwuSNxJCgadaaavKqq4-ocKPrR&amp;index=1&amp;pp=iAQB)
+### [JavaScript, урок 2: Строки. Объекты. Прототипы.](https://www.youtube.com/watch?v=TAdEY2Rcuwo&amp;list=PLo6puixMwuSNxJCgadaaavKqq4-ocKPrR&amp;index=2&amp;pp=iAQB)
+### [JavaScript, урок 3: Функции. Замыкания.](https://www.youtube.com/watch?v=r-W_BUG3EbI&amp;list=PLo6puixMwuSNxJCgadaaavKqq4-ocKPrR&amp;index=3&amp;pp=iAQB)
+### [JavaScript, урок 4: Наследование](https://www.youtube.com/watch?v=-wY3IYmQzzc&amp;list=PLo6puixMwuSNxJCgadaaavKqq4-ocKPrR&amp;index=4&amp;pp=iAQB)
+### [JavaScript, урок 5: Массивы](https://www.youtube.com/watch?v=cTeBlVn_lyk&amp;list=PLo6puixMwuSNxJCgadaaavKqq4-ocKPrR&amp;index=5&amp;pp=iAQB)
+### [JavaScript, урок 6: Регулярные выражения](https://www.youtube.com/watch?v=VCgAvj9meHg&amp;list=PLo6puixMwuSNxJCgadaaavKqq4-ocKPrR&amp;index=6&amp;pp=iAQB)
+### [JavaScript, урок 7: Сравнения, var, eval и заключение](https://www.youtube.com/watch?v=-jZS8p5_quo&amp;list=PLo6puixMwuSNxJCgadaaavKqq4-ocKPrR&amp;index=7&amp;pp=iAQB)

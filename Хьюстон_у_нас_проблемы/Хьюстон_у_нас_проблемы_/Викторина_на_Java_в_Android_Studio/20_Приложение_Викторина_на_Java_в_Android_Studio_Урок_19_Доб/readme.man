@@ -1,0 +1,3 @@
+# [Хьюстон у нас проблемы !](https://www.youtube.com/@HSTNproblem/playlists)
+## [Викторина на Java в Android Studio.](https://www.youtube.com/playlist?list=PLV_vplloSltEm3QITFxNg7SJYCzR2dl9Z)
+### [Приложение Викторина на Java в Android Studio. Урок 19. Добавляем функционал при выборе ответа.](https://www.youtube.com/watch?v=zRN9dwrRGP0&amp;list=PLV_vplloSltEm3QITFxNg7SJYCzR2dl9Z&amp;index=20&amp;pp=iAQB)

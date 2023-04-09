@@ -1,0 +1,3 @@
+# [Чёрный Треугольник](https://www.youtube.com/@Black_Triangle/playlists)
+## [Python](https://www.youtube.com/playlist?list=PLLqKATfceKNuX2Hc3CBmD5Yk4PIHgIaWx)
+### [QTILE — мозаичный оконный менеджер на PYTHON](https://www.youtube.com/watch?v=NJAkiEPk4VY&amp;list=PLLqKATfceKNuX2Hc3CBmD5Yk4PIHgIaWx&amp;index=22&amp;pp=iAQB)

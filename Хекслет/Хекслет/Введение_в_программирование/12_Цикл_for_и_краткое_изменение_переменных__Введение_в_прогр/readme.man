@@ -1,0 +1,3 @@
+# [Хекслет](https://www.youtube.com/@HexletOrg/playlists?view=1)
+## [Введение в программирование](https://www.youtube.com/playlist?list=PLo6puixMwuSMIB7x6MNBTNQA3P3Mqo_33)
+### [Цикл for и краткое изменение переменных / Введение в программирование, урок 12 (JavaScript ES6)](https://www.youtube.com/watch?v=Y_ojKAhLKns&amp;list=PLo6puixMwuSMIB7x6MNBTNQA3P3Mqo_33&amp;index=12&amp;pp=iAQB)

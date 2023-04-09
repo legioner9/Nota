@@ -1,0 +1,3 @@
+# [Хьюстон у нас проблемы !](https://www.youtube.com/@HSTNproblem/playlists)
+## [Приложение База Данных. SQLite.](https://www.youtube.com/playlist?list=PLV_vplloSltGSLARrkGRfF3I4XCez1otZ)
+### [База данных SQLite в Android Studio, Java. Урок 04. Добавление и удаление строк в таблицу.](https://www.youtube.com/watch?v=7bbE2kxIPBk&amp;list=PLV_vplloSltGSLARrkGRfF3I4XCez1otZ&amp;index=5&amp;pp=iAQB)

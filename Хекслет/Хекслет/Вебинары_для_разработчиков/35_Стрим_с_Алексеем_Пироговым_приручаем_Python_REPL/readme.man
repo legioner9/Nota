@@ -1,0 +1,3 @@
+# [Хекслет](https://www.youtube.com/@HexletOrg/playlists?view=1)
+## [Вебинары для разработчиков](https://www.youtube.com/playlist?list=PLo6puixMwuSNd3iTJwcAT0ysvnr1RMsty)
+### [Стрим с Алексеем Пироговым: приручаем Python REPL](https://www.youtube.com/watch?v=GzC7M_mASz8&amp;list=PLo6puixMwuSNd3iTJwcAT0ysvnr1RMsty&amp;index=35&amp;pp=iAQB)

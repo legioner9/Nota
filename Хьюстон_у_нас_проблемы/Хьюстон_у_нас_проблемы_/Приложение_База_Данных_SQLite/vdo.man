@@ -1,0 +1,8 @@
+### [Приложение База данных в Android Studio, Java. Урок 00. SQLite в Android.](https://www.youtube.com/watch?v=tZUE0v6Fu44&amp;list=PLV_vplloSltGSLARrkGRfF3I4XCez1otZ&amp;index=1&amp;pp=iAQB)
+### [База данных SQLite в Android Studio, Java. Урок 01. Добавляем конструкторы, геттеры, сеттеры.](https://www.youtube.com/watch?v=iZZ-wmXiURE&amp;list=PLV_vplloSltGSLARrkGRfF3I4XCez1otZ&amp;index=2&amp;pp=iAQB)
+### [База данных SQLite в Android Studio, Java. Урок 02. Добавляем статические переменные.](https://www.youtube.com/watch?v=8gBJzXLB4AY&amp;list=PLV_vplloSltGSLARrkGRfF3I4XCez1otZ&amp;index=3&amp;pp=iAQB)
+### [База данных SQLite в Android Studio, Java. Урок 03. Добавляем таблицу.](https://www.youtube.com/watch?v=7c_GYiId8_I&amp;list=PLV_vplloSltGSLARrkGRfF3I4XCez1otZ&amp;index=4&amp;pp=iAQB)
+### [База данных SQLite в Android Studio, Java. Урок 04. Добавление и удаление строк в таблицу.](https://www.youtube.com/watch?v=7bbE2kxIPBk&amp;list=PLV_vplloSltGSLARrkGRfF3I4XCez1otZ&amp;index=5&amp;pp=iAQB)
+### [База данных SQLite в Android Studio, Java. Урок 05. Фиксим баги.](https://www.youtube.com/watch?v=4R0NjwXDYDk&amp;list=PLV_vplloSltGSLARrkGRfF3I4XCez1otZ&amp;index=6&amp;pp=iAQB)
+### [База данных SQLite в Android Studio, Java. Урок 06. Добавляем update метод.](https://www.youtube.com/watch?v=hH9EnQFMRCI&amp;list=PLV_vplloSltGSLARrkGRfF3I4XCez1otZ&amp;index=7&amp;pp=iAQB)
+### [База данных SQLite в Android Studio, Java. Урок 07. Добавляем delete метод.](https://www.youtube.com/watch?v=FHt9yXcs3NY&amp;list=PLV_vplloSltGSLARrkGRfF3I4XCez1otZ&amp;index=8&amp;pp=iAQB)

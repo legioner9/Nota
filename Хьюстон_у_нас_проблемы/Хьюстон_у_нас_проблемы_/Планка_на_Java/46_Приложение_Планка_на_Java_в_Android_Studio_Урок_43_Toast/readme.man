@@ -1,0 +1,3 @@
+# [Хьюстон у нас проблемы !](https://www.youtube.com/@HSTNproblem/playlists)
+## [Планка на Java.](https://www.youtube.com/playlist?list=PLV_vplloSltHSUctnzggl4yfZEc6gvArM)
+### [Приложение Планка на Java в Android Studio. Урок 43. Toast.](https://www.youtube.com/watch?v=LV0WBaS9KSo&amp;list=PLV_vplloSltHSUctnzggl4yfZEc6gvArM&amp;index=46&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [Хьюстон у нас проблемы !](https://www.youtube.com/@HSTNproblem/playlists)
+## [Планка на Java.](https://www.youtube.com/playlist?list=PLV_vplloSltHSUctnzggl4yfZEc6gvArM)
+### [Android Studio. Урок 24.1. Как включить горизонтальный режим у эмулятора.](https://www.youtube.com/watch?v=u7DURNB-OaA&amp;list=PLV_vplloSltHSUctnzggl4yfZEc6gvArM&amp;index=27&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [Хьюстон у нас проблемы !](https://www.youtube.com/@HSTNproblem/playlists)
+## [Приложение Бездельник на Java в Android Studio](https://www.youtube.com/playlist?list=PLV_vplloSltEc7QFDo6Wb4g6huztL2qV6)
+### [Приложение Бездельник на Java в Android Studio. Урок 08. Добавляем звук.](https://www.youtube.com/watch?v=K7gHX83UjlA&amp;list=PLV_vplloSltEc7QFDo6Wb4g6huztL2qV6&amp;index=9&amp;pp=iAQB)

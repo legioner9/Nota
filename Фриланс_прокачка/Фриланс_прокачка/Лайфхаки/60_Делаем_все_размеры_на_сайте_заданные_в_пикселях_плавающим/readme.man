@@ -1,0 +1,3 @@
+# [Фриланс прокачка](https://www.youtube.com/@freelance-pro/playlists)
+## [Лайфхаки](https://www.youtube.com/playlist?list=PLb25rCxggZ7KpZwLokk_M0nyBgAbofyFq)
+### [Делаем все размеры на сайте заданные в пикселях плавающими, подстраивающимися под экран на webflow](https://www.youtube.com/watch?v=2oqs7rBpRZo&amp;list=PLb25rCxggZ7KpZwLokk_M0nyBgAbofyFq&amp;index=60&amp;pp=iAQB)

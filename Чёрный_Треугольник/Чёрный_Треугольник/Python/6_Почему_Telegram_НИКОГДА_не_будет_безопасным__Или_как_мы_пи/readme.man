@@ -1,0 +1,3 @@
+# [Чёрный Треугольник](https://www.youtube.com/@Black_Triangle/playlists)
+## [Python](https://www.youtube.com/playlist?list=PLLqKATfceKNuX2Hc3CBmD5Yk4PIHgIaWx)
+### [Почему Telegram НИКОГДА не будет безопасным ▲ Или как мы писали свой клиент Telegram на Python](https://www.youtube.com/watch?v=LADJTDajw0E&amp;list=PLLqKATfceKNuX2Hc3CBmD5Yk4PIHgIaWx&amp;index=6&amp;pp=iAQB)

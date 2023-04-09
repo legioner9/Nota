@@ -1,0 +1,3 @@
+# [Хороший программист](https://www.youtube.com/@goodprogrammer/playlists?view=1)
+## [Настоящее программирование для всех 1 (Ruby edition)](https://www.youtube.com/playlist?list=PL87kYOx0cUgiOH4sa4ionrDxY2rtjDujq)
+### [Урок 10: Первая версия игры “Виселица” — ЧАСТЬ 2](https://www.youtube.com/watch?v=sAtlVBvjXKc&amp;list=PL87kYOx0cUgiOH4sa4ionrDxY2rtjDujq&amp;index=16&amp;pp=iAQB)

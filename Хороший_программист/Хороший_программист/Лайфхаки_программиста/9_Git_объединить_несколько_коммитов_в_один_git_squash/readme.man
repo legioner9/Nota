@@ -1,0 +1,3 @@
+# [Хороший программист](https://www.youtube.com/@goodprogrammer/playlists?view=1)
+## [Лайфхаки программиста](https://www.youtube.com/playlist?list=PL87kYOx0cUgjX5XEsLcPCtQjEsG89-ram)
+### [Git: объединить несколько коммитов в один (git squash)](https://www.youtube.com/watch?v=Ujkq0QqwWXk&amp;list=PL87kYOx0cUgjX5XEsLcPCtQjEsG89-ram&amp;index=9&amp;pp=iAQB)

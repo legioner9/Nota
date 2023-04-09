@@ -1,0 +1,3 @@
+# [Тимофей Хирьянов](https://www.youtube.com/@tkhirianov/playlistsa)
+## [2017-2018 Алгоритмы и структуры данных на Python 3](https://www.youtube.com/playlist?list=PLRDzFCPr95fK7tr47883DFUbm4GeOjjc0)
+### [Алгоритмы на Python 3. Лекция №4](https://www.youtube.com/watch?v=DvsCUI5FNnI&amp;list=PLRDzFCPr95fK7tr47883DFUbm4GeOjjc0&amp;index=4&amp;pp=iAQB)

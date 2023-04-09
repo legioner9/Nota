@@ -1,0 +1,3 @@
+# [Тимофей Хирьянов](https://www.youtube.com/@tkhirianov/playlistsa)
+## [Курс молодого бойца МФТИ (Язык Си)](https://www.youtube.com/playlist?list=PLRDzFCPr95fLjzcv6nNdjMu_9RcZgIM9U)
+### [Этапы компиляции на Си: предобработка, трансляция, компоновка](https://www.youtube.com/watch?v=UNJ1xTsH9ko&amp;list=PLRDzFCPr95fLjzcv6nNdjMu_9RcZgIM9U&amp;index=3&amp;pp=iAQB)

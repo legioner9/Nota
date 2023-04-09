@@ -1,0 +1,3 @@
+# [Чёрный Треугольник](https://www.youtube.com/@Black_Triangle/playlists)
+## [Игры](https://www.youtube.com/playlist?list=PLLqKATfceKNv_662XMFmKcs358mA7m3ch)
+### [Python OpenCV и цвета ▲ Как я создавал бота для Diablo 2](https://www.youtube.com/watch?v=Ii4EQ7ttLtU&amp;list=PLLqKATfceKNv_662XMFmKcs358mA7m3ch&amp;index=5&amp;pp=iAQB)

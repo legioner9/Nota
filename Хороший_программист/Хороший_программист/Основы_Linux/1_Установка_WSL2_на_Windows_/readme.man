@@ -1,0 +1,3 @@
+# [Хороший программист](https://www.youtube.com/@goodprogrammer/playlists?view=1)
+## [Основы Linux](https://www.youtube.com/playlist?list=PL87kYOx0cUgiSsIgiNeK2uFvhsjstEs0y)
+### [Установка WSL2 на Windows ✨](https://www.youtube.com/watch?v=T9vr4WTkh-g&amp;list=PL87kYOx0cUgiSsIgiNeK2uFvhsjstEs0y&amp;index=1&amp;pp=iAQB)

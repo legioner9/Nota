@@ -1,0 +1,3 @@
+# [Хьюстон у нас проблемы !](https://www.youtube.com/@HSTNproblem/playlists)
+## [Тестирование](https://www.youtube.com/playlist?list=PLV_vplloSltFPD8hhNFBoq3kOyYyWIyU3)
+### [Как работать с Postman, API. Реальный пример на swapi](https://www.youtube.com/watch?v=FKc4f-4Oji4&amp;list=PLV_vplloSltFPD8hhNFBoq3kOyYyWIyU3&amp;index=18&amp;pp=iAQB)

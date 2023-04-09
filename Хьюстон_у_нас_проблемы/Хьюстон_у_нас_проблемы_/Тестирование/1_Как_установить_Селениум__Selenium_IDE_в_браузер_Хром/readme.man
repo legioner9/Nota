@@ -1,0 +1,3 @@
+# [Хьюстон у нас проблемы !](https://www.youtube.com/@HSTNproblem/playlists)
+## [Тестирование](https://www.youtube.com/playlist?list=PLV_vplloSltFPD8hhNFBoq3kOyYyWIyU3)
+### [Как установить Селениум / Selenium IDE в браузер Хром](https://www.youtube.com/watch?v=xkhO3NvmFpo&amp;list=PLV_vplloSltFPD8hhNFBoq3kOyYyWIyU3&amp;index=1&amp;pp=iAQB)

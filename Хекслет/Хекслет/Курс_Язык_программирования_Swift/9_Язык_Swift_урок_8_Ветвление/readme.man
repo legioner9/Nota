@@ -1,0 +1,3 @@
+# [Хекслет](https://www.youtube.com/@HexletOrg/playlists?view=1)
+## [Курс «Язык программирования Swift»](https://www.youtube.com/playlist?list=PLo6puixMwuSN48TxS4UNCmf6xKXZyQpYX)
+### [Язык Swift, урок 8: Ветвление](https://www.youtube.com/watch?v=Ab5UD1oRctE&amp;list=PLo6puixMwuSN48TxS4UNCmf6xKXZyQpYX&amp;index=9&amp;pp=iAQB)

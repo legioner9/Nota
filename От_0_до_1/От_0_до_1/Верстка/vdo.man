@@ -1,0 +1,5 @@
+### [Верстка сайта с нуля до завершения, html/css/js](https://www.youtube.com/watch?v=Q2zxQNQGcU8&amp;list=PLN2KCaMlZNdCBrVcXJXEO1iaTkZIMEA7R&amp;index=1&amp;pp=iAQB)
+### [Курс по верстке от 0 до 1](https://www.youtube.com/watch?v=uWsuTbFE67w&amp;list=PLN2KCaMlZNdCBrVcXJXEO1iaTkZIMEA7R&amp;index=2&amp;pp=iAQB)
+### [Mobile first метод. Верстка сайта html/css. Адаптивная верстка. ч.1](https://www.youtube.com/watch?v=qWWoIPLSeec&amp;list=PLN2KCaMlZNdCBrVcXJXEO1iaTkZIMEA7R&amp;index=3&amp;pp=iAQB)
+### [Mobile first метод. Верстка сайта html/css. Адаптивная верстка. ч.2](https://www.youtube.com/watch?v=gT2IIUg7kH0&amp;list=PLN2KCaMlZNdCBrVcXJXEO1iaTkZIMEA7R&amp;index=4&amp;pp=iAQB)
+### [Верстка многостраничного сайта для самых маленьких, html/css/js подробное объяснение](https://www.youtube.com/watch?v=AvMusILfIdQ&amp;list=PLN2KCaMlZNdCBrVcXJXEO1iaTkZIMEA7R&amp;index=5&amp;pp=iAQB)

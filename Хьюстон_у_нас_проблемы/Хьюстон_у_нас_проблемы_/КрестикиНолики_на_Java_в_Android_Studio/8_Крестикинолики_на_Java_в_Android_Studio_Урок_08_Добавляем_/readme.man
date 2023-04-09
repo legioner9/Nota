@@ -1,0 +1,3 @@
+# [Хьюстон у нас проблемы !](https://www.youtube.com/@HSTNproblem/playlists)
+## [Крестики-Нолики на Java в Android Studio](https://www.youtube.com/playlist?list=PLV_vplloSltFvfCgzlHrUQwqHm3wJKekn)
+### [Крестики-нолики на Java в Android Studio. Урок 08. Добавляем кнопку Начать новую игру.](https://www.youtube.com/watch?v=sK8Vgq6Qqoo&amp;list=PLV_vplloSltFvfCgzlHrUQwqHm3wJKekn&amp;index=8&amp;pp=iAQB)

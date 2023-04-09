@@ -1,0 +1,4 @@
+### [FLEXBOX. Учимся верстать на флексах. Флексбокс уроки. Часть первая - свойства flex-контейнера](https://www.youtube.com/watch?v=EO8hH_2OwCU&amp;list=PLM6XATa8CAG5mPV60dMmjMRrHVW4LmV2x&amp;index=1&amp;pp=iAQB)
+### [FLEXBOX. Учимся верстать на флексах. Флексбокс уроки. Часть вторая - свойства flex-элементов](https://www.youtube.com/watch?v=uPYUgipiFcM&amp;list=PLM6XATa8CAG5mPV60dMmjMRrHVW4LmV2x&amp;index=2&amp;pp=iAQB)
+### [FLEXBOX. Учимся верстать на флексах. Флексбокс уроки. Часть третья - свойство flex-direction](https://www.youtube.com/watch?v=cXAUxbu6X2E&amp;list=PLM6XATa8CAG5mPV60dMmjMRrHVW4LmV2x&amp;index=3&amp;pp=iAQB)
+### [FLEXBOX. Примеры верстки на flex. Учимся верстать на флексах. Часть четвертая - практика](https://www.youtube.com/watch?v=8Gu40PFzOHI&amp;list=PLM6XATa8CAG5mPV60dMmjMRrHVW4LmV2x&amp;index=4&amp;pp=iAQB)

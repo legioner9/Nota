@@ -1,0 +1,3 @@
+# [Фриланс прокачка](https://www.youtube.com/@freelance-pro/playlists)
+## [Курс для новичка по webflow](https://www.youtube.com/playlist?list=PLb25rCxggZ7LaoN1ktwBtEm-OcYCk7yzf)
+### [Как сделать хедер на webflow. Верхняя часть сайта, с логотипом и контактами, а так же меню. Урок №7](https://www.youtube.com/watch?v=3hulkt6sikI&amp;list=PLb25rCxggZ7LaoN1ktwBtEm-OcYCk7yzf&amp;index=7&amp;pp=iAQB)

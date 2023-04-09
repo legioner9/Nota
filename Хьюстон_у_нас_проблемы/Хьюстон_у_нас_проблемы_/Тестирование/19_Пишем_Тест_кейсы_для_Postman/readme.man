@@ -1,0 +1,3 @@
+# [Хьюстон у нас проблемы !](https://www.youtube.com/@HSTNproblem/playlists)
+## [Тестирование](https://www.youtube.com/playlist?list=PLV_vplloSltFPD8hhNFBoq3kOyYyWIyU3)
+### [Пишем Тест кейсы для Postman](https://www.youtube.com/watch?v=HlbHmt81MmY&amp;list=PLV_vplloSltFPD8hhNFBoq3kOyYyWIyU3&amp;index=19&amp;pp=iAQB)

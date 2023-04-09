@@ -1,0 +1,5 @@
+### [Пишем бот  для рыбалки в игре Albion Online на языке Python (Albion Online Fishing bot)](https://www.youtube.com/watch?v=92XnJ3s0vX8&amp;list=PLLqKATfceKNv_662XMFmKcs358mA7m3ch&amp;index=1&amp;pp=iAQB)
+### [Изменяем игры с помощью нейросетей. Необычные миры...](https://www.youtube.com/watch?v=TdEsa_pDEnE&amp;list=PLLqKATfceKNv_662XMFmKcs358mA7m3ch&amp;index=2&amp;pp=iAQB)
+### [Моя армия ботов добывает крипту...](https://www.youtube.com/watch?v=hgHsmN2ZgUA&amp;list=PLLqKATfceKNv_662XMFmKcs358mA7m3ch&amp;index=3&amp;pp=iAQB)
+### [Garuda Linux — Linux для игр](https://www.youtube.com/watch?v=WikZB5RJc7w&amp;list=PLLqKATfceKNv_662XMFmKcs358mA7m3ch&amp;index=4&amp;pp=iAQB)
+### [Python OpenCV и цвета ▲ Как я создавал бота для Diablo 2](https://www.youtube.com/watch?v=Ii4EQ7ttLtU&amp;list=PLLqKATfceKNv_662XMFmKcs358mA7m3ch&amp;index=5&amp;pp=iAQB)

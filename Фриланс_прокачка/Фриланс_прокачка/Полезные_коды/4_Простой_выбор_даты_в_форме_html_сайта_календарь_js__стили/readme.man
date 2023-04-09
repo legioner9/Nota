@@ -1,0 +1,3 @@
+# [Фриланс прокачка](https://www.youtube.com/@freelance-pro/playlists)
+## [Полезные коды](https://www.youtube.com/playlist?list=PLb25rCxggZ7JP6eUbI_R4ffRsHkTuHHZv)
+### [Простой выбор даты в форме html сайта (календарь) js + стилизация](https://www.youtube.com/watch?v=s6yoFtOtDPY&amp;list=PLb25rCxggZ7JP6eUbI_R4ffRsHkTuHHZv&amp;index=4&amp;pp=iAQB)

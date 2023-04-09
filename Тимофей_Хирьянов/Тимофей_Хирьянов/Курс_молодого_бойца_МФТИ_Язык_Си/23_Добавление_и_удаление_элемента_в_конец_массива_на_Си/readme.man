@@ -1,0 +1,3 @@
+# [Тимофей Хирьянов](https://www.youtube.com/@tkhirianov/playlistsa)
+## [Курс молодого бойца МФТИ (Язык Си)](https://www.youtube.com/playlist?list=PLRDzFCPr95fLjzcv6nNdjMu_9RcZgIM9U)
+### [Добавление и удаление элемента в конец массива на Си](https://www.youtube.com/watch?v=zMRG6Dhqjto&amp;list=PLRDzFCPr95fLjzcv6nNdjMu_9RcZgIM9U&amp;index=23&amp;pp=iAQB)

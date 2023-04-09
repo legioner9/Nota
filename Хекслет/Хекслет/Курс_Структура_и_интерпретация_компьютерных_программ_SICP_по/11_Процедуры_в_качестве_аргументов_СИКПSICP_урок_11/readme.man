@@ -1,0 +1,3 @@
+# [Хекслет](https://www.youtube.com/@HexletOrg/playlists?view=1)
+## [Курс «Структура и интерпретация компьютерных программ» (SICP по-русски)](https://www.youtube.com/playlist?list=PLo6puixMwuSO8eB2uBH5lZy5kjNtdhTfT)
+### [Процедуры в качестве аргументов. [СИКП/SICP], урок 11](https://www.youtube.com/watch?v=6ioTtG1Ihw0&amp;list=PLo6puixMwuSO8eB2uBH5lZy5kjNtdhTfT&amp;index=11&amp;pp=iAQB)

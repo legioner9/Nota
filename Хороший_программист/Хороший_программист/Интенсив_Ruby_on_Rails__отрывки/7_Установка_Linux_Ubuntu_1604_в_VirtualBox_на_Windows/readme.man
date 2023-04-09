@@ -1,0 +1,3 @@
+# [Хороший программист](https://www.youtube.com/@goodprogrammer/playlists?view=1)
+## [Интенсив Ruby on Rails — отрывки](https://www.youtube.com/playlist?list=PL87kYOx0cUgjhIzbysKiQlh3-lgZ0Lxno)
+### [Установка Linux Ubuntu 16.04 в VirtualBox на Windows](https://www.youtube.com/watch?v=vY9QNwX_IsY&amp;list=PL87kYOx0cUgjhIzbysKiQlh3-lgZ0Lxno&amp;index=7&amp;pp=iAQB)

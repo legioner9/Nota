@@ -1,0 +1,3 @@
+# [Хороший программист](https://www.youtube.com/@goodprogrammer/playlists?view=1)
+## [Настоящее программирование для всех 2 (Ruby edition)](https://www.youtube.com/playlist?list=PL87kYOx0cUghcn2pCBHzEeMnKx79an8uq)
+### [Урок 13 (часть 1): Работа с сетью — пишем «Прогноз погоды» и «Киновыбиратель»](https://www.youtube.com/watch?v=FKuGjJO-b90&amp;list=PL87kYOx0cUghcn2pCBHzEeMnKx79an8uq&amp;index=25&amp;pp=iAQB)

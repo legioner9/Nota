@@ -1,0 +1,3 @@
+# [Хьюстон у нас проблемы !](https://www.youtube.com/@HSTNproblem/playlists)
+## [Планка на Java.](https://www.youtube.com/playlist?list=PLV_vplloSltHSUctnzggl4yfZEc6gvArM)
+### [Приложение Планка на Java в Android Studio. Урок 67. Считываем данные из Firebase.](https://www.youtube.com/watch?v=dydFIr3X9Yo&amp;list=PLV_vplloSltHSUctnzggl4yfZEc6gvArM&amp;index=70&amp;pp=iAQB)

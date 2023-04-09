@@ -1,0 +1,5 @@
+### [Интервью с Ильёй Зобенько (Юла, Mail.ru Group) о PHP. Отношение к языку, советы новичкам [Хекслет]](https://www.youtube.com/watch?v=fSwaXLbnjEg&amp;list=PLo6puixMwuSOi5M1wSqguMeiGYQjpChjk&amp;index=1&amp;pp=iAQB)
+### [Hexlet (Хекслет) - Hexlet Podcast: Интервью с Александром Казаченко из Tinkoff.ru](https://www.youtube.com/watch?v=lHWM7fNcx00&amp;list=PLo6puixMwuSOi5M1wSqguMeiGYQjpChjk&amp;index=2&amp;pp=iAQB)
+### [#Hexlet Podcast: средства для ускорения web](https://www.youtube.com/watch?v=PKKM8EWO7c8&amp;list=PLo6puixMwuSOi5M1wSqguMeiGYQjpChjk&amp;index=3&amp;pp=iAQB)
+### [#Hexlet Podcast: Arduino, Raspberry Pi, FPGA и прочие &quot;железки&quot;](https://www.youtube.com/watch?v=Fsgu1FXG2zs&amp;list=PLo6puixMwuSOi5M1wSqguMeiGYQjpChjk&amp;index=4&amp;pp=iAQB)
+### [#Hexlet Podcast: Пакеты, репозитории, безопасность](https://www.youtube.com/watch?v=SVubzNrh9Nc&amp;list=PLo6puixMwuSOi5M1wSqguMeiGYQjpChjk&amp;index=5&amp;pp=iAQB)

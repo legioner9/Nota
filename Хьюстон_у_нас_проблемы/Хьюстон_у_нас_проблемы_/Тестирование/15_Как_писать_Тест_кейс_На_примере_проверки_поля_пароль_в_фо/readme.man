@@ -1,0 +1,3 @@
+# [Хьюстон у нас проблемы !](https://www.youtube.com/@HSTNproblem/playlists)
+## [Тестирование](https://www.youtube.com/playlist?list=PLV_vplloSltFPD8hhNFBoq3kOyYyWIyU3)
+### [Как писать Тест кейс. На примере проверки поля пароль в форме регистрации.](https://www.youtube.com/watch?v=EMjkvXWcxmg&amp;list=PLV_vplloSltFPD8hhNFBoq3kOyYyWIyU3&amp;index=15&amp;pp=iAQB)

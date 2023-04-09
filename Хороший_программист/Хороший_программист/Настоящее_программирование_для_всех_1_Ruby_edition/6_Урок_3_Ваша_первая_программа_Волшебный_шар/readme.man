@@ -1,0 +1,3 @@
+# [Хороший программист](https://www.youtube.com/@goodprogrammer/playlists?view=1)
+## [Настоящее программирование для всех 1 (Ruby edition)](https://www.youtube.com/playlist?list=PL87kYOx0cUgiOH4sa4ionrDxY2rtjDujq)
+### [Урок 3: Ваша первая программа “Волшебный шар”](https://www.youtube.com/watch?v=mlqLZY7zxog&amp;list=PL87kYOx0cUgiOH4sa4ionrDxY2rtjDujq&amp;index=6&amp;pp=iAQB)

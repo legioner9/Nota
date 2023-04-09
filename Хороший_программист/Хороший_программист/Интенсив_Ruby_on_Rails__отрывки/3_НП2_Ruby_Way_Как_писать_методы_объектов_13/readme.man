@@ -1,0 +1,3 @@
+# [Хороший программист](https://www.youtube.com/@goodprogrammer/playlists?view=1)
+## [Интенсив Ruby on Rails — отрывки](https://www.youtube.com/playlist?list=PL87kYOx0cUgjhIzbysKiQlh3-lgZ0Lxno)
+### [[НП2] Ruby Way: Как писать методы объектов (1/3)](https://www.youtube.com/watch?v=DPs4HKfQikQ&amp;list=PL87kYOx0cUgjhIzbysKiQlh3-lgZ0Lxno&amp;index=3&amp;pp=iAQB)

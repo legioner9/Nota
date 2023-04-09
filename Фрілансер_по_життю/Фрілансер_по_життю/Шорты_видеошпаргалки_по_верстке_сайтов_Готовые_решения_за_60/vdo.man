@@ -1,0 +1,7 @@
+### [Как прижать футер к низу страницы HTML CSS FLEX / Фрилансер по жизни / #Shorts](https://www.youtube.com/watch?v=kNGYuTelE3E&amp;list=PLM6XATa8CAG6I14E2L_9AzNi6VG85z3wA&amp;index=1&amp;pp=iAQB)
+### [CSS pointer-events:none; Взаимодействие сквозь объекты. #Shorts](https://www.youtube.com/watch?v=3OkcwjLA4Nc&amp;list=PLM6XATa8CAG6I14E2L_9AzNi6VG85z3wA&amp;index=2&amp;pp=iAQB)
+### [Черно белые картинки. CSS filter grayscale для изображений. #Shorts](https://www.youtube.com/watch?v=SL9y5X5UqGE&amp;list=PLM6XATa8CAG6I14E2L_9AzNi6VG85z3wA&amp;index=3&amp;pp=iAQB)
+### [JavaScript делегирование событий за 60 секунд. Объяснение делегирования в JS на примерах. #Shorts](https://www.youtube.com/watch?v=rRLJ3rJEWmQ&amp;list=PLM6XATa8CAG6I14E2L_9AzNi6VG85z3wA&amp;index=4&amp;pp=iAQB)
+### [Вертикальный текст. CSS свойства writing-mode и text-orientation. #Shorts](https://www.youtube.com/watch?v=5zuqp6L-jwk&amp;list=PLM6XATa8CAG6I14E2L_9AzNi6VG85z3wA&amp;index=5&amp;pp=iAQB)
+### [CSS OL. Cтилизация нумерованного списка за 60 секунд #Shorts](https://www.youtube.com/watch?v=sY8dDsYz_DI&amp;list=PLM6XATa8CAG6I14E2L_9AzNi6VG85z3wA&amp;index=6&amp;pp=iAQB)
+### [CSS Градієнтна границя. Border Gradient. Готовий код codepen. #Shorts](https://www.youtube.com/watch?v=CjtZcvJNQrY&amp;list=PLM6XATa8CAG6I14E2L_9AzNi6VG85z3wA&amp;index=7&amp;pp=iAQB)

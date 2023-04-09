@@ -1,0 +1,3 @@
+# [Хьюстон у нас проблемы !](https://www.youtube.com/@HSTNproblem/playlists)
+## [Викторина на Java в Android Studio.](https://www.youtube.com/playlist?list=PLV_vplloSltEm3QITFxNg7SJYCzR2dl9Z)
+### [Приложение Викторина на Java в Android Studio. Урок 30. Добавляем элемент ScrollView в проект.](https://www.youtube.com/watch?v=-ZhW7AeW_ag&amp;list=PLV_vplloSltEm3QITFxNg7SJYCzR2dl9Z&amp;index=31&amp;pp=iAQB)

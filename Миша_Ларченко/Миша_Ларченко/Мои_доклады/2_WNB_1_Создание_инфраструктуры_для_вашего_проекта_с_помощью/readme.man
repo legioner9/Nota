@@ -1,0 +1,3 @@
+# [Миша Ларченко](https://www.youtube.com/@larchanka/playlists)
+## [Мои доклады](https://www.youtube.com/playlist?list=PLIb4jh0gYNwU1frXtJhwJlt0tsWaGmoT4)
+### [WNB #1: «Создание инфраструктуры для вашего проекта с помощью Yeoman», Михаил Ларченко](https://www.youtube.com/watch?v=LieMUGWdYYk&amp;list=PLIb4jh0gYNwU1frXtJhwJlt0tsWaGmoT4&amp;index=2&amp;pp=iAQB)

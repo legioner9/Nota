@@ -1,0 +1,3 @@
+# [Хекслет](https://www.youtube.com/@HexletOrg/playlists?view=1)
+## [Интервью с тимлидами, разработчиками и ИТ-специалистами](https://www.youtube.com/playlist?list=PLo6puixMwuSO9f1eFdLeo7RfyLMAUcE-3)
+### [Go – модный язык или зрелая технология? / Почему Go лучше других языков / Что не стоит делать на Go](https://www.youtube.com/watch?v=y0oM51-XNUo&amp;list=PLo6puixMwuSO9f1eFdLeo7RfyLMAUcE-3&amp;index=9&amp;pp=iAQB)

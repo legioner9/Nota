@@ -1,0 +1,3 @@
+# [Хьюстон у нас проблемы !](https://www.youtube.com/@HSTNproblem/playlists)
+## [Android Studio](https://www.youtube.com/playlist?list=PLV_vplloSltEWRuSBKd8t24mOu_VAjzem)
+### [002 Первый запуск ANDROID STUDIO. Программа Hello world.](https://www.youtube.com/watch?v=6K1Nn-Gjcc0&amp;list=PLV_vplloSltEWRuSBKd8t24mOu_VAjzem&amp;index=2&amp;pp=iAQB)

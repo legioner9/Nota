@@ -1,0 +1,3 @@
+# [Хьюстон у нас проблемы !](https://www.youtube.com/@HSTNproblem/playlists)
+## [SQL](https://www.youtube.com/playlist?list=PLV_vplloSltFIpMVTQgaf3IfJpc93x8av)
+### [Основы SQL. Урок 06. IS NULL, IS NOT NULL.](https://www.youtube.com/watch?v=apUt_V27oUE&amp;list=PLV_vplloSltFIpMVTQgaf3IfJpc93x8av&amp;index=7&amp;pp=iAQB)

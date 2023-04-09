@@ -1,0 +1,3 @@
+# [Хороший программист](https://www.youtube.com/@goodprogrammer/playlists?view=1)
+## [Настоящее программирование для всех 1 (Ruby edition)](https://www.youtube.com/playlist?list=PL87kYOx0cUgiOH4sa4ionrDxY2rtjDujq)
+### [Урок 7: Циклы. Все что нужно о них знать](https://www.youtube.com/watch?v=2YCSyIh8dHU&amp;list=PL87kYOx0cUgiOH4sa4ionrDxY2rtjDujq&amp;index=10&amp;pp=iAQB)

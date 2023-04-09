@@ -1,0 +1,3 @@
+# [Хекслет](https://www.youtube.com/@HexletOrg/playlists?view=1)
+## [Курс «Разработка приложений для Mac OS X»](https://www.youtube.com/playlist?list=PLo6puixMwuSOM7brTfOKDlLrfOO1PWzhy)
+### [Разработка приложений для Mac OS X: Cocoa, синтезатор речи и делегирование ч.2. Лекция 4 Модуль 5](https://www.youtube.com/watch?v=xkeIO3Tl8R4&amp;list=PLo6puixMwuSOM7brTfOKDlLrfOO1PWzhy&amp;index=22&amp;pp=iAQB)

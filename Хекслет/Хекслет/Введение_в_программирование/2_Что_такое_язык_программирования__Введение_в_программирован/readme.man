@@ -1,0 +1,3 @@
+# [Хекслет](https://www.youtube.com/@HexletOrg/playlists?view=1)
+## [Введение в программирование](https://www.youtube.com/playlist?list=PLo6puixMwuSMIB7x6MNBTNQA3P3Mqo_33)
+### [Что такое язык программирования? / Введение в программирование, урок 2 (JavaScript ES6)](https://www.youtube.com/watch?v=OUWw6jGCv-w&amp;list=PLo6puixMwuSMIB7x6MNBTNQA3P3Mqo_33&amp;index=2&amp;pp=iAQB)

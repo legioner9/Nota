@@ -1,0 +1,3 @@
+# [Хьюстон у нас проблемы !](https://www.youtube.com/@HSTNproblem/playlists)
+## [Крестики-нолики в Excel.](https://www.youtube.com/playlist?list=PLV_vplloSltFZFoJjEc6KWtM5IAKbph43)
+### [Делаем игру Крестики-нолики в Excel. Урок 01. Создаём файл с поддержкой макросов.](https://www.youtube.com/watch?v=Gm2LtfM7M0Y&amp;list=PLV_vplloSltFZFoJjEc6KWtM5IAKbph43&amp;index=2&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [Чёрный Треугольник](https://www.youtube.com/@Black_Triangle/playlists)
+## [Защита](https://www.youtube.com/playlist?list=PLLqKATfceKNvFCXEgtm4U-Ey9HuALpQCj)
+### [Уязвимости от АНБ в эллиптической криптографии](https://www.youtube.com/watch?v=w8bOYO6xAaQ&amp;list=PLLqKATfceKNvFCXEgtm4U-Ey9HuALpQCj&amp;index=19&amp;pp=iAQB)

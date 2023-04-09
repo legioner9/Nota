@@ -1,0 +1,3 @@
+# [Хекслет](https://www.youtube.com/@HexletOrg/playlists?view=1)
+## [Курс «Операционные системы»](https://www.youtube.com/playlist?list=PLo6puixMwuSPrKOCsJhrtr-m79mFthit9)
+### [Операционные системы, урок 5: Взаимное исключение. Семафоры. Проблема чтения/записи.](https://www.youtube.com/watch?v=mgDy68YWe1Q&amp;list=PLo6puixMwuSPrKOCsJhrtr-m79mFthit9&amp;index=6&amp;pp=iAQB)

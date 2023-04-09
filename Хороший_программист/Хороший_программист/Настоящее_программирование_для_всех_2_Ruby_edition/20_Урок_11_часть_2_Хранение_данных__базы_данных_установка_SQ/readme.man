@@ -1,0 +1,3 @@
+# [Хороший программист](https://www.youtube.com/@goodprogrammer/playlists?view=1)
+## [Настоящее программирование для всех 2 (Ruby edition)](https://www.youtube.com/playlist?list=PL87kYOx0cUghcn2pCBHzEeMnKx79an8uq)
+### [Урок 11 (часть 2): Хранение данных — базы данных, установка SQLite](https://www.youtube.com/watch?v=m2lc9eG-40k&amp;list=PL87kYOx0cUghcn2pCBHzEeMnKx79an8uq&amp;index=20&amp;pp=iAQB)

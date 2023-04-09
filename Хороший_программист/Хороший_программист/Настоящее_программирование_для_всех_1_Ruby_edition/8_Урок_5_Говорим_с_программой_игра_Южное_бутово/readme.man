@@ -1,0 +1,3 @@
+# [Хороший программист](https://www.youtube.com/@goodprogrammer/playlists?view=1)
+## [Настоящее программирование для всех 1 (Ruby edition)](https://www.youtube.com/playlist?list=PL87kYOx0cUgiOH4sa4ionrDxY2rtjDujq)
+### [Урок 5: Говорим с программой, игра “Южное бутово”](https://www.youtube.com/watch?v=Ka7p4O6K8NU&amp;list=PL87kYOx0cUgiOH4sa4ionrDxY2rtjDujq&amp;index=8&amp;pp=iAQB)

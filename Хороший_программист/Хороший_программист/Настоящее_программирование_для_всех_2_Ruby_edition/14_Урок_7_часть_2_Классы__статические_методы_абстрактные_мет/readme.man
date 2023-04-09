@@ -1,0 +1,3 @@
+# [Хороший программист](https://www.youtube.com/@goodprogrammer/playlists?view=1)
+## [Настоящее программирование для всех 2 (Ruby edition)](https://www.youtube.com/playlist?list=PL87kYOx0cUghcn2pCBHzEeMnKx79an8uq)
+### [Урок 7 (часть 2): Классы — статические методы, абстрактные методы](https://www.youtube.com/watch?v=XEb6qu7em2o&amp;list=PL87kYOx0cUghcn2pCBHzEeMnKx79an8uq&amp;index=14&amp;pp=iAQB)

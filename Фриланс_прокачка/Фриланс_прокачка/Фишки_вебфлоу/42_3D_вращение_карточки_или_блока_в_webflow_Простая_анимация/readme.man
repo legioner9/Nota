@@ -1,0 +1,3 @@
+# [Фриланс прокачка](https://www.youtube.com/@freelance-pro/playlists)
+## [Фишки вебфлоу](https://www.youtube.com/playlist?list=PLb25rCxggZ7I1Ku3s-eE9BhhHjXsmPp8w)
+### [3D вращение карточки или блока в webflow. Простая анимация при наведении мышки или клике](https://www.youtube.com/watch?v=aKz6UfTOeFE&amp;list=PLb25rCxggZ7I1Ku3s-eE9BhhHjXsmPp8w&amp;index=42&amp;pp=iAQB)

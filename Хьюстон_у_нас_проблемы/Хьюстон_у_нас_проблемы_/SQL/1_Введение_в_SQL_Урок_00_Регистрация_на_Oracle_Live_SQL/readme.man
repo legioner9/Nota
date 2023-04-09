@@ -1,0 +1,3 @@
+# [Хьюстон у нас проблемы !](https://www.youtube.com/@HSTNproblem/playlists)
+## [SQL](https://www.youtube.com/playlist?list=PLV_vplloSltFIpMVTQgaf3IfJpc93x8av)
+### [Введение в SQL. Урок 00. Регистрация на Oracle Live SQL.](https://www.youtube.com/watch?v=11DFwAsTw4g&amp;list=PLV_vplloSltFIpMVTQgaf3IfJpc93x8av&amp;index=1&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+### [Марафон по верстке. Часть №1. Адаптивная верстка макета с нуля GULP SCSS JS](https://www.youtube.com/watch?v=GNvcGNx5zgQ&amp;list=PLM6XATa8CAG6MOSVCJPNS9ARQ518hPBjF&amp;index=1&amp;pp=iAQB)
+### [Марафон по верстке. Часть №2. Адаптивная верстка макета с нуля GULP SCSS JS](https://www.youtube.com/watch?v=j0dEldPxB1E&amp;list=PLM6XATa8CAG6MOSVCJPNS9ARQ518hPBjF&amp;index=2&amp;pp=iAQB)
+### [Марафон по верстке. Часть №3. Адаптивная верстка макета с нуля GULP SCSS JS](https://www.youtube.com/watch?v=xK9g29AUzeQ&amp;list=PLM6XATa8CAG6MOSVCJPNS9ARQ518hPBjF&amp;index=3&amp;pp=iAQB)

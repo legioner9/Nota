@@ -1,0 +1,3 @@
+# [Хьюстон у нас проблемы !](https://www.youtube.com/@HSTNproblem/playlists)
+## [Калькулятор на Java в Android Studio.](https://www.youtube.com/playlist?list=PLV_vplloSltHvkiovrtqjUhhqzrmVze-y)
+### [Калькулятор на Java в Android Studio. Урок 11. Модификаторы доступа public / private. Баг &quot;0.&quot;](https://www.youtube.com/watch?v=eiaIVlAxZVw&amp;list=PLV_vplloSltHvkiovrtqjUhhqzrmVze-y&amp;index=11&amp;pp=iAQB)

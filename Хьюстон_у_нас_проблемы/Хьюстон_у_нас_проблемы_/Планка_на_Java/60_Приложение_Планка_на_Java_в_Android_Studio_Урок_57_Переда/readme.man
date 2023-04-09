@@ -1,0 +1,3 @@
+# [Хьюстон у нас проблемы !](https://www.youtube.com/@HSTNproblem/playlists)
+## [Планка на Java.](https://www.youtube.com/playlist?list=PLV_vplloSltHSUctnzggl4yfZEc6gvArM)
+### [Приложение Планка на Java в Android Studio. Урок 57. Передаём имя при регистрации.](https://www.youtube.com/watch?v=fFPI7Rwm4fo&amp;list=PLV_vplloSltHSUctnzggl4yfZEc6gvArM&amp;index=60&amp;pp=iAQB)

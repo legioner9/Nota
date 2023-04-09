@@ -1,0 +1,3 @@
+# [Тимофей Хирьянов](https://www.youtube.com/@tkhirianov/playlistsa)
+## [Курс молодого бойца МФТИ (Язык Си)](https://www.youtube.com/playlist?list=PLRDzFCPr95fLjzcv6nNdjMu_9RcZgIM9U)
+### [Индуктивные функции на Си: поиск максимума](https://www.youtube.com/watch?v=MaVd1L892Yw&amp;list=PLRDzFCPr95fLjzcv6nNdjMu_9RcZgIM9U&amp;index=16&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [От 0 до 1](https://www.youtube.com/@vadymprokopchuk/playlists)
+## [Верстка gulp 4 + препроцессор](https://www.youtube.com/playlist?list=PLN2KCaMlZNdBEtr55AmjP_67lo8jWoCqt)
+### [Верстка сайта, Gulp 4, препроцессор scss, анимация. Финал](https://www.youtube.com/watch?v=rvPMUzvg3g0&amp;list=PLN2KCaMlZNdBEtr55AmjP_67lo8jWoCqt&amp;index=6&amp;pp=iAQB)

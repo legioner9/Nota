@@ -1,0 +1,3 @@
+# [Фриланс прокачка](https://www.youtube.com/@freelance-pro/playlists)
+## [Фишки вебфлоу](https://www.youtube.com/playlist?list=PLb25rCxggZ7I1Ku3s-eE9BhhHjXsmPp8w)
+### [Всплывающая форма внутри карточки товара/услуги на webflow. Одна анимация на все блоки](https://www.youtube.com/watch?v=pw7LQGohDnU&amp;list=PLb25rCxggZ7I1Ku3s-eE9BhhHjXsmPp8w&amp;index=53&amp;pp=iAQB)
