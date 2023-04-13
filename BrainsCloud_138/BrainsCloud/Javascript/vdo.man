@@ -1,0 +1,2 @@
+### [Javascript с нуля - твой быстрый старт! Уроки по javascript для начинающих](https://www.youtube.com/watch?v=HuPK6AwgzJc&amp;list=PLoq3Accf02PVQ5a2gxlOygVwTSMQes7zG&amp;index=1&amp;pp=iAQB)
+### [Javascript практика. Создание табов на javascript. Уроки JS](https://www.youtube.com/watch?v=QO32qTZe3hA&amp;list=PLoq3Accf02PVQ5a2gxlOygVwTSMQes7zG&amp;index=2&amp;pp=iAQB)

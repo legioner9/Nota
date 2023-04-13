@@ -1,0 +1,54 @@
+<h3 class="style-scope ytd-playlist-video-renderer" aria-label="GCP - Создание Халявного Web Сервера на базе Windows Server by ADV-IT 3 years ago 9 minutes, 12 seconds 5,775 views">
+        <ytd-badge-supported-renderer id="top-standalone-badge" class="style-scope ytd-playlist-video-renderer" system-icons=""><!--css-build:shady--><dom-repeat id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"><template></template></dom-repeat></ytd-badge-supported-renderer>
+        <a id="video-title" class="yt-simple-endpoint style-scope ytd-playlist-video-renderer" href="/watch?v=KRJSl6x6SZw&amp;list=PLg5SS_4L6LYs5IZZSY0viHRQFPa2P-R8H&amp;index=5&amp;pp=iAQB" title="GCP - Создание Халявного Web Сервера на базе Windows Server">
+          GCP - Создание Халявного Web Сервера на базе Windows Server
+        </a>
+      </h3>
+<h3 class="style-scope ytd-playlist-video-renderer" aria-label="GCP - Установка и настройка Cloud SDK/GCP CLI на Windows by ADV-IT 3 years ago 6 minutes 4,797 views">
+        <ytd-badge-supported-renderer id="top-standalone-badge" class="style-scope ytd-playlist-video-renderer" system-icons=""><!--css-build:shady--><dom-repeat id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"><template></template></dom-repeat></ytd-badge-supported-renderer>
+        <a id="video-title" class="yt-simple-endpoint style-scope ytd-playlist-video-renderer" href="/watch?v=Faj9X_XIW8c&amp;list=PLg5SS_4L6LYs5IZZSY0viHRQFPa2P-R8H&amp;index=6&amp;pp=iAQB" title="GCP - Установка и настройка Cloud SDK/GCP CLI на Windows">
+          GCP - Установка и настройка Cloud SDK/GCP CLI на Windows
+        </a>
+      </h3>
+<h3 class="style-scope ytd-playlist-video-renderer" aria-label="GCP - Установка и настройка Cloud SDK/GCP CLI на Linux by ADV-IT 3 years ago 6 minutes, 59 seconds 4,448 views">
+        <ytd-badge-supported-renderer id="top-standalone-badge" class="style-scope ytd-playlist-video-renderer" system-icons=""><!--css-build:shady--><dom-repeat id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"><template></template></dom-repeat></ytd-badge-supported-renderer>
+        <a id="video-title" class="yt-simple-endpoint style-scope ytd-playlist-video-renderer" href="/watch?v=Pkipw-JQT7Q&amp;list=PLg5SS_4L6LYs5IZZSY0viHRQFPa2P-R8H&amp;index=7&amp;pp=iAQB" title="GCP - Установка и настройка Cloud SDK/GCP CLI на Linux">
+          GCP - Установка и настройка Cloud SDK/GCP CLI на Linux
+        </a>
+      </h3>
+<h3 class="style-scope ytd-playlist-video-renderer" aria-label="GCP - Права доступа - IAM Users Groups Permissions Roles by ADV-IT 3 years ago 22 minutes 6,041 views">
+        <ytd-badge-supported-renderer id="top-standalone-badge" class="style-scope ytd-playlist-video-renderer" system-icons=""><!--css-build:shady--><dom-repeat id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"><template></template></dom-repeat></ytd-badge-supported-renderer>
+        <a id="video-title" class="yt-simple-endpoint style-scope ytd-playlist-video-renderer" href="/watch?v=4pnjxuE5DtM&amp;list=PLg5SS_4L6LYs5IZZSY0viHRQFPa2P-R8H&amp;index=8&amp;pp=iAQB" title="GCP - Права доступа - IAM Users Groups Permissions Roles">
+          GCP - Права доступа - IAM Users Groups Permissions Roles
+        </a>
+      </h3>
+<h3 class="style-scope ytd-playlist-video-renderer" aria-label="GCP - Добавляем GMAIL юзера, Создаём и используем IAM Roles by ADV-IT 3 years ago 16 minutes 4,180 views">
+        <ytd-badge-supported-renderer id="top-standalone-badge" class="style-scope ytd-playlist-video-renderer" system-icons=""><!--css-build:shady--><dom-repeat id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"><template></template></dom-repeat></ytd-badge-supported-renderer>
+        <a id="video-title" class="yt-simple-endpoint style-scope ytd-playlist-video-renderer" href="/watch?v=vx54uc-xY_8&amp;list=PLg5SS_4L6LYs5IZZSY0viHRQFPa2P-R8H&amp;index=9&amp;pp=iAQB" title="GCP - Добавляем GMAIL юзера, Создаём и используем IAM Roles">
+          GCP - Добавляем GMAIL юзера, Создаём и используем IAM Roles
+        </a>
+      </h3>
+<h3 class="style-scope ytd-playlist-video-renderer" aria-label="GCP - Иерархия GCP: Organization, Folder, Project, Resource by ADV-IT 3 years ago 5 minutes, 42 seconds 3,530 views">
+        <ytd-badge-supported-renderer id="top-standalone-badge" class="style-scope ytd-playlist-video-renderer" system-icons=""><!--css-build:shady--><dom-repeat id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"><template></template></dom-repeat></ytd-badge-supported-renderer>
+        <a id="video-title" class="yt-simple-endpoint style-scope ytd-playlist-video-renderer" href="/watch?v=dUgFNRDdJ4E&amp;list=PLg5SS_4L6LYs5IZZSY0viHRQFPa2P-R8H&amp;index=10&amp;pp=iAQB" title="GCP - Иерархия GCP: Organization, Folder, Project, Resource">
+          GCP - Иерархия GCP: Organization, Folder, Project, Resource
+        </a>
+      </h3>
+<h3 class="style-scope ytd-playlist-video-renderer" aria-label="GCP - Экзамен Google Cloud - Professional Cloud Architect by ADV-IT 3 years ago 18 minutes 4,560 views">
+        <ytd-badge-supported-renderer id="top-standalone-badge" class="style-scope ytd-playlist-video-renderer" system-icons=""><!--css-build:shady--><dom-repeat id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"><template></template></dom-repeat></ytd-badge-supported-renderer>
+        <a id="video-title" class="yt-simple-endpoint style-scope ytd-playlist-video-renderer" href="/watch?v=4xb6wabjR_Q&amp;list=PLg5SS_4L6LYs5IZZSY0viHRQFPa2P-R8H&amp;index=11&amp;pp=iAQB" title="GCP - Экзамен Google Cloud - Professional Cloud Architect">
+          GCP - Экзамен Google Cloud - Professional Cloud Architect
+        </a>
+      </h3>
+<h3 class="style-scope ytd-playlist-video-renderer" aria-label="Google Cloud - Полный CI/CD с НУЛЯ - Деплоим Cloud Function из GitHub через Cloud Build by ADV-IT 1 year ago 19 minutes 7,939 views">
+        <ytd-badge-supported-renderer id="top-standalone-badge" class="style-scope ytd-playlist-video-renderer" system-icons=""><!--css-build:shady--><dom-repeat id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"><template></template></dom-repeat></ytd-badge-supported-renderer>
+        <a id="video-title" class="yt-simple-endpoint style-scope ytd-playlist-video-renderer" href="/watch?v=TAc-QEjK_0E&amp;list=PLg5SS_4L6LYs5IZZSY0viHRQFPa2P-R8H&amp;index=12&amp;pp=iAQB" title="Google Cloud - Полный CI/CD с НУЛЯ - Деплоим Cloud Function из GitHub через Cloud Build">
+          Google Cloud - Полный CI/CD с НУЛЯ - Деплоим Cloud Function из GitHub через Cloud Build
+        </a>
+      </h3>
+<h3 class="style-scope ytd-playlist-video-renderer" aria-label="Google Cloud  - Полный CI/CD с НУЛЯ - Сборка и Деплой Docker Image из GitHub через Cloud Build by ADV-IT 1 year ago 21 minutes 6,847 views">
+        <ytd-badge-supported-renderer id="top-standalone-badge" class="style-scope ytd-playlist-video-renderer" system-icons=""><!--css-build:shady--><dom-repeat id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"><template></template></dom-repeat></ytd-badge-supported-renderer>
+        <a id="video-title" class="yt-simple-endpoint style-scope ytd-playlist-video-renderer" href="/watch?v=ygaTPaJn2Qc&amp;list=PLg5SS_4L6LYs5IZZSY0viHRQFPa2P-R8H&amp;index=13&amp;pp=iAQB" title="Google Cloud  - Полный CI/CD с НУЛЯ - Сборка и Деплой Docker Image из GitHub через Cloud Build">
+          Google Cloud  - Полный CI/CD с НУЛЯ - Сборка и Деплой Docker Image из GitHub через Cloud Build
+        </a>
+      </h3>

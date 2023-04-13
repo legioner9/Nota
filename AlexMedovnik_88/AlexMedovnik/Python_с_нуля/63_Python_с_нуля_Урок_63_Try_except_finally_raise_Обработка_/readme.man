@@ -1,0 +1,3 @@
+# [AlexMedovnik](https://www.youtube.com/@AlexMedovnik/playlists)
+## [Python с нуля](https://www.youtube.com/playlist?list=PLXRp8GYyTu9pthg-pKTdglkD2gi8NDoGi)
+### [Python с нуля. Урок №63. Try, except, finally, raise. Обработка исключений](https://www.youtube.com/watch?v=mlG8LqAba5U&amp;list=PLXRp8GYyTu9pthg-pKTdglkD2gi8NDoGi&amp;index=63&amp;pp=iAQB)

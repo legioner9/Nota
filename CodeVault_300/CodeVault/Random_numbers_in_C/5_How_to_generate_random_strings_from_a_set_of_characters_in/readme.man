@@ -1,0 +1,3 @@
+# [CodeVault](https://www.youtube.com/@CodeVault/playlists)
+## [Random numbers in C](https://www.youtube.com/playlist?list=PLfqABt5AS4Fm0ur1GUC0QF2jg4opaf9sF)
+### [How to generate random strings from a set of characters in C](https://www.youtube.com/watch?v=FuBzYpLMo7c&amp;list=PLfqABt5AS4Fm0ur1GUC0QF2jg4opaf9sF&amp;index=5&amp;pp=iAQB)

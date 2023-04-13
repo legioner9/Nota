@@ -1,0 +1,3 @@
+# [Begin End](https://www.youtube.com/@beginend95/playlists)
+## [Язык Си (WinAPI)](https://www.youtube.com/playlist?list=PLBOPkQsFLCR2H7_0Ss0W6y703J_ySRGi_)
+### [Язык Си - работа с сетью с помощью сокетов на WinApi. Делаем клиент и сервер.](https://www.youtube.com/watch?v=_ifIsru1GOw&amp;list=PLBOPkQsFLCR2H7_0Ss0W6y703J_ySRGi_&amp;index=7&amp;pp=iAQB)

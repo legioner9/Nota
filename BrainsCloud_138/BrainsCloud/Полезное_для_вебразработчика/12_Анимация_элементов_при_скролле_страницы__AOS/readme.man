@@ -1,0 +1,3 @@
+# [BrainsCloud](https://www.youtube.com/@BrainsCloud/playlists)
+## [Полезное для веб-разработчика](https://www.youtube.com/playlist?list=PLoq3Accf02PVB2gMY7RKqsc1vyqfmm136)
+### [Анимация элементов при скролле страницы | AOS](https://www.youtube.com/watch?v=8I_38RwqIVY&amp;list=PLoq3Accf02PVB2gMY7RKqsc1vyqfmm136&amp;index=12&amp;pp=iAQB)

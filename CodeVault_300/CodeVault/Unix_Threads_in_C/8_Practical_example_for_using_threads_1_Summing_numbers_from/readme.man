@@ -1,0 +1,3 @@
+# [CodeVault](https://www.youtube.com/@CodeVault/playlists)
+## [Unix Threads in C](https://www.youtube.com/playlist?list=PLfqABt5AS4FmuQf70psXrsMLEDQXNkLq2)
+### [Practical example for using threads #1 (Summing numbers from an array)](https://www.youtube.com/watch?v=Adtrk3PREQI&amp;list=PLfqABt5AS4FmuQf70psXrsMLEDQXNkLq2&amp;index=8&amp;pp=iAQB)

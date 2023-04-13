@@ -1,0 +1,3 @@
+# [cppProsto](https://www.youtube.com/@cppProsto/playlists?view=1)
+## [Nvidia CUDA](https://www.youtube.com/playlist?list=PLdhEOd5Bckb6eDz0S3gQ27mxCKT2WFHuU)
+### [Nvidia CUDA С Уроки. Разделяемая память и синхронизация. Параллельное программирование GPU.](https://www.youtube.com/watch?v=x_27jl3PkXs&amp;list=PLdhEOd5Bckb6eDz0S3gQ27mxCKT2WFHuU&amp;index=9&amp;pp=iAQB)

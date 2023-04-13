@@ -1,0 +1,3 @@
+# [CodeVault](https://www.youtube.com/@CodeVault/playlists)
+## [The C programming language made simple](https://www.youtube.com/playlist?list=PLfqABt5AS4FmErobw8YyTwXDUE5nPH5lH)
+### [printf(MEMORY) | How to print memory to the console](https://www.youtube.com/watch?v=a3ropbfIpw4&amp;list=PLfqABt5AS4FmErobw8YyTwXDUE5nPH5lH&amp;index=18&amp;pp=iAQB)

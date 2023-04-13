@@ -1,0 +1,3 @@
+# [CodeVault](https://www.youtube.com/@CodeVault/playlists)
+## [Code cleanup series](https://www.youtube.com/playlist?list=PLfqABt5AS4FmYX_zZlE3R66FPJyekMGVn)
+### [3-ish tips on naming in software dev | [ Code Cleanup #2 ]](https://www.youtube.com/watch?v=7hMnPrv8JIU&amp;list=PLfqABt5AS4FmYX_zZlE3R66FPJyekMGVn&amp;index=2&amp;pp=iAQB)

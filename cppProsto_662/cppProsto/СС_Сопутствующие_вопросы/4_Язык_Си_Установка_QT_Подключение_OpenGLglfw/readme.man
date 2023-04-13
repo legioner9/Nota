@@ -1,0 +1,3 @@
+# [cppProsto](https://www.youtube.com/@cppProsto/playlists?view=1)
+## [С/С++ Сопутствующие вопросы.](https://www.youtube.com/playlist?list=PLdhEOd5Bckb5JSlUmTQ34NPKeJFWSdm_n)
+### [Язык Си. Установка QT. Подключение OpenGL(glfw).](https://www.youtube.com/watch?v=I-FpjRi8gfA&amp;list=PLdhEOd5Bckb5JSlUmTQ34NPKeJFWSdm_n&amp;index=4&amp;pp=iAQB)

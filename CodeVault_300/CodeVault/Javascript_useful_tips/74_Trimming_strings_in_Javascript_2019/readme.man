@@ -1,0 +1,3 @@
+# [CodeVault](https://www.youtube.com/@CodeVault/playlists)
+## [Javascript useful tips](https://www.youtube.com/playlist?list=PLfqABt5AS4FkaHFTYQptXJ8aWxXGOoHbd)
+### [Trimming strings in Javascript (2019)](https://www.youtube.com/watch?v=rURDqs4tR3I&amp;list=PLfqABt5AS4FkaHFTYQptXJ8aWxXGOoHbd&amp;index=74&amp;pp=iAQB)

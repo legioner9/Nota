@@ -1,0 +1,3 @@
+# [CodeVault](https://www.youtube.com/@CodeVault/playlists)
+## [Javascript useful tips](https://www.youtube.com/playlist?list=PLfqABt5AS4FkaHFTYQptXJ8aWxXGOoHbd)
+### [How to split strings in Javascript](https://www.youtube.com/watch?v=hTZmGihfU_w&amp;list=PLfqABt5AS4FkaHFTYQptXJ8aWxXGOoHbd&amp;index=77&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [cppProsto](https://www.youtube.com/@cppProsto/playlists?view=1)
+## [Qt Widgets](https://www.youtube.com/playlist?list=PLdhEOd5Bckb68z9la6gCLgUWQo50Jt_NM)
+### [Qt Widgets - OpenGL. Создаем окно и рисуем треугольник.](https://www.youtube.com/watch?v=0v76la6HyBQ&amp;list=PLdhEOd5Bckb68z9la6gCLgUWQo50Jt_NM&amp;index=3&amp;pp=iAQB)

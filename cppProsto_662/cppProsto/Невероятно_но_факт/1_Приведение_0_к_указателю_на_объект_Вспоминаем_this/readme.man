@@ -1,0 +1,3 @@
+# [cppProsto](https://www.youtube.com/@cppProsto/playlists?view=1)
+## [Невероятно но факт.](https://www.youtube.com/playlist?list=PLdhEOd5Bckb5N7Rbapf9jxqqgvCYKjMc0)
+### [Приведение 0 к указателю на объект! Вспоминаем this.](https://www.youtube.com/watch?v=c8QEiQYgPm4&amp;list=PLdhEOd5Bckb5N7Rbapf9jxqqgvCYKjMc0&amp;index=1&amp;pp=iAQB)

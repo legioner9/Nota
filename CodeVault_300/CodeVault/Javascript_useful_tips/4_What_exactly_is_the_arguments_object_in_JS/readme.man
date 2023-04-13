@@ -1,0 +1,3 @@
+# [CodeVault](https://www.youtube.com/@CodeVault/playlists)
+## [Javascript useful tips](https://www.youtube.com/playlist?list=PLfqABt5AS4FkaHFTYQptXJ8aWxXGOoHbd)
+### [What exactly is the 'arguments' object in JS?](https://www.youtube.com/watch?v=GfXqvsBSkzs&amp;list=PLfqABt5AS4FkaHFTYQptXJ8aWxXGOoHbd&amp;index=4&amp;pp=iAQB)

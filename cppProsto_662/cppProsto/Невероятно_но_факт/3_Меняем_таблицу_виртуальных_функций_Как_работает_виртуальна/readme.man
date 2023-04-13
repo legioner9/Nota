@@ -1,0 +1,3 @@
+# [cppProsto](https://www.youtube.com/@cppProsto/playlists?view=1)
+## [Невероятно но факт.](https://www.youtube.com/playlist?list=PLdhEOd5Bckb5N7Rbapf9jxqqgvCYKjMc0)
+### [Меняем таблицу виртуальных функций! Как работает виртуальная функция в с++.](https://www.youtube.com/watch?v=Hwr0-HdYaHI&amp;list=PLdhEOd5Bckb5N7Rbapf9jxqqgvCYKjMc0&amp;index=3&amp;pp=iAQB)

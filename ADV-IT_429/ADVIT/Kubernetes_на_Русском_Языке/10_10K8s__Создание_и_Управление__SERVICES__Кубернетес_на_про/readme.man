@@ -1,0 +1,3 @@
+# [ADV-IT](https://www.youtube.com/@ADV-IT/playlists)
+## [Kubernetes на Русском Языке](https://www.youtube.com/playlist?list=PLg5SS_4L6LYvN1RqaVesof8KAf-02fJSi)
+### [10-K8s - Создание и Управление - SERVICES - Кубернетес на простом языке](https://www.youtube.com/watch?v=MRNGw08i6S4&amp;list=PLg5SS_4L6LYvN1RqaVesof8KAf-02fJSi&amp;index=10&amp;pp=iAQB)

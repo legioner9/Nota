@@ -1,0 +1,3 @@
+# [cppProsto](https://www.youtube.com/@cppProsto/playlists?view=1)
+## [SDL уроки](https://www.youtube.com/playlist?list=PLdhEOd5Bckb4WMrLsyuSyfUzsAIbNdRW8)
+### [#1 Уроки SDL 2. Начало. Как создать окно.](https://www.youtube.com/watch?v=nIy0KOH_z9Q&amp;list=PLdhEOd5Bckb4WMrLsyuSyfUzsAIbNdRW8&amp;index=2&amp;pp=iAQB)

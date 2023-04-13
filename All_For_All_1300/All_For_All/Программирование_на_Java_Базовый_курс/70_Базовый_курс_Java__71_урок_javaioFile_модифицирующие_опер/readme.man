@@ -1,0 +1,3 @@
+# [All For All](https://www.youtube.com/@allforall9627/playlists)
+## [Программирование на Java. Базовый курс.](https://www.youtube.com/playlist?list=PLoWGNURguz9WK29sEwqrao8LrJ1lYgyPw)
+### [Базовый курс Java - #71 урок. java.io.File: модифицирующие операции](https://www.youtube.com/watch?v=I3lDsDjmY78&amp;list=PLoWGNURguz9WK29sEwqrao8LrJ1lYgyPw&amp;index=70&amp;pp=iAQB)

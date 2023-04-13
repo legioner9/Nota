@@ -1,0 +1,3 @@
+# [CodeVault](https://www.youtube.com/@CodeVault/playlists)
+## [Javascript useful tips](https://www.youtube.com/playlist?list=PLfqABt5AS4FkaHFTYQptXJ8aWxXGOoHbd)
+### [Loose equality vs strict equality in JS](https://www.youtube.com/watch?v=z-fT79_LWEM&amp;list=PLfqABt5AS4FkaHFTYQptXJ8aWxXGOoHbd&amp;index=21&amp;pp=iAQB)

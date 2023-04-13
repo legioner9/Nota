@@ -1,0 +1,3 @@
+# [cppProsto](https://www.youtube.com/@cppProsto/playlists?view=1)
+## [SDL уроки](https://www.youtube.com/playlist?list=PLdhEOd5Bckb4WMrLsyuSyfUzsAIbNdRW8)
+### [#24 Уроки SDL 2. Текстуры. Доступ и манипуляция с пикселями.](https://www.youtube.com/watch?v=e0F_JYE78gI&amp;list=PLdhEOd5Bckb4WMrLsyuSyfUzsAIbNdRW8&amp;index=24&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [CodeVault](https://www.youtube.com/@CodeVault/playlists)
+## [Javascript useful tips](https://www.youtube.com/playlist?list=PLfqABt5AS4FkaHFTYQptXJ8aWxXGOoHbd)
+### [fill in JS - [ Array methods you must know in 2019 ]](https://www.youtube.com/watch?v=LuNG1mh_5MM&amp;list=PLfqABt5AS4FkaHFTYQptXJ8aWxXGOoHbd&amp;index=53&amp;pp=iAQB)

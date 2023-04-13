@@ -1,0 +1,3 @@
+# [cppProsto](https://www.youtube.com/@cppProsto/playlists?view=1)
+## [Qt Widgets](https://www.youtube.com/playlist?list=PLdhEOd5Bckb68z9la6gCLgUWQo50Jt_NM)
+### [Уроки С++. Qt Widgets - QEventFilter. QEvent - перехват событий главного окна.](https://www.youtube.com/watch?v=0Mu7yTtGTX8&amp;list=PLdhEOd5Bckb68z9la6gCLgUWQo50Jt_NM&amp;index=2&amp;pp=iAQB)

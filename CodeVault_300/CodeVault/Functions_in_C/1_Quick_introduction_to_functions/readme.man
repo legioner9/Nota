@@ -1,0 +1,3 @@
+# [CodeVault](https://www.youtube.com/@CodeVault/playlists)
+## [Functions in C](https://www.youtube.com/playlist?list=PLfqABt5AS4FkbQ0bvuCfgj6ClVi-GGDSi)
+### [Quick introduction to functions](https://www.youtube.com/watch?v=HN1Q8uXLf9Y&amp;list=PLfqABt5AS4FkbQ0bvuCfgj6ClVi-GGDSi&amp;index=1&amp;pp=iAQB)

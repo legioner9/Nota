@@ -1,0 +1,3 @@
+# [cppProsto](https://www.youtube.com/@cppProsto/playlists?view=1)
+## [SDL уроки](https://www.youtube.com/playlist?list=PLdhEOd5Bckb4WMrLsyuSyfUzsAIbNdRW8)
+### [#15 Уроки SDL 2. Поворот и переворот картинки. Уроки программирования.](https://www.youtube.com/watch?v=ZQdP4eyzBEo&amp;list=PLdhEOd5Bckb4WMrLsyuSyfUzsAIbNdRW8&amp;index=15&amp;pp=iAQB)

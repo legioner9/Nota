@@ -1,0 +1,3 @@
+# [cppProsto](https://www.youtube.com/@cppProsto/playlists?view=1)
+## [С/С++ Проекты, алгоритмы, разное](https://www.youtube.com/playlist?list=PLdhEOd5Bckb423YxT2SofsBTdOc_JZTrD)
+### [Защищаем нашу игру от сканеров памяти(ArtMoney, memscan, ...)!](https://www.youtube.com/watch?v=6XKRtfrtSBE&amp;list=PLdhEOd5Bckb423YxT2SofsBTdOc_JZTrD&amp;index=4&amp;pp=iAQB)

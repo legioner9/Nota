@@ -1,0 +1,3 @@
+# [cppProsto](https://www.youtube.com/@cppProsto/playlists?view=1)
+## [Игры для программистов. Обзоры](https://www.youtube.com/playlist?list=PLdhEOd5Bckb5yun1hl-GBFQjYztbEoSDd)
+### [Codewars Обзор](https://www.youtube.com/watch?v=e_tKtxoDpM0&amp;list=PLdhEOd5Bckb5yun1hl-GBFQjYztbEoSDd&amp;index=4&amp;pp=iAQB)

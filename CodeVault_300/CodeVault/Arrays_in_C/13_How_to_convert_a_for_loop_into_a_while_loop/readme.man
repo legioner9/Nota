@@ -1,0 +1,3 @@
+# [CodeVault](https://www.youtube.com/@CodeVault/playlists)
+## [Arrays in C](https://www.youtube.com/playlist?list=PLfqABt5AS4FlE_0SxzpkslkQBmtX7zre9)
+### [How to convert a for loop into a while loop](https://www.youtube.com/watch?v=-orHamj-dhs&amp;list=PLfqABt5AS4FlE_0SxzpkslkQBmtX7zre9&amp;index=13&amp;pp=iAQB)

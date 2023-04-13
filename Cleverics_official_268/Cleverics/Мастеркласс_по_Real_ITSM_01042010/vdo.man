@@ -1,0 +1,7 @@
+### [1. Приветствие IT Skeptic (часть 1)](https://www.youtube.com/watch?v=GO6rMbHvlE8&amp;list=PL620CA7C06140BE9C&amp;index=1&amp;pp=iAQB)
+### [2. Приветствие IT Skeptic (часть 2)](https://www.youtube.com/watch?v=iVnspDfFdqM&amp;list=PL620CA7C06140BE9C&amp;index=2&amp;pp=iAQB)
+### [Управление проблемами (Problem management)](https://www.youtube.com/watch?v=KodKirOxffY&amp;list=PL620CA7C06140BE9C&amp;index=3&amp;pp=iAQB)
+### [Управление изменениями (Change management)](https://www.youtube.com/watch?v=nAIj4uJyC_4&amp;list=PL620CA7C06140BE9C&amp;index=4&amp;pp=iAQB)
+### [О стратегии сервисов (Service Strategy)](https://www.youtube.com/watch?v=B9lQyy-UMc0&amp;list=PL620CA7C06140BE9C&amp;index=5&amp;pp=iAQB)
+### [Уровни зрелости процессов ITIL в реальной жизни](https://www.youtube.com/watch?v=GkHQOHA4jAc&amp;list=PL620CA7C06140BE9C&amp;index=6&amp;pp=iAQB)
+### [Перспективы ITSM в России и в мире](https://www.youtube.com/watch?v=pvRjEMPHeXo&amp;list=PL620CA7C06140BE9C&amp;index=7&amp;pp=iAQB)

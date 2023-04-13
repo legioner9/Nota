@@ -1,0 +1,3 @@
+### [Android Custom View. Теория. Обзор API и принципов создания View](https://www.youtube.com/watch?v=2fGI0TQkRY4&amp;list=PL0SwNXKJbuNks7zOqvVTFRkM_unoIAC45&amp;index=1&amp;pp=iAQB)
+### [Android Custom View. Собственная ViewGroup](https://www.youtube.com/watch?v=FKe4vqT4zpc&amp;list=PL0SwNXKJbuNks7zOqvVTFRkM_unoIAC45&amp;index=2&amp;pp=iAQB)
+### [Android Custom View. Диаграмма Ганта](https://www.youtube.com/watch?v=pnGM6YZdmQs&amp;list=PL0SwNXKJbuNks7zOqvVTFRkM_unoIAC45&amp;index=3&amp;pp=iAQB)

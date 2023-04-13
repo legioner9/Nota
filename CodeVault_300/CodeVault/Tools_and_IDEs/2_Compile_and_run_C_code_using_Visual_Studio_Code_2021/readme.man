@@ -1,0 +1,3 @@
+# [CodeVault](https://www.youtube.com/@CodeVault/playlists)
+## [Tools and IDEs](https://www.youtube.com/playlist?list=PLfqABt5AS4FnOR4oUXE_WDf1k0COTRee_)
+### [Compile and run C code using Visual Studio Code (2021)](https://www.youtube.com/watch?v=N5GhV8K8DIc&amp;list=PLfqABt5AS4FnOR4oUXE_WDf1k0COTRee_&amp;index=2&amp;pp=iAQB)

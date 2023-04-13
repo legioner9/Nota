@@ -1,0 +1,3 @@
+# [AlexMedovnik](https://www.youtube.com/@AlexMedovnik/playlists)
+## [Python с нуля](https://www.youtube.com/playlist?list=PLXRp8GYyTu9pthg-pKTdglkD2gi8NDoGi)
+### [Python с нуля. Урок №24. Lambda](https://www.youtube.com/watch?v=hnI3cL7-lTQ&amp;list=PLXRp8GYyTu9pthg-pKTdglkD2gi8NDoGi&amp;index=24&amp;pp=iAQB)

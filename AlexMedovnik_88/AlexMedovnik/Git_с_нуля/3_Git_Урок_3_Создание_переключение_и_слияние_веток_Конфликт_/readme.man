@@ -1,0 +1,3 @@
+# [AlexMedovnik](https://www.youtube.com/@AlexMedovnik/playlists)
+## [Git с нуля](https://www.youtube.com/playlist?list=PLXRp8GYyTu9rNfCAARr5Hu3slOfE5UPoN)
+### [Git. Урок №3. Создание, переключение и слияние веток. Конфликт при слиянии](https://www.youtube.com/watch?v=WVn_s_Q8TkA&amp;list=PLXRp8GYyTu9rNfCAARr5Hu3slOfE5UPoN&amp;index=3&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [cppProsto](https://www.youtube.com/@cppProsto/playlists?view=1)
+## [Qt Widgets](https://www.youtube.com/playlist?list=PLdhEOd5Bckb68z9la6gCLgUWQo50Jt_NM)
+### [Уроки С++. Qt Widgets - Первая программа. Знакомство](https://www.youtube.com/watch?v=BfVSHnRP_Ew&amp;list=PLdhEOd5Bckb68z9la6gCLgUWQo50Jt_NM&amp;index=1&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [BAKAVETS](https://www.youtube.com/@BAKAVETS/playlists)
+## [Kubernetes Уроки](https://www.youtube.com/playlist?list=PL3SzV1_k2H1VDePbSWUqERqlBXIk02wCQ)
+### [32 - AWS Load Balancer Controller в Kubernetes. Target type: IP vs Instance. Настройка HTTPS.](https://www.youtube.com/watch?v=8g-C8miu5Is&amp;list=PL3SzV1_k2H1VDePbSWUqERqlBXIk02wCQ&amp;index=32&amp;pp=iAQB)

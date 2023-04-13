@@ -1,0 +1,3 @@
+# [cppProsto](https://www.youtube.com/@cppProsto/playlists?view=1)
+## [Совершенный код](https://www.youtube.com/playlist?list=PLdhEOd5Bckb6llGayAelu3dnTXVgv2AI1)
+### [Совершенный Код. Как размер программы влияет на конструирование. Project Zomboid](https://www.youtube.com/watch?v=1oADnXA5qaI&amp;list=PLdhEOd5Bckb6llGayAelu3dnTXVgv2AI1&amp;index=12&amp;pp=iAQB)

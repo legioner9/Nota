@@ -1,0 +1,3 @@
+# [CodeVault](https://www.youtube.com/@CodeVault/playlists)
+## [Arrays in C](https://www.youtube.com/playlist?list=PLfqABt5AS4FlE_0SxzpkslkQBmtX7zre9)
+### [When to use a for loop and when to use a while loop](https://www.youtube.com/watch?v=P2kFHIO2WK0&amp;list=PLfqABt5AS4FlE_0SxzpkslkQBmtX7zre9&amp;index=12&amp;pp=iAQB)

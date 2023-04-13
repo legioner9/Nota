@@ -1,0 +1,3 @@
+# [cppProsto](https://www.youtube.com/@cppProsto/playlists?view=1)
+## [Язык программирования Си](https://www.youtube.com/playlist?list=PLdhEOd5Bckb5Vt6pPxXrOIJb_ANEnO-pg)
+### [Язык программирования Си - #6. Функции. Условные операторы (if else).](https://www.youtube.com/watch?v=SHGAmSmIOcQ&amp;list=PLdhEOd5Bckb5Vt6pPxXrOIJb_ANEnO-pg&amp;index=6&amp;pp=iAQB)

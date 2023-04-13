@@ -1,0 +1,3 @@
+# [CodeVault](https://www.youtube.com/@CodeVault/playlists)
+## [File and terminal input/output operations in C](https://www.youtube.com/playlist?list=PLfqABt5AS4Fmv8DszqJjIjmCjvTtTVslT)
+### [Format strings in C](https://www.youtube.com/watch?v=rUA3IkQNe5I&amp;list=PLfqABt5AS4Fmv8DszqJjIjmCjvTtTVslT&amp;index=20&amp;pp=iAQB)

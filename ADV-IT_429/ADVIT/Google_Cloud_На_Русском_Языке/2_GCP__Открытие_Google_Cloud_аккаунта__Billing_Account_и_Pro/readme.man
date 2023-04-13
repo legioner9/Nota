@@ -1,0 +1,3 @@
+# [ADV-IT](https://www.youtube.com/@ADV-IT/playlists)
+## [Google Cloud На Русском Языке](https://www.youtube.com/playlist?list=PLg5SS_4L6LYs5IZZSY0viHRQFPa2P-R8H)
+### [GCP - Открытие Google Cloud аккаунта - Billing Account и Projects](https://www.youtube.com/watch?v=ryJlSyWVO_A&amp;list=PLg5SS_4L6LYs5IZZSY0viHRQFPa2P-R8H&amp;index=2&amp;pp=iAQB)

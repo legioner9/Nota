@@ -1,0 +1,65 @@
+ 13.04.2023 00:29:09 done Как создать AWS аккаунт и настроить его после регистрации. Что делать, если не приходит SMS
+ 13.04.2023 00:29:11 done Что такое Security groups в AWS и как их настраивать. #DeepDive
+ 13.04.2023 00:29:14 done Хостинг статических вебсайтов на AWS, используя S3, Route53, CloudFront и AWS Certificate Manager
+ 13.04.2023 00:29:14 done AWS Уроки
+ 13.04.2023 00:29:49 done Как хранить и блокировать terraform.tfstate, используя S3 и DynamoDB на AWS
+ 13.04.2023 00:29:52 done Как создавать компоненты Terraform в отдельных папках и связывать их между собой
+ 13.04.2023 00:29:54 done Terraform CI/CD Pipeline, используя Github Actions
+ 13.04.2023 00:29:56 done Что такое Terragrunt и как его использовать. Практический выпуск
+ 13.04.2023 00:29:58 done Terragrunt CI/CD Pipeline с использованием Infracost. Что такое Infracost. GitHub Actions
+ 13.04.2023 00:29:59 done Terraform Уроки
+ 13.04.2023 00:30:34 done 1 - Установка Jenkins на Linux
+ 13.04.2023 00:30:36 done 2 - Подключение Linux Agent к Jenkins Master
+ 13.04.2023 00:30:39 done 3 - Подключение Windows Agent к Jenkins Master. Java 11
+ 13.04.2023 00:30:41 done 4 - Jenkins Pipeline. Docker build и push в Docker Hub. Jenkinsfile
+ 13.04.2023 00:30:44 done 5 - Как использовать Git Parameter в Jenkins Pipeline
+ 13.04.2023 00:30:46 done 6 - Запуск Jenkins Slaves в Kubernetes
+ 13.04.2023 00:30:47 done Jenkins Уроки
+ 13.04.2023 00:31:26 done Что такое Docker. Практический выпуск
+ 13.04.2023 00:31:26 done Docker Уроки
+ 13.04.2023 00:32:01 done 1 - Что такое Kubernetes? Запуск локального кластера Kubernetes. Minikube
+ 13.04.2023 00:32:03 done 2 - Запуск Kubernetes кластера на AWS, используя eksctl
+ 13.04.2023 00:32:05 done 3 - Запуск Kubernetes кластера на AWS, используя Terraform
+ 13.04.2023 00:32:08 done 4 - Как использовать kubectl с несколькими Kubernetes кластерами
+ 13.04.2023 00:32:10 done 5 - Как установить Kubernetes Dashboard
+ 13.04.2023 00:32:12 done 6 - Создание объекта Pod. Запуск контейнеров в Kubernetes
+ 13.04.2023 00:32:14 done 7 - Метки, аннотации и пространства имён в Kubernetes
+ 13.04.2023 00:32:16 done 8 - ReplicationController и ReplicaSet в Kubernetes
+ 13.04.2023 00:32:18 done 9 - Deployment в Kubernetes. Стратегии обновления приложений
+ 13.04.2023 00:32:20 done 10 - Service в Kubernetes - Часть 1. Type: ClusterIP. Endpoints
+ 13.04.2023 00:32:23 done 11 - Service в Kubernetes - Часть 2. Types: ExternalName, NodePort и LoadBalancer. Headless Service
+ 13.04.2023 00:32:25 done 12 - Ingress в Kubernetes. Создание Ingress на Minikube
+ 13.04.2023 00:32:27 done 13 - Liveness и Readiness Probes в Kubernetes
+ 13.04.2023 00:32:29 done 14 - StartupProbe и httpHeaders для httpGet в Kubernetes
+ 13.04.2023 00:32:31 done 15 - Переопределение CMD и ENTRYPOINT Docker иструкций, используя Kubernetes
+ 13.04.2023 00:32:33 done 16 - Настройка HTTPS для web-app в Kubernetes. NGINX Ingress и cert manager. Let's Encrypt
+ 13.04.2023 00:32:35 done 17 - Lens - IDE для Kubernetes
+ 13.04.2023 00:32:37 done 18 - Использование объекта DaemonSet в Kubernetes
+ 13.04.2023 00:32:39 done 19 - Использование Jobs в Kubernetes
+ 13.04.2023 00:32:42 done 20 - Использование CronJobs в Kubernetes
+ 13.04.2023 00:32:44 done 21 - Volumes в Kubernetes - Часть 1. Сравнение Docker storage driver: overlay2 и volume: emptyDir
+ 13.04.2023 00:32:46 done 22 - Volumes в Kubernetes - Часть 2. Volumes типов hostPath и awsElasticBlockStore
+ 13.04.2023 00:32:48 done 23 - Что такое PersistentVolume, PersistentVolumeClaim и StorageClass
+ 13.04.2023 00:32:50 done 24 - Как настроить AWS IAM Roles для Service Accounts в Kubernetes
+ 13.04.2023 00:32:52 done 25 - Cert-manager. Настройка HTTPS. Wildcard сертификаты. DNS01 Challenge. AWS Route53
+ 13.04.2023 00:32:54 done 26 - Использование ConfigMap и переменных окружения в Kubernetes
+ 13.04.2023 00:32:57 done 27 - Что такое Secrets в Kubernetes и как их использовать
+ 13.04.2023 00:32:59 done 28 - Что такое Helm. Практический выпуск. Kubernetes
+ 13.04.2023 00:33:01 done 29 - Что такое Helm Chart Repository. Установка ChartMuseum. Kubernetes
+ 13.04.2023 00:33:03 done 30 - Что такое ArgoCD и как с ним работать в Kubernetes. GitOps
+ 13.04.2023 00:33:05 done 31 - Сбор, анализ и отправка Pod логов в ElasticSearch, используя Fluentd. EFK Stack
+ 13.04.2023 00:33:07 done 32 - AWS Load Balancer Controller в Kubernetes. Target type: IP vs Instance. Настройка HTTPS.
+ 13.04.2023 00:33:09 done 33 - Что такое ExternalDNS и как его настроить с использованием AWS Route53
+ 13.04.2023 00:33:11 done 34 - Что такое ServiceAccount, Role, RoleBinding, ClusterRole и ClusterRoleBinding в Kubernetes
+ 13.04.2023 00:33:14 done 35 - ArgoCD. Cluster Bootstrapping. App of Apps Pattern. Deploy Infrastructure в одну команду в K8s
+ 13.04.2023 00:33:16 done 36 - Что такое External Secrets Operator в Kubernetes. AWS: Parameter Store и Secrets Manager
+ 13.04.2023 00:33:18 done 37 - Установка и настройка Grafana Loki в Kubernetes, используя AWS S3 Bucket. Promtail
+ 13.04.2023 00:33:20 done 38 - Node affinity и anti-affinity vs nodeSelector. podAffinity и podAntiAffinity в Kubernetes
+ 13.04.2023 00:33:22 done 39 - Taints и Tolerations в Kubernetes. NoSchedule, PreferNoSchedule и NoExecute
+ 13.04.2023 00:33:24 done 40 - Topology Spread Constraints. Запуск Pods в Highly Available. Local cluster, используя Kind
+ 13.04.2023 00:33:26 done 41 - Установка Amazon EBS CSI Driver. Использование AWS KMS для EBS
+ 13.04.2023 00:33:28 done 42 - Установка Amazon EFS CSI Driver. Dynamic volume provisioning, используя EFS Access points
+ 13.04.2023 00:33:31 done 43 - Network Policies в Kubernetes. Установка Calico network policy engine в Amazon EKS
+ 13.04.2023 00:33:31 done Kubernetes Уроки
+ 13.04.2023 00:33:32 good end 
+ 13.04.2023 00:33:32 good end 

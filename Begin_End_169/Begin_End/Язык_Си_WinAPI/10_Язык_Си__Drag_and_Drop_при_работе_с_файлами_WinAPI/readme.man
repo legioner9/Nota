@@ -1,0 +1,3 @@
+# [Begin End](https://www.youtube.com/@beginend95/playlists)
+## [Язык Си (WinAPI)](https://www.youtube.com/playlist?list=PLBOPkQsFLCR2H7_0Ss0W6y703J_ySRGi_)
+### [Язык Си - Drag and Drop при работе с файлами. WinAPI.](https://www.youtube.com/watch?v=x2jOZIl3OoA&amp;list=PLBOPkQsFLCR2H7_0Ss0W6y703J_ySRGi_&amp;index=10&amp;pp=iAQB)

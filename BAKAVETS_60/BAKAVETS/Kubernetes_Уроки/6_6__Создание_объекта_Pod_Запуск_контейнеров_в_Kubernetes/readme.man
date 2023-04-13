@@ -1,0 +1,3 @@
+# [BAKAVETS](https://www.youtube.com/@BAKAVETS/playlists)
+## [Kubernetes Уроки](https://www.youtube.com/playlist?list=PL3SzV1_k2H1VDePbSWUqERqlBXIk02wCQ)
+### [6 - Создание объекта Pod. Запуск контейнеров в Kubernetes](https://www.youtube.com/watch?v=BzuC4GNoj0A&amp;list=PL3SzV1_k2H1VDePbSWUqERqlBXIk02wCQ&amp;index=6&amp;pp=iAQB)

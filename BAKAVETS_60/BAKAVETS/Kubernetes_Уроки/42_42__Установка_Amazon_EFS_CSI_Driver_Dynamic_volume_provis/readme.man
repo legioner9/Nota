@@ -1,0 +1,3 @@
+# [BAKAVETS](https://www.youtube.com/@BAKAVETS/playlists)
+## [Kubernetes Уроки](https://www.youtube.com/playlist?list=PL3SzV1_k2H1VDePbSWUqERqlBXIk02wCQ)
+### [42 - Установка Amazon EFS CSI Driver. Dynamic volume provisioning, используя EFS Access points](https://www.youtube.com/watch?v=4KfrOHrCOks&amp;list=PL3SzV1_k2H1VDePbSWUqERqlBXIk02wCQ&amp;index=42&amp;pp=iAQB)

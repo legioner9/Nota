@@ -1,0 +1,3 @@
+# [cppProsto](https://www.youtube.com/@cppProsto/playlists?view=1)
+## [Project Zomboid создание модов](https://www.youtube.com/playlist?list=PLdhEOd5Bckb5cA8eWCYYM1X4xQsgslEPH)
+### [#1 Project Zomboid. Как создать свой мод? Пишем свой мод.](https://www.youtube.com/watch?v=t9P_bb5A3bQ&amp;list=PLdhEOd5Bckb5cA8eWCYYM1X4xQsgslEPH&amp;index=1&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [cppProsto](https://www.youtube.com/@cppProsto/playlists?view=1)
+## [С/С++ Проекты, алгоритмы, разное](https://www.youtube.com/playlist?list=PLdhEOd5Bckb423YxT2SofsBTdOc_JZTrD)
+### [Вектор движения. Столкновение окружностей. Язык программирования С++.](https://www.youtube.com/watch?v=LkznxGcB1Ek&amp;list=PLdhEOd5Bckb423YxT2SofsBTdOc_JZTrD&amp;index=3&amp;pp=iAQB)

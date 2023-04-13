@@ -1,0 +1,3 @@
+# [cppProsto](https://www.youtube.com/@cppProsto/playlists?view=1)
+## [Linux терминал](https://www.youtube.com/playlist?list=PLdhEOd5Bckb6NrxfytLsKdVLeHOYAIWm6)
+### [Linux основы. Терминал в Ubuntu. Команда history.](https://www.youtube.com/watch?v=Xiq8Ns4-gNc&amp;list=PLdhEOd5Bckb6NrxfytLsKdVLeHOYAIWm6&amp;index=3&amp;pp=iAQB)

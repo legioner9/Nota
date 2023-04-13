@@ -1,0 +1,3 @@
+# [cppProsto](https://www.youtube.com/@cppProsto/playlists?view=1)
+## [Game Engine Black Book Wolfenstein 3D](https://www.youtube.com/playlist?list=PLdhEOd5Bckb6DGCdrk65ZA79anICm7Siu)
+### [#7 Архитектура движка. Игровой движок Wolfenstein 3D(Black Book Wolfenstein 3D).](https://www.youtube.com/watch?v=HI_6qOMWJck&amp;list=PLdhEOd5Bckb6DGCdrk65ZA79anICm7Siu&amp;index=7&amp;pp=iAQB)

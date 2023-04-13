@@ -1,0 +1,3 @@
+# [cppProsto](https://www.youtube.com/@cppProsto/playlists?view=1)
+## [Linux - Ubuntu](https://www.youtube.com/playlist?list=PLdhEOd5Bckb5YQoM_yAMepR3LWwk5OkZg)
+### [Ubuntu. Bash. Скрипт загрузки(обновления) репозитория с github.](https://www.youtube.com/watch?v=d3AzEes9EkE&amp;list=PLdhEOd5Bckb5YQoM_yAMepR3LWwk5OkZg&amp;index=2&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [AlexMedovnik](https://www.youtube.com/@AlexMedovnik/playlists)
+## [Python с нуля](https://www.youtube.com/playlist?list=PLXRp8GYyTu9pthg-pKTdglkD2gi8NDoGi)
+### [Python с нуля. Урок №10. Условное ветвление.](https://www.youtube.com/watch?v=jYmoxETJZgs&amp;list=PLXRp8GYyTu9pthg-pKTdglkD2gi8NDoGi&amp;index=10&amp;pp=iAQB)

@@ -1,0 +1,6 @@
+### [Quick introduction to functions](https://www.youtube.com/watch?v=HN1Q8uXLf9Y&amp;list=PLfqABt5AS4FkbQ0bvuCfgj6ClVi-GGDSi&amp;index=1&amp;pp=iAQB)
+### [Return value of a function](https://www.youtube.com/watch?v=WIb_N_jqs3k&amp;list=PLfqABt5AS4FkbQ0bvuCfgj6ClVi-GGDSi&amp;index=2&amp;pp=iAQB)
+### [Returning multiple values from a function](https://www.youtube.com/watch?v=NPgVytR02nk&amp;list=PLfqABt5AS4FkbQ0bvuCfgj6ClVi-GGDSi&amp;index=3&amp;pp=iAQB)
+### [Intro to recursive functions in C](https://www.youtube.com/watch?v=fXOOCpZyvwM&amp;list=PLfqABt5AS4FkbQ0bvuCfgj6ClVi-GGDSi&amp;index=4&amp;pp=iAQB)
+### [Why are function pointers useful?](https://www.youtube.com/watch?v=ewBBRaF0oEA&amp;list=PLfqABt5AS4FkbQ0bvuCfgj6ClVi-GGDSi&amp;index=5&amp;pp=iAQB)
+### [What are variadic functions (va_list) in C?](https://www.youtube.com/watch?v=oDC208zvsdg&amp;list=PLfqABt5AS4FkbQ0bvuCfgj6ClVi-GGDSi&amp;index=6&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [cppProsto](https://www.youtube.com/@cppProsto/playlists?view=1)
+## [SDL уроки](https://www.youtube.com/playlist?list=PLdhEOd5Bckb4WMrLsyuSyfUzsAIbNdRW8)
+### [#13 Уроки SDL 2. Альфа режим.](https://www.youtube.com/watch?v=gmJqInPEp-s&amp;list=PLdhEOd5Bckb4WMrLsyuSyfUzsAIbNdRW8&amp;index=13&amp;pp=iAQB)

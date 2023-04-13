@@ -1,0 +1,3 @@
+# [cppProsto](https://www.youtube.com/@cppProsto/playlists?view=1)
+## [Язык программирования Си. Изучение C.](https://www.youtube.com/playlist?list=PLdhEOd5Bckb5T5FcYPYlTi-6eoOypRF2d)
+### [Уроки Си. Изучение Си |32| - Бинарное дерево поиска. Вставка. Балансировка.](https://www.youtube.com/watch?v=3l7vrmDk-vk&amp;list=PLdhEOd5Bckb5T5FcYPYlTi-6eoOypRF2d&amp;index=32&amp;pp=iAQB)

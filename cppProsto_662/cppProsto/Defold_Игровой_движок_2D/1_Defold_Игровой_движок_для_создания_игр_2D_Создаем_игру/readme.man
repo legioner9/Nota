@@ -1,0 +1,3 @@
+# [cppProsto](https://www.youtube.com/@cppProsto/playlists?view=1)
+## [Defold. Игровой движок 2D](https://www.youtube.com/playlist?list=PLdhEOd5Bckb7bpO1HacIt9OYJGoEBtdAZ)
+### [Defold. Игровой движок для создания игр 2D. Создаем игру.](https://www.youtube.com/watch?v=FQXvf6dksaU&amp;list=PLdhEOd5Bckb7bpO1HacIt9OYJGoEBtdAZ&amp;index=1&amp;pp=iAQB)

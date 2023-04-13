@@ -1,0 +1,3 @@
+# [CodeVault](https://www.youtube.com/@CodeVault/playlists)
+## [The C programming language made simple](https://www.youtube.com/playlist?list=PLfqABt5AS4FmErobw8YyTwXDUE5nPH5lH)
+### [putc, putch and putchar in C](https://www.youtube.com/watch?v=L7RPF1tCW6Y&amp;list=PLfqABt5AS4FmErobw8YyTwXDUE5nPH5lH&amp;index=83&amp;pp=iAQB)

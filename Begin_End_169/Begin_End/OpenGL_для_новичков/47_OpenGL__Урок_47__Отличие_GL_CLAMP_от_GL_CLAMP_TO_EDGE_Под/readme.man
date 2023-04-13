@@ -1,0 +1,3 @@
+# [Begin End](https://www.youtube.com/@beginend95/playlists)
+## [OpenGL (для новичков)](https://www.youtube.com/playlist?list=PLBOPkQsFLCR0XuXoCf6PMhVmD2ukHXIBK)
+### [OpenGL - Урок 47 - Отличие GL_CLAMP от GL_CLAMP_TO_EDGE. Подробно про текстурные функции.](https://www.youtube.com/watch?v=0iVGbZL7c30&amp;list=PLBOPkQsFLCR0XuXoCf6PMhVmD2ukHXIBK&amp;index=47&amp;pp=iAQB)

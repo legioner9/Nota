@@ -1,0 +1,3 @@
+# [BAKAVETS](https://www.youtube.com/@BAKAVETS/playlists)
+## [Kubernetes Уроки](https://www.youtube.com/playlist?list=PL3SzV1_k2H1VDePbSWUqERqlBXIk02wCQ)
+### [33 - Что такое ExternalDNS и как его настроить с использованием AWS Route53](https://www.youtube.com/watch?v=owSLoxpozuI&amp;list=PL3SzV1_k2H1VDePbSWUqERqlBXIk02wCQ&amp;index=33&amp;pp=iAQB)

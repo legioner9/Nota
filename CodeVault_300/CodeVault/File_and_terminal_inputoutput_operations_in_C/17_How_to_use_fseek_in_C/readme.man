@@ -1,0 +1,3 @@
+# [CodeVault](https://www.youtube.com/@CodeVault/playlists)
+## [File and terminal input/output operations in C](https://www.youtube.com/playlist?list=PLfqABt5AS4Fmv8DszqJjIjmCjvTtTVslT)
+### [How to use fseek in C](https://www.youtube.com/watch?v=EA2MVIgu7Q4&amp;list=PLfqABt5AS4Fmv8DszqJjIjmCjvTtTVslT&amp;index=17&amp;pp=iAQB)

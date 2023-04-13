@@ -1,0 +1,3 @@
+# [All For All](https://www.youtube.com/@allforall9627/playlists)
+## [Функциональное программирование на языке Haskell](https://www.youtube.com/playlist?list=PLoWGNURguz9W5K9_XcmpLcLVTLnv-QG-h)
+### [Haskell для начинающих - #71 урок. Оформление сворачивающей функции](https://www.youtube.com/watch?v=n81wmj0mUbQ&amp;list=PLoWGNURguz9W5K9_XcmpLcLVTLnv-QG-h&amp;index=70&amp;pp=iAQB)

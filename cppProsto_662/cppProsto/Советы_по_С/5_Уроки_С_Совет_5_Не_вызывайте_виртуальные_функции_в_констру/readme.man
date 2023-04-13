@@ -1,0 +1,3 @@
+# [cppProsto](https://www.youtube.com/@cppProsto/playlists?view=1)
+## [Советы по С++](https://www.youtube.com/playlist?list=PLdhEOd5Bckb61pPGGY9lN_ob4gUFbeDQ5)
+### [Уроки С++. Совет #5. Не вызывайте виртуальные функции в конструкторе и деструкторе. #ityoutubers](https://www.youtube.com/watch?v=UBsU7__6O6Y&amp;list=PLdhEOd5Bckb61pPGGY9lN_ob4gUFbeDQ5&amp;index=5&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [cppProsto](https://www.youtube.com/@cppProsto/playlists?view=1)
+## [python](https://www.youtube.com/playlist?list=PLdhEOd5Bckb6DTzj3OtZ4Q3VGqibWLXjz)
+### [#1 Пишем игру на python. PyGame](https://www.youtube.com/watch?v=vCkjo0zj4ao&amp;list=PLdhEOd5Bckb6DTzj3OtZ4Q3VGqibWLXjz&amp;index=8&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [CodeVault](https://www.youtube.com/@CodeVault/playlists)
+## [The C programming language made simple](https://www.youtube.com/playlist?list=PLfqABt5AS4FmErobw8YyTwXDUE5nPH5lH)
+### [Sorted linked list](https://www.youtube.com/watch?v=29OANTQ826Y&amp;list=PLfqABt5AS4FmErobw8YyTwXDUE5nPH5lH&amp;index=63&amp;pp=iAQB)

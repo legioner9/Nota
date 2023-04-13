@@ -1,0 +1,3 @@
+# [CodeVault](https://www.youtube.com/@CodeVault/playlists)
+## [File and terminal input/output operations in C](https://www.youtube.com/playlist?list=PLfqABt5AS4Fmv8DszqJjIjmCjvTtTVslT)
+### [printf(MEMORY) | How to print memory to the console](https://www.youtube.com/watch?v=a3ropbfIpw4&amp;list=PLfqABt5AS4Fmv8DszqJjIjmCjvTtTVslT&amp;index=4&amp;pp=iAQB)

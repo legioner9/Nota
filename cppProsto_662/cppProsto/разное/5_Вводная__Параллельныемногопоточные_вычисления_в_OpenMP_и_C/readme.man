@@ -1,0 +1,3 @@
+# [cppProsto](https://www.youtube.com/@cppProsto/playlists?view=1)
+## [разное](https://www.youtube.com/playlist?list=PLdhEOd5Bckb5riU8-sun5-Ybhr_SIvIG7)
+### [Вводная - Параллельные(многопоточные) вычисления в OpenMP и C++17.](https://www.youtube.com/watch?v=khDm5_ob7f0&amp;list=PLdhEOd5Bckb5riU8-sun5-Ybhr_SIvIG7&amp;index=5&amp;pp=iAQB)

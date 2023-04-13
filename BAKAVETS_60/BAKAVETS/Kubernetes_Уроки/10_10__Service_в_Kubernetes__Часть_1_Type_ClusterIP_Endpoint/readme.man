@@ -1,0 +1,3 @@
+# [BAKAVETS](https://www.youtube.com/@BAKAVETS/playlists)
+## [Kubernetes Уроки](https://www.youtube.com/playlist?list=PL3SzV1_k2H1VDePbSWUqERqlBXIk02wCQ)
+### [10 - Service в Kubernetes - Часть 1. Type: ClusterIP. Endpoints](https://www.youtube.com/watch?v=ut29haR0-G0&amp;list=PL3SzV1_k2H1VDePbSWUqERqlBXIk02wCQ&amp;index=10&amp;pp=iAQB)

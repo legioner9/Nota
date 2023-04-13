@@ -1,0 +1,3 @@
+# [CodeVault](https://www.youtube.com/@CodeVault/playlists)
+## [Linked lists for absolute beginners](https://www.youtube.com/playlist?list=PLfqABt5AS4FmXeWuuNDS3XGENJO1VYGxl)
+### [Finding loops/cycles in a linked list](https://www.youtube.com/watch?v=Wt47xdjp0mM&amp;list=PLfqABt5AS4FmXeWuuNDS3XGENJO1VYGxl&amp;index=10&amp;pp=iAQB)

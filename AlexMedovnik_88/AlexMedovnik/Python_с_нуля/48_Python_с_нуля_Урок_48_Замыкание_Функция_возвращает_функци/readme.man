@@ -1,0 +1,3 @@
+# [AlexMedovnik](https://www.youtube.com/@AlexMedovnik/playlists)
+## [Python с нуля](https://www.youtube.com/playlist?list=PLXRp8GYyTu9pthg-pKTdglkD2gi8NDoGi)
+### [Python с нуля. Урок №48. Замыкание. Функция возвращает функцию.](https://www.youtube.com/watch?v=f2GN6mPWu1c&amp;list=PLXRp8GYyTu9pthg-pKTdglkD2gi8NDoGi&amp;index=48&amp;pp=iAQB)

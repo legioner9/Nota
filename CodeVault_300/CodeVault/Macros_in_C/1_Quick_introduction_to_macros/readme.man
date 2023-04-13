@@ -1,0 +1,3 @@
+# [CodeVault](https://www.youtube.com/@CodeVault/playlists)
+## [Macros in C](https://www.youtube.com/playlist?list=PLfqABt5AS4FmedTu7qARJ6REL7Y_dX-4A)
+### [Quick introduction to macros](https://www.youtube.com/watch?v=LZghHIg_mnM&amp;list=PLfqABt5AS4FmedTu7qARJ6REL7Y_dX-4A&amp;index=1&amp;pp=iAQB)

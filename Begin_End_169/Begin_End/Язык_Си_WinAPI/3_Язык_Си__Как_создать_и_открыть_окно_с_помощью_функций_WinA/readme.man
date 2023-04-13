@@ -1,0 +1,3 @@
+# [Begin End](https://www.youtube.com/@beginend95/playlists)
+## [Язык Си (WinAPI)](https://www.youtube.com/playlist?list=PLBOPkQsFLCR2H7_0Ss0W6y703J_ySRGi_)
+### [Язык Си - Как создать и открыть окно с помощью функций WinAPI.](https://www.youtube.com/watch?v=GgWk1b2pXYA&amp;list=PLBOPkQsFLCR2H7_0Ss0W6y703J_ySRGi_&amp;index=3&amp;pp=iAQB)

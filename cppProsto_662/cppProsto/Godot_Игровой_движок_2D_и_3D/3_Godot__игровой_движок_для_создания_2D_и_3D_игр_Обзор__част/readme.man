@@ -1,0 +1,3 @@
+# [cppProsto](https://www.youtube.com/@cppProsto/playlists?view=1)
+## [Godot. Игровой движок 2D и 3D](https://www.youtube.com/playlist?list=PLdhEOd5Bckb4MC-jDz_VEOSeXvhzxKGGO)
+### [Godot - игровой движок для создания 2D и 3D игр. Обзор - часть 3.](https://www.youtube.com/watch?v=aWOI6EjQNKw&amp;list=PLdhEOd5Bckb4MC-jDz_VEOSeXvhzxKGGO&amp;index=3&amp;pp=iAQB)

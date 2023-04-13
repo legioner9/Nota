@@ -1,0 +1,3 @@
+# [cppProsto](https://www.youtube.com/@cppProsto/playlists?view=1)
+## [С/С++ Сопутствующие вопросы.](https://www.youtube.com/playlist?list=PLdhEOd5Bckb5JSlUmTQ34NPKeJFWSdm_n)
+### [#1 - Язык Си. Отрицательные целые числа. Битовое представление.](https://www.youtube.com/watch?v=SglLWfRwx6w&amp;list=PLdhEOd5Bckb5JSlUmTQ34NPKeJFWSdm_n&amp;index=1&amp;pp=iAQB)

@@ -1,0 +1,5 @@
+### [Godot - игровой движок для создания 2D и 3D игр. Обзор - часть 1.](https://www.youtube.com/watch?v=9E6wkhBKQ1A&amp;list=PLdhEOd5Bckb4MC-jDz_VEOSeXvhzxKGGO&amp;index=1&amp;pp=iAQB)
+### [Godot - игровой движок для создания 2D и 3D игр. Обзор - часть 2.](https://www.youtube.com/watch?v=nGzKGXrPr8Q&amp;list=PLdhEOd5Bckb4MC-jDz_VEOSeXvhzxKGGO&amp;index=2&amp;pp=iAQB)
+### [Godot - игровой движок для создания 2D и 3D игр. Обзор - часть 3.](https://www.youtube.com/watch?v=aWOI6EjQNKw&amp;list=PLdhEOd5Bckb4MC-jDz_VEOSeXvhzxKGGO&amp;index=3&amp;pp=iAQB)
+### [Godot - игровой движок для создания 2D и 3D игр. Обзор - часть 4.](https://www.youtube.com/watch?v=qKCevQAFtvk&amp;list=PLdhEOd5Bckb4MC-jDz_VEOSeXvhzxKGGO&amp;index=4&amp;pp=iAQB)
+### [Godot - игровой движок для создания 2D и 3D игр. Обзор - часть 5.](https://www.youtube.com/watch?v=UxW4XMfXaFw&amp;list=PLdhEOd5Bckb4MC-jDz_VEOSeXvhzxKGGO&amp;index=5&amp;pp=iAQB)

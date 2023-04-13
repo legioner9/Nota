@@ -1,0 +1,3 @@
+# [cppProsto](https://www.youtube.com/@cppProsto/playlists?view=1)
+## [Советы по С++](https://www.youtube.com/playlist?list=PLdhEOd5Bckb61pPGGY9lN_ob4gUFbeDQ5)
+### [Уроки С++. Совет #14. Предпочитайте приведение типов в Стиле С++. Приведение типов в С++](https://www.youtube.com/watch?v=KlMWx-NM_fw&amp;list=PLdhEOd5Bckb61pPGGY9lN_ob4gUFbeDQ5&amp;index=14&amp;pp=iAQB)

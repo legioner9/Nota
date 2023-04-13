@@ -1,0 +1,3 @@
+# [cppProsto](https://www.youtube.com/@cppProsto/playlists?view=1)
+## [Язык программирования Си. Изучение C.](https://www.youtube.com/playlist?list=PLdhEOd5Bckb5T5FcYPYlTi-6eoOypRF2d)
+### [Уроки Си. Изучение Си |7| - Инструцкии if - else, switch, ?:](https://www.youtube.com/watch?v=k2wXBOc3B2Y&amp;list=PLdhEOd5Bckb5T5FcYPYlTi-6eoOypRF2d&amp;index=7&amp;pp=iAQB)

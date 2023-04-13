@@ -1,0 +1,3 @@
+# [Begin End](https://www.youtube.com/@beginend95/playlists)
+## [Язык Си с нуля (для новичков)](https://www.youtube.com/playlist?list=PLBOPkQsFLCR2DWRY74L03FmbRtz_Yy73_)
+### [Программирование на Си - Урок 9 - символы, строки, библиотеки и печать на русском](https://www.youtube.com/watch?v=8pv5k_D2zyA&amp;list=PLBOPkQsFLCR2DWRY74L03FmbRtz_Yy73_&amp;index=9&amp;pp=iAQB)

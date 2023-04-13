@@ -1,0 +1,3 @@
+# [cppProsto](https://www.youtube.com/@cppProsto/playlists?view=1)
+## [Linux терминал](https://www.youtube.com/playlist?list=PLdhEOd5Bckb6NrxfytLsKdVLeHOYAIWm6)
+### [Linux основы. Терминал в Ubuntu. Команда locate.](https://www.youtube.com/watch?v=dfnA1P3-5K8&amp;list=PLdhEOd5Bckb6NrxfytLsKdVLeHOYAIWm6&amp;index=7&amp;pp=iAQB)

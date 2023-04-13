@@ -1,0 +1,3 @@
+# [cppProsto](https://www.youtube.com/@cppProsto/playlists?view=1)
+## [Советы по С++](https://www.youtube.com/playlist?list=PLdhEOd5Bckb61pPGGY9lN_ob4gUFbeDQ5)
+### [Уроки С++. Совет #15. Никогда не используйте полиморфизм в массивах](https://www.youtube.com/watch?v=Ir9ZwiRrs9E&amp;list=PLdhEOd5Bckb61pPGGY9lN_ob4gUFbeDQ5&amp;index=15&amp;pp=iAQB)

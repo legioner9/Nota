@@ -1,0 +1,3 @@
+# [cppProsto](https://www.youtube.com/@cppProsto/playlists?view=1)
+## [SDL уроки](https://www.youtube.com/playlist?list=PLdhEOd5Bckb4WMrLsyuSyfUzsAIbNdRW8)
+### [#18 Уроки SDL 2. Меню. Звуковые эффекты](https://www.youtube.com/watch?v=6vtNA41g8X8&amp;list=PLdhEOd5Bckb4WMrLsyuSyfUzsAIbNdRW8&amp;index=18&amp;pp=iAQB)

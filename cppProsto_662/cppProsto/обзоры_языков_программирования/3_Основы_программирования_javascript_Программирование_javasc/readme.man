@@ -1,0 +1,3 @@
+# [cppProsto](https://www.youtube.com/@cppProsto/playlists?view=1)
+## [обзоры языков программирования](https://www.youtube.com/playlist?list=PLdhEOd5Bckb6vcYRTrYYd4muEjJ1z2OyQ)
+### [Основы программирования javascript. Программирование javascript для начинающих.](https://www.youtube.com/watch?v=abffVoGtRPQ&amp;list=PLdhEOd5Bckb6vcYRTrYYd4muEjJ1z2OyQ&amp;index=3&amp;pp=iAQB)

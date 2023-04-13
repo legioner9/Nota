@@ -1,0 +1,4 @@
+### [FFMPEG. Как наложить картинку поверх видео?](https://www.youtube.com/watch?v=CM9G55APWcc&amp;list=PLdhEOd5Bckb53e6H3KbCJ_qrmB3IW6VgD&amp;index=1&amp;pp=iAQB)
+### [FFMPEG. Как ускорить или замедлить видео и аудио?](https://www.youtube.com/watch?v=71rYc0cLLxk&amp;list=PLdhEOd5Bckb53e6H3KbCJ_qrmB3IW6VgD&amp;index=2&amp;pp=iAQB)
+### [FFMPEG. Как склеить несколько видео в одно?](https://www.youtube.com/watch?v=yqg-Gpuf6tg&amp;list=PLdhEOd5Bckb53e6H3KbCJ_qrmB3IW6VgD&amp;index=3&amp;pp=iAQB)
+### [FFMPEG. Как сконвертировать PDF или картинки в видео?](https://www.youtube.com/watch?v=NBbmtu4G83U&amp;list=PLdhEOd5Bckb53e6H3KbCJ_qrmB3IW6VgD&amp;index=4&amp;pp=iAQB)

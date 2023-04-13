@@ -1,0 +1,3 @@
+# [cppProsto](https://www.youtube.com/@cppProsto/playlists?view=1)
+## [Nvidia CUDA](https://www.youtube.com/playlist?list=PLdhEOd5Bckb6eDz0S3gQ27mxCKT2WFHuU)
+### [Nvidia CUDA. Эволюция GPU. Краткий экскурс.](https://www.youtube.com/watch?v=HJDCceP1X2w&amp;list=PLdhEOd5Bckb6eDz0S3gQ27mxCKT2WFHuU&amp;index=1&amp;pp=iAQB)

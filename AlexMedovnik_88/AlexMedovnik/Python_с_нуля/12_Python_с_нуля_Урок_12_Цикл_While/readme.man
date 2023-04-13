@@ -1,0 +1,3 @@
+# [AlexMedovnik](https://www.youtube.com/@AlexMedovnik/playlists)
+## [Python с нуля](https://www.youtube.com/playlist?list=PLXRp8GYyTu9pthg-pKTdglkD2gi8NDoGi)
+### [Python с нуля. Урок №12. Цикл While](https://www.youtube.com/watch?v=x2uW607Q_vs&amp;list=PLXRp8GYyTu9pthg-pKTdglkD2gi8NDoGi&amp;index=12&amp;pp=iAQB)

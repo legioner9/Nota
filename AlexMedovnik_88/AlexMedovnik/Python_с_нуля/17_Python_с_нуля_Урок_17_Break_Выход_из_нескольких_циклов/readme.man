@@ -1,0 +1,3 @@
+# [AlexMedovnik](https://www.youtube.com/@AlexMedovnik/playlists)
+## [Python с нуля](https://www.youtube.com/playlist?list=PLXRp8GYyTu9pthg-pKTdglkD2gi8NDoGi)
+### [Python с нуля. Урок №17. Break. Выход из нескольких циклов.](https://www.youtube.com/watch?v=WRO5iru_Eio&amp;list=PLXRp8GYyTu9pthg-pKTdglkD2gi8NDoGi&amp;index=17&amp;pp=iAQB)

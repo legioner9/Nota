@@ -1,0 +1,3 @@
+# [cppProsto](https://www.youtube.com/@cppProsto/playlists?view=1)
+## [Вопрос - ответ](https://www.youtube.com/playlist?list=PLdhEOd5Bckb7n6FDL7jhtILZwJbIBGWOG)
+### [Вопрос - ответ #4 - Как читать исходный код других программ? Зачем?](https://www.youtube.com/watch?v=1OtHOv3uO3A&amp;list=PLdhEOd5Bckb7n6FDL7jhtILZwJbIBGWOG&amp;index=5&amp;pp=iAQB)

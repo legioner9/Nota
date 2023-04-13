@@ -1,0 +1,3 @@
+# [Begin End](https://www.youtube.com/@beginend95/playlists)
+## [Язык Си (WinAPI)](https://www.youtube.com/playlist?list=PLBOPkQsFLCR2H7_0Ss0W6y703J_ySRGi_)
+### [Язык Си - WinAPI. Как убрать рамку и изменить размер окна. Меняем разрешение экрана.](https://www.youtube.com/watch?v=mwAKpL60vzo&amp;list=PLBOPkQsFLCR2H7_0Ss0W6y703J_ySRGi_&amp;index=9&amp;pp=iAQB)

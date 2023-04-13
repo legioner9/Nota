@@ -1,0 +1,3 @@
+# [cppProsto](https://www.youtube.com/@cppProsto/playlists?view=1)
+## [С/С++ Начало. Что? Где? и Как?](https://www.youtube.com/playlist?list=PLdhEOd5Bckb7ljO0Iqw7xvjVLHL-C1P1L)
+### [Уроки Си. Изучение Си |28| - Потоки ввода/вывода. FILE*, stdin, stdout, stderr.](https://www.youtube.com/watch?v=wuMR2o2pRPg&amp;list=PLdhEOd5Bckb7ljO0Iqw7xvjVLHL-C1P1L&amp;index=28&amp;pp=iAQB)

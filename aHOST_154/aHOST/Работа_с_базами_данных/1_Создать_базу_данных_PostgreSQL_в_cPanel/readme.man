@@ -1,0 +1,3 @@
+# [aHOST](https://www.youtube.com/@ahostuzb/playlists)
+## [Работа с базами данных](https://www.youtube.com/playlist?list=PLxPE_CsyjOUrVV-AulJF261EA5010xI6h)
+### [Создать базу данных PostgreSQL в cPanel](https://www.youtube.com/watch?v=Hv8gb56Cv0I&amp;list=PLxPE_CsyjOUrVV-AulJF261EA5010xI6h&amp;index=1&amp;pp=iAQB)

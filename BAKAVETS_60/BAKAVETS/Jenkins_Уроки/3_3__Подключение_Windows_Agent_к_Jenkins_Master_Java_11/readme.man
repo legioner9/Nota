@@ -1,0 +1,3 @@
+# [BAKAVETS](https://www.youtube.com/@BAKAVETS/playlists)
+## [Jenkins Уроки](https://www.youtube.com/playlist?list=PL3SzV1_k2H1WK6LGxIf7-1yOj-In0Ieoh)
+### [3 - Подключение Windows Agent к Jenkins Master. Java 11](https://www.youtube.com/watch?v=S9Mp1IbFd-E&amp;list=PL3SzV1_k2H1WK6LGxIf7-1yOj-In0Ieoh&amp;index=3&amp;pp=iAQB)

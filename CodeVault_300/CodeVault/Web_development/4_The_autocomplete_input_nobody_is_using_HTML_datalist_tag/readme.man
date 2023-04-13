@@ -1,0 +1,3 @@
+# [CodeVault](https://www.youtube.com/@CodeVault/playlists)
+## [Web development](https://www.youtube.com/playlist?list=PLfqABt5AS4Fl8-IgRJF_ebkJtsaVBBrEv)
+### [The autocomplete input nobody is using (HTML datalist tag)](https://www.youtube.com/watch?v=62Dvb1FC3aI&amp;list=PLfqABt5AS4Fl8-IgRJF_ebkJtsaVBBrEv&amp;index=4&amp;pp=iAQB)

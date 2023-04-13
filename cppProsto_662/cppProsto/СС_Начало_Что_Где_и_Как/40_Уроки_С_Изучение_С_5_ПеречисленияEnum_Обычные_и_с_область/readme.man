@@ -1,0 +1,3 @@
+# [cppProsto](https://www.youtube.com/@cppProsto/playlists?view=1)
+## [С/С++ Начало. Что? Где? и Как?](https://www.youtube.com/playlist?list=PLdhEOd5Bckb7ljO0Iqw7xvjVLHL-C1P1L)
+### [Уроки С++. Изучение С++ {#5}. Перечисления(Enum). Обычные и с областью видимости. #ityoutubers](https://www.youtube.com/watch?v=52XWwImyXFk&amp;list=PLdhEOd5Bckb7ljO0Iqw7xvjVLHL-C1P1L&amp;index=40&amp;pp=iAQB)

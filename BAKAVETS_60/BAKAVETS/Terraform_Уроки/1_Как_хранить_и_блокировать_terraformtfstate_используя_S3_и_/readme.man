@@ -1,0 +1,3 @@
+# [BAKAVETS](https://www.youtube.com/@BAKAVETS/playlists)
+## [Terraform Уроки](https://www.youtube.com/playlist?list=PL3SzV1_k2H1UIUQMSdH1hEeuRydEGHeen)
+### [Как хранить и блокировать terraform.tfstate, используя S3 и DynamoDB на AWS](https://www.youtube.com/watch?v=R9so36Uob8c&amp;list=PL3SzV1_k2H1UIUQMSdH1hEeuRydEGHeen&amp;index=1&amp;pp=iAQB)

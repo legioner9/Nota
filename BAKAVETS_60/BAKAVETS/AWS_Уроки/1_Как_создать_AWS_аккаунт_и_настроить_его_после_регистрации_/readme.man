@@ -1,0 +1,3 @@
+# [BAKAVETS](https://www.youtube.com/@BAKAVETS/playlists)
+## [AWS Уроки](https://www.youtube.com/playlist?list=PL3SzV1_k2H1UngGyWTKFpeMLhRpqOIhS4)
+### [Как создать AWS аккаунт и настроить его после регистрации. Что делать, если не приходит SMS](https://www.youtube.com/watch?v=HJyKZvOVVEs&amp;list=PL3SzV1_k2H1UngGyWTKFpeMLhRpqOIhS4&amp;index=1&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [CodeVault](https://www.youtube.com/@CodeVault/playlists)
+## [Functions in C](https://www.youtube.com/playlist?list=PLfqABt5AS4FkbQ0bvuCfgj6ClVi-GGDSi)
+### [What are variadic functions (va_list) in C?](https://www.youtube.com/watch?v=oDC208zvsdg&amp;list=PLfqABt5AS4FkbQ0bvuCfgj6ClVi-GGDSi&amp;index=6&amp;pp=iAQB)

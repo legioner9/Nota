@@ -1,0 +1,3 @@
+# [CodeVault](https://www.youtube.com/@CodeVault/playlists)
+## [Pointers and Memory Management in C](https://www.youtube.com/playlist?list=PLfqABt5AS4FkIiyvV8mnZmf3p6PxbAtc8)
+### [Memory leaks and how to prevent them](https://www.youtube.com/watch?v=jx9MiCC3RJ4&amp;list=PLfqABt5AS4FkIiyvV8mnZmf3p6PxbAtc8&amp;index=14&amp;pp=iAQB)

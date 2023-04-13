@@ -1,0 +1,3 @@
+# [AlexMedovnik](https://www.youtube.com/@AlexMedovnik/playlists)
+## [Python с нуля](https://www.youtube.com/playlist?list=PLXRp8GYyTu9pthg-pKTdglkD2gi8NDoGi)
+### [Python с нуля. Урок №16. Циклы. Continue. Факториал числа](https://www.youtube.com/watch?v=SWz8ptubxt4&amp;list=PLXRp8GYyTu9pthg-pKTdglkD2gi8NDoGi&amp;index=16&amp;pp=iAQB)

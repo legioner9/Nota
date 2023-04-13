@@ -1,0 +1,3 @@
+# [AlexMedovnik](https://www.youtube.com/@AlexMedovnik/playlists)
+## [JavaScript с нуля](https://www.youtube.com/playlist?list=PLXRp8GYyTu9oL_Ht70SEA-DOuDTQTafEl)
+### [JavaScript с нуля. Урок №5. Логические операторы.](https://www.youtube.com/watch?v=XM87nokWNs8&amp;list=PLXRp8GYyTu9oL_Ht70SEA-DOuDTQTafEl&amp;index=5&amp;pp=iAQB)

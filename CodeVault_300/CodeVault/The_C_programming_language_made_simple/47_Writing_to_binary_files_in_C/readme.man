@@ -1,0 +1,3 @@
+# [CodeVault](https://www.youtube.com/@CodeVault/playlists)
+## [The C programming language made simple](https://www.youtube.com/playlist?list=PLfqABt5AS4FmErobw8YyTwXDUE5nPH5lH)
+### [Writing to binary files in C](https://www.youtube.com/watch?v=P-fWNCF7Wx8&amp;list=PLfqABt5AS4FmErobw8YyTwXDUE5nPH5lH&amp;index=47&amp;pp=iAQB)

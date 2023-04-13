@@ -1,0 +1,3 @@
+# [Begin End](https://www.youtube.com/@beginend95/playlists)
+## [OpenGL (для новичков)](https://www.youtube.com/playlist?list=PLBOPkQsFLCR0XuXoCf6PMhVmD2ukHXIBK)
+### [OpenGL - Урок 39 - ДЗ уроков 36, 37 и 38. VBO, EBO, Шейдеры.](https://www.youtube.com/watch?v=aNzstlQNDQU&amp;list=PLBOPkQsFLCR0XuXoCf6PMhVmD2ukHXIBK&amp;index=39&amp;pp=iAQB)

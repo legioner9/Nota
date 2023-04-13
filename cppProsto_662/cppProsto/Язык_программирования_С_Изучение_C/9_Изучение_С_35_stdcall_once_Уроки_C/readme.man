@@ -1,0 +1,3 @@
+# [cppProsto](https://www.youtube.com/@cppProsto/playlists?view=1)
+## [Язык программирования С++. Изучение C++](https://www.youtube.com/playlist?list=PLdhEOd5Bckb54U_bm9pS3eMQldHDyA8h_)
+### [Изучение С++ {#35}. std::call_once. Уроки C++.](https://www.youtube.com/watch?v=8ZNjswsN7FI&amp;list=PLdhEOd5Bckb54U_bm9pS3eMQldHDyA8h_&amp;index=9&amp;pp=iAQB)

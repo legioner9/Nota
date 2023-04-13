@@ -1,0 +1,3 @@
+# [cppProsto](https://www.youtube.com/@cppProsto/playlists?view=1)
+## [Совершенный код](https://www.youtube.com/playlist?list=PLdhEOd5Bckb6llGayAelu3dnTXVgv2AI1)
+### [Совершенный Код. Введение в рефакторинг. Project Zomboid](https://www.youtube.com/watch?v=T-e4PavD4T0&amp;list=PLdhEOd5Bckb6llGayAelu3dnTXVgv2AI1&amp;index=1&amp;pp=iAQB)

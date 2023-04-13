@@ -1,0 +1,3 @@
+# [AlexMedovnik](https://www.youtube.com/@AlexMedovnik/playlists)
+## [Python с нуля](https://www.youtube.com/playlist?list=PLXRp8GYyTu9pthg-pKTdglkD2gi8NDoGi)
+### [Python с нуля. Урок №65. Аннотация типов данных](https://www.youtube.com/watch?v=03FP9m6NZe8&amp;list=PLXRp8GYyTu9pthg-pKTdglkD2gi8NDoGi&amp;index=65&amp;pp=iAQB)

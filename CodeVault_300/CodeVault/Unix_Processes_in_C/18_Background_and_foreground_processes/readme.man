@@ -1,0 +1,3 @@
+# [CodeVault](https://www.youtube.com/@CodeVault/playlists)
+## [Unix Processes in C](https://www.youtube.com/playlist?list=PLfqABt5AS4FkW5mOn2Tn9ZZLLDwA3kZUY)
+### [Background and foreground processes](https://www.youtube.com/watch?v=7ud2iqu9szk&amp;list=PLfqABt5AS4FkW5mOn2Tn9ZZLLDwA3kZUY&amp;index=18&amp;pp=iAQB)

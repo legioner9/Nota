@@ -1,0 +1,3 @@
+# [Begin End](https://www.youtube.com/@beginend95/playlists)
+## [Язык Си с нуля (для новичков)](https://www.youtube.com/playlist?list=PLBOPkQsFLCR2DWRY74L03FmbRtz_Yy73_)
+### [Язык Си с нуля - Урок 64 - Что такое объявление, определение, заголовок и тело. Как использовать](https://www.youtube.com/watch?v=ksEp1h1rlNY&amp;list=PLBOPkQsFLCR2DWRY74L03FmbRtz_Yy73_&amp;index=65&amp;pp=iAQB)

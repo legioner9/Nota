@@ -1,0 +1,3 @@
+# [Begin End](https://www.youtube.com/@beginend95/playlists)
+## [Язык Си с нуля (для новичков)](https://www.youtube.com/playlist?list=PLBOPkQsFLCR2DWRY74L03FmbRtz_Yy73_)
+### [Программирование на Си для гуманитариев - Урок 1 - Установка ПО и первая программа](https://www.youtube.com/watch?v=0bL_Va_4lB4&amp;list=PLBOPkQsFLCR2DWRY74L03FmbRtz_Yy73_&amp;index=1&amp;pp=iAQB)

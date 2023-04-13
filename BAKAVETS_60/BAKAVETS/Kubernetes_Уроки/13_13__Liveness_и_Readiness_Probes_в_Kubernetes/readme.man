@@ -1,0 +1,3 @@
+# [BAKAVETS](https://www.youtube.com/@BAKAVETS/playlists)
+## [Kubernetes Уроки](https://www.youtube.com/playlist?list=PL3SzV1_k2H1VDePbSWUqERqlBXIk02wCQ)
+### [13 - Liveness и Readiness Probes в Kubernetes](https://www.youtube.com/watch?v=BgADHZ2JTUM&amp;list=PL3SzV1_k2H1VDePbSWUqERqlBXIk02wCQ&amp;index=13&amp;pp=iAQB)

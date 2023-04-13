@@ -1,0 +1,3 @@
+# [CodeVault](https://www.youtube.com/@CodeVault/playlists)
+## [The C programming language made simple](https://www.youtube.com/playlist?list=PLfqABt5AS4FmErobw8YyTwXDUE5nPH5lH)
+### [Finding a node in a doubly linked list](https://www.youtube.com/watch?v=Pieo2WC-S_0&amp;list=PLfqABt5AS4FmErobw8YyTwXDUE5nPH5lH&amp;index=79&amp;pp=iAQB)

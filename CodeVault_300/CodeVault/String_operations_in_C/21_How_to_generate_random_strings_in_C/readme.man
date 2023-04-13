@@ -1,0 +1,3 @@
+# [CodeVault](https://www.youtube.com/@CodeVault/playlists)
+## [String operations in C](https://www.youtube.com/playlist?list=PLfqABt5AS4FmSwyvP5a3mYsaksq6yR3-Z)
+### [How to generate random strings in C](https://www.youtube.com/watch?v=4jN8YG74aPc&amp;list=PLfqABt5AS4FmSwyvP5a3mYsaksq6yR3-Z&amp;index=21&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [Begin End](https://www.youtube.com/@beginend95/playlists)
+## [Язык Си с нуля (для новичков)](https://www.youtube.com/playlist?list=PLBOPkQsFLCR2DWRY74L03FmbRtz_Yy73_)
+### [Язык Си с нуля - Урок 25 - Динамические массивы, адресация памяти.](https://www.youtube.com/watch?v=SI_MIszEfwk&amp;list=PLBOPkQsFLCR2DWRY74L03FmbRtz_Yy73_&amp;index=26&amp;pp=iAQB)

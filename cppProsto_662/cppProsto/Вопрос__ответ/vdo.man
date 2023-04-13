@@ -1,0 +1,6 @@
+### [Новая рубрика на канале: Вопрос - Ответ!](https://www.youtube.com/watch?v=K2CPzYK-NrM&amp;list=PLdhEOd5Bckb7n6FDL7jhtILZwJbIBGWOG&amp;index=1&amp;pp=iAQB)
+### [Вопрос - ответ #1 - Будут ли примеры децентрализованных приложений?](https://www.youtube.com/watch?v=CF6g3Y2m0CY&amp;list=PLdhEOd5Bckb7n6FDL7jhtILZwJbIBGWOG&amp;index=2&amp;pp=iAQB)
+### [Вопрос - ответ #2 - Что такое сериализация? Зачем она?](https://www.youtube.com/watch?v=7CjkUZN3vvc&amp;list=PLdhEOd5Bckb7n6FDL7jhtILZwJbIBGWOG&amp;index=3&amp;pp=iAQB)
+### [Вопрос - ответ #3 - Что такое компиляция программы? Что такое make, CMake?](https://www.youtube.com/watch?v=CZaWqT0JhYw&amp;list=PLdhEOd5Bckb7n6FDL7jhtILZwJbIBGWOG&amp;index=4&amp;pp=iAQB)
+### [Вопрос - ответ #4 - Как читать исходный код других программ? Зачем?](https://www.youtube.com/watch?v=1OtHOv3uO3A&amp;list=PLdhEOd5Bckb7n6FDL7jhtILZwJbIBGWOG&amp;index=5&amp;pp=iAQB)
+### [Вопрос - ответ #5 - Разработка ПО, Кто и что делает?](https://www.youtube.com/watch?v=5yBvbd2-2PI&amp;list=PLdhEOd5Bckb7n6FDL7jhtILZwJbIBGWOG&amp;index=6&amp;pp=iAQB)

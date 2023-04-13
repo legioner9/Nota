@@ -1,0 +1,3 @@
+# [cppProsto](https://www.youtube.com/@cppProsto/playlists?view=1)
+## [Паттерны проектирования](https://www.youtube.com/playlist?list=PLdhEOd5Bckb70Zz7WsWtU4R5BM2fnWM19)
+### [Порождающий паттерн. Пул объектов(Object Pool)](https://www.youtube.com/watch?v=3UFpHn7HgAU&amp;list=PLdhEOd5Bckb70Zz7WsWtU4R5BM2fnWM19&amp;index=5&amp;pp=iAQB)

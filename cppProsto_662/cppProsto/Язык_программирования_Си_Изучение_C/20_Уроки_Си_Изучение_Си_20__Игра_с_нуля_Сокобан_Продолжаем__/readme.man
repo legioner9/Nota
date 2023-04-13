@@ -1,0 +1,3 @@
+# [cppProsto](https://www.youtube.com/@cppProsto/playlists?view=1)
+## [Язык программирования Си. Изучение C.](https://www.youtube.com/playlist?list=PLdhEOd5Bckb5T5FcYPYlTi-6eoOypRF2d)
+### [Уроки Си. Изучение Си |20| - Игра с нуля. Сокобан. Продолжаем - Загружаем и рисуем уровень.](https://www.youtube.com/watch?v=vtsDD6VU-dA&amp;list=PLdhEOd5Bckb5T5FcYPYlTi-6eoOypRF2d&amp;index=20&amp;pp=iAQB)

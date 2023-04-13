@@ -1,0 +1,3 @@
+# [cppProsto](https://www.youtube.com/@cppProsto/playlists?view=1)
+## [Nvidia CUDA](https://www.youtube.com/playlist?list=PLdhEOd5Bckb6eDz0S3gQ27mxCKT2WFHuU)
+### [Nvidia CUDA С Уроки. Начало. Введение. Параллельное программирование GPU.](https://www.youtube.com/watch?v=zDNulKrgtFc&amp;list=PLdhEOd5Bckb6eDz0S3gQ27mxCKT2WFHuU&amp;index=2&amp;pp=iAQB)

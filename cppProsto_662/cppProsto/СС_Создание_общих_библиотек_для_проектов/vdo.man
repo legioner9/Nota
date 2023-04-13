@@ -1,0 +1,5 @@
+### [Язык программирования Си. Создаем библиотеку для работы с битами. (binary_tools)](https://www.youtube.com/watch?v=CnR1SmkEyLo&amp;list=PLdhEOd5Bckb5K2sulIoDt5xHviYTqKTgH&amp;index=1&amp;pp=iAQB)
+### [Язык программирования Си. Создаем библиотеку для работы со строками в Си](https://www.youtube.com/watch?v=lMUM-SykfBw&amp;list=PLdhEOd5Bckb5K2sulIoDt5xHviYTqKTgH&amp;index=2&amp;pp=iAQB)
+### [Язык программирования Си. Реализация односвязного списка для хранения int значений](https://www.youtube.com/watch?v=JFQq7bA-qm8&amp;list=PLdhEOd5Bckb5K2sulIoDt5xHviYTqKTgH&amp;index=3&amp;pp=iAQB)
+### [Язык программирования Си. Реализация типа данных Меню. + рисуем с помощью OpenGL](https://www.youtube.com/watch?v=f33V3oc6kbA&amp;list=PLdhEOd5Bckb5K2sulIoDt5xHviYTqKTgH&amp;index=4&amp;pp=iAQB)
+### [Язык программирования С++. Описание glfw_engine2D](https://www.youtube.com/watch?v=zRb7YIe1H9c&amp;list=PLdhEOd5Bckb5K2sulIoDt5xHviYTqKTgH&amp;index=5&amp;pp=iAQB)

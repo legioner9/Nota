@@ -1,0 +1,3 @@
+# [cppProsto](https://www.youtube.com/@cppProsto/playlists?view=1)
+## [Вопрос - ответ](https://www.youtube.com/playlist?list=PLdhEOd5Bckb7n6FDL7jhtILZwJbIBGWOG)
+### [Вопрос - ответ #3 - Что такое компиляция программы? Что такое make, CMake?](https://www.youtube.com/watch?v=CZaWqT0JhYw&amp;list=PLdhEOd5Bckb7n6FDL7jhtILZwJbIBGWOG&amp;index=4&amp;pp=iAQB)

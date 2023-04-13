@@ -1,0 +1,457 @@
+ 13.04.2023 01:48:57 done The difference between DIV and SPAN
+ 13.04.2023 01:48:59 done Form Input Validation in HTML
+ 13.04.2023 01:49:01 done Less Known Input Types in HTML
+ 13.04.2023 01:49:04 done The autocomplete input nobody is using (HTML datalist tag)
+ 13.04.2023 01:49:06 done Progress bars with pure HTML
+ 13.04.2023 01:49:08 done Don't make the same mistake I did!
+ 13.04.2023 01:49:10 done How to vertically align to the middle in CSS
+ 13.04.2023 01:49:11 done Web development
+ 13.04.2023 01:49:41 done Quick introduction to macros
+ 13.04.2023 01:49:43 done Macros with parameters in C
+ 13.04.2023 01:49:45 done Difference between macros and constants in C
+ 13.04.2023 01:49:46 done Macros in C
+ 13.04.2023 01:50:17 done Quick introduction to functions
+ 13.04.2023 01:50:20 done Return value of a function
+ 13.04.2023 01:50:22 done Returning multiple values from a function
+ 13.04.2023 01:50:24 done Intro to recursive functions in C
+ 13.04.2023 01:50:26 done Why are function pointers useful?
+ 13.04.2023 01:50:28 done What are variadic functions (va_list) in C?
+ 13.04.2023 01:50:29 done Functions in C
+ 13.04.2023 01:51:01 done Random number generation in C
+ 13.04.2023 01:51:03 done Random numbers in an interval in C
+ 13.04.2023 01:51:05 done Random floating point numbers in C
+ 13.04.2023 01:51:08 done How to generate random strings in C
+ 13.04.2023 01:51:10 done How to generate random strings from a set of characters in C
+ 13.04.2023 01:51:10 done Random numbers in C
+ 13.04.2023 01:51:41 done Short introduction to header files in C
+ 13.04.2023 01:51:42 done Header files in C
+ 13.04.2023 01:52:13 done What is typedef?
+ 13.04.2023 01:52:15 done Creating your own data type in C
+ 13.04.2023 01:52:17 done How to return and pass a struct to a function
+ 13.04.2023 01:52:20 done What are unions in C?
+ 13.04.2023 01:52:22 done Anonymous unions in C
+ 13.04.2023 01:52:24 done Introduction to Enumerations in C
+ 13.04.2023 01:52:27 done Generic data types in C
+ 13.04.2023 01:52:29 done Difference between macros and constants in C
+ 13.04.2023 01:52:31 done What is a static variable?
+ 13.04.2023 01:52:33 done Integer type conversions
+ 13.04.2023 01:52:36 done Integer overflow and underflow explained
+ 13.04.2023 01:52:38 done Infinite loop through integer overflow
+ 13.04.2023 01:52:40 done Implementing a queue in C
+ 13.04.2023 01:52:42 done Implementing a stack in C
+ 13.04.2023 01:52:45 done Local vs global variables in C
+ 13.04.2023 01:52:45 done Struct and other data types in C
+ 13.04.2023 01:53:17 done String literals and string initializations
+ 13.04.2023 01:53:20 done How to declare an array of strings in C
+ 13.04.2023 01:53:22 done How to properly copy text in C
+ 13.04.2023 01:53:24 done Pointer assignment vs strcpy in C
+ 13.04.2023 01:53:26 done Comparing strings in C
+ 13.04.2023 01:53:29 done How to check if a character is a digit
+ 13.04.2023 01:53:31 done Finding a character inside a string in C
+ 13.04.2023 01:53:33 done Can you subtract characters in C?
+ 13.04.2023 01:53:35 done How to return a string from a function
+ 13.04.2023 01:53:38 done How to split strings in C (strtok)
+ 13.04.2023 01:53:40 done How to find a word inside a sentence in C
+ 13.04.2023 01:53:42 done How to parse a string in C (sscanf)
+ 13.04.2023 01:53:44 done How to convert strings to numbers in C
+ 13.04.2023 01:53:47 done Parsing a string of numbers in C
+ 13.04.2023 01:53:49 done How to parse and validate a number in C
+ 13.04.2023 01:53:51 done Format strings in C
+ 13.04.2023 01:53:53 done Strpbrk and strspn in C
+ 13.04.2023 01:53:55 done Concatenating strings in C
+ 13.04.2023 01:53:58 done Replace substrings in C
+ 13.04.2023 01:54:00 done How to find a string in an array of strings in C
+ 13.04.2023 01:54:02 done How to generate random strings in C
+ 13.04.2023 01:54:03 done String operations in C
+ 13.04.2023 01:54:35 done How to return an array from a function
+ 13.04.2023 01:54:37 done Iterating over an array using pointers
+ 13.04.2023 01:54:39 done How to pass arrays to functions in C
+ 13.04.2023 01:54:42 done The address of an array in C
+ 13.04.2023 01:54:44 done The address of an array in C (in-depth)
+ 13.04.2023 01:54:46 done Difference between arrays and pointers in C
+ 13.04.2023 01:54:48 done How to use dynamically allocated arrays
+ 13.04.2023 01:54:51 done Dynamically allocated multi-dimensional arrays in C
+ 13.04.2023 01:54:53 done Iterating over neighbours in a multi-dimensional array in C
+ 13.04.2023 01:54:55 done Multidimensional arrays in C
+ 13.04.2023 01:54:57 done Iterating over main parts of a matrix
+ 13.04.2023 01:55:00 done When to use a for loop and when to use a while loop
+ 13.04.2023 01:55:02 done How to convert a for loop into a while loop
+ 13.04.2023 01:55:04 done Arrays as function parameters in C
+ 13.04.2023 01:55:04 done Arrays in C
+ 13.04.2023 01:55:36 done The sizeof operator in C
+ 13.04.2023 01:55:38 done Dereferencing in C
+ 13.04.2023 01:55:40 done Memory manipulation functions in C
+ 13.04.2023 01:55:43 done printf(MEMORY) | How to print memory to the console
+ 13.04.2023 01:55:45 done Can you add or subtract two pointers?
+ 13.04.2023 01:55:47 done What are void pointers in C?
+ 13.04.2023 01:55:49 done Quirks when it comes to declaring pointers in C
+ 13.04.2023 01:55:52 done Difference between arrays and pointers in C
+ 13.04.2023 01:55:54 done Difference between memmove and memcpy
+ 13.04.2023 01:55:56 done How to properly deal with dynamically allocated memory
+ 13.04.2023 01:55:58 done How to use dynamically allocated arrays
+ 13.04.2023 01:56:00 done When to free memory in C
+ 13.04.2023 01:56:03 done Good practice for freeing memory in C
+ 13.04.2023 01:56:05 done Memory leaks and how to prevent them
+ 13.04.2023 01:56:07 done Detecting memory leaks in Visual Studio
+ 13.04.2023 01:56:09 done What is memory padding
+ 13.04.2023 01:56:11 done The offsetof macro in C
+ 13.04.2023 01:56:14 done What are function pointers in C?
+ 13.04.2023 01:56:16 done The address of an array in C
+ 13.04.2023 01:56:18 done The address of an array in C (in-depth)
+ 13.04.2023 01:56:20 done What are double pointers in C?
+ 13.04.2023 01:56:23 done How to print in binary
+ 13.04.2023 01:56:25 done Why use hexadecimal instead of decimal?
+ 13.04.2023 01:56:27 done Arrays as function parameters in C
+ 13.04.2023 01:56:27 done Pointers and Memory Management in C
+ 13.04.2023 01:56:59 done How to read a line of text in C
+ 13.04.2023 01:57:01 done Useful tips for using printf in C
+ 13.04.2023 01:57:04 done How to print in binary
+ 13.04.2023 01:57:06 done printf(MEMORY) | How to print memory to the console
+ 13.04.2023 01:57:08 done Simple technique to understanding all 32 printf functions
+ 13.04.2023 01:57:10 done getc, getch, getche and getchar in C
+ 13.04.2023 01:57:13 done putc, putch and putchar in C
+ 13.04.2023 01:57:15 done What is the ungetc function?
+ 13.04.2023 01:57:17 done Vulnerabilities of the gets function in C
+ 13.04.2023 01:57:19 done The puts function in C
+ 13.04.2023 01:57:22 done Writing to text files in C
+ 13.04.2023 01:57:24 done Reading from text files in C
+ 13.04.2023 01:57:26 done Writing to binary files in C
+ 13.04.2023 01:57:28 done Reading from binary files in C
+ 13.04.2023 01:57:30 done Improvements to reading and writing to text files in C
+ 13.04.2023 01:57:33 done Differences between binary and text files in C
+ 13.04.2023 01:57:35 done How to use fseek in C
+ 13.04.2023 01:57:37 done Renaming a file in C
+ 13.04.2023 01:57:39 done Removing a file in C
+ 13.04.2023 01:57:42 done Format strings in C
+ 13.04.2023 01:57:44 done What is %n in printf and scanf?
+ 13.04.2023 01:57:46 done Reading/Writing structs to files (aka Serialization)
+ 13.04.2023 01:57:48 done Read an array of structs in C
+ 13.04.2023 01:57:51 done List files in a directory (recursively too!)
+ 13.04.2023 01:57:53 done How to use scanf with fgets
+ 13.04.2023 01:57:53 done File and terminal input/output operations in C
+ 13.04.2023 01:58:25 done The conditional operator (or ternary operator) in C
+ 13.04.2023 01:58:27 done The switch statement in C
+ 13.04.2023 01:58:29 done More details about the switch statement in C
+ 13.04.2023 01:58:31 done How to evaluate multiple increments in the same line? (++a + a++ - ++a)
+ 13.04.2023 01:58:34 done The bit shift operators in C
+ 13.04.2023 01:58:36 done Bitwise operators in C
+ 13.04.2023 01:58:38 done Practical uses of bitwise operations - Implementing a Flag System
+ 13.04.2023 01:58:40 done The sizeof operator in C
+ 13.04.2023 01:58:42 done A quirk about the sizeof operator
+ 13.04.2023 01:58:45 done Const modifier in C
+ 13.04.2023 01:58:47 done &quot;and&quot;/&quot;or&quot; keywords in C
+ 13.04.2023 01:58:47 done Operators in C
+ 13.04.2023 01:59:19 done Compile and run C code using Notepad++ (2021)
+ 13.04.2023 01:59:21 done Compile and run C code using Visual Studio Code (2021)
+ 13.04.2023 01:59:24 done Compile and run code using your Android smartphone (2020)
+ 13.04.2023 01:59:26 done Detecting memory leaks in Visual Studio
+ 13.04.2023 01:59:28 done Visual Studio Code for C/C++ on Linux (2021)
+ 13.04.2023 01:59:30 done How do I run and compile my C code?
+ 13.04.2023 01:59:31 done Tools and IDEs
+ 13.04.2023 02:00:02 done Short introduction to threads (pthreads)
+ 13.04.2023 02:00:05 done Difference between processes and threads
+ 13.04.2023 02:00:07 done What are Race Conditions?
+ 13.04.2023 02:00:09 done What is a mutex in C? (pthread_mutex)
+ 13.04.2023 02:00:12 done How to create threads in a loop (pthread_create)
+ 13.04.2023 02:00:14 done Get return value from a thread (pthread_join)
+ 13.04.2023 02:00:16 done How to pass arguments to threads in C
+ 13.04.2023 02:00:18 done Practical example for using threads #1 (Summing numbers from an array)
+ 13.04.2023 02:00:21 done Difference between trylock and lock in C
+ 13.04.2023 02:00:23 done Condition variables in C
+ 13.04.2023 02:00:25 done Signaling for condition variables (pthread_cond_signal vs pthread_cond_broadcast)
+ 13.04.2023 02:00:27 done Practical example for pthread_mutex_trylock
+ 13.04.2023 02:00:29 done What is pthread_exit?
+ 13.04.2023 02:00:32 done Introduction to barriers (pthread_barrier)
+ 13.04.2023 02:00:34 done Practical example to barriers (pthread_barrier)
+ 13.04.2023 02:00:36 done What is pthread_t?
+ 13.04.2023 02:00:38 done What are detached threads?
+ 13.04.2023 02:00:41 done Static initializers in the PTHREAD API
+ 13.04.2023 02:00:43 done Deadlocks in C
+ 13.04.2023 02:00:45 done Recursive mutexes
+ 13.04.2023 02:00:47 done Introduction to semaphores in C
+ 13.04.2023 02:00:50 done Practical example using semaphores (Login Queue)
+ 13.04.2023 02:00:52 done Producer - Consumer Problem in Multi-Threading
+ 13.04.2023 02:00:54 done What are binary semaphores?
+ 13.04.2023 02:00:56 done Difference between Binary Semaphores and Mutexes
+ 13.04.2023 02:00:59 done Getting the value of a semaphore
+ 13.04.2023 02:01:01 done Parallelism vs Concurrency
+ 13.04.2023 02:01:03 done Thread Pools in C (using the PTHREAD API)
+ 13.04.2023 02:01:05 done Thread Pools with function pointers in C
+ 13.04.2023 02:01:06 done Unix Threads in C
+ 13.04.2023 02:01:39 done The fork() function in C
+ 13.04.2023 02:01:41 done Waiting for processes to finish (using the wait function) in C
+ 13.04.2023 02:01:43 done Visualization of a fork call in C
+ 13.04.2023 02:01:46 done Process IDs in C
+ 13.04.2023 02:01:48 done Calling fork multiple times
+ 13.04.2023 02:01:50 done Communicating between processes (using pipes) in C
+ 13.04.2023 02:01:53 done Practical use case for fork and pipe in C
+ 13.04.2023 02:01:55 done Introduction to FIFOs (aka named pipes) in C
+ 13.04.2023 02:01:57 done How to use FIFO files to communicate between processes in C
+ 13.04.2023 02:01:59 done Two way communication between processes (using pipes) in C
+ 13.04.2023 02:02:01 done Executing commands in C
+ 13.04.2023 02:02:04 done Getting exit status code in C
+ 13.04.2023 02:02:06 done How to execute another program in C (using exec)
+ 13.04.2023 02:02:08 done Redirecting standard output in C
+ 13.04.2023 02:02:10 done Executing programs vs executing scripts in C
+ 13.04.2023 02:02:13 done Short introduction to signals in C
+ 13.04.2023 02:02:15 done Stopping and continuing the execution of a process (using SIGCONT and SIGSTOP)
+ 13.04.2023 02:02:17 done Background and foreground processes
+ 13.04.2023 02:02:19 done Handling signals
+ 13.04.2023 02:02:21 done Communicating between processes using signals
+ 13.04.2023 02:02:24 done How to send an array through a pipe
+ 13.04.2023 02:02:26 done How to send a string through a pipe
+ 13.04.2023 02:02:28 done Simulating the pipe &quot;|&quot; operator in C
+ 13.04.2023 02:02:30 done Working with multiple pipes
+ 13.04.2023 02:02:33 done What is waitpid?
+ 13.04.2023 02:02:35 done Calling fork multiple times (part 2) (With a practical example)
+ 13.04.2023 02:02:35 done Unix Processes in C
+ 13.04.2023 02:03:05 done Why Typescript?
+ 13.04.2023 02:03:05 done Typescript useful tips
+ 13.04.2023 02:03:38 done Nullish coalescing operator in Javascript
+ 13.04.2023 02:03:40 done Numeric separators (_) in Javascript
+ 13.04.2023 02:03:42 done BigInt in Javascript
+ 13.04.2023 02:03:44 done Optional Chaining in Javascript
+ 13.04.2023 02:03:46 done Optional Chaining in Javascript
+ 13.04.2023 02:03:47 done New and upcoming features in Javascript
+ 13.04.2023 02:04:20 done Short introduction to linked lists in C
+ 13.04.2023 02:04:22 done Iterating over a linked list in C
+ 13.04.2023 02:04:24 done Adding elements to a linked list
+ 13.04.2023 02:04:26 done Deallocating a linked list
+ 13.04.2023 02:04:29 done Adding at the beginning of a linked list
+ 13.04.2023 02:04:31 done Add after an element in a linked list
+ 13.04.2023 02:04:33 done Sorted linked list
+ 13.04.2023 02:04:35 done Removing an element from a linked list
+ 13.04.2023 02:04:37 done Reversing a linked list
+ 13.04.2023 02:04:40 done Finding loops/cycles in a linked list
+ 13.04.2023 02:04:42 done Counting number of elements (iteratively and recursively) in a linked list
+ 13.04.2023 02:04:44 done Short introduction to doubly linked lists
+ 13.04.2023 02:04:47 done Iterating over doubly linked lists
+ 13.04.2023 02:04:49 done Deallocating a doubly linked list
+ 13.04.2023 02:04:51 done Add to the beginning of a doubly linked list
+ 13.04.2023 02:04:53 done Add to the end of a doubly linked list
+ 13.04.2023 02:04:56 done Add after a node in a doubly linked list
+ 13.04.2023 02:04:58 done Removing a node from doubly linked lists
+ 13.04.2023 02:05:00 done Finding a node in a doubly linked list
+ 13.04.2023 02:05:02 done Reversing a doubly linked list
+ 13.04.2023 02:05:04 done Reading and writing a linked list to a file in C
+ 13.04.2023 02:05:05 done Linked lists for absolute beginners
+ 13.04.2023 02:05:39 done Loose equality vs strict equality in JS
+ 13.04.2023 02:05:41 done Type coercion quirks in JS
+ 13.04.2023 02:05:43 done Automatic semicolon insertion in JS
+ 13.04.2023 02:05:45 done Quirk #4 - The var keyword in JS
+ 13.04.2023 02:05:48 done NaN (not-a-number) in JS
+ 13.04.2023 02:05:50 done Object properties and property accessors in JS
+ 13.04.2023 02:05:50 done Quirks in Javascript
+ 13.04.2023 02:06:22 done concat in JS - [ Array methods you must know in 2019 ]
+ 13.04.2023 02:06:24 done What is array reduce in JS?
+ 13.04.2023 02:06:26 done every in JS - [ Array methods you must know in 2019 ]
+ 13.04.2023 02:06:28 done fill in JS - [ Array methods you must know in 2019 ]
+ 13.04.2023 02:06:31 done concat in JS - [ Array methods you must know in 2019 ]
+ 13.04.2023 02:06:33 done find and findIndex in JS - [ Array methods you must know in 2019 ]
+ 13.04.2023 02:06:35 done filter in JS - [ Array methods you must know in 2019 ]
+ 13.04.2023 02:06:37 done fill in JS - [ Array methods you must know in 2019 ]
+ 13.04.2023 02:06:40 done splice in JS - [ Array methods you must know in 2019 ]
+ 13.04.2023 02:06:42 done sort in JS - [ Array methods you must know in 2019 ]
+ 13.04.2023 02:06:44 done some in JS - [ Array methods you must know in 2019 ]
+ 13.04.2023 02:06:46 done slice in JS - [ Array methods you must know in 2019 ]
+ 13.04.2023 02:06:49 done shift and unshift in JS - [ Array methods you must know in 2019 ]
+ 13.04.2023 02:06:51 done push and pop in JS - [ Array methods you must know in 2019 ]
+ 13.04.2023 02:06:53 done map in JS - [ Array methods you must know in 2019 ]
+ 13.04.2023 02:06:55 done lastIndexOf in JS - [ Array methods you must know in 2019 ]
+ 13.04.2023 02:06:57 done join in JS - [ Array methods you must know in 2019 ]
+ 13.04.2023 02:07:00 done indexOf in JS - [ Array methods you must know in 2019 ]
+ 13.04.2023 02:07:02 done includes in JS - [ Array methods you must know in 2019 ]
+ 13.04.2023 02:07:04 done forEach in JS - [ Array methods you must know in 2019 ]
+ 13.04.2023 02:07:06 done flat in JS - [ Array methods you must know in 2019 ]
+ 13.04.2023 02:07:08 done find and findIndex in JS - [ Array methods you must know in 2019 ]
+ 13.04.2023 02:07:11 done filter in JS - [ Array methods you must know in 2019 ]
+ 13.04.2023 02:07:13 done fill in JS - [ Array methods you must know in 2019 ]
+ 13.04.2023 02:07:15 done every in JS - [ Array methods you must know in 2019 ]
+ 13.04.2023 02:07:16 done Array methods you must know about in 2019
+ 13.04.2023 02:07:48 done 3 tips for better comments in your code | [ Code Cleanup #1 ]
+ 13.04.2023 02:07:51 done 3-ish tips on naming in software dev | [ Code Cleanup #2 ]
+ 13.04.2023 02:07:53 done 3 tips to formatting your code | [ Code Cleanup #3 ]
+ 13.04.2023 02:07:55 done When to use variables | [ Code Cleanup #4 ]
+ 13.04.2023 02:07:58 done Validation | [ Code Cleanup #5 ]
+ 13.04.2023 02:07:58 done Code cleanup series
+ 13.04.2023 02:08:32 done Array methods you must know about in 2019
+ 13.04.2023 02:08:34 done Ways to log information on the console in JS
+ 13.04.2023 02:08:36 done What is the 'delete' operator in JS?
+ 13.04.2023 02:08:39 done What exactly is the 'arguments' object in JS?
+ 13.04.2023 02:08:41 done All the for loop types in JS
+ 13.04.2023 02:08:43 done 3 reasons to use 'let' in ES2015
+ 13.04.2023 02:08:45 done 5 helpful features in DevTools for every web developer
+ 13.04.2023 02:08:47 done Default parameters in JS
+ 13.04.2023 02:08:50 done Destructuring in JS
+ 13.04.2023 02:08:52 done The bind function in JS
+ 13.04.2023 02:08:54 done NaN (not-a-number) in JS
+ 13.04.2023 02:08:56 done setTimeout and setInterval in JS
+ 13.04.2023 02:08:59 done Quirk #4 - The var keyword in JS
+ 13.04.2023 02:09:01 done How to create constant objects in JS
+ 13.04.2023 02:09:03 done Functions for iterating over an object in JS
+ 13.04.2023 02:09:05 done Short intro to arrow functions in ES2015
+ 13.04.2023 02:09:08 done What is array reduce in JS?
+ 13.04.2023 02:09:10 done Automatic semicolon insertion in JS
+ 13.04.2023 02:09:12 done Slice vs splice in JS
+ 13.04.2023 02:09:14 done Type coercion quirks in JS
+ 13.04.2023 02:09:17 done Loose equality vs strict equality in JS
+ 13.04.2023 02:09:19 done Default parameters in JS
+ 13.04.2023 02:09:21 done Destructuring in JS
+ 13.04.2023 02:09:23 done The apply function in JS
+ 13.04.2023 02:09:26 done concat in JS - [ Array methods you must know in 2019 ]
+ 13.04.2023 02:09:28 done Object properties and property accessors in JS
+ 13.04.2023 02:09:30 done Global variables in JS
+ 13.04.2023 02:09:32 done The typeof operator in JS
+ 13.04.2023 02:09:35 done The apply function in JS
+ 13.04.2023 02:09:37 done The bind function in JS
+ 13.04.2023 02:09:39 done NaN (not-a-number) in JS
+ 13.04.2023 02:09:41 done every in JS - [ Array methods you must know in 2019 ]
+ 13.04.2023 02:09:44 done fill in JS - [ Array methods you must know in 2019 ]
+ 13.04.2023 02:09:46 done concat in JS - [ Array methods you must know in 2019 ]
+ 13.04.2023 02:09:48 done find and findIndex in JS - [ Array methods you must know in 2019 ]
+ 13.04.2023 02:09:50 done filter in JS - [ Array methods you must know in 2019 ]
+ 13.04.2023 02:09:53 done fill in JS - [ Array methods you must know in 2019 ]
+ 13.04.2023 02:09:55 done splice in JS - [ Array methods you must know in 2019 ]
+ 13.04.2023 02:09:57 done sort in JS - [ Array methods you must know in 2019 ]
+ 13.04.2023 02:09:59 done some in JS - [ Array methods you must know in 2019 ]
+ 13.04.2023 02:10:02 done slice in JS - [ Array methods you must know in 2019 ]
+ 13.04.2023 02:10:04 done shift and unshift in JS - [ Array methods you must know in 2019 ]
+ 13.04.2023 02:10:06 done push and pop in JS - [ Array methods you must know in 2019 ]
+ 13.04.2023 02:10:08 done map in JS - [ Array methods you must know in 2019 ]
+ 13.04.2023 02:10:10 done lastIndexOf in JS - [ Array methods you must know in 2019 ]
+ 13.04.2023 02:10:13 done join in JS - [ Array methods you must know in 2019 ]
+ 13.04.2023 02:10:15 done indexOf in JS - [ Array methods you must know in 2019 ]
+ 13.04.2023 02:10:17 done includes in JS - [ Array methods you must know in 2019 ]
+ 13.04.2023 02:10:19 done forEach in JS - [ Array methods you must know in 2019 ]
+ 13.04.2023 02:10:22 done flat in JS - [ Array methods you must know in 2019 ]
+ 13.04.2023 02:10:24 done find and findIndex in JS - [ Array methods you must know in 2019 ]
+ 13.04.2023 02:10:26 done filter in JS - [ Array methods you must know in 2019 ]
+ 13.04.2023 02:10:29 done fill in JS - [ Array methods you must know in 2019 ]
+ 13.04.2023 02:10:31 done every in JS - [ Array methods you must know in 2019 ]
+ 13.04.2023 02:10:33 done &quot;Have I been pwned&quot; password checker in NodeJS
+ 13.04.2023 02:10:35 done Array.from in Javascript
+ 13.04.2023 02:10:38 done BigInt in Javascript
+ 13.04.2023 02:10:40 done Numeric separators (_) in Javascript
+ 13.04.2023 02:10:42 done Numeric separators (_) in Javascript
+ 13.04.2023 02:10:44 done Nullish coalescing operator in Javascript
+ 13.04.2023 02:10:46 done Nullish coalescing operator in Javascript
+ 13.04.2023 02:10:49 done Optional Chaining in Javascript
+ 13.04.2023 02:10:51 done Optional Chaining in Javascript
+ 13.04.2023 02:10:53 done Number formatting in Javascript
+ 13.04.2023 02:10:55 done The 'this' keyword in Javascript
+ 13.04.2023 02:10:58 done How to get DOM elements in Javascript
+ 13.04.2023 02:11:00 done Creating classes in EcmaScript 5
+ 13.04.2023 02:11:02 done The 'new' operator in Javascript
+ 13.04.2023 02:11:04 done Date time formatting in Javascript
+ 13.04.2023 02:11:06 done Parsing a date in JavaScript
+ 13.04.2023 02:11:08 done Random number generation in Javascript (2019)
+ 13.04.2023 02:11:11 done Removing duplicates in Javascript (2019)
+ 13.04.2023 02:11:13 done padStart and padEnd in Javascript (2019)
+ 13.04.2023 02:11:15 done Trimming strings in Javascript (2019)
+ 13.04.2023 02:11:17 done Details about declaring a string in Javascript (2019)
+ 13.04.2023 02:11:19 done Unicode conversions in Javascript
+ 13.04.2023 02:11:22 done How to split strings in Javascript
+ 13.04.2023 02:11:22 done Javascript useful tips
+ 13.04.2023 02:11:57 done Memory manipulation functions in C
+ 13.04.2023 02:11:59 done What are void pointers in C?
+ 13.04.2023 02:12:01 done Random number generation in C
+ 13.04.2023 02:12:04 done Useful tips for using printf in C
+ 13.04.2023 02:12:06 done How to split strings in C (strtok)
+ 13.04.2023 02:12:08 done Creating your own data type in C
+ 13.04.2023 02:12:10 done How to return a string from a function
+ 13.04.2023 02:12:12 done Comparing strings in C
+ 13.04.2023 02:12:15 done What is typedef?
+ 13.04.2023 02:12:17 done Can you add or subtract two pointers?
+ 13.04.2023 02:12:19 done Can you subtract characters in C?
+ 13.04.2023 02:12:21 done How to return an array from a function
+ 13.04.2023 02:12:24 done Returning multiple values from a function
+ 13.04.2023 02:12:26 done Return value of a function
+ 13.04.2023 02:12:28 done Quick introduction to functions
+ 13.04.2023 02:12:30 done 30-second algorithm to check if a number is prime
+ 13.04.2023 02:12:33 done What is memory padding
+ 13.04.2023 02:12:35 done printf(MEMORY) | How to print memory to the console
+ 13.04.2023 02:12:37 done Improvements to finding an element in an array
+ 13.04.2023 02:12:39 done Quick introduction to macros
+ 13.04.2023 02:12:41 done Iterating over main parts of a matrix
+ 13.04.2023 02:12:44 done String literals and string initializations
+ 13.04.2023 02:12:46 done How to read a line of text in C
+ 13.04.2023 02:12:48 done How to declare an array of strings in C
+ 13.04.2023 02:12:50 done How to use malloc to dynamically allocate memory
+ 13.04.2023 02:12:52 done How to properly copy text in C
+ 13.04.2023 02:12:55 done Iterating over an array using pointers
+ 13.04.2023 02:12:57 done When to use a for loop and when to use a while loop
+ 13.04.2023 02:12:59 done How to convert a for loop into a while loop
+ 13.04.2023 02:13:01 done What is a static variable?
+ 13.04.2023 02:13:04 done Difference between arrays and pointers in C
+ 13.04.2023 02:13:06 done How to properly deal with dynamically allocated memory
+ 13.04.2023 02:13:08 done How to return and pass a struct to a function
+ 13.04.2023 02:13:10 done Macros with parameters in C
+ 13.04.2023 02:13:12 done Simple technique to understanding all 32 printf functions
+ 13.04.2023 02:13:15 done What are function pointers in C?
+ 13.04.2023 02:13:17 done Quirks when it comes to declaring pointers in C
+ 13.04.2023 02:13:19 done Integer type conversions
+ 13.04.2023 02:13:21 done Anonymous unions in C
+ 13.04.2023 02:13:24 done What are unions in C?
+ 13.04.2023 02:13:26 done Details about the main function
+ 13.04.2023 02:13:28 done Introduction to Enumerations in C
+ 13.04.2023 02:13:30 done Dereferencing in C
+ 13.04.2023 02:13:33 done When to free memory in C
+ 13.04.2023 02:13:35 done Writing to text files in C
+ 13.04.2023 02:13:37 done Reading from text files in C
+ 13.04.2023 02:13:39 done Writing to binary files in C
+ 13.04.2023 02:13:41 done Reading from binary files in C
+ 13.04.2023 02:13:44 done Improvements to reading and writing to text files in C
+ 13.04.2023 02:13:46 done Differences between binary and text files in C
+ 13.04.2023 02:13:48 done Differences between binary and text files in C
+ 13.04.2023 02:13:50 done How to use fseek in C
+ 13.04.2023 02:13:52 done Integer overflow and underflow explained
+ 13.04.2023 02:13:55 done Infinite loop through integer overflow
+ 13.04.2023 02:13:57 done A quirk about the sizeof operator
+ 13.04.2023 02:13:59 done Short introduction to linked lists in C
+ 13.04.2023 02:14:01 done Iterating over a linked list in C
+ 13.04.2023 02:14:04 done Adding elements to a linked list
+ 13.04.2023 02:14:06 done Deallocating a linked list
+ 13.04.2023 02:14:08 done Adding at the beginning of a linked list
+ 13.04.2023 02:14:10 done Const modifier in C
+ 13.04.2023 02:14:13 done Add after an element in a linked list
+ 13.04.2023 02:14:15 done Sorted linked list
+ 13.04.2023 02:14:17 done Removing an element from a linked list
+ 13.04.2023 02:14:19 done Reversing a linked list
+ 13.04.2023 02:14:21 done Finding loops/cycles in a linked list
+ 13.04.2023 02:14:24 done Finding loops/cycles in a linked list
+ 13.04.2023 02:14:26 done Counting number of elements (iteratively and recursively) in a linked list
+ 13.04.2023 02:14:28 done Short introduction to doubly linked lists
+ 13.04.2023 02:14:30 done How to find a word inside a sentence in C
+ 13.04.2023 02:14:32 done Iterating over doubly linked lists
+ 13.04.2023 02:14:35 done Deallocating a doubly linked list
+ 13.04.2023 02:14:37 done Deallocating a doubly linked list
+ 13.04.2023 02:14:39 done Add to the beginning of a doubly linked list
+ 13.04.2023 02:14:41 done Add to the end of a doubly linked list
+ 13.04.2023 02:14:44 done Add after a node in a doubly linked list
+ 13.04.2023 02:14:46 done Detecting memory leaks in Visual Studio
+ 13.04.2023 02:14:48 done Removing a node from doubly linked lists
+ 13.04.2023 02:14:50 done Finding a node in a doubly linked list
+ 13.04.2023 02:14:53 done Reversing a doubly linked list
+ 13.04.2023 02:14:55 done getc, getch, getche and getchar in C
+ 13.04.2023 02:14:57 done getc, getch, getche and getchar in C
+ 13.04.2023 02:14:59 done putc, putch and putchar in C
+ 13.04.2023 02:15:02 done What is the ungetc function?
+ 13.04.2023 02:15:04 done Vulnerabilities of the gets function in C
+ 13.04.2023 02:15:06 done The puts function in C
+ 13.04.2023 02:15:08 done Renaming a file in C
+ 13.04.2023 02:15:10 done Removing a file in C
+ 13.04.2023 02:15:13 done Compile and run C code using Notepad++ (2021)
+ 13.04.2023 02:15:15 done Bitwise operators in C
+ 13.04.2023 02:15:17 done Practical uses of bitwise operations - Implementing a Flag System
+ 13.04.2023 02:15:19 done The conditional operator (or ternary operator) in C
+ 13.04.2023 02:15:21 done How to add all digits of a number in C
+ 13.04.2023 02:15:24 done What are command line arguments (argc and argv)?
+ 13.04.2023 02:15:26 done How to convert strings to numbers in C
+ 13.04.2023 02:15:28 done Parsing a string of numbers in C
+ 13.04.2023 02:15:30 done The switch statement in C
+ 13.04.2023 02:15:33 done More details about the switch statement in C
+ 13.04.2023 02:15:35 done Random numbers in an interval in C
+ 13.04.2023 02:15:37 done Random floating point numbers in C
+ 13.04.2023 02:15:38 done The C programming language made simple
+ 13.04.2023 02:15:38 good end 
+ 13.04.2023 02:15:38 good end 

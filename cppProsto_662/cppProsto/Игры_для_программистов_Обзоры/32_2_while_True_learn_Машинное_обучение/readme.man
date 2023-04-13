@@ -1,0 +1,3 @@
+# [cppProsto](https://www.youtube.com/@cppProsto/playlists?view=1)
+## [Игры для программистов. Обзоры](https://www.youtube.com/playlist?list=PLdhEOd5Bckb5yun1hl-GBFQjYztbEoSDd)
+### [#2 while True: learn() Машинное обучение](https://www.youtube.com/watch?v=ri6ouajAxMc&amp;list=PLdhEOd5Bckb5yun1hl-GBFQjYztbEoSDd&amp;index=32&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [cppProsto](https://www.youtube.com/@cppProsto/playlists?view=1)
+## [ffmpeg](https://www.youtube.com/playlist?list=PLdhEOd5Bckb53e6H3KbCJ_qrmB3IW6VgD)
+### [FFMPEG. Как наложить картинку поверх видео?](https://www.youtube.com/watch?v=CM9G55APWcc&amp;list=PLdhEOd5Bckb53e6H3KbCJ_qrmB3IW6VgD&amp;index=1&amp;pp=iAQB)

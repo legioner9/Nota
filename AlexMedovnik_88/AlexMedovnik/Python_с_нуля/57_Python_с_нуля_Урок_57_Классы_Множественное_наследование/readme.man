@@ -1,0 +1,3 @@
+# [AlexMedovnik](https://www.youtube.com/@AlexMedovnik/playlists)
+## [Python с нуля](https://www.youtube.com/playlist?list=PLXRp8GYyTu9pthg-pKTdglkD2gi8NDoGi)
+### [Python с нуля. Урок №57. Классы. Множественное наследование](https://www.youtube.com/watch?v=Biky2BAjuvA&amp;list=PLXRp8GYyTu9pthg-pKTdglkD2gi8NDoGi&amp;index=57&amp;pp=iAQB)

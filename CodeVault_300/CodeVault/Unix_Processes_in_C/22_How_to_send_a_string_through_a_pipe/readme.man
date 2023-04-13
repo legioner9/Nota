@@ -1,0 +1,3 @@
+# [CodeVault](https://www.youtube.com/@CodeVault/playlists)
+## [Unix Processes in C](https://www.youtube.com/playlist?list=PLfqABt5AS4FkW5mOn2Tn9ZZLLDwA3kZUY)
+### [How to send a string through a pipe](https://www.youtube.com/watch?v=ZS3qxIjZ0z0&amp;list=PLfqABt5AS4FkW5mOn2Tn9ZZLLDwA3kZUY&amp;index=22&amp;pp=iAQB)

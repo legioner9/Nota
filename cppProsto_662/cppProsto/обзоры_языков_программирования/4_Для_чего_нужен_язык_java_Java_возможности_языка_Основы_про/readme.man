@@ -1,0 +1,3 @@
+# [cppProsto](https://www.youtube.com/@cppProsto/playlists?view=1)
+## [обзоры языков программирования](https://www.youtube.com/playlist?list=PLdhEOd5Bckb6vcYRTrYYd4muEjJ1z2OyQ)
+### [Для чего нужен язык java? Java возможности языка. Основы программирования на языке java.](https://www.youtube.com/watch?v=SQK8KpOYuzk&amp;list=PLdhEOd5Bckb6vcYRTrYYd4muEjJ1z2OyQ&amp;index=4&amp;pp=iAQB)

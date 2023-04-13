@@ -1,0 +1,5 @@
+### [Ubuntu. Как? Как установить deb пакет. Как установить программу?](https://www.youtube.com/watch?v=vJ3sGyRORfs&amp;list=PLdhEOd5Bckb70I11fp7maPk5xEJz71Rcq&amp;index=1&amp;pp=iAQB)
+### [Ubuntu. Как? Как узнать характеристики компьютера?](https://www.youtube.com/watch?v=5sH8vMpPYaM&amp;list=PLdhEOd5Bckb70I11fp7maPk5xEJz71Rcq&amp;index=2&amp;pp=iAQB)
+### [Ubuntu. Как? Как удалить пакет?](https://www.youtube.com/watch?v=lvLnE-HQUzM&amp;list=PLdhEOd5Bckb70I11fp7maPk5xEJz71Rcq&amp;index=3&amp;pp=iAQB)
+### [Ubuntu. Как проверить открытые порты? NMAP](https://www.youtube.com/watch?v=gl0gu9cg09U&amp;list=PLdhEOd5Bckb70I11fp7maPk5xEJz71Rcq&amp;index=4&amp;pp=iAQB)
+### [Ubuntu. Как загрузить сайт целиком? Программа wget](https://www.youtube.com/watch?v=4WvyAcmKbFk&amp;list=PLdhEOd5Bckb70I11fp7maPk5xEJz71Rcq&amp;index=5&amp;pp=iAQB)

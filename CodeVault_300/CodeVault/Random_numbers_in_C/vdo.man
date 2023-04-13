@@ -1,0 +1,5 @@
+### [Random number generation in C](https://www.youtube.com/watch?v=rXaxUQvrtzs&amp;list=PLfqABt5AS4Fm0ur1GUC0QF2jg4opaf9sF&amp;index=1&amp;pp=iAQB)
+### [Random numbers in an interval in C](https://www.youtube.com/watch?v=lxo2MVLoSFI&amp;list=PLfqABt5AS4Fm0ur1GUC0QF2jg4opaf9sF&amp;index=2&amp;pp=iAQB)
+### [Random floating point numbers in C](https://www.youtube.com/watch?v=pnTiYdxafQE&amp;list=PLfqABt5AS4Fm0ur1GUC0QF2jg4opaf9sF&amp;index=3&amp;pp=iAQB)
+### [How to generate random strings in C](https://www.youtube.com/watch?v=4jN8YG74aPc&amp;list=PLfqABt5AS4Fm0ur1GUC0QF2jg4opaf9sF&amp;index=4&amp;pp=iAQB)
+### [How to generate random strings from a set of characters in C](https://www.youtube.com/watch?v=FuBzYpLMo7c&amp;list=PLfqABt5AS4Fm0ur1GUC0QF2jg4opaf9sF&amp;index=5&amp;pp=iAQB)

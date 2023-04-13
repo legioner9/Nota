@@ -1,0 +1,3 @@
+# [CodeVault](https://www.youtube.com/@CodeVault/playlists)
+## [The C programming language made simple](https://www.youtube.com/playlist?list=PLfqABt5AS4FmErobw8YyTwXDUE5nPH5lH)
+### [Returning multiple values from a function](https://www.youtube.com/watch?v=NPgVytR02nk&amp;list=PLfqABt5AS4FmErobw8YyTwXDUE5nPH5lH&amp;index=13&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [BAKAVETS](https://www.youtube.com/@BAKAVETS/playlists)
+## [Jenkins Уроки](https://www.youtube.com/playlist?list=PL3SzV1_k2H1WK6LGxIf7-1yOj-In0Ieoh)
+### [4 - Jenkins Pipeline. Docker build и push в Docker Hub. Jenkinsfile](https://www.youtube.com/watch?v=68pKqpDO2Zw&amp;list=PL3SzV1_k2H1WK6LGxIf7-1yOj-In0Ieoh&amp;index=4&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [cppProsto](https://www.youtube.com/@cppProsto/playlists?view=1)
+## [gimp_plugin](https://www.youtube.com/playlist?list=PLdhEOd5Bckb6cuJ7DBjVz5Mki-7SKlcOe)
+### [GIMP. Как написать свой плагин! Gimp Plugin](https://www.youtube.com/watch?v=KClw1LmZ3Qw&amp;list=PLdhEOd5Bckb6cuJ7DBjVz5Mki-7SKlcOe&amp;index=1&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [BAKAVETS](https://www.youtube.com/@BAKAVETS/playlists)
+## [Kubernetes Уроки](https://www.youtube.com/playlist?list=PL3SzV1_k2H1VDePbSWUqERqlBXIk02wCQ)
+### [16 - Настройка HTTPS для web-app в Kubernetes. NGINX Ingress и cert manager. Let's Encrypt](https://www.youtube.com/watch?v=8ULmDxTzAVQ&amp;list=PL3SzV1_k2H1VDePbSWUqERqlBXIk02wCQ&amp;index=16&amp;pp=iAQB)

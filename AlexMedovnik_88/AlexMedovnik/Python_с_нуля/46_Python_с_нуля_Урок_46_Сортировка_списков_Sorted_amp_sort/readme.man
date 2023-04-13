@@ -1,0 +1,3 @@
+# [AlexMedovnik](https://www.youtube.com/@AlexMedovnik/playlists)
+## [Python с нуля](https://www.youtube.com/playlist?list=PLXRp8GYyTu9pthg-pKTdglkD2gi8NDoGi)
+### [Python с нуля. Урок №46. Сортировка списков. Sorted &amp; sort](https://www.youtube.com/watch?v=Zwwn26xMw0I&amp;list=PLXRp8GYyTu9pthg-pKTdglkD2gi8NDoGi&amp;index=46&amp;pp=iAQB)

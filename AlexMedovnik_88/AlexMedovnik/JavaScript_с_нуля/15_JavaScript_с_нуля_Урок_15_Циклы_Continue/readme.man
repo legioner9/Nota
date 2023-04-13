@@ -1,0 +1,3 @@
+# [AlexMedovnik](https://www.youtube.com/@AlexMedovnik/playlists)
+## [JavaScript с нуля](https://www.youtube.com/playlist?list=PLXRp8GYyTu9oL_Ht70SEA-DOuDTQTafEl)
+### [JavaScript с нуля. Урок №15. Циклы. Continue.](https://www.youtube.com/watch?v=Iz0Cr1dnPhI&amp;list=PLXRp8GYyTu9oL_Ht70SEA-DOuDTQTafEl&amp;index=15&amp;pp=iAQB)

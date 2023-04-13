@@ -1,0 +1,3 @@
+# [Begin End](https://www.youtube.com/@beginend95/playlists)
+## [OpenGL (для новичков)](https://www.youtube.com/playlist?list=PLBOPkQsFLCR0XuXoCf6PMhVmD2ukHXIBK)
+### [OpenGL - Урок 45 - Переход между текстурами. Смешивание текстур ландшафта. Multitexturing.](https://www.youtube.com/watch?v=ZxnfoWW1AME&amp;list=PLBOPkQsFLCR0XuXoCf6PMhVmD2ukHXIBK&amp;index=45&amp;pp=iAQB)

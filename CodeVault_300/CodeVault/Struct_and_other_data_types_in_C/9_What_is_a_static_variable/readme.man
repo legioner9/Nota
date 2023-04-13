@@ -1,0 +1,3 @@
+# [CodeVault](https://www.youtube.com/@CodeVault/playlists)
+## [Struct and other data types in C](https://www.youtube.com/playlist?list=PLfqABt5AS4FnjfBE30pdyN47YdFiEkux8)
+### [What is a static variable?](https://www.youtube.com/watch?v=OngGUoENgWo&amp;list=PLfqABt5AS4FnjfBE30pdyN47YdFiEkux8&amp;index=9&amp;pp=iAQB)

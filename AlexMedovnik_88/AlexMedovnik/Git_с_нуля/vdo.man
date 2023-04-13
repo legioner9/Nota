@@ -1,0 +1,5 @@
+### [Git. Урок №1. Что такое Git? Установка и настройка.](https://www.youtube.com/watch?v=I2TNUNpu3i0&amp;list=PLXRp8GYyTu9rNfCAARr5Hu3slOfE5UPoN&amp;index=1&amp;pp=iAQB)
+### [Git. Урок №2. Создание репозитория. Добавление и фиксация изменений. Переключение по коммитам.](https://www.youtube.com/watch?v=KHovFsUUCA8&amp;list=PLXRp8GYyTu9rNfCAARr5Hu3slOfE5UPoN&amp;index=2&amp;pp=iAQB)
+### [Git. Урок №3. Создание, переключение и слияние веток. Конфликт при слиянии](https://www.youtube.com/watch?v=WVn_s_Q8TkA&amp;list=PLXRp8GYyTu9rNfCAARr5Hu3slOfE5UPoN&amp;index=3&amp;pp=iAQB)
+### [Git. Урок №4. Отмена изменений. Удаление репозитория](https://www.youtube.com/watch?v=OUvu_tzdxVY&amp;list=PLXRp8GYyTu9rNfCAARr5Hu3slOfE5UPoN&amp;index=4&amp;pp=iAQB)
+### [Git. Урок №5. Перебазирование и слияние веток. Клонирование репозитория](https://www.youtube.com/watch?v=Ge3YavrNgw4&amp;list=PLXRp8GYyTu9rNfCAARr5Hu3slOfE5UPoN&amp;index=5&amp;pp=iAQB)

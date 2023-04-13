@@ -1,0 +1,2 @@
+### [Linux(Ubuntu). Программы guake, mc. Команды - cd, du, history, !, !!](https://www.youtube.com/watch?v=B6u6MuR3izM&amp;list=PLdhEOd5Bckb5YQoM_yAMepR3LWwk5OkZg&amp;index=1&amp;pp=iAQB)
+### [Ubuntu. Bash. Скрипт загрузки(обновления) репозитория с github.](https://www.youtube.com/watch?v=d3AzEes9EkE&amp;list=PLdhEOd5Bckb5YQoM_yAMepR3LWwk5OkZg&amp;index=2&amp;pp=iAQB)

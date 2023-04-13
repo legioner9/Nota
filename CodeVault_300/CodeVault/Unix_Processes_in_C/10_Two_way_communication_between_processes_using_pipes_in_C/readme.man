@@ -1,0 +1,3 @@
+# [CodeVault](https://www.youtube.com/@CodeVault/playlists)
+## [Unix Processes in C](https://www.youtube.com/playlist?list=PLfqABt5AS4FkW5mOn2Tn9ZZLLDwA3kZUY)
+### [Two way communication between processes (using pipes) in C](https://www.youtube.com/watch?v=8Q9CPWuRC6o&amp;list=PLfqABt5AS4FkW5mOn2Tn9ZZLLDwA3kZUY&amp;index=10&amp;pp=iAQB)

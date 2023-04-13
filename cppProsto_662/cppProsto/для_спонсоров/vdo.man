@@ -1,0 +1,5 @@
+### [Обучение GameDesign, Unity, C#](https://www.youtube.com/watch?v=6_ojL9vh8Y4&amp;list=PLdhEOd5Bckb58izbv67h1YftsXmTHDVVv&amp;index=1&amp;pp=iAQB)
+### [Игра для программистов.](https://www.youtube.com/watch?v=mJllV63x1qg&amp;list=PLdhEOd5Bckb58izbv67h1YftsXmTHDVVv&amp;index=2&amp;pp=iAQB)
+### [Игра в Steam. Обучи робота! Нейронная сеть](https://www.youtube.com/watch?v=0jsUyXxFtW8&amp;list=PLdhEOd5Bckb58izbv67h1YftsXmTHDVVv&amp;index=3&amp;pp=iAQB)
+### [Прототип! Пишем игру на python. PyGame. The END!](https://www.youtube.com/watch?v=acxQKHgIk8A&amp;list=PLdhEOd5Bckb58izbv67h1YftsXmTHDVVv&amp;index=4&amp;pp=iAQB)
+### [Пароль от архива прототип! Пишем игру на python. PyGame. The END!](https://www.youtube.com/watch?v=QwdBOJHXKqw&amp;list=PLdhEOd5Bckb58izbv67h1YftsXmTHDVVv&amp;index=5&amp;pp=iAQB)

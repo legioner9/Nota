@@ -1,0 +1,3 @@
+# [Android Broadcast. Все об Андроид разработке](https://www.youtube.com/@AndroidBroadcast/playlists?view=1&sort=dd&shelf_id=0)
+## [Новости](https://www.youtube.com/playlist?list=PL0SwNXKJbuNmcyMD36nk4uDKMc5H52JM2)
+### [Android 14 | Kotlin 2.0 | ChaptGPT устроилась в Microsoft и Google // Новости мобильной разработки](https://www.youtube.com/watch?v=kdAtPKk4lSI&amp;list=PL0SwNXKJbuNmcyMD36nk4uDKMc5H52JM2&amp;index=5&amp;pp=iAQB)

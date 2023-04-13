@@ -1,0 +1,3 @@
+# [BAKAVETS](https://www.youtube.com/@BAKAVETS/playlists)
+## [Terraform Уроки](https://www.youtube.com/playlist?list=PL3SzV1_k2H1UIUQMSdH1hEeuRydEGHeen)
+### [Что такое Terragrunt и как его использовать. Практический выпуск](https://www.youtube.com/watch?v=wsyPccNCj2E&amp;list=PL3SzV1_k2H1UIUQMSdH1hEeuRydEGHeen&amp;index=4&amp;pp=iAQB)

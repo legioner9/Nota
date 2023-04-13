@@ -1,0 +1,3 @@
+# [CodeVault](https://www.youtube.com/@CodeVault/playlists)
+## [Unix Threads in C](https://www.youtube.com/playlist?list=PLfqABt5AS4FmuQf70psXrsMLEDQXNkLq2)
+### [Recursive mutexes](https://www.youtube.com/watch?v=Ot-VR3jzQMY&amp;list=PLfqABt5AS4FmuQf70psXrsMLEDQXNkLq2&amp;index=20&amp;pp=iAQB)

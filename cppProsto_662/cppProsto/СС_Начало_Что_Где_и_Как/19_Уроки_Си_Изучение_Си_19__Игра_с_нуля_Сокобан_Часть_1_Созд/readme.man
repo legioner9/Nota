@@ -1,0 +1,3 @@
+# [cppProsto](https://www.youtube.com/@cppProsto/playlists?view=1)
+## [С/С++ Начало. Что? Где? и Как?](https://www.youtube.com/playlist?list=PLdhEOd5Bckb7ljO0Iqw7xvjVLHL-C1P1L)
+### [Уроки Си. Изучение Си |19| - Игра с нуля. Сокобан. Часть 1. Создаем Меню.](https://www.youtube.com/watch?v=09jj2DcZrcE&amp;list=PLdhEOd5Bckb7ljO0Iqw7xvjVLHL-C1P1L&amp;index=19&amp;pp=iAQB)

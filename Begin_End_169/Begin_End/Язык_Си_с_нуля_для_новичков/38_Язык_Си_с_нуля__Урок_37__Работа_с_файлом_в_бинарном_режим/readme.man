@@ -1,0 +1,3 @@
+# [Begin End](https://www.youtube.com/@beginend95/playlists)
+## [Язык Си с нуля (для новичков)](https://www.youtube.com/playlist?list=PLBOPkQsFLCR2DWRY74L03FmbRtz_Yy73_)
+### [Язык Си с нуля - Урок 37 - Работа с файлом в бинарном режиме](https://www.youtube.com/watch?v=hMrLL9RsnBo&amp;list=PLBOPkQsFLCR2DWRY74L03FmbRtz_Yy73_&amp;index=38&amp;pp=iAQB)

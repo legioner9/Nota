@@ -1,0 +1,3 @@
+# [AlexMedovnik](https://www.youtube.com/@AlexMedovnik/playlists)
+## [Python с нуля](https://www.youtube.com/playlist?list=PLXRp8GYyTu9pthg-pKTdglkD2gi8NDoGi)
+### [Python с нуля. Урок №19. Параметры функции. Изменение глобальной переменной.](https://www.youtube.com/watch?v=iMrdFlvG5dg&amp;list=PLXRp8GYyTu9pthg-pKTdglkD2gi8NDoGi&amp;index=19&amp;pp=iAQB)

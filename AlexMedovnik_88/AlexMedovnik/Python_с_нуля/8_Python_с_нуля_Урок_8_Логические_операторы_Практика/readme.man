@@ -1,0 +1,3 @@
+# [AlexMedovnik](https://www.youtube.com/@AlexMedovnik/playlists)
+## [Python с нуля](https://www.youtube.com/playlist?list=PLXRp8GYyTu9pthg-pKTdglkD2gi8NDoGi)
+### [Python с нуля. Урок №8. Логические операторы. Практика](https://www.youtube.com/watch?v=_2UZ7B6vQzQ&amp;list=PLXRp8GYyTu9pthg-pKTdglkD2gi8NDoGi&amp;index=8&amp;pp=iAQB)

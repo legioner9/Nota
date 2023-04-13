@@ -1,0 +1,3 @@
+# [CodeVault](https://www.youtube.com/@CodeVault/playlists)
+## [Tools and IDEs](https://www.youtube.com/playlist?list=PLfqABt5AS4FnOR4oUXE_WDf1k0COTRee_)
+### [Detecting memory leaks in Visual Studio](https://www.youtube.com/watch?v=t1wqj6J6Vhs&amp;list=PLfqABt5AS4FnOR4oUXE_WDf1k0COTRee_&amp;index=4&amp;pp=iAQB)

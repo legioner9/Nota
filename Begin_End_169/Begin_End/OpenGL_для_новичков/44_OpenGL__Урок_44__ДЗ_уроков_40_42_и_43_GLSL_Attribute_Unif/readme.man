@@ -1,0 +1,3 @@
+# [Begin End](https://www.youtube.com/@beginend95/playlists)
+## [OpenGL (для новичков)](https://www.youtube.com/playlist?list=PLBOPkQsFLCR0XuXoCf6PMhVmD2ukHXIBK)
+### [OpenGL - Урок 44 - ДЗ уроков 40, 42 и 43. GLSL, Attribute, Uniform, Текстурирование.](https://www.youtube.com/watch?v=VKD5mWi9e3o&amp;list=PLBOPkQsFLCR0XuXoCf6PMhVmD2ukHXIBK&amp;index=44&amp;pp=iAQB)

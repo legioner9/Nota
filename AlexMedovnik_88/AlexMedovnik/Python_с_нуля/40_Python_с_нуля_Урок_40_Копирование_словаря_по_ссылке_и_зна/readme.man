@@ -1,0 +1,3 @@
+# [AlexMedovnik](https://www.youtube.com/@AlexMedovnik/playlists)
+## [Python с нуля](https://www.youtube.com/playlist?list=PLXRp8GYyTu9pthg-pKTdglkD2gi8NDoGi)
+### [Python с нуля. Урок №40. Копирование словаря по ссылке и значению](https://www.youtube.com/watch?v=B5X14K8LK5k&amp;list=PLXRp8GYyTu9pthg-pKTdglkD2gi8NDoGi&amp;index=40&amp;pp=iAQB)

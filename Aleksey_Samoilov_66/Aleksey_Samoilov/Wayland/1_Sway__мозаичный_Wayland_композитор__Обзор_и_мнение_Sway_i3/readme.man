@@ -1,0 +1,3 @@
+# [Aleksey Samoilov](https://www.youtube.com/@AlekseySamoilov/playlists)
+## [Wayland](https://www.youtube.com/playlist?list=PLuW889yWYTEcaIvzgepcMBEPF7wRFHCef)
+### [Sway - мозаичный Wayland композитор | Обзор и мнение (Sway, i3, i3-gaps)](https://www.youtube.com/watch?v=quTBZY70A5c&amp;list=PLuW889yWYTEcaIvzgepcMBEPF7wRFHCef&amp;index=1&amp;pp=iAQB)

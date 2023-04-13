@@ -1,0 +1,3 @@
+# [cppProsto](https://www.youtube.com/@cppProsto/playlists?view=1)
+## [Разработка игр (Game design). Советы и рекомендации.](https://www.youtube.com/playlist?list=PLdhEOd5Bckb4klSyQYbd-z5jwT2LTopwi)
+### [#4 Разработка игры (Game design). Советы и рекомендации.](https://www.youtube.com/watch?v=LD3501nlz_A&amp;list=PLdhEOd5Bckb4klSyQYbd-z5jwT2LTopwi&amp;index=4&amp;pp=iAQB)

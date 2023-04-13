@@ -1,0 +1,3 @@
+# [CodeVault](https://www.youtube.com/@CodeVault/playlists)
+## [Array methods you must know about in 2019](https://www.youtube.com/playlist?list=PLfqABt5AS4FkNrfuWbuyoK-DUTBudLjek)
+### [What is array reduce in JS?](https://www.youtube.com/watch?v=at91r6Jle3A&amp;list=PLfqABt5AS4FkNrfuWbuyoK-DUTBudLjek&amp;index=2&amp;pp=iAQB)

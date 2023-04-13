@@ -1,0 +1,3 @@
+# [cppProsto](https://www.youtube.com/@cppProsto/playlists?view=1)
+## [Colobot. Изучение программирования.](https://www.youtube.com/playlist?list=PLdhEOd5Bckb4d_wWO9y_SC3MUaoXgqK-f)
+### [Colobot #5. Упражнения 3 : Основы (4-7)](https://www.youtube.com/watch?v=YaZ-9yJBoDE&amp;list=PLdhEOd5Bckb4d_wWO9y_SC3MUaoXgqK-f&amp;index=5&amp;pp=iAQB)

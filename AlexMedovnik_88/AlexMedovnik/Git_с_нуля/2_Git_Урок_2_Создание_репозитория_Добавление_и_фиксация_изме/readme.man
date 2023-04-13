@@ -1,0 +1,3 @@
+# [AlexMedovnik](https://www.youtube.com/@AlexMedovnik/playlists)
+## [Git с нуля](https://www.youtube.com/playlist?list=PLXRp8GYyTu9rNfCAARr5Hu3slOfE5UPoN)
+### [Git. Урок №2. Создание репозитория. Добавление и фиксация изменений. Переключение по коммитам.](https://www.youtube.com/watch?v=KHovFsUUCA8&amp;list=PLXRp8GYyTu9rNfCAARr5Hu3slOfE5UPoN&amp;index=2&amp;pp=iAQB)

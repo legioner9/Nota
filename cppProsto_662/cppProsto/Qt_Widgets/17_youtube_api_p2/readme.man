@@ -1,0 +1,3 @@
+# [cppProsto](https://www.youtube.com/@cppProsto/playlists?view=1)
+## [Qt Widgets](https://www.youtube.com/playlist?list=PLdhEOd5Bckb68z9la6gCLgUWQo50Jt_NM)
+### [youtube api p2](https://www.youtube.com/watch?v=XFd87E1v8kw&amp;list=PLdhEOd5Bckb68z9la6gCLgUWQo50Jt_NM&amp;index=17&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [AlexMedovnik](https://www.youtube.com/@AlexMedovnik/playlists)
+## [Python с нуля](https://www.youtube.com/playlist?list=PLXRp8GYyTu9pthg-pKTdglkD2gi8NDoGi)
+### [Python с нуля. Урок №2. Операторы и первая программа Калькулятор.](https://www.youtube.com/watch?v=5yAi3d8axi0&amp;list=PLXRp8GYyTu9pthg-pKTdglkD2gi8NDoGi&amp;index=2&amp;pp=iAQB)

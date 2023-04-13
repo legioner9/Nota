@@ -1,0 +1,3 @@
+# [CodeVault](https://www.youtube.com/@CodeVault/playlists)
+## [The C programming language made simple](https://www.youtube.com/playlist?list=PLfqABt5AS4FmErobw8YyTwXDUE5nPH5lH)
+### [Practical uses of bitwise operations - Implementing a Flag System](https://www.youtube.com/watch?v=6hnLMnid1M0&amp;list=PLfqABt5AS4FmErobw8YyTwXDUE5nPH5lH&amp;index=91&amp;pp=iAQB)

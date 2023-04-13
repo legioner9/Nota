@@ -1,0 +1,3 @@
+# [BAKAVETS](https://www.youtube.com/@BAKAVETS/playlists)
+## [Terraform Уроки](https://www.youtube.com/playlist?list=PL3SzV1_k2H1UIUQMSdH1hEeuRydEGHeen)
+### [Как создавать компоненты Terraform в отдельных папках и связывать их между собой](https://www.youtube.com/watch?v=blR0hp_jQY8&amp;list=PL3SzV1_k2H1UIUQMSdH1hEeuRydEGHeen&amp;index=2&amp;pp=iAQB)

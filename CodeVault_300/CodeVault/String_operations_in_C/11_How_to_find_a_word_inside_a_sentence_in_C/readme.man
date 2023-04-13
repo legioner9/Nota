@@ -1,0 +1,3 @@
+# [CodeVault](https://www.youtube.com/@CodeVault/playlists)
+## [String operations in C](https://www.youtube.com/playlist?list=PLfqABt5AS4FmSwyvP5a3mYsaksq6yR3-Z)
+### [How to find a word inside a sentence in C](https://www.youtube.com/watch?v=8A3Zycio0W4&amp;list=PLfqABt5AS4FmSwyvP5a3mYsaksq6yR3-Z&amp;index=11&amp;pp=iAQB)

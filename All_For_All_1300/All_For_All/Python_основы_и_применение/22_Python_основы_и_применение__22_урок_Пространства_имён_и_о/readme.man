@@ -1,0 +1,3 @@
+# [All For All](https://www.youtube.com/@allforall9627/playlists)
+## [Python: основы и применение](https://www.youtube.com/playlist?list=PLoWGNURguz9W8h2j7UJnwdPZVZy2pDfMT)
+### [Python: основы и применение - 22 урок. Пространства имён и области видимости](https://www.youtube.com/watch?v=05dEx_Az02s&amp;list=PLoWGNURguz9W8h2j7UJnwdPZVZy2pDfMT&amp;index=22&amp;pp=iAQB)

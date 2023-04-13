@@ -1,0 +1,3 @@
+# [Begin End](https://www.youtube.com/@beginend95/playlists)
+## [Язык Си с нуля (для новичков)](https://www.youtube.com/playlist?list=PLBOPkQsFLCR2DWRY74L03FmbRtz_Yy73_)
+### [Язык Си с нуля - Урок 43 - Пишем игру квест. Добавляем NPC, предметы и задания.](https://www.youtube.com/watch?v=9YGPJM1cWC8&amp;list=PLBOPkQsFLCR2DWRY74L03FmbRtz_Yy73_&amp;index=44&amp;pp=iAQB)

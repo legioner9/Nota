@@ -1,0 +1,3 @@
+# [Begin End](https://www.youtube.com/@beginend95/playlists)
+## [Язык Си с нуля (для новичков)](https://www.youtube.com/playlist?list=PLBOPkQsFLCR2DWRY74L03FmbRtz_Yy73_)
+### [Язык Си с нуля - Урок 36 - Работа с файлом в текстовом режиме](https://www.youtube.com/watch?v=bZAG3AKI5ZA&amp;list=PLBOPkQsFLCR2DWRY74L03FmbRtz_Yy73_&amp;index=37&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [CodeVault](https://www.youtube.com/@CodeVault/playlists)
+## [The C programming language made simple](https://www.youtube.com/playlist?list=PLfqABt5AS4FmErobw8YyTwXDUE5nPH5lH)
+### [Infinite loop through integer overflow](https://www.youtube.com/watch?v=uZf_5JQXoU8&amp;list=PLfqABt5AS4FmErobw8YyTwXDUE5nPH5lH&amp;index=54&amp;pp=iAQB)

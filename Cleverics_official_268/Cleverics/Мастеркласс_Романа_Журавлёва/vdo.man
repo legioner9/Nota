@@ -1,0 +1,5 @@
+### [Что такое ITSM и что такое ITIL](https://www.youtube.com/watch?v=XnYxTMUcskg&amp;list=PLB6692BF9A8617492&amp;index=1&amp;pp=iAQB)
+### [ITIL - не более, чем инструмент](https://www.youtube.com/watch?v=TCVWK_7FeBY&amp;list=PLB6692BF9A8617492&amp;index=2&amp;pp=iAQB)
+### [Известная мантра &quot;People, Process and Technology&quot;](https://www.youtube.com/watch?v=z8xUq33NBqE&amp;list=PLB6692BF9A8617492&amp;index=3&amp;pp=iAQB)
+### [Как узнать требования бизнеса](https://www.youtube.com/watch?v=MTpzz7h6ePk&amp;list=PLB6692BF9A8617492&amp;index=4&amp;pp=iAQB)
+### [ITIL - для внутреннего ИТ или для внешнего провайдера?](https://www.youtube.com/watch?v=wv9E1IDU3NE&amp;list=PLB6692BF9A8617492&amp;index=5&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [AlexMedovnik](https://www.youtube.com/@AlexMedovnik/playlists)
+## [Python с нуля](https://www.youtube.com/playlist?list=PLXRp8GYyTu9pthg-pKTdglkD2gi8NDoGi)
+### [Python с нуля. Урок №27. Перебор списка](https://www.youtube.com/watch?v=wqihfS7g2a8&amp;list=PLXRp8GYyTu9pthg-pKTdglkD2gi8NDoGi&amp;index=27&amp;pp=iAQB)

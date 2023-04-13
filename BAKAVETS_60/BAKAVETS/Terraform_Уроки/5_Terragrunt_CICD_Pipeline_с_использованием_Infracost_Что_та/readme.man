@@ -1,0 +1,3 @@
+# [BAKAVETS](https://www.youtube.com/@BAKAVETS/playlists)
+## [Terraform Уроки](https://www.youtube.com/playlist?list=PL3SzV1_k2H1UIUQMSdH1hEeuRydEGHeen)
+### [Terragrunt CI/CD Pipeline с использованием Infracost. Что такое Infracost. GitHub Actions](https://www.youtube.com/watch?v=NOhYAFdmh0U&amp;list=PL3SzV1_k2H1UIUQMSdH1hEeuRydEGHeen&amp;index=5&amp;pp=iAQB)

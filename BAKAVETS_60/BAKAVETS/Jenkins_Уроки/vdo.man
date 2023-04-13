@@ -1,0 +1,6 @@
+### [1 - Установка Jenkins на Linux](https://www.youtube.com/watch?v=zn7uy0qTAbM&amp;list=PL3SzV1_k2H1WK6LGxIf7-1yOj-In0Ieoh&amp;index=1&amp;pp=iAQB)
+### [2 - Подключение Linux Agent к Jenkins Master](https://www.youtube.com/watch?v=ee1XcQxKfRk&amp;list=PL3SzV1_k2H1WK6LGxIf7-1yOj-In0Ieoh&amp;index=2&amp;pp=iAQB)
+### [3 - Подключение Windows Agent к Jenkins Master. Java 11](https://www.youtube.com/watch?v=S9Mp1IbFd-E&amp;list=PL3SzV1_k2H1WK6LGxIf7-1yOj-In0Ieoh&amp;index=3&amp;pp=iAQB)
+### [4 - Jenkins Pipeline. Docker build и push в Docker Hub. Jenkinsfile](https://www.youtube.com/watch?v=68pKqpDO2Zw&amp;list=PL3SzV1_k2H1WK6LGxIf7-1yOj-In0Ieoh&amp;index=4&amp;pp=iAQB)
+### [5 - Как использовать Git Parameter в Jenkins Pipeline](https://www.youtube.com/watch?v=9zELPvAPZcY&amp;list=PL3SzV1_k2H1WK6LGxIf7-1yOj-In0Ieoh&amp;index=5&amp;pp=iAQB)
+### [6 - Запуск Jenkins Slaves в Kubernetes](https://www.youtube.com/watch?v=AYZvRks3KQA&amp;list=PL3SzV1_k2H1WK6LGxIf7-1yOj-In0Ieoh&amp;index=6&amp;pp=iAQB)

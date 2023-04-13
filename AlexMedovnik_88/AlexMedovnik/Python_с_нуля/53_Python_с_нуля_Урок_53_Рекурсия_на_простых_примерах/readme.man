@@ -1,0 +1,3 @@
+# [AlexMedovnik](https://www.youtube.com/@AlexMedovnik/playlists)
+## [Python с нуля](https://www.youtube.com/playlist?list=PLXRp8GYyTu9pthg-pKTdglkD2gi8NDoGi)
+### [Python с нуля. Урок №53. Рекурсия на простых примерах](https://www.youtube.com/watch?v=PfbYqlLdbpY&amp;list=PLXRp8GYyTu9pthg-pKTdglkD2gi8NDoGi&amp;index=53&amp;pp=iAQB)

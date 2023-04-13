@@ -1,0 +1,3 @@
+# [cppProsto](https://www.youtube.com/@cppProsto/playlists?view=1)
+## [Qt Widgets](https://www.youtube.com/playlist?list=PLdhEOd5Bckb68z9la6gCLgUWQo50Jt_NM)
+### [drag moving часть 4](https://www.youtube.com/watch?v=2YSa-oIeAY8&amp;list=PLdhEOd5Bckb68z9la6gCLgUWQo50Jt_NM&amp;index=13&amp;pp=iAQB)

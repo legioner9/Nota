@@ -1,0 +1,3 @@
+# [Begin End](https://www.youtube.com/@beginend95/playlists)
+## [Язык Си с нуля (для новичков)](https://www.youtube.com/playlist?list=PLBOPkQsFLCR2DWRY74L03FmbRtz_Yy73_)
+### [Программирование на Си - Урок 14 - define, случайные числа](https://www.youtube.com/watch?v=VwmcBMsGfYs&amp;list=PLBOPkQsFLCR2DWRY74L03FmbRtz_Yy73_&amp;index=14&amp;pp=iAQB)

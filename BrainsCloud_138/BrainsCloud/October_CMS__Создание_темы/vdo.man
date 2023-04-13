@@ -1,0 +1,8 @@
+### [CMS для быстрого создания любого сайта | October CMS, PHP, MySQL](https://www.youtube.com/watch?v=oXmcYvY_C_8&amp;list=PLoq3Accf02PW1vxXAVl-3dt0YtQnSiTzg&amp;index=1&amp;pp=iAQB)
+### [October CMS #2 Переносим HTML верстку | Создаем свою тему](https://www.youtube.com/watch?v=FmFp9HigW5c&amp;list=PLoq3Accf02PW1vxXAVl-3dt0YtQnSiTzg&amp;index=2&amp;pp=iAQB)
+### [October CMS #3 Создание partials | Создаем свою тему](https://www.youtube.com/watch?v=HHCxSsRKtCg&amp;list=PLoq3Accf02PW1vxXAVl-3dt0YtQnSiTzg&amp;index=3&amp;pp=iAQB)
+### [October CMS #4 Работа с плагинами, делаем блог](https://www.youtube.com/watch?v=zc8eF_dTe-A&amp;list=PLoq3Accf02PW1vxXAVl-3dt0YtQnSiTzg&amp;index=4&amp;pp=iAQB)
+### [October CMS #5 Комментарии для блога, Работа с компонентами](https://www.youtube.com/watch?v=ywGbIxMv2E4&amp;list=PLoq3Accf02PW1vxXAVl-3dt0YtQnSiTzg&amp;index=5&amp;pp=iAQB)
+### [October CMS #6 Плагин для изменения текста на сайте](https://www.youtube.com/watch?v=php0qRCdBYU&amp;list=PLoq3Accf02PW1vxXAVl-3dt0YtQnSiTzg&amp;index=6&amp;pp=iAQB)
+### [October CMS #7 SEO Плагин для сайта](https://www.youtube.com/watch?v=5nzwbLUhFZE&amp;list=PLoq3Accf02PW1vxXAVl-3dt0YtQnSiTzg&amp;index=7&amp;pp=iAQB)
+### [October CMS #8 Форма подписки для сбора e-mail на сайте.](https://www.youtube.com/watch?v=vcHFFPxWYIw&amp;list=PLoq3Accf02PW1vxXAVl-3dt0YtQnSiTzg&amp;index=8&amp;pp=iAQB)

@@ -1,0 +1,6 @@
+### [Loose equality vs strict equality in JS](https://www.youtube.com/watch?v=z-fT79_LWEM&amp;list=PLfqABt5AS4FlJCAG8W-xcYiHEkAvm8Iwz&amp;index=1&amp;pp=iAQB)
+### [Type coercion quirks in JS](https://www.youtube.com/watch?v=c_5pYLwoAJg&amp;list=PLfqABt5AS4FlJCAG8W-xcYiHEkAvm8Iwz&amp;index=2&amp;pp=iAQB)
+### [Automatic semicolon insertion in JS](https://www.youtube.com/watch?v=ptGbbULB5cQ&amp;list=PLfqABt5AS4FlJCAG8W-xcYiHEkAvm8Iwz&amp;index=3&amp;pp=iAQB)
+### [Quirk #4 - The var keyword in JS](https://www.youtube.com/watch?v=ILzEsCdEC9w&amp;list=PLfqABt5AS4FlJCAG8W-xcYiHEkAvm8Iwz&amp;index=4&amp;pp=iAQB)
+### [NaN (not-a-number) in JS](https://www.youtube.com/watch?v=M15PUYqXFrs&amp;list=PLfqABt5AS4FlJCAG8W-xcYiHEkAvm8Iwz&amp;index=5&amp;pp=iAQB)
+### [Object properties and property accessors in JS](https://www.youtube.com/watch?v=sXed76BTqfA&amp;list=PLfqABt5AS4FlJCAG8W-xcYiHEkAvm8Iwz&amp;index=6&amp;pp=iAQB)

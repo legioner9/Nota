@@ -1,0 +1,3 @@
+# [cppProsto](https://www.youtube.com/@cppProsto/playlists?view=1)
+## [Язык программирования С++. Изучение C++](https://www.youtube.com/playlist?list=PLdhEOd5Bckb54U_bm9pS3eMQldHDyA8h_)
+### [Изучение С++ {#38}. Порядок вычислений. Уроки C++.](https://www.youtube.com/watch?v=_g8YYHLXyfU&amp;list=PLdhEOd5Bckb54U_bm9pS3eMQldHDyA8h_&amp;index=6&amp;pp=iAQB)

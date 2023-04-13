@@ -1,0 +1,3 @@
+# [AlexMedovnik](https://www.youtube.com/@AlexMedovnik/playlists)
+## [Python с нуля](https://www.youtube.com/playlist?list=PLXRp8GYyTu9pthg-pKTdglkD2gi8NDoGi)
+### [Python с нуля. Урок №28. Фильтрация списка](https://www.youtube.com/watch?v=E8SWK5aRHyA&amp;list=PLXRp8GYyTu9pthg-pKTdglkD2gi8NDoGi&amp;index=28&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [cppProsto](https://www.youtube.com/@cppProsto/playlists?view=1)
+## [обзоры языков программирования](https://www.youtube.com/playlist?list=PLdhEOd5Bckb6vcYRTrYYd4muEjJ1z2OyQ)
+### [Обзор языка программирования Objective-C. Особенности языка программирования Objective-C.](https://www.youtube.com/watch?v=Zj9KAPOMrTs&amp;list=PLdhEOd5Bckb6vcYRTrYYd4muEjJ1z2OyQ&amp;index=10&amp;pp=iAQB)

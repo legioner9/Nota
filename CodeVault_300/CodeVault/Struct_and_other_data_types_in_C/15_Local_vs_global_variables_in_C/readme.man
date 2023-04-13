@@ -1,0 +1,3 @@
+# [CodeVault](https://www.youtube.com/@CodeVault/playlists)
+## [Struct and other data types in C](https://www.youtube.com/playlist?list=PLfqABt5AS4FnjfBE30pdyN47YdFiEkux8)
+### [Local vs global variables in C](https://www.youtube.com/watch?v=nasTgF78CUc&amp;list=PLfqABt5AS4FnjfBE30pdyN47YdFiEkux8&amp;index=15&amp;pp=iAQB)

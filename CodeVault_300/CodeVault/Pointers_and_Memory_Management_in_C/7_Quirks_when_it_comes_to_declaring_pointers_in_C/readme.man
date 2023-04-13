@@ -1,0 +1,3 @@
+# [CodeVault](https://www.youtube.com/@CodeVault/playlists)
+## [Pointers and Memory Management in C](https://www.youtube.com/playlist?list=PLfqABt5AS4FkIiyvV8mnZmf3p6PxbAtc8)
+### [Quirks when it comes to declaring pointers in C](https://www.youtube.com/watch?v=cR9P0TbmNqc&amp;list=PLfqABt5AS4FkIiyvV8mnZmf3p6PxbAtc8&amp;index=7&amp;pp=iAQB)

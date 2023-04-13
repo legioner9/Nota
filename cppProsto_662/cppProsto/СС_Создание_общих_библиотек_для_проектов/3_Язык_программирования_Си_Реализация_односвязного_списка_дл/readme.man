@@ -1,0 +1,3 @@
+# [cppProsto](https://www.youtube.com/@cppProsto/playlists?view=1)
+## [С/С++ Создание общих библиотек для проектов.](https://www.youtube.com/playlist?list=PLdhEOd5Bckb5K2sulIoDt5xHviYTqKTgH)
+### [Язык программирования Си. Реализация односвязного списка для хранения int значений](https://www.youtube.com/watch?v=JFQq7bA-qm8&amp;list=PLdhEOd5Bckb5K2sulIoDt5xHviYTqKTgH&amp;index=3&amp;pp=iAQB)

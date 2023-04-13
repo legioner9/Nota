@@ -1,0 +1,3 @@
+# [Begin End](https://www.youtube.com/@beginend95/playlists)
+## [OpenGL (для новичков)](https://www.youtube.com/playlist?list=PLBOPkQsFLCR0XuXoCf6PMhVmD2ukHXIBK)
+### [OpenGL - Урок 17 - Основы текстурирования. Загрузка текстур из файла.](https://www.youtube.com/watch?v=McHessF1Q_8&amp;list=PLBOPkQsFLCR0XuXoCf6PMhVmD2ukHXIBK&amp;index=17&amp;pp=iAQB)

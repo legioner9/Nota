@@ -1,0 +1,3 @@
+# [Aleksey Samoilov](https://www.youtube.com/@AlekseySamoilov/playlists)
+## [Wayland](https://www.youtube.com/playlist?list=PLuW889yWYTEcaIvzgepcMBEPF7wRFHCef)
+### [Сказ о том, как Mir превратился в Wayland-композитор](https://www.youtube.com/watch?v=XlAkLx3UQPA&amp;list=PLuW889yWYTEcaIvzgepcMBEPF7wRFHCef&amp;index=2&amp;pp=iAQB)

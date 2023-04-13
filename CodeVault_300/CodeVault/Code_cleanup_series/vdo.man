@@ -1,0 +1,5 @@
+### [3 tips for better comments in your code | [ Code Cleanup #1 ]](https://www.youtube.com/watch?v=-cJbOq36OVw&amp;list=PLfqABt5AS4FmYX_zZlE3R66FPJyekMGVn&amp;index=1&amp;pp=iAQB)
+### [3-ish tips on naming in software dev | [ Code Cleanup #2 ]](https://www.youtube.com/watch?v=7hMnPrv8JIU&amp;list=PLfqABt5AS4FmYX_zZlE3R66FPJyekMGVn&amp;index=2&amp;pp=iAQB)
+### [3 tips to formatting your code | [ Code Cleanup #3 ]](https://www.youtube.com/watch?v=NiIIzIYuMUc&amp;list=PLfqABt5AS4FmYX_zZlE3R66FPJyekMGVn&amp;index=3&amp;pp=iAQB)
+### [When to use variables | [ Code Cleanup #4 ]](https://www.youtube.com/watch?v=ks6aXEC79ZM&amp;list=PLfqABt5AS4FmYX_zZlE3R66FPJyekMGVn&amp;index=4&amp;pp=iAQB)
+### [Validation | [ Code Cleanup #5 ]](https://www.youtube.com/watch?v=gKS3yEjEbJI&amp;list=PLfqABt5AS4FmYX_zZlE3R66FPJyekMGVn&amp;index=5&amp;pp=iAQB)

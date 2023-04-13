@@ -1,0 +1,3 @@
+# [cppProsto](https://www.youtube.com/@cppProsto/playlists?view=1)
+## [Язык программирования С++. Изучение C++](https://www.youtube.com/playlist?list=PLdhEOd5Bckb54U_bm9pS3eMQldHDyA8h_)
+### [Уроки С++. Изучение С++ {#15}. Умные указатели. unique_prt.](https://www.youtube.com/watch?v=7_Wv9NbNgdg&amp;list=PLdhEOd5Bckb54U_bm9pS3eMQldHDyA8h_&amp;index=24&amp;pp=iAQB)

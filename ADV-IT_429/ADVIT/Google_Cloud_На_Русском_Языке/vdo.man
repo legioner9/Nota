@@ -1,0 +1,4 @@
+### [GCP - Экзамен Google Cloud - Associate Cloud Engineer](https://www.youtube.com/watch?v=5wEbNSrs098&amp;list=PLg5SS_4L6LYs5IZZSY0viHRQFPa2P-R8H&amp;index=1&amp;pp=iAQB)
+### [GCP - Открытие Google Cloud аккаунта - Billing Account и Projects](https://www.youtube.com/watch?v=ryJlSyWVO_A&amp;list=PLg5SS_4L6LYs5IZZSY0viHRQFPa2P-R8H&amp;index=2&amp;pp=iAQB)
+### [GCP - Обзор Google Cloud Console, Создание и Стирание Projects](https://www.youtube.com/watch?v=IUumnbOz7bI&amp;list=PLg5SS_4L6LYs5IZZSY0viHRQFPa2P-R8H&amp;index=3&amp;pp=iAQB)
+### [GCP - Создание Халявного Web Сервера на базе Linux Server](https://www.youtube.com/watch?v=G2N200B1us4&amp;list=PLg5SS_4L6LYs5IZZSY0viHRQFPa2P-R8H&amp;index=4&amp;pp=iAQB)

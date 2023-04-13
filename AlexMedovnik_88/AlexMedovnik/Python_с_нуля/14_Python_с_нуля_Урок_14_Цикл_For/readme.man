@@ -1,0 +1,3 @@
+# [AlexMedovnik](https://www.youtube.com/@AlexMedovnik/playlists)
+## [Python с нуля](https://www.youtube.com/playlist?list=PLXRp8GYyTu9pthg-pKTdglkD2gi8NDoGi)
+### [Python с нуля. Урок №14. Цикл For](https://www.youtube.com/watch?v=RSLlR3eQ4Rk&amp;list=PLXRp8GYyTu9pthg-pKTdglkD2gi8NDoGi&amp;index=14&amp;pp=iAQB)

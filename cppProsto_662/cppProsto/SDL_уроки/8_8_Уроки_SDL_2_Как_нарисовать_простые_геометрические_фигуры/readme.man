@@ -1,0 +1,3 @@
+# [cppProsto](https://www.youtube.com/@cppProsto/playlists?view=1)
+## [SDL уроки](https://www.youtube.com/playlist?list=PLdhEOd5Bckb4WMrLsyuSyfUzsAIbNdRW8)
+### [#8 Уроки SDL 2. Как нарисовать простые геометрические фигуры.](https://www.youtube.com/watch?v=4WmsmPWdyn0&amp;list=PLdhEOd5Bckb4WMrLsyuSyfUzsAIbNdRW8&amp;index=8&amp;pp=iAQB)

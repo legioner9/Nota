@@ -1,0 +1,3 @@
+# [cppProsto](https://www.youtube.com/@cppProsto/playlists?view=1)
+## [Совершенный код](https://www.youtube.com/playlist?list=PLdhEOd5Bckb6llGayAelu3dnTXVgv2AI1)
+### [Совершенный Код. Методики оптимизации кода. Изменение типов данных. Project Zomboid](https://www.youtube.com/watch?v=bXH62BDAmso&amp;list=PLdhEOd5Bckb6llGayAelu3dnTXVgv2AI1&amp;index=9&amp;pp=iAQB)

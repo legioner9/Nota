@@ -1,0 +1,3 @@
+# [AlexMedovnik](https://www.youtube.com/@AlexMedovnik/playlists)
+## [Python с нуля](https://www.youtube.com/playlist?list=PLXRp8GYyTu9pthg-pKTdglkD2gi8NDoGi)
+### [Python с нуля. Урок №20. Функции](https://www.youtube.com/watch?v=ufmDoc9-jK8&amp;list=PLXRp8GYyTu9pthg-pKTdglkD2gi8NDoGi&amp;index=20&amp;pp=iAQB)

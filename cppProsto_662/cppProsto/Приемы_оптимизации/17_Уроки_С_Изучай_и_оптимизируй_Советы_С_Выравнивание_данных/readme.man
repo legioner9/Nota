@@ -1,0 +1,3 @@
+# [cppProsto](https://www.youtube.com/@cppProsto/playlists?view=1)
+## [Приемы оптимизации](https://www.youtube.com/playlist?list=PLdhEOd5Bckb5a15PL8Cy3bQ0ucS5Ng8bx)
+### [Уроки С++. Изучай и оптимизируй! Советы С++. Выравнивание данных](https://www.youtube.com/watch?v=-AGW3g_6Vks&amp;list=PLdhEOd5Bckb5a15PL8Cy3bQ0ucS5Ng8bx&amp;index=17&amp;pp=iAQB)

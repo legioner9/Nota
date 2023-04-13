@@ -1,0 +1,3 @@
+# [CodeVault](https://www.youtube.com/@CodeVault/playlists)
+## [Unix Threads in C](https://www.youtube.com/playlist?list=PLfqABt5AS4FmuQf70psXrsMLEDQXNkLq2)
+### [Difference between Binary Semaphores and Mutexes](https://www.youtube.com/watch?v=ZpRN3XQY4AA&amp;list=PLfqABt5AS4FmuQf70psXrsMLEDQXNkLq2&amp;index=25&amp;pp=iAQB)

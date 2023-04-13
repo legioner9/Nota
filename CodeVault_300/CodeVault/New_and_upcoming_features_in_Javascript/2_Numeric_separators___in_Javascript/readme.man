@@ -1,0 +1,3 @@
+# [CodeVault](https://www.youtube.com/@CodeVault/playlists)
+## [New and upcoming features in Javascript](https://www.youtube.com/playlist?list=PLfqABt5AS4Fn7mOLMJTcsfIOspiHE4jZy)
+### [Numeric separators (_) in Javascript](https://www.youtube.com/watch?v=5bGB2oGe80I&amp;list=PLfqABt5AS4Fn7mOLMJTcsfIOspiHE4jZy&amp;index=2&amp;pp=iAQB)

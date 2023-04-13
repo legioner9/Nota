@@ -1,0 +1,3 @@
+# [CodeVault](https://www.youtube.com/@CodeVault/playlists)
+## [Operators in C](https://www.youtube.com/playlist?list=PLfqABt5AS4Flv0N9y6WVnbk_UjwYyC3T1)
+### [A quirk about the sizeof operator](https://www.youtube.com/watch?v=urtLQeBYVe0&amp;list=PLfqABt5AS4Flv0N9y6WVnbk_UjwYyC3T1&amp;index=9&amp;pp=iAQB)

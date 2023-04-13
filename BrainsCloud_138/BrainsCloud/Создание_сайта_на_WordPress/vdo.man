@@ -1,0 +1,5 @@
+### [Создание сайта на Wordpress #1. Три способа установки](https://www.youtube.com/watch?v=gS7KkEpg-Q8&amp;list=PLoq3Accf02PWPbtnL8hmXFUFmbNoxNSL_&amp;index=1&amp;pp=iAQB)
+### [Создание сайта на Wordpress #2. Настройка и админка](https://www.youtube.com/watch?v=M7MutXeNDdw&amp;list=PLoq3Accf02PWPbtnL8hmXFUFmbNoxNSL_&amp;index=2&amp;pp=iAQB)
+### [Создание сайта на Wordpress #3. Защита сайта](https://www.youtube.com/watch?v=p-XNDL9Hjbk&amp;list=PLoq3Accf02PWPbtnL8hmXFUFmbNoxNSL_&amp;index=3&amp;pp=iAQB)
+### [Создание сайта на Wordpress #4. Работа с шаблоном](https://www.youtube.com/watch?v=TlICJDUY8oc&amp;list=PLoq3Accf02PWPbtnL8hmXFUFmbNoxNSL_&amp;index=4&amp;pp=iAQB)
+### [Создание сайта на Wordpress #5. Записи, страницы, SEO](https://www.youtube.com/watch?v=zmlYpxLqRiU&amp;list=PLoq3Accf02PWPbtnL8hmXFUFmbNoxNSL_&amp;index=5&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [cppProsto](https://www.youtube.com/@cppProsto/playlists?view=1)
+## [SDL уроки](https://www.youtube.com/playlist?list=PLdhEOd5Bckb4WMrLsyuSyfUzsAIbNdRW8)
+### [#17 Уроки SDL 2. События мыши + состояния клавиатуры + Анимация.](https://www.youtube.com/watch?v=XURwcJuyo6k&amp;list=PLdhEOd5Bckb4WMrLsyuSyfUzsAIbNdRW8&amp;index=17&amp;pp=iAQB)

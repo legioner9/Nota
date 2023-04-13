@@ -1,0 +1,3 @@
+# [Begin End](https://www.youtube.com/@beginend95/playlists)
+## [Язык С++ (для новичков)](https://www.youtube.com/playlist?list=PLBOPkQsFLCR2KSJlLE7E1S_WDq-_bUnHB)
+### [Язык С++ - Урок 27 - Анимация для игры 2048](https://www.youtube.com/watch?v=P0H9VsKQz5o&amp;list=PLBOPkQsFLCR2KSJlLE7E1S_WDq-_bUnHB&amp;index=27&amp;pp=iAQB)

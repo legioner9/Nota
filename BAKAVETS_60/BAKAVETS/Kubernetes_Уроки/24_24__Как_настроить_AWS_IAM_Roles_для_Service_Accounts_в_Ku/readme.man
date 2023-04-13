@@ -1,0 +1,3 @@
+# [BAKAVETS](https://www.youtube.com/@BAKAVETS/playlists)
+## [Kubernetes Уроки](https://www.youtube.com/playlist?list=PL3SzV1_k2H1VDePbSWUqERqlBXIk02wCQ)
+### [24 - Как настроить AWS IAM Roles для Service Accounts в Kubernetes](https://www.youtube.com/watch?v=q2W60N8rJfg&amp;list=PL3SzV1_k2H1VDePbSWUqERqlBXIk02wCQ&amp;index=24&amp;pp=iAQB)

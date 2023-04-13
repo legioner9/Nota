@@ -1,0 +1,3 @@
+# [cppProsto](https://www.youtube.com/@cppProsto/playlists?view=1)
+## [cmake уроки](https://www.youtube.com/playlist?list=PLdhEOd5Bckb6eIhngRjqf6_o2l4BTJy6-)
+### [Уроки Cmake. Генерация заголовочных файлов.](https://www.youtube.com/watch?v=2bl_SYM66rc&amp;list=PLdhEOd5Bckb6eIhngRjqf6_o2l4BTJy6-&amp;index=2&amp;pp=iAQB)

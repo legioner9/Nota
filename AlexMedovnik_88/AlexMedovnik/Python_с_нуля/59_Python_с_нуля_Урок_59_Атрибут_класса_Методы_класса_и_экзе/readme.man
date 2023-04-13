@@ -1,0 +1,3 @@
+# [AlexMedovnik](https://www.youtube.com/@AlexMedovnik/playlists)
+## [Python с нуля](https://www.youtube.com/playlist?list=PLXRp8GYyTu9pthg-pKTdglkD2gi8NDoGi)
+### [Python с нуля. Урок №59. Атрибут класса. Методы класса и экземпляра класса. Статический метод.](https://www.youtube.com/watch?v=N4rOhdBcGSE&amp;list=PLXRp8GYyTu9pthg-pKTdglkD2gi8NDoGi&amp;index=59&amp;pp=iAQB)

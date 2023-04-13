@@ -1,0 +1,3 @@
+# [cppProsto](https://www.youtube.com/@cppProsto/playlists?view=1)
+## [Язык программирования Си. Изучение C.](https://www.youtube.com/playlist?list=PLdhEOd5Bckb5T5FcYPYlTi-6eoOypRF2d)
+### [Уроки Си. Изучение Си |11| - Решение Задачи №1. Шифрование pin кода.](https://www.youtube.com/watch?v=MzLDlITboE4&amp;list=PLdhEOd5Bckb5T5FcYPYlTi-6eoOypRF2d&amp;index=11&amp;pp=iAQB)

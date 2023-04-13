@@ -1,0 +1,3 @@
+# [CodeVault](https://www.youtube.com/@CodeVault/playlists)
+## [Struct and other data types in C](https://www.youtube.com/playlist?list=PLfqABt5AS4FnjfBE30pdyN47YdFiEkux8)
+### [Anonymous unions in C](https://www.youtube.com/watch?v=ICbLwg0Pgz0&amp;list=PLfqABt5AS4FnjfBE30pdyN47YdFiEkux8&amp;index=5&amp;pp=iAQB)

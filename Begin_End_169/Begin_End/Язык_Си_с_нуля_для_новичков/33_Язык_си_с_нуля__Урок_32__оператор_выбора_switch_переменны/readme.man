@@ -1,0 +1,3 @@
+# [Begin End](https://www.youtube.com/@beginend95/playlists)
+## [Язык Си с нуля (для новичков)](https://www.youtube.com/playlist?list=PLBOPkQsFLCR2DWRY74L03FmbRtz_Yy73_)
+### [Язык си с нуля - Урок 32 - оператор выбора switch, переменные static.](https://www.youtube.com/watch?v=kbk0a1IxDNU&amp;list=PLBOPkQsFLCR2DWRY74L03FmbRtz_Yy73_&amp;index=33&amp;pp=iAQB)

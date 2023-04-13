@@ -1,0 +1,3 @@
+# [cppProsto](https://www.youtube.com/@cppProsto/playlists?view=1)
+## [C/C++ Алгоритмы](https://www.youtube.com/playlist?list=PLdhEOd5Bckb7e3CBtPXuORBw6UVV3spQc)
+### [С++ Быстрая сортировка (C++ Quick sort)](https://www.youtube.com/watch?v=Rf30aCa1OZI&amp;list=PLdhEOd5Bckb7e3CBtPXuORBw6UVV3spQc&amp;index=4&amp;pp=iAQB)

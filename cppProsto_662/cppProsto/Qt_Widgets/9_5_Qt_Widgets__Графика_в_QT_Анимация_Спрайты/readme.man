@@ -1,0 +1,3 @@
+# [cppProsto](https://www.youtube.com/@cppProsto/playlists?view=1)
+## [Qt Widgets](https://www.youtube.com/playlist?list=PLdhEOd5Bckb68z9la6gCLgUWQo50Jt_NM)
+### [#5 Qt Widgets - Графика в QT. Анимация. Спрайты](https://www.youtube.com/watch?v=f_JrwnyF5IA&amp;list=PLdhEOd5Bckb68z9la6gCLgUWQo50Jt_NM&amp;index=9&amp;pp=iAQB)

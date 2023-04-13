@@ -1,0 +1,3 @@
+# [CodeVault](https://www.youtube.com/@CodeVault/playlists)
+## [Tools and IDEs](https://www.youtube.com/playlist?list=PLfqABt5AS4FnOR4oUXE_WDf1k0COTRee_)
+### [Compile and run C code using Notepad++ (2021)](https://www.youtube.com/watch?v=_dGyVkPkBRI&amp;list=PLfqABt5AS4FnOR4oUXE_WDf1k0COTRee_&amp;index=1&amp;pp=iAQB)

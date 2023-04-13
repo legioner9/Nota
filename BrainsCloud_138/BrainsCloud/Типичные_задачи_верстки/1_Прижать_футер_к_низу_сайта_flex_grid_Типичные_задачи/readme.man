@@ -1,0 +1,3 @@
+# [BrainsCloud](https://www.youtube.com/@BrainsCloud/playlists)
+## [Типичные задачи верстки](https://www.youtube.com/playlist?list=PLoq3Accf02PUsIsuCsBEF0kmsuCSfPqXR)
+### [Прижать футер к низу сайта (flex, grid). #Типичные задачи](https://www.youtube.com/watch?v=wRaydXCBRFQ&amp;list=PLoq3Accf02PUsIsuCsBEF0kmsuCSfPqXR&amp;index=1&amp;pp=iAQB)

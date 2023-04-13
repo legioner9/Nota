@@ -1,0 +1,3 @@
+# [CodeVault](https://www.youtube.com/@CodeVault/playlists)
+## [Linked lists for absolute beginners](https://www.youtube.com/playlist?list=PLfqABt5AS4FmXeWuuNDS3XGENJO1VYGxl)
+### [Adding at the beginning of a linked list](https://www.youtube.com/watch?v=8N0cNt6H41w&amp;list=PLfqABt5AS4FmXeWuuNDS3XGENJO1VYGxl&amp;index=5&amp;pp=iAQB)

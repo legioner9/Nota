@@ -1,0 +1,3 @@
+# [aHOST](https://www.youtube.com/@ahostuzb/playlists)
+## [DNS - хостинг](https://www.youtube.com/playlist?list=PLxPE_CsyjOUpsBC9_lmrscf6bXZlp7Xrn)
+### [Как установить NS по умолчанию](https://www.youtube.com/watch?v=0PmEz7WREE0&amp;list=PLxPE_CsyjOUpsBC9_lmrscf6bXZlp7Xrn&amp;index=10&amp;pp=iAQB)

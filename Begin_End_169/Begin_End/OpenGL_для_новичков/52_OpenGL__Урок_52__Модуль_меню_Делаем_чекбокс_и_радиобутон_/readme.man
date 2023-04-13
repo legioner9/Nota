@@ -1,0 +1,3 @@
+# [Begin End](https://www.youtube.com/@beginend95/playlists)
+## [OpenGL (для новичков)](https://www.youtube.com/playlist?list=PLBOPkQsFLCR0XuXoCf6PMhVmD2ukHXIBK)
+### [OpenGL - Урок 52 - Модуль меню. Делаем чекбокс и радиобутон (флажок и переключатель).](https://www.youtube.com/watch?v=BA3QEDg2XLg&amp;list=PLBOPkQsFLCR0XuXoCf6PMhVmD2ukHXIBK&amp;index=52&amp;pp=iAQB)

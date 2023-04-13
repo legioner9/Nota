@@ -1,0 +1,3 @@
+# [AlexMedovnik](https://www.youtube.com/@AlexMedovnik/playlists)
+## [Python с нуля](https://www.youtube.com/playlist?list=PLXRp8GYyTu9pthg-pKTdglkD2gi8NDoGi)
+### [Python с нуля. Урок №45. Множество. Пересечение, объединение, разность множеств.](https://www.youtube.com/watch?v=0M2RqBtOp_c&amp;list=PLXRp8GYyTu9pthg-pKTdglkD2gi8NDoGi&amp;index=45&amp;pp=iAQB)

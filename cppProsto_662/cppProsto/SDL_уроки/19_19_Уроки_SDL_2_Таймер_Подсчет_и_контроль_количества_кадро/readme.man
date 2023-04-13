@@ -1,0 +1,3 @@
+# [cppProsto](https://www.youtube.com/@cppProsto/playlists?view=1)
+## [SDL уроки](https://www.youtube.com/playlist?list=PLdhEOd5Bckb4WMrLsyuSyfUzsAIbNdRW8)
+### [#19 Уроки SDL 2. Таймер. Подсчет и контроль количества кадров.](https://www.youtube.com/watch?v=x4VQKUynCdw&amp;list=PLdhEOd5Bckb4WMrLsyuSyfUzsAIbNdRW8&amp;index=19&amp;pp=iAQB)

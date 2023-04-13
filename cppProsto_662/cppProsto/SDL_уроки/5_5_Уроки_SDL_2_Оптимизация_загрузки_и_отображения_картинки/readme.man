@@ -1,0 +1,3 @@
+# [cppProsto](https://www.youtube.com/@cppProsto/playlists?view=1)
+## [SDL уроки](https://www.youtube.com/playlist?list=PLdhEOd5Bckb4WMrLsyuSyfUzsAIbNdRW8)
+### [#5 Уроки SDL 2. Оптимизация загрузки и отображения картинки.](https://www.youtube.com/watch?v=CcF0bZ0RVp0&amp;list=PLdhEOd5Bckb4WMrLsyuSyfUzsAIbNdRW8&amp;index=5&amp;pp=iAQB)

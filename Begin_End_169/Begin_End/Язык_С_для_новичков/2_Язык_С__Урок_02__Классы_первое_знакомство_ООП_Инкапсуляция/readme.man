@@ -1,0 +1,3 @@
+# [Begin End](https://www.youtube.com/@beginend95/playlists)
+## [Язык С++ (для новичков)](https://www.youtube.com/playlist?list=PLBOPkQsFLCR2KSJlLE7E1S_WDq-_bUnHB)
+### [Язык С++ - Урок 02 - Классы, первое знакомство. ООП. Инкапсуляция.](https://www.youtube.com/watch?v=V22rsL7aJkg&amp;list=PLBOPkQsFLCR2KSJlLE7E1S_WDq-_bUnHB&amp;index=2&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [aHOST](https://www.youtube.com/@ahostuzb/playlists)
+## [DNS - хостинг](https://www.youtube.com/playlist?list=PLxPE_CsyjOUpsBC9_lmrscf6bXZlp7Xrn)
+### [Изменить NS сервера домена Как изменить NS запись](https://www.youtube.com/watch?v=uC192S6JUi4&amp;list=PLxPE_CsyjOUpsBC9_lmrscf6bXZlp7Xrn&amp;index=9&amp;pp=iAQB)

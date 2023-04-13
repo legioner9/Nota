@@ -1,0 +1,3 @@
+# [CodeVault](https://www.youtube.com/@CodeVault/playlists)
+## [File and terminal input/output operations in C](https://www.youtube.com/playlist?list=PLfqABt5AS4Fmv8DszqJjIjmCjvTtTVslT)
+### [How to read a line of text in C](https://www.youtube.com/watch?v=Lksi1HEMZgY&amp;list=PLfqABt5AS4Fmv8DszqJjIjmCjvTtTVslT&amp;index=1&amp;pp=iAQB)

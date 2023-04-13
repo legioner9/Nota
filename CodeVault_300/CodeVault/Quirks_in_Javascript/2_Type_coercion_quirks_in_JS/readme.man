@@ -1,0 +1,3 @@
+# [CodeVault](https://www.youtube.com/@CodeVault/playlists)
+## [Quirks in Javascript](https://www.youtube.com/playlist?list=PLfqABt5AS4FlJCAG8W-xcYiHEkAvm8Iwz)
+### [Type coercion quirks in JS](https://www.youtube.com/watch?v=c_5pYLwoAJg&amp;list=PLfqABt5AS4FlJCAG8W-xcYiHEkAvm8Iwz&amp;index=2&amp;pp=iAQB)

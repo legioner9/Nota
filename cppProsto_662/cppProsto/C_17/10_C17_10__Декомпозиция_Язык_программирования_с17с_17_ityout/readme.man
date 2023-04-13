@@ -1,0 +1,3 @@
+# [cppProsto](https://www.youtube.com/@cppProsto/playlists?view=1)
+## [C++ 17](https://www.youtube.com/playlist?list=PLdhEOd5Bckb6aRDbc9z5gtJ_47-FkJk3T)
+### [C++17 #10 - Декомпозиция. Язык программирования с++17(с++ 17). #ityoutubers](https://www.youtube.com/watch?v=fcmegKUFADs&amp;list=PLdhEOd5Bckb6aRDbc9z5gtJ_47-FkJk3T&amp;index=10&amp;pp=iAQB)

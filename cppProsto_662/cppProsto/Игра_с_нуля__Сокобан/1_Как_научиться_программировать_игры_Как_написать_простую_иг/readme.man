@@ -1,0 +1,3 @@
+# [cppProsto](https://www.youtube.com/@cppProsto/playlists?view=1)
+## [Игра с нуля - Сокобан](https://www.youtube.com/playlist?list=PLdhEOd5Bckb5X2HkaqrZedAT822Ffvd57)
+### [Как научиться программировать игры. Как написать простую игру. Как сделать легкую игру. #ityoutubers](https://www.youtube.com/watch?v=VdoPqz8hZEk&amp;list=PLdhEOd5Bckb5X2HkaqrZedAT822Ffvd57&amp;index=1&amp;pp=iAQB)

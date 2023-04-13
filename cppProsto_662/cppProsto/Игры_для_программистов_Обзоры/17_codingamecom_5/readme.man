@@ -1,0 +1,3 @@
+# [cppProsto](https://www.youtube.com/@cppProsto/playlists?view=1)
+## [Игры для программистов. Обзоры](https://www.youtube.com/playlist?list=PLdhEOd5Bckb5yun1hl-GBFQjYztbEoSDd)
+### [codingame.com #5](https://www.youtube.com/watch?v=5xXN5Ud2Omk&amp;list=PLdhEOd5Bckb5yun1hl-GBFQjYztbEoSDd&amp;index=17&amp;pp=iAQB)

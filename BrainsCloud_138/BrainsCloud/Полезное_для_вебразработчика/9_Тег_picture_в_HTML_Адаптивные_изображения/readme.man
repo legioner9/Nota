@@ -1,0 +1,3 @@
+# [BrainsCloud](https://www.youtube.com/@BrainsCloud/playlists)
+## [Полезное для веб-разработчика](https://www.youtube.com/playlist?list=PLoq3Accf02PVB2gMY7RKqsc1vyqfmm136)
+### [Тег picture в HTML. Адаптивные изображения](https://www.youtube.com/watch?v=aBTHsXL2WR4&amp;list=PLoq3Accf02PVB2gMY7RKqsc1vyqfmm136&amp;index=9&amp;pp=iAQB)
