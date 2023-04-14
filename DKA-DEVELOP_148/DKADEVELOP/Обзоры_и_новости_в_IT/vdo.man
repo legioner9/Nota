@@ -1,0 +1,5 @@
+### [Linux или Windows? Для веб разработчика что-то изменилось в 2018 году?](https://www.youtube.com/watch?v=24c74DpyvGc&amp;list=PLD5U-C5KK50UwAjFmfMuAv3pEjJpHRgX2&amp;index=1&amp;pp=iAQB)
+### [Laravel 5.7 что опять изменилось и стоит ли это учитывать | обзор не полный | уроки laravel 5.7](https://www.youtube.com/watch?v=vf2DCoLn9LY&amp;list=PLD5U-C5KK50UwAjFmfMuAv3pEjJpHRgX2&amp;index=2&amp;pp=iAQB)
+### [Laravel 5.7 основные изменения в новой версии | что нового обзор | уроки laravel 5.7](https://www.youtube.com/watch?v=9hgvuFnLU0c&amp;list=PLD5U-C5KK50UwAjFmfMuAv3pEjJpHRgX2&amp;index=3&amp;pp=iAQB)
+### [Laravel 5.6 - обзор и 12 основных изменений в новой версии](https://www.youtube.com/watch?v=ZtFjrix1SCU&amp;list=PLD5U-C5KK50UwAjFmfMuAv3pEjJpHRgX2&amp;index=4&amp;pp=iAQB)
+### [Laravel 5.7 камень преткновения что еще может вас ожидать после апгрейда](https://www.youtube.com/watch?v=6xE7xwbLq8A&amp;list=PLD5U-C5KK50UwAjFmfMuAv3pEjJpHRgX2&amp;index=5&amp;pp=iAQB)

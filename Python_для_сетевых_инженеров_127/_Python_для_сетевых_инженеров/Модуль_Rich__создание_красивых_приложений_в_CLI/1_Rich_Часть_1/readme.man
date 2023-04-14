@@ -1,0 +1,3 @@
+# [ Python для сетевых инженеров](https://www.youtube.com/@PyNEng/playlists)
+## [Модуль Rich - создание красивых приложений в CLI](https://www.youtube.com/playlist?list=PLah0HUih_ZRkzS7TouDvcgK79WiYZSgpk)
+### [Rich. Часть 1](https://www.youtube.com/watch?v=90X68S9toco&amp;list=PLah0HUih_ZRkzS7TouDvcgK79WiYZSgpk&amp;index=1&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [Learn Linux TV](https://www.youtube.com/@LearnLinuxTV/playlists)
+## [Installation Guides](https://www.youtube.com/playlist?list=PLT98CRl2KxKE4aW2djCtYvl4tXSEnbodB)
+### [Linux Mint Beginners Guide Part 03 - Installing and Updating Applications](https://www.youtube.com/watch?v=cNt_D2GyApk&amp;list=PLT98CRl2KxKE4aW2djCtYvl4tXSEnbodB&amp;index=40&amp;pp=iAQB)

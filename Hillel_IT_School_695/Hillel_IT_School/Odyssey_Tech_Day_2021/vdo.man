@@ -1,0 +1,6 @@
+### [Что такое исследование операций | Operations research](https://www.youtube.com/watch?v=XlPI3Ue03GU&amp;list=PLuEo4W0EBxtVM12mXhTocUKh-L1X2pKTh&amp;index=1&amp;pp=iAQB)
+### [Machine Learning || Эволюционные алгоритмы и с чем их едят](https://www.youtube.com/watch?v=77eX3soyJoQ&amp;list=PLuEo4W0EBxtVM12mXhTocUKh-L1X2pKTh&amp;index=2&amp;pp=iAQB)
+### [Machine Learning || Зачем и как вести классификацию документов](https://www.youtube.com/watch?v=t4UYTfhoqA8&amp;list=PLuEo4W0EBxtVM12mXhTocUKh-L1X2pKTh&amp;index=3&amp;pp=iAQB)
+### [Machine Learning || Краткий экскурс в поведенческую аналитику](https://www.youtube.com/watch?v=Q1UIpNpRbpE&amp;list=PLuEo4W0EBxtVM12mXhTocUKh-L1X2pKTh&amp;index=4&amp;pp=iAQB)
+### [Machine learning || Augmented pixels. О работе с дополненной реальностью](https://www.youtube.com/watch?v=EBjKVtrKayM&amp;list=PLuEo4W0EBxtVM12mXhTocUKh-L1X2pKTh&amp;index=5&amp;pp=iAQB)
+### [Круглый стол с экспертами Data Science](https://www.youtube.com/watch?v=dpR04MA434A&amp;list=PLuEo4W0EBxtVM12mXhTocUKh-L1X2pKTh&amp;index=6&amp;pp=iAQB)

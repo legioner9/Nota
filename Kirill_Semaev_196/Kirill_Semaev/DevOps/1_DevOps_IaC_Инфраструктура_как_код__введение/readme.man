@@ -1,0 +1,3 @@
+# [Kirill Semaev](https://www.youtube.com/@KirillSemaev/playlists)
+## [DevOps](https://www.youtube.com/playlist?list=PLmxB7JSpraieS8C58ewR7fdTu5fS3z7HG)
+### [DevOps. IaC. Инфраструктура как код - введение.](https://www.youtube.com/watch?v=LSgmwgSbGjQ&amp;list=PLmxB7JSpraieS8C58ewR7fdTu5fS3z7HG&amp;index=1&amp;pp=iAQB)

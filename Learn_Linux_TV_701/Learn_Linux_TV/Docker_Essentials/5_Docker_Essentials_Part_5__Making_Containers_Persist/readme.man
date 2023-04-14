@@ -1,0 +1,3 @@
+# [Learn Linux TV](https://www.youtube.com/@LearnLinuxTV/playlists)
+## [Docker Essentials](https://www.youtube.com/playlist?list=PLT98CRl2KxKECHltRib03tG8pyKEzwf9t)
+### [Docker Essentials (Part 5) - Making Containers Persist](https://www.youtube.com/watch?v=sOchDelOAIU&amp;list=PLT98CRl2KxKECHltRib03tG8pyKEzwf9t&amp;index=5&amp;pp=iAQB)

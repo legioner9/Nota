@@ -1,0 +1,3 @@
+# [it-inside.org](https://www.youtube.com/@itinsideorg/playlists)
+## [Создание сайта на собственном сервере с нуля.](https://www.youtube.com/playlist?list=PLWeA3JK7qaiqowtTfzprN2x166106EiJc)
+### [Обзор и тестирование хостера VPS/VDS Hetzner.](https://www.youtube.com/watch?v=LTPT_kWqpRY&amp;list=PLWeA3JK7qaiqowtTfzprN2x166106EiJc&amp;index=21&amp;pp=iAQB)

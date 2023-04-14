@@ -1,0 +1,3 @@
+# [Gena ANTG](https://www.youtube.com/@ANTGPRO/playlists)
+## [Программирование на Си. Старый курс. [2014]](https://www.youtube.com/playlist?list=PLG9dLrY9JZKgXfVYlg_0lq6s-i5r0Lw0w)
+### [Программирование на Си. #11. Тип данных Short и маркеры в printf.](https://www.youtube.com/watch?v=P69sPvYPB8E&amp;list=PLG9dLrY9JZKgXfVYlg_0lq6s-i5r0Lw0w&amp;index=11&amp;pp=iAQB)

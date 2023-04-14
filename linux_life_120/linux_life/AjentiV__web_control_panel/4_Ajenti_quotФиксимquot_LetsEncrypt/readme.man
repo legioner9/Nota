@@ -1,0 +1,3 @@
+# [#linux life](https://www.youtube.com/@linuxlifepage/playlists)
+## [Ajenti-V - web control panel](https://www.youtube.com/playlist?list=PLKxZjsTaY5XtPEsq_7l61VNbnewEOcjOk)
+### [#Ajenti &quot;Фиксим&quot; LetsEncrypt](https://www.youtube.com/watch?v=8qMVugJZtbM&amp;list=PLKxZjsTaY5XtPEsq_7l61VNbnewEOcjOk&amp;index=4&amp;pp=iAQB)

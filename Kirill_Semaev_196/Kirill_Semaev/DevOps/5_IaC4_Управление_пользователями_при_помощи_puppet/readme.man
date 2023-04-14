@@ -1,0 +1,3 @@
+# [Kirill Semaev](https://www.youtube.com/@KirillSemaev/playlists)
+## [DevOps](https://www.youtube.com/playlist?list=PLmxB7JSpraieS8C58ewR7fdTu5fS3z7HG)
+### [IaC-4. Управление пользователями при помощи puppet](https://www.youtube.com/watch?v=d5V9xnN4axg&amp;list=PLmxB7JSpraieS8C58ewR7fdTu5fS3z7HG&amp;index=5&amp;pp=iAQB)

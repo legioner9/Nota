@@ -1,0 +1,3 @@
+# [Learn Linux TV](https://www.youtube.com/@LearnLinuxTV/playlists)
+## [The Homelab Show](https://www.youtube.com/playlist?list=PLT98CRl2KxKFV0WB3Gi0QmMdP1kzFxPUG)
+### [The Homelab Show Episode 62: Q&amp;A](https://www.youtube.com/watch?v=emoQVCLhf1E&amp;list=PLT98CRl2KxKFV0WB3Gi0QmMdP1kzFxPUG&amp;index=63&amp;pp=iAQB)

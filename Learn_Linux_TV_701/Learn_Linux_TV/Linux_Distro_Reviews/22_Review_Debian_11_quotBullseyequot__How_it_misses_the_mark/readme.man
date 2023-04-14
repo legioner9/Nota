@@ -1,0 +1,3 @@
+# [Learn Linux TV](https://www.youtube.com/@LearnLinuxTV/playlists)
+## [Linux Distro Reviews](https://www.youtube.com/playlist?list=PLT98CRl2KxKESwFYdodPEZ42M38c40_3f)
+### [Review: Debian 11 &quot;Bullseye&quot; - How it misses the mark, and why it's still Great!](https://www.youtube.com/watch?v=SRaFEUrPSfU&amp;list=PLT98CRl2KxKESwFYdodPEZ42M38c40_3f&amp;index=22&amp;pp=iAQB)

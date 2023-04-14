@@ -1,0 +1,3 @@
+# [Heaven Paladin](https://www.youtube.com/@HeavenPaladin/playlists?view=1)
+## [Командная строка Linux](https://www.youtube.com/playlist?list=PLUSohJYRsRBi4Iwu8VZna-NeChPotdlnX)
+### [👨‍💻 Командная строка Linux. Урок #2. Настройка bash prompt.](https://www.youtube.com/watch?v=d_VYd6I1rQQ&amp;list=PLUSohJYRsRBi4Iwu8VZna-NeChPotdlnX&amp;index=3&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [ Python для сетевых инженеров](https://www.youtube.com/@PyNEng/playlists)
+## [Python для сетевых инженеров](https://www.youtube.com/playlist?list=PLah0HUih_ZRljCWNZp2N-YBVkgxiJZWEY)
+### [03 Часть 2. Основы python](https://www.youtube.com/watch?v=7Ref02YpyJ4&amp;list=PLah0HUih_ZRljCWNZp2N-YBVkgxiJZWEY&amp;index=7&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [devschacht](https://www.youtube.com/@devschacht/playlists)
+## [Уроки](https://www.youtube.com/playlist?list=PLp4xNfzJ2Gyqc5d-OfsLQx66sLnUAuiI2)
+### [Server-Sent Events: Снимаем ограничения](https://www.youtube.com/watch?v=v6Fc4FQwNa4&amp;list=PLp4xNfzJ2Gyqc5d-OfsLQx66sLnUAuiI2&amp;index=33&amp;pp=iAQB)

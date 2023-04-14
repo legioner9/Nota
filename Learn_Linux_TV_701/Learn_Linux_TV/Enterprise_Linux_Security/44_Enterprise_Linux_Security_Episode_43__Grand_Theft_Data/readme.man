@@ -1,0 +1,3 @@
+# [Learn Linux TV](https://www.youtube.com/@LearnLinuxTV/playlists)
+## [Enterprise Linux Security](https://www.youtube.com/playlist?list=PLT98CRl2KxKHgBWIp7XBwVjGf6dmOCj98)
+### [Enterprise Linux Security Episode 43 - Grand Theft Data](https://www.youtube.com/watch?v=O81Obqy8tBw&amp;list=PLT98CRl2KxKHgBWIp7XBwVjGf6dmOCj98&amp;index=44&amp;pp=iAQB)

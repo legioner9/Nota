@@ -1,0 +1,3 @@
+# [Learn Linux TV](https://www.youtube.com/@LearnLinuxTV/playlists)
+## [Learn CentOS](https://www.youtube.com/playlist?list=PLT98CRl2KxKHjHLIHrmmi5FmBGIZ8cNJE)
+### [Learn CentOS Part 14 - Modifying File Permissions](https://www.youtube.com/watch?v=9oUN2XCg5J4&amp;list=PLT98CRl2KxKHjHLIHrmmi5FmBGIZ8cNJE&amp;index=14&amp;pp=iAQB)

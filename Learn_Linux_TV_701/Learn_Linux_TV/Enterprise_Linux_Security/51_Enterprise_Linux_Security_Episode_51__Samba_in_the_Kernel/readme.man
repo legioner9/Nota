@@ -1,0 +1,3 @@
+# [Learn Linux TV](https://www.youtube.com/@LearnLinuxTV/playlists)
+## [Enterprise Linux Security](https://www.youtube.com/playlist?list=PLT98CRl2KxKHgBWIp7XBwVjGf6dmOCj98)
+### [Enterprise Linux Security Episode 51 - Samba in the Kernel, What Could Possibly Go Wrong?!](https://www.youtube.com/watch?v=vpiTzVx5l3w&amp;list=PLT98CRl2KxKHgBWIp7XBwVjGf6dmOCj98&amp;index=51&amp;pp=iAQB)

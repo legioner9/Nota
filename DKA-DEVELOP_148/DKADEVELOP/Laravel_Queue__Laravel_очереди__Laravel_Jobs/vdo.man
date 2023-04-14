@@ -1,0 +1,6 @@
+### [Laravel очереди учимся использовать и что это такое | Laravel Queues | Laravel Jobs](https://www.youtube.com/watch?v=DFCH1n3oOnA&amp;list=PLD5U-C5KK50Xo5mG_JPzyjIv-d3R7gqGH&amp;index=1&amp;pp=iAQB)
+### [Laravel очереди создаем задание и отправляем в очередь | Laravel Queues | Laravel Jobs](https://www.youtube.com/watch?v=ZG1Gs6_7p28&amp;list=PLD5U-C5KK50Xo5mG_JPzyjIv-d3R7gqGH&amp;index=2&amp;pp=iAQB)
+### [Laravel очереди: каскад заданий и количество попыток выполнения | Laravel Queues | Laravel Jobs](https://www.youtube.com/watch?v=2KGXg03ryPI&amp;list=PLD5U-C5KK50Xo5mG_JPzyjIv-d3R7gqGH&amp;index=3&amp;pp=iAQB)
+### [Laravel очереди: неудачно завершенные задания | Laravel Queues | Laravel Jobs](https://www.youtube.com/watch?v=bucNubYHQRY&amp;list=PLD5U-C5KK50Xo5mG_JPzyjIv-d3R7gqGH&amp;index=4&amp;pp=iAQB)
+### [Laravel очереди: автостарт после перезагрузки сервера, вылета процесса и на vps | Supervisor](https://www.youtube.com/watch?v=eqKEbJzkpGc&amp;list=PLD5U-C5KK50Xo5mG_JPzyjIv-d3R7gqGH&amp;index=5&amp;pp=iAQB)
+### [Laravel Horizon что это и как его настроить и использовать | Laravel Queues | Laravel Jobs](https://www.youtube.com/watch?v=HhhzBtoVXR0&amp;list=PLD5U-C5KK50Xo5mG_JPzyjIv-d3R7gqGH&amp;index=6&amp;pp=iAQB)

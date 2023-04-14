@@ -1,0 +1,3 @@
+# [Linux от Дмитрия](https://www.youtube.com/@LinuxbyDmitry/playlists)
+## [WireGuard](https://www.youtube.com/playlist?list=PLOp6AT9LJS_MHkogpMxMuyemF4bYWMduZ)
+### [WireGuard ваш VPN, Часть 2 сервер на CentOS 8.](https://www.youtube.com/watch?v=TPahEZdgLI0&amp;list=PLOp6AT9LJS_MHkogpMxMuyemF4bYWMduZ&amp;index=2&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [it-inside.org](https://www.youtube.com/@itinsideorg/playlists)
+## [Scripting](https://www.youtube.com/playlist?list=PLWeA3JK7qaiqH4vA78UxoUKsQpFp71bwQ)
+### [Bash скрипты 21. Дополнительные возможности утилиты echo.](https://www.youtube.com/watch?v=ocqVW-Trbpg&amp;list=PLWeA3JK7qaiqH4vA78UxoUKsQpFp71bwQ&amp;index=23&amp;pp=iAQB)

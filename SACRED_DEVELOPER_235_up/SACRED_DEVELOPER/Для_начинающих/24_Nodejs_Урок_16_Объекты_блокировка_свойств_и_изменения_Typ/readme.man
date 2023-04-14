@@ -1,0 +1,3 @@
+# [SACRED DEVELOPER](https://www.youtube.com/@SACREDDEVELOPER/playlists?view=1&sort=dd&shelf_id=0)
+## [Для начинающих](https://www.youtube.com/playlist?list=PLdRkxc5c2e3leEDb1pc0fDfVCwvkIw0Rh)
+### [Node.js Урок 16: Объекты, блокировка свойств и изменения, TypeScripts](https://www.youtube.com/watch?v=ZaQrAWS6boU&amp;list=PLdRkxc5c2e3leEDb1pc0fDfVCwvkIw0Rh&amp;index=24&amp;pp=iAQB)

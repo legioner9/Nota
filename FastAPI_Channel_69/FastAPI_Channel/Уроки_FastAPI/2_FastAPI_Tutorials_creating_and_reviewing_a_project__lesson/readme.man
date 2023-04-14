@@ -1,0 +1,3 @@
+# [FastAPI Channel](https://www.youtube.com/@FastAPIChannel/playlists?view=1)
+## [Уроки FastAPI](https://www.youtube.com/playlist?list=PLaED5GKTiQG8GW5Rv2hf3tRS-d9t9liUt)
+### [FastAPI Tutorials creating and reviewing a project - lesson 1](https://www.youtube.com/watch?v=AXYgXpHJhBA&amp;list=PLaED5GKTiQG8GW5Rv2hf3tRS-d9t9liUt&amp;index=2&amp;pp=iAQB)

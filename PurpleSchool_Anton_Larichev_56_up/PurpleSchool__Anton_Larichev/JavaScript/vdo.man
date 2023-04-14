@@ -1,0 +1,2 @@
+### [Что такое и как работают замыкания (closures) в JavaScript?](https://www.youtube.com/watch?v=VPYMpL3pFRM&amp;list=PLhZj4EWV4TnhbH8teW8unmUAZB9BQIpht&amp;index=1&amp;pp=iAQB)
+### [Проект на JavaScript, HTML и CSS для начинающих – таймер медитации](https://www.youtube.com/watch?v=Njhmgk2toJI&amp;list=PLhZj4EWV4TnhbH8teW8unmUAZB9BQIpht&amp;index=2&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [LLDevLab](https://www.youtube.com/@LLDevLab/playlists)
+## [Введение в FPGA](https://www.youtube.com/playlist?list=PLeQDJtBkrIiTbyythMxE7fJv59zFa8Czv)
+### [Введение в ПЛИС (FPGA, CPLD)](https://www.youtube.com/watch?v=kGLDJUhH8yE&amp;list=PLeQDJtBkrIiTbyythMxE7fJv59zFa8Czv&amp;index=1&amp;pp=iAQB)

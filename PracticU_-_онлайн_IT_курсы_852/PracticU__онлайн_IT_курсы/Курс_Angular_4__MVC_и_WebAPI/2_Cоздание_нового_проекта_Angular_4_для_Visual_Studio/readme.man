@@ -1,0 +1,3 @@
+# [PracticU - онлайн IT курсы](https://www.youtube.com/@PracticU2/playlists)
+## [Курс Angular 4 - MVC и WebAPI](https://www.youtube.com/playlist?list=PLrXcA7Ca3B81aEZIKpLqiy0C2S96tHkrL)
+### [Cоздание нового проекта Angular 4 для Visual Studio](https://www.youtube.com/watch?v=FTICjdVwobQ&amp;list=PLrXcA7Ca3B81aEZIKpLqiy0C2S96tHkrL&amp;index=2&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [DKA-DEVELOP](https://www.youtube.com/@DKADEVELOP/playlists?view=1&sort=dd&shelf_id=0)
+## [Laravel - установка, настройка, новшества, обзор документации на примерах | Плейлист будет содержать видео по всей документации](https://www.youtube.com/playlist?list=PLD5U-C5KK50XjpZ2NFD5pMhw-bCh5Z0Pl)
+### [Установка Laravel на обычном виртуальном хостинге | share хостинг | уроки по Laravel | 5.x - #4.2](https://www.youtube.com/watch?v=XFjXzWkfUPI&amp;list=PLD5U-C5KK50XjpZ2NFD5pMhw-bCh5Z0Pl&amp;index=8&amp;pp=iAQB)

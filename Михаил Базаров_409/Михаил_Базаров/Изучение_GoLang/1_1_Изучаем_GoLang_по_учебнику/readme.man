@@ -1,0 +1,3 @@
+# [Михаил Базаров](https://www.youtube.com/@bazarov/playlists?view=1&sort=dd&shelf_id=0)
+## [Изучение GoLang](https://www.youtube.com/playlist?list=PL8CIWP7ylJEM85GabS8v9Z3rxPPN4N61R)
+### [1) Изучаем #GoLang по учебнику](https://www.youtube.com/watch?v=nW2M06BHhps&amp;list=PL8CIWP7ylJEM85GabS8v9Z3rxPPN4N61R&amp;index=1&amp;pp=iAQB)

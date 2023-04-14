@@ -1,0 +1,3 @@
+# [Heaven Paladin](https://www.youtube.com/@HeavenPaladin/playlists?view=1)
+## [Вводный курс в Java. 2014 год](https://www.youtube.com/playlist?list=PLUSohJYRsRBgcYX_mOO1AVDw0JAXR8Zyb)
+### [Лекция 11.  Многопоточность в Java  средства стандартной библиотеки. Алексей Владыкин. 2014 год](https://www.youtube.com/watch?v=XM__2Z2BUSc&amp;list=PLUSohJYRsRBgcYX_mOO1AVDw0JAXR8Zyb&amp;index=11&amp;pp=iAQB)

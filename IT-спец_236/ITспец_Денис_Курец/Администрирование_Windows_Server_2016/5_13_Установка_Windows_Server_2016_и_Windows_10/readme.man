@@ -1,0 +1,3 @@
+# [IT-спец. Денис Курец](https://www.youtube.com/@kurets/playlists)
+## [Администрирование Windows Server 2016](https://www.youtube.com/playlist?list=PLpATPij5aov6-L1f8iYb8S9f_7LHBmqsE)
+### [1.3. Установка Windows Server 2016 и Windows 10](https://www.youtube.com/watch?v=LTuX5TGQgtc&amp;list=PLpATPij5aov6-L1f8iYb8S9f_7LHBmqsE&amp;index=5&amp;pp=iAQB)

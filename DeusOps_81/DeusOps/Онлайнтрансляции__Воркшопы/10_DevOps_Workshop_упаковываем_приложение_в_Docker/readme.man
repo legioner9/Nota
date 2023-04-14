@@ -1,0 +1,3 @@
+# [DeusOps](https://www.youtube.com/@DeusOps/playlists)
+## [Онлайн-трансляции / Воркшопы](https://www.youtube.com/playlist?list=PLGQiJX6wM-zwgtfx9nEaZma2RCzGTSSHV)
+### [DevOps Workshop: упаковываем приложение в Docker](https://www.youtube.com/watch?v=nrebGEaOZkU&amp;list=PLGQiJX6wM-zwgtfx9nEaZma2RCzGTSSHV&amp;index=10&amp;pp=iAQB)

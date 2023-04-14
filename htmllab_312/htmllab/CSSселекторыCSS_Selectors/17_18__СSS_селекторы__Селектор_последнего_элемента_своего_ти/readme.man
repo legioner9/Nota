@@ -1,0 +1,3 @@
+# [htmllab](https://www.youtube.com/@HtmllabRu/playlists)
+## [CSS-селекторы/CSS Selectors](https://www.youtube.com/playlist?list=PLOQDek48BpZFC6sSFRsok97gaEZV6CVf_)
+### [18 - СSS селекторы - Селектор последнего элемента своего типа :last-of-type](https://www.youtube.com/watch?v=9Zmot4pLc8o&amp;list=PLOQDek48BpZFC6sSFRsok97gaEZV6CVf_&amp;index=17&amp;pp=iAQB)

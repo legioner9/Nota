@@ -1,0 +1,3 @@
+# [ Python для сетевых инженеров](https://www.youtube.com/@PyNEng/playlists)
+## [Основы работы с базами данных на примере sqlite3](https://www.youtube.com/playlist?list=PLah0HUih_ZRlJp_yFqZp4qTCB0BL7V_Ci)
+### [12 db sql part 2 examples](https://www.youtube.com/watch?v=ZlqYUK4HCZs&amp;list=PLah0HUih_ZRlJp_yFqZp4qTCB0BL7V_Ci&amp;index=2&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [DeusOps](https://www.youtube.com/@DeusOps/playlists)
+## [Онлайн-трансляции / Воркшопы](https://www.youtube.com/playlist?list=PLGQiJX6wM-zwgtfx9nEaZma2RCzGTSSHV)
+### [Делаем задачи по Gitlab CI + Docker](https://www.youtube.com/watch?v=ROfS5Q9d7kw&amp;list=PLGQiJX6wM-zwgtfx9nEaZma2RCzGTSSHV&amp;index=6&amp;pp=iAQB)

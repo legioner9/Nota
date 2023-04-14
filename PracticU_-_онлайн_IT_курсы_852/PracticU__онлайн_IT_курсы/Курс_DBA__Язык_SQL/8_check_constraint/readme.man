@@ -1,0 +1,3 @@
+# [PracticU - онлайн IT курсы](https://www.youtube.com/@PracticU2/playlists)
+## [Курс DBA - Язык SQL](https://www.youtube.com/playlist?list=PLrXcA7Ca3B80n3QA8hmxTveYgyBscl4cH)
+### [check constraint](https://www.youtube.com/watch?v=tHQ3FbThsJc&amp;list=PLrXcA7Ca3B80n3QA8hmxTveYgyBscl4cH&amp;index=8&amp;pp=iAQB)

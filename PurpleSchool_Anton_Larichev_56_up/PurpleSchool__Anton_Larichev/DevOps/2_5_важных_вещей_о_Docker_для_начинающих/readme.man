@@ -1,0 +1,3 @@
+# [PurpleSchool | Anton Larichev](https://www.youtube.com/@PurpleSchool/playlists)
+## [DevOps](https://www.youtube.com/playlist?list=PLhZj4EWV4Tnijl8zNqkf8-7OZhz97zmb4)
+### [5 важных вещей о Docker для начинающих](https://www.youtube.com/watch?v=KD46QUglsHI&amp;list=PLhZj4EWV4Tnijl8zNqkf8-7OZhz97zmb4&amp;index=2&amp;pp=iAQB)

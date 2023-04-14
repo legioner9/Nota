@@ -1,0 +1,3 @@
+# [Learn Linux TV](https://www.youtube.com/@LearnLinuxTV/playlists)
+## [All Tutorials](https://www.youtube.com/playlist?list=PLT98CRl2KxKHdOpQ-uI2QuNcQ0aEAe5bN)
+### [How to Archive Folders in Linux (tar and gzip tutorial) - Linux Crash Course Series](https://www.youtube.com/watch?v=2iwumBcfd58&amp;list=PLT98CRl2KxKHdOpQ-uI2QuNcQ0aEAe5bN&amp;index=57&amp;pp=iAQB)

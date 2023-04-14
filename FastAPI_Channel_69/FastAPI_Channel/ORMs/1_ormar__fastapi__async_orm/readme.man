@@ -1,0 +1,3 @@
+# [FastAPI Channel](https://www.youtube.com/@FastAPIChannel/playlists?view=1)
+## [ORMs](https://www.youtube.com/playlist?list=PLaED5GKTiQG9uzo6mcAevdz6ymxTR0GEx)
+### [ormar + fastapi | async orm](https://www.youtube.com/watch?v=LFCOX9VutOA&amp;list=PLaED5GKTiQG9uzo6mcAevdz6ymxTR0GEx&amp;index=1&amp;pp=iAQB)

@@ -1,0 +1,5 @@
+### [1 GIT установка и настройка](https://www.youtube.com/watch?v=UAIADVwXwUo&amp;list=PLOQDek48BpZFaSumYo2kwQfcyrZEF6XkI&amp;index=1&amp;pp=iAQB)
+### [2 GIT индексация файлов и фиксация изменений](https://www.youtube.com/watch?v=OnDjdzBVyFg&amp;list=PLOQDek48BpZFaSumYo2kwQfcyrZEF6XkI&amp;index=2&amp;pp=iAQB)
+### [3 GIT работа с логами и тегами](https://www.youtube.com/watch?v=XSPgZHkisxw&amp;list=PLOQDek48BpZFaSumYo2kwQfcyrZEF6XkI&amp;index=3&amp;pp=iAQB)
+### [4 GIT ветвление, слияние веток, конфликты слияния](https://www.youtube.com/watch?v=G2RXBHaCUPs&amp;list=PLOQDek48BpZFaSumYo2kwQfcyrZEF6XkI&amp;index=4&amp;pp=iAQB)
+### [5 GIT Работа с github com](https://www.youtube.com/watch?v=kBWrqJzg7I8&amp;list=PLOQDek48BpZFaSumYo2kwQfcyrZEF6XkI&amp;index=5&amp;pp=iAQB)

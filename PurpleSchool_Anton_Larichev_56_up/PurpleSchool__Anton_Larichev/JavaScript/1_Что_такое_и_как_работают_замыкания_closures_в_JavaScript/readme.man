@@ -1,0 +1,3 @@
+# [PurpleSchool | Anton Larichev](https://www.youtube.com/@PurpleSchool/playlists)
+## [JavaScript](https://www.youtube.com/playlist?list=PLhZj4EWV4TnhbH8teW8unmUAZB9BQIpht)
+### [Что такое и как работают замыкания (closures) в JavaScript?](https://www.youtube.com/watch?v=VPYMpL3pFRM&amp;list=PLhZj4EWV4TnhbH8teW8unmUAZB9BQIpht&amp;index=1&amp;pp=iAQB)

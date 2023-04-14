@@ -1,0 +1,3 @@
+# [devschacht](https://www.youtube.com/@devschacht/playlists)
+## [Подкаст](https://www.youtube.com/playlist?list=PLp4xNfzJ2Gyo0tkHzotUpndup2ASL6y53)
+### [№109: Грамотная работа с ошибками. Монада Either.](https://www.youtube.com/watch?v=eh5flHypkDg&amp;list=PLp4xNfzJ2Gyo0tkHzotUpndup2ASL6y53&amp;index=6&amp;pp=iAQB)

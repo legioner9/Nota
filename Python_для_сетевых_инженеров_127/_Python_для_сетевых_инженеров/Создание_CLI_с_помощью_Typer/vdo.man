@@ -1,0 +1,3 @@
+### [Создание CLI с помощью Typer. Часть 1](https://www.youtube.com/watch?v=rGqnDPIHoDg&amp;list=PLah0HUih_ZRnp0HI2TxbQ549Ty-P8soUV&amp;index=1&amp;pp=iAQB)
+### [Создание CLI с помощью Typer. Часть 2](https://www.youtube.com/watch?v=21qtuej0YH4&amp;list=PLah0HUih_ZRnp0HI2TxbQ549Ty-P8soUV&amp;index=2&amp;pp=iAQB)
+### [Создание CLI с помощью Typer. Часть 3](https://www.youtube.com/watch?v=LcDsi1DDH-s&amp;list=PLah0HUih_ZRnp0HI2TxbQ549Ty-P8soUV&amp;index=3&amp;pp=iAQB)

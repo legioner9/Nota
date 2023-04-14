@@ -1,0 +1,3 @@
+# [it-inside.org](https://www.youtube.com/@itinsideorg/playlists)
+## [Обзоры и тесты.](https://www.youtube.com/playlist?list=PLWeA3JK7qairbhDvcNrMshB3YUXwi1M6c)
+### [Оптимизация фотоархива с помощью find и mv.](https://www.youtube.com/watch?v=Db7uzMt2ZRk&amp;list=PLWeA3JK7qairbhDvcNrMshB3YUXwi1M6c&amp;index=14&amp;pp=iAQB)

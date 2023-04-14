@@ -1,0 +1,3 @@
+# [htmllab](https://www.youtube.com/@HtmllabRu/playlists)
+## [Websocket](https://www.youtube.com/playlist?list=PLOQDek48BpZEZ0lAqAmBuzDX2SeI4eGss)
+### [#1 Websocket: Создание Websocket-клиента](https://www.youtube.com/watch?v=AEpq8gggwLk&amp;list=PLOQDek48BpZEZ0lAqAmBuzDX2SeI4eGss&amp;index=1&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [htmllab](https://www.youtube.com/@HtmllabRu/playlists)
+## [PHP объектно-ориентированный для начинающих](https://www.youtube.com/playlist?list=PLOQDek48BpZGsfx_7Z6sofqF3YRtM-VC4)
+### [3. Магические методы, финализация класса и метода](https://www.youtube.com/watch?v=JzOR-wVvlpg&amp;list=PLOQDek48BpZGsfx_7Z6sofqF3YRtM-VC4&amp;index=3&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+### [Делегаты и события на практике](https://www.youtube.com/watch?v=ZVtqk5QqVSQ&amp;list=PLuGqgO5WmeGPHk15Gg9Xz7Eq2ysTzUKIZ&amp;index=1&amp;pp=iAQB)
+### [Полиморфизм на практике](https://www.youtube.com/watch?v=bKbVmXuh9wQ&amp;list=PLuGqgO5WmeGPHk15Gg9Xz7Eq2ysTzUKIZ&amp;index=2&amp;pp=iAQB)
+### [Интерфейсы на практике](https://www.youtube.com/watch?v=fu13d1V73K4&amp;list=PLuGqgO5WmeGPHk15Gg9Xz7Eq2ysTzUKIZ&amp;index=3&amp;pp=iAQB)

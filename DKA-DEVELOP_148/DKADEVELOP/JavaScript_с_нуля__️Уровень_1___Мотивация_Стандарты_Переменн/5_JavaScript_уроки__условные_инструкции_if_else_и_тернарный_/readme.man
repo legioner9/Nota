@@ -1,0 +1,3 @@
+# [DKA-DEVELOP](https://www.youtube.com/@DKADEVELOP/playlists?view=1&sort=dd&shelf_id=0)
+## [JavaScript с нуля [ 👱‍♂️Уровень 1 ] - Мотивация, Стандарты, Переменные, Функции, Объекты и т.д.](https://www.youtube.com/playlist?list=PLD5U-C5KK50VWFZyPlV7OaSgoPjLA3r--)
+### [JavaScript уроки – условные инструкции if else и тернарный оператор [ ДЗ ] 🔊 - #5](https://www.youtube.com/watch?v=Y2uaMd2toWY&amp;list=PLD5U-C5KK50VWFZyPlV7OaSgoPjLA3r--&amp;index=5&amp;pp=iAQB)

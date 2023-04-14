@@ -1,0 +1,3 @@
+# [DKA-DEVELOP](https://www.youtube.com/@DKADEVELOP/playlists?view=1&sort=dd&shelf_id=0)
+## [Laravel и Vue (Realtime app)](https://www.youtube.com/playlist?list=PLD5U-C5KK50X1KcfueA73sGSjBsd8vgVG)
+### [Уроки Laravel Vue: как работать с VUE в Laravel | Уроки Laravel | Laravel 5.6 и ниже](https://www.youtube.com/watch?v=LO_p_3vukLE&amp;list=PLD5U-C5KK50X1KcfueA73sGSjBsd8vgVG&amp;index=3&amp;pp=iAQB)

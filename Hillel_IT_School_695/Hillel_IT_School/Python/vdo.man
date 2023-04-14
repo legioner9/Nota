@@ -1,0 +1,5 @@
+### [Контейнеры в Python](https://www.youtube.com/watch?v=Ms3d6M2GjwI&amp;list=PLuEo4W0EBxtUSMtXHgXTETVWWQnumzhsX&amp;index=1&amp;pp=iAQB)
+### [Генераторы в Python](https://www.youtube.com/watch?v=37S60_XSAWI&amp;list=PLuEo4W0EBxtUSMtXHgXTETVWWQnumzhsX&amp;index=2&amp;pp=iAQB)
+### [Функции в Python](https://www.youtube.com/watch?v=i52GUlDSWu8&amp;list=PLuEo4W0EBxtUSMtXHgXTETVWWQnumzhsX&amp;index=3&amp;pp=iAQB)
+### [Циклы в Python](https://www.youtube.com/watch?v=KRIS1Kwx5V8&amp;list=PLuEo4W0EBxtUSMtXHgXTETVWWQnumzhsX&amp;index=4&amp;pp=iAQB)
+### [Как выбрать IDE для Python](https://www.youtube.com/watch?v=4YjkCL3tQXY&amp;list=PLuEo4W0EBxtUSMtXHgXTETVWWQnumzhsX&amp;index=5&amp;pp=iAQB)

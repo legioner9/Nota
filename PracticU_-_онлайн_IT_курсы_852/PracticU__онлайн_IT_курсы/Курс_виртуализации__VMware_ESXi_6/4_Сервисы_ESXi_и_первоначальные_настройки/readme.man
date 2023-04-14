@@ -1,0 +1,3 @@
+# [PracticU - онлайн IT курсы](https://www.youtube.com/@PracticU2/playlists)
+## [Курс виртуализации - VMware ESXi 6](https://www.youtube.com/playlist?list=PLrXcA7Ca3B81pUHuingtIR0sHcw3g3oQV)
+### [Сервисы ESXi и первоначальные настройки](https://www.youtube.com/watch?v=l3N7TmZ3g5A&amp;list=PLrXcA7Ca3B81pUHuingtIR0sHcw3g3oQV&amp;index=4&amp;pp=iAQB)

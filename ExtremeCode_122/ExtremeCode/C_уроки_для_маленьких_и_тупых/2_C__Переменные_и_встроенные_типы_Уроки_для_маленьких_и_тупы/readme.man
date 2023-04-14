@@ -1,0 +1,3 @@
+# [ExtremeCode](https://www.youtube.com/@ExtremeCode/playlists)
+## [C# уроки для маленьких и тупых](https://www.youtube.com/playlist?list=PLuGqgO5WmeGPTZqDHZDIum3h7HnfBfzmZ)
+### [C# - Переменные и встроенные типы. Уроки для маленьких и тупых #1.](https://www.youtube.com/watch?v=NU5tcaF4KuU&amp;list=PLuGqgO5WmeGPTZqDHZDIum3h7HnfBfzmZ&amp;index=2&amp;pp=iAQB)

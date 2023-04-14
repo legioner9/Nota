@@ -1,0 +1,3 @@
+# [IT-спец. Денис Курец](https://www.youtube.com/@kurets/playlists)
+## [Информационная безопасность](https://www.youtube.com/playlist?list=PLpATPij5aov7g3mjdqG_Vb47KSN1KBTsu)
+### [Как сбросить пароль root в Debian, Ubuntu, CentOS по VNC?](https://www.youtube.com/watch?v=eUG2pt36usY&amp;list=PLpATPij5aov7g3mjdqG_Vb47KSN1KBTsu&amp;index=3&amp;pp=iAQB)

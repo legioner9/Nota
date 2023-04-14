@@ -1,0 +1,3 @@
+# [Learn Linux TV](https://www.youtube.com/@LearnLinuxTV/playlists)
+## [Linux Commands for Beginners](https://www.youtube.com/playlist?list=PLT98CRl2KxKHaKA9-4_I38sLzK134p4GJ)
+### [Linux Commands for Beginners 23 - Transferring Files with scp](https://www.youtube.com/watch?v=gGe1cNgfHwE&amp;list=PLT98CRl2KxKHaKA9-4_I38sLzK134p4GJ&amp;index=23&amp;pp=iAQB)

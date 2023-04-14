@@ -1,0 +1,6 @@
+### [3.1   Введение в Jenkins](https://www.youtube.com/watch?v=bKxutoam-2c&amp;list=PL5BUU9mMwX6nO6Pgj6tj0qPR0DJDJv7Xs&amp;index=1&amp;pp=iAQB)
+### [3.2   Рекомендации при работе с Jenkins](https://www.youtube.com/watch?v=JeWC2KMYO2k&amp;list=PL5BUU9mMwX6nO6Pgj6tj0qPR0DJDJv7Xs&amp;index=2&amp;pp=iAQB)
+### [3.3 Загрузка и установка Jenkins](https://www.youtube.com/watch?v=gMT0xAYqceg&amp;list=PL5BUU9mMwX6nO6Pgj6tj0qPR0DJDJv7Xs&amp;index=3&amp;pp=iAQB)
+### [3.4 Директории и файлы конфигурации Jenkins | Linux для начинающих](https://www.youtube.com/watch?v=iTdunDw4cbc&amp;list=PL5BUU9mMwX6nO6Pgj6tj0qPR0DJDJv7Xs&amp;index=4&amp;pp=iAQB)
+### [3.5 Конфигурация безопасности Jenkins | Linux для начинающих](https://www.youtube.com/watch?v=1SMFQz664uE&amp;list=PL5BUU9mMwX6nO6Pgj6tj0qPR0DJDJv7Xs&amp;index=5&amp;pp=iAQB)
+### [3.6 Настройки безопасного соединения и персональные данные Jenkins | Linux для начинающих](https://www.youtube.com/watch?v=tWsG32iXymw&amp;list=PL5BUU9mMwX6nO6Pgj6tj0qPR0DJDJv7Xs&amp;index=6&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [PracticU - онлайн IT курсы](https://www.youtube.com/@PracticU2/playlists)
+## [Курс Angular 4 - MVC и WebAPI](https://www.youtube.com/playlist?list=PLrXcA7Ca3B81aEZIKpLqiy0C2S96tHkrL)
+### [Custom Validators With Parameter](https://www.youtube.com/watch?v=7E8YkQ1zxUQ&amp;list=PLrXcA7Ca3B81aEZIKpLqiy0C2S96tHkrL&amp;index=46&amp;pp=iAQB)

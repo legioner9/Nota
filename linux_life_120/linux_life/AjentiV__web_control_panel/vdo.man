@@ -1,0 +1,4 @@
+### [#Ajenti-V - Устанавливаем из  Docker Hub. АДМИНИТЬ САЙТЫ это просто (WordPress + LetsEncrypt)](https://www.youtube.com/watch?v=SzKoPifm6OI&amp;list=PLKxZjsTaY5XtPEsq_7l61VNbnewEOcjOk&amp;index=1&amp;pp=iAQB)
+### [Ajenti/Ajenti-V - Веб-панель управления сервером/веб-сервером](https://www.youtube.com/watch?v=lp8VJW3MJ0Y&amp;list=PLKxZjsTaY5XtPEsq_7l61VNbnewEOcjOk&amp;index=2&amp;pp=iAQB)
+### [#Ajenti-V Устанавливаем PHPMyAdmin с ДОП авторизацией Nginx](https://www.youtube.com/watch?v=SGm9F59yhzU&amp;list=PLKxZjsTaY5XtPEsq_7l61VNbnewEOcjOk&amp;index=3&amp;pp=iAQB)
+### [#Ajenti &quot;Фиксим&quot; LetsEncrypt](https://www.youtube.com/watch?v=8qMVugJZtbM&amp;list=PLKxZjsTaY5XtPEsq_7l61VNbnewEOcjOk&amp;index=4&amp;pp=iAQB)

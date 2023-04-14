@@ -1,0 +1,3 @@
+# [SACRED DEVELOPER](https://www.youtube.com/@SACREDDEVELOPER/playlists?view=1&sort=dd&shelf_id=0)
+## [DurgerKing Bot telegram](https://www.youtube.com/playlist?list=PLdRkxc5c2e3mXwbNfik98JTATUYCHEI3w)
+### [Node.js DurgerKing Bot Часть 41: Аутентификация и авторизация клиента](https://www.youtube.com/watch?v=ls_SxDRbRm8&amp;list=PLdRkxc5c2e3mXwbNfik98JTATUYCHEI3w&amp;index=45&amp;pp=iAQB)

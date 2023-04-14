@@ -1,0 +1,3 @@
+# [Kirill Semaev](https://www.youtube.com/@KirillSemaev/playlists)
+## [LPIC-2 (exam 201)](https://www.youtube.com/playlist?list=PLmxB7JSpraidTqByo0ihkyExIbKfAB-B9)
+### [LPIC 201.2 Сборка ядра Linux на примере Ubuntu](https://www.youtube.com/watch?v=Bb-ZO3A7m8M&amp;list=PLmxB7JSpraidTqByo0ihkyExIbKfAB-B9&amp;index=14&amp;pp=iAQB)

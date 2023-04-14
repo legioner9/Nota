@@ -1,0 +1,3 @@
+# [Linux Training Center](https://www.youtube.com/@LinuxTrainingCenter/playlists)
+## [Jenkins](https://www.youtube.com/playlist?list=PL5BUU9mMwX6nO6Pgj6tj0qPR0DJDJv7Xs)
+### [3.2   Рекомендации при работе с Jenkins](https://www.youtube.com/watch?v=JeWC2KMYO2k&amp;list=PL5BUU9mMwX6nO6Pgj6tj0qPR0DJDJv7Xs&amp;index=2&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [Linux от Дмитрия](https://www.youtube.com/@LinuxbyDmitry/playlists)
+## [Calculate](https://www.youtube.com/playlist?list=PLOp6AT9LJS_M4dj2RxzOwgOq_tcqcJqHe)
+### [Подготовка Calculate Linux к созданию шлюза/маршрутизатора.](https://www.youtube.com/watch?v=Pi9KcG1uDU8&amp;list=PLOp6AT9LJS_M4dj2RxzOwgOq_tcqcJqHe&amp;index=6&amp;pp=iAQB)

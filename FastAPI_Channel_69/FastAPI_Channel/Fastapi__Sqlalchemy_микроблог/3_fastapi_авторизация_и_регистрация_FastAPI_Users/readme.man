@@ -1,0 +1,3 @@
+# [FastAPI Channel](https://www.youtube.com/@FastAPIChannel/playlists?view=1)
+## [Fastapi + Sqlalchemy микроблог](https://www.youtube.com/playlist?list=PLaED5GKTiQG-MMWkQJZIuPrPfRYYKkpjk)
+### [fastapi авторизация и регистрация FastAPI Users](https://www.youtube.com/watch?v=nBghs4eTmik&amp;list=PLaED5GKTiQG-MMWkQJZIuPrPfRYYKkpjk&amp;index=3&amp;pp=iAQB)

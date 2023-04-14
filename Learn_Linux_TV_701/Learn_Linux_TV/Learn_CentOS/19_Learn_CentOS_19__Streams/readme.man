@@ -1,0 +1,3 @@
+# [Learn Linux TV](https://www.youtube.com/@LearnLinuxTV/playlists)
+## [Learn CentOS](https://www.youtube.com/playlist?list=PLT98CRl2KxKHjHLIHrmmi5FmBGIZ8cNJE)
+### [Learn CentOS 19 - Streams](https://www.youtube.com/watch?v=ssosU-ad5Eo&amp;list=PLT98CRl2KxKHjHLIHrmmi5FmBGIZ8cNJE&amp;index=19&amp;pp=iAQB)

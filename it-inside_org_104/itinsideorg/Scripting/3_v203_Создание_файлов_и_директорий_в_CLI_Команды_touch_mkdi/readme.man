@@ -1,0 +1,3 @@
+# [it-inside.org](https://www.youtube.com/@itinsideorg/playlists)
+## [Scripting](https://www.youtube.com/playlist?list=PLWeA3JK7qaiqH4vA78UxoUKsQpFp71bwQ)
+### [v20.3 Создание файлов и директорий в CLI. Команды touch, mkdir](https://www.youtube.com/watch?v=LjEpFoEwWEs&amp;list=PLWeA3JK7qaiqH4vA78UxoUKsQpFp71bwQ&amp;index=3&amp;pp=iAQB)

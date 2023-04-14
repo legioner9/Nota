@@ -1,0 +1,3 @@
+# [Learn Linux TV](https://www.youtube.com/@LearnLinuxTV/playlists)
+## [Docker Essentials](https://www.youtube.com/playlist?list=PLT98CRl2KxKECHltRib03tG8pyKEzwf9t)
+### [Docker Essentials (Part 3) - Installing Docker on Windows 10, macOS, and Ubuntu](https://www.youtube.com/watch?v=PgR3Wc4_X1g&amp;list=PLT98CRl2KxKECHltRib03tG8pyKEzwf9t&amp;index=3&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [htmllab](https://www.youtube.com/@HtmllabRu/playlists)
+## [webpack](https://www.youtube.com/playlist?list=PLOQDek48BpZFadeo_SJUNDggOKouA-nyM)
+### [4. webpack режим разработчика](https://www.youtube.com/watch?v=HoGqwTXb62g&amp;list=PLOQDek48BpZFadeo_SJUNDggOKouA-nyM&amp;index=4&amp;pp=iAQB)

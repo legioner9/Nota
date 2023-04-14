@@ -1,0 +1,3 @@
+# [it-inside.org](https://www.youtube.com/@itinsideorg/playlists)
+## [Создание сайта на собственном сервере с нуля.](https://www.youtube.com/playlist?list=PLWeA3JK7qaiqowtTfzprN2x166106EiJc)
+### [IT-inside 05. Установка LAMP и WordPress на Ubuntu сервер.](https://www.youtube.com/watch?v=77Y8MfaLnQ0&amp;list=PLWeA3JK7qaiqowtTfzprN2x166106EiJc&amp;index=6&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [Learn Linux TV](https://www.youtube.com/@LearnLinuxTV/playlists)
+## [OpenStack Administrator's Guide](https://www.youtube.com/playlist?list=PLT98CRl2KxKHCPoR1nHmG2Tl5Q4r1-aiJ)
+### [How to Manage OpenStack Private Clouds Episode 3 - Setting Up Block Storage Volumes](https://www.youtube.com/watch?v=EOZx7VcyfUo&amp;list=PLT98CRl2KxKHCPoR1nHmG2Tl5Q4r1-aiJ&amp;index=4&amp;pp=iAQB)

@@ -1,0 +1,6 @@
+### [Редизайн Битрикс сайта #1: Вступление - редизайн старого видеокурса](https://www.youtube.com/watch?v=tEwb9OqLPR0&amp;list=PL8CIWP7ylJEM5ejJGHbjZIby_IYyz1Wsj&amp;index=1&amp;pp=iAQB)
+### [Редизайн Битрикс сайта #2: Подготовка сайта к верстке, вывод компонентов](https://www.youtube.com/watch?v=PwMB1ThwpbI&amp;list=PL8CIWP7ylJEM5ejJGHbjZIby_IYyz1Wsj&amp;index=2&amp;pp=iAQB)
+### [Редизайн Битрикс сайта #3: Подготавливаем внутренние разделы / перезалив](https://www.youtube.com/watch?v=FovlCndyO7M&amp;list=PL8CIWP7ylJEM5ejJGHbjZIby_IYyz1Wsj&amp;index=3&amp;pp=iAQB)
+### [Битрикс веб окружение 7.1.0 (Bitrix VM): настройка под Битрикс 24, включение почты и phpmyadmin](https://www.youtube.com/watch?v=9__Ly6j93KU&amp;list=PL8CIWP7ylJEM5ejJGHbjZIby_IYyz1Wsj&amp;index=4&amp;pp=iAQB)
+### [Редизайн Битрикс сайта #5: Верстка шаблона в режиме трансляции №1](https://www.youtube.com/watch?v=2bjSUfetuvk&amp;list=PL8CIWP7ylJEM5ejJGHbjZIby_IYyz1Wsj&amp;index=5&amp;pp=iAQB)
+### [Редизайн Битрикс сайта #6: Перенос сайта на боевой домен. Базовая СЕО оптимизация](https://www.youtube.com/watch?v=PJwoCacclnA&amp;list=PL8CIWP7ylJEM5ejJGHbjZIby_IYyz1Wsj&amp;index=6&amp;pp=iAQB)

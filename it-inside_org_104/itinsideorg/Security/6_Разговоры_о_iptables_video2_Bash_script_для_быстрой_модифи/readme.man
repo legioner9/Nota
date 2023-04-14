@@ -1,0 +1,3 @@
+# [it-inside.org](https://www.youtube.com/@itinsideorg/playlists)
+## [Security](https://www.youtube.com/playlist?list=PLWeA3JK7qaiojdfgRF4iBrQJ0RPpk1V6L)
+### [Разговоры о iptables. video2. Bash script для быстрой модификации iptables.](https://www.youtube.com/watch?v=zZZcjl4qvEo&amp;list=PLWeA3JK7qaiojdfgRF4iBrQJ0RPpk1V6L&amp;index=6&amp;pp=iAQB)

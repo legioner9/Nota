@@ -1,0 +1,3 @@
+# [htmllab](https://www.youtube.com/@HtmllabRu/playlists)
+## [Курс MySQL 8](https://www.youtube.com/playlist?list=PLOQDek48BpZFeW02dfJM77FY4Fp5ilJ6n)
+### [18. MySQL 8 UNION оператор объединение запросов](https://www.youtube.com/watch?v=4mOdLIsqz9I&amp;list=PLOQDek48BpZFeW02dfJM77FY4Fp5ilJ6n&amp;index=18&amp;pp=iAQB)

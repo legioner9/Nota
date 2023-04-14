@@ -1,0 +1,3 @@
+# [Heaven Paladin](https://www.youtube.com/@HeavenPaladin/playlists?view=1)
+## [IT video notes](https://www.youtube.com/playlist?list=PLUSohJYRsRBgbJp-SLk32qG4WQNXfZ0dP)
+### [Установка sddm  (Simple Desktop Display Manager) в openSUSE 42.2](https://www.youtube.com/watch?v=YuBNTluIl5g&amp;list=PLUSohJYRsRBgbJp-SLk32qG4WQNXfZ0dP&amp;index=17&amp;pp=iAQB)

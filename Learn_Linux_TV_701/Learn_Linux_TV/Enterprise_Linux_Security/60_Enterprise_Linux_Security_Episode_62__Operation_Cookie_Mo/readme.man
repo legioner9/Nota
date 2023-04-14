@@ -1,0 +1,3 @@
+# [Learn Linux TV](https://www.youtube.com/@LearnLinuxTV/playlists)
+## [Enterprise Linux Security](https://www.youtube.com/playlist?list=PLT98CRl2KxKHgBWIp7XBwVjGf6dmOCj98)
+### [Enterprise Linux Security Episode 62 - Operation: Cookie Monster](https://www.youtube.com/watch?v=phxfihGIcRk&amp;list=PLT98CRl2KxKHgBWIp7XBwVjGf6dmOCj98&amp;index=60&amp;pp=iAQB)

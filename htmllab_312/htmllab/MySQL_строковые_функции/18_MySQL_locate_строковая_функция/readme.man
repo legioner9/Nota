@@ -1,0 +1,3 @@
+# [htmllab](https://www.youtube.com/@HtmllabRu/playlists)
+## [MySQL строковые функции](https://www.youtube.com/playlist?list=PLOQDek48BpZGKGgZ0jtI7-1QKiLojlmai)
+### [MySQL locate строковая функция](https://www.youtube.com/watch?v=Nf0sB74_eCs&amp;list=PLOQDek48BpZGKGgZ0jtI7-1QKiLojlmai&amp;index=18&amp;pp=iAQB)

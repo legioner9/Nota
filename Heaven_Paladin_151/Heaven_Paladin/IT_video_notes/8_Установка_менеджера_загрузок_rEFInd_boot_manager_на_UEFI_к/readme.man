@@ -1,0 +1,3 @@
+# [Heaven Paladin](https://www.youtube.com/@HeavenPaladin/playlists?view=1)
+## [IT video notes](https://www.youtube.com/playlist?list=PLUSohJYRsRBgbJp-SLk32qG4WQNXfZ0dP)
+### [Установка менеджера загрузок rEFInd (boot manager) на UEFI компьютере](https://www.youtube.com/watch?v=3rQtSLQLygY&amp;list=PLUSohJYRsRBgbJp-SLk32qG4WQNXfZ0dP&amp;index=8&amp;pp=iAQB)

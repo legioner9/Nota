@@ -1,0 +1,3 @@
+# [ Python для сетевых инженеров](https://www.youtube.com/@PyNEng/playlists)
+## [Python package](https://www.youtube.com/playlist?list=PLah0HUih_ZRljP9fwcz37LwFSAjzK0pFY)
+### [Python package](https://www.youtube.com/watch?v=6S-0FvKquVE&amp;list=PLah0HUih_ZRljP9fwcz37LwFSAjzK0pFY&amp;index=1&amp;pp=iAQB)

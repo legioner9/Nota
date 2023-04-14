@@ -1,0 +1,3 @@
+# [ Python для сетевых инженеров](https://www.youtube.com/@PyNEng/playlists)
+## [Основы pdb](https://www.youtube.com/playlist?list=PLah0HUih_ZRnhRXJgPLKEJLtOBBkh6e8P)
+### [debug 13. Pdb (ipdb). Отладка кода с функциями](https://www.youtube.com/watch?v=kraLSoH1VPE&amp;list=PLah0HUih_ZRnhRXJgPLKEJLtOBBkh6e8P&amp;index=2&amp;pp=iAQB)

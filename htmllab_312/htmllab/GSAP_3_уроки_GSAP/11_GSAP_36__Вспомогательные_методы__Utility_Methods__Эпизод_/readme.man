@@ -1,0 +1,3 @@
+# [htmllab](https://www.youtube.com/@HtmllabRu/playlists)
+## [GSAP 3: уроки GSAP](https://www.youtube.com/playlist?list=PLOQDek48BpZFzxKS-2sLAeSBB83x-xILB)
+### [GSAP 3.6 - Вспомогательные методы | Utility Methods - Эпизод 11](https://www.youtube.com/watch?v=Dbu6xRhL7UU&amp;list=PLOQDek48BpZFzxKS-2sLAeSBB83x-xILB&amp;index=11&amp;pp=iAQB)

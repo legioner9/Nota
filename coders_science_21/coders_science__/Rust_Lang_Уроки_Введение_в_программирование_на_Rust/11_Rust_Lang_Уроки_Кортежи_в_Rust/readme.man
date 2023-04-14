@@ -1,0 +1,3 @@
+# [coders science  🇺🇦](https://www.youtube.com/@codersscience7227/playlists)
+## [Rust Lang Уроки. Введение в программирование на Rust](https://www.youtube.com/playlist?list=PLQItjQSK3L9SzibipAA8eI0vmkR6-Omdf)
+### [Rust Lang Уроки. Кортежи в Rust.](https://www.youtube.com/watch?v=KLBS1rgBq-k&amp;list=PLQItjQSK3L9SzibipAA8eI0vmkR6-Omdf&amp;index=11&amp;pp=iAQB)

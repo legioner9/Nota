@@ -1,0 +1,4 @@
+### [Собеседование на middle Node.js разработчика](https://www.youtube.com/watch?v=8b49Id8zMu8&amp;list=PLhZj4EWV4Tnj8JnTSSEvxoRvkJGH0AeD-&amp;index=1&amp;pp=iAQB)
+### [Собеседование на Junior Frontend разработчика на React](https://www.youtube.com/watch?v=hDl7w9U-Ly8&amp;list=PLhZj4EWV4Tnj8JnTSSEvxoRvkJGH0AeD-&amp;index=2&amp;pp=iAQB)
+### [9 шагов, чтобы стать программистом в 2023 году с нуля](https://www.youtube.com/watch?v=WvP59U_B6s4&amp;list=PLhZj4EWV4Tnj8JnTSSEvxoRvkJGH0AeD-&amp;index=3&amp;pp=iAQB)
+### [97% код ревью будет эффективным если…](https://www.youtube.com/watch?v=JVCytQnoLXU&amp;list=PLhZj4EWV4Tnj8JnTSSEvxoRvkJGH0AeD-&amp;index=4&amp;pp=iAQB)

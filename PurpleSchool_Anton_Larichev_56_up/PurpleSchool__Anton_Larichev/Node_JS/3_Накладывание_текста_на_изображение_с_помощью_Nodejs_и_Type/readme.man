@@ -1,0 +1,3 @@
+# [PurpleSchool | Anton Larichev](https://www.youtube.com/@PurpleSchool/playlists)
+## [Node JS](https://www.youtube.com/playlist?list=PLhZj4EWV4TnhfRsG6rb-LqBf74f2Xoydy)
+### [Накладывание текста на изображение с помощью Node.js и TypeScript](https://www.youtube.com/watch?v=6q7JKXJLo3E&amp;list=PLhZj4EWV4TnhfRsG6rb-LqBf74f2Xoydy&amp;index=3&amp;pp=iAQB)

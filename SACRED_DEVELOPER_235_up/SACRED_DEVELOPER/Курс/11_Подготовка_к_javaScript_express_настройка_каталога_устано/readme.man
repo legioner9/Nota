@@ -1,0 +1,3 @@
+# [SACRED DEVELOPER](https://www.youtube.com/@SACREDDEVELOPER/playlists?view=1&sort=dd&shelf_id=0)
+## [Курс](https://www.youtube.com/playlist?list=PLdRkxc5c2e3mcM3CMQcpQru4lzWmZPZLp)
+### [Подготовка к javaScript express, настройка каталога установка пакетов](https://www.youtube.com/watch?v=D3A0xgIdkng&amp;list=PLdRkxc5c2e3mcM3CMQcpQru4lzWmZPZLp&amp;index=11&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [ Python для сетевых инженеров](https://www.youtube.com/@PyNEng/playlists)
+## [Нюансы заданий, проверка заданий тестами](https://www.youtube.com/playlist?list=PLah0HUih_ZRmZYZ518jHNkcGxc-bhE151)
+### [Использование тестов для проверки заданий](https://www.youtube.com/watch?v=TI6-vFFV9lk&amp;list=PLah0HUih_ZRmZYZ518jHNkcGxc-bhE151&amp;index=1&amp;pp=iAQB)

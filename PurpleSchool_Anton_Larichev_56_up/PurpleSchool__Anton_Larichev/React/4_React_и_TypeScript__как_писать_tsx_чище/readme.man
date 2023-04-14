@@ -1,0 +1,3 @@
+# [PurpleSchool | Anton Larichev](https://www.youtube.com/@PurpleSchool/playlists)
+## [React](https://www.youtube.com/playlist?list=PLhZj4EWV4TnjtyuzcKCPE_cWJrdvr4fJd)
+### [React и TypeScript - как писать tsx чище?](https://www.youtube.com/watch?v=9MR1a0h6ivs&amp;list=PLhZj4EWV4TnjtyuzcKCPE_cWJrdvr4fJd&amp;index=4&amp;pp=iAQB)

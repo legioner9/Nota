@@ -1,0 +1,3 @@
+# [ Python для сетевых инженеров](https://www.youtube.com/@PyNEng/playlists)
+## [Редактор для начинающих Mu](https://www.youtube.com/playlist?list=PLah0HUih_ZRkiQXDuElo_JW9OfmbEXRpj)
+### [Mu - отличный редактор для начинающих](https://www.youtube.com/watch?v=9qH92jz0p58&amp;list=PLah0HUih_ZRkiQXDuElo_JW9OfmbEXRpj&amp;index=1&amp;pp=iAQB)

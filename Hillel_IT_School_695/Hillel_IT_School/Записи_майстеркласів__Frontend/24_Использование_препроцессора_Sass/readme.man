@@ -1,0 +1,3 @@
+# [Hillel IT School](https://www.youtube.com/@HillelITSchool/playlists)
+## [Записи майстер-класів | Front-end](https://www.youtube.com/playlist?list=PLuEo4W0EBxtU9By_ZReUXIjYHiI1y81Ks)
+### [Использование препроцессора Sass](https://www.youtube.com/watch?v=mmhKV2ytm78&amp;list=PLuEo4W0EBxtU9By_ZReUXIjYHiI1y81Ks&amp;index=24&amp;pp=iAQB)

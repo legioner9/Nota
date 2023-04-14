@@ -1,0 +1,5 @@
+### [Getting Started with tmux Part 1 - Overview and Features](https://www.youtube.com/watch?v=gmjyMxezIWU&amp;list=PLT98CRl2KxKGiyV1u6wHDV8VwcQdzfuKe&amp;index=1&amp;pp=iAQB)
+### [Getting Started with tmux Part 2 - Horizontal and Vertical Panes](https://www.youtube.com/watch?v=H6RBPHow_q4&amp;list=PLT98CRl2KxKGiyV1u6wHDV8VwcQdzfuKe&amp;index=2&amp;pp=iAQB)
+### [Getting Started with tmux Part 3 - Creating and Managing Windows](https://www.youtube.com/watch?v=JMGGrM9KmFw&amp;list=PLT98CRl2KxKGiyV1u6wHDV8VwcQdzfuKe&amp;index=3&amp;pp=iAQB)
+### [Getting Started with tmux Part 4 - Creating and Switching Between Sessions](https://www.youtube.com/watch?v=FAU8rmS5NSE&amp;list=PLT98CRl2KxKGiyV1u6wHDV8VwcQdzfuKe&amp;index=4&amp;pp=iAQB)
+### [Getting Started with tmux Part 5 - Customization and Tweaks](https://www.youtube.com/watch?v=bjBjZvZsgks&amp;list=PLT98CRl2KxKGiyV1u6wHDV8VwcQdzfuKe&amp;index=5&amp;pp=iAQB)

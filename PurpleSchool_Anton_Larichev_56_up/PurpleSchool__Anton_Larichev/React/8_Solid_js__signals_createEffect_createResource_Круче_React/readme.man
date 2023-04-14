@@ -1,0 +1,3 @@
+# [PurpleSchool | Anton Larichev](https://www.youtube.com/@PurpleSchool/playlists)
+## [React](https://www.youtube.com/playlist?list=PLhZj4EWV4TnjtyuzcKCPE_cWJrdvr4fJd)
+### [Solid js - signals, createEffect, createResource. Круче React?](https://www.youtube.com/watch?v=Gjdtl3vygHs&amp;list=PLhZj4EWV4TnjtyuzcKCPE_cWJrdvr4fJd&amp;index=8&amp;pp=iAQB)

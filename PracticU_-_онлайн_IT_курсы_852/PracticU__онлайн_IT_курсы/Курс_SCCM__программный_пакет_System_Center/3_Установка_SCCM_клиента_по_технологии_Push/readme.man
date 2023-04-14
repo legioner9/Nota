@@ -1,0 +1,3 @@
+# [PracticU - онлайн IT курсы](https://www.youtube.com/@PracticU2/playlists)
+## [Курс SCCM - программный пакет System Center](https://www.youtube.com/playlist?list=PLrXcA7Ca3B82tUU6bnxIaS9L78baQb3eF)
+### [Установка SCCM клиента по технологии Push](https://www.youtube.com/watch?v=nAkuWLfkpOU&amp;list=PLrXcA7Ca3B82tUU6bnxIaS9L78baQb3eF&amp;index=3&amp;pp=iAQB)

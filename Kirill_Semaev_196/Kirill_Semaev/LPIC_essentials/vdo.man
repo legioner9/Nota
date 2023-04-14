@@ -1,0 +1,4 @@
+### [Вводный курс. Семейство операционных систем Linux](https://www.youtube.com/watch?v=IZTl2nYPRz8&amp;list=PLmxB7JSpraidEUbmKkRn7ZlqJg6_8kE7j&amp;index=1&amp;pp=iAQB)
+### [Основы работы с VirtualBox](https://www.youtube.com/watch?v=j52rnJN5X2o&amp;list=PLmxB7JSpraidEUbmKkRn7ZlqJg6_8kE7j&amp;index=2&amp;pp=iAQB)
+### [Установка и настройка CentOS в VirtualBox](https://www.youtube.com/watch?v=-hNMW1PMq4w&amp;list=PLmxB7JSpraidEUbmKkRn7ZlqJg6_8kE7j&amp;index=3&amp;pp=iAQB)
+### [Установка и настройка Ubuntu в VirtualBox](https://www.youtube.com/watch?v=93szsk5KuIs&amp;list=PLmxB7JSpraidEUbmKkRn7ZlqJg6_8kE7j&amp;index=4&amp;pp=iAQB)

@@ -1,0 +1,8 @@
+### [React Custom Hooks - Пишем компонент прогресса чтения](https://www.youtube.com/watch?v=bQVW2KCHc1E&amp;list=PLhZj4EWV4TnjtyuzcKCPE_cWJrdvr4fJd&amp;index=1&amp;pp=iAQB)
+### [React - Компонент сравнения картинок со слайдером на TypeScript](https://www.youtube.com/watch?v=b4a7pTN0Xy4&amp;list=PLhZj4EWV4TnjtyuzcKCPE_cWJrdvr4fJd&amp;index=2&amp;pp=iAQB)
+### [Мобильное меню с бесконечной вложенностью на React и TypeScript](https://www.youtube.com/watch?v=yLOOpANXP1E&amp;list=PLhZj4EWV4TnjtyuzcKCPE_cWJrdvr4fJd&amp;index=3&amp;pp=iAQB)
+### [React и TypeScript - как писать tsx чище?](https://www.youtube.com/watch?v=9MR1a0h6ivs&amp;list=PLhZj4EWV4TnjtyuzcKCPE_cWJrdvr4fJd&amp;index=4&amp;pp=iAQB)
+### [Разбор Next 13 - урок по работе с app, turbopack, font, SSR](https://www.youtube.com/watch?v=kmNc1I4mOpA&amp;list=PLhZj4EWV4TnjtyuzcKCPE_cWJrdvr4fJd&amp;index=5&amp;pp=iAQB)
+### [Модальное окно (popup) на React с Headless UI](https://www.youtube.com/watch?v=7bT3BPNhy8g&amp;list=PLhZj4EWV4TnjtyuzcKCPE_cWJrdvr4fJd&amp;index=6&amp;pp=iAQB)
+### [Что нового в React Router 6.4+?](https://www.youtube.com/watch?v=pvhMvmP-vvk&amp;list=PLhZj4EWV4TnjtyuzcKCPE_cWJrdvr4fJd&amp;index=7&amp;pp=iAQB)
+### [Solid js - signals, createEffect, createResource. Круче React?](https://www.youtube.com/watch?v=Gjdtl3vygHs&amp;list=PLhZj4EWV4TnjtyuzcKCPE_cWJrdvr4fJd&amp;index=8&amp;pp=iAQB)

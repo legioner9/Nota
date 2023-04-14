@@ -1,0 +1,3 @@
+# [it-inside.org](https://www.youtube.com/@itinsideorg/playlists)
+## [Scripting](https://www.youtube.com/playlist?list=PLWeA3JK7qaiqH4vA78UxoUKsQpFp71bwQ)
+### [v20.4 Создание файлов, объединение файлов, очистка экрана в CLI. Команды cat и clear.](https://www.youtube.com/watch?v=PX08bdqUsT8&amp;list=PLWeA3JK7qaiqH4vA78UxoUKsQpFp71bwQ&amp;index=4&amp;pp=iAQB)

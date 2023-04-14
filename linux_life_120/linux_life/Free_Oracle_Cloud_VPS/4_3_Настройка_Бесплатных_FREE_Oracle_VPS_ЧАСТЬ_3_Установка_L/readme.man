@@ -1,0 +1,3 @@
+# [#linux life](https://www.youtube.com/@linuxlifepage/playlists)
+## [Free Oracle Cloud VPS](https://www.youtube.com/playlist?list=PLKxZjsTaY5Xu2Zfkgt0TV8eMEmJjentxx)
+### [3. Настройка Бесплатных FREE Oracle VPS. ЧАСТЬ 3 (Установка LEMP - Nginx/MariaDB/PHP)](https://www.youtube.com/watch?v=Lvd-n2l3jIE&amp;list=PLKxZjsTaY5Xu2Zfkgt0TV8eMEmJjentxx&amp;index=4&amp;pp=iAQB)

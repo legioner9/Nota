@@ -1,0 +1,3 @@
+# [METATECH](https://www.youtube.com/@MetatechEducation/playlists)
+## [Программирование на JavaScript для начинающих](https://www.youtube.com/playlist?list=PLpmhTzMVLuROAIey9vW3pyRSpHfknLssu)
+### [💻 Async/await - асинхронные функции - основы JavaScript для начинающих](https://www.youtube.com/watch?v=DrOiZBcWlKg&amp;list=PLpmhTzMVLuROAIey9vW3pyRSpHfknLssu&amp;index=14&amp;pp=iAQB)

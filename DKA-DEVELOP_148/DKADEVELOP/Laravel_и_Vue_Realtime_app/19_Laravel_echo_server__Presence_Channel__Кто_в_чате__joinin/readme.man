@@ -1,0 +1,3 @@
+# [DKA-DEVELOP](https://www.youtube.com/@DKADEVELOP/playlists?view=1&sort=dd&shelf_id=0)
+## [Laravel и Vue (Realtime app)](https://www.youtube.com/playlist?list=PLD5U-C5KK50X1KcfueA73sGSjBsd8vgVG)
+### [Laravel echo server - Presence Channel | Кто в чате? | joining and leaving | part 4](https://www.youtube.com/watch?v=BpOu55DLQgU&amp;list=PLD5U-C5KK50X1KcfueA73sGSjBsd8vgVG&amp;index=19&amp;pp=iAQB)

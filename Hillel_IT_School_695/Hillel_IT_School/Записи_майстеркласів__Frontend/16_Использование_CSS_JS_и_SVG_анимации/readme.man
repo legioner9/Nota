@@ -1,0 +1,3 @@
+# [Hillel IT School](https://www.youtube.com/@HillelITSchool/playlists)
+## [Записи майстер-класів | Front-end](https://www.youtube.com/playlist?list=PLuEo4W0EBxtU9By_ZReUXIjYHiI1y81Ks)
+### [Использование CSS, JS и SVG анимации](https://www.youtube.com/watch?v=m9M_m5bY6LE&amp;list=PLuEo4W0EBxtU9By_ZReUXIjYHiI1y81Ks&amp;index=16&amp;pp=iAQB)

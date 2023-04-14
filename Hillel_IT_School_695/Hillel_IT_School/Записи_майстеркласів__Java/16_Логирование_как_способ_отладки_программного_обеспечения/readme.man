@@ -1,0 +1,3 @@
+# [Hillel IT School](https://www.youtube.com/@HillelITSchool/playlists)
+## [Записи майстер-класів | Java](https://www.youtube.com/playlist?list=PLuEo4W0EBxtVUkwcWcsTe0d9fbH34Yaq0)
+### [Логирование как способ отладки программного обеспечения](https://www.youtube.com/watch?v=sMtFZa5jiFM&amp;list=PLuEo4W0EBxtVUkwcWcsTe0d9fbH34Yaq0&amp;index=16&amp;pp=iAQB)

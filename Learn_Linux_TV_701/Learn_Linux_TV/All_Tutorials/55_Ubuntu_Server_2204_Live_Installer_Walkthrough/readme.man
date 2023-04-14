@@ -1,0 +1,3 @@
+# [Learn Linux TV](https://www.youtube.com/@LearnLinuxTV/playlists)
+## [All Tutorials](https://www.youtube.com/playlist?list=PLT98CRl2KxKHdOpQ-uI2QuNcQ0aEAe5bN)
+### [Ubuntu Server 22.04 Live Installer Walkthrough](https://www.youtube.com/watch?v=Lj5qHBjSfMo&amp;list=PLT98CRl2KxKHdOpQ-uI2QuNcQ0aEAe5bN&amp;index=55&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [it-inside.org](https://www.youtube.com/@itinsideorg/playlists)
+## [Scripting](https://www.youtube.com/playlist?list=PLWeA3JK7qaiqH4vA78UxoUKsQpFp71bwQ)
+### [Email оповещение в случае неудавшегося бекапа.](https://www.youtube.com/watch?v=SVIfHBsba98&amp;list=PLWeA3JK7qaiqH4vA78UxoUKsQpFp71bwQ&amp;index=27&amp;pp=iAQB)

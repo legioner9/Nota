@@ -1,0 +1,3 @@
+# [Linux Training Center](https://www.youtube.com/@LinuxTrainingCenter/playlists)
+## [Кубернетес (kubernetes) на русском: практика + то что Вам не покажут на курсах. Kubernetes для начинающих.  Kubernetes на русском](https://www.youtube.com/playlist?list=PL5BUU9mMwX6lVh8pK5sMomYWw7SvBnEKc)
+### [5-3-kubernetes. Dynamic NFS provisioner. Кубернетес на русском ( Практический курс по k8s )](https://www.youtube.com/watch?v=LUg8E4OMHTs&amp;list=PL5BUU9mMwX6lVh8pK5sMomYWw7SvBnEKc&amp;index=9&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [Learn Linux TV](https://www.youtube.com/@LearnLinuxTV/playlists)
+## [Interviews](https://www.youtube.com/playlist?list=PLT98CRl2KxKFQzS0-VivyiDzHfxsJ1_yp)
+### [SCaLE 19x - Canonical, AREDN, and System76](https://www.youtube.com/watch?v=fLEhePcd6DI&amp;list=PLT98CRl2KxKFQzS0-VivyiDzHfxsJ1_yp&amp;index=4&amp;pp=iAQB)

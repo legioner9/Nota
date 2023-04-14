@@ -1,0 +1,3 @@
+# [Learn Linux TV](https://www.youtube.com/@LearnLinuxTV/playlists)
+## [Linux Distro Reviews](https://www.youtube.com/playlist?list=PLT98CRl2KxKESwFYdodPEZ42M38c40_3f)
+### [Live-patching QEMU with QEMUCare](https://www.youtube.com/watch?v=CHq1SoL6GJc&amp;list=PLT98CRl2KxKESwFYdodPEZ42M38c40_3f&amp;index=18&amp;pp=iAQB)

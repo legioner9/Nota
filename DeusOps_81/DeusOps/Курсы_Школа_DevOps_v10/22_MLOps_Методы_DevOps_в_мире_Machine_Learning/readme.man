@@ -1,0 +1,3 @@
+# [DeusOps](https://www.youtube.com/@DeusOps/playlists)
+## [Курсы: Школа DevOps v.1.0](https://www.youtube.com/playlist?list=PLGQiJX6wM-zzcPye1y7gpyJO0uH7NMNP7)
+### [MLOps: Методы DevOps в мире Machine Learning](https://www.youtube.com/watch?v=moTvYy7QBk8&amp;list=PLGQiJX6wM-zzcPye1y7gpyJO0uH7NMNP7&amp;index=22&amp;pp=iAQB)

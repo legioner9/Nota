@@ -1,0 +1,3 @@
+# [Kirill Semaev](https://www.youtube.com/@KirillSemaev/playlists)
+## [LPIC-1 (exam 102)](https://www.youtube.com/playlist?list=PLmxB7JSpraieH3aScuPs7h77cSEQvPi2A)
+### [LPIC 108.1 часть первая. Управление системным временем (системные и аппаратные часы)](https://www.youtube.com/watch?v=bgXtQlE4-eM&amp;list=PLmxB7JSpraieH3aScuPs7h77cSEQvPi2A&amp;index=29&amp;pp=iAQB)

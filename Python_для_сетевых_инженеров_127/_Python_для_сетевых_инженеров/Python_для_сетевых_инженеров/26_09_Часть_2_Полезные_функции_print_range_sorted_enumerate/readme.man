@@ -1,0 +1,3 @@
+# [ Python для сетевых инженеров](https://www.youtube.com/@PyNEng/playlists)
+## [Python для сетевых инженеров](https://www.youtube.com/playlist?list=PLah0HUih_ZRljCWNZp2N-YBVkgxiJZWEY)
+### [09 Часть 2. Полезные функции: print, range, sorted, enumerate](https://www.youtube.com/watch?v=o-77kZMLA5w&amp;list=PLah0HUih_ZRljCWNZp2N-YBVkgxiJZWEY&amp;index=26&amp;pp=iAQB)

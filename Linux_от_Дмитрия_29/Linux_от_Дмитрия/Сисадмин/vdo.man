@@ -1,0 +1,3 @@
+### [Очень кратко про DNS + SkyDNS](https://www.youtube.com/watch?v=4QFMKP0aOOk&amp;list=PLOp6AT9LJS_OJXjBC70DBwiaz42uGH4NQ&amp;index=1&amp;pp=iAQB)
+### [Установка Ubuntu 18.04.5 для самых маленьких), бывалым не смотреть).](https://www.youtube.com/watch?v=ZDsbvXY54xk&amp;list=PLOp6AT9LJS_OJXjBC70DBwiaz42uGH4NQ&amp;index=2&amp;pp=iAQB)
+### [Краткий обзор на хранилище секретов KeePassXC](https://www.youtube.com/watch?v=lXP-0AN6u_Y&amp;list=PLOp6AT9LJS_OJXjBC70DBwiaz42uGH4NQ&amp;index=3&amp;pp=iAQB)

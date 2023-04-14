@@ -1,0 +1,3 @@
+# [DKA-DEVELOP](https://www.youtube.com/@DKADEVELOP/playlists?view=1&sort=dd&shelf_id=0)
+## [Docker уроки от А до Я](https://www.youtube.com/playlist?list=PLD5U-C5KK50XMCBkY0U-NLzglcRHzOwAg)
+### [Docker основные команды | уроки docker | #2](https://www.youtube.com/watch?v=XtO3hUWLKF8&amp;list=PLD5U-C5KK50XMCBkY0U-NLzglcRHzOwAg&amp;index=4&amp;pp=iAQB)

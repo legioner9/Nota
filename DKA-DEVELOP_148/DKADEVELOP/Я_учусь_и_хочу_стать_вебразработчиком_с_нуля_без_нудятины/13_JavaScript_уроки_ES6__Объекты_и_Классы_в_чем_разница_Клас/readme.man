@@ -1,0 +1,3 @@
+# [DKA-DEVELOP](https://www.youtube.com/@DKADEVELOP/playlists?view=1&sort=dd&shelf_id=0)
+## [Я учусь и хочу стать веб-разработчиком с нуля без нудятины](https://www.youtube.com/playlist?list=PLD5U-C5KK50UPr4dMcaFxotL_H_uIElOn)
+### [JavaScript уроки ES6 – Объекты и Классы в чем разница, Класс хейтеров [ ДЗ ] 🔊 - #11](https://www.youtube.com/watch?v=wv3mKV_NlCs&amp;list=PLD5U-C5KK50UPr4dMcaFxotL_H_uIElOn&amp;index=13&amp;pp=iAQB)

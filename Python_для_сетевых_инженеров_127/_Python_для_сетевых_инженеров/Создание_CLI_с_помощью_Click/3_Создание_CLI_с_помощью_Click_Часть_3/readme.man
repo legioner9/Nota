@@ -1,0 +1,3 @@
+# [ Python для сетевых инженеров](https://www.youtube.com/@PyNEng/playlists)
+## [Создание CLI с помощью Click](https://www.youtube.com/playlist?list=PLah0HUih_ZRkrS43bjaC8hxwQjcCZhNiM)
+### [Создание CLI с помощью Click. Часть 3](https://www.youtube.com/watch?v=uSmxNrm33wA&amp;list=PLah0HUih_ZRkrS43bjaC8hxwQjcCZhNiM&amp;index=3&amp;pp=iAQB)

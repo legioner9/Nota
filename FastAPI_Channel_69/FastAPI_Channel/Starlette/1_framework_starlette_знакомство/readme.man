@@ -1,0 +1,3 @@
+# [FastAPI Channel](https://www.youtube.com/@FastAPIChannel/playlists?view=1)
+## [Starlette](https://www.youtube.com/playlist?list=PLaED5GKTiQG8sB8wNSMYZXtnW5Hi9etAF)
+### [framework starlette знакомство](https://www.youtube.com/watch?v=bUH--KCgxp0&amp;list=PLaED5GKTiQG8sB8wNSMYZXtnW5Hi9etAF&amp;index=1&amp;pp=iAQB)

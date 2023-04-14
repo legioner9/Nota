@@ -1,0 +1,3 @@
+# [FastAPI Channel](https://www.youtube.com/@FastAPIChannel/playlists?view=1)
+## [WebRTC FastAPI](https://www.youtube.com/playlist?list=PLaED5GKTiQG-WxC8XSRr_6X1EZ9hh4ThX)
+### [webrtc server fastapi streaming video](https://www.youtube.com/watch?v=pcRbE5F3PpY&amp;list=PLaED5GKTiQG-WxC8XSRr_6X1EZ9hh4ThX&amp;index=1&amp;pp=iAQB)

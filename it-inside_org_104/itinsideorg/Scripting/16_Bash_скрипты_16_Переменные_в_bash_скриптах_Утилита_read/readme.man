@@ -1,0 +1,3 @@
+# [it-inside.org](https://www.youtube.com/@itinsideorg/playlists)
+## [Scripting](https://www.youtube.com/playlist?list=PLWeA3JK7qaiqH4vA78UxoUKsQpFp71bwQ)
+### [Bash скрипты 16. Переменные в bash скриптах. Утилита read.](https://www.youtube.com/watch?v=lbEAmz_uoAE&amp;list=PLWeA3JK7qaiqH4vA78UxoUKsQpFp71bwQ&amp;index=16&amp;pp=iAQB)

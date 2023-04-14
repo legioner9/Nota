@@ -1,0 +1,2 @@
+### [What is JSON](https://www.youtube.com/watch?v=USVIMkvqBaQ&amp;list=PLaED5GKTiQG8K9IpglEec5D3mDsUXOyMS&amp;index=1&amp;pp=iAQB)
+### [Библиотека requests python | Урок 21](https://www.youtube.com/watch?v=sFZaaPV4Rqo&amp;list=PLaED5GKTiQG8K9IpglEec5D3mDsUXOyMS&amp;index=2&amp;pp=iAQB)

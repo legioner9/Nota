@@ -1,0 +1,3 @@
+# [Learn Linux TV](https://www.youtube.com/@LearnLinuxTV/playlists)
+## [Raspberry Pi](https://www.youtube.com/playlist?list=PLT98CRl2KxKH0ZbEgVU5E-XOt6dX5oN9k)
+### [Testing the 8GB Raspberry Pi Desktop Kit from CanaKit](https://www.youtube.com/watch?v=V6SmahSVfTQ&amp;list=PLT98CRl2KxKH0ZbEgVU5E-XOt6dX5oN9k&amp;index=16&amp;pp=iAQB)

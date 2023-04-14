@@ -1,0 +1,3 @@
+# [Learn Linux TV](https://www.youtube.com/@LearnLinuxTV/playlists)
+## [Enterprise Linux Security](https://www.youtube.com/playlist?list=PLT98CRl2KxKHgBWIp7XBwVjGf6dmOCj98)
+### [Enterprise Linux Security Episode 38 - De-anonymizing Ransomware Domains](https://www.youtube.com/watch?v=U9FgujH8oys&amp;list=PLT98CRl2KxKHgBWIp7XBwVjGf6dmOCj98&amp;index=39&amp;pp=iAQB)

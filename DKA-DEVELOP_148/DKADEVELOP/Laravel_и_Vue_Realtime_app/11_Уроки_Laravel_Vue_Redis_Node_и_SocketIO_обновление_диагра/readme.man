@@ -1,0 +1,3 @@
+# [DKA-DEVELOP](https://www.youtube.com/@DKADEVELOP/playlists?view=1&sort=dd&shelf_id=0)
+## [Laravel и Vue (Realtime app)](https://www.youtube.com/playlist?list=PLD5U-C5KK50X1KcfueA73sGSjBsd8vgVG)
+### [Уроки Laravel Vue: Redis Node и Socket.IO обновление диаграммы в режиме реального времени | free way](https://www.youtube.com/watch?v=HoSTTfjUGWo&amp;list=PLD5U-C5KK50X1KcfueA73sGSjBsd8vgVG&amp;index=11&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [DKA-DEVELOP](https://www.youtube.com/@DKADEVELOP/playlists?view=1&sort=dd&shelf_id=0)
+## [Laravel echo server - чат | Realtime](https://www.youtube.com/playlist?list=PLD5U-C5KK50WlQNiunPPXSj5jjxVVTPtk)
+### [Уроки Laravel Vue: Laravel echo server - chat (чат) | not pusher | Websocket](https://www.youtube.com/watch?v=m7C_YdeILqY&amp;list=PLD5U-C5KK50WlQNiunPPXSj5jjxVVTPtk&amp;index=1&amp;pp=iAQB)

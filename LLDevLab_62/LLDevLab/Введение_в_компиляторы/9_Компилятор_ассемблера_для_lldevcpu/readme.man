@@ -1,0 +1,3 @@
+# [LLDevLab](https://www.youtube.com/@LLDevLab/playlists)
+## [Введение в компиляторы](https://www.youtube.com/playlist?list=PLeQDJtBkrIiT0TMQ3muv3zvNdsmBZFOR1)
+### [Компилятор ассемблера для lldevcpu](https://www.youtube.com/watch?v=F5k8Nd3cUC0&amp;list=PLeQDJtBkrIiT0TMQ3muv3zvNdsmBZFOR1&amp;index=9&amp;pp=iAQB)

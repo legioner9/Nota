@@ -1,0 +1,3 @@
+# [htmllab](https://www.youtube.com/@HtmllabRu/playlists)
+## [Спонсорам: Jest - фреймворк для тестирования JavaScript [2021]](https://www.youtube.com/playlist?list=PLOQDek48BpZGQDwniQxsyygkdWqeXZyhr)
+### [Jest js #6 mock функции [2021]](https://www.youtube.com/watch?v=uU1szS2igJE&amp;list=PLOQDek48BpZGQDwniQxsyygkdWqeXZyhr&amp;index=6&amp;pp=iAQB)

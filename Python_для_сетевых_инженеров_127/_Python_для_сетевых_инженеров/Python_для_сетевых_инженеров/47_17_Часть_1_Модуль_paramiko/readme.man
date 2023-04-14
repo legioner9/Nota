@@ -1,0 +1,3 @@
+# [ Python для сетевых инженеров](https://www.youtube.com/@PyNEng/playlists)
+## [Python для сетевых инженеров](https://www.youtube.com/playlist?list=PLah0HUih_ZRljCWNZp2N-YBVkgxiJZWEY)
+### [17 Часть 1. Модуль paramiko](https://www.youtube.com/watch?v=MgYdYBOZW48&amp;list=PLah0HUih_ZRljCWNZp2N-YBVkgxiJZWEY&amp;index=47&amp;pp=iAQB)

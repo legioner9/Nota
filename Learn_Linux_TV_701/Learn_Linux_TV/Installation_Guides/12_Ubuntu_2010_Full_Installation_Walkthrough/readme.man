@@ -1,0 +1,3 @@
+# [Learn Linux TV](https://www.youtube.com/@LearnLinuxTV/playlists)
+## [Installation Guides](https://www.youtube.com/playlist?list=PLT98CRl2KxKE4aW2djCtYvl4tXSEnbodB)
+### [Ubuntu 20.10 Full Installation Walkthrough](https://www.youtube.com/watch?v=7M9E02CEon8&amp;list=PLT98CRl2KxKE4aW2djCtYvl4tXSEnbodB&amp;index=12&amp;pp=iAQB)

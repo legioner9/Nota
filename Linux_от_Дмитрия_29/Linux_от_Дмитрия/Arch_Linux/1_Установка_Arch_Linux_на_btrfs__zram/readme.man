@@ -1,0 +1,3 @@
+# [Linux от Дмитрия](https://www.youtube.com/@LinuxbyDmitry/playlists)
+## [Arch Linux](https://www.youtube.com/playlist?list=PLOp6AT9LJS_NSEo-Dai6SIugCvric63Cp)
+### [Установка Arch Linux на btrfs + zram](https://www.youtube.com/watch?v=LOou7lfeODQ&amp;list=PLOp6AT9LJS_NSEo-Dai6SIugCvric63Cp&amp;index=1&amp;pp=iAQB)

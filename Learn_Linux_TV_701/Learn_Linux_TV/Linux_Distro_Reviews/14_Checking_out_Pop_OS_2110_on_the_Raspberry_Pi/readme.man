@@ -1,0 +1,3 @@
+# [Learn Linux TV](https://www.youtube.com/@LearnLinuxTV/playlists)
+## [Linux Distro Reviews](https://www.youtube.com/playlist?list=PLT98CRl2KxKESwFYdodPEZ42M38c40_3f)
+### [Checking out Pop!_OS 21.10 on the Raspberry Pi](https://www.youtube.com/watch?v=tGLzoUdK7rM&amp;list=PLT98CRl2KxKESwFYdodPEZ42M38c40_3f&amp;index=14&amp;pp=iAQB)

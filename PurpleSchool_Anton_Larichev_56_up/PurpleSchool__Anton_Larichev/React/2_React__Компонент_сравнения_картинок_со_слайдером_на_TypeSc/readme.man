@@ -1,0 +1,3 @@
+# [PurpleSchool | Anton Larichev](https://www.youtube.com/@PurpleSchool/playlists)
+## [React](https://www.youtube.com/playlist?list=PLhZj4EWV4TnjtyuzcKCPE_cWJrdvr4fJd)
+### [React - Компонент сравнения картинок со слайдером на TypeScript](https://www.youtube.com/watch?v=b4a7pTN0Xy4&amp;list=PLhZj4EWV4TnjtyuzcKCPE_cWJrdvr4fJd&amp;index=2&amp;pp=iAQB)

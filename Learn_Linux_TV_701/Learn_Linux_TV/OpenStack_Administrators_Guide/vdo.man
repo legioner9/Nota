@@ -1,0 +1,7 @@
+### [OpenStack - The BEST Way to Build Your Own Private Cloud](https://www.youtube.com/watch?v=IseEhw-Dxrc&amp;list=PLT98CRl2KxKHCPoR1nHmG2Tl5Q4r1-aiJ&amp;index=1&amp;pp=iAQB)
+### [Learn OpenStack Episode 1 - Introduction to Private Cloud Administration](https://www.youtube.com/watch?v=NLlZwbFgGjU&amp;list=PLT98CRl2KxKHCPoR1nHmG2Tl5Q4r1-aiJ&amp;index=2&amp;pp=iAQB)
+### [How to Manage OpenStack Private Clouds Episode 2 - How to Launch Compute Instances](https://www.youtube.com/watch?v=D6J4wEn-R0Y&amp;list=PLT98CRl2KxKHCPoR1nHmG2Tl5Q4r1-aiJ&amp;index=3&amp;pp=iAQB)
+### [How to Manage OpenStack Private Clouds Episode 3 - Setting Up Block Storage Volumes](https://www.youtube.com/watch?v=EOZx7VcyfUo&amp;list=PLT98CRl2KxKHCPoR1nHmG2Tl5Q4r1-aiJ&amp;index=4&amp;pp=iAQB)
+### [How to Manage OpenStack Private Clouds Episode 5 - Combining OpenStack and OpenShift](https://www.youtube.com/watch?v=_AXnkP9NNWI&amp;list=PLT98CRl2KxKHCPoR1nHmG2Tl5Q4r1-aiJ&amp;index=5&amp;pp=iAQB)
+### [How to Manage OpenStack Private Clouds Episode 4 - Building Virtual Networks (Neutron)](https://www.youtube.com/watch?v=q9fpUZcmjQo&amp;list=PLT98CRl2KxKHCPoR1nHmG2Tl5Q4r1-aiJ&amp;index=6&amp;pp=iAQB)
+### [How to Manage OpenStack Private Clouds Episode 6 - Automating Cloud Deployments](https://www.youtube.com/watch?v=AH-21FNnGB8&amp;list=PLT98CRl2KxKHCPoR1nHmG2Tl5Q4r1-aiJ&amp;index=7&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [htmllab](https://www.youtube.com/@HtmllabRu/playlists)
+## [Курс MySQL 8](https://www.youtube.com/playlist?list=PLOQDek48BpZFeW02dfJM77FY4Fp5ilJ6n)
+### [3. MySQL 8 - MySQL Workbench 8](https://www.youtube.com/watch?v=EMOKs8_l2WA&amp;list=PLOQDek48BpZFeW02dfJM77FY4Fp5ilJ6n&amp;index=3&amp;pp=iAQB)

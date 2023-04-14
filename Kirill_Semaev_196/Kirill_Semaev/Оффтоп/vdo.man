@@ -1,0 +1,8 @@
+### [Варианты сертификации по Linux](https://www.youtube.com/watch?v=3M8zH_6oN-8&amp;list=PLmxB7JSpraif2Gqqgk4YdmaR5O9-NiUME&amp;index=1&amp;pp=iAQB)
+### [Как защитить данные от произвола рейдеров и прочих настырных лиц](https://www.youtube.com/watch?v=PN1zt-b2gng&amp;list=PLmxB7JSpraif2Gqqgk4YdmaR5O9-NiUME&amp;index=2&amp;pp=iAQB)
+### [Что должен знать сисадмин, часть первая. Железо (АЧ)](https://www.youtube.com/watch?v=sXDZiJWi5QM&amp;list=PLmxB7JSpraif2Gqqgk4YdmaR5O9-NiUME&amp;index=3&amp;pp=iAQB)
+### [Что должен знать сисадмин, часть вторая. Перечень ОС](https://www.youtube.com/watch?v=FaLElr5HkTQ&amp;list=PLmxB7JSpraif2Gqqgk4YdmaR5O9-NiUME&amp;index=4&amp;pp=iAQB)
+### [Что должен знать сисадмин, часть третья. Функции ОС.](https://www.youtube.com/watch?v=hBqAxGdRMnk&amp;list=PLmxB7JSpraif2Gqqgk4YdmaR5O9-NiUME&amp;index=5&amp;pp=iAQB)
+### [Что должен знать сисадмин, часть четвертая. ПО.](https://www.youtube.com/watch?v=juoaNnC6bi4&amp;list=PLmxB7JSpraif2Gqqgk4YdmaR5O9-NiUME&amp;index=6&amp;pp=iAQB)
+### [Что должен знать сисадмин, часть пятая. Сети](https://www.youtube.com/watch?v=0m19eA8ANv8&amp;list=PLmxB7JSpraif2Gqqgk4YdmaR5O9-NiUME&amp;index=7&amp;pp=iAQB)
+### [Стоит ли становиться сисадмином или девопс инженером?](https://www.youtube.com/watch?v=QT5cNrMQBGo&amp;list=PLmxB7JSpraif2Gqqgk4YdmaR5O9-NiUME&amp;index=8&amp;pp=iAQB)

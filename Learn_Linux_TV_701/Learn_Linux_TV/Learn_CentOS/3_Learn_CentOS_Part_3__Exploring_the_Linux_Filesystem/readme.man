@@ -1,0 +1,3 @@
+# [Learn Linux TV](https://www.youtube.com/@LearnLinuxTV/playlists)
+## [Learn CentOS](https://www.youtube.com/playlist?list=PLT98CRl2KxKHjHLIHrmmi5FmBGIZ8cNJE)
+### [Learn CentOS Part 3 - Exploring the Linux Filesystem](https://www.youtube.com/watch?v=_acLAdlRy_I&amp;list=PLT98CRl2KxKHjHLIHrmmi5FmBGIZ8cNJE&amp;index=3&amp;pp=iAQB)

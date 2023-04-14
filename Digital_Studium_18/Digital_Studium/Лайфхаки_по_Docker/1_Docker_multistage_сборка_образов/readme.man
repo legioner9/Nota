@@ -1,0 +1,3 @@
+# [Digital Studium](https://www.youtube.com/@DigitalStudium/playlists)
+## [Лайфхаки по Docker](https://www.youtube.com/playlist?list=PLG9-kxhqAWBLgjAoRfM4yI7hcPmNQilpw)
+### [Docker: multi-stage сборка образов](https://www.youtube.com/watch?v=5yxt2V0jwvQ&amp;list=PLG9-kxhqAWBLgjAoRfM4yI7hcPmNQilpw&amp;index=1&amp;pp=iAQB)

@@ -1,0 +1,8 @@
+### [20160225 «Hacking PostgreSQL» Тема 01 Обзор архитектуры](https://www.youtube.com/watch?v=Z0DL11Xcxs0&amp;list=PLaFqU3KCWw6Jfb8IBNk3hZ07dxMxjfGtv&amp;index=1&amp;pp=iAQB)
+### [20160303 «Hacking PostgreSQL» Тема 02 Сообщество PostgreSQL и инструменты разработчика](https://www.youtube.com/watch?v=xmXrGz0H-Y8&amp;list=PLaFqU3KCWw6Jfb8IBNk3hZ07dxMxjfGtv&amp;index=2&amp;pp=iAQB)
+### [20160310 «Hacking PostgreSQL» Тема 03 Расширения для PostgreSQL](https://www.youtube.com/watch?v=4PipfVlIF6g&amp;list=PLaFqU3KCWw6Jfb8IBNk3hZ07dxMxjfGtv&amp;index=3&amp;pp=iAQB)
+### [20160317 «Hacking PostgreSQL» Тема 04 Обзор исходного кода PostgreSQL](https://www.youtube.com/watch?v=NTgT-6fyEeI&amp;list=PLaFqU3KCWw6Jfb8IBNk3hZ07dxMxjfGtv&amp;index=4&amp;pp=iAQB)
+### [20160324 «Hacking PostgreSQL» Тема 05 Физическое представление данных](https://www.youtube.com/watch?v=z4vYTBuPK2I&amp;list=PLaFqU3KCWw6Jfb8IBNk3hZ07dxMxjfGtv&amp;index=5&amp;pp=iAQB)
+### [20160421 «Hacking PostgreSQL» Тема 06 Разделяемая память и блокировки](https://www.youtube.com/watch?v=R1U8ayT9PaY&amp;list=PLaFqU3KCWw6Jfb8IBNk3hZ07dxMxjfGtv&amp;index=6&amp;pp=iAQB)
+### [20160428 «Hacking PostgreSQL» Тема 07 Локальная память процессов](https://www.youtube.com/watch?v=CVKQOyEAFbQ&amp;list=PLaFqU3KCWw6Jfb8IBNk3hZ07dxMxjfGtv&amp;index=7&amp;pp=iAQB)
+### [20160519 «Hacking PostgreSQL» Тема 08 Базовое устройство планировщика и экзекьютора запросов](https://www.youtube.com/watch?v=RjQEOiWwPHY&amp;list=PLaFqU3KCWw6Jfb8IBNk3hZ07dxMxjfGtv&amp;index=8&amp;pp=iAQB)

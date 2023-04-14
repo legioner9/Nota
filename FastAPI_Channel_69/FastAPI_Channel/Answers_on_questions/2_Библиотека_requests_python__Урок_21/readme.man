@@ -1,0 +1,3 @@
+# [FastAPI Channel](https://www.youtube.com/@FastAPIChannel/playlists?view=1)
+## [Answers on questions](https://www.youtube.com/playlist?list=PLaED5GKTiQG8K9IpglEec5D3mDsUXOyMS)
+### [Библиотека requests python | Урок 21](https://www.youtube.com/watch?v=sFZaaPV4Rqo&amp;list=PLaED5GKTiQG8K9IpglEec5D3mDsUXOyMS&amp;index=2&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [ExtremeCode](https://www.youtube.com/@ExtremeCode/playlists)
+## [C# туториалы](https://www.youtube.com/playlist?list=PLuGqgO5WmeGOHGxaKKIP2GI1AnhkIvxxx)
+### [Делаем Telegram бот на C# и ASP.NET](https://www.youtube.com/watch?v=iOFQ8CyF6wk&amp;list=PLuGqgO5WmeGOHGxaKKIP2GI1AnhkIvxxx&amp;index=2&amp;pp=iAQB)

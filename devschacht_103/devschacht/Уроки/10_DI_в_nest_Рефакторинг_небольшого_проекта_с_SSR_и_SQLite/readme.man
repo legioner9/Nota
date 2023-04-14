@@ -1,0 +1,3 @@
+# [devschacht](https://www.youtube.com/@devschacht/playlists)
+## [Уроки](https://www.youtube.com/playlist?list=PLp4xNfzJ2Gyqc5d-OfsLQx66sLnUAuiI2)
+### [DI в nest. Рефакторинг небольшого проекта с SSR и SQLite](https://www.youtube.com/watch?v=9J3qs76dWYw&amp;list=PLp4xNfzJ2Gyqc5d-OfsLQx66sLnUAuiI2&amp;index=10&amp;pp=iAQB)

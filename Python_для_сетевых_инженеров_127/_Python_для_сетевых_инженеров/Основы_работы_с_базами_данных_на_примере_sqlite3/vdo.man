@@ -1,0 +1,4 @@
+### [12 db sql part 1](https://www.youtube.com/watch?v=X3wfw2dAjws&amp;list=PLah0HUih_ZRlJp_yFqZp4qTCB0BL7V_Ci&amp;index=1&amp;pp=iAQB)
+### [12 db sql part 2 examples](https://www.youtube.com/watch?v=ZlqYUK4HCZs&amp;list=PLah0HUih_ZRlJp_yFqZp4qTCB0BL7V_Ci&amp;index=2&amp;pp=iAQB)
+### [12 db sqlite3 part 1](https://www.youtube.com/watch?v=tPE3rLMGuD4&amp;list=PLah0HUih_ZRlJp_yFqZp4qTCB0BL7V_Ci&amp;index=3&amp;pp=iAQB)
+### [12 db sqlite3 part 2](https://www.youtube.com/watch?v=9EP4wEeCGlA&amp;list=PLah0HUih_ZRlJp_yFqZp4qTCB0BL7V_Ci&amp;index=4&amp;pp=iAQB)

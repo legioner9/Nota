@@ -1,0 +1,3 @@
+# [Hillel IT School](https://www.youtube.com/@HillelITSchool/playlists)
+## [Записи майстер-класів | Python](https://www.youtube.com/playlist?list=PLuEo4W0EBxtUSE284CZmvB1j6xTLtXFy7)
+### [Как парсить данные с сайта на Python](https://www.youtube.com/watch?v=jheHXodMar4&amp;list=PLuEo4W0EBxtUSE284CZmvB1j6xTLtXFy7&amp;index=6&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [Kirill Semaev](https://www.youtube.com/@KirillSemaev/playlists)
+## [Мануалы](https://www.youtube.com/playlist?list=PLmxB7JSpraifsRUrtq2Y-il5NCLc3vKho)
+### [Файловый сервер Samba. Часть седьмая: ввод в домен.](https://www.youtube.com/watch?v=YCZZOhJZ-Gk&amp;list=PLmxB7JSpraifsRUrtq2Y-il5NCLc3vKho&amp;index=8&amp;pp=iAQB)

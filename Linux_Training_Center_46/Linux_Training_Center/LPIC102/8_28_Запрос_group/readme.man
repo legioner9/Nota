@@ -1,0 +1,3 @@
+# [Linux Training Center](https://www.youtube.com/@LinuxTrainingCenter/playlists)
+## [LPIC-102](https://www.youtube.com/playlist?list=PL5BUU9mMwX6mLCD9qz9GaNzJvXZcCVX0L)
+### [2.8 Запрос group](https://www.youtube.com/watch?v=e1PTQS3ht30&amp;list=PL5BUU9mMwX6mLCD9qz9GaNzJvXZcCVX0L&amp;index=8&amp;pp=iAQB)

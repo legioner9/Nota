@@ -1,0 +1,3 @@
+# [DKA-DEVELOP](https://www.youtube.com/@DKADEVELOP/playlists?view=1&sort=dd&shelf_id=0)
+## [Laravel - FAQ](https://www.youtube.com/playlist?list=PLD5U-C5KK50XIzWi-eAXHXHTv-49Ps72d)
+### [Как реализовать загрузку (скачку) файла с вашего сайта на основе Laravel? [ 2 часть - vue ]](https://www.youtube.com/watch?v=hQkezaaQnpg&amp;list=PLD5U-C5KK50XIzWi-eAXHXHTv-49Ps72d&amp;index=10&amp;pp=iAQB)

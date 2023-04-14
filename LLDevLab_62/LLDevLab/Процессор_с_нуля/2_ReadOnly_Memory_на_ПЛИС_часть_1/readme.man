@@ -1,0 +1,3 @@
+# [LLDevLab](https://www.youtube.com/@LLDevLab/playlists)
+## [Процессор с нуля](https://www.youtube.com/playlist?list=PLeQDJtBkrIiQs1huQj_Ien00CnBbMo4Yu)
+### [Read-Only Memory на ПЛИС (часть 1)](https://www.youtube.com/watch?v=tF6RS4PfdT0&amp;list=PLeQDJtBkrIiQs1huQj_Ien00CnBbMo4Yu&amp;index=2&amp;pp=iAQB)

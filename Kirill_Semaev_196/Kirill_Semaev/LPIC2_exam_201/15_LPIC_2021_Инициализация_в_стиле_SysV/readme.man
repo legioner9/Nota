@@ -1,0 +1,3 @@
+# [Kirill Semaev](https://www.youtube.com/@KirillSemaev/playlists)
+## [LPIC-2 (exam 201)](https://www.youtube.com/playlist?list=PLmxB7JSpraidTqByo0ihkyExIbKfAB-B9)
+### [LPIC 202.1 Инициализация в стиле SysV](https://www.youtube.com/watch?v=DSJEpbtitXA&amp;list=PLmxB7JSpraidTqByo0ihkyExIbKfAB-B9&amp;index=15&amp;pp=iAQB)

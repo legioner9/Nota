@@ -1,0 +1,3 @@
+# [htmllab](https://www.youtube.com/@HtmllabRu/playlists)
+## [HTML и CSS меню](https://www.youtube.com/playlist?list=PLOQDek48BpZGigsyHfaleRff8oZCxN4uQ)
+### [Простое выпадающее меню](https://www.youtube.com/watch?v=2o8BcE0XhMY&amp;list=PLOQDek48BpZGigsyHfaleRff8oZCxN4uQ&amp;index=1&amp;pp=iAQB)

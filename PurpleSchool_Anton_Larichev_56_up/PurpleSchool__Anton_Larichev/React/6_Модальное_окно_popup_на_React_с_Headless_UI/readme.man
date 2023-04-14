@@ -1,0 +1,3 @@
+# [PurpleSchool | Anton Larichev](https://www.youtube.com/@PurpleSchool/playlists)
+## [React](https://www.youtube.com/playlist?list=PLhZj4EWV4TnjtyuzcKCPE_cWJrdvr4fJd)
+### [Модальное окно (popup) на React с Headless UI](https://www.youtube.com/watch?v=7bT3BPNhy8g&amp;list=PLhZj4EWV4TnjtyuzcKCPE_cWJrdvr4fJd&amp;index=6&amp;pp=iAQB)

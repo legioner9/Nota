@@ -1,0 +1,3 @@
+# [Learn Linux TV](https://www.youtube.com/@LearnLinuxTV/playlists)
+## [Linux Crash Course](https://www.youtube.com/playlist?list=PLT98CRl2KxKHKd_tH3ssq0HPrThx2hESW)
+### [The cat Command in Linux (Featuring Real Cats) - Linux Crash Course Series](https://www.youtube.com/watch?v=z3nJlyrJYW4&amp;list=PLT98CRl2KxKHKd_tH3ssq0HPrThx2hESW&amp;index=40&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [IPmatika](https://www.youtube.com/@IPmatika/playlists)
+## [Сетевое оборудование Wi-Tek](https://www.youtube.com/playlist?list=PLyM83wOFv2ltxb5vyqT6rrA5B18vXW5Jz)
+### [Демонстрация работы функции Watchdog в PoE-коммутаторах Wi-Tek](https://www.youtube.com/watch?v=2Vwse5sIvnQ&amp;list=PLyM83wOFv2ltxb5vyqT6rrA5B18vXW5Jz&amp;index=11&amp;pp=iAQB)

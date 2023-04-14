@@ -1,0 +1,3 @@
+# [coders science  🇺🇦](https://www.youtube.com/@codersscience7227/playlists)
+## [Rust Lang Уроки. Введение в программирование на Rust](https://www.youtube.com/playlist?list=PLQItjQSK3L9SzibipAA8eI0vmkR6-Omdf)
+### [Введение в программирование на Rust. Настройка окружения. Бонсу видео](https://www.youtube.com/watch?v=gtE-ux0YJMs&amp;list=PLQItjQSK3L9SzibipAA8eI0vmkR6-Omdf&amp;index=4&amp;pp=iAQB)

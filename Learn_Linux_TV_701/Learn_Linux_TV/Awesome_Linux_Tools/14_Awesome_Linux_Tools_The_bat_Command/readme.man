@@ -1,0 +1,3 @@
+# [Learn Linux TV](https://www.youtube.com/@LearnLinuxTV/playlists)
+## [Awesome Linux Tools](https://www.youtube.com/playlist?list=PLT98CRl2KxKGj5QRnY0-gRqPRkjuZXAzO)
+### [Awesome Linux Tools: The bat Command](https://www.youtube.com/watch?v=myg9zTf5aC8&amp;list=PLT98CRl2KxKGj5QRnY0-gRqPRkjuZXAzO&amp;index=14&amp;pp=iAQB)

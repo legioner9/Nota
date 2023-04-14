@@ -1,0 +1,3 @@
+# [PracticU - онлайн IT курсы](https://www.youtube.com/@PracticU2/playlists)
+## [C# для начинающих](https://www.youtube.com/playlist?list=PLrXcA7Ca3B81h6Ygyypl4v1hqK5AEpgqY)
+### [цикл в цикле](https://www.youtube.com/watch?v=2HPVRl5ldoQ&amp;list=PLrXcA7Ca3B81h6Ygyypl4v1hqK5AEpgqY&amp;index=21&amp;pp=iAQB)

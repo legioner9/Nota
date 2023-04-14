@@ -1,0 +1,3 @@
+### [Основы tmux. Часть 1](https://www.youtube.com/watch?v=alqoL8cSADY&amp;list=PLah0HUih_ZRkSAPJyzlk_wU7iVLzGFMAi&amp;index=1&amp;pp=iAQB)
+### [Основы tmux. Часть 2](https://www.youtube.com/watch?v=U9NiafWbW6s&amp;list=PLah0HUih_ZRkSAPJyzlk_wU7iVLzGFMAi&amp;index=2&amp;pp=iAQB)
+### [Tmux. Варианты запуска функции](https://www.youtube.com/watch?v=Cmx_m0sdOlo&amp;list=PLah0HUih_ZRkSAPJyzlk_wU7iVLzGFMAi&amp;index=3&amp;pp=iAQB)

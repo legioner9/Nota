@@ -1,0 +1,3 @@
+# [LLDevLab](https://www.youtube.com/@LLDevLab/playlists)
+## [Ассемблер](https://www.youtube.com/playlist?list=PLeQDJtBkrIiQvx92-9gOHzp6R6utJR-h5)
+### [Ассемблер (целочисленное сложение и вычитание)](https://www.youtube.com/watch?v=VjHefzbGJgQ&amp;list=PLeQDJtBkrIiQvx92-9gOHzp6R6utJR-h5&amp;index=9&amp;pp=iAQB)

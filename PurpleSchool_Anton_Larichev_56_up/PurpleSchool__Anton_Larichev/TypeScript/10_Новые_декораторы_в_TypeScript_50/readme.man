@@ -1,0 +1,3 @@
+# [PurpleSchool | Anton Larichev](https://www.youtube.com/@PurpleSchool/playlists)
+## [TypeScript](https://www.youtube.com/playlist?list=PLhZj4EWV4TnghGTR9Z36H40Mv4gyytjco)
+### [Новые декораторы в TypeScript 5.0!](https://www.youtube.com/watch?v=-ZFprXU3-RA&amp;list=PLhZj4EWV4TnghGTR9Z36H40Mv4gyytjco&amp;index=10&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [htmllab](https://www.youtube.com/@HtmllabRu/playlists)
+## [Курс MySQL 8](https://www.youtube.com/playlist?list=PLOQDek48BpZFeW02dfJM77FY4Fp5ilJ6n)
+### [13. MySQL 8 - Foreign keys   внешние ключи](https://www.youtube.com/watch?v=4lYs-LsgY0c&amp;list=PLOQDek48BpZFeW02dfJM77FY4Fp5ilJ6n&amp;index=13&amp;pp=iAQB)

@@ -1,0 +1,8 @@
+### [Урок 1: Вступление. Разработка инфопортала на битрикс](https://www.youtube.com/watch?v=m_mca1He63k&amp;list=PL8CIWP7ylJEOL1xBBU5AJ4paYNGUU-8BN&amp;index=1&amp;pp=iAQB)
+### [Урок 2: Базовая верстка макета инфопортала на 1С-Битрикс](https://www.youtube.com/watch?v=aueugxYUzCw&amp;list=PL8CIWP7ylJEOL1xBBU5AJ4paYNGUU-8BN&amp;index=2&amp;pp=iAQB)
+### [Урок 3: Вывод меню и создание основной структуры инфопортала на битрикс](https://www.youtube.com/watch?v=UaW5nCHvY5M&amp;list=PL8CIWP7ylJEOL1xBBU5AJ4paYNGUU-8BN&amp;index=3&amp;pp=iAQB)
+### [Урок 4: Создание инфоблока статей и вывод на сайт.](https://www.youtube.com/watch?v=BpO5nUb3rVI&amp;list=PL8CIWP7ylJEOL1xBBU5AJ4paYNGUU-8BN&amp;index=4&amp;pp=iAQB)
+### [Урок 6: Верстка основного меню, вывод дополнительных типов меню](https://www.youtube.com/watch?v=M63Rx38Bvy8&amp;list=PL8CIWP7ylJEOL1xBBU5AJ4paYNGUU-8BN&amp;index=5&amp;pp=iAQB)
+### [Урок 7: Вывод формы авторизации и верстка компонента авторизации](https://www.youtube.com/watch?v=YtivjqATDkY&amp;list=PL8CIWP7ylJEOL1xBBU5AJ4paYNGUU-8BN&amp;index=6&amp;pp=iAQB)
+### [Урок 8: Вывод статей с комментариями и настройка форума](https://www.youtube.com/watch?v=vPJUFbpXb2I&amp;list=PL8CIWP7ylJEOL1xBBU5AJ4paYNGUU-8BN&amp;index=7&amp;pp=iAQB)
+### [Урок 9: подготовка персонального раздела пользователя](https://www.youtube.com/watch?v=JU8HuQEfaD8&amp;list=PL8CIWP7ylJEOL1xBBU5AJ4paYNGUU-8BN&amp;index=8&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [ExtremeCode](https://www.youtube.com/@ExtremeCode/playlists)
+## [Паттерны для самых маленьких](https://www.youtube.com/playlist?list=PLuGqgO5WmeGOGGbaBwJvvQ7_Su6cIBc8C)
+### [Отношения между классами и объектами](https://www.youtube.com/watch?v=mZ_RU3fCOq4&amp;list=PLuGqgO5WmeGOGGbaBwJvvQ7_Su6cIBc8C&amp;index=2&amp;pp=iAQB)

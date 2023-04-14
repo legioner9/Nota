@@ -1,0 +1,4 @@
+### [spread на страже порядка, самое подробное объяснение](https://www.youtube.com/watch?v=MQjnsRLyaEY&amp;list=PLdRkxc5c2e3l1h_7hWDShYEcQUBrLFKc6&amp;index=1&amp;pp=iAQB)
+### [JavaScript Express, your first Web Server, твой первый веб сервер](https://www.youtube.com/watch?v=lEVlb9AWJew&amp;list=PLdRkxc5c2e3l1h_7hWDShYEcQUBrLFKc6&amp;index=2&amp;pp=iAQB)
+### [Подготовка к javaScript express, настройка каталога установка пакетов](https://www.youtube.com/watch?v=D3A0xgIdkng&amp;list=PLdRkxc5c2e3l1h_7hWDShYEcQUBrLFKc6&amp;index=3&amp;pp=iAQB)
+### [Подкаст, по массивам. Посиделки за 07.04.2023](https://www.youtube.com/watch?v=Dmy4VahhJHo&amp;list=PLdRkxc5c2e3l1h_7hWDShYEcQUBrLFKc6&amp;index=4&amp;pp=iAQB)

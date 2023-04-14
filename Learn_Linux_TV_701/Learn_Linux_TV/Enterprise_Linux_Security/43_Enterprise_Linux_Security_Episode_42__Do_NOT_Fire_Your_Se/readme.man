@@ -1,0 +1,3 @@
+# [Learn Linux TV](https://www.youtube.com/@LearnLinuxTV/playlists)
+## [Enterprise Linux Security](https://www.youtube.com/playlist?list=PLT98CRl2KxKHgBWIp7XBwVjGf6dmOCj98)
+### [Enterprise Linux Security Episode 42 - Do NOT Fire Your Security Team!](https://www.youtube.com/watch?v=t7LUa-q101s&amp;list=PLT98CRl2KxKHgBWIp7XBwVjGf6dmOCj98&amp;index=43&amp;pp=iAQB)

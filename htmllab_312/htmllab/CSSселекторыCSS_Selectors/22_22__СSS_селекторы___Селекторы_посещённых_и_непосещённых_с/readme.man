@@ -1,0 +1,3 @@
+# [htmllab](https://www.youtube.com/@HtmllabRu/playlists)
+## [CSS-селекторы/CSS Selectors](https://www.youtube.com/playlist?list=PLOQDek48BpZFC6sSFRsok97gaEZV6CVf_)
+### [22 - СSS селекторы  - Селекторы посещённых и непосещённых ссылок   :link :visited](https://www.youtube.com/watch?v=gIWZ1EOqrHQ&amp;list=PLOQDek48BpZFC6sSFRsok97gaEZV6CVf_&amp;index=22&amp;pp=iAQB)

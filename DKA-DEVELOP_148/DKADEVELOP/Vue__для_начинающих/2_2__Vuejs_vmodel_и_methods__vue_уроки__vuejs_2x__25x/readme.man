@@ -1,0 +1,3 @@
+# [DKA-DEVELOP](https://www.youtube.com/@DKADEVELOP/playlists?view=1&sort=dd&shelf_id=0)
+## [Vue - для начинающих](https://www.youtube.com/playlist?list=PLD5U-C5KK50UFbtFxPKlayhdZlOEpWuea)
+### [#2 - Vue.js v-model и methods | vue уроки | vue.js 2.x | 2.5.x](https://www.youtube.com/watch?v=mYcOBwn7Ji4&amp;list=PLD5U-C5KK50UFbtFxPKlayhdZlOEpWuea&amp;index=2&amp;pp=iAQB)

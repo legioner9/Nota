@@ -1,0 +1,7 @@
+### [Docker Essentials (Part 1) - Introduction](https://www.youtube.com/watch?v=WpwtzQq5Er4&amp;list=PLT98CRl2KxKECHltRib03tG8pyKEzwf9t&amp;index=1&amp;pp=iAQB)
+### [Docker Essentials (Part 2) - What is Docker?](https://www.youtube.com/watch?v=CZIGEjMrzd8&amp;list=PLT98CRl2KxKECHltRib03tG8pyKEzwf9t&amp;index=2&amp;pp=iAQB)
+### [Docker Essentials (Part 3) - Installing Docker on Windows 10, macOS, and Ubuntu](https://www.youtube.com/watch?v=PgR3Wc4_X1g&amp;list=PLT98CRl2KxKECHltRib03tG8pyKEzwf9t&amp;index=3&amp;pp=iAQB)
+### [Docker Essentials (Part 4) - Running Containers](https://www.youtube.com/watch?v=VevE65N3BOs&amp;list=PLT98CRl2KxKECHltRib03tG8pyKEzwf9t&amp;index=4&amp;pp=iAQB)
+### [Docker Essentials (Part 5) - Making Containers Persist](https://www.youtube.com/watch?v=sOchDelOAIU&amp;list=PLT98CRl2KxKECHltRib03tG8pyKEzwf9t&amp;index=5&amp;pp=iAQB)
+### [Docker Essentials (Part 6) - Accessing Containerized Apps](https://www.youtube.com/watch?v=iXD5FnJYZB4&amp;list=PLT98CRl2KxKECHltRib03tG8pyKEzwf9t&amp;index=6&amp;pp=iAQB)
+### [Docker Essentials (Part 7) - Creating Images](https://www.youtube.com/watch?v=IY1dwuOdeLU&amp;list=PLT98CRl2KxKECHltRib03tG8pyKEzwf9t&amp;index=7&amp;pp=iAQB)

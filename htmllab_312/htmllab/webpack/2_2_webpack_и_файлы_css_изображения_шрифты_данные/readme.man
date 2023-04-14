@@ -1,0 +1,3 @@
+# [htmllab](https://www.youtube.com/@HtmllabRu/playlists)
+## [webpack](https://www.youtube.com/playlist?list=PLOQDek48BpZFadeo_SJUNDggOKouA-nyM)
+### [2. webpack и файлы: css, изображения, шрифты, данные](https://www.youtube.com/watch?v=kWzcsOcpHog&amp;list=PLOQDek48BpZFadeo_SJUNDggOKouA-nyM&amp;index=2&amp;pp=iAQB)

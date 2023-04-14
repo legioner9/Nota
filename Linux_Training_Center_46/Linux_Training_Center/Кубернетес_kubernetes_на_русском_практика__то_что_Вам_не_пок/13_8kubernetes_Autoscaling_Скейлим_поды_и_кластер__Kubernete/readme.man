@@ -1,0 +1,3 @@
+# [Linux Training Center](https://www.youtube.com/@LinuxTrainingCenter/playlists)
+## [Кубернетес (kubernetes) на русском: практика + то что Вам не покажут на курсах. Kubernetes для начинающих.  Kubernetes на русском](https://www.youtube.com/playlist?list=PL5BUU9mMwX6lVh8pK5sMomYWw7SvBnEKc)
+### [8-kubernetes. Autoscaling. Скейлим поды и кластер . Kubernetes на русском](https://www.youtube.com/watch?v=FEZF8I7CQ9o&amp;list=PL5BUU9mMwX6lVh8pK5sMomYWw7SvBnEKc&amp;index=13&amp;pp=iAQB)

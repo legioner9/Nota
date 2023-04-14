@@ -1,0 +1,3 @@
+# [Learn Linux TV](https://www.youtube.com/@LearnLinuxTV/playlists)
+## [Full Guides](https://www.youtube.com/playlist?list=PLT98CRl2KxKFfumnJiR8FxBsbJepGgMoN)
+### [Building a 10-Node Kubernetes Cluster on Raspberry Pi &amp; Ubuntu Server](https://www.youtube.com/watch?v=MO8N79lQSWU&amp;list=PLT98CRl2KxKFfumnJiR8FxBsbJepGgMoN&amp;index=11&amp;pp=iAQB)

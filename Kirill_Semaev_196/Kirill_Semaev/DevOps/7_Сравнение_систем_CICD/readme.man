@@ -1,0 +1,3 @@
+# [Kirill Semaev](https://www.youtube.com/@KirillSemaev/playlists)
+## [DevOps](https://www.youtube.com/playlist?list=PLmxB7JSpraieS8C58ewR7fdTu5fS3z7HG)
+### [Сравнение систем CI/CD](https://www.youtube.com/watch?v=7SM8GLArTDY&amp;list=PLmxB7JSpraieS8C58ewR7fdTu5fS3z7HG&amp;index=7&amp;pp=iAQB)

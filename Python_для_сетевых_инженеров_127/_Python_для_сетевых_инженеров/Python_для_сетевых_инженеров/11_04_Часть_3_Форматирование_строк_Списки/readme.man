@@ -1,0 +1,3 @@
+# [ Python для сетевых инженеров](https://www.youtube.com/@PyNEng/playlists)
+## [Python для сетевых инженеров](https://www.youtube.com/playlist?list=PLah0HUih_ZRljCWNZp2N-YBVkgxiJZWEY)
+### [04 Часть 3. Форматирование строк. Списки](https://www.youtube.com/watch?v=GGy5fA7dRTw&amp;list=PLah0HUih_ZRljCWNZp2N-YBVkgxiJZWEY&amp;index=11&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [ExtremeCode](https://www.youtube.com/@ExtremeCode/playlists)
+## [Объектно-Ориентированное Программирование](https://www.youtube.com/playlist?list=PLuGqgO5WmeGNfv1bKapoNslmBoWcbrdgo)
+### [Большие проблемы наследования в ООП](https://www.youtube.com/watch?v=-n6784KeQMs&amp;list=PLuGqgO5WmeGNfv1bKapoNslmBoWcbrdgo&amp;index=6&amp;pp=iAQB)

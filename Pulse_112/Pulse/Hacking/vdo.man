@@ -1,0 +1,8 @@
+### [Основы Burp Suite. Что это и как им пользоваться](https://www.youtube.com/watch?v=PBwuawb_Oic&amp;list=PLAixKCwWV1dAqYUWhMNqOP5t8000pcbTr&amp;index=1&amp;pp=iAQB)
+### [Shodan. Поиск в глубинах интернета](https://www.youtube.com/watch?v=bwCP-bEHGsQ&amp;list=PLAixKCwWV1dAqYUWhMNqOP5t8000pcbTr&amp;index=2&amp;pp=iAQB)
+### [Разведка сайтов. Как искать файлы и каталоги на сервере](https://www.youtube.com/watch?v=ud4O-6i8EoI&amp;list=PLAixKCwWV1dAqYUWhMNqOP5t8000pcbTr&amp;index=3&amp;pp=iAQB)
+### [Nmap Script Engine. Как использовать скрипты Nmap](https://www.youtube.com/watch?v=ym7G3KOkozI&amp;list=PLAixKCwWV1dAqYUWhMNqOP5t8000pcbTr&amp;index=4&amp;pp=iAQB)
+### [Как использовать Nmap. Подробная инструкция](https://www.youtube.com/watch?v=Kfirh8cC-JI&amp;list=PLAixKCwWV1dAqYUWhMNqOP5t8000pcbTr&amp;index=5&amp;pp=iAQB)
+### [Обзор хакерских гаджетов. Как и где использовать Raspberry Pi 4](https://www.youtube.com/watch?v=B5AHlE1wx6A&amp;list=PLAixKCwWV1dAqYUWhMNqOP5t8000pcbTr&amp;index=6&amp;pp=iAQB)
+### [Криптография для хакеров. Основы алгоритмов шифрования](https://www.youtube.com/watch?v=C_78gwuY1mE&amp;list=PLAixKCwWV1dAqYUWhMNqOP5t8000pcbTr&amp;index=7&amp;pp=iAQB)
+### [Как стать хакером. Что должен знать и уметь настоящий хакер](https://www.youtube.com/watch?v=F4-GAhxQv7M&amp;list=PLAixKCwWV1dAqYUWhMNqOP5t8000pcbTr&amp;index=8&amp;pp=iAQB)

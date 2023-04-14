@@ -1,0 +1,3 @@
+# [PurpleSchool | Anton Larichev](https://www.youtube.com/@PurpleSchool/playlists)
+## [TypeScript](https://www.youtube.com/playlist?list=PLhZj4EWV4TnghGTR9Z36H40Mv4gyytjco)
+### [TypeScript 4.9 - satisfies, улучшение in и NaN](https://www.youtube.com/watch?v=_2dHNunUPII&amp;list=PLhZj4EWV4TnghGTR9Z36H40Mv4gyytjco&amp;index=6&amp;pp=iAQB)

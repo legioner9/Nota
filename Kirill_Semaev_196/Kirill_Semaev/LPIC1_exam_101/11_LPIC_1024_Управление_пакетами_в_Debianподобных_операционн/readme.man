@@ -1,0 +1,3 @@
+# [Kirill Semaev](https://www.youtube.com/@KirillSemaev/playlists)
+## [LPIC-1 (exam 101)](https://www.youtube.com/playlist?list=PLmxB7JSpraiep6kr802UDqiAIU-76nGfc)
+### [LPIC 102.4 Управление пакетами в Debian-подобных операционных системах](https://www.youtube.com/watch?v=_zgRUYLJa4w&amp;list=PLmxB7JSpraiep6kr802UDqiAIU-76nGfc&amp;index=11&amp;pp=iAQB)

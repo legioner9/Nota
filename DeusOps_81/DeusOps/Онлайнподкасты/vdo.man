@@ -1,0 +1,4 @@
+### [Стрим: Обсуждаем State of DevOps 2022](https://www.youtube.com/watch?v=GsxBQRAH-hI&amp;list=PLGQiJX6wM-zzBsJFuwzu0RYvbOR2SNHGO&amp;index=1&amp;pp=iAQB)
+### [DevSecOps - что дальше?](https://www.youtube.com/watch?v=XIaIZvYRHow&amp;list=PLGQiJX6wM-zzBsJFuwzu0RYvbOR2SNHGO&amp;index=2&amp;pp=iAQB)
+### [Стрим: &quot;Что не так с моим резюме&quot;?](https://www.youtube.com/watch?v=p8hZQ6s30l0&amp;list=PLGQiJX6wM-zzBsJFuwzu0RYvbOR2SNHGO&amp;index=3&amp;pp=iAQB)
+### [Куда уехать айтишнику? Стоит ли уезжать программисту сейчас?](https://www.youtube.com/watch?v=-pc-XnzXWBA&amp;list=PLGQiJX6wM-zzBsJFuwzu0RYvbOR2SNHGO&amp;index=4&amp;pp=iAQB)

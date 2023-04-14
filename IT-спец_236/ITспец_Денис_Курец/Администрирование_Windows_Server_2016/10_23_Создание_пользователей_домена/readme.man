@@ -1,0 +1,3 @@
+# [IT-спец. Денис Курец](https://www.youtube.com/@kurets/playlists)
+## [Администрирование Windows Server 2016](https://www.youtube.com/playlist?list=PLpATPij5aov6-L1f8iYb8S9f_7LHBmqsE)
+### [2.3. Создание пользователей домена](https://www.youtube.com/watch?v=C9Qk2bk9ufM&amp;list=PLpATPij5aov6-L1f8iYb8S9f_7LHBmqsE&amp;index=10&amp;pp=iAQB)

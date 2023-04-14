@@ -1,0 +1,3 @@
+# [htmllab](https://www.youtube.com/@HtmllabRu/playlists)
+## [MySQL строковые функции](https://www.youtube.com/playlist?list=PLOQDek48BpZGKGgZ0jtI7-1QKiLojlmai)
+### [MySQL quote строковая функция](https://www.youtube.com/watch?v=LGKJuAfYZNY&amp;list=PLOQDek48BpZGKGgZ0jtI7-1QKiLojlmai&amp;index=30&amp;pp=iAQB)

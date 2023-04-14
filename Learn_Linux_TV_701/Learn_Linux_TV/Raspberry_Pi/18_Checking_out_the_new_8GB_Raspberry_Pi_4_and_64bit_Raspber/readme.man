@@ -1,0 +1,3 @@
+# [Learn Linux TV](https://www.youtube.com/@LearnLinuxTV/playlists)
+## [Raspberry Pi](https://www.youtube.com/playlist?list=PLT98CRl2KxKH0ZbEgVU5E-XOt6dX5oN9k)
+### [Checking out the new 8GB Raspberry Pi 4 and 64-bit Raspberry Pi OS Beta](https://www.youtube.com/watch?v=TLD1aYOHquk&amp;list=PLT98CRl2KxKH0ZbEgVU5E-XOt6dX5oN9k&amp;index=18&amp;pp=iAQB)

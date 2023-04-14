@@ -1,0 +1,2 @@
+### [Чтение данных по i2c (часть 1)](https://www.youtube.com/watch?v=YL_66MFhapA&amp;list=PLeQDJtBkrIiQrtILpZutZUs3gbbYWFK1n&amp;index=1&amp;pp=iAQB)
+### [Чтение данных по i2c (часть 2)](https://www.youtube.com/watch?v=jrCVhgbIJ88&amp;list=PLeQDJtBkrIiQrtILpZutZUs3gbbYWFK1n&amp;index=2&amp;pp=iAQB)

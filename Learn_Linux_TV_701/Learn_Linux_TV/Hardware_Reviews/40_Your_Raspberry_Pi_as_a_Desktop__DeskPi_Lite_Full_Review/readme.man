@@ -1,0 +1,3 @@
+# [Learn Linux TV](https://www.youtube.com/@LearnLinuxTV/playlists)
+## [Hardware Reviews](https://www.youtube.com/playlist?list=PLT98CRl2KxKFrdWvtDwF4axcHDkLwT3Op)
+### [Your Raspberry Pi as a Desktop - DeskPi Lite Full Review](https://www.youtube.com/watch?v=IIlwBCVOtgk&amp;list=PLT98CRl2KxKFrdWvtDwF4axcHDkLwT3Op&amp;index=40&amp;pp=iAQB)

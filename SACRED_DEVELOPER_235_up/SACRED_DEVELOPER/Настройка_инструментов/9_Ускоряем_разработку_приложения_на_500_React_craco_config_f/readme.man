@@ -1,0 +1,3 @@
+# [SACRED DEVELOPER](https://www.youtube.com/@SACREDDEVELOPER/playlists?view=1&sort=dd&shelf_id=0)
+## [Настройка инструментов](https://www.youtube.com/playlist?list=PLdRkxc5c2e3khVAa0e1H-IjheRxDsmDt0)
+### [Ускоряем разработку приложения на 500%. React craco config, full manual. Настройка craco](https://www.youtube.com/watch?v=UBaRieZLKxc&amp;list=PLdRkxc5c2e3khVAa0e1H-IjheRxDsmDt0&amp;index=9&amp;pp=iAQB)

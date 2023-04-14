@@ -1,0 +1,3 @@
+### [Митап «Встречаем PostgreSQL 10» Олег Бартунов «Новое в PostgreSQL 10.0»](https://www.youtube.com/watch?v=s9UpWaBZum8&amp;list=PLaFqU3KCWw6LwnXTCTTN_lJhC7aWEemAR&amp;index=1&amp;pp=iAQB)
+### [Митап «Встречаем PostgreSQL 10» Дмитрий Иванов «Секционирование таблиц в PostgreSQL»](https://www.youtube.com/watch?v=sjtjmkT0OJI&amp;list=PLaFqU3KCWw6LwnXTCTTN_lJhC7aWEemAR&amp;index=2&amp;pp=iAQB)
+### [Митап «Встречаем PostgreSQL 10» Иван Картышов «ProBackup: Как правильно делать бэкап PostgreSQL»](https://www.youtube.com/watch?v=xkW8QA2rIL8&amp;list=PLaFqU3KCWw6LwnXTCTTN_lJhC7aWEemAR&amp;index=3&amp;pp=iAQB)

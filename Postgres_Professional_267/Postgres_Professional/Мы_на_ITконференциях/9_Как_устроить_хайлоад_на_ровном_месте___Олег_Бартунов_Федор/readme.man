@@ -1,0 +1,3 @@
+# [Postgres Professional](https://www.youtube.com/@PostgresProfessional/playlists?view=1)
+## [Мы на IT-конференциях](https://www.youtube.com/playlist?list=PLaFqU3KCWw6IAIcdbXWxeSp59bT0ZM6JW)
+### [Как устроить хайлоад на ровном месте  / Олег Бартунов, Федор Сигаев](https://www.youtube.com/watch?v=jcCLqVQs5No&amp;list=PLaFqU3KCWw6IAIcdbXWxeSp59bT0ZM6JW&amp;index=9&amp;pp=iAQB)

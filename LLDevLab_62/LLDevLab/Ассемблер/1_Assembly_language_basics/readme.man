@@ -1,0 +1,3 @@
+# [LLDevLab](https://www.youtube.com/@LLDevLab/playlists)
+## [Ассемблер](https://www.youtube.com/playlist?list=PLeQDJtBkrIiQvx92-9gOHzp6R6utJR-h5)
+### [Assembly language basics](https://www.youtube.com/watch?v=-sWD-5s4Sc4&amp;list=PLeQDJtBkrIiQvx92-9gOHzp6R6utJR-h5&amp;index=1&amp;pp=iAQB)

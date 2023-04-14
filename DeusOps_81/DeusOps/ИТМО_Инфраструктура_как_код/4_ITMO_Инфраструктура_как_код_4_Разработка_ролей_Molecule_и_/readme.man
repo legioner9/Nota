@@ -1,0 +1,3 @@
+# [DeusOps](https://www.youtube.com/@DeusOps/playlists)
+## [ИТМО: Инфраструктура как код](https://www.youtube.com/playlist?list=PLGQiJX6wM-zz5xbRH_RnQu5SSVyFf0Ftc)
+### [ITMO, Инфраструктура как код #4: Разработка ролей: Molecule и Galaxy](https://www.youtube.com/watch?v=1ANRPg17fpU&amp;list=PLGQiJX6wM-zz5xbRH_RnQu5SSVyFf0Ftc&amp;index=4&amp;pp=iAQB)

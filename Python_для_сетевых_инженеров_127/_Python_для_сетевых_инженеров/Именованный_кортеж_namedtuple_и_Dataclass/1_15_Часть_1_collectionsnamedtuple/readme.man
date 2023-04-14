@@ -1,0 +1,3 @@
+# [ Python для сетевых инженеров](https://www.youtube.com/@PyNEng/playlists)
+## [Именованный кортеж (namedtuple) и Dataclass](https://www.youtube.com/playlist?list=PLah0HUih_ZRnyfizwF6clCjbW8tyUC-Z4)
+### [15 Часть 1. collections.namedtuple](https://www.youtube.com/watch?v=zVWojp0Z8G8&amp;list=PLah0HUih_ZRnyfizwF6clCjbW8tyUC-Z4&amp;index=1&amp;pp=iAQB)

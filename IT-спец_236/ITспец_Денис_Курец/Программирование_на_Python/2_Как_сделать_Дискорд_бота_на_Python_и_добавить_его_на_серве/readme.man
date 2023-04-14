@@ -1,0 +1,3 @@
+# [IT-спец. Денис Курец](https://www.youtube.com/@kurets/playlists)
+## [Программирование на Python](https://www.youtube.com/playlist?list=PLpATPij5aov5NpZ6HHJH4D8EFQbzQDPlf)
+### [Как сделать Дискорд бота на Python и добавить его на сервер?](https://www.youtube.com/watch?v=O5d_tolJebc&amp;list=PLpATPij5aov5NpZ6HHJH4D8EFQbzQDPlf&amp;index=2&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [DKA-DEVELOP](https://www.youtube.com/@DKADEVELOP/playlists?view=1&sort=dd&shelf_id=0)
+## [Laravel Queue | Laravel очереди / Laravel Jobs](https://www.youtube.com/playlist?list=PLD5U-C5KK50Xo5mG_JPzyjIv-d3R7gqGH)
+### [Laravel очереди: автостарт после перезагрузки сервера, вылета процесса и на vps | Supervisor](https://www.youtube.com/watch?v=eqKEbJzkpGc&amp;list=PLD5U-C5KK50Xo5mG_JPzyjIv-d3R7gqGH&amp;index=5&amp;pp=iAQB)

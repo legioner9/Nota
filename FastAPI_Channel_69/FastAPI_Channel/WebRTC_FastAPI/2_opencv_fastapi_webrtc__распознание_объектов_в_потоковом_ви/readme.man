@@ -1,0 +1,3 @@
+# [FastAPI Channel](https://www.youtube.com/@FastAPIChannel/playlists?view=1)
+## [WebRTC FastAPI](https://www.youtube.com/playlist?list=PLaED5GKTiQG-WxC8XSRr_6X1EZ9hh4ThX)
+### [opencv fastapi webrtc | распознание объектов в потоковом видео](https://www.youtube.com/watch?v=PNn_kU0JFT0&amp;list=PLaED5GKTiQG-WxC8XSRr_6X1EZ9hh4ThX&amp;index=2&amp;pp=iAQB)

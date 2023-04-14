@@ -1,0 +1,3 @@
+# [ Python для сетевых инженеров](https://www.youtube.com/@PyNEng/playlists)
+## [Python для сетевых инженеров](https://www.youtube.com/playlist?list=PLah0HUih_ZRljCWNZp2N-YBVkgxiJZWEY)
+### [05 Часть 2. Кортежи, множества, булевы значения, преобразование и проверка типов данных](https://www.youtube.com/watch?v=cISqkbl6Pto&amp;list=PLah0HUih_ZRljCWNZp2N-YBVkgxiJZWEY&amp;index=14&amp;pp=iAQB)

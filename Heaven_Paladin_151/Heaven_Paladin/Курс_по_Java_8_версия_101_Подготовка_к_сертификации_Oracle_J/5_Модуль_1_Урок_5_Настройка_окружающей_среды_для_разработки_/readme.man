@@ -1,0 +1,3 @@
+# [Heaven Paladin](https://www.youtube.com/@HeavenPaladin/playlists?view=1)
+## [Курс по Java 8 (версия 101). Подготовка к сертификации Oracle Java.](https://www.youtube.com/playlist?list=PLUSohJYRsRBjSNK2p4p6xn5Z_I4ECCHQ1)
+### [Модуль 1. Урок 5. Настройка окружающей среды для разработки на языке Java.](https://www.youtube.com/watch?v=myodoR2Qxv0&amp;list=PLUSohJYRsRBjSNK2p4p6xn5Z_I4ECCHQ1&amp;index=5&amp;pp=iAQB)

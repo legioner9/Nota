@@ -1,0 +1,3 @@
+# [DeusOps](https://www.youtube.com/@DeusOps/playlists)
+## [Онлайн-трансляции / Воркшопы](https://www.youtube.com/playlist?list=PLGQiJX6wM-zwgtfx9nEaZma2RCzGTSSHV)
+### [Пишем урок по Ansible-ролям для курса по DevOps](https://www.youtube.com/watch?v=tHVqGNgxsF8&amp;list=PLGQiJX6wM-zwgtfx9nEaZma2RCzGTSSHV&amp;index=5&amp;pp=iAQB)

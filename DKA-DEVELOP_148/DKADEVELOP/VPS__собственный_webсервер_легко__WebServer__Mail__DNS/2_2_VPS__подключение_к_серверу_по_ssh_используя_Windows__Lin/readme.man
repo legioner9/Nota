@@ -1,0 +1,3 @@
+# [DKA-DEVELOP](https://www.youtube.com/@DKADEVELOP/playlists?view=1&sort=dd&shelf_id=0)
+## [VPS - собственный web-сервер легко | Web-Server | Mail | DNS](https://www.youtube.com/playlist?list=PLD5U-C5KK50VSpG0nciGKnLQuaqrAYmyP)
+### [#2 VPS - подключение к серверу по ssh используя Windows | Linux](https://www.youtube.com/watch?v=_-AmGAfTWA8&amp;list=PLD5U-C5KK50VSpG0nciGKnLQuaqrAYmyP&amp;index=2&amp;pp=iAQB)

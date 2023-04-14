@@ -1,0 +1,3 @@
+# [FastAPI Channel](https://www.youtube.com/@FastAPIChannel/playlists?view=1)
+## [Разработка  проекта "Useful"](https://www.youtube.com/playlist?list=PLaED5GKTiQG-Pdchwal9Yx-0N3q8gn0dm)
+### [Приложение для проектов с github](https://www.youtube.com/watch?v=7zEQ5PaJuSM&amp;list=PLaED5GKTiQG-Pdchwal9Yx-0N3q8gn0dm&amp;index=9&amp;pp=iAQB)

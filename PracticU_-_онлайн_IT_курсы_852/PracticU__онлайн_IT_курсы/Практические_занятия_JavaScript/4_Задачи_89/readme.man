@@ -1,0 +1,3 @@
+# [PracticU - онлайн IT курсы](https://www.youtube.com/@PracticU2/playlists)
+## [Практические занятия JavaScript](https://www.youtube.com/playlist?list=PLrXcA7Ca3B83M9i6d_x6nbv4zhu4Ek-Vu)
+### [Задачи 8-9](https://www.youtube.com/watch?v=Jxw7OALz_lM&amp;list=PLrXcA7Ca3B83M9i6d_x6nbv4zhu4Ek-Vu&amp;index=4&amp;pp=iAQB)

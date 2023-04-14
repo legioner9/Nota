@@ -1,0 +1,3 @@
+# [htmllab](https://www.youtube.com/@HtmllabRu/playlists)
+## [CSS-селекторы/CSS Selectors](https://www.youtube.com/playlist?list=PLOQDek48BpZFC6sSFRsok97gaEZV6CVf_)
+### [27 - СSS селекторы - Селектор отмеченного флажка  - псевдокласс :checked](https://www.youtube.com/watch?v=8Q_ua8iWqnM&amp;list=PLOQDek48BpZFC6sSFRsok97gaEZV6CVf_&amp;index=29&amp;pp=iAQB)

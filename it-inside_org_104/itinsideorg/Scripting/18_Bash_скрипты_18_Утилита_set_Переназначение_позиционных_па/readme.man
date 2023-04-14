@@ -1,0 +1,3 @@
+# [it-inside.org](https://www.youtube.com/@itinsideorg/playlists)
+## [Scripting](https://www.youtube.com/playlist?list=PLWeA3JK7qaiqH4vA78UxoUKsQpFp71bwQ)
+### [Bash скрипты 18. Утилита set. Переназначение позиционных параметров.](https://www.youtube.com/watch?v=4AXBhczo-Ws&amp;list=PLWeA3JK7qaiqH4vA78UxoUKsQpFp71bwQ&amp;index=18&amp;pp=iAQB)

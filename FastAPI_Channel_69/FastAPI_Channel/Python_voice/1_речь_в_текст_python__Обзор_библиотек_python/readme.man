@@ -1,0 +1,3 @@
+# [FastAPI Channel](https://www.youtube.com/@FastAPIChannel/playlists?view=1)
+## [Python voice](https://www.youtube.com/playlist?list=PLaED5GKTiQG_mIInLSytXQRDjT2EG8Xbe)
+### [речь в текст python | Обзор библиотек python](https://www.youtube.com/watch?v=I80KjKo6LFY&amp;list=PLaED5GKTiQG_mIInLSytXQRDjT2EG8Xbe&amp;index=1&amp;pp=iAQB)

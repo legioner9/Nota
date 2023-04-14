@@ -1,0 +1,3 @@
+# [htmllab](https://www.youtube.com/@HtmllabRu/playlists)
+## [userscript/tampermonkey](https://www.youtube.com/playlist?list=PLOQDek48BpZEASPy6Skb_yuJNXZszhB6S)
+### [Tampermonkey Автопост в ВК с userscript Часть 1](https://www.youtube.com/watch?v=-6Su2DwAPQE&amp;list=PLOQDek48BpZEASPy6Skb_yuJNXZszhB6S&amp;index=3&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [METATECH](https://www.youtube.com/@MetatechEducation/playlists)
+## [Программирование на JavaScript для начинающих](https://www.youtube.com/playlist?list=PLpmhTzMVLuROAIey9vW3pyRSpHfknLssu)
+### [💻 Замыкания (closure) функция и контекст - основы JavaScript для начинающих](https://www.youtube.com/watch?v=LUd-cFkhCrY&amp;list=PLpmhTzMVLuROAIey9vW3pyRSpHfknLssu&amp;index=13&amp;pp=iAQB)

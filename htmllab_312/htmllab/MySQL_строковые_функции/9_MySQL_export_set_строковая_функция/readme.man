@@ -1,0 +1,3 @@
+# [htmllab](https://www.youtube.com/@HtmllabRu/playlists)
+## [MySQL строковые функции](https://www.youtube.com/playlist?list=PLOQDek48BpZGKGgZ0jtI7-1QKiLojlmai)
+### [MySQL export_set строковая функция](https://www.youtube.com/watch?v=Wi3R5UWbQck&amp;list=PLOQDek48BpZGKGgZ0jtI7-1QKiLojlmai&amp;index=9&amp;pp=iAQB)

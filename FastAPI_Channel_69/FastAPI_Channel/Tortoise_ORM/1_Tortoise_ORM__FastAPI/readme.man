@@ -1,0 +1,3 @@
+# [FastAPI Channel](https://www.youtube.com/@FastAPIChannel/playlists?view=1)
+## [Tortoise ORM](https://www.youtube.com/playlist?list=PLaED5GKTiQG8X2Io7NoSWjRBYpWVnIM0m)
+### [Tortoise ORM + FastAPI](https://www.youtube.com/watch?v=wzEWEy1krZs&amp;list=PLaED5GKTiQG8X2Io7NoSWjRBYpWVnIM0m&amp;index=1&amp;pp=iAQB)

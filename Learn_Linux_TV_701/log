@@ -1,0 +1,837 @@
+ 13.04.2023 22:02:50 done OpenStack - The BEST Way to Build Your Own Private Cloud
+ 13.04.2023 22:02:52 done Learn OpenStack Episode 1 - Introduction to Private Cloud Administration
+ 13.04.2023 22:02:55 done How to Manage OpenStack Private Clouds Episode 2 - How to Launch Compute Instances
+ 13.04.2023 22:02:57 done How to Manage OpenStack Private Clouds Episode 3 - Setting Up Block Storage Volumes
+ 13.04.2023 22:02:59 done How to Manage OpenStack Private Clouds Episode 5 - Combining OpenStack and OpenShift
+ 13.04.2023 22:03:01 done How to Manage OpenStack Private Clouds Episode 4 - Building Virtual Networks (Neutron)
+ 13.04.2023 22:03:03 done How to Manage OpenStack Private Clouds Episode 6 - Automating Cloud Deployments
+ 13.04.2023 22:03:04 done OpenStack Administrator's Guide
+ 13.04.2023 22:03:31 done My Experience at All Things Open 2022
+ 13.04.2023 22:03:33 done Linux Mythbusting at All Things Open 2022
+ 13.04.2023 22:03:36 done All Things Open 2022 - Exhibitor Interviews
+ 13.04.2023 22:03:36 done All Things Open
+ 13.04.2023 22:04:06 done The Year of the Linux Desktop won't happen (and why that's okay)
+ 13.04.2023 22:04:08 done New Linux Distro: The &quot;Flatpak Remix&quot; of Ubuntu!
+ 13.04.2023 22:04:09 done Linux in the News
+ 13.04.2023 22:04:39 done My experience at the Southern California Linux Expo (SCaLE 19x)
+ 13.04.2023 22:04:41 done SCaLE 19x - Canonical, AREDN, and System76
+ 13.04.2023 22:04:43 done The Linux Community at SCaLE 19x
+ 13.04.2023 22:04:46 done SCaLE 19x: The openSUSE Edition
+ 13.04.2023 22:04:48 done SCaLE 19x - Debian, Linux Chix LA, and Jenkins!
+ 13.04.2023 22:04:48 done SCaLE 19x
+ 13.04.2023 22:05:18 done Linux CLI in 60 Seconds - ls
+ 13.04.2023 22:05:21 done Linux CLI in 60 Seconds - Creating Files
+ 13.04.2023 22:05:23 done Linux CLI in 60 Seconds - apt
+ 13.04.2023 22:05:25 done Linux CLI in 60 Seconds - Changing Directory
+ 13.04.2023 22:05:28 done Linux CLI in 60 Seconds - head &amp; tail
+ 13.04.2023 22:05:30 done Linux CLI in 60 Seconds - ping
+ 13.04.2023 22:05:32 done Linux CLI in 60 Seconds - find
+ 13.04.2023 22:05:34 done Welcome to SCaLE 19x
+ 13.04.2023 22:05:37 done SCaLE is all about Linux (Coverage Uploading Soon)
+ 13.04.2023 22:05:39 done You Should Watch Linux Videos
+ 13.04.2023 22:05:41 done Linux Commands in 60 Seconds - The sed Command
+ 13.04.2023 22:05:43 done Linux Commands in 60 Seconds - The ssh Command
+ 13.04.2023 22:05:46 done Linux Commands in 60 Seconds - The watch Command
+ 13.04.2023 22:05:48 done Which Linux Distro Should You Pick?
+ 13.04.2023 22:05:50 done Linux Commands in 60 Seconds - The zypper Command
+ 13.04.2023 22:05:51 done YouTube Shorts
+ 13.04.2023 22:06:22 done Bash Scripting on Linux (The Complete Guide) Class 01 - Course Introduction
+ 13.04.2023 22:06:24 done Bash Scripting on Linux (The Complete Guide) Class 02 - Hello World
+ 13.04.2023 22:06:27 done Bash Scripting on Linux (The Complete Guide) Class 03 - Variables
+ 13.04.2023 22:06:29 done Bash Scripting on Linux (The Complete Guide) Class 04 - Basic Math
+ 13.04.2023 22:06:31 done Bash Scripting on Linux (The Complete Guide) Class 05 - If Statements
+ 13.04.2023 22:06:33 done Bash Scripting on Linux (The Complete Guide) Class 06 - Exit Codes
+ 13.04.2023 22:06:35 done Bash Scripting on Linux (The Complete Guide) Class 07 - While Loops
+ 13.04.2023 22:06:38 done Bash Scripting on Linux (The Complete Guide) Class 08 - Universal Update Script
+ 13.04.2023 22:06:40 done Bash Scripting on Linux (The Complete Guide) Class 09 - For Loops
+ 13.04.2023 22:06:42 done Bash Scripting on Linux (The Complete Guide) Class 10 - Where to Store Scripts
+ 13.04.2023 22:06:44 done Bash Scripting on Linux (The Complete Guide) Class 11 - Data Streams
+ 13.04.2023 22:06:46 done Bash Scripting on Linux (The Complete Guide) Class 12 - Functions
+ 13.04.2023 22:06:49 done Bash Scripting on Linux (The Complete Guide) Class 13 - Case Statements
+ 13.04.2023 22:06:51 done Bash Scripting on Linux (The Complete Guide) Class 14 - Scheduling Jobs (Part 1)
+ 13.04.2023 22:06:53 done Bash Scripting on Linux (The Complete Guide) Class 15 - Scheduling Jobs (Part 2)
+ 13.04.2023 22:06:55 done Bash Scripting on Linux (The Complete Guide) Class 16 - Arguments
+ 13.04.2023 22:06:57 done Bash Scripting on Linux (The Complete Guide) Class 17 - Backup Script
+ 13.04.2023 22:07:00 done Bash Scripting on Linux (The Complete Guide) Class 18 - Closing/Next Steps
+ 13.04.2023 22:07:00 done Bash Scripting on Linux
+ 13.04.2023 22:07:33 done Coding in Python 01 - Introduction and Getting Started (Learn Linux TV Classics)
+ 13.04.2023 22:07:35 done Coding in Python 02 - The Python Shell (Learn Linux TV Classics)
+ 13.04.2023 22:07:37 done Coding in Python 03 - More about Strings (Learn Linux TV Classics)
+ 13.04.2023 22:07:40 done Coding in Python 04 - Setting up Variables (Learn Linux TV Classics)
+ 13.04.2023 22:07:42 done Coding in Python 05 - Lists and Dictionaries (Learn Linux TV Classics)
+ 13.04.2023 22:07:44 done Coding in Python 06 - Converting Data Types (Learn Linux TV Classics)
+ 13.04.2023 22:07:46 done Coding in Python 07 - Additional String Methods (Learn Linux TV Classics)
+ 13.04.2023 22:07:49 done Coding in Python 08 - The Help Function (Learn Linux TV Classics)
+ 13.04.2023 22:07:51 done Coding in Python 09 - Writing Scripts (Learn Linux TV Classics)
+ 13.04.2023 22:07:53 done Coding in Python 10 - Comments and Style (Learn Linux TV Classics)
+ 13.04.2023 22:07:55 done Coding in Python 11 - Functions (Learn Linux TV Classics)
+ 13.04.2023 22:07:58 done Coding in Python 12 - Local vs Global Variables (Learn Linux TV Classics)
+ 13.04.2023 22:08:00 done Coding in Python 13 - User Input (Learn Linux TV Classics)
+ 13.04.2023 22:08:02 done Coding in Python 14 - If Statements (Learn Linux TV Classics)
+ 13.04.2023 22:08:04 done Coding in Python 15 - While Loops (Learn Linux TV Classics)
+ 13.04.2023 22:08:06 done Coding in Python 16 - For Loops (Learn Linux TV Classics)
+ 13.04.2023 22:08:09 done Coding in Python 17 - Tuples (Learn Linux TV Classics)
+ 13.04.2023 22:08:11 done Coding in Python 18 - The OS Module (Learn Linux TV Classics)
+ 13.04.2023 22:08:13 done Coding in Python 19 - More fun with the OS Module (Learn Linux TV Classics)
+ 13.04.2023 22:08:15 done Coding in Python 20 - Subprocess (Learn Linux TV Classics)
+ 13.04.2023 22:08:17 done Coding in Python 21 - Handling Exceptions (Learn Linux TV Classics)
+ 13.04.2023 22:08:20 done Coding in Python 22 - Working with Files (Learn Linux TV Classics)
+ 13.04.2023 22:08:22 done Coding in Python 23 - Virtual Environments (Learn Linux TV Classics)
+ 13.04.2023 22:08:24 done Coding in Python 24 - Serving an HTML Site with Flask (Learn Linux TV Classics)
+ 13.04.2023 22:08:26 done Coding in Python 25 - Classes (Learn Linux TV Classics)
+ 13.04.2023 22:08:29 done Coding in Python 26 - Inheritance (Learn Linux TV Classics)
+ 13.04.2023 22:08:31 done Coding in Python 27 - Creating Linux instances with the Linode API (Learn Linux TV Classics)
+ 13.04.2023 22:08:33 done Coding in Python 28 - Closing (Learn Linux TV Classics)
+ 13.04.2023 22:08:33 done Programming in Python (Learn Linux TV Classics)
+ 13.04.2023 22:09:05 done CrowdSec Console First Look - A Free and Awesome Security Dashboard for Linux Servers
+ 13.04.2023 22:09:07 done 3 Important Tweaks for Improving OpenSSH Security on Your Cloud Instance
+ 13.04.2023 22:09:09 done Securing your Cloud Server with Fail2ban
+ 13.04.2023 22:09:12 done 5 Easy Tweaks to increase your Linux Server's Security
+ 13.04.2023 22:09:14 done Boosting your Linux Server Security with CrowdSec
+ 13.04.2023 22:09:16 done 5 Must Have Tweaks to Secure OpenSSH
+ 13.04.2023 22:09:16 done Linux Security
+ 13.04.2023 22:09:48 done Your Linux/DevOps Career - Should you apply to a job if you're missing some &quot;Requirements&quot;?
+ 13.04.2023 22:09:50 done Gaining Experience for your Linux Career - What should you Learn?!
+ 13.04.2023 22:09:53 done Why you should build your Portfolio in Github to gain a Linux Job
+ 13.04.2023 22:09:55 done 10 Things I Wish I Knew When I First Started With Linux
+ 13.04.2023 22:09:55 done Career Development
+ 13.04.2023 22:10:26 done April Fools 2022: Dad Joke Linux
+ 13.04.2023 22:10:28 done Mycroft takes over the LearnLinuxTV Studios and reviews Debian (April Fools 2021)
+ 13.04.2023 22:10:31 done My Review of the BEST Linux Distro EVER! (April Fools 2019)
+ 13.04.2023 22:10:33 done The Year of the Linux Desktop: The Movie (Short Film
+ 13.04.2023 22:10:33 done April Fools
+ 13.04.2023 22:11:06 done Proxmox VE Full Course: Class 1 - Getting Started
+ 13.04.2023 22:11:08 done Proxmox VE Full Course: Class 2 - Installation Process
+ 13.04.2023 22:11:10 done Proxmox VE Full Course: Class 3 - Web Console Overview
+ 13.04.2023 22:11:12 done Proxmox VE Full Course: Class 4 - Containers vs Virtual Machines
+ 13.04.2023 22:11:15 done Proxmox VE Full Course: Class 5 - Launching a Virtual Machine
+ 13.04.2023 22:11:17 done Launching a Windows VM in Proxmox
+ 13.04.2023 22:11:19 done Proxmox VE Full Course: Class 6 - Creating Virtual Machine Templates
+ 13.04.2023 22:11:21 done Proxmox VE Full Course: Class 7 - Creating Containers
+ 13.04.2023 22:11:23 done Proxmox VE Full Course: Class 8 - Creating Container Templates
+ 13.04.2023 22:11:26 done Proxmox VE Full Course: Class 9 - User Management
+ 13.04.2023 22:11:28 done Proxmox VE Full Course: Class 10 - Backups and Snapshots
+ 13.04.2023 22:11:30 done Proxmox VE Full Course: Class 11 - Integrated Firewall
+ 13.04.2023 22:11:32 done Proxmox VE Full Course: Class 12 - The Command-Line Interface
+ 13.04.2023 22:11:34 done Proxmox VE Full Course: Class 13 - Networking
+ 13.04.2023 22:11:37 done Proxmox VE Full Course: Class 14 - Shared Storage
+ 13.04.2023 22:11:39 done Proxmox VE Full Course: Class 15  - Clustering
+ 13.04.2023 22:11:41 done Proxmox VE Full Course: Class 16 - High Availability
+ 13.04.2023 22:11:43 done Proxmox Backup Server: Full Getting Started Guide!
+ 13.04.2023 22:11:45 done Proxmox VE - How to build an Ubuntu 22.04 Template (Updated Method)
+ 13.04.2023 22:11:48 done How to Build an Awesome Kubernetes Cluster using Proxmox Virtual Environment
+ 13.04.2023 22:11:48 done Proxmox Full Course
+ 13.04.2023 22:12:20 done Enterprise Linux Security - Episode 0
+ 13.04.2023 22:12:23 done Enterprise Linux Security - Episode 01: Common Vulnerabilities &amp; Exposures (CVEs)
+ 13.04.2023 22:12:25 done Enterprise Linux Security – Episode 02: Attack Vectors
+ 13.04.2023 22:12:27 done Enterprise Linux Security – Episode 03: Linux Distribution Migrations
+ 13.04.2023 22:12:29 done Enterprise Linux Security Episode 04 - Supply Chain Attacks
+ 13.04.2023 22:12:32 done Enterprise Linux Security Episode 05 - The &quot;Attacker&quot; Mindset
+ 13.04.2023 22:12:34 done Enterprise Linux Security Episode 6 - Image Defaults
+ 13.04.2023 22:12:36 done Enterprise Linux Security Episode 7 - ELevate
+ 13.04.2023 22:12:38 done Enterprise Linux Security Episode 08 - Trojan Source, &amp; CISA's Directive
+ 13.04.2023 22:12:40 done Enterprise Linux Security Episode 9 - DevOps
+ 13.04.2023 22:12:43 done Enterprise Linux Security Episode 10 - The worst healthcare breaches of 2021
+ 13.04.2023 22:12:45 done Enterprise Linux Security Episode 11 - CrowdSec
+ 13.04.2023 22:12:47 done Enterprise Linux Security Episode 12 - An Inside Job?
+ 13.04.2023 22:12:50 done Enterprise Linux Security Episode 13 - Log4Shell
+ 13.04.2023 22:12:52 done Enterprise Linux Security Episode 14 - Recovering from Disaster
+ 13.04.2023 22:12:54 done Enterprise Linux Security Episode 15 - High Availability
+ 13.04.2023 22:12:56 done Enterprise Linux Security Episode 16 - Library Poisoning
+ 13.04.2023 22:12:59 done Enterprise Linux Security Episode 17 - Polkit &amp; LUKS CVE's
+ 13.04.2023 22:13:01 done Enterprise Linux Security Episode 18 - Zero Trust Security
+ 13.04.2023 22:13:03 done Enterprise Linux Security Episode 19 - The RBS Year-End Vulnerability Report
+ 13.04.2023 22:13:05 done Enterprise Linux Security Episode 20 - Cloud Governance
+ 13.04.2023 22:13:07 done Enterprise Linux Security Episode 21 - Dirty Pipe &amp; Nvidia's Breach
+ 13.04.2023 22:13:10 done Enterprise Linux Security Episode 22 - Certificates
+ 13.04.2023 22:13:12 done Enterprise Linux Security Episode 23 - Busting 5 IT Security Myths
+ 13.04.2023 22:13:14 done Enterprise Linux Security Episode 24 - The Latest on Lapsus$
+ 13.04.2023 22:13:16 done Enterprise Linux Security Episode 25 - News Roundup
+ 13.04.2023 22:13:18 done Enterprise Linux Security Episode 26 - The State of Enterprise Linux Security management
+ 13.04.2023 22:13:21 done Enterprise Linux Security Episode 27 - People Problems
+ 13.04.2023 22:13:23 done Enterprise Linux Security Episode 28 - Second Factor Authentication
+ 13.04.2023 22:13:25 done Enterprise Linux Security Episode 29 - High Level Threats
+ 13.04.2023 22:13:27 done Enterprise Linux Security Episode 30 - Tools &amp; Utilities
+ 13.04.2023 22:13:29 done Enterprise Linux Security Episode 31 - How NOT to Research Security
+ 13.04.2023 22:13:31 done Enterprise Linux Security Episode 32 - MySQL for Everyone!
+ 13.04.2023 22:13:34 done Enterprise Linux Security Episode 33 - Patch your Confluence Server!
+ 13.04.2023 22:13:36 done Enterprise Linux Security Episode 34 - How one business lost Everything
+ 13.04.2023 22:13:38 done Enterprise Linux Security Episode 35 - Top 25 Dangerous Software Weaknesses
+ 13.04.2023 22:13:41 done Enterprise Linux Security - Episode 36
+ 13.04.2023 22:13:43 done Enterprise Linux Security Episode 37 - System Administrator Appreciation Day 2022
+ 13.04.2023 22:13:45 done Enterprise Linux Security Episode 38 - De-anonymizing Ransomware Domains
+ 13.04.2023 22:13:47 done Publicly Available RDP, What Could Go Wrong?! (Enterprise Linux Security Episode 39)
+ 13.04.2023 22:13:50 done Enterprise Linux Security Episode 40 - Continuous Integration / Continuous Delivery
+ 13.04.2023 22:13:52 done Enterprise Linux Security Episode 41 - Important CISO Focus Areas
+ 13.04.2023 22:13:54 done Enterprise Linux Security Episode 42 - Do NOT Fire Your Security Team!
+ 13.04.2023 22:13:56 done Enterprise Linux Security Episode 43 - Grand Theft Data
+ 13.04.2023 22:13:59 done Enterprise Linux Security Episode 44 - Is Linux less of a Target?
+ 13.04.2023 22:14:01 done Enterprise Linux Security Episode 45 - More Wi-Fi, More Problems
+ 13.04.2023 22:14:03 done Enterprise Linux Security Episode 46 - Monitoring
+ 13.04.2023 22:14:05 done Enterprise Linux Security Episode 47 - Legislating Open Source
+ 13.04.2023 22:14:08 done Enterprise Linux Security Episode 48 - New Malware, Old Vulnerabilities
+ 13.04.2023 22:14:10 done Enterprise Linux Security Episode 50 - The Many Faces of Patching
+ 13.04.2023 22:14:12 done Enterprise Linux Security Episode 51 - Samba in the Kernel, What Could Possibly Go Wrong?!
+ 13.04.2023 22:14:14 done Enterprise Linux Security Episode 53 - Digital Twins
+ 13.04.2023 22:14:17 done Enterprise Linux Security Episode 54 - Recovering from Ransomware
+ 13.04.2023 22:14:19 done Enterprise Linux Security Episode 55 - Should You Trust Password Managers? (Live)
+ 13.04.2023 22:14:21 done Enterprise Linux Security Episode 56 - Undercover Crypto Leaking
+ 13.04.2023 22:14:24 done Enterprise Linux Security Episode 58 - Tales from the Red Team
+ 13.04.2023 22:14:26 done Enterprise Linux Security Episode 59 - AlmaLinux OS
+ 13.04.2023 22:14:28 done Enterprise Linux Security Episode 60 - AI Enhanced Security
+ 13.04.2023 22:14:30 done Enterprise Linux Security Episode 61 - The Principle of Least Privilege
+ 13.04.2023 22:14:32 done Enterprise Linux Security Episode 62 - Operation: Cookie Monster
+ 13.04.2023 22:14:33 done Enterprise Linux Security
+ 13.04.2023 22:15:04 done SCaLE 19x - Debian, Linux Chix LA, and Jenkins!
+ 13.04.2023 22:15:06 done SCaLE 19x: The openSUSE Edition
+ 13.04.2023 22:15:09 done The Linux Community at SCaLE 19x
+ 13.04.2023 22:15:11 done SCaLE 19x - Canonical, AREDN, and System76
+ 13.04.2023 22:15:13 done Sysadmins are Super Heroes! (System Administrator Appreciation Day 2022)
+ 13.04.2023 22:15:16 done Thunderbird is NOT Dead! (Interview with Alex and Jason from Thunderbird)
+ 13.04.2023 22:15:18 done DBcare - How TuxCare aims to Eliminate Database Server Reboots
+ 13.04.2023 22:15:20 done Behind the Distro - benny Vasquez, AlmaLinux OS Chair of the Board
+ 13.04.2023 22:15:22 done System Administrator Appreciation Day 2021: A Panel Discussion
+ 13.04.2023 22:15:24 done Open-Source Ethics, and how the University of Minnesota Failed Linux
+ 13.04.2023 22:15:27 done AlmaLinux - Speaking to Jim Jackson on the new distro, Commercial Support, and more!
+ 13.04.2023 22:15:27 done Interviews
+ 13.04.2023 22:16:00 done The Homelab Show: Episode 0 All About Home Labs
+ 13.04.2023 22:16:02 done The Homelab Show: Episode 1 Virtualization Systems
+ 13.04.2023 22:16:04 done The Homelab Show: Episode 2 NAS &amp; Storage
+ 13.04.2023 22:16:06 done The Homelab Show: Episode 3 Firewalls &amp; Switches
+ 13.04.2023 22:16:09 done The Homelab Show: Episode 4 Linux
+ 13.04.2023 22:16:11 done The Homelab Show: Episode 5 Securing Your Lab
+ 13.04.2023 22:16:13 done The Homelab Show: Episode 6 Physical Networking
+ 13.04.2023 22:16:16 done The Homelab Show: Episode 7 Containerization
+ 13.04.2023 22:16:18 done The Homelab Show: Episode 8 Automation
+ 13.04.2023 22:16:20 done The Homelab Show: Episode 9: Raid Is Not A Backup
+ 13.04.2023 22:16:22 done The Homelab Show Episode 10: Getting Started With Ansible
+ 13.04.2023 22:16:25 done The Homelab Show Episode 11: TrueNAS Storage
+ 13.04.2023 22:16:27 done The Homelab Show Episode 12: Public Cloud Alternatives
+ 13.04.2023 22:16:29 done The Homelab Show Episode 13: Proxmox
+ 13.04.2023 22:16:31 done The Homelab Show Episode 14: Graylog
+ 13.04.2023 22:16:34 done The Homelab Show Episode 15:Nextcloud
+ 13.04.2023 22:16:36 done The Homelab Show Episode 16:Raspberry Pi
+ 13.04.2023 22:16:38 done The Homelab Show Episode 17: XCP-NG
+ 13.04.2023 22:16:41 done The Homelab Show Episode 18:Clonezilla
+ 13.04.2023 22:16:43 done The Homelab Show Episode 19:Awesome Linux Command Line Tools
+ 13.04.2023 22:16:45 done The Homelab Show Episode 20:Home Assistant
+ 13.04.2023 22:16:47 done The Homelab Show Episode 21:Synology
+ 13.04.2023 22:16:50 done The Homelab Show Episode 22:Q&amp;A Tech Talk
+ 13.04.2023 22:16:52 done The Homelab Show Episode 23: Syncthing
+ 13.04.2023 22:16:54 done The Homelab Show Episode 24: Hey Mycroft!
+ 13.04.2023 22:16:56 done The Homelab Show Episode 25: Using Git
+ 13.04.2023 22:16:59 done The Homelab Show Episode 26: Live Q&amp;A
+ 13.04.2023 22:17:01 done The Homelab Show Episode 27: TrueNAS Scale
+ 13.04.2023 22:17:03 done The Homelab Show Episode 28:Own Your Domain
+ 13.04.2023 22:17:05 done The Homelab Show Episode 29:Bastion Server
+ 13.04.2023 22:17:08 done The Homelab Show Episode 30:Questions and Answers
+ 13.04.2023 22:17:10 done The Homelab Show Episode 31:File Systems Layouts
+ 13.04.2023 22:17:12 done The Homelab Show Episode 32:Linux Patch Management
+ 13.04.2023 22:17:14 done The Homelab Show Episode 33:Linux Snap vs Flatpak vs AppImage
+ 13.04.2023 22:17:17 done The Homelab Show Episode 34:UniFi / Ubiquiti Network Gear
+ 13.04.2023 22:17:19 done The Homelab Show Episode 35: OpenSSH
+ 13.04.2023 22:17:21 done The Homelab Show Episode 36: OpenVPN &amp; Wireguard
+ 13.04.2023 22:17:24 done The Homelab Show Episode 37: Proxmox Backups
+ 13.04.2023 22:17:26 done The Homelab Show Episode 38: Managing SSH Keys
+ 13.04.2023 22:17:28 done The Homelab Show Episode 39: Questions and Answers
+ 13.04.2023 22:17:30 done The Homelab Show Episode 40: Turing Pi 2
+ 13.04.2023 22:17:33 done The Homelab Show Episode 41: Network Segmentation, VLAN, And Subnets
+ 13.04.2023 22:17:35 done The Homelab Show Episode 42: Security Onion
+ 13.04.2023 22:17:37 done The Homelab Show Episode 43: Questions &amp; Answers
+ 13.04.2023 22:17:39 done The Homelab Show Episode 44: /dev/random
+ 13.04.2023 22:17:42 done The Homelab Show Episode 45: Yubikey
+ 13.04.2023 22:17:44 done The Homelab Show Episode 46: /dev/Q&amp;A
+ 13.04.2023 22:17:46 done Episode 47: CrowdSec &amp; Using Open Source Threat Intelligence
+ 13.04.2023 22:17:49 done The Homelab Show Episode 48: /dev/random
+ 13.04.2023 22:17:51 done The Homelab Show Episode 49:Do You Need A VPN?
+ 13.04.2023 22:17:53 done The Homelab Show Episode 50:How To Give Back and Participate In OpenSource Projects
+ 13.04.2023 22:17:56 done The Homelab Show Episode 51:Zerotier Global Area SDWAN Overlay Networking
+ 13.04.2023 22:17:58 done The Homelab Show Episode 52: Open Source Content Creation
+ 13.04.2023 22:18:00 done The Homelab Show Episode 53: Ubuntu 22.04 LTS Review
+ 13.04.2023 22:18:02 done The Homelab Show Episode 54: /dev/Q&amp;A
+ 13.04.2023 22:18:05 done The Homelab Show Episode 55: BTRFS
+ 13.04.2023 22:18:07 done The Homelab Show Episode 56: /dev/random Updates for pfsense, TrueNAS, &amp; XCP-NG
+ 13.04.2023 22:18:09 done The Homelab Show Episode 57: Questions and Answers
+ 13.04.2023 22:18:12 done The Homelab Show Episode 58: Your Homelab Rack and Server Hardware
+ 13.04.2023 22:18:14 done The Homelab Show Episode 59: 100 Day of Homelab with Techno Tim
+ 13.04.2023 22:18:16 done The Homelab Show Episode 60: Openstack
+ 13.04.2023 22:18:18 done The Homelab Show Episode 61: Mycroft Mimic 3 &amp; /dev/random
+ 13.04.2023 22:18:21 done The Homelab Show Episode 62: Q&amp;A
+ 13.04.2023 22:18:23 done The Homelab Show Episode 63: Troubleshooting Tips &amp; Tools
+ 13.04.2023 22:18:25 done The Homelab Show Episode 64: Tailscale and Headscale
+ 13.04.2023 22:18:28 done The Homelab Show Episode 65: Ceph Storage with Special Guest 45 Drives
+ 13.04.2023 22:18:30 done The Homelab Show Episode 66 - /dev/random
+ 13.04.2023 22:18:32 done The Homelab Show Episode 67: vGPU Passthrough for Gaming and Other Fun
+ 13.04.2023 22:18:34 done The Homelab Show Episode 68: Documentation Tools and Management
+ 13.04.2023 22:18:37 done The Homelab Show Episode 69: Remote Access Tools
+ 13.04.2023 22:18:39 done The Homelab Show Episode 70:Questions &amp; Answers
+ 13.04.2023 22:18:41 done The Homelab Show Episode 71 - Retro Homelab
+ 13.04.2023 22:18:44 done The Homelab Show Episode 72: KVM,IPMI, iDRAC, PiKVM and Out Of Band Management
+ 13.04.2023 22:18:46 done The Homelab Show Episode 73: Automation Strategies
+ 13.04.2023 22:18:48 done The Homelab Show Episode 74: Tips For Securing Your Homelab
+ 13.04.2023 22:18:50 done The Homelab Show Episode 75: Homelab Privacy, Security, and Q&amp;A
+ 13.04.2023 22:18:53 done The Homelab Show Episode 76: Password Managers and Management
+ 13.04.2023 22:18:55 done The Homelab Show Episode 77: /dev/random, Mastadon and Questions &amp; Answers
+ 13.04.2023 22:18:57 done The Homelab Show Episode 78: Changelog and Updates
+ 13.04.2023 22:19:00 done The Homelab Show Episode 79: Virtualization VS Containers
+ 13.04.2023 22:19:02 done The Homelab Show Episode 80: The Server Automation Mindset
+ 13.04.2023 22:19:04 done The Homelab Show Episode 81: Building Lab Templates and Images
+ 13.04.2023 22:19:06 done The Homelab Show Episode 82: Server Monitoring Tools
+ 13.04.2023 22:19:09 done The Homelab Show Episode 83: Questions and Answers
+ 13.04.2023 22:19:11 done The Homelab Show Episode 84: Choosing a Linux / FreeBSD Distro VS an Appliance Distro
+ 13.04.2023 22:19:13 done The Homelab Show Episode 85: Which Linux Distro to use?
+ 13.04.2023 22:19:15 done The Homelab Show Episode 86: Cloudflare Tunnels and Reverse Proxy-over-VPN
+ 13.04.2023 22:19:18 done The Homelab Show Episode 87: Self Hosted Home Automation With Home Assistant &amp; Without Mycroft
+ 13.04.2023 22:19:20 done The Homelab Show Episode 88:Q&amp;A Plus ChatGPT in the Homelab
+ 13.04.2023 22:19:22 done The Homelab Show Episode 89:Rocky Linux Interview
+ 13.04.2023 22:19:24 done The Homelab Show Episode 90: Netdata and Some Updates On Projects
+ 13.04.2023 22:19:27 done The Homelab Show Episode 91: CI/CD Pipeline
+ 13.04.2023 22:19:29 done The Homelab Show Episode 92: Live
+ 13.04.2023 22:19:31 done The Homelab Show Episode 93: Homelab Firewalls
+ 13.04.2023 22:19:34 done The Homelab Show Episode 94: More Home Assistant Tips, Trick, and Ideas!
+ 13.04.2023 22:19:34 done The Homelab Show
+ 13.04.2023 22:20:06 done External GPU's - A Good Solution for Linux Gaming? Everything You'll Need to Know
+ 13.04.2023 22:20:09 done HP Dev One Full Review (Part 2) - Upgrading RAM, Running Other Distros &amp; More!
+ 13.04.2023 22:20:11 done HP Dev One Full Review (Part 1) - First Impressions: Hardware Overview, Software Integration &amp; More!
+ 13.04.2023 22:20:13 done Checking out the Infinity Book Pro 14 (6th gen) from Tuxedo Computers
+ 13.04.2023 22:20:15 done The 2022 System76 Kudu - Full Review!
+ 13.04.2023 22:20:18 done A Linux PC in the palm of your hand! The Pantera Pico PC from XDO
+ 13.04.2023 22:20:20 done Hands-on with the Turing Pi 2!
+ 13.04.2023 22:20:22 done The Polaris 15 and 17 from Tuxedo Computers: Linux Notebook Full Review
+ 13.04.2023 22:20:25 done The JingPad A1 Linux Tablet, Full Review!
+ 13.04.2023 22:20:27 done Review - The Home Assistant &quot;Blue&quot;
+ 13.04.2023 22:20:29 done Review: The 19&quot; Raspberry Pi Rack Mount from 52pi
+ 13.04.2023 22:20:31 done Review: The EVICIV Raspberry Pi All-In-One Touchscreen
+ 13.04.2023 22:20:33 done DeskPi Pro v2 Review - Turn your Raspberry Pi into a Desktop!
+ 13.04.2023 22:20:36 done The Tuxedo Stellaris 15 - Linux Gaming Notebook Review
+ 13.04.2023 22:20:38 done The JingPad A1 - Hands-on Preview!
+ 13.04.2023 22:20:40 done Full Review: The new InfinityBook Pro 14 Linux Notebook from Tuxedo Computers
+ 13.04.2023 22:20:42 done The RasPad 3 - Turn your Raspberry Pi into a Tablet! (Full Review)
+ 13.04.2023 22:20:45 done The RasPad 3 - Unboxing and Assembly
+ 13.04.2023 22:20:47 done Hands-on: The System76 &quot;Launch&quot; keyboard! (Full Review)
+ 13.04.2023 22:20:49 done Full Review: The 2021 Thelio Major
+ 13.04.2023 22:20:52 done Full Review: The Tuxedo Pulse 15 Linux Notebook
+ 13.04.2023 22:20:54 done Reviewing the Synology DS1621+ NAS
+ 13.04.2023 22:20:56 done Quick Unboxing of my new Thelio Major
+ 13.04.2023 22:20:58 done The TinyPilot KVM - An open-source network KVM
+ 13.04.2023 22:21:01 done How to Homelab - Laptops as Servers?!
+ 13.04.2023 22:21:03 done Linux on Old Laptops: The Lenovo Thinkpad T440p
+ 13.04.2023 22:21:05 done Running Modern Linux on Older Computers - The Dell Latitude E6430
+ 13.04.2023 22:21:07 done An awesome USB-C Dock: The &quot;Docking Deck&quot;
+ 13.04.2023 22:21:09 done The M1 Macbook Pro (From a Linux users perspective)
+ 13.04.2023 22:21:12 done Review: The Polaris 15 Linux gaming laptop from Tuxedo Computers
+ 13.04.2023 22:21:14 done The Raspberry Pi 400 - A full computer in a keyboard!
+ 13.04.2023 22:21:16 done Checking out the Turing Pi: Quick Review and First Impressions
+ 13.04.2023 22:21:18 done System76 Lemur Pro Laptop: Full Review!
+ 13.04.2023 22:21:21 done The System76 Refreshed Gazelle 15&quot; Laptop, Full Review!
+ 13.04.2023 22:21:23 done Unboxing the new System76 Lemur Pro laptop (Full Review Coming Soon!)
+ 13.04.2023 22:21:25 done Unboxing the New and Refreshed Gazelle laptop from System76 (Full Review Coming Soon!)
+ 13.04.2023 22:21:28 done Testing the CalDigit TS4 Thundebolt Dock on Linux (Quick Review)
+ 13.04.2023 22:21:30 done The New 2022 System76 Thelio Desktop with a Customizable Case (Full Review)
+ 13.04.2023 22:21:32 done Tiny Pilot Voyager 2 - Remotely Manage your Server Quickly and Easily
+ 13.04.2023 22:21:34 done Your Raspberry Pi as a Desktop - DeskPi Lite Full Review
+ 13.04.2023 22:21:37 done The New 4K OLED Oryx Pro - A Linux Laptop with a Beautiful 4K OLED Display
+ 13.04.2023 22:21:39 done The Launch Heavy Configurable Keyboard from System76 - Hands-on Review!
+ 13.04.2023 22:21:41 done The 2023 System76 Pangolin is an Awesome 15&quot; Linux Laptop
+ 13.04.2023 22:21:43 done The Raspberry Pi Pironman Case - There's a Status Display!
+ 13.04.2023 22:21:44 done Hardware Reviews
+ 13.04.2023 22:22:15 done Docker Essentials (Part 1) - Introduction
+ 13.04.2023 22:22:17 done Docker Essentials (Part 2) - What is Docker?
+ 13.04.2023 22:22:19 done Docker Essentials (Part 3) - Installing Docker on Windows 10, macOS, and Ubuntu
+ 13.04.2023 22:22:21 done Docker Essentials (Part 4) - Running Containers
+ 13.04.2023 22:22:24 done Docker Essentials (Part 5) - Making Containers Persist
+ 13.04.2023 22:22:26 done Docker Essentials (Part 6) - Accessing Containerized Apps
+ 13.04.2023 22:22:28 done Docker Essentials (Part 7) - Creating Images
+ 13.04.2023 22:22:29 done Docker Essentials
+ 13.04.2023 22:23:00 done Linux Crash Course - usermod
+ 13.04.2023 22:23:02 done Linux Crash Course - sudo
+ 13.04.2023 22:23:04 done Linux Crash Course - htop
+ 13.04.2023 22:23:06 done Linux Crash Course - The ps Command
+ 13.04.2023 22:23:09 done Linux Crash Course - Data Streams (stdin, stdout &amp; stderr)
+ 13.04.2023 22:23:11 done Linux Crash Course - nano (command-line text editor)
+ 13.04.2023 22:23:13 done Linux Crash Course - User Account &amp; Password Expiration
+ 13.04.2023 22:23:15 done Linux Crash Course: Background (bg) and Foreground (fg)
+ 13.04.2023 22:23:17 done Linux Crash Course - Bash Aliases
+ 13.04.2023 22:23:20 done Linux Crash Course - Public Key Authentication
+ 13.04.2023 22:23:22 done Linux Crash Course - Scheduling Tasks with Cron
+ 13.04.2023 22:23:24 done Linux Crash Course - awk
+ 13.04.2023 22:23:26 done Linux Crash Course - The sed Command
+ 13.04.2023 22:23:29 done Linux Crash Course - Managing Groups
+ 13.04.2023 22:23:31 done Linux Crash Course - The /etc/fstab file
+ 13.04.2023 22:23:33 done Linux Crash Course -  Managing Users
+ 13.04.2023 22:23:35 done Linux Crash Course - Formatting &amp; Mounting Storage Volumes
+ 13.04.2023 22:23:38 done Linux Crash Course - systemd: Using the systemctl command
+ 13.04.2023 22:23:40 done Linux Crash Course - Symbolic Links
+ 13.04.2023 22:23:42 done Linux Crash Course - The find command
+ 13.04.2023 22:23:44 done Linux Crash Course - Understanding File &amp; Directory Permissions
+ 13.04.2023 22:23:47 done Linux Crash Course: Navigating the Linux Filesystem
+ 13.04.2023 22:23:49 done Linux Crash Course - The Arch User Repository (AUR)
+ 13.04.2023 22:23:51 done Linux Crash Course - The Pacman Command
+ 13.04.2023 22:23:53 done Linux Crash Course - The apt Command
+ 13.04.2023 22:23:56 done Linux Crash Course - Setting the Hostname of your Linux Workstation or Server
+ 13.04.2023 22:23:58 done Linux Crash Course - Installing Updates
+ 13.04.2023 22:24:00 done Linux Crash Course - The sar Command
+ 13.04.2023 22:24:02 done Linux Crash Course - The grep Command
+ 13.04.2023 22:24:04 done Linux Crash Course - The echo Command
+ 13.04.2023 22:24:07 done Linux Crash Course - Bash History
+ 13.04.2023 22:24:09 done Linux Crash Course - The dnf Command
+ 13.04.2023 22:24:11 done Linux Crash Course - Understanding Memory and Swap Usage
+ 13.04.2023 22:24:13 done Linux Crash Course - The ping Command
+ 13.04.2023 22:24:15 done Linux Crash Course - The wget Command
+ 13.04.2023 22:24:18 done Linux Crash Course - The df and du Commands
+ 13.04.2023 22:24:20 done Linux Crash Course - The head and tail Commands
+ 13.04.2023 22:24:22 done How to Archive Folders in Linux (tar and gzip tutorial) - Linux Crash Course Series
+ 13.04.2023 22:24:25 done How to Interpret Load Average in Linux (Linux Crash Course Series)
+ 13.04.2023 22:24:27 done The cat Command in Linux (Featuring Real Cats) - Linux Crash Course Series
+ 13.04.2023 22:24:29 done Linux Crash Course - The diff Command
+ 13.04.2023 22:24:31 done Linux Crash Course - Understanding Logging
+ 13.04.2023 22:24:33 done What is $PATH on a Linux Shell? (The Linux Crash Course Series)
+ 13.04.2023 22:24:36 done Linux Crash Course Series - How to Share Files via SSHFS
+ 13.04.2023 22:24:38 done Linux Crash Course - The &quot;watch&quot; Command
+ 13.04.2023 22:24:40 done How to Use The ls Command on the Linux Command Line
+ 13.04.2023 22:24:42 done Demystifying Hostnames and Domain Names in Linux, and How Server Naming Benefits You
+ 13.04.2023 22:24:45 done Linux Crash Course - What is a &quot;Distribution&quot; of Linux?
+ 13.04.2023 22:24:47 done Linux Crash Course - Desktop Environments
+ 13.04.2023 22:24:49 done Linux Crash Course - Connecting to Linux Servers via SSH
+ 13.04.2023 22:24:51 done Linux Crash Course - The zypper Command
+ 13.04.2023 22:24:53 done Linux Crash Course - Learn The &quot;man&quot; Command!
+ 13.04.2023 22:24:56 done Linux Crash Course - The tr Command
+ 13.04.2023 22:24:58 done Linux Crash Course - The cut Command
+ 13.04.2023 22:24:58 done Linux Crash Course
+ 13.04.2023 22:25:31 done OpenSSH Full Guide - Everything you need to get started!
+ 13.04.2023 22:25:33 done Linux Crash Course - Setting the Hostname of your Linux Workstation or Server
+ 13.04.2023 22:25:36 done Pop!_OS Complete Beginners Guide (Covers 20.10 and earlier)
+ 13.04.2023 22:25:38 done Ubuntu Complete Beginners Guide (Full Course in one video!)
+ 13.04.2023 22:25:40 done Nextcloud: Complete Setup Guide
+ 13.04.2023 22:25:42 done Arch Linux: Full Installation Guide - A complete tutorial/walkthrough in one video!
+ 13.04.2023 22:25:45 done How to migrate CentOS 8 to AlmaLinux
+ 13.04.2023 22:25:47 done Linux Crash Course: Navigating the Linux Filesystem
+ 13.04.2023 22:25:49 done Networking with ZeroTier: Creating software-defined networks with Ease
+ 13.04.2023 22:25:51 done Build your own NAS! A custom Raspberry Pi build with OpenMediaVault and an Argon One M2 Case
+ 13.04.2023 22:25:54 done Building a 10-Node Kubernetes Cluster on Raspberry Pi &amp; Ubuntu Server
+ 13.04.2023 22:25:56 done Getting started with LXD Containerization (Full Guide!)
+ 13.04.2023 22:25:58 done Getting Started with cloud-init
+ 13.04.2023 22:26:00 done Pop!_OS - FULL Beginners Guide (updated for 21.04)
+ 13.04.2023 22:26:03 done Launching a Windows VM in Proxmox
+ 13.04.2023 22:26:05 done Flatpak Tutorial - Setting up Flatpak and installing Packages
+ 13.04.2023 22:26:07 done Git Essentials
+ 13.04.2023 22:26:09 done Linux Crash Course: Background (bg) and Foreground (fg)
+ 13.04.2023 22:26:11 done Deploying Ubuntu Instances with MAAS
+ 13.04.2023 22:26:14 done The OpenSSH Client Config File: Simplify your SSH Connections
+ 13.04.2023 22:26:16 done Linux Command-Line Tips &amp; Tricks: Over 15 Examples!
+ 13.04.2023 22:26:18 done Boosting your Linux Server Security with CrowdSec
+ 13.04.2023 22:26:20 done Proxmox Backup Server: Full Getting Started Guide!
+ 13.04.2023 22:26:23 done Resetting OpenSSH Host Keys (the easy method)
+ 13.04.2023 22:26:25 done Getting Started with OpenSSH Key Management
+ 13.04.2023 22:26:27 done Build an Awesome Nextcloud Server (For Ubuntu 20.04)
+ 13.04.2023 22:26:29 done Recovering Files from your PC (using Linux)
+ 13.04.2023 22:26:32 done How to get WiFi working on Linux
+ 13.04.2023 22:26:34 done YubiKey Complete Getting Started Guide!
+ 13.04.2023 22:26:36 done Rocky Linux: Full Installation Walkthrough
+ 13.04.2023 22:26:38 done AlmaLinux OS: Full Installation Walkthrough
+ 13.04.2023 22:26:41 done Backing up a Linux Server with rsync
+ 13.04.2023 22:26:43 done Building your own Git Server with Gitea on AlmaLinux
+ 13.04.2023 22:26:45 done Modernize your Linux Storage with btrfs!
+ 13.04.2023 22:26:47 done Proxmox VE - How to build an Ubuntu 22.04 Template (Updated Method)
+ 13.04.2023 22:26:49 done Build an Awesome Nextcloud Server (Updated for Ubuntu 22.04!)
+ 13.04.2023 22:26:52 done How to Interpret Load Average in Linux (Linux Crash Course Series)
+ 13.04.2023 22:26:54 done Ubuntu Server 22.04 Live Installer Walkthrough
+ 13.04.2023 22:26:56 done External GPU's - A Good Solution for Linux Gaming? Everything You'll Need to Know
+ 13.04.2023 22:26:58 done The Best Method for Building a Custom Firefox Install on Linux
+ 13.04.2023 22:27:01 done 10 Linux Terminal Tips and Tricks to Enhance Your Workflow
+ 13.04.2023 22:27:03 done 5 Must Have Tweaks to Secure OpenSSH
+ 13.04.2023 22:27:05 done Build Your Own Mastodon Server on Debian (Step
+ 13.04.2023 22:27:07 done ThinLinc Overview and Tutorial - How to Install and Utilize this Linux Remote Desktop Solution
+ 13.04.2023 22:27:10 done How to Easily Write SD cards for use with the Raspberry Pi
+ 13.04.2023 22:27:12 done How to Set Up an NFS Server on Ubuntu (Complete with AutoFS!)
+ 13.04.2023 22:27:14 done Reboot Free Kernel Patches with KernelCare Enterprise (Overview/Setup Tutorial)
+ 13.04.2023 22:27:16 done How to Deploy Your Own Gitlab CE Instance with Ubuntu on Linode
+ 13.04.2023 22:27:18 done Essential First Steps for Every New Linux Server Build
+ 13.04.2023 22:27:21 done How to create a Ventoy Bootable Flash Drive for Linux Distribution Installation and Testing
+ 13.04.2023 22:27:23 done How You Can Easily Swap Linux Kernels with Ubuntu Mainline
+ 13.04.2023 22:27:23 done Full Guides
+ 13.04.2023 22:27:54 done Ubuntu Book Authors Live Stream Q &amp; A
+ 13.04.2023 22:27:56 done Linux Switchers Live Stream (Spring 2022)
+ 13.04.2023 22:27:59 done LIVE Distro Review: Manjaro 21.1 &quot;Pahvo&quot; (GNOME Edition)
+ 13.04.2023 22:28:01 done Bodhi Linux 6.0 livestream Distro Review
+ 13.04.2023 22:28:03 done LearnLinuxTV Live Stream #2: Channel updates, and answering your questions
+ 13.04.2023 22:28:05 done LearnLinuxTV Live Stream #1: &quot;Version 3.0&quot; of the channel, and answering your questions
+ 13.04.2023 22:28:06 done LearnLinuxTV Live
+ 13.04.2023 22:28:34 done Awesome Linux Tools: UChecker
+ 13.04.2023 22:28:36 done Awesome Linux Tools: Ulauncher
+ 13.04.2023 22:28:38 done Awesome Linux Tools: cheat.sh
+ 13.04.2023 22:28:41 done Awesome Linux Tools: bpytop
+ 13.04.2023 22:28:43 done Awesome Linux Tools: The &quot;micro&quot; text editor
+ 13.04.2023 22:28:45 done Awesome Linux Tools - VSCodium
+ 13.04.2023 22:28:48 done Awesome Linux Tools: Lynis from CISOfy
+ 13.04.2023 22:28:50 done Awesome Linux Tools - Cockpit
+ 13.04.2023 22:28:52 done Top 5 Terminal Emulators
+ 13.04.2023 22:28:54 done Awesome Linux Tools - ncdu, Scan your Hard Disk and free up Space!
+ 13.04.2023 22:28:57 done Awesome Linux Tools: ripgrep (rg)
+ 13.04.2023 22:28:59 done Using nmap to scan networks (Awesome Linux Tools)
+ 13.04.2023 22:29:01 done I wrote an Entire Book with Free and Open-Source Software
+ 13.04.2023 22:29:03 done Awesome Linux Tools: The bat Command
+ 13.04.2023 22:29:06 done How to create a Ventoy Bootable Flash Drive for Linux Distribution Installation and Testing
+ 13.04.2023 22:29:06 done Awesome Linux Tools
+ 13.04.2023 22:29:39 done Getting started with Ansible 01 - Introduction
+ 13.04.2023 22:29:41 done Getting started with Ansible 02 - SSH Overview &amp; Setup
+ 13.04.2023 22:29:43 done Getting started with Ansible 03 - Setting up the Git Repository
+ 13.04.2023 22:29:45 done Getting started with Ansible 04 - Running ad-hoc Commands
+ 13.04.2023 22:29:48 done Getting started with Ansible 05 - Running elevated ad-hoc Commands
+ 13.04.2023 22:29:50 done Getting started with Ansible 06 - Writing our first Playbook
+ 13.04.2023 22:29:52 done Getting started with Ansible 07 - The 'when' Conditional
+ 13.04.2023 22:29:55 done Getting Started with Ansible 08 - Improving your Playbook
+ 13.04.2023 22:29:57 done Getting started with Ansible 09 - Targeting Specific Nodes
+ 13.04.2023 22:29:59 done Getting started with Ansible 10 - Tags
+ 13.04.2023 22:30:01 done Getting started with Ansible 11 - Managing Files
+ 13.04.2023 22:30:03 done Getting started with Ansible 12 - Managing Services
+ 13.04.2023 22:30:06 done Getting started with Ansible 13 - Adding Users &amp; Bootstrapping
+ 13.04.2023 22:30:08 done Getting started with Ansible 14 - Roles
+ 13.04.2023 22:30:10 done Getting started with Ansible 15 - Host Variables and Handlers
+ 13.04.2023 22:30:13 done Getting started with Ansible 16 (Series Finale) - Templates
+ 13.04.2023 22:30:13 done Getting started with Ansible
+ 13.04.2023 22:30:45 done Learn CentOS Part 1 - Introduction and Installation
+ 13.04.2023 22:30:47 done Learn CentOS Part 2 - Navigating the GNOME Desktop
+ 13.04.2023 22:30:49 done Learn CentOS Part 3 - Exploring the Linux Filesystem
+ 13.04.2023 22:30:51 done Learn CentOS Part 4 - Editing Files
+ 13.04.2023 22:30:53 done Learn CentOS Part 5 - Moving and Renaming Files
+ 13.04.2023 22:30:56 done Learn CentOS Part 6 - Running Commands with root Privileges
+ 13.04.2023 22:30:58 done Learn CentOS Part 7 - Changing the Hostname
+ 13.04.2023 22:31:00 done Learn Centos Part 8 - Managing Groups
+ 13.04.2023 22:31:02 done Learn CentOS Part 9 - Configuring sudo Access
+ 13.04.2023 22:31:04 done Learn CentOS Part 10 - Managing Users
+ 13.04.2023 22:31:07 done Learn CentOS Part 11 - Installing and removing Packages
+ 13.04.2023 22:31:09 done Learn CentOS Part 12 - Software Repositories &amp; Adding EPEL
+ 13.04.2023 22:31:11 done Learn CentOS Part 13 - Understanding File Permissions
+ 13.04.2023 22:31:14 done Learn CentOS Part 14 - Modifying File Permissions
+ 13.04.2023 22:31:16 done Learn CentOS Part 15 - Numerical File Permissions
+ 13.04.2023 22:31:18 done Learn CentOS 16 - Shell Variables
+ 13.04.2023 22:31:20 done Learn CentOS 17 - Introduction to Scripting
+ 13.04.2023 22:31:23 done Learn CentOS 18 - Bash Aliases
+ 13.04.2023 22:31:25 done Learn CentOS 19 - Streams
+ 13.04.2023 22:31:27 done Learn CentOS 20 - Managing systemd Units
+ 13.04.2023 22:31:29 done Learn CentOS 21 - journalctl
+ 13.04.2023 22:31:31 done Learn CentOS 22 - Hosting a Simple Web Page with Apache
+ 13.04.2023 22:31:34 done Learn CentOS 23 - Monitoring System Resources
+ 13.04.2023 22:31:36 done Learn CentOS 24 - Managing Storage
+ 13.04.2023 22:31:37 done Learn CentOS
+ 13.04.2023 22:32:08 done The Raspberry Pi Pironman Case - There's a Status Display!
+ 13.04.2023 22:32:10 done Hands-on with the Turing Pi 2!
+ 13.04.2023 22:32:12 done Checking out Pop!_OS 21.10 on the Raspberry Pi
+ 13.04.2023 22:32:15 done Review: The 19&quot; Raspberry Pi Rack Mount from 52pi
+ 13.04.2023 22:32:17 done DeskPi Pro v2 Review - Turn your Raspberry Pi into a Desktop!
+ 13.04.2023 22:32:19 done Tom Brought me a 3D Printed Raspberry Pi rack!
+ 13.04.2023 22:32:21 done Build your own NAS! A custom Raspberry Pi build with OpenMediaVault and an Argon One M2 Case
+ 13.04.2023 22:32:24 done How to Homelab: 3 awesome apps to run on your Raspberry Pi
+ 13.04.2023 22:32:26 done Nextcloud: Complete Setup Guide
+ 13.04.2023 22:32:28 done The Raspberry Pi is a great way to get started with Homelab! (How to Homelab Episode 4)
+ 13.04.2023 22:32:30 done Running Classic MS-DOS games on the Pi 400 with RetroPie and DOSBox
+ 13.04.2023 22:32:33 done The Raspberry Pi 400 - A full computer in a keyboard!
+ 13.04.2023 22:32:35 done 7 Halloween-themed Retro-Games for RetroPie
+ 13.04.2023 22:32:37 done Checking out the Turing Pi: Quick Review and First Impressions
+ 13.04.2023 22:32:40 done Two Ways you can Enhance your Pinebook Pro workflow with a Raspberry Pi
+ 13.04.2023 22:32:42 done Testing the 8GB Raspberry Pi Desktop Kit from CanaKit
+ 13.04.2023 22:32:44 done Setting up a Raspberry Pi Kubernetes Cluster with Ubuntu 20.04
+ 13.04.2023 22:32:46 done Checking out the new 8GB Raspberry Pi 4 and 64-bit Raspberry Pi OS Beta
+ 13.04.2023 22:32:49 done Build a Raspberry Pi 4 Retro-Gaming Console with RetroPie (Complete Guide)
+ 13.04.2023 22:32:51 done RetroPie 4.6 - Testing some games on the Raspberry Pi 4
+ 13.04.2023 22:32:53 done Building a Raspberry-Pi Storage Server with OpenMediaVault
+ 13.04.2023 22:32:56 done How to build your own Raspberry Pi Kubernetes Cluster
+ 13.04.2023 22:32:58 done How to Back Up/Image your SD Card on Linux
+ 13.04.2023 22:33:00 done How to (properly) flash SD Cards for use with Raspberry Pi from Linux
+ 13.04.2023 22:33:01 done Raspberry Pi
+ 13.04.2023 22:33:32 done Vim Text Editor for Beginners Part 1 - Introduction
+ 13.04.2023 22:33:34 done Vim Text Editor for Beginners Part 2 - Combining Files
+ 13.04.2023 22:33:37 done Vim Text Editor for Beginners Part 3 - Additional Tricks
+ 13.04.2023 22:33:39 done Vim Text Editor for Beginners Part 4 - Buffers
+ 13.04.2023 22:33:41 done Vim Text Editor for Beginners Part 5 - Visual Mode
+ 13.04.2023 22:33:43 done Vim Text Editor for Beginners Part 6 - Multitasking
+ 13.04.2023 22:33:46 done Vim Text Editor for Beginners Part 7 - Additional Tips
+ 13.04.2023 22:33:46 done Vim Beginners Guide
+ 13.04.2023 22:34:18 done Linux Commands for Beginners 01 - Introduction
+ 13.04.2023 22:34:20 done Linux Commands for Beginners 02 - Setting up a Cloud Instance
+ 13.04.2023 22:34:22 done Linux Commands for Beginners 03 - Setting up a Virtualbox Virtual Machine
+ 13.04.2023 22:34:24 done Linux Commands for Beginners 04 - Navigating the Filesystem
+ 13.04.2023 22:34:27 done Linux Commands for Beginners 05 - Basic File Editing
+ 13.04.2023 22:34:29 done Linux Commands for Beginners 06 - Moving and Renaming Files
+ 13.04.2023 22:34:31 done Linux Commands for Beginners 07 - The Bash Configuration File
+ 13.04.2023 22:34:33 done Linux Commands for Beginners 08 - Command Aliases
+ 13.04.2023 22:34:36 done Linux Commands for Beginners 09 - Understanding Permissions
+ 13.04.2023 22:34:38 done Linux Commands for Beginners 10 - Checking Resource Usage
+ 13.04.2023 22:34:40 done Linux Commands for Beginners 11 - Intro to Package Management on Debian-based Distributions
+ 13.04.2023 22:34:42 done Linux Commands for Beginners 12 - Managing systemd Units
+ 13.04.2023 22:34:45 done Linux Commands for Beginners 13 - Viewing Logs
+ 13.04.2023 22:34:47 done Linux Commands for Beginners 14 - Managing Users
+ 13.04.2023 22:34:49 done Linux Commands for Beginners 15 - Bash History
+ 13.04.2023 22:34:52 done Linux Commands for Beginners 16 - Output Redirection
+ 13.04.2023 22:34:54 done Linux Commands for Beginners 17 - Streams
+ 13.04.2023 22:34:56 done Linux Commands for Beginners 18 - Variables
+ 13.04.2023 22:34:58 done Linux Commands for Beginners 19 - The find Command
+ 13.04.2023 22:35:01 done Linux commands for Beginners 20 - Package Management on Fedora and CentOS (dnf and yum)
+ 13.04.2023 22:35:03 done Linux Commands for Beginners 21 - Changing Permissions Numerically
+ 13.04.2023 22:35:05 done Linux Commands for Beginners 22 - Remote Management with OpenSSH
+ 13.04.2023 22:35:08 done Linux Commands for Beginners 23 - Transferring Files with scp
+ 13.04.2023 22:35:10 done Linux Commands for Beginners 24 - Transferring Files with rsync
+ 13.04.2023 22:35:10 done Linux Commands for Beginners
+ 13.04.2023 22:35:43 done Getting Started with tmux Part 1 - Overview and Features
+ 13.04.2023 22:35:45 done Getting Started with tmux Part 2 - Horizontal and Vertical Panes
+ 13.04.2023 22:35:47 done Getting Started with tmux Part 3 - Creating and Managing Windows
+ 13.04.2023 22:35:50 done Getting Started with tmux Part 4 - Creating and Switching Between Sessions
+ 13.04.2023 22:35:52 done Getting Started with tmux Part 5 - Customization and Tweaks
+ 13.04.2023 22:35:52 done Getting Started with tmux
+ 13.04.2023 22:36:25 done External GPU's - A Good Solution for Linux Gaming? Everything You'll Need to Know
+ 13.04.2023 22:36:27 done Ubuntu 22.04 LTS - Full Installation Walkthrough
+ 13.04.2023 22:36:29 done AlmaLinux OS: Full Installation Walkthrough
+ 13.04.2023 22:36:31 done Rocky Linux: Full Installation Walkthrough
+ 13.04.2023 22:36:34 done Testing the new Arch Linux Guided Installer
+ 13.04.2023 22:36:36 done Build your own NAS! A custom Raspberry Pi build with OpenMediaVault and an Argon One M2 Case
+ 13.04.2023 22:36:38 done Arch Linux: Full Installation Guide - A complete tutorial/walkthrough in one video!
+ 13.04.2023 22:36:40 done How to migrate CentOS 8 to AlmaLinux
+ 13.04.2023 22:36:43 done Landscape - Server &amp; Client Installation Walkthrough (On-Prem)
+ 13.04.2023 22:36:45 done A few things you should do BEFORE installing Linux (Linux for Noobs Episode 2)
+ 13.04.2023 22:36:47 done Pop!_OS 20.10 Full Installation Walkthrough
+ 13.04.2023 22:36:49 done Ubuntu 20.10 Full Installation Walkthrough
+ 13.04.2023 22:36:52 done How to Create Bootable USB Linux Media with usbimager
+ 13.04.2023 22:36:54 done Ubuntu Server 20.04 Full Installation Walkthrough
+ 13.04.2023 22:36:56 done How to: Dual Boot Linux Mint 20 with Windows 10
+ 13.04.2023 22:36:58 done Linux Mint 20 &quot;Ulyana&quot; Full Installation Walkthrough
+ 13.04.2023 22:37:01 done Build a Raspberry Pi 4 Retro-Gaming Console with RetroPie (Complete Guide)
+ 13.04.2023 22:37:03 done Adding Flatpak Support to Ubuntu, and Installing the Foliate eBook Reader
+ 13.04.2023 22:37:05 done Ubuntu 20.04 Full Installation Walkthrough
+ 13.04.2023 22:37:07 done Running the System76 Pop Shell (on Ubuntu 20.04)
+ 13.04.2023 22:37:09 done Building a Low Energy Virtualization Server for Your Office/Homelab with Proxmox
+ 13.04.2023 22:37:12 done Learn CentOS Part 11 - Installing and removing Packages
+ 13.04.2023 22:37:14 done Building a Low Energy Storage Server for your Office/Homelab
+ 13.04.2023 22:37:16 done Building a Raspberry-Pi Storage Server with OpenMediaVault
+ 13.04.2023 22:37:19 done Learn CentOS Part 1 - Introduction and Installation
+ 13.04.2023 22:37:21 done Installing and Reinstalling Linux on the Pinebook Pro
+ 13.04.2023 22:37:23 done MX Linux 19 Installation Walkthrough
+ 13.04.2023 22:37:25 done Fedora 31 - Installation Overview
+ 13.04.2023 22:37:28 done Ubuntu MATE 19.10 - Overview of the Installation Process
+ 13.04.2023 22:37:30 done How to Install Pop!_OS 19.10 - Clean Installation Overview
+ 13.04.2023 22:37:32 done Pop!_OS 19.10 - Setting up a Dual Boot with Windows 10
+ 13.04.2023 22:37:34 done Pop!_OS 19.10 - How to Upgrade from 19.04
+ 13.04.2023 22:37:37 done Ubuntu 19.10 Installation Overview and Walkthrough
+ 13.04.2023 22:37:39 done How to Create your Very Own Linux Cloud Instance on Linode
+ 13.04.2023 22:37:41 done Installing Updates on Proxmox with no VM Downtime
+ 13.04.2023 22:37:43 done How to install Debian 10 &quot;Buster&quot; (Net Install Method) Installation Walkthrough
+ 13.04.2023 22:37:46 done How to install Debian 10 &quot;Buster&quot; (Live Media Method) Installation Walkthrough and Tutorial
+ 13.04.2023 22:37:48 done Installing normal (non-ESR) Firefox on Debian 10 Buster (works on other distributions too)
+ 13.04.2023 22:37:50 done Advanced Manjaro Installation Walkthrough with Manjaro Architect
+ 13.04.2023 22:37:53 done Linux Mint Beginners Guide Part 03 - Installing and Updating Applications
+ 13.04.2023 22:37:55 done Linux Mint Beginners Guide Part 01 - Introduction and Installation
+ 13.04.2023 22:37:57 done Ubuntu 19.04 Installation Overview and Walkthrough
+ 13.04.2023 22:37:59 done Ubuntu 19.04 Installation Overview and Walkthrough
+ 13.04.2023 22:38:01 done Manjaro Installation Walkthrough
+ 13.04.2023 22:38:04 done KDE Neon Installation Walkthrough
+ 13.04.2023 22:38:06 done Installing Linux Mint 19.1
+ 13.04.2023 22:38:08 done Antergos 18.12 Installation and Distribution Overview
+ 13.04.2023 22:38:11 done How to Dual-Boot Windows and Ubuntu 16.04
+ 13.04.2023 22:38:13 done How to Dual-Boot Windows and Ubuntu 16.04
+ 13.04.2023 22:38:15 done How to Dual-Boot Windows and Ubuntu 16.04
+ 13.04.2023 22:38:17 done Tutorial - Installing Ubuntu MATE 16.04
+ 13.04.2023 22:38:18 done Installation Guides
+ 13.04.2023 22:38:53 done Linux Crash Course - The cut Command
+ 13.04.2023 22:38:56 done Linux Crash Course - The tr Command
+ 13.04.2023 22:38:58 done How You Can Easily Swap Linux Kernels with Ubuntu Mainline
+ 13.04.2023 22:39:00 done Linux Crash Course - Learn The &quot;man&quot; Command!
+ 13.04.2023 22:39:02 done How to Manage OpenStack Private Clouds Episode 6 - Automating Cloud Deployments
+ 13.04.2023 22:39:05 done How to create a Ventoy Bootable Flash Drive for Linux Distribution Installation and Testing
+ 13.04.2023 22:39:07 done How to Manage OpenStack Private Clouds Episode 5 - Combining OpenStack and OpenShift
+ 13.04.2023 22:39:09 done How to Manage OpenStack Private Clouds Episode 4 - Building Virtual Networks (Neutron)
+ 13.04.2023 22:39:11 done Linux Crash Course - The zypper Command
+ 13.04.2023 22:39:14 done How to Manage OpenStack Private Clouds Episode 3 - Setting Up Block Storage Volumes
+ 13.04.2023 22:39:16 done How to Manage OpenStack Private Clouds Episode 2 - How to Launch Compute Instances
+ 13.04.2023 22:39:18 done How to Deploy Your Own Gitlab CE Instance with Ubuntu on Linode
+ 13.04.2023 22:39:20 done Essential First Steps for Every New Linux Server Build
+ 13.04.2023 22:39:23 done Linux Crash Course - Connecting to Linux Servers via SSH
+ 13.04.2023 22:39:25 done Linux Crash Course - Desktop Environments
+ 13.04.2023 22:39:27 done Learn OpenStack Episode 1 - Introduction to Private Cloud Administration
+ 13.04.2023 22:39:29 done Reboot Free Kernel Patches with KernelCare Enterprise (Overview/Setup Tutorial)
+ 13.04.2023 22:39:32 done Awesome Linux Tools: The bat Command
+ 13.04.2023 22:39:34 done How to Set Up an NFS Server on Ubuntu (Complete with AutoFS!)
+ 13.04.2023 22:39:36 done Demystifying Hostnames and Domain Names in Linux, and How Server Naming Benefits You
+ 13.04.2023 22:39:39 done How to Easily Write SD cards for use with the Raspberry Pi
+ 13.04.2023 22:39:41 done How to Use The ls Command on the Linux Command Line
+ 13.04.2023 22:39:43 done ThinLinc Overview and Tutorial - How to Install and Utilize this Linux Remote Desktop Solution
+ 13.04.2023 22:39:45 done Linux Crash Course - The &quot;watch&quot; Command
+ 13.04.2023 22:39:48 done Bash Scripting on Linux (The Complete Guide) Class 16 - Arguments
+ 13.04.2023 22:39:50 done Linux Crash Course Series - How to Share Files via SSHFS
+ 13.04.2023 22:39:52 done Bash Scripting on Linux (The Complete Guide) Class 18 - Closing/Next Steps
+ 13.04.2023 22:39:54 done Bash Scripting on Linux (The Complete Guide) Class 17 - Backup Script
+ 13.04.2023 22:39:57 done Bash Scripting on Linux (The Complete Guide) Class 15 - Scheduling Jobs (Part 2)
+ 13.04.2023 22:39:59 done Bash Scripting on Linux (The Complete Guide) Class 14 - Scheduling Jobs (Part 1)
+ 13.04.2023 22:40:01 done Bash Scripting on Linux (The Complete Guide) Class 13 - Case Statements
+ 13.04.2023 22:40:03 done Bash Scripting on Linux (The Complete Guide) Class 12 - Functions
+ 13.04.2023 22:40:06 done Bash Scripting on Linux (The Complete Guide) Class 11 - Data Streams
+ 13.04.2023 22:40:08 done Bash Scripting on Linux (The Complete Guide) Class 10 - Where to Store Scripts
+ 13.04.2023 22:40:10 done Bash Scripting on Linux (The Complete Guide) Class 09 - For Loops
+ 13.04.2023 22:40:12 done Bash Scripting on Linux (The Complete Guide) Class 08 - Universal Update Script
+ 13.04.2023 22:40:14 done Bash Scripting on Linux (The Complete Guide) Class 07 - While Loops
+ 13.04.2023 22:40:17 done Bash Scripting on Linux (The Complete Guide) Class 06 - Exit Codes
+ 13.04.2023 22:40:19 done Bash Scripting on Linux (The Complete Guide) Class 05 - If Statements
+ 13.04.2023 22:40:21 done Bash Scripting on Linux (The Complete Guide) Class 04 - Basic Math
+ 13.04.2023 22:40:24 done Bash Scripting on Linux (The Complete Guide) Class 03 - Variables
+ 13.04.2023 22:40:26 done Bash Scripting on Linux (The Complete Guide) Class 02 - Hello World
+ 13.04.2023 22:40:28 done Bash Scripting on Linux (The Complete Guide) Class 01 - Course Introduction
+ 13.04.2023 22:40:31 done Build Your Own Mastodon Server on Debian (Step
+ 13.04.2023 22:40:33 done 5 Must Have Tweaks to Secure OpenSSH
+ 13.04.2023 22:40:35 done What is $PATH on a Linux Shell? (The Linux Crash Course Series)
+ 13.04.2023 22:40:37 done 10 Linux Terminal Tips and Tricks to Enhance Your Workflow
+ 13.04.2023 22:40:40 done Linux Crash Course - Understanding Logging
+ 13.04.2023 22:40:42 done Linux Crash Course - The diff Command
+ 13.04.2023 22:40:44 done The Best Method for Building a Custom Firefox Install on Linux
+ 13.04.2023 22:40:46 done OpenStack - The BEST Way to Build Your Own Private Cloud
+ 13.04.2023 22:40:49 done How to Build an Awesome Kubernetes Cluster using Proxmox Virtual Environment
+ 13.04.2023 22:40:51 done The cat Command in Linux (Featuring Real Cats) - Linux Crash Course Series
+ 13.04.2023 22:40:53 done Build an Awesome Nextcloud Server (Updated for Ubuntu 22.04!)
+ 13.04.2023 22:40:56 done Ubuntu Server 22.04 Live Installer Walkthrough
+ 13.04.2023 22:40:58 done How to Interpret Load Average in Linux (Linux Crash Course Series)
+ 13.04.2023 22:41:00 done How to Archive Folders in Linux (tar and gzip tutorial) - Linux Crash Course Series
+ 13.04.2023 22:41:02 done Using nmap to scan networks (Awesome Linux Tools)
+ 13.04.2023 22:41:05 done Proxmox VE - How to build an Ubuntu 22.04 Template (Updated Method)
+ 13.04.2023 22:41:07 done Linux Crash Course - The head and tail Commands
+ 13.04.2023 22:41:09 done Linux Crash Course - The df and du Commands
+ 13.04.2023 22:41:12 done Modernize your Linux Storage with btrfs!
+ 13.04.2023 22:41:14 done Linux Crash Course - The wget Command
+ 13.04.2023 22:41:16 done Linux Crash Course - The ping Command
+ 13.04.2023 22:41:18 done Linux Crash Course - Understanding Memory and Swap Usage
+ 13.04.2023 22:41:20 done Linux Crash Course - The dnf Command
+ 13.04.2023 22:41:23 done Building your own Git Server with Gitea on AlmaLinux
+ 13.04.2023 22:41:25 done Backing up a Linux Server with rsync
+ 13.04.2023 22:41:27 done Ubuntu 22.04 LTS - Full Installation Walkthrough
+ 13.04.2023 22:41:30 done AlmaLinux OS: Full Installation Walkthrough
+ 13.04.2023 22:41:32 done Rocky Linux: Full Installation Walkthrough
+ 13.04.2023 22:41:34 done YubiKey Complete Getting Started Guide!
+ 13.04.2023 22:41:37 done How to get WiFi working on Linux
+ 13.04.2023 22:41:39 done Linux Crash Course - The grep Command
+ 13.04.2023 22:41:41 done Awesome Linux Tools - ncdu, Scan your Hard Disk and free up Space!
+ 13.04.2023 22:41:44 done Linux Crash Course - The sar Command
+ 13.04.2023 22:41:46 done Linux Crash Course - The echo Command
+ 13.04.2023 22:41:48 done Linux Crash Course - Bash History
+ 13.04.2023 22:41:51 done Recovering Files from your PC (using Linux)
+ 13.04.2023 22:41:53 done Linux Crash Course - usermod
+ 13.04.2023 22:41:55 done Build an Awesome Nextcloud Server (For Ubuntu 20.04)
+ 13.04.2023 22:41:57 done Awesome Linux Tools - Cockpit
+ 13.04.2023 22:42:00 done Linux Crash Course - sudo
+ 13.04.2023 22:42:02 done Linux Crash Course - htop
+ 13.04.2023 22:42:04 done Getting Started with OpenSSH Key Management
+ 13.04.2023 22:42:07 done Resetting OpenSSH Host Keys (the easy method)
+ 13.04.2023 22:42:09 done Proxmox Backup Server: Full Getting Started Guide!
+ 13.04.2023 22:42:11 done Linux Crash Course - The ps Command
+ 13.04.2023 22:42:14 done Awesome Linux Tools: Lynis from CISOfy
+ 13.04.2023 22:42:16 done Boosting your Linux Server Security with CrowdSec
+ 13.04.2023 22:42:18 done Linux Command-Line Tips &amp; Tricks: Over 15 Examples!
+ 13.04.2023 22:42:21 done Linux Crash Course - Data Streams (stdin, stdout &amp; stderr)
+ 13.04.2023 22:42:23 done The OpenSSH Client Config File: Simplify your SSH Connections
+ 13.04.2023 22:42:25 done Linux Crash Course - nano (command-line text editor)
+ 13.04.2023 22:42:27 done Deploying Ubuntu Instances with MAAS
+ 13.04.2023 22:42:30 done Proxmox VE Full Course: Class 16 - High Availability
+ 13.04.2023 22:42:32 done Proxmox VE Full Course: Class 15  - Clustering
+ 13.04.2023 22:42:34 done Proxmox VE Full Course: Class 14 - Shared Storage
+ 13.04.2023 22:42:37 done Proxmox VE Full Course: Class 13 - Networking
+ 13.04.2023 22:42:39 done Linux Crash Course - User Account &amp; Password Expiration
+ 13.04.2023 22:42:39 done All Tutorials
+ 13.04.2023 22:43:13 done Review: GNOME 44 is a Great Release (Mostly)
+ 13.04.2023 22:43:15 done New Linux Distro: The &quot;Flatpak Remix&quot; of Ubuntu!
+ 13.04.2023 22:43:18 done Fedora Workstation 37: A Linux Distro with Few New Features, Still Awesome
+ 13.04.2023 22:43:20 done Ubuntu 22.10 is a HUGE improvement over 22.04!
+ 13.04.2023 22:43:22 done Taking GNOME 43 for a Spin - Full Review
+ 13.04.2023 22:43:24 done Linux Mint 21 Cinnamon Edition: A Great Linux Distro (but with a Few Rough Edges)
+ 13.04.2023 22:43:27 done I decided to take Ubuntu MATE 22.04 LTS for a Spin
+ 13.04.2023 22:43:29 done Is Ubuntu a bad Linux Distro?
+ 13.04.2023 22:43:31 done Why Fedora 36 is a great GNOME Distro! (Full Review)
+ 13.04.2023 22:43:33 done Pop!_OS 22.04: Full Review
+ 13.04.2023 22:43:36 done Ubuntu 22.04 LTS &quot;Jammy Jellyfish&quot; Full Review
+ 13.04.2023 22:43:38 done April Fools 2022: Dad Joke Linux
+ 13.04.2023 22:43:40 done Linux Servers: Which Distro should you use?!
+ 13.04.2023 22:43:43 done Checking out Pop!_OS 21.10 on the Raspberry Pi
+ 13.04.2023 22:43:45 done Pop!_OS 21.10 - Full Review!
+ 13.04.2023 22:43:47 done Fedora 35 - Full Review
+ 13.04.2023 22:43:49 done Ubuntu 21.10 - Full Review
+ 13.04.2023 22:43:52 done Live-patching QEMU with QEMUCare
+ 13.04.2023 22:43:54 done Taking a look at CrowdSec: Installation &amp; Example Scenario
+ 13.04.2023 22:43:56 done Linux Distro Review: Crunchbang++ 11
+ 13.04.2023 22:43:59 done LIVE Distro Review: Manjaro 21.1 &quot;Pahvo&quot; (GNOME Edition)
+ 13.04.2023 22:44:01 done Review: Debian 11 &quot;Bullseye&quot; - How it misses the mark, and why it's still Great!
+ 13.04.2023 22:44:03 done Pop!_OS 21.04 Full Review - Cosmic is Awesome!
+ 13.04.2023 22:44:06 done The RasPad 3 - Turn your Raspberry Pi into a Tablet! (Full Review)
+ 13.04.2023 22:44:08 done The RasPad 3 - Unboxing and Assembly
+ 13.04.2023 22:44:10 done Pinephone Review (and why we NEED this phone!)
+ 13.04.2023 22:44:12 done OpenSUSE Leap 15.3 Full Review (Featuring Mycroft)
+ 13.04.2023 22:44:15 done Hands-on: The System76 &quot;Launch&quot; keyboard! (Full Review)
+ 13.04.2023 22:44:17 done MX Linux 19.4 Full Review
+ 13.04.2023 22:44:19 done Checking out Kubuntu 21.04: Full Review
+ 13.04.2023 22:44:21 done Bodhi Linux 6 - Full Review
+ 13.04.2023 22:44:24 done Full Review: Ubuntu Cinnamon Remix 21.04
+ 13.04.2023 22:44:26 done Bodhi Linux 6.0 livestream Distro Review
+ 13.04.2023 22:44:28 done Fedora 34 Reviewed: A Great GNOME distro that's worth checking out!
+ 13.04.2023 22:44:30 done Ubuntu 21.04 &quot;Hirsute Hippo&quot; Review - Why did they even bother?
+ 13.04.2023 22:44:33 done Linux Desktops in the Cloud with Shells.com
+ 13.04.2023 22:44:35 done openSUSE Tumbleweed: My First Impressions
+ 13.04.2023 22:44:37 done openSUSE 15.3 First Impressions &amp; Preview
+ 13.04.2023 22:44:40 done Pop!_OS 21.04 Preview: Test-driving the Cosmic Desktop!
+ 13.04.2023 22:44:42 done Mycroft takes over the LearnLinuxTV Studios and reviews Debian (April Fools 2021)
+ 13.04.2023 22:44:44 done Manjaro ARM on the Raspberry Pi 400
+ 13.04.2023 22:44:47 done GNOME 40 - First Thoughts
+ 13.04.2023 22:44:49 done Linux for Noobs: Choosing a Distro (10 distributions shown!)
+ 13.04.2023 22:44:51 done First Look: AlmaLinux
+ 13.04.2023 22:44:53 done Awesome Linux Tools: The &quot;micro&quot; text editor
+ 13.04.2023 22:44:56 done Checking out Rudder - A Dashboard &amp; Compliance Tool for your Linux Servers
+ 13.04.2023 22:44:58 done Review - Fedora Workstation 33 (and why you should avoid it)
+ 13.04.2023 22:45:00 done Pop!_OS 20.10 - Full Review
+ 13.04.2023 22:45:02 done Ubuntu 20.10 Review - Is it worth the Upgrade?
+ 13.04.2023 22:45:05 done Review - The Verix 9100 Linux Laptop from ZaReason
+ 13.04.2023 22:45:07 done Linux Mint 20 &quot;Ulyana&quot; Cinnamon Edition, Full Review
+ 13.04.2023 22:45:09 done Checking out the new 8GB Raspberry Pi 4 and 64-bit Raspberry Pi OS Beta
+ 13.04.2023 22:45:12 done Checking Out Ubuntu MATE 20.04
+ 13.04.2023 22:45:14 done Checking out Manjaro 20 GNOME and Xfce
+ 13.04.2023 22:45:16 done RetroPie 4.6 - Testing some games on the Raspberry Pi 4
+ 13.04.2023 22:45:18 done Review - Pop!_OS 20.04
+ 13.04.2023 22:45:21 done Review - Fedora 32
+ 13.04.2023 22:45:23 done Ubuntu 20.04 LTS is the best release yet! (Full Review)
+ 13.04.2023 22:45:25 done Checking out Ubuntu 20.04 Ahead of its Release
+ 13.04.2023 22:45:28 done Revisiting the MATE Desktop with version 1.24
+ 13.04.2023 22:45:30 done Manjaro GNOME 19 - A Quick Look at Some of the New Features
+ 13.04.2023 22:45:32 done Review - Manjaro ARM (xfce edition) running on the Pinebook Pro!
+ 13.04.2023 22:45:34 done Reviewed: Linux Mint 19.3 &quot;Tricia&quot; (Cinnamon Edition)
+ 13.04.2023 22:45:37 done Ubuntu Cinnamon Remix 19.10 - First Look
+ 13.04.2023 22:45:39 done Linux Mint 19.3 &quot;Tricia&quot; Beta First Impressions
+ 13.04.2023 22:45:41 done Fedora Workstation 31 Full Review
+ 13.04.2023 22:45:43 done Ubuntu MATE 19.10 Full Review
+ 13.04.2023 22:45:46 done Pop!_OS Is Even Better With 19.10 (Full Review)
+ 13.04.2023 22:45:48 done Review: Ubuntu 19.10 &quot;Eoan Ermine&quot;
+ 13.04.2023 22:45:50 done Review: Manjaro 18.1 &quot;Juhraya&quot;
+ 13.04.2023 22:45:53 done Checking out Crunchbang++ 10 on my Thinkpad T480s
+ 13.04.2023 22:45:55 done Revisiting Netrunner (First Impressions of 19.08)
+ 13.04.2023 22:45:57 done Linux Mint 19.2 &quot;Tina&quot; Review (Cinnamon Edition)
+ 13.04.2023 22:45:59 done Debian 10 &quot;Buster&quot; Full Review and My Thoughts
+ 13.04.2023 22:46:02 done EndeavourOS - First Look &amp; My Impressions
+ 13.04.2023 22:46:04 done Fedora 30 Distribution Review
+ 13.04.2023 22:46:06 done Manjaro Openbox: First Impressions and Review
+ 13.04.2023 22:46:09 done Manjaro MATE: First Impressions and Overview
+ 13.04.2023 22:46:11 done Pop!_OS 19.04 Linux Distribution Review
+ 13.04.2023 22:46:13 done Ubuntu 19.04, My Review (And Why Most Users Should Avoid It)
+ 13.04.2023 22:46:15 done Checking out Crunchbang++
+ 13.04.2023 22:46:18 done My Impressions of Fedora 30 so far (Beta Review)
+ 13.04.2023 22:46:20 done Review - Manjaro KDE
+ 13.04.2023 22:46:22 done Review - Manjaro GNOME
+ 13.04.2023 22:46:25 done Review: KDE Neon
+ 13.04.2023 22:46:27 done Rolling Distro Smackdown: Antergos vs Manjaro
+ 13.04.2023 22:46:29 done Ubuntu 19.04 Beta First Impressions
+ 13.04.2023 22:46:32 done Taking Another Look at Manjaro
+ 13.04.2023 22:46:34 done My Review of the BEST Linux Distro EVER! (April Fools 2019)
+ 13.04.2023 22:46:36 done Trying Out KDE Plasma 5.15
+ 13.04.2023 22:46:38 done Taking Xubuntu 18.04.2 for a Spin
+ 13.04.2023 22:46:40 done Taking Another Look at Ubuntu MATE with 18.04.2 LTS
+ 13.04.2023 22:46:43 done Why Ubuntu is Even More Awesome with 18.04.2
+ 13.04.2023 22:46:45 done MX Linux 18 &quot;Continuum&quot; Review
+ 13.04.2023 22:46:47 done Linux Mint 19.1 &quot;Tessa&quot; Cinnamon Edition Review
+ 13.04.2023 22:46:50 done My System76 Galago Pro, Six Months Later
+ 13.04.2023 22:46:52 done Antergos 18.12 Installation and Distribution Overview
+ 13.04.2023 22:46:54 done Review - 2017 System76 Galago Pro Ultrabook
+ 13.04.2023 22:46:56 done Review - Ubuntu MATE 17.04
+ 13.04.2023 22:46:59 done Review - Linux Mint 18 (MATE Edition)
+ 13.04.2023 22:46:59 done Linux Distro Reviews
+ 13.04.2023 22:47:00 good end 
+ 13.04.2023 22:47:00 good end 

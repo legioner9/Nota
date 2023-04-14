@@ -1,0 +1,3 @@
+# [Learn Linux TV](https://www.youtube.com/@LearnLinuxTV/playlists)
+## [OpenStack Administrator's Guide](https://www.youtube.com/playlist?list=PLT98CRl2KxKHCPoR1nHmG2Tl5Q4r1-aiJ)
+### [How to Manage OpenStack Private Clouds Episode 2 - How to Launch Compute Instances](https://www.youtube.com/watch?v=D6J4wEn-R0Y&amp;list=PLT98CRl2KxKHCPoR1nHmG2Tl5Q4r1-aiJ&amp;index=3&amp;pp=iAQB)

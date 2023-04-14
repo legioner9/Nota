@@ -1,0 +1,54 @@
+ 13.04.2023 23:58:25 done 1 - Kubernetes CI/CD course (The Ultimate English Edition). Intro
+ 13.04.2023 23:58:27 done 2 CI-CD Kubernetes flows for dev, stage and production environments (The Ultimate English Edition)
+ 13.04.2023 23:58:30 done 3 Register GCP trial account + install Jenkins.Kubernetes CI/CD course: The Ultimate English Edition
+ 13.04.2023 23:58:32 done 4 Connect Jenkins to google container registry. Kubernetes CI/CD course:The Ultimate English Edition
+ 13.04.2023 23:58:34 done 5 - Jenkins pipelines for source code repositories. The Ultimate CI/CD course for Kubernetes (Eng)
+ 13.04.2023 23:58:36 done 6-Kubernetes. Install Nginx Ingress Controller. Install cert manager. Kubernetes CI/CD course (Eng)
+ 13.04.2023 23:58:37 done The ultimate CI/CD course for Kubernetes (From A to Z).  Kubernetes (GKE), Jenkins, Helm
+ 13.04.2023 23:59:09 done 1-kuberentes. Введение. Кубернетес  на русском ( Практический курс по k8s )
+ 13.04.2023 23:59:11 done 2-kuberentes. Создаем бесплатный кластер в GCP (GKE). Кубернетес на русском ( Практический курс k8s)
+ 13.04.2023 23:59:14 done 3.1-kubernetes. Ставим nginx ingress controller. Кубернетес на русском ( Практический курс по k8s )
+ 13.04.2023 23:59:16 done 3.2-kubernetes. Цепочка Ingress-Service-Pod.  Кубернетес на русском ( Практический курс по k8s )
+ 13.04.2023 23:59:18 done 3.3-kubernetes. Дебажим nginx ingress controller. Кубернетес на русском ( Практический курс по k8s )
+ 13.04.2023 23:59:20 done 4-kubernetes. Сert-manager. Letsecrypt. Issuer.  Кубернетес на русском ( Практический курс по k8s)
+ 13.04.2023 23:59:23 done 5-1-kubernetes. Сохраняем данные  . PV и PVC.  Кубернетес на русском ( Практический курс по k8s )
+ 13.04.2023 23:59:25 done 5-2-kubernetes. NFS и ReadWriteMany (RWX). Кубернетес на русском ( Практический курс по k8s )
+ 13.04.2023 23:59:27 done 5-3-kubernetes. Dynamic NFS provisioner. Кубернетес на русском ( Практический курс по k8s )
+ 13.04.2023 23:59:29 done 6-kubernetes. Users. Role. RoleBindings. Service accounts. Kubernetes на русском (Практический курс)
+ 13.04.2023 23:59:31 done 7.1-kubernetes. Деплоим без даунтайма с rolling update. Kubernetes на русском
+ 13.04.2023 23:59:34 done 7.2-kubernetes. Liveness probe и Readiness probe. Kubernetes на русском
+ 13.04.2023 23:59:36 done 8-kubernetes. Autoscaling. Скейлим поды и кластер . Kubernetes на русском
+ 13.04.2023 23:59:36 done Кубернетес (kubernetes) на русском: практика + то что Вам не покажут на курсах. Kubernetes для начинающих.  Kubernetes на русском
+ 14.04.2023 00:00:04 done Архитектор решений (Solutions Architect) в AWS
+ 14.04.2023 00:00:04 done AWS
+ 14.04.2023 00:00:36 done 3.1   Введение в Jenkins
+ 14.04.2023 00:00:38 done 3.2   Рекомендации при работе с Jenkins
+ 14.04.2023 00:00:40 done 3.3 Загрузка и установка Jenkins
+ 14.04.2023 00:00:43 done 3.4 Директории и файлы конфигурации Jenkins | Linux для начинающих
+ 14.04.2023 00:00:45 done 3.5 Конфигурация безопасности Jenkins | Linux для начинающих
+ 14.04.2023 00:00:47 done 3.6 Настройки безопасного соединения и персональные данные Jenkins | Linux для начинающих
+ 14.04.2023 00:00:48 done Jenkins
+ 14.04.2023 00:01:20 done 2.1 Переменные окружения | Linux для начинающих
+ 14.04.2023 00:01:23 done 2.2 Создание БД таблиц и пользователей в MySQL | Linux для начинающих
+ 14.04.2023 00:01:25 done 2.3 Базовые выражения Select, Delete, Where, From в MySQL | Linux для начинающих
+ 14.04.2023 00:01:27 done 2 4   Изменение командной строки | Linux для начинающих
+ 14.04.2023 00:01:29 done 2.5 Создание файла Dump для MySQL | Linux для начинающих
+ 14.04.2023 00:01:31 done 2.6 Объединение таблиц mysql | Linux для начинающих
+ 14.04.2023 00:01:34 done 2.7 Установка системы управления mysql | Linux для начинающих
+ 14.04.2023 00:01:36 done 2.8 Запрос group
+ 14.04.2023 00:01:38 done 2.9 Псевдонимы программ | Linux для начинающих
+ 14.04.2023 00:01:40 done 2.10 Последовательность команд в оболочке bash | Linux для начинающих
+ 14.04.2023 00:01:41 done LPIC-102
+ 14.04.2023 00:02:13 done 1.10 Поиск файлов locate и find | Linux для начинающих
+ 14.04.2023 00:02:15 done 1.9 Команда top для управления процессами | Linux для начинающих
+ 14.04.2023 00:02:17 done 1.8  Менеджеры пакетов yum и apt | Linux для начинающих
+ 14.04.2023 00:02:20 done 1.7 Программа Cron (крон) | Linux для начинающих
+ 14.04.2023 00:02:22 done 1.6  Log файл и команды для работы с ими | Linux для начинающих
+ 14.04.2023 00:02:24 done 1.5   Права доступа в файловой системе | Linux для начинающих
+ 14.04.2023 00:02:27 done 1.4  Команды для работы с файлами и файловой системой | Linux для начинающих
+ 14.04.2023 00:02:29 done 1 3   Команда sudo в Linux и создание нового пользователя | Linux для начинающих
+ 14.04.2023 00:02:31 done 1.2   Редакторы vi и nano | Linux для начинающих
+ 14.04.2023 00:02:33 done 1.1 Виртуальная машина и создание пользователя  Рут права | Linux для начинающих
+ 14.04.2023 00:02:34 done LPIC-101
+ 14.04.2023 00:02:35 good end 
+ 14.04.2023 00:02:35 good end 

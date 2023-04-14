@@ -1,0 +1,3 @@
+# [ Python для сетевых инженеров](https://www.youtube.com/@PyNEng/playlists)
+## [Python для сетевых инженеров](https://www.youtube.com/playlist?list=PLah0HUih_ZRljCWNZp2N-YBVkgxiJZWEY)
+### [17 Часть 2. Модуль netmiko](https://www.youtube.com/watch?v=b1-PpJVfY4c&amp;list=PLah0HUih_ZRljCWNZp2N-YBVkgxiJZWEY&amp;index=48&amp;pp=iAQB)

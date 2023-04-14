@@ -1,0 +1,3 @@
+# [htmllab](https://www.youtube.com/@HtmllabRu/playlists)
+## [GSAP 3: уроки GSAP](https://www.youtube.com/playlist?list=PLOQDek48BpZFzxKS-2sLAeSBB83x-xILB)
+### [Урок GSAP 3.6 - Меняем свойства обычного JavaScript-объекта - Эпизод 2](https://www.youtube.com/watch?v=809-Abmk--w&amp;list=PLOQDek48BpZFzxKS-2sLAeSBB83x-xILB&amp;index=2&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [FastAPI Channel](https://www.youtube.com/@FastAPIChannel/playlists?view=1)
+## [Уроки FastAPI](https://www.youtube.com/playlist?list=PLaED5GKTiQG8GW5Rv2hf3tRS-d9t9liUt)
+### [Уроки FastAPI - Response и response_model - урок 9](https://www.youtube.com/watch?v=Wm75jAQ8KtA&amp;list=PLaED5GKTiQG8GW5Rv2hf3tRS-d9t9liUt&amp;index=10&amp;pp=iAQB)

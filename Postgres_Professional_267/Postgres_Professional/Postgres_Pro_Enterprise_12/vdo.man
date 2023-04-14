@@ -1,0 +1,3 @@
+### [Отечественная СУБД Postgres Pro Enterprise 12 (на русском языке)](https://www.youtube.com/watch?v=Nt_0kJL7bt8&amp;list=PLaFqU3KCWw6I-bnUlyeLACAqguL-IsE8G&amp;index=1&amp;pp=iAQB)
+### [Postgres Pro Enterprise 12 - private PostgreSQL fork with advanced performance features](https://www.youtube.com/watch?v=tQeukGtEWPs&amp;list=PLaFqU3KCWw6I-bnUlyeLACAqguL-IsE8G&amp;index=2&amp;pp=iAQB)
+### [Postgres Pro Enterprise 12 - СУБД от партнёра IBM для оборудования IBM.](https://www.youtube.com/watch?v=nVErda5wQlc&amp;list=PLaFqU3KCWw6I-bnUlyeLACAqguL-IsE8G&amp;index=3&amp;pp=iAQB)

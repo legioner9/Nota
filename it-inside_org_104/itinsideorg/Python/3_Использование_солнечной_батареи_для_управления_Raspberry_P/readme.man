@@ -1,0 +1,3 @@
+# [it-inside.org](https://www.youtube.com/@itinsideorg/playlists)
+## [Python](https://www.youtube.com/playlist?list=PLWeA3JK7qaipA13QI9h_4-X40161XZZ39)
+### [Использование солнечной батареи для управления Raspberry Pi.](https://www.youtube.com/watch?v=PAnWIkgj2og&amp;list=PLWeA3JK7qaipA13QI9h_4-X40161XZZ39&amp;index=3&amp;pp=iAQB)

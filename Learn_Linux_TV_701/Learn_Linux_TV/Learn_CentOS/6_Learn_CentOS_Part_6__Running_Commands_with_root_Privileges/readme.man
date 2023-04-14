@@ -1,0 +1,3 @@
+# [Learn Linux TV](https://www.youtube.com/@LearnLinuxTV/playlists)
+## [Learn CentOS](https://www.youtube.com/playlist?list=PLT98CRl2KxKHjHLIHrmmi5FmBGIZ8cNJE)
+### [Learn CentOS Part 6 - Running Commands with root Privileges](https://www.youtube.com/watch?v=wvpYikch9x4&amp;list=PLT98CRl2KxKHjHLIHrmmi5FmBGIZ8cNJE&amp;index=6&amp;pp=iAQB)

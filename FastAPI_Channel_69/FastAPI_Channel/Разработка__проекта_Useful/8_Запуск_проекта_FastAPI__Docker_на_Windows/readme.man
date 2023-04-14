@@ -1,0 +1,3 @@
+# [FastAPI Channel](https://www.youtube.com/@FastAPIChannel/playlists?view=1)
+## [Разработка  проекта "Useful"](https://www.youtube.com/playlist?list=PLaED5GKTiQG-Pdchwal9Yx-0N3q8gn0dm)
+### [Запуск проекта FastAPI + Docker на Windows](https://www.youtube.com/watch?v=_ae3mPfeCy0&amp;list=PLaED5GKTiQG-Pdchwal9Yx-0N3q8gn0dm&amp;index=8&amp;pp=iAQB)

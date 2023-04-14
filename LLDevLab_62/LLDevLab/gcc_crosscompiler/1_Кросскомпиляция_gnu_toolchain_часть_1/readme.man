@@ -1,0 +1,3 @@
+# [LLDevLab](https://www.youtube.com/@LLDevLab/playlists)
+## [gcc cross-compiler](https://www.youtube.com/playlist?list=PLeQDJtBkrIiRIrBG5RK9FI1-N6GorvsZn)
+### [Кросс-компиляция gnu toolchain (часть 1)](https://www.youtube.com/watch?v=zRALFxGVdLI&amp;list=PLeQDJtBkrIiRIrBG5RK9FI1-N6GorvsZn&amp;index=1&amp;pp=iAQB)

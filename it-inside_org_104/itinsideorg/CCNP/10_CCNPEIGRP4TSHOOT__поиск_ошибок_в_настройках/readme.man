@@ -1,0 +1,3 @@
+# [it-inside.org](https://www.youtube.com/@itinsideorg/playlists)
+## [CCNP](https://www.youtube.com/playlist?list=PLWeA3JK7qaipZf1qMtkAFU7e6eeJy2aDt)
+### [CCNP.EIGRP#4.TSHOOT - поиск ошибок в настройках](https://www.youtube.com/watch?v=Xvi4MSNm1B8&amp;list=PLWeA3JK7qaipZf1qMtkAFU7e6eeJy2aDt&amp;index=10&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [ExtremeCode](https://www.youtube.com/@ExtremeCode/playlists)
+## [C# уроки для маленьких и тупых](https://www.youtube.com/playlist?list=PLuGqgO5WmeGPTZqDHZDIum3h7HnfBfzmZ)
+### [C# lessons for dummies #11. How to write code. Code conventions.](https://www.youtube.com/watch?v=8mh5gkze_yA&amp;list=PLuGqgO5WmeGPTZqDHZDIum3h7HnfBfzmZ&amp;index=12&amp;pp=iAQB)

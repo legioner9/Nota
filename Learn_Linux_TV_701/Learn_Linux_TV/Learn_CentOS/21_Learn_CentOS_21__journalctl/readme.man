@@ -1,0 +1,3 @@
+# [Learn Linux TV](https://www.youtube.com/@LearnLinuxTV/playlists)
+## [Learn CentOS](https://www.youtube.com/playlist?list=PLT98CRl2KxKHjHLIHrmmi5FmBGIZ8cNJE)
+### [Learn CentOS 21 - journalctl](https://www.youtube.com/watch?v=j-nINFGrA_Q&amp;list=PLT98CRl2KxKHjHLIHrmmi5FmBGIZ8cNJE&amp;index=21&amp;pp=iAQB)

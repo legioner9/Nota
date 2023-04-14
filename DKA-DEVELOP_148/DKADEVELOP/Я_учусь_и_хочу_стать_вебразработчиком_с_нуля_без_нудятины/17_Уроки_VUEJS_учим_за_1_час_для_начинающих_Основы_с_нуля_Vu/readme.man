@@ -1,0 +1,3 @@
+# [DKA-DEVELOP](https://www.youtube.com/@DKADEVELOP/playlists?view=1&sort=dd&shelf_id=0)
+## [Я учусь и хочу стать веб-разработчиком с нуля без нудятины](https://www.youtube.com/playlist?list=PLD5U-C5KK50UPr4dMcaFxotL_H_uIElOn)
+### [Уроки VUE.JS учим за 1 час для начинающих (Основы с нуля Vue js)  + небольшой обзор и сравнение](https://www.youtube.com/watch?v=b6Ac0jcqJIg&amp;list=PLD5U-C5KK50UPr4dMcaFxotL_H_uIElOn&amp;index=17&amp;pp=iAQB)

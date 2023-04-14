@@ -1,0 +1,3 @@
+### [WireGuard ваш VPN, Часть 1 сервер на Ubuntnu, неожиданное окончание).](https://www.youtube.com/watch?v=m6CEDG6wO6s&amp;list=PLOp6AT9LJS_MHkogpMxMuyemF4bYWMduZ&amp;index=1&amp;pp=iAQB)
+### [WireGuard ваш VPN, Часть 2 сервер на CentOS 8.](https://www.youtube.com/watch?v=TPahEZdgLI0&amp;list=PLOp6AT9LJS_MHkogpMxMuyemF4bYWMduZ&amp;index=2&amp;pp=iAQB)
+### [WireGuard ваш VPN, Часть 3 Windows клиент.](https://www.youtube.com/watch?v=NixnUBcumLI&amp;list=PLOp6AT9LJS_MHkogpMxMuyemF4bYWMduZ&amp;index=3&amp;pp=iAQB)

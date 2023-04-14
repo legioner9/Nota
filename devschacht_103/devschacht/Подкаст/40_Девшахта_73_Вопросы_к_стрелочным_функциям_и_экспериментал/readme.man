@@ -1,0 +1,3 @@
+# [devschacht](https://www.youtube.com/@devschacht/playlists)
+## [Подкаст](https://www.youtube.com/playlist?list=PLp4xNfzJ2Gyo0tkHzotUpndup2ASL6y53)
+### [Девшахта #73: Вопросы к стрелочным функциям и экспериментальные модули в Node.js](https://www.youtube.com/watch?v=4AMnyGz4srs&amp;list=PLp4xNfzJ2Gyo0tkHzotUpndup2ASL6y53&amp;index=40&amp;pp=iAQB)

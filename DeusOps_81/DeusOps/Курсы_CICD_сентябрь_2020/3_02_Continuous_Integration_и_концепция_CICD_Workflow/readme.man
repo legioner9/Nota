@@ -1,0 +1,3 @@
+# [DeusOps](https://www.youtube.com/@DeusOps/playlists)
+## [Курсы: CICD (сентябрь 2020)](https://www.youtube.com/playlist?list=PLGQiJX6wM-zzEcA_0Wn3SIL8MyammjqSH)
+### [02. Continuous Integration и концепция CICD Workflow](https://www.youtube.com/watch?v=4Oky9SDX0pU&amp;list=PLGQiJX6wM-zzEcA_0Wn3SIL8MyammjqSH&amp;index=3&amp;pp=iAQB)

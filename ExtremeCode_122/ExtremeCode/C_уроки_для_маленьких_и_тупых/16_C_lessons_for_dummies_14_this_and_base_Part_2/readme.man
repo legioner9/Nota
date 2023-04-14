@@ -1,0 +1,3 @@
+# [ExtremeCode](https://www.youtube.com/@ExtremeCode/playlists)
+## [C# уроки для маленьких и тупых](https://www.youtube.com/playlist?list=PLuGqgO5WmeGPTZqDHZDIum3h7HnfBfzmZ)
+### [C# lessons for dummies #14. this and base. Part #2](https://www.youtube.com/watch?v=yab86S-hdwE&amp;list=PLuGqgO5WmeGPTZqDHZDIum3h7HnfBfzmZ&amp;index=16&amp;pp=iAQB)

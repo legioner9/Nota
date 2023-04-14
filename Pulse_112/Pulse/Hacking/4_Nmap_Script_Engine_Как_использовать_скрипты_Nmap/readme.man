@@ -1,0 +1,3 @@
+# [Pulse](https://www.youtube.com/@pulse_os/playlists)
+## [Hacking](https://www.youtube.com/playlist?list=PLAixKCwWV1dAqYUWhMNqOP5t8000pcbTr)
+### [Nmap Script Engine. Как использовать скрипты Nmap](https://www.youtube.com/watch?v=ym7G3KOkozI&amp;list=PLAixKCwWV1dAqYUWhMNqOP5t8000pcbTr&amp;index=4&amp;pp=iAQB)

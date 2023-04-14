@@ -1,0 +1,3 @@
+# [PurpleSchool | Anton Larichev](https://www.youtube.com/@PurpleSchool/playlists)
+## [React](https://www.youtube.com/playlist?list=PLhZj4EWV4TnjtyuzcKCPE_cWJrdvr4fJd)
+### [Разбор Next 13 - урок по работе с app, turbopack, font, SSR](https://www.youtube.com/watch?v=kmNc1I4mOpA&amp;list=PLhZj4EWV4TnjtyuzcKCPE_cWJrdvr4fJd&amp;index=5&amp;pp=iAQB)

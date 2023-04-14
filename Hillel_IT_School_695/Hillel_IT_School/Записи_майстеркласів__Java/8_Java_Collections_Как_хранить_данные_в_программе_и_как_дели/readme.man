@@ -1,0 +1,3 @@
+# [Hillel IT School](https://www.youtube.com/@HillelITSchool/playlists)
+## [Записи майстер-класів | Java](https://www.youtube.com/playlist?list=PLuEo4W0EBxtVUkwcWcsTe0d9fbH34Yaq0)
+### [Java Collections. Как хранить данные в программе и как делиться ими](https://www.youtube.com/watch?v=cgq8euUIZI4&amp;list=PLuEo4W0EBxtVUkwcWcsTe0d9fbH34Yaq0&amp;index=8&amp;pp=iAQB)

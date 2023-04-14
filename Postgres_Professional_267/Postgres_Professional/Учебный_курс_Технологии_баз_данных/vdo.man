@@ -1,0 +1,8 @@
+### [Учебный курс «Основы технологий баз данных». Тема 1 «Введение»](https://www.youtube.com/watch?v=hepJKFSHUeQ&amp;list=PLaFqU3KCWw6K5maTyTF2NdcbpNsPHRecu&amp;index=1&amp;pp=iAQB)
+### [Учебный курс «Основы технологий баз данных». Тема 2 «Модели данных»](https://www.youtube.com/watch?v=TXmLLXdrnAE&amp;list=PLaFqU3KCWw6K5maTyTF2NdcbpNsPHRecu&amp;index=2&amp;pp=iAQB)
+### [Учебный курс «Основы технологий баз данных». Тема 3 «Другие модели данных»](https://www.youtube.com/watch?v=u37Zo3HlF9Y&amp;list=PLaFqU3KCWw6K5maTyTF2NdcbpNsPHRecu&amp;index=3&amp;pp=iAQB)
+### [Учебный курс «Основы технологий баз данных». Тема 4 «Языки запросов реляционных СУБД»](https://www.youtube.com/watch?v=kKf1smSgLDA&amp;list=PLaFqU3KCWw6K5maTyTF2NdcbpNsPHRecu&amp;index=4&amp;pp=iAQB)
+### [Учебный курс «Основы технологий баз данных». Тема 5 «Дубликаты в SQL. Структуры хранения и...»](https://www.youtube.com/watch?v=wvo3AQG5YiQ&amp;list=PLaFqU3KCWw6K5maTyTF2NdcbpNsPHRecu&amp;index=5&amp;pp=iAQB)
+### [Учебный курс «Основы технологий баз данных». Тема 6 «Безопасность баз данных»](https://www.youtube.com/watch?v=IKBAYdNpGfQ&amp;list=PLaFqU3KCWw6K5maTyTF2NdcbpNsPHRecu&amp;index=6&amp;pp=iAQB)
+### [Учебный курс «Основы технологий баз данных». Тема 7 «Согласованность. Восстановление после отказов»](https://www.youtube.com/watch?v=A4q66fr9ma4&amp;list=PLaFqU3KCWw6K5maTyTF2NdcbpNsPHRecu&amp;index=7&amp;pp=iAQB)
+### [Учебный курс «Основы технологий баз данных». Тема 8 «Разработка приложений. Расширения SQL...»](https://www.youtube.com/watch?v=1hTamQSyKR4&amp;list=PLaFqU3KCWw6K5maTyTF2NdcbpNsPHRecu&amp;index=8&amp;pp=iAQB)

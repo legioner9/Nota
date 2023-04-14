@@ -1,0 +1,3 @@
+# [Learn Linux TV](https://www.youtube.com/@LearnLinuxTV/playlists)
+## [Proxmox Full Course](https://www.youtube.com/playlist?list=PLT98CRl2KxKHnlbYhtABg6cF50bYa8Ulo)
+### [Proxmox VE Full Course: Class 6 - Creating Virtual Machine Templates](https://www.youtube.com/watch?v=t3Yv4OOYcLs&amp;list=PLT98CRl2KxKHnlbYhtABg6cF50bYa8Ulo&amp;index=7&amp;pp=iAQB)

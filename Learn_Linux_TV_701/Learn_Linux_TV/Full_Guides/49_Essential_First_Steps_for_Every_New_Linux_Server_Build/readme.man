@@ -1,0 +1,3 @@
+# [Learn Linux TV](https://www.youtube.com/@LearnLinuxTV/playlists)
+## [Full Guides](https://www.youtube.com/playlist?list=PLT98CRl2KxKFfumnJiR8FxBsbJepGgMoN)
+### [Essential First Steps for Every New Linux Server Build](https://www.youtube.com/watch?v=GUpZELktYKQ&amp;list=PLT98CRl2KxKFfumnJiR8FxBsbJepGgMoN&amp;index=49&amp;pp=iAQB)

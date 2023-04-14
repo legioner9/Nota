@@ -1,0 +1,4 @@
+### [Архитектура ARM Cortex](https://www.youtube.com/watch?v=bQlCAow2gYY&amp;list=PLeQDJtBkrIiR7aATcTloA7EEOd2ZE9KTP&amp;index=1&amp;pp=iAQB)
+### [Мигаем светодиодом в STM32 на ассемблере](https://www.youtube.com/watch?v=gJ9PdUiFv0c&amp;list=PLeQDJtBkrIiR7aATcTloA7EEOd2ZE9KTP&amp;index=2&amp;pp=iAQB)
+### [Скрипт линковки для STM32](https://www.youtube.com/watch?v=C6eS1bX6JhM&amp;list=PLeQDJtBkrIiR7aATcTloA7EEOd2ZE9KTP&amp;index=3&amp;pp=iAQB)
+### [Управление 7-и сегментным дисплеем с помощью STM32](https://www.youtube.com/watch?v=zNRAe4ByN_Q&amp;list=PLeQDJtBkrIiR7aATcTloA7EEOd2ZE9KTP&amp;index=4&amp;pp=iAQB)

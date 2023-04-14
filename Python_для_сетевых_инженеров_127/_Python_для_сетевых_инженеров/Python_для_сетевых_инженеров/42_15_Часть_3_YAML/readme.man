@@ -1,0 +1,3 @@
+# [ Python для сетевых инженеров](https://www.youtube.com/@PyNEng/playlists)
+## [Python для сетевых инженеров](https://www.youtube.com/playlist?list=PLah0HUih_ZRljCWNZp2N-YBVkgxiJZWEY)
+### [15 Часть 3. YAML](https://www.youtube.com/watch?v=a5eZWFKLd-U&amp;list=PLah0HUih_ZRljCWNZp2N-YBVkgxiJZWEY&amp;index=42&amp;pp=iAQB)

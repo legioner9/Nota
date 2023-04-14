@@ -1,0 +1,8 @@
+### [Пародия на популярные YouTube каналы по программированию](https://www.youtube.com/watch?v=boNJtKzajyw&amp;list=PLuGqgO5WmeGP8mini3-hAh1-dyWJ5sfzV&amp;index=1&amp;pp=iAQB)
+### [Паттерн PIDOR](https://www.youtube.com/watch?v=yJ6J0yeqt7Q&amp;list=PLuGqgO5WmeGP8mini3-hAh1-dyWJ5sfzV&amp;index=2&amp;pp=iAQB)
+### [Learn C# in 5 Minutes](https://www.youtube.com/watch?v=AfSvJtC9J5U&amp;list=PLuGqgO5WmeGP8mini3-hAh1-dyWJ5sfzV&amp;index=3&amp;pp=iAQB)
+### [деды программировали](https://www.youtube.com/watch?v=cQbRqrRuK4A&amp;list=PLuGqgO5WmeGP8mini3-hAh1-dyWJ5sfzV&amp;index=4&amp;pp=iAQB)
+### [Жак Фреско про программирование и ООП](https://www.youtube.com/watch?v=dAiuiU6VWNc&amp;list=PLuGqgO5WmeGP8mini3-hAh1-dyWJ5sfzV&amp;index=5&amp;pp=iAQB)
+### [НЕНОРМАЛЬНОЕ ООП](https://www.youtube.com/watch?v=ibe82xWbC44&amp;list=PLuGqgO5WmeGP8mini3-hAh1-dyWJ5sfzV&amp;index=6&amp;pp=iAQB)
+### [Двойные стандарты АйТи](https://www.youtube.com/watch?v=8PAdS582Opk&amp;list=PLuGqgO5WmeGP8mini3-hAh1-dyWJ5sfzV&amp;index=7&amp;pp=iAQB)
+### [Жак Фреско про свой опыт с Java](https://www.youtube.com/watch?v=IYFz1Gwg-ko&amp;list=PLuGqgO5WmeGP8mini3-hAh1-dyWJ5sfzV&amp;index=8&amp;pp=iAQB)

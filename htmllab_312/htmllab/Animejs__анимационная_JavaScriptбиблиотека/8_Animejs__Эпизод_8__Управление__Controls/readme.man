@@ -1,0 +1,3 @@
+# [htmllab](https://www.youtube.com/@HtmllabRu/playlists)
+## [Anime.js - анимационная JavaScript-библиотека](https://www.youtube.com/playlist?list=PLOQDek48BpZEr1WUKJ_FNUzlbU57piBT0)
+### [Anime.js - Эпизод 8 - Управление - Controls](https://www.youtube.com/watch?v=0_PqQd9o1Co&amp;list=PLOQDek48BpZEr1WUKJ_FNUzlbU57piBT0&amp;index=8&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [ Python для сетевых инженеров](https://www.youtube.com/@PyNEng/playlists)
+## [Декораторы методов: property, classmethod, staticmethod](https://www.youtube.com/playlist?list=PLah0HUih_ZRmHz77JQLpFXRoAwvUqNNZ4)
+### [12 Часть 2. property](https://www.youtube.com/watch?v=e1roSL_Rs5k&amp;list=PLah0HUih_ZRmHz77JQLpFXRoAwvUqNNZ4&amp;index=2&amp;pp=iAQB)

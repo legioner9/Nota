@@ -1,0 +1,2 @@
+### [Установка Laravel в Windows Vagrant Homestead пошаговая инструкция | #1](https://www.youtube.com/watch?v=BB08hIBqQN0&amp;list=PLD5U-C5KK50WGCou5NMvVNMglIhNhdLBV&amp;index=1&amp;pp=iAQB)
+### [Laravel Homestead Vagrant Windows добавляем второй проект и подключаемся к базе данных | #2](https://www.youtube.com/watch?v=_ett8eVVHws&amp;list=PLD5U-C5KK50WGCou5NMvVNMglIhNhdLBV&amp;index=2&amp;pp=iAQB)

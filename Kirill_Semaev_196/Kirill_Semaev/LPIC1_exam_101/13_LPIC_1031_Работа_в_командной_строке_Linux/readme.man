@@ -1,0 +1,3 @@
+# [Kirill Semaev](https://www.youtube.com/@KirillSemaev/playlists)
+## [LPIC-1 (exam 101)](https://www.youtube.com/playlist?list=PLmxB7JSpraiep6kr802UDqiAIU-76nGfc)
+### [LPIC 103.1 Работа в командной строке Linux](https://www.youtube.com/watch?v=7BuRI0Vk0Ys&amp;list=PLmxB7JSpraiep6kr802UDqiAIU-76nGfc&amp;index=13&amp;pp=iAQB)

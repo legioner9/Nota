@@ -1,0 +1,3 @@
+# [Learn Linux TV](https://www.youtube.com/@LearnLinuxTV/playlists)
+## [Full Guides](https://www.youtube.com/playlist?list=PLT98CRl2KxKFfumnJiR8FxBsbJepGgMoN)
+### [Linux Crash Course - Setting the Hostname of your Linux Workstation or Server](https://www.youtube.com/watch?v=91dNq4C6260&amp;list=PLT98CRl2KxKFfumnJiR8FxBsbJepGgMoN&amp;index=2&amp;pp=iAQB)

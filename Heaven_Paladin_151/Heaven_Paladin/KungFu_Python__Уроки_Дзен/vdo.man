@@ -1,0 +1,4 @@
+### [🐍🧘‍♂️👨‍💻 Кунг-фу Python. Урок 1. Установка Python в Windows и написание первой программы.](https://www.youtube.com/watch?v=_qdPq8W8IEQ&amp;list=PLUSohJYRsRBhDBi0w920kYf95rPGvyG65&amp;index=1&amp;pp=iAQB)
+### [🐍🧘‍♂️👨‍💻 Кунг-фу Python. Урок 2. Установка Python embeddable в Windows 10. Создаем .exe файл из .py](https://www.youtube.com/watch?v=GQaP0n_t2f8&amp;list=PLUSohJYRsRBhDBi0w920kYf95rPGvyG65&amp;index=2&amp;pp=iAQB)
+### [🐍🧘‍♂️👨‍💻 Кунг-фу Python. Урок 3. Настраиваем и создаем свой пдистрибутив Python для Windows.](https://www.youtube.com/watch?v=Hy8b1Ze21vA&amp;list=PLUSohJYRsRBhDBi0w920kYf95rPGvyG65&amp;index=3&amp;pp=iAQB)
+### [🐍🧘‍♂️👨‍💻 Кунг-фу Python. Урок 4. Установка Python в macOS двумя способами.](https://www.youtube.com/watch?v=2f6elRxJPyE&amp;list=PLUSohJYRsRBhDBi0w920kYf95rPGvyG65&amp;index=4&amp;pp=iAQB)

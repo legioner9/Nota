@@ -1,0 +1,3 @@
+# [SACRED DEVELOPER](https://www.youtube.com/@SACREDDEVELOPER/playlists?view=1&sort=dd&shelf_id=0)
+## [Записи стримов](https://www.youtube.com/playlist?list=PLdRkxc5c2e3l5A66bnQdivnnPaS7IzBsc)
+### [Node.js DurgerKing Bot Часть 2: Реализация реагирования на сообщения из WebApp в телеграм](https://www.youtube.com/watch?v=oqZJcvwNxr0&amp;list=PLdRkxc5c2e3l5A66bnQdivnnPaS7IzBsc&amp;index=79&amp;pp=iAQB)

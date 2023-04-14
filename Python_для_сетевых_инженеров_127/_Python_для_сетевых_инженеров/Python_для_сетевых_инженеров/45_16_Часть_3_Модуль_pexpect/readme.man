@@ -1,0 +1,3 @@
+# [ Python для сетевых инженеров](https://www.youtube.com/@PyNEng/playlists)
+## [Python для сетевых инженеров](https://www.youtube.com/playlist?list=PLah0HUih_ZRljCWNZp2N-YBVkgxiJZWEY)
+### [16 Часть 3. Модуль pexpect](https://www.youtube.com/watch?v=AW76Xds3bPY&amp;list=PLah0HUih_ZRljCWNZp2N-YBVkgxiJZWEY&amp;index=45&amp;pp=iAQB)

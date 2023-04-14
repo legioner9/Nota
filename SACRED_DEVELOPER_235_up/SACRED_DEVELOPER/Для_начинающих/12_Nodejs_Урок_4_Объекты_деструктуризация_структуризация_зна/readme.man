@@ -1,0 +1,3 @@
+# [SACRED DEVELOPER](https://www.youtube.com/@SACREDDEVELOPER/playlists?view=1&sort=dd&shelf_id=0)
+## [Для начинающих](https://www.youtube.com/playlist?list=PLdRkxc5c2e3leEDb1pc0fDfVCwvkIw0Rh)
+### [Node.js Урок 4: Объекты, деструктуризация, структуризация, значения по умолчанию](https://www.youtube.com/watch?v=pQphSv_qNEc&amp;list=PLdRkxc5c2e3leEDb1pc0fDfVCwvkIw0Rh&amp;index=12&amp;pp=iAQB)

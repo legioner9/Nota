@@ -1,0 +1,4 @@
+### [CSS Flexbox - Часть 1 - Основы, flex-direction, flex-wrap, order](https://www.youtube.com/watch?v=tm13AvnOx5k&amp;list=PLhZj4EWV4TnhwWw03HlCOpNClbpfZbEuB&amp;index=1&amp;pp=iAQB)
+### [CSS Flexbox - Часть 2 - Align-items, Justify-content, Align-content, Align-self](https://www.youtube.com/watch?v=Zj9z3HYKRdI&amp;list=PLhZj4EWV4TnhwWw03HlCOpNClbpfZbEuB&amp;index=2&amp;pp=iAQB)
+### [CSS Flexbox - Часть 3 - Flex-grow, flex-shrink, flex-basis](https://www.youtube.com/watch?v=QfxupvR9ci8&amp;list=PLhZj4EWV4TnhwWw03HlCOpNClbpfZbEuB&amp;index=3&amp;pp=iAQB)
+### [CSS Flexbox - Часть 4 - Вёрстка и примеры использования](https://www.youtube.com/watch?v=3HVXrVEvNs8&amp;list=PLhZj4EWV4TnhwWw03HlCOpNClbpfZbEuB&amp;index=4&amp;pp=iAQB)

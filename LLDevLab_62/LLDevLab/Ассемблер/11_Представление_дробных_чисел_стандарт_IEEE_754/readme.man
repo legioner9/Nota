@@ -1,0 +1,3 @@
+# [LLDevLab](https://www.youtube.com/@LLDevLab/playlists)
+## [Ассемблер](https://www.youtube.com/playlist?list=PLeQDJtBkrIiQvx92-9gOHzp6R6utJR-h5)
+### [Представление дробных чисел (стандарт IEEE 754)](https://www.youtube.com/watch?v=ZgH3n9drexE&amp;list=PLeQDJtBkrIiQvx92-9gOHzp6R6utJR-h5&amp;index=11&amp;pp=iAQB)

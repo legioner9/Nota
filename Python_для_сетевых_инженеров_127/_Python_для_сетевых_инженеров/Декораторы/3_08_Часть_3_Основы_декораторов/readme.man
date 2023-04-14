@@ -1,0 +1,3 @@
+# [ Python для сетевых инженеров](https://www.youtube.com/@PyNEng/playlists)
+## [Декораторы](https://www.youtube.com/playlist?list=PLah0HUih_ZRlGw_CtgPvuvNC1IBNiDCGH)
+### [08 Часть 3. Основы декораторов](https://www.youtube.com/watch?v=Ae8-RD6oSWw&amp;list=PLah0HUih_ZRlGw_CtgPvuvNC1IBNiDCGH&amp;index=3&amp;pp=iAQB)

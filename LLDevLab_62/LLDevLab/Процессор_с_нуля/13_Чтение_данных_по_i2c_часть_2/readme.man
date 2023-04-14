@@ -1,0 +1,3 @@
+# [LLDevLab](https://www.youtube.com/@LLDevLab/playlists)
+## [Процессор с нуля](https://www.youtube.com/playlist?list=PLeQDJtBkrIiQs1huQj_Ien00CnBbMo4Yu)
+### [Чтение данных по i2c (часть 2)](https://www.youtube.com/watch?v=jrCVhgbIJ88&amp;list=PLeQDJtBkrIiQs1huQj_Ien00CnBbMo4Yu&amp;index=13&amp;pp=iAQB)

@@ -1,0 +1,5 @@
+### [Laravel категории или меню для сайта отношение многие ко многим | общая теория!!! #2](https://www.youtube.com/watch?v=l1NQZIJ2r94&amp;list=PLD5U-C5KK50Vq_CyoCzgrOX6BdEoPwUtK&amp;index=1&amp;pp=iAQB)
+### [Laravel категории или меню для сайта отношение многие ко многим | миграции!!! | #2.1](https://www.youtube.com/watch?v=KYmFYP8VlPw&amp;list=PLD5U-C5KK50Vq_CyoCzgrOX6BdEoPwUtK&amp;index=2&amp;pp=iAQB)
+### [Laravel категории или меню для сайта отношение многие ко многим | создание категорий](https://www.youtube.com/watch?v=tpht8yLvyvU&amp;list=PLD5U-C5KK50Vq_CyoCzgrOX6BdEoPwUtK&amp;index=3&amp;pp=iAQB)
+### [Laravel вывод меню на страницах [категории или меню для сайта отношение многие ко многим]](https://www.youtube.com/watch?v=mN15LtMy38I&amp;list=PLD5U-C5KK50Vq_CyoCzgrOX6BdEoPwUtK&amp;index=4&amp;pp=iAQB)
+### [Laravel вывод меню на страницах [связь новостей с категориями | многие ко многим]](https://www.youtube.com/watch?v=QOJKDokpWMA&amp;list=PLD5U-C5KK50Vq_CyoCzgrOX6BdEoPwUtK&amp;index=5&amp;pp=iAQB)

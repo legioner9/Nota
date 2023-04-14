@@ -1,0 +1,3 @@
+# [Linux от Дмитрия](https://www.youtube.com/@LinuxbyDmitry/playlists)
+## [Linux](https://www.youtube.com/playlist?list=PLOp6AT9LJS_MxTxnGWLixYY1a2DJcMsTy)
+### [⚒⚒Fail2ban для защиты от брута всего что есть на сервере Linux Debian 9.1⚒⚒](https://www.youtube.com/watch?v=MUHvZM7P57k&amp;list=PLOp6AT9LJS_MxTxnGWLixYY1a2DJcMsTy&amp;index=3&amp;pp=iAQB)

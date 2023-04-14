@@ -1,0 +1,3 @@
+# [DeusOps](https://www.youtube.com/@DeusOps/playlists)
+## [Онлайн-трансляции / Воркшопы](https://www.youtube.com/playlist?list=PLGQiJX6wM-zwgtfx9nEaZma2RCzGTSSHV)
+### [Пишем Ansible-роли и болтаем о жизни](https://www.youtube.com/watch?v=N5aPtYouCsA&amp;list=PLGQiJX6wM-zwgtfx9nEaZma2RCzGTSSHV&amp;index=24&amp;pp=iAQB)

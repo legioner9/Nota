@@ -1,0 +1,3 @@
+# [htmllab](https://www.youtube.com/@HtmllabRu/playlists)
+## [JavaScript библиотеки](https://www.youtube.com/playlist?list=PLOQDek48BpZG0kpcUAoy5Z5ZvZN1HYt3Z)
+### [morris.js - javaScript библиотека для рисования графиков](https://www.youtube.com/watch?v=37_MyocO3lY&amp;list=PLOQDek48BpZG0kpcUAoy5Z5ZvZN1HYt3Z&amp;index=9&amp;pp=iAQB)

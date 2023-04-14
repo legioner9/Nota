@@ -1,0 +1,3 @@
+### [Как сбросить пароль root на Linux? Mint, Ubuntu, Debian, Kali](https://www.youtube.com/watch?v=w4AdWHPewTo&amp;list=PLpATPij5aov7psoIMWYPYIsD3BPoP-xKT&amp;index=1&amp;pp=iAQB)
+### [Русский кейлоггер-шпион палит пароль от VK. Mipko Personal Monitor](https://www.youtube.com/watch?v=Q2eCpWiFzXE&amp;list=PLpATPij5aov7psoIMWYPYIsD3BPoP-xKT&amp;index=2&amp;pp=iAQB)
+### [Как обезопасить пароль пользователя Windows 10? Инструкция Mimikatz](https://www.youtube.com/watch?v=70foH_L9fQM&amp;list=PLpATPij5aov7psoIMWYPYIsD3BPoP-xKT&amp;index=3&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [Learn Linux TV](https://www.youtube.com/@LearnLinuxTV/playlists)
+## [Programming in Python (Learn Linux TV Classics)](https://www.youtube.com/playlist?list=PLT98CRl2KxKGIazPd2nQEPbG7sQpT8LEj)
+### [Coding in Python 03 - More about Strings (Learn Linux TV Classics)](https://www.youtube.com/watch?v=C_P_mlomIuA&amp;list=PLT98CRl2KxKGIazPd2nQEPbG7sQpT8LEj&amp;index=3&amp;pp=iAQB)

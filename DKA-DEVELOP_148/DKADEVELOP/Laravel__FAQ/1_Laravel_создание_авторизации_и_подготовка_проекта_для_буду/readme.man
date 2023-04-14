@@ -1,0 +1,3 @@
+# [DKA-DEVELOP](https://www.youtube.com/@DKADEVELOP/playlists?view=1&sort=dd&shelf_id=0)
+## [Laravel - FAQ](https://www.youtube.com/playlist?list=PLD5U-C5KK50XIzWi-eAXHXHTv-49Ps72d)
+### [Laravel создание авторизации и подготовка проекта для будущих уроков.](https://www.youtube.com/watch?v=I-cu3XQFEZ8&amp;list=PLD5U-C5KK50XIzWi-eAXHXHTv-49Ps72d&amp;index=1&amp;pp=iAQB)

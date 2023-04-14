@@ -1,0 +1,3 @@
+# [PracticU - онлайн IT курсы](https://www.youtube.com/@PracticU2/playlists)
+## [Курс системных администраторов - MCSA 2016 / 2019](https://www.youtube.com/playlist?list=PLrXcA7Ca3B80Ki2evvDgPphJhmYKSh0et)
+### [Установка программ с помощью GPO](https://www.youtube.com/watch?v=m9zi_Gzy_g4&amp;list=PLrXcA7Ca3B80Ki2evvDgPphJhmYKSh0et&amp;index=47&amp;pp=iAQB)

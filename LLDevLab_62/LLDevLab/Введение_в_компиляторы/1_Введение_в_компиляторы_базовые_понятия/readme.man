@@ -1,0 +1,3 @@
+# [LLDevLab](https://www.youtube.com/@LLDevLab/playlists)
+## [Введение в компиляторы](https://www.youtube.com/playlist?list=PLeQDJtBkrIiT0TMQ3muv3zvNdsmBZFOR1)
+### [Введение в компиляторы (базовые понятия)](https://www.youtube.com/watch?v=MePynBBljeM&amp;list=PLeQDJtBkrIiT0TMQ3muv3zvNdsmBZFOR1&amp;index=1&amp;pp=iAQB)

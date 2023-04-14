@@ -1,0 +1,3 @@
+# [Hillel IT School](https://www.youtube.com/@HillelITSchool/playlists)
+## [Записи майстер-класів | C#](https://www.youtube.com/playlist?list=PLuEo4W0EBxtUNnGT-eqAKwTSefpzMgke0)
+### [C# 9 и .NET 5 в деталях](https://www.youtube.com/watch?v=ENIoEgnlIj0&amp;list=PLuEo4W0EBxtUNnGT-eqAKwTSefpzMgke0&amp;index=1&amp;pp=iAQB)

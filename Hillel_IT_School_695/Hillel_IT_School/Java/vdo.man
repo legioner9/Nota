@@ -1,0 +1,3 @@
+### [Что должен знать Junior Java Developer](https://www.youtube.com/watch?v=3-VCw2p3stc&amp;list=PLuEo4W0EBxtVf637oKSlWMwXIDHSx3Tjn&amp;index=1&amp;pp=iAQB)
+### [10 вопросов айтишнику | Дмитрий Бойко](https://www.youtube.com/watch?v=NaLvwRQBMqI&amp;list=PLuEo4W0EBxtVf637oKSlWMwXIDHSx3Tjn&amp;index=2&amp;pp=iAQB)
+### [Back-end || 20 питань Back-end розробнику](https://www.youtube.com/watch?v=wlti1nRJnxM&amp;list=PLuEo4W0EBxtVf637oKSlWMwXIDHSx3Tjn&amp;index=3&amp;pp=iAQB)

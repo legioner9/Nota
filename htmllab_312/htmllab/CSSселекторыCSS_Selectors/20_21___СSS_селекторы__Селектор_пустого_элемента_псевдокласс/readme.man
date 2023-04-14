@@ -1,0 +1,3 @@
+# [htmllab](https://www.youtube.com/@HtmllabRu/playlists)
+## [CSS-селекторы/CSS Selectors](https://www.youtube.com/playlist?list=PLOQDek48BpZFC6sSFRsok97gaEZV6CVf_)
+### [21 -  СSS селекторы - Селектор пустого элемента псевдокласс :empty](https://www.youtube.com/watch?v=XRfOXhwxvSU&amp;list=PLOQDek48BpZFC6sSFRsok97gaEZV6CVf_&amp;index=20&amp;pp=iAQB)

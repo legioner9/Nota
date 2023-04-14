@@ -1,0 +1,3 @@
+# [DeusOps](https://www.youtube.com/@DeusOps/playlists)
+## [Курсы: Школа DevOps v.1.0](https://www.youtube.com/playlist?list=PLGQiJX6wM-zzcPye1y7gpyJO0uH7NMNP7)
+### [[3-6] Школа DevOps: Тестирование ролей в Molecule](https://www.youtube.com/watch?v=0b3YXlffo1Q&amp;list=PLGQiJX6wM-zzcPye1y7gpyJO0uH7NMNP7&amp;index=16&amp;pp=iAQB)

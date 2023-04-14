@@ -1,0 +1,3 @@
+# [PurpleSchool | Anton Larichev](https://www.youtube.com/@PurpleSchool/playlists)
+## [Курс - CSS Flexbox](https://www.youtube.com/playlist?list=PLhZj4EWV4TnhwWw03HlCOpNClbpfZbEuB)
+### [CSS Flexbox - Часть 4 - Вёрстка и примеры использования](https://www.youtube.com/watch?v=3HVXrVEvNs8&amp;list=PLhZj4EWV4TnhwWw03HlCOpNClbpfZbEuB&amp;index=4&amp;pp=iAQB)

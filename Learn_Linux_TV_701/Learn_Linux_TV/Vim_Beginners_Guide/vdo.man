@@ -1,0 +1,7 @@
+### [Vim Text Editor for Beginners Part 1 - Introduction](https://www.youtube.com/watch?v=ohk3cpBqY60&amp;list=PLT98CRl2KxKHy4A5N70jMRYAROzzC2a6x&amp;index=1&amp;pp=iAQB)
+### [Vim Text Editor for Beginners Part 2 - Combining Files](https://www.youtube.com/watch?v=ul4AM5MWu-4&amp;list=PLT98CRl2KxKHy4A5N70jMRYAROzzC2a6x&amp;index=2&amp;pp=iAQB)
+### [Vim Text Editor for Beginners Part 3 - Additional Tricks](https://www.youtube.com/watch?v=CLC4rinDr0I&amp;list=PLT98CRl2KxKHy4A5N70jMRYAROzzC2a6x&amp;index=3&amp;pp=iAQB)
+### [Vim Text Editor for Beginners Part 4 - Buffers](https://www.youtube.com/watch?v=hDw0nqRfBts&amp;list=PLT98CRl2KxKHy4A5N70jMRYAROzzC2a6x&amp;index=4&amp;pp=iAQB)
+### [Vim Text Editor for Beginners Part 5 - Visual Mode](https://www.youtube.com/watch?v=wl0lbr9lEpM&amp;list=PLT98CRl2KxKHy4A5N70jMRYAROzzC2a6x&amp;index=5&amp;pp=iAQB)
+### [Vim Text Editor for Beginners Part 6 - Multitasking](https://www.youtube.com/watch?v=gZIMeOl2lLU&amp;list=PLT98CRl2KxKHy4A5N70jMRYAROzzC2a6x&amp;index=6&amp;pp=iAQB)
+### [Vim Text Editor for Beginners Part 7 - Additional Tips](https://www.youtube.com/watch?v=T-pYUFy3DyA&amp;list=PLT98CRl2KxKHy4A5N70jMRYAROzzC2a6x&amp;index=7&amp;pp=iAQB)

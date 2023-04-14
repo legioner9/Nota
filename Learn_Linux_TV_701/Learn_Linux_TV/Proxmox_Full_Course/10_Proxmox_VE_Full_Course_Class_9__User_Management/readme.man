@@ -1,0 +1,3 @@
+# [Learn Linux TV](https://www.youtube.com/@LearnLinuxTV/playlists)
+## [Proxmox Full Course](https://www.youtube.com/playlist?list=PLT98CRl2KxKHnlbYhtABg6cF50bYa8Ulo)
+### [Proxmox VE Full Course: Class 9 - User Management](https://www.youtube.com/watch?v=frnILOGmATs&amp;list=PLT98CRl2KxKHnlbYhtABg6cF50bYa8Ulo&amp;index=10&amp;pp=iAQB)

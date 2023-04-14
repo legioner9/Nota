@@ -1,0 +1,3 @@
+# [ExtremeCode](https://www.youtube.com/@ExtremeCode/playlists)
+## [Объектно Ориентированное Нечто](https://www.youtube.com/playlist?list=PLuGqgO5WmeGMagq_MPZxgOW7mQJ8Yxk_z)
+### [C# - Singleton и Статический Класс. Срываем покровы.](https://www.youtube.com/watch?v=D8y1iwKF2WQ&amp;list=PLuGqgO5WmeGMagq_MPZxgOW7mQJ8Yxk_z&amp;index=5&amp;pp=iAQB)

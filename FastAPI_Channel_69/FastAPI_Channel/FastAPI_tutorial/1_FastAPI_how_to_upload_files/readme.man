@@ -1,0 +1,3 @@
+# [FastAPI Channel](https://www.youtube.com/@FastAPIChannel/playlists?view=1)
+## [FastAPI tutorial](https://www.youtube.com/playlist?list=PLaED5GKTiQG9NwsGhNukRvYyNFx1uSKFx)
+### [FastAPI how to upload files](https://www.youtube.com/watch?v=N6bpBkwFdc8&amp;list=PLaED5GKTiQG9NwsGhNukRvYyNFx1uSKFx&amp;index=1&amp;pp=iAQB)

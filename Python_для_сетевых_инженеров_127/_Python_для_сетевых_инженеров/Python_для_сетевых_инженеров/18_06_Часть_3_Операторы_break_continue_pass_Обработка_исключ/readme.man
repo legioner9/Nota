@@ -1,0 +1,3 @@
+# [ Python для сетевых инженеров](https://www.youtube.com/@PyNEng/playlists)
+## [Python для сетевых инженеров](https://www.youtube.com/playlist?list=PLah0HUih_ZRljCWNZp2N-YBVkgxiJZWEY)
+### [06 Часть 3. Операторы break, continue, pass. Обработка исключений](https://www.youtube.com/watch?v=Zn67n7jhIOg&amp;list=PLah0HUih_ZRljCWNZp2N-YBVkgxiJZWEY&amp;index=18&amp;pp=iAQB)

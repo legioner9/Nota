@@ -1,0 +1,3 @@
+# [ Python для сетевых инженеров](https://www.youtube.com/@PyNEng/playlists)
+## [Основы vim](https://www.youtube.com/playlist?list=PLah0HUih_ZRkLC7LfJNJwTegUZJc2z3Dc)
+### [Основы vim. Часть 1](https://www.youtube.com/watch?v=cXye8VCI57Y&amp;list=PLah0HUih_ZRkLC7LfJNJwTegUZJc2z3Dc&amp;index=1&amp;pp=iAQB)

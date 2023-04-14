@@ -1,0 +1,3 @@
+# [Postgres Professional](https://www.youtube.com/@PostgresProfessional/playlists?view=1)
+## [PGConf.Online 2021](https://www.youtube.com/playlist?list=PLaFqU3KCWw6IQXJoLywXIFqwZAQ2CfJEN)
+### [5 Daniel Westermann eng](https://www.youtube.com/watch?v=JLVnJ9r_CAg&amp;list=PLaFqU3KCWw6IQXJoLywXIFqwZAQ2CfJEN&amp;index=46&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [ Python для сетевых инженеров](https://www.youtube.com/@PyNEng/playlists)
+## [Python для сетевых инженеров](https://www.youtube.com/playlist?list=PLah0HUih_ZRljCWNZp2N-YBVkgxiJZWEY)
+### [22 Часть 2. ООП. Специальные методы](https://www.youtube.com/watch?v=GksIbb-_jAA&amp;list=PLah0HUih_ZRljCWNZp2N-YBVkgxiJZWEY&amp;index=62&amp;pp=iAQB)

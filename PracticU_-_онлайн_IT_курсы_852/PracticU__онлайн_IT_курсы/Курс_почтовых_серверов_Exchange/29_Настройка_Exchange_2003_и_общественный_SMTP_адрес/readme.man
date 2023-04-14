@@ -1,0 +1,3 @@
+# [PracticU - онлайн IT курсы](https://www.youtube.com/@PracticU2/playlists)
+## [Курс почтовых серверов Exchange](https://www.youtube.com/playlist?list=PLrXcA7Ca3B81ja9O_ZrNZpfsarV8t5Kqt)
+### [Настройка Exchange 2003 и общественный SMTP адрес](https://www.youtube.com/watch?v=eHgoeIyh9To&amp;list=PLrXcA7Ca3B81ja9O_ZrNZpfsarV8t5Kqt&amp;index=29&amp;pp=iAQB)

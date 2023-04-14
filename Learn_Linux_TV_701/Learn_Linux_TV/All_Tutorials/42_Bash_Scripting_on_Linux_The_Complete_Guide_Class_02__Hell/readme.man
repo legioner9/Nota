@@ -1,0 +1,3 @@
+# [Learn Linux TV](https://www.youtube.com/@LearnLinuxTV/playlists)
+## [All Tutorials](https://www.youtube.com/playlist?list=PLT98CRl2KxKHdOpQ-uI2QuNcQ0aEAe5bN)
+### [Bash Scripting on Linux (The Complete Guide) Class 02 - Hello World](https://www.youtube.com/watch?v=boqC9QenshY&amp;list=PLT98CRl2KxKHdOpQ-uI2QuNcQ0aEAe5bN&amp;index=42&amp;pp=iAQB)

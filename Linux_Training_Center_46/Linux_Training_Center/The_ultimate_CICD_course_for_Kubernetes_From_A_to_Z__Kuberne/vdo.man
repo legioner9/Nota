@@ -1,0 +1,6 @@
+### [1 - Kubernetes CI/CD course (The Ultimate English Edition). Intro](https://www.youtube.com/watch?v=fAdvBxR4DgU&amp;list=PL5BUU9mMwX6nnkIBRVoVA6e3UZmBjvZSG&amp;index=1&amp;pp=iAQB)
+### [2 CI-CD Kubernetes flows for dev, stage and production environments (The Ultimate English Edition)](https://www.youtube.com/watch?v=z6PaBhPs9hE&amp;list=PL5BUU9mMwX6nnkIBRVoVA6e3UZmBjvZSG&amp;index=2&amp;pp=iAQB)
+### [3 Register GCP trial account + install Jenkins.Kubernetes CI/CD course: The Ultimate English Edition](https://www.youtube.com/watch?v=djR5g_7dDgA&amp;list=PL5BUU9mMwX6nnkIBRVoVA6e3UZmBjvZSG&amp;index=3&amp;pp=iAQB)
+### [4 Connect Jenkins to google container registry. Kubernetes CI/CD course:The Ultimate English Edition](https://www.youtube.com/watch?v=qOoxQXZ6y6c&amp;list=PL5BUU9mMwX6nnkIBRVoVA6e3UZmBjvZSG&amp;index=4&amp;pp=iAQB)
+### [5 - Jenkins pipelines for source code repositories. The Ultimate CI/CD course for Kubernetes (Eng)](https://www.youtube.com/watch?v=7bXuxFWiewc&amp;list=PL5BUU9mMwX6nnkIBRVoVA6e3UZmBjvZSG&amp;index=5&amp;pp=iAQB)
+### [6-Kubernetes. Install Nginx Ingress Controller. Install cert manager. Kubernetes CI/CD course (Eng)](https://www.youtube.com/watch?v=d0vgr-kiRs0&amp;list=PL5BUU9mMwX6nnkIBRVoVA6e3UZmBjvZSG&amp;index=6&amp;pp=iAQB)

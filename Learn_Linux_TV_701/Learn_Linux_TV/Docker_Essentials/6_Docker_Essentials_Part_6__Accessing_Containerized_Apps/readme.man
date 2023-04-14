@@ -1,0 +1,3 @@
+# [Learn Linux TV](https://www.youtube.com/@LearnLinuxTV/playlists)
+## [Docker Essentials](https://www.youtube.com/playlist?list=PLT98CRl2KxKECHltRib03tG8pyKEzwf9t)
+### [Docker Essentials (Part 6) - Accessing Containerized Apps](https://www.youtube.com/watch?v=iXD5FnJYZB4&amp;list=PLT98CRl2KxKECHltRib03tG8pyKEzwf9t&amp;index=6&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [DKA-DEVELOP](https://www.youtube.com/@DKADEVELOP/playlists?view=1&sort=dd&shelf_id=0)
+## [Laravel echo server - чат | Realtime](https://www.youtube.com/playlist?list=PLD5U-C5KK50WlQNiunPPXSj5jjxVVTPtk)
+### [Laravel echo server - private chat (приватный чат и канал) создаем разные комнаты | часть 2 | part 2](https://www.youtube.com/watch?v=YXI16BqCP_s&amp;list=PLD5U-C5KK50WlQNiunPPXSj5jjxVVTPtk&amp;index=5&amp;pp=iAQB)

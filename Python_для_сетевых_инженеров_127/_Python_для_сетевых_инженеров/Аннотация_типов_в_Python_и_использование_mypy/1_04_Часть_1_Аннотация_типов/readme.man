@@ -1,0 +1,3 @@
+# [ Python для сетевых инженеров](https://www.youtube.com/@PyNEng/playlists)
+## [Аннотация типов в Python и использование mypy](https://www.youtube.com/playlist?list=PLah0HUih_ZRlrzKmbAwxyitvmXjCN4BM9)
+### [04 Часть 1. Аннотация типов](https://www.youtube.com/watch?v=QGO2CeK6Aho&amp;list=PLah0HUih_ZRlrzKmbAwxyitvmXjCN4BM9&amp;index=1&amp;pp=iAQB)

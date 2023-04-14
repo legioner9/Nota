@@ -1,0 +1,3 @@
+# [Learn Linux TV](https://www.youtube.com/@LearnLinuxTV/playlists)
+## [Linux Security](https://www.youtube.com/playlist?list=PLT98CRl2KxKHVD7tCyn8heKS-RJdnlbHg)
+### [CrowdSec Console First Look - A Free and Awesome Security Dashboard for Linux Servers](https://www.youtube.com/watch?v=2kW_200N60k&amp;list=PLT98CRl2KxKHVD7tCyn8heKS-RJdnlbHg&amp;index=1&amp;pp=iAQB)

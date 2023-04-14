@@ -1,0 +1,3 @@
+# [htmllab](https://www.youtube.com/@HtmllabRu/playlists)
+## [CSS-селекторы/CSS Selectors](https://www.youtube.com/playlist?list=PLOQDek48BpZFC6sSFRsok97gaEZV6CVf_)
+### [25 - СSS селекторы - Селектор элемента по языку, псевдокласс :lang()](https://www.youtube.com/watch?v=RWyvNkD_o_Q&amp;list=PLOQDek48BpZFC6sSFRsok97gaEZV6CVf_&amp;index=26&amp;pp=iAQB)

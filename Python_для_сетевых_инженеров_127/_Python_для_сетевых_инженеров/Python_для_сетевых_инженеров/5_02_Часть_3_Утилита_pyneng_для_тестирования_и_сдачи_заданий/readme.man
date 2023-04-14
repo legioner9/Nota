@@ -1,0 +1,3 @@
+# [ Python для сетевых инженеров](https://www.youtube.com/@PyNEng/playlists)
+## [Python для сетевых инженеров](https://www.youtube.com/playlist?list=PLah0HUih_ZRljCWNZp2N-YBVkgxiJZWEY)
+### [02 Часть 3. Утилита pyneng для тестирования и сдачи заданий](https://www.youtube.com/watch?v=FXvOM66enw8&amp;list=PLah0HUih_ZRljCWNZp2N-YBVkgxiJZWEY&amp;index=5&amp;pp=iAQB)

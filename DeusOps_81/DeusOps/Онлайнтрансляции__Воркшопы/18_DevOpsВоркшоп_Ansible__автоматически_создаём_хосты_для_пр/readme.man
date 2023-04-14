@@ -1,0 +1,3 @@
+# [DeusOps](https://www.youtube.com/@DeusOps/playlists)
+## [Онлайн-трансляции / Воркшопы](https://www.youtube.com/playlist?list=PLGQiJX6wM-zwgtfx9nEaZma2RCzGTSSHV)
+### [DevOps-Воркшоп: Ansible - автоматически создаём хосты для проекта, часть 2](https://www.youtube.com/watch?v=k5IbZQinWoA&amp;list=PLGQiJX6wM-zwgtfx9nEaZma2RCzGTSSHV&amp;index=18&amp;pp=iAQB)

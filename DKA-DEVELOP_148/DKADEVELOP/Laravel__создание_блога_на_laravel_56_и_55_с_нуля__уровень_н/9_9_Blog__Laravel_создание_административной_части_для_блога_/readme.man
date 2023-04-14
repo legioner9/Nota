@@ -1,0 +1,3 @@
+# [DKA-DEVELOP](https://www.youtube.com/@DKADEVELOP/playlists?view=1&sort=dd&shelf_id=0)
+## [Laravel - создание блога на laravel 5.6 и 5.5 с нуля | уровень: начинающий](https://www.youtube.com/playlist?list=PLD5U-C5KK50UaCJFcN8Zh7MnSnj4MbrZP)
+### [#9 Blog - Laravel создание административной части для блога | Редактирование категорий | L 5.6 |](https://www.youtube.com/watch?v=RjGGKMkHdTk&amp;list=PLD5U-C5KK50UaCJFcN8Zh7MnSnj4MbrZP&amp;index=9&amp;pp=iAQB)

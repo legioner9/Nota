@@ -1,0 +1,3 @@
+# [Hillel IT School](https://www.youtube.com/@HillelITSchool/playlists)
+## [Front-end](https://www.youtube.com/playlist?list=PLuEo4W0EBxtVyV0ycYJVLiOvwVSZXS3Iw)
+### [Chrome DevTools. Обзор основных возможностей веб-инспектора.](https://www.youtube.com/watch?v=C8Z-N0y6Sqo&amp;list=PLuEo4W0EBxtVyV0ycYJVLiOvwVSZXS3Iw&amp;index=2&amp;pp=iAQB)

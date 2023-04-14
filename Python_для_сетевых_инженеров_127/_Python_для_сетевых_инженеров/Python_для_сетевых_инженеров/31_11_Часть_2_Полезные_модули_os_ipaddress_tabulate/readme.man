@@ -1,0 +1,3 @@
+# [ Python для сетевых инженеров](https://www.youtube.com/@PyNEng/playlists)
+## [Python для сетевых инженеров](https://www.youtube.com/playlist?list=PLah0HUih_ZRljCWNZp2N-YBVkgxiJZWEY)
+### [11 Часть 2. Полезные модули: os, ipaddress, tabulate](https://www.youtube.com/watch?v=jpuxacgHZAQ&amp;list=PLah0HUih_ZRljCWNZp2N-YBVkgxiJZWEY&amp;index=31&amp;pp=iAQB)

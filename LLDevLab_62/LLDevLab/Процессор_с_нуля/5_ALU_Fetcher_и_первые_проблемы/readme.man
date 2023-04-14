@@ -1,0 +1,3 @@
+# [LLDevLab](https://www.youtube.com/@LLDevLab/playlists)
+## [Процессор с нуля](https://www.youtube.com/playlist?list=PLeQDJtBkrIiQs1huQj_Ien00CnBbMo4Yu)
+### [ALU, Fetcher и первые проблемы...](https://www.youtube.com/watch?v=CGbRsrQ041k&amp;list=PLeQDJtBkrIiQs1huQj_Ien00CnBbMo4Yu&amp;index=5&amp;pp=iAQB)

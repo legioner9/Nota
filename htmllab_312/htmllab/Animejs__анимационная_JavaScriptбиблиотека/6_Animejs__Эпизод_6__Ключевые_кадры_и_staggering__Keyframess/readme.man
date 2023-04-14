@@ -1,0 +1,3 @@
+# [htmllab](https://www.youtube.com/@HtmllabRu/playlists)
+## [Anime.js - анимационная JavaScript-библиотека](https://www.youtube.com/playlist?list=PLOQDek48BpZEr1WUKJ_FNUzlbU57piBT0)
+### [Anime.js - Эпизод 6 - Ключевые кадры и staggering - Keyframes/staggering](https://www.youtube.com/watch?v=dX99I_Wi4MY&amp;list=PLOQDek48BpZEr1WUKJ_FNUzlbU57piBT0&amp;index=6&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [Learn Linux TV](https://www.youtube.com/@LearnLinuxTV/playlists)
+## [Full Guides](https://www.youtube.com/playlist?list=PLT98CRl2KxKFfumnJiR8FxBsbJepGgMoN)
+### [Linux Crash Course: Background (bg) and Foreground (fg)](https://www.youtube.com/watch?v=HzsgkzCL9ow&amp;list=PLT98CRl2KxKFfumnJiR8FxBsbJepGgMoN&amp;index=18&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [PurpleSchool | Anton Larichev](https://www.youtube.com/@PurpleSchool/playlists)
+## [Курс - CSS Flexbox](https://www.youtube.com/playlist?list=PLhZj4EWV4TnhwWw03HlCOpNClbpfZbEuB)
+### [CSS Flexbox - Часть 2 - Align-items, Justify-content, Align-content, Align-self](https://www.youtube.com/watch?v=Zj9z3HYKRdI&amp;list=PLhZj4EWV4TnhwWw03HlCOpNClbpfZbEuB&amp;index=2&amp;pp=iAQB)

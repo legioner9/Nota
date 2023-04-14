@@ -1,0 +1,3 @@
+# [htmllab](https://www.youtube.com/@HtmllabRu/playlists)
+## [Курс MySQL 8](https://www.youtube.com/playlist?list=PLOQDek48BpZFeW02dfJM77FY4Fp5ilJ6n)
+### [6. MySQL 8 - Data types - Типы данных](https://www.youtube.com/watch?v=fiO9XNOakf8&amp;list=PLOQDek48BpZFeW02dfJM77FY4Fp5ilJ6n&amp;index=6&amp;pp=iAQB)

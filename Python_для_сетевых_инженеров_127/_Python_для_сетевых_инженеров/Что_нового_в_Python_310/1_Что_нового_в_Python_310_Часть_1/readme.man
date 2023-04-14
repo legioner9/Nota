@@ -1,0 +1,3 @@
+# [ Python для сетевых инженеров](https://www.youtube.com/@PyNEng/playlists)
+## [Что нового в Python 3.10](https://www.youtube.com/playlist?list=PLah0HUih_ZRnB11bKEjp6E8qautpxjarq)
+### [Что нового в Python 3.10. Часть 1](https://www.youtube.com/watch?v=gM1A6vxejC4&amp;list=PLah0HUih_ZRnB11bKEjp6E8qautpxjarq&amp;index=1&amp;pp=iAQB)

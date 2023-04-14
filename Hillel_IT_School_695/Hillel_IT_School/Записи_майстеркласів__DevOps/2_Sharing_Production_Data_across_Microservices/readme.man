@@ -1,0 +1,3 @@
+# [Hillel IT School](https://www.youtube.com/@HillelITSchool/playlists)
+## [Записи майстер-класів | DevOps](https://www.youtube.com/playlist?list=PLuEo4W0EBxtWkJP92bS_YcTLv-tcRF9_d)
+### [Sharing Production Data across Microservices](https://www.youtube.com/watch?v=Lw3GnFT_50c&amp;list=PLuEo4W0EBxtWkJP92bS_YcTLv-tcRF9_d&amp;index=2&amp;pp=iAQB)

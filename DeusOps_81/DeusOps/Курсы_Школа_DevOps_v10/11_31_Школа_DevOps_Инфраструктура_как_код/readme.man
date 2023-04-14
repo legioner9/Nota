@@ -1,0 +1,3 @@
+# [DeusOps](https://www.youtube.com/@DeusOps/playlists)
+## [Курсы: Школа DevOps v.1.0](https://www.youtube.com/playlist?list=PLGQiJX6wM-zzcPye1y7gpyJO0uH7NMNP7)
+### [[3-1] Школа DevOps: Инфраструктура как код](https://www.youtube.com/watch?v=9-RK67IYHPI&amp;list=PLGQiJX6wM-zzcPye1y7gpyJO0uH7NMNP7&amp;index=11&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [PurpleSchool | Anton Larichev](https://www.youtube.com/@PurpleSchool/playlists)
+## [TypeScript](https://www.youtube.com/playlist?list=PLhZj4EWV4TnghGTR9Z36H40Mv4gyytjco)
+### [TypeScript - Union типы и TypeGuards](https://www.youtube.com/watch?v=P2Ny05sAYoY&amp;list=PLhZj4EWV4TnghGTR9Z36H40Mv4gyytjco&amp;index=2&amp;pp=iAQB)

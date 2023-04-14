@@ -1,0 +1,3 @@
+# [FastAPI Channel](https://www.youtube.com/@FastAPIChannel/playlists?view=1)
+## [FastAPI расширения](https://www.youtube.com/playlist?list=PLaED5GKTiQG97EZhzKkuPjNtQcmh3uqmk)
+### [FastAPI CRUDRouter](https://www.youtube.com/watch?v=0xIe2qGZdiM&amp;list=PLaED5GKTiQG97EZhzKkuPjNtQcmh3uqmk&amp;index=1&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [PurpleSchool | Anton Larichev](https://www.youtube.com/@PurpleSchool/playlists)
+## [TypeScript](https://www.youtube.com/playlist?list=PLhZj4EWV4TnghGTR9Z36H40Mv4gyytjco)
+### [Typescript - Generics, Index Access Types, Keyof на простом примере](https://www.youtube.com/watch?v=7XFPVJ4u8bc&amp;list=PLhZj4EWV4TnghGTR9Z36H40Mv4gyytjco&amp;index=3&amp;pp=iAQB)

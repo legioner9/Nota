@@ -1,0 +1,3 @@
+# [devschacht](https://www.youtube.com/@devschacht/playlists)
+## [Подкаст](https://www.youtube.com/playlist?list=PLp4xNfzJ2Gyo0tkHzotUpndup2ASL6y53)
+### [Мониторинг node.js на примере интересного кейса](https://www.youtube.com/watch?v=iCqsXjV8nSg&amp;list=PLp4xNfzJ2Gyo0tkHzotUpndup2ASL6y53&amp;index=1&amp;pp=iAQB)

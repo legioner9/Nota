@@ -1,0 +1,3 @@
+# [#linux life](https://www.youtube.com/@linuxlifepage/playlists)
+## [NextCloud. Создаем свое домашнее облако](https://www.youtube.com/playlist?list=PLKxZjsTaY5Xvt6mgNJ0cfBJicKm5nwj_Z)
+### [Публикуем домашний #NextCloud через NGINX Proxy (На VPS)](https://www.youtube.com/watch?v=9GY-5AddDII&amp;list=PLKxZjsTaY5Xvt6mgNJ0cfBJicKm5nwj_Z&amp;index=13&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [LLDevLab](https://www.youtube.com/@LLDevLab/playlists)
+## [Arduino](https://www.youtube.com/playlist?list=PLeQDJtBkrIiS8nBeUv0qJsklmnlRa7imE)
+### [Как использовать битовые маски](https://www.youtube.com/watch?v=cuGBFxcxeU4&amp;list=PLeQDJtBkrIiS8nBeUv0qJsklmnlRa7imE&amp;index=5&amp;pp=iAQB)

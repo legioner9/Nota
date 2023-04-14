@@ -1,0 +1,3 @@
+# [Learn Linux TV](https://www.youtube.com/@LearnLinuxTV/playlists)
+## [Full Guides](https://www.youtube.com/playlist?list=PLT98CRl2KxKFfumnJiR8FxBsbJepGgMoN)
+### [Launching a Windows VM in Proxmox](https://www.youtube.com/watch?v=eyNlGAzf-L4&amp;list=PLT98CRl2KxKFfumnJiR8FxBsbJepGgMoN&amp;index=15&amp;pp=iAQB)

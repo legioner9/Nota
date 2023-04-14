@@ -1,0 +1,3 @@
+# [Linux от Дмитрия](https://www.youtube.com/@LinuxbyDmitry/playlists)
+## [OpenConnect](https://www.youtube.com/playlist?list=PLOp6AT9LJS_M4nYbVE-GXZWdbDscIkR4g)
+### [OpenConnect часть 2, установка и настройка OpenConnect на Debian 11.3 у хостера, без валидного серт.](https://www.youtube.com/watch?v=826oAweB2wo&amp;list=PLOp6AT9LJS_M4nYbVE-GXZWdbDscIkR4g&amp;index=1&amp;pp=iAQB)

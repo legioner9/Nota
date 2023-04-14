@@ -1,0 +1,3 @@
+# [ Python для сетевых инженеров](https://www.youtube.com/@PyNEng/playlists)
+## [Python для сетевых инженеров](https://www.youtube.com/playlist?list=PLah0HUih_ZRljCWNZp2N-YBVkgxiJZWEY)
+### [02 Часть 1. Основы Git](https://www.youtube.com/watch?v=ZGx1XIWwq4w&amp;list=PLah0HUih_ZRljCWNZp2N-YBVkgxiJZWEY&amp;index=3&amp;pp=iAQB)

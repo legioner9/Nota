@@ -1,0 +1,3 @@
+# [Kirill Semaev](https://www.youtube.com/@KirillSemaev/playlists)
+## [LPIC-1 (exam 102)](https://www.youtube.com/playlist?list=PLmxB7JSpraieH3aScuPs7h77cSEQvPi2A)
+### [LPIC 109.4 Настройка клиента DNS](https://www.youtube.com/watch?v=uqv9fMxkRA0&amp;list=PLmxB7JSpraieH3aScuPs7h77cSEQvPi2A&amp;index=52&amp;pp=iAQB)

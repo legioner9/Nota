@@ -1,0 +1,3 @@
+# [Kirill Semaev](https://www.youtube.com/@KirillSemaev/playlists)
+## [DevOps](https://www.youtube.com/playlist?list=PLmxB7JSpraieS8C58ewR7fdTu5fS3z7HG)
+### [Jenkins №7. Скрытие паролей в пайпах](https://www.youtube.com/watch?v=qX4m0yg3lQE&amp;list=PLmxB7JSpraieS8C58ewR7fdTu5fS3z7HG&amp;index=13&amp;pp=iAQB)

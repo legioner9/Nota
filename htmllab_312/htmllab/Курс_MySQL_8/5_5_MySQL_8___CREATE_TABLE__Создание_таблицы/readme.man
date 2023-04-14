@@ -1,0 +1,3 @@
+# [htmllab](https://www.youtube.com/@HtmllabRu/playlists)
+## [Курс MySQL 8](https://www.youtube.com/playlist?list=PLOQDek48BpZFeW02dfJM77FY4Fp5ilJ6n)
+### [5. MySQL 8  - CREATE TABLE - Создание таблицы](https://www.youtube.com/watch?v=Uf9KVNP_7co&amp;list=PLOQDek48BpZFeW02dfJM77FY4Fp5ilJ6n&amp;index=5&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [DKA-DEVELOP](https://www.youtube.com/@DKADEVELOP/playlists?view=1&sort=dd&shelf_id=0)
+## [Laravel - меню и категории](https://www.youtube.com/playlist?list=PLD5U-C5KK50Vq_CyoCzgrOX6BdEoPwUtK)
+### [Laravel вывод меню на страницах [связь новостей с категориями | многие ко многим]](https://www.youtube.com/watch?v=QOJKDokpWMA&amp;list=PLD5U-C5KK50Vq_CyoCzgrOX6BdEoPwUtK&amp;index=5&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [DKA-DEVELOP](https://www.youtube.com/@DKADEVELOP/playlists?view=1&sort=dd&shelf_id=0)
+## [VPS - собственный web-сервер легко | Web-Server | Mail | DNS](https://www.youtube.com/playlist?list=PLD5U-C5KK50VSpG0nciGKnLQuaqrAYmyP)
+### [#4 VPS - установка  веб-сервера: apache2 php mysql phpmyadmin | Debian 8](https://www.youtube.com/watch?v=CFwg1GXMjD4&amp;list=PLD5U-C5KK50VSpG0nciGKnLQuaqrAYmyP&amp;index=4&amp;pp=iAQB)

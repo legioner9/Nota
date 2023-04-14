@@ -1,0 +1,3 @@
+# [Learn Linux TV](https://www.youtube.com/@LearnLinuxTV/playlists)
+## [All Tutorials](https://www.youtube.com/playlist?list=PLT98CRl2KxKHdOpQ-uI2QuNcQ0aEAe5bN)
+### [Proxmox VE Full Course: Class 16 - High Availability](https://www.youtube.com/watch?v=1nEs1ZvGbTM&amp;list=PLT98CRl2KxKHdOpQ-uI2QuNcQ0aEAe5bN&amp;index=96&amp;pp=iAQB)

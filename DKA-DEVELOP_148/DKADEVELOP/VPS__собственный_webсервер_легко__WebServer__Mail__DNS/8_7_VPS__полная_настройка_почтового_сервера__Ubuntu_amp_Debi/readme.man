@@ -1,0 +1,3 @@
+# [DKA-DEVELOP](https://www.youtube.com/@DKADEVELOP/playlists?view=1&sort=dd&shelf_id=0)
+## [VPS - собственный web-сервер легко | Web-Server | Mail | DNS](https://www.youtube.com/playlist?list=PLD5U-C5KK50VSpG0nciGKnLQuaqrAYmyP)
+### [#7 VPS - полная настройка почтового сервера | Ubuntu &amp; Debian | Exim &amp; Dovecot |](https://www.youtube.com/watch?v=mJcQ9-0oIWg&amp;list=PLD5U-C5KK50VSpG0nciGKnLQuaqrAYmyP&amp;index=8&amp;pp=iAQB)

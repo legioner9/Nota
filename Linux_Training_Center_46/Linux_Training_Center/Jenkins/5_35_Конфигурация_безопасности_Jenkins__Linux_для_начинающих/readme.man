@@ -1,0 +1,3 @@
+# [Linux Training Center](https://www.youtube.com/@LinuxTrainingCenter/playlists)
+## [Jenkins](https://www.youtube.com/playlist?list=PL5BUU9mMwX6nO6Pgj6tj0qPR0DJDJv7Xs)
+### [3.5 Конфигурация безопасности Jenkins | Linux для начинающих](https://www.youtube.com/watch?v=1SMFQz664uE&amp;list=PL5BUU9mMwX6nO6Pgj6tj0qPR0DJDJv7Xs&amp;index=5&amp;pp=iAQB)

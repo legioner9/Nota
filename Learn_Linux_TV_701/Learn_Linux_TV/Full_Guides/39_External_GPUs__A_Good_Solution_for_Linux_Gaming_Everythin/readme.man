@@ -1,0 +1,3 @@
+# [Learn Linux TV](https://www.youtube.com/@LearnLinuxTV/playlists)
+## [Full Guides](https://www.youtube.com/playlist?list=PLT98CRl2KxKFfumnJiR8FxBsbJepGgMoN)
+### [External GPU's - A Good Solution for Linux Gaming? Everything You'll Need to Know](https://www.youtube.com/watch?v=UviWU-1--gU&amp;list=PLT98CRl2KxKFfumnJiR8FxBsbJepGgMoN&amp;index=39&amp;pp=iAQB)

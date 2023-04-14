@@ -1,0 +1,7 @@
+### [Аннуитетный платеж  -  формула ипотеки (5 мин)](https://www.youtube.com/watch?v=JUxYq_4tdvQ&amp;list=PLOQDek48BpZGA7ulddqzvQ68vyKdfD6tf&amp;index=1&amp;pp=iAQB)
+### [Вёрстка простой HTML-формы - ипотека (5 мин 16 сек)](https://www.youtube.com/watch?v=Jb14QRguyG8&amp;list=PLOQDek48BpZGA7ulddqzvQ68vyKdfD6tf&amp;index=2&amp;pp=iAQB)
+### [Аннуитетный платеж на стрелочной функции JavaScript (3 мин 40 сек)](https://www.youtube.com/watch?v=wX0bTIVVyx8&amp;list=PLOQDek48BpZGA7ulddqzvQ68vyKdfD6tf&amp;index=3&amp;pp=iAQB)
+### [Аннуитетный платеж, ипотека на  DOM JS (6 мин 40 сек)](https://www.youtube.com/watch?v=_vKdGvjXudY&amp;list=PLOQDek48BpZGA7ulddqzvQ68vyKdfD6tf&amp;index=4&amp;pp=iAQB)
+### [Ипотека на jQuery (4 мин)](https://www.youtube.com/watch?v=-z-pKcPLuu0&amp;list=PLOQDek48BpZGA7ulddqzvQ68vyKdfD6tf&amp;index=5&amp;pp=iAQB)
+### [Ипотека на React JS ,  Часть 1 -  компоненты, JSX, props   пропсы (11 мин)](https://www.youtube.com/watch?v=OS5s4ILzX8s&amp;list=PLOQDek48BpZGA7ulddqzvQ68vyKdfD6tf&amp;index=6&amp;pp=iAQB)
+### [Ипотека на React JS , Часть 2  - состояния, setState, всллытие состояния 15 мин](https://www.youtube.com/watch?v=CEiMOwBObNk&amp;list=PLOQDek48BpZGA7ulddqzvQ68vyKdfD6tf&amp;index=7&amp;pp=iAQB)

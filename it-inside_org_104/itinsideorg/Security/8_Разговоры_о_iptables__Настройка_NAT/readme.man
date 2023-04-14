@@ -1,0 +1,3 @@
+# [it-inside.org](https://www.youtube.com/@itinsideorg/playlists)
+## [Security](https://www.youtube.com/playlist?list=PLWeA3JK7qaiojdfgRF4iBrQJ0RPpk1V6L)
+### [Разговоры о iptables.  Настройка NAT.](https://www.youtube.com/watch?v=Nh4mnvF6r5E&amp;list=PLWeA3JK7qaiojdfgRF4iBrQJ0RPpk1V6L&amp;index=8&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [IT-спец. Денис Курец](https://www.youtube.com/@kurets/playlists)
+## [Информационная безопасность с нуля](https://www.youtube.com/playlist?list=PLpATPij5aov7095vXT79ymNES1e13C2Aq)
+### [Командная оболочка Bash для начинающих. Циклы, переменные, оператор](https://www.youtube.com/watch?v=ge9xrHJ3SRM&amp;list=PLpATPij5aov7095vXT79ymNES1e13C2Aq&amp;index=10&amp;pp=iAQB)

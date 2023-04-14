@@ -1,0 +1,3 @@
+# [Learn Linux TV](https://www.youtube.com/@LearnLinuxTV/playlists)
+## [Raspberry Pi](https://www.youtube.com/playlist?list=PLT98CRl2KxKH0ZbEgVU5E-XOt6dX5oN9k)
+### [DeskPi Pro v2 Review - Turn your Raspberry Pi into a Desktop!](https://www.youtube.com/watch?v=NamRTtMLWxU&amp;list=PLT98CRl2KxKH0ZbEgVU5E-XOt6dX5oN9k&amp;index=5&amp;pp=iAQB)

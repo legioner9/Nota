@@ -1,0 +1,3 @@
+# [Linux от Дмитрия](https://www.youtube.com/@LinuxbyDmitry/playlists)
+## [iptables](https://www.youtube.com/playlist?list=PLOp6AT9LJS_N11y5DaWFPjCmqLwzUY2zJ)
+### [Ваш железный файрвол, iptables начало, mininat.sh часть 2](https://www.youtube.com/watch?v=xCAfxkt1TZE&amp;list=PLOp6AT9LJS_N11y5DaWFPjCmqLwzUY2zJ&amp;index=3&amp;pp=iAQB)

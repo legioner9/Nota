@@ -1,0 +1,3 @@
+# [Михаил Базаров](https://www.youtube.com/@bazarov/playlists?view=1&sort=dd&shelf_id=0)
+## [Видеоурок: Разработка инфопортала на Битрикс](https://www.youtube.com/playlist?list=PL8CIWP7ylJEOL1xBBU5AJ4paYNGUU-8BN)
+### [Урок 6: Верстка основного меню, вывод дополнительных типов меню](https://www.youtube.com/watch?v=M63Rx38Bvy8&amp;list=PL8CIWP7ylJEOL1xBBU5AJ4paYNGUU-8BN&amp;index=5&amp;pp=iAQB)

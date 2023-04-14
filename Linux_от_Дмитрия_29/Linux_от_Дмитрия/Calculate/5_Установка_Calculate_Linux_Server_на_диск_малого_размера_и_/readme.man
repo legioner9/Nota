@@ -1,0 +1,3 @@
+# [Linux от Дмитрия](https://www.youtube.com/@LinuxbyDmitry/playlists)
+## [Calculate](https://www.youtube.com/playlist?list=PLOp6AT9LJS_M4dj2RxzOwgOq_tcqcJqHe)
+### [Установка Calculate Linux Server, на диск малого размера и файловая система Btrfs, плюс сеть.](https://www.youtube.com/watch?v=IZTxZF50Eiw&amp;list=PLOp6AT9LJS_M4dj2RxzOwgOq_tcqcJqHe&amp;index=5&amp;pp=iAQB)

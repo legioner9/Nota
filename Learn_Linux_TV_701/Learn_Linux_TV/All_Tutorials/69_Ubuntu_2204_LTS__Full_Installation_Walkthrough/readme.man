@@ -1,0 +1,3 @@
+# [Learn Linux TV](https://www.youtube.com/@LearnLinuxTV/playlists)
+## [All Tutorials](https://www.youtube.com/playlist?list=PLT98CRl2KxKHdOpQ-uI2QuNcQ0aEAe5bN)
+### [Ubuntu 22.04 LTS - Full Installation Walkthrough](https://www.youtube.com/watch?v=f_8cD4HFvhc&amp;list=PLT98CRl2KxKHdOpQ-uI2QuNcQ0aEAe5bN&amp;index=69&amp;pp=iAQB)

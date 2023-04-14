@@ -1,0 +1,3 @@
+# [#linux life](https://www.youtube.com/@linuxlifepage/playlists)
+## [NextCloud. Создаем свое домашнее облако](https://www.youtube.com/playlist?list=PLKxZjsTaY5Xvt6mgNJ0cfBJicKm5nwj_Z)
+### [Сервер видео-звонков для NextCloud Talk](https://www.youtube.com/watch?v=RNgU9-c86-I&amp;list=PLKxZjsTaY5Xvt6mgNJ0cfBJicKm5nwj_Z&amp;index=10&amp;pp=iAQB)

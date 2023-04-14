@@ -1,0 +1,3 @@
+# [FastAPI Channel](https://www.youtube.com/@FastAPIChannel/playlists?view=1)
+## [FastAPI video hosting](https://www.youtube.com/playlist?list=PLaED5GKTiQG-nG7rJiBE8vq9yVEq-5pzm)
+### [FastAPI StreamingResponse, BackgroundTasks | Anti-TikTok | #4](https://www.youtube.com/watch?v=dQ1SkXAe4ds&amp;list=PLaED5GKTiQG-nG7rJiBE8vq9yVEq-5pzm&amp;index=4&amp;pp=iAQB)

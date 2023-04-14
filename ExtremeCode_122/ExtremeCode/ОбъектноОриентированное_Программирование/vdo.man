@@ -1,0 +1,6 @@
+### [Повторное использование кода](https://www.youtube.com/watch?v=zSZxlSvysZE&amp;list=PLuGqgO5WmeGNfv1bKapoNslmBoWcbrdgo&amp;index=1&amp;pp=iAQB)
+### [Полиморфизм ломает твой код](https://www.youtube.com/watch?v=GA68iSWJ1lk&amp;list=PLuGqgO5WmeGNfv1bKapoNslmBoWcbrdgo&amp;index=2&amp;pp=iAQB)
+### [THE MOST FREQUENT MISCONCEPTIONS ABOUT OOP](https://www.youtube.com/watch?v=BHNt1fcg8iw&amp;list=PLuGqgO5WmeGNfv1bKapoNslmBoWcbrdgo&amp;index=3&amp;pp=iAQB)
+### [ТВОЯ ГЛАВНАЯ ОШИБКА В ООП](https://www.youtube.com/watch?v=yNUJ3vAeyJQ&amp;list=PLuGqgO5WmeGNfv1bKapoNslmBoWcbrdgo&amp;index=4&amp;pp=iAQB)
+### [НЕНОРМАЛЬНОЕ ООП](https://www.youtube.com/watch?v=ibe82xWbC44&amp;list=PLuGqgO5WmeGNfv1bKapoNslmBoWcbrdgo&amp;index=5&amp;pp=iAQB)
+### [Большие проблемы наследования в ООП](https://www.youtube.com/watch?v=-n6784KeQMs&amp;list=PLuGqgO5WmeGNfv1bKapoNslmBoWcbrdgo&amp;index=6&amp;pp=iAQB)

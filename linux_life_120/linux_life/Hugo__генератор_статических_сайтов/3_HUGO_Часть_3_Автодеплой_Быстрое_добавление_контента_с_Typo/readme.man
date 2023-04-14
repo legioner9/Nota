@@ -1,0 +1,3 @@
+# [#linux life](https://www.youtube.com/@linuxlifepage/playlists)
+## [Hugo - генератор статических сайтов](https://www.youtube.com/playlist?list=PLKxZjsTaY5XtG9dR1LCrRnvnkskfpjjYq)
+### [HUGO Часть 3. Автодеплой, Быстрое добавление контента с Typora](https://www.youtube.com/watch?v=zqrp_jGx8SY&amp;list=PLKxZjsTaY5XtG9dR1LCrRnvnkskfpjjYq&amp;index=3&amp;pp=iAQB)

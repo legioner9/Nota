@@ -1,0 +1,3 @@
+# [ Python для сетевых инженеров](https://www.youtube.com/@PyNEng/playlists)
+## [Python для сетевых инженеров](https://www.youtube.com/playlist?list=PLah0HUih_ZRljCWNZp2N-YBVkgxiJZWEY)
+### [18 Часть 3. Модуль concurrent.futures. Метод submit](https://www.youtube.com/watch?v=uI1K_Og7pd0&amp;list=PLah0HUih_ZRljCWNZp2N-YBVkgxiJZWEY&amp;index=51&amp;pp=iAQB)

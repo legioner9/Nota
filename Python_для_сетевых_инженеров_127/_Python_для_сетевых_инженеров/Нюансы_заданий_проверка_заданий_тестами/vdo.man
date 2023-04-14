@@ -1,0 +1,2 @@
+### [Использование тестов для проверки заданий](https://www.youtube.com/watch?v=TI6-vFFV9lk&amp;list=PLah0HUih_ZRmZYZ518jHNkcGxc-bhE151&amp;index=1&amp;pp=iAQB)
+### [Как должен работать spinner в задании 12.7](https://www.youtube.com/watch?v=YdeUxrlbAwk&amp;list=PLah0HUih_ZRmZYZ518jHNkcGxc-bhE151&amp;index=2&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [SACRED DEVELOPER](https://www.youtube.com/@SACREDDEVELOPER/playlists?view=1&sort=dd&shelf_id=0)
+## [Git+GitHub+VSCode](https://www.youtube.com/playlist?list=PLdRkxc5c2e3lpgdEyQlWw9l3D-8_4RWbM)
+### [GitHub Codespaces виртуальное рабочее окружение](https://www.youtube.com/watch?v=zWWDLIO3Aak&amp;list=PLdRkxc5c2e3lpgdEyQlWw9l3D-8_4RWbM&amp;index=4&amp;pp=iAQB)

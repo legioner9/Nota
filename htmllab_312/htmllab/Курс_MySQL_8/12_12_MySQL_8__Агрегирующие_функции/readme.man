@@ -1,0 +1,3 @@
+# [htmllab](https://www.youtube.com/@HtmllabRu/playlists)
+## [Курс MySQL 8](https://www.youtube.com/playlist?list=PLOQDek48BpZFeW02dfJM77FY4Fp5ilJ6n)
+### [12. MySQL 8 - Агрегирующие функции](https://www.youtube.com/watch?v=549E5lzzbiU&amp;list=PLOQDek48BpZFeW02dfJM77FY4Fp5ilJ6n&amp;index=12&amp;pp=iAQB)

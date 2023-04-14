@@ -1,0 +1,3 @@
+# [ Python для сетевых инженеров](https://www.youtube.com/@PyNEng/playlists)
+## [Python для сетевых инженеров](https://www.youtube.com/playlist?list=PLah0HUih_ZRljCWNZp2N-YBVkgxiJZWEY)
+### [19 Часть 3. Jinja2. Использование include и наследование шаблонов](https://www.youtube.com/watch?v=eIZtLhMca4A&amp;list=PLah0HUih_ZRljCWNZp2N-YBVkgxiJZWEY&amp;index=54&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [Neosystemy Severo-Zapad LTD](https://www.youtube.com/@NeosystemySeveroZapadLTD/playlists)
+## [Инфраструктура](https://www.youtube.com/playlist?list=PLXGEqOkNXH__HYdlYEpEGh9dn5bUN3I55)
+### [Распаковочка. Установка PostgreSQL на Linux](https://www.youtube.com/watch?v=GbPwAWh96-Y&amp;list=PLXGEqOkNXH__HYdlYEpEGh9dn5bUN3I55&amp;index=16&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [FastAPI Channel](https://www.youtube.com/@FastAPIChannel/playlists?view=1)
+## [FastAPI video hosting](https://www.youtube.com/playlist?list=PLaED5GKTiQG-nG7rJiBE8vq9yVEq-5pzm)
+### [Fastapi делаем лайки | FastAPI + ormar | Fastapi видео хостинг| #8](https://www.youtube.com/watch?v=omdf9JuSe80&amp;list=PLaED5GKTiQG-nG7rJiBE8vq9yVEq-5pzm&amp;index=8&amp;pp=iAQB)

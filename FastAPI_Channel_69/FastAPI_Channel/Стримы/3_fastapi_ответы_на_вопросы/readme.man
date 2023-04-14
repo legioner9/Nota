@@ -1,0 +1,3 @@
+# [FastAPI Channel](https://www.youtube.com/@FastAPIChannel/playlists?view=1)
+## [Стримы](https://www.youtube.com/playlist?list=PLaED5GKTiQG9ZCVrMIGHq7C8XpBL0eNpd)
+### [fastapi ответы на вопросы](https://www.youtube.com/watch?v=GIGp-fUeZkY&amp;list=PLaED5GKTiQG9ZCVrMIGHq7C8XpBL0eNpd&amp;index=3&amp;pp=iAQB)

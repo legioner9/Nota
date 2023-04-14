@@ -1,0 +1,7 @@
+### [Как составлять резюме](https://www.youtube.com/watch?v=QvlixyuImNM&amp;list=PLKDqfCyvE04DA7xwNvQ20YiHAfLdzaO1S&amp;index=1&amp;pp=iAQB)
+### [Лучший менеджер паролей для Linux. Хранение паролей. Лучшее из Open Source. Pass.](https://www.youtube.com/watch?v=niQ41gr1QsQ&amp;list=PLKDqfCyvE04DA7xwNvQ20YiHAfLdzaO1S&amp;index=2&amp;pp=iAQB)
+### [Ответы на вопросы #1](https://www.youtube.com/watch?v=YgsgkEq5VEQ&amp;list=PLKDqfCyvE04DA7xwNvQ20YiHAfLdzaO1S&amp;index=3&amp;pp=iAQB)
+### [Ответы на вопросы #2](https://www.youtube.com/watch?v=aQWEY9d1fk4&amp;list=PLKDqfCyvE04DA7xwNvQ20YiHAfLdzaO1S&amp;index=4&amp;pp=iAQB)
+### [Core UX Features &amp; MVP При создании продукта](https://www.youtube.com/watch?v=SgycvUIu1YQ&amp;list=PLKDqfCyvE04DA7xwNvQ20YiHAfLdzaO1S&amp;index=5&amp;pp=iAQB)
+### [Контролируем финансы с Google Sheet. Забираем банковские данные.](https://www.youtube.com/watch?v=fF4gD9Wqz_A&amp;list=PLKDqfCyvE04DA7xwNvQ20YiHAfLdzaO1S&amp;index=6&amp;pp=iAQB)
+### [Когнитивные искажения при создании продукта](https://www.youtube.com/watch?v=8c7QKerwmh4&amp;list=PLKDqfCyvE04DA7xwNvQ20YiHAfLdzaO1S&amp;index=7&amp;pp=iAQB)

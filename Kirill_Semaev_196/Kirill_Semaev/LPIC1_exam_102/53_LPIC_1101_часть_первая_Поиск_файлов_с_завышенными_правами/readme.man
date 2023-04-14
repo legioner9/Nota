@@ -1,0 +1,3 @@
+# [Kirill Semaev](https://www.youtube.com/@KirillSemaev/playlists)
+## [LPIC-1 (exam 102)](https://www.youtube.com/playlist?list=PLmxB7JSpraieH3aScuPs7h77cSEQvPi2A)
+### [LPIC 110.1 часть первая. Поиск файлов с завышенными правами доступа](https://www.youtube.com/watch?v=7IIJS5m8oSg&amp;list=PLmxB7JSpraieH3aScuPs7h77cSEQvPi2A&amp;index=53&amp;pp=iAQB)

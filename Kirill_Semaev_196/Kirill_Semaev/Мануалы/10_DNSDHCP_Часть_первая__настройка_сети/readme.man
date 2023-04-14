@@ -1,0 +1,3 @@
+# [Kirill Semaev](https://www.youtube.com/@KirillSemaev/playlists)
+## [Мануалы](https://www.youtube.com/playlist?list=PLmxB7JSpraifsRUrtq2Y-il5NCLc3vKho)
+### [DNS+DHCP. Часть первая - настройка сети.](https://www.youtube.com/watch?v=OzD70xRsltc&amp;list=PLmxB7JSpraifsRUrtq2Y-il5NCLc3vKho&amp;index=10&amp;pp=iAQB)

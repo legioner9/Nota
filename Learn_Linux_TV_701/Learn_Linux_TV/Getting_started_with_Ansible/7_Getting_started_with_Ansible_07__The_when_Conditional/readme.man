@@ -1,0 +1,3 @@
+# [Learn Linux TV](https://www.youtube.com/@LearnLinuxTV/playlists)
+## [Getting started with Ansible](https://www.youtube.com/playlist?list=PLT98CRl2KxKEUHie1m24-wkyHpEsa4Y70)
+### [Getting started with Ansible 07 - The 'when' Conditional](https://www.youtube.com/watch?v=BF7vIk9no14&amp;list=PLT98CRl2KxKEUHie1m24-wkyHpEsa4Y70&amp;index=7&amp;pp=iAQB)

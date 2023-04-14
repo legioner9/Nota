@@ -1,0 +1,3 @@
+# [ Python для сетевых инженеров](https://www.youtube.com/@PyNEng/playlists)
+## [Python для сетевых инженеров](https://www.youtube.com/playlist?list=PLah0HUih_ZRljCWNZp2N-YBVkgxiJZWEY)
+### [05 Часть 3. Создание базовых скриптов](https://www.youtube.com/watch?v=IjBx_V7iY5Q&amp;list=PLah0HUih_ZRljCWNZp2N-YBVkgxiJZWEY&amp;index=15&amp;pp=iAQB)

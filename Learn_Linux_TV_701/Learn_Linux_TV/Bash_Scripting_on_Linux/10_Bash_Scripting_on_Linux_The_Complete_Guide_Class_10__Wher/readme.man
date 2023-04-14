@@ -1,0 +1,3 @@
+# [Learn Linux TV](https://www.youtube.com/@LearnLinuxTV/playlists)
+## [Bash Scripting on Linux](https://www.youtube.com/playlist?list=PLT98CRl2KxKGj-VKtApD8-zCqSaN2mD4w)
+### [Bash Scripting on Linux (The Complete Guide) Class 10 - Where to Store Scripts](https://www.youtube.com/watch?v=H89QlqFqJQg&amp;list=PLT98CRl2KxKGj-VKtApD8-zCqSaN2mD4w&amp;index=10&amp;pp=iAQB)

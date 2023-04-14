@@ -1,0 +1,3 @@
+# [Pulse](https://www.youtube.com/@pulse_os/playlists)
+## [Hacking](https://www.youtube.com/playlist?list=PLAixKCwWV1dAqYUWhMNqOP5t8000pcbTr)
+### [Shodan. Поиск в глубинах интернета](https://www.youtube.com/watch?v=bwCP-bEHGsQ&amp;list=PLAixKCwWV1dAqYUWhMNqOP5t8000pcbTr&amp;index=2&amp;pp=iAQB)

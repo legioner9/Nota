@@ -1,0 +1,3 @@
+# [ Python для сетевых инженеров](https://www.youtube.com/@PyNEng/playlists)
+## [Основы tmux](https://www.youtube.com/playlist?list=PLah0HUih_ZRkSAPJyzlk_wU7iVLzGFMAi)
+### [Tmux. Варианты запуска функции](https://www.youtube.com/watch?v=Cmx_m0sdOlo&amp;list=PLah0HUih_ZRkSAPJyzlk_wU7iVLzGFMAi&amp;index=3&amp;pp=iAQB)

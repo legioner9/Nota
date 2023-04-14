@@ -1,0 +1,3 @@
+# [DKA-DEVELOP](https://www.youtube.com/@DKADEVELOP/playlists?view=1&sort=dd&shelf_id=0)
+## [Laravel - установка, настройка, новшества, обзор документации на примерах | Плейлист будет содержать видео по всей документации](https://www.youtube.com/playlist?list=PLD5U-C5KK50XjpZ2NFD5pMhw-bCh5Z0Pl)
+### [Laravel создание авторизации и подготовка проекта для будущих уроков.](https://www.youtube.com/watch?v=I-cu3XQFEZ8&amp;list=PLD5U-C5KK50XjpZ2NFD5pMhw-bCh5Z0Pl&amp;index=17&amp;pp=iAQB)

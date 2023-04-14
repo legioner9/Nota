@@ -1,0 +1,7 @@
+### [Android devTool web page chrome](https://www.youtube.com/watch?v=bNCnJ-YncpA&amp;list=PLdRkxc5c2e3lpgdEyQlWw9l3D-8_4RWbM&amp;index=1&amp;pp=iAQB)
+### [BEST REST client VSCode](https://www.youtube.com/watch?v=8sn-m37lC4I&amp;list=PLdRkxc5c2e3lpgdEyQlWw9l3D-8_4RWbM&amp;index=2&amp;pp=iAQB)
+### [Как установить vscode на android с помощью termux](https://www.youtube.com/watch?v=0509FEFa13U&amp;list=PLdRkxc5c2e3lpgdEyQlWw9l3D-8_4RWbM&amp;index=3&amp;pp=iAQB)
+### [GitHub Codespaces виртуальное рабочее окружение](https://www.youtube.com/watch?v=zWWDLIO3Aak&amp;list=PLdRkxc5c2e3lpgdEyQlWw9l3D-8_4RWbM&amp;index=4&amp;pp=iAQB)
+### [git clone и зачем он нужен и что делает](https://www.youtube.com/watch?v=jOB7_QnR1co&amp;list=PLdRkxc5c2e3lpgdEyQlWw9l3D-8_4RWbM&amp;index=5&amp;pp=iAQB)
+### [#git, настройка и использование  #gitignore](https://www.youtube.com/watch?v=uockGuBNvUA&amp;list=PLdRkxc5c2e3lpgdEyQlWw9l3D-8_4RWbM&amp;index=6&amp;pp=iAQB)
+### [Регистрация на GitHub, создание первого репозитория, первые коммиты](https://www.youtube.com/watch?v=0vaWp7wntaE&amp;list=PLdRkxc5c2e3lpgdEyQlWw9l3D-8_4RWbM&amp;index=7&amp;pp=iAQB)

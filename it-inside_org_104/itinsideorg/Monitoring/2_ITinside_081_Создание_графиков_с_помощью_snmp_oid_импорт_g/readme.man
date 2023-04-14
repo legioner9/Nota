@@ -1,0 +1,3 @@
+# [it-inside.org](https://www.youtube.com/@itinsideorg/playlists)
+## [Monitoring.](https://www.youtube.com/playlist?list=PLWeA3JK7qaioL-Q7IPatURDrh4E4X-Von)
+### [IT-inside 08.1. Создание графиков с помощью snmp oid, импорт graph template в cacti.](https://www.youtube.com/watch?v=LimvYbzQYMI&amp;list=PLWeA3JK7qaioL-Q7IPatURDrh4E4X-Von&amp;index=2&amp;pp=iAQB)

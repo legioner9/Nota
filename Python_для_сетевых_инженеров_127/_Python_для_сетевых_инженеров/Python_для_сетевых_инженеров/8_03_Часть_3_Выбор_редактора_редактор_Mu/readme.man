@@ -1,0 +1,3 @@
+# [ Python для сетевых инженеров](https://www.youtube.com/@PyNEng/playlists)
+## [Python для сетевых инженеров](https://www.youtube.com/playlist?list=PLah0HUih_ZRljCWNZp2N-YBVkgxiJZWEY)
+### [03 Часть 3. Выбор редактора, редактор Mu](https://www.youtube.com/watch?v=EFFm5CtH4NY&amp;list=PLah0HUih_ZRljCWNZp2N-YBVkgxiJZWEY&amp;index=8&amp;pp=iAQB)

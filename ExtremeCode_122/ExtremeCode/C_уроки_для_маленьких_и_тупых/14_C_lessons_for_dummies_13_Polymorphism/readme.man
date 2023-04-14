@@ -1,0 +1,3 @@
+# [ExtremeCode](https://www.youtube.com/@ExtremeCode/playlists)
+## [C# уроки для маленьких и тупых](https://www.youtube.com/playlist?list=PLuGqgO5WmeGPTZqDHZDIum3h7HnfBfzmZ)
+### [C# lessons for dummies #13. Polymorphism](https://www.youtube.com/watch?v=bkGKQ3pY6kE&amp;list=PLuGqgO5WmeGPTZqDHZDIum3h7HnfBfzmZ&amp;index=14&amp;pp=iAQB)

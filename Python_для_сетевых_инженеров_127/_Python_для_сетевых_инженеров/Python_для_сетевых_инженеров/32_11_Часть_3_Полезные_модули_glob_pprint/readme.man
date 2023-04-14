@@ -1,0 +1,3 @@
+# [ Python для сетевых инженеров](https://www.youtube.com/@PyNEng/playlists)
+## [Python для сетевых инженеров](https://www.youtube.com/playlist?list=PLah0HUih_ZRljCWNZp2N-YBVkgxiJZWEY)
+### [11 Часть 3. Полезные модули: glob, pprint](https://www.youtube.com/watch?v=biwD45iwfG8&amp;list=PLah0HUih_ZRljCWNZp2N-YBVkgxiJZWEY&amp;index=32&amp;pp=iAQB)

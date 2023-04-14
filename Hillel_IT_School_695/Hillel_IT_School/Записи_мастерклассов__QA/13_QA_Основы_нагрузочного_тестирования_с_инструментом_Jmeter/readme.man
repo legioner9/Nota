@@ -1,0 +1,3 @@
+# [Hillel IT School](https://www.youtube.com/@HillelITSchool/playlists)
+## [Записи мастер-классов | QA](https://www.youtube.com/playlist?list=PLuEo4W0EBxtUSGkG4y9mDgOJ_rhXCiRr5)
+### [QA: Основы нагрузочного тестирования с инструментом Jmeter](https://www.youtube.com/watch?v=d7aWDbLAUpo&amp;list=PLuEo4W0EBxtUSGkG4y9mDgOJ_rhXCiRr5&amp;index=13&amp;pp=iAQB)

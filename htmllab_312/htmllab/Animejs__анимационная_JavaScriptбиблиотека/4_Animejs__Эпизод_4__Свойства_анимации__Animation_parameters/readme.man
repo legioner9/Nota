@@ -1,0 +1,3 @@
+# [htmllab](https://www.youtube.com/@HtmllabRu/playlists)
+## [Anime.js - анимационная JavaScript-библиотека](https://www.youtube.com/playlist?list=PLOQDek48BpZEr1WUKJ_FNUzlbU57piBT0)
+### [Anime.js - Эпизод 4 - Свойства анимации - Animation parameters](https://www.youtube.com/watch?v=kotrXf78pEQ&amp;list=PLOQDek48BpZEr1WUKJ_FNUzlbU57piBT0&amp;index=4&amp;pp=iAQB)

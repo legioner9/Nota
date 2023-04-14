@@ -1,0 +1,3 @@
+# [ExtremeCode](https://www.youtube.com/@ExtremeCode/playlists)
+## [C# туториалы](https://www.youtube.com/playlist?list=PLuGqgO5WmeGOHGxaKKIP2GI1AnhkIvxxx)
+### [Делаем парсер HTML на C#](https://www.youtube.com/watch?v=nz4ZCr6pnXA&amp;list=PLuGqgO5WmeGOHGxaKKIP2GI1AnhkIvxxx&amp;index=3&amp;pp=iAQB)

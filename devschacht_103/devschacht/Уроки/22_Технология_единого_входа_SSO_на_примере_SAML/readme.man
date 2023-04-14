@@ -1,0 +1,3 @@
+# [devschacht](https://www.youtube.com/@devschacht/playlists)
+## [Уроки](https://www.youtube.com/playlist?list=PLp4xNfzJ2Gyqc5d-OfsLQx66sLnUAuiI2)
+### [Технология единого входа (SSO) на примере SAML](https://www.youtube.com/watch?v=f1_BPuOYhZw&amp;list=PLp4xNfzJ2Gyqc5d-OfsLQx66sLnUAuiI2&amp;index=22&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [Kirill Semaev](https://www.youtube.com/@KirillSemaev/playlists)
+## [LPIC-1 (exam 101)](https://www.youtube.com/playlist?list=PLmxB7JSpraiep6kr802UDqiAIU-76nGfc)
+### [LPIC 103.6 Приоритеты процессов в Linux](https://www.youtube.com/watch?v=4GovHRq6S7g&amp;list=PLmxB7JSpraiep6kr802UDqiAIU-76nGfc&amp;index=18&amp;pp=iAQB)

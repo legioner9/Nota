@@ -1,0 +1,3 @@
+# [Learn Linux TV](https://www.youtube.com/@LearnLinuxTV/playlists)
+## [Raspberry Pi](https://www.youtube.com/playlist?list=PLT98CRl2KxKH0ZbEgVU5E-XOt6dX5oN9k)
+### [Build your own NAS! A custom Raspberry Pi build with OpenMediaVault and an Argon One M2 Case](https://www.youtube.com/watch?v=SdpTEYxfa9A&amp;list=PLT98CRl2KxKH0ZbEgVU5E-XOt6dX5oN9k&amp;index=7&amp;pp=iAQB)

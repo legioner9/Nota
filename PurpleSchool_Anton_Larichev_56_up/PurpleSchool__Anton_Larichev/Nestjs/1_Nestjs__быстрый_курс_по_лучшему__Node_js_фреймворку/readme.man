@@ -1,0 +1,3 @@
+# [PurpleSchool | Anton Larichev](https://www.youtube.com/@PurpleSchool/playlists)
+## [Nestjs](https://www.youtube.com/playlist?list=PLhZj4EWV4TnhwvF_Fb6Fgt2AW35njn7ZL)
+### [Nestjs - быстрый курс по лучшему  Node js фреймворку](https://www.youtube.com/watch?v=j2-GqaeSueA&amp;list=PLhZj4EWV4TnhwvF_Fb6Fgt2AW35njn7ZL&amp;index=1&amp;pp=iAQB)

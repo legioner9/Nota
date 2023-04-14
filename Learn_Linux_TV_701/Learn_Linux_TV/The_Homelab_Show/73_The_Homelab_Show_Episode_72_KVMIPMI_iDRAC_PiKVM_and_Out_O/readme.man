@@ -1,0 +1,3 @@
+# [Learn Linux TV](https://www.youtube.com/@LearnLinuxTV/playlists)
+## [The Homelab Show](https://www.youtube.com/playlist?list=PLT98CRl2KxKFV0WB3Gi0QmMdP1kzFxPUG)
+### [The Homelab Show Episode 72: KVM,IPMI, iDRAC, PiKVM and Out Of Band Management](https://www.youtube.com/watch?v=VgdwTckl9Ao&amp;list=PLT98CRl2KxKFV0WB3Gi0QmMdP1kzFxPUG&amp;index=73&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [SACRED DEVELOPER](https://www.youtube.com/@SACREDDEVELOPER/playlists?view=1&sort=dd&shelf_id=0)
+## [Git+GitHub+VSCode](https://www.youtube.com/playlist?list=PLdRkxc5c2e3lpgdEyQlWw9l3D-8_4RWbM)
+### [Как установить vscode на android с помощью termux](https://www.youtube.com/watch?v=0509FEFa13U&amp;list=PLdRkxc5c2e3lpgdEyQlWw9l3D-8_4RWbM&amp;index=3&amp;pp=iAQB)

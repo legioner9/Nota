@@ -1,0 +1,3 @@
+# [#linux life](https://www.youtube.com/@linuxlifepage/playlists)
+## [Hugo - генератор статических сайтов](https://www.youtube.com/playlist?list=PLKxZjsTaY5XtG9dR1LCrRnvnkskfpjjYq)
+### [HUGO Wiki - удобная база знаний без БД/Админок/Плагинов/Cms](https://www.youtube.com/watch?v=iOyVduiIvjw&amp;list=PLKxZjsTaY5XtG9dR1LCrRnvnkskfpjjYq&amp;index=4&amp;pp=iAQB)

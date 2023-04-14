@@ -1,0 +1,5 @@
+### [#1 - Приложение на #Cordova - создание мобильного приложения для сайта](https://www.youtube.com/watch?v=OYtCVOHe_KY&amp;list=PL8CIWP7ylJENGpxXqTlWDZqSGZcyhbgx3&amp;index=1&amp;pp=iAQB)
+### [#2 - Приложение на #Cordova - создание мобильного приложения для сайта](https://www.youtube.com/watch?v=gl3n3Avk4ck&amp;list=PL8CIWP7ylJENGpxXqTlWDZqSGZcyhbgx3&amp;index=2&amp;pp=iAQB)
+### [#3 Публикация мобильного приложения в GooglePlay #Cordova](https://www.youtube.com/watch?v=GrzZ7siWO1I&amp;list=PL8CIWP7ylJENGpxXqTlWDZqSGZcyhbgx3&amp;index=3&amp;pp=iAQB)
+### [#4 Публикация мобильного приложения в AppStore #Cordova](https://www.youtube.com/watch?v=tSUyTAQjwPo&amp;list=PL8CIWP7ylJENGpxXqTlWDZqSGZcyhbgx3&amp;index=4&amp;pp=iAQB)
+### [#5 Оффлайн доступ в мобильном приложении на #Cordova](https://www.youtube.com/watch?v=KdWq43u49Rc&amp;list=PL8CIWP7ylJENGpxXqTlWDZqSGZcyhbgx3&amp;index=5&amp;pp=iAQB)

@@ -1,0 +1,4 @@
+### [Как протестировать соседский Wifi 2.0. Wi-Fi рыбалка (wifiphisher) на Kali](https://www.youtube.com/watch?v=xhMgugw_qcE&amp;list=PLpATPij5aov5nQ4-B6fQGHBBkSbTphHOK&amp;index=1&amp;pp=iAQB)
+### [Байки Эникейщика #2: Ломаем соседский Wi Fi](https://www.youtube.com/watch?v=MCyYlHQILcs&amp;list=PLpATPij5aov5nQ4-B6fQGHBBkSbTphHOK&amp;index=2&amp;pp=iAQB)
+### [Как вычислить по IP? Никак! Но можно узнать местоположение по МАК](https://www.youtube.com/watch?v=ESxAG41YlLY&amp;list=PLpATPij5aov5nQ4-B6fQGHBBkSbTphHOK&amp;index=3&amp;pp=iAQB)
+### [Как пользоваться Wireshark? Анализ трафика и расшифровка пакетов](https://www.youtube.com/watch?v=S-tuIvOA0ac&amp;list=PLpATPij5aov5nQ4-B6fQGHBBkSbTphHOK&amp;index=4&amp;pp=iAQB)

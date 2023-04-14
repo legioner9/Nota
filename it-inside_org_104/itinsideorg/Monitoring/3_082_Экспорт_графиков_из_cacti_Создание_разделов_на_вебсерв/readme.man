@@ -1,0 +1,3 @@
+# [it-inside.org](https://www.youtube.com/@itinsideorg/playlists)
+## [Monitoring.](https://www.youtube.com/playlist?list=PLWeA3JK7qaioL-Q7IPatURDrh4E4X-Von)
+### [08.2 Экспорт графиков из cacti. Создание разделов на веб.сервере с помощью apache2/config-available.](https://www.youtube.com/watch?v=KBrnBdXCZYw&amp;list=PLWeA3JK7qaioL-Q7IPatURDrh4E4X-Von&amp;index=3&amp;pp=iAQB)

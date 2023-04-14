@@ -1,0 +1,3 @@
+# [DKA-DEVELOP](https://www.youtube.com/@DKADEVELOP/playlists?view=1&sort=dd&shelf_id=0)
+## [Laravel - Установка - Среда разработки](https://www.youtube.com/playlist?list=PLD5U-C5KK50WGCou5NMvVNMglIhNhdLBV)
+### [Laravel Homestead Vagrant Windows добавляем второй проект и подключаемся к базе данных | #2](https://www.youtube.com/watch?v=_ett8eVVHws&amp;list=PLD5U-C5KK50WGCou5NMvVNMglIhNhdLBV&amp;index=2&amp;pp=iAQB)

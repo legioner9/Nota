@@ -1,0 +1,4 @@
+### [Tampermonkey](https://www.youtube.com/watch?v=GP7Jvqwl5IE&amp;list=PLOQDek48BpZEASPy6Skb_yuJNXZszhB6S&amp;index=1&amp;pp=iAQB)
+### [Tampermonkey -  Автовход на почту](https://www.youtube.com/watch?v=a6O99R5l7fU&amp;list=PLOQDek48BpZEASPy6Skb_yuJNXZszhB6S&amp;index=2&amp;pp=iAQB)
+### [Tampermonkey Автопост в ВК с userscript Часть 1](https://www.youtube.com/watch?v=-6Su2DwAPQE&amp;list=PLOQDek48BpZEASPy6Skb_yuJNXZszhB6S&amp;index=3&amp;pp=iAQB)
+### [Tampermonkey 2 Мультипост в ВК с userscript Часть 2](https://www.youtube.com/watch?v=s87NzZOQEOQ&amp;list=PLOQDek48BpZEASPy6Skb_yuJNXZszhB6S&amp;index=4&amp;pp=iAQB)

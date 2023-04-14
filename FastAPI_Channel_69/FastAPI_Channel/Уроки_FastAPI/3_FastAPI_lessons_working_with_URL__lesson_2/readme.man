@@ -1,0 +1,3 @@
+# [FastAPI Channel](https://www.youtube.com/@FastAPIChannel/playlists?view=1)
+## [Уроки FastAPI](https://www.youtube.com/playlist?list=PLaED5GKTiQG8GW5Rv2hf3tRS-d9t9liUt)
+### [FastAPI lessons working with URL - lesson 2](https://www.youtube.com/watch?v=hmZe7gOrdSo&amp;list=PLaED5GKTiQG8GW5Rv2hf3tRS-d9t9liUt&amp;index=3&amp;pp=iAQB)

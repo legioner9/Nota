@@ -1,0 +1,3 @@
+# [ Python для сетевых инженеров](https://www.youtube.com/@PyNEng/playlists)
+## [Python для сетевых инженеров](https://www.youtube.com/playlist?list=PLah0HUih_ZRljCWNZp2N-YBVkgxiJZWEY)
+### [04 Часть 1. Числа. Строки](https://www.youtube.com/watch?v=u7GUHHDO9MQ&amp;list=PLah0HUih_ZRljCWNZp2N-YBVkgxiJZWEY&amp;index=9&amp;pp=iAQB)

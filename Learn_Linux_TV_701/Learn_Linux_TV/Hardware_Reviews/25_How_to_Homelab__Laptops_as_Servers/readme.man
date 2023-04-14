@@ -1,0 +1,3 @@
+# [Learn Linux TV](https://www.youtube.com/@LearnLinuxTV/playlists)
+## [Hardware Reviews](https://www.youtube.com/playlist?list=PLT98CRl2KxKFrdWvtDwF4axcHDkLwT3Op)
+### [How to Homelab - Laptops as Servers?!](https://www.youtube.com/watch?v=obdtUJECFWY&amp;list=PLT98CRl2KxKFrdWvtDwF4axcHDkLwT3Op&amp;index=25&amp;pp=iAQB)

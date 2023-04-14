@@ -1,0 +1,3 @@
+# [htmllab](https://www.youtube.com/@HtmllabRu/playlists)
+## [Спонсорам: React Native 2021](https://www.youtube.com/playlist?list=PLOQDek48BpZGAV9fsSIgwKypOcV6BxNJE)
+### [React Native #3 вывод массива внутрь ScrollView и FlattList](https://www.youtube.com/watch?v=3WxcH7f3tv8&amp;list=PLOQDek48BpZGAV9fsSIgwKypOcV6BxNJE&amp;index=3&amp;pp=iAQB)

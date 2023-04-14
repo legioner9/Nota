@@ -1,0 +1,3 @@
+# [Learn Linux TV](https://www.youtube.com/@LearnLinuxTV/playlists)
+## [Vim Beginners Guide](https://www.youtube.com/playlist?list=PLT98CRl2KxKHy4A5N70jMRYAROzzC2a6x)
+### [Vim Text Editor for Beginners Part 6 - Multitasking](https://www.youtube.com/watch?v=gZIMeOl2lLU&amp;list=PLT98CRl2KxKHy4A5N70jMRYAROzzC2a6x&amp;index=6&amp;pp=iAQB)

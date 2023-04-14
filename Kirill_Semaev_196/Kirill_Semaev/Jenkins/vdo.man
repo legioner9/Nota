@@ -1,0 +1,8 @@
+### [Сравнение систем CI/CD](https://www.youtube.com/watch?v=7SM8GLArTDY&amp;list=PLmxB7JSpraiew9igtD89o33AaniUrmUzm&amp;index=1&amp;pp=iAQB)
+### [Jenkins №2. Установка, описание работы агентов](https://www.youtube.com/watch?v=QvlWcxECzE8&amp;list=PLmxB7JSpraiew9igtD89o33AaniUrmUzm&amp;index=2&amp;pp=iAQB)
+### [Jenkins №3. Управление удаленными серверами](https://www.youtube.com/watch?v=vY8DASStkOk&amp;list=PLmxB7JSpraiew9igtD89o33AaniUrmUzm&amp;index=3&amp;pp=iAQB)
+### [Jenkins №4. Первый pipeline](https://www.youtube.com/watch?v=AvjV7FqjSt8&amp;list=PLmxB7JSpraiew9igtD89o33AaniUrmUzm&amp;index=4&amp;pp=iAQB)
+### [Jenkins №5.  Простой docker build](https://www.youtube.com/watch?v=dV8l-pvPV3w&amp;list=PLmxB7JSpraiew9igtD89o33AaniUrmUzm&amp;index=5&amp;pp=iAQB)
+### [Jenkins №6. Запуск сборки по комиту](https://www.youtube.com/watch?v=0D_wKERZ2zo&amp;list=PLmxB7JSpraiew9igtD89o33AaniUrmUzm&amp;index=6&amp;pp=iAQB)
+### [Jenkins №7. Скрытие паролей в пайпах](https://www.youtube.com/watch?v=qX4m0yg3lQE&amp;list=PLmxB7JSpraiew9igtD89o33AaniUrmUzm&amp;index=7&amp;pp=iAQB)
+### [Jenkins №8. Multibranch pipeline или обнаружение веток](https://www.youtube.com/watch?v=5l1QvBvzQFE&amp;list=PLmxB7JSpraiew9igtD89o33AaniUrmUzm&amp;index=8&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [Heaven Paladin](https://www.youtube.com/@HeavenPaladin/playlists?view=1)
+## [Вводный курс в Java. 2014 год](https://www.youtube.com/playlist?list=PLUSohJYRsRBgcYX_mOO1AVDw0JAXR8Zyb)
+### [Лекция 6.  Ввод вывод, доступ к файловой системе. Алексей Владыкин. 2014 год](https://www.youtube.com/watch?v=JyczcxsvQlA&amp;list=PLUSohJYRsRBgcYX_mOO1AVDw0JAXR8Zyb&amp;index=6&amp;pp=iAQB)

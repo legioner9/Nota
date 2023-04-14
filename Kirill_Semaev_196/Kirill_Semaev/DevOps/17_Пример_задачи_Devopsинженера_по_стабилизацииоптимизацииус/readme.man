@@ -1,0 +1,3 @@
+# [Kirill Semaev](https://www.youtube.com/@KirillSemaev/playlists)
+## [DevOps](https://www.youtube.com/playlist?list=PLmxB7JSpraieS8C58ewR7fdTu5fS3z7HG)
+### [Пример задачи Devops-инженера по стабилизации/оптимизации/ускорению приложения](https://www.youtube.com/watch?v=shbXsBzNIcE&amp;list=PLmxB7JSpraieS8C58ewR7fdTu5fS3z7HG&amp;index=17&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [PracticU - онлайн IT курсы](https://www.youtube.com/@PracticU2/playlists)
+## [Курс PowerShell](https://www.youtube.com/playlist?list=PLrXcA7Ca3B82suajs8BtLsZLwM_HQFLN-)
+### [Install PowerShell](https://www.youtube.com/watch?v=ZGNcdwpGy0U&amp;list=PLrXcA7Ca3B82suajs8BtLsZLwM_HQFLN-&amp;index=3&amp;pp=iAQB)

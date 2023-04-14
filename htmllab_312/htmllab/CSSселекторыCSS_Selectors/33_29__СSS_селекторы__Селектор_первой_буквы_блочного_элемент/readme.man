@@ -1,0 +1,3 @@
+# [htmllab](https://www.youtube.com/@HtmllabRu/playlists)
+## [CSS-селекторы/CSS Selectors](https://www.youtube.com/playlist?list=PLOQDek48BpZFC6sSFRsok97gaEZV6CVf_)
+### [29 - СSS селекторы - Селектор первой буквы блочного элемента, псевдоэлемент ::first letter](https://www.youtube.com/watch?v=MlYqBJjBj1w&amp;list=PLOQDek48BpZFC6sSFRsok97gaEZV6CVf_&amp;index=33&amp;pp=iAQB)

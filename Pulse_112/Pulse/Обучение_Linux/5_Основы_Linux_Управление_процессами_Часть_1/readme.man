@@ -1,0 +1,3 @@
+# [Pulse](https://www.youtube.com/@pulse_os/playlists)
+## [Обучение Linux](https://www.youtube.com/playlist?list=PLAixKCwWV1dALYSme2mulhcdiXkI-bJC2)
+### [Основы Linux. Управление процессами. Часть 1](https://www.youtube.com/watch?v=0-wFMegmw2U&amp;list=PLAixKCwWV1dALYSme2mulhcdiXkI-bJC2&amp;index=5&amp;pp=iAQB)

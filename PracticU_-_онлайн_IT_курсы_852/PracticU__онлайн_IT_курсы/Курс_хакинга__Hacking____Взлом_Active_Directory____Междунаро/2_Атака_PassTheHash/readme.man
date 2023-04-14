@@ -1,0 +1,3 @@
+# [PracticU - онлайн IT курсы](https://www.youtube.com/@PracticU2/playlists)
+## [Курс хакинга - Hacking  -  Взлом Active Directory  -  Международная сертификация OSCP](https://www.youtube.com/playlist?list=PLrXcA7Ca3B80R1RXS6z2hmrkDhnk4i0pH)
+### [Атака Pass-The-Hash](https://www.youtube.com/watch?v=WDEalpTaZm4&amp;list=PLrXcA7Ca3B80R1RXS6z2hmrkDhnk4i0pH&amp;index=2&amp;pp=iAQB)

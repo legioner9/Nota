@@ -1,0 +1,8 @@
+### [1С-#Битрикс Ускорение работы сайта на 1С-Битрикс: редакция Бизнес](https://www.youtube.com/watch?v=lOTRlEA4dLI&amp;list=PL8CIWP7ylJEM-Xy4WFbRnGBkWqa5LkAWf&amp;index=1&amp;pp=iAQB)
+### [Минимальная сумма заказа в корзине и оформлении заказа в 1С-#Битрикс](https://www.youtube.com/watch?v=XaUnBK-AoUk&amp;list=PL8CIWP7ylJEM-Xy4WFbRnGBkWqa5LkAWf&amp;index=2&amp;pp=iAQB)
+### [Создание PWA приложения с публикацией в GooglePlay (TWA из PWA)](https://www.youtube.com/watch?v=7ZGRf22DUdg&amp;list=PL8CIWP7ylJEM-Xy4WFbRnGBkWqa5LkAWf&amp;index=3&amp;pp=iAQB)
+### [Умный фильтр во всплывающей панели на мобильных. #Битрикс](https://www.youtube.com/watch?v=yO7enl2vOlI&amp;list=PL8CIWP7ylJEM-Xy4WFbRnGBkWqa5LkAWf&amp;index=4&amp;pp=iAQB)
+### [Установка #Битрикс24 &quot;CRM + Интернет магазин&quot; на один домен.](https://www.youtube.com/watch?v=_-09uVQ87Z4&amp;list=PL8CIWP7ylJEM-Xy4WFbRnGBkWqa5LkAWf&amp;index=5&amp;pp=iAQB)
+### [Умный фильтр на главной странице Битрикс (Bitrix)](https://www.youtube.com/watch?v=4EcNq0-R53w&amp;list=PL8CIWP7ylJEM-Xy4WFbRnGBkWqa5LkAWf&amp;index=6&amp;pp=iAQB)
+### [Заполнение каталога 1С-#Битрикс торговыми предложениями (SKU). инструкция для контент-менеджера](https://www.youtube.com/watch?v=_4d-QHdTIpQ&amp;list=PL8CIWP7ylJEM-Xy4WFbRnGBkWqa5LkAWf&amp;index=7&amp;pp=iAQB)
+### [Картинка торгового предложения вместо иконки цвета, в выборе SKU #Битрикс](https://www.youtube.com/watch?v=LvJTt5bAGw8&amp;list=PL8CIWP7ylJEM-Xy4WFbRnGBkWqa5LkAWf&amp;index=8&amp;pp=iAQB)

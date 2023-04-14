@@ -1,0 +1,3 @@
+# [Kirill Semaev](https://www.youtube.com/@KirillSemaev/playlists)
+## [Мануалы](https://www.youtube.com/playlist?list=PLmxB7JSpraifsRUrtq2Y-il5NCLc3vKho)
+### [WSUS + SQL на Core. Часть четвертая - добавление роли WSUS на Core](https://www.youtube.com/watch?v=HdXtAh7_P2I&amp;list=PLmxB7JSpraifsRUrtq2Y-il5NCLc3vKho&amp;index=25&amp;pp=iAQB)

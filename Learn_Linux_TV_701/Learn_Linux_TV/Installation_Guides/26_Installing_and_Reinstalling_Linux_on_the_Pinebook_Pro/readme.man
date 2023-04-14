@@ -1,0 +1,3 @@
+# [Learn Linux TV](https://www.youtube.com/@LearnLinuxTV/playlists)
+## [Installation Guides](https://www.youtube.com/playlist?list=PLT98CRl2KxKE4aW2djCtYvl4tXSEnbodB)
+### [Installing and Reinstalling Linux on the Pinebook Pro](https://www.youtube.com/watch?v=mTyBI2PO4I0&amp;list=PLT98CRl2KxKE4aW2djCtYvl4tXSEnbodB&amp;index=26&amp;pp=iAQB)

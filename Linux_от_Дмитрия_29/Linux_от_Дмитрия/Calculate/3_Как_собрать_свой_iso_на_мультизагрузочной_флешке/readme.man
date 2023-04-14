@@ -1,0 +1,3 @@
+# [Linux от Дмитрия](https://www.youtube.com/@LinuxbyDmitry/playlists)
+## [Calculate](https://www.youtube.com/playlist?list=PLOp6AT9LJS_M4dj2RxzOwgOq_tcqcJqHe)
+### [Как собрать свой iso, на мультизагрузочной флешке](https://www.youtube.com/watch?v=az3_X0rw4GM&amp;list=PLOp6AT9LJS_M4dj2RxzOwgOq_tcqcJqHe&amp;index=3&amp;pp=iAQB)

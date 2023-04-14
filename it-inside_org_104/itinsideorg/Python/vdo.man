@@ -1,0 +1,5 @@
+### [Использование ШИМ в python для затемнения светодиодов на GPIO Raspberry Pi(v2).](https://www.youtube.com/watch?v=XKmxaFPCgSQ&amp;list=PLWeA3JK7qaipA13QI9h_4-X40161XZZ39&amp;index=1&amp;pp=iAQB)
+### [Изменение частоты импульсов на GPIO Raspberry Pi.](https://www.youtube.com/watch?v=cm8ejo6-4Sc&amp;list=PLWeA3JK7qaipA13QI9h_4-X40161XZZ39&amp;index=2&amp;pp=iAQB)
+### [Использование солнечной батареи для управления Raspberry Pi.](https://www.youtube.com/watch?v=PAnWIkgj2og&amp;list=PLWeA3JK7qaipA13QI9h_4-X40161XZZ39&amp;index=3&amp;pp=iAQB)
+### [Управление DC моторчиком с Raspberry Pi.](https://www.youtube.com/watch?v=haaroy6jkEw&amp;list=PLWeA3JK7qaipA13QI9h_4-X40161XZZ39&amp;index=4&amp;pp=iAQB)
+### [Ультразвуковой дальномер и Raspberry Pi.](https://www.youtube.com/watch?v=0wAqF24eOS4&amp;list=PLWeA3JK7qaipA13QI9h_4-X40161XZZ39&amp;index=5&amp;pp=iAQB)

@@ -1,0 +1,6 @@
+### [Кросс-компиляция gnu toolchain (часть 1)](https://www.youtube.com/watch?v=zRALFxGVdLI&amp;list=PLeQDJtBkrIiRIrBG5RK9FI1-N6GorvsZn&amp;index=1&amp;pp=iAQB)
+### [Кросс-компиляция GNU toolchain (как компилировать компилятор)](https://www.youtube.com/watch?v=fNpHxaumk24&amp;list=PLeQDJtBkrIiRIrBG5RK9FI1-N6GorvsZn&amp;index=2&amp;pp=iAQB)
+### [Кросс-компиляция gnu toolchain (часть 2)](https://www.youtube.com/watch?v=RnTY_ZyIt74&amp;list=PLeQDJtBkrIiRIrBG5RK9FI1-N6GorvsZn&amp;index=3&amp;pp=iAQB)
+### [Кросс-компиляция lldevcpu (часть 1)](https://www.youtube.com/watch?v=iiT2lccatXY&amp;list=PLeQDJtBkrIiRIrBG5RK9FI1-N6GorvsZn&amp;index=4&amp;pp=iAQB)
+### [Шаблоны инструкций в gcc (define_insn)](https://www.youtube.com/watch?v=MI3nn8bT-8w&amp;list=PLeQDJtBkrIiRIrBG5RK9FI1-N6GorvsZn&amp;index=5&amp;pp=iAQB)
+### [Первая компиляция Си кода (GCC backend)](https://www.youtube.com/watch?v=BCnzWsODrgc&amp;list=PLeQDJtBkrIiRIrBG5RK9FI1-N6GorvsZn&amp;index=6&amp;pp=iAQB)

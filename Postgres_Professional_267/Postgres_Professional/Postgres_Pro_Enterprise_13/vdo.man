@@ -1,0 +1,3 @@
+### [Postgres Pro Enterprise 13](https://www.youtube.com/watch?v=xivJx-vzVkA&amp;list=PLaFqU3KCWw6Jm3X2VOLseGDbGQUT0wWaG&amp;index=1&amp;pp=iAQB)
+### [Postgres Pro Enterprise 13 от компании Postgres Professional](https://www.youtube.com/watch?v=u1IR20TvdOo&amp;list=PLaFqU3KCWw6Jm3X2VOLseGDbGQUT0wWaG&amp;index=2&amp;pp=iAQB)
+### [Postgres Pro Enterprise 13 on IBM Power 9 Platform](https://www.youtube.com/watch?v=jYzkbXcH6AA&amp;list=PLaFqU3KCWw6Jm3X2VOLseGDbGQUT0wWaG&amp;index=3&amp;pp=iAQB)

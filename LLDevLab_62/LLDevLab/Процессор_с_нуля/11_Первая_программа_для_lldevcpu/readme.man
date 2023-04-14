@@ -1,0 +1,3 @@
+# [LLDevLab](https://www.youtube.com/@LLDevLab/playlists)
+## [Процессор с нуля](https://www.youtube.com/playlist?list=PLeQDJtBkrIiQs1huQj_Ien00CnBbMo4Yu)
+### [Первая программа для lldevcpu](https://www.youtube.com/watch?v=zi87QgEscDg&amp;list=PLeQDJtBkrIiQs1huQj_Ien00CnBbMo4Yu&amp;index=11&amp;pp=iAQB)

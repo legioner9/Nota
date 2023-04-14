@@ -1,0 +1,3 @@
+# [Kirill Semaev](https://www.youtube.com/@KirillSemaev/playlists)
+## [DevOps](https://www.youtube.com/playlist?list=PLmxB7JSpraieS8C58ewR7fdTu5fS3z7HG)
+### [Jenkins №4. Первый pipeline](https://www.youtube.com/watch?v=AvjV7FqjSt8&amp;list=PLmxB7JSpraieS8C58ewR7fdTu5fS3z7HG&amp;index=10&amp;pp=iAQB)

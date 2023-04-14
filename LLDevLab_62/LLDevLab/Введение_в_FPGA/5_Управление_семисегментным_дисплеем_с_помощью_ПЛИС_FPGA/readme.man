@@ -1,0 +1,3 @@
+# [LLDevLab](https://www.youtube.com/@LLDevLab/playlists)
+## [Введение в FPGA](https://www.youtube.com/playlist?list=PLeQDJtBkrIiTbyythMxE7fJv59zFa8Czv)
+### [Управление семисегментным дисплеем с помощью ПЛИС (FPGA)](https://www.youtube.com/watch?v=QdgdvQHXAwQ&amp;list=PLeQDJtBkrIiTbyythMxE7fJv59zFa8Czv&amp;index=5&amp;pp=iAQB)

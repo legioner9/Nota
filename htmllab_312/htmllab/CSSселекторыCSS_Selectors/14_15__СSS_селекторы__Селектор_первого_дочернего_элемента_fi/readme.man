@@ -1,0 +1,3 @@
+# [htmllab](https://www.youtube.com/@HtmllabRu/playlists)
+## [CSS-селекторы/CSS Selectors](https://www.youtube.com/playlist?list=PLOQDek48BpZFC6sSFRsok97gaEZV6CVf_)
+### [15 - СSS селекторы - Селектор первого дочернего элемента :first-child](https://www.youtube.com/watch?v=b2ns4IFBUg4&amp;list=PLOQDek48BpZFC6sSFRsok97gaEZV6CVf_&amp;index=14&amp;pp=iAQB)

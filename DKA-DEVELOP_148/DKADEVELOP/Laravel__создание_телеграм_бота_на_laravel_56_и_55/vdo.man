@@ -1,0 +1,8 @@
+### [Laravel how to create a bot telegram | Laravel telegram bot | Laravel 5.6 | 5.x - # 1](https://www.youtube.com/watch?v=kF4TXgzRx0w&amp;list=PLD5U-C5KK50VJGLh7SxlGDb4ZCwTCRKNw&amp;index=1&amp;pp=iAQB)
+### [Laravel create telegram bot | We register the bot and create the project | Laravel 5.6 | # 2](https://www.youtube.com/watch?v=PwU-JtbYreE&amp;list=PLD5U-C5KK50VJGLh7SxlGDb4ZCwTCRKNw&amp;index=2&amp;pp=iAQB)
+### [Laravel как создать Telegram бота | Подготавливаем к регистрации WebHook | Laravel 5.6 | 5.x - #3](https://www.youtube.com/watch?v=gcsUSbV_ob8&amp;list=PLD5U-C5KK50VJGLh7SxlGDb4ZCwTCRKNw&amp;index=3&amp;pp=iAQB)
+### [Telegram bot на Laravel | Регистрация WebHook | Laravel 5.6 | 5.x - #4](https://www.youtube.com/watch?v=drJNr7akHQ8&amp;list=PLD5U-C5KK50VJGLh7SxlGDb4ZCwTCRKNw&amp;index=4&amp;pp=iAQB)
+### [Telegram bot на Laravel | Deploy - установка на хостинг  | Запускаем нашего бота | Laravel 5.x - #5](https://www.youtube.com/watch?v=9vVcVESvayU&amp;list=PLD5U-C5KK50VJGLh7SxlGDb4ZCwTCRKNw&amp;index=5&amp;pp=iAQB)
+### [Telegram bot на Laravel | Создаем команду для бота на telegram | Laravel 5.6 | 5.x - #6](https://www.youtube.com/watch?v=tQvzmWcp_CU&amp;list=PLD5U-C5KK50VJGLh7SxlGDb4ZCwTCRKNw&amp;index=6&amp;pp=iAQB)
+### [Telegram bot на Laravel | Keyboard и хранение информации о пользователе | Laravel 5.6 | 5.x - #7](https://www.youtube.com/watch?v=HDibqeVRf18&amp;list=PLD5U-C5KK50VJGLh7SxlGDb4ZCwTCRKNw&amp;index=7&amp;pp=iAQB)
+### [Telegram bot разработка на локальном компьютере за nat или proxy в режиме нон стоп | 5.x - #8](https://www.youtube.com/watch?v=g58EahVubv0&amp;list=PLD5U-C5KK50VJGLh7SxlGDb4ZCwTCRKNw&amp;index=8&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [Kirill Semaev](https://www.youtube.com/@KirillSemaev/playlists)
+## [LPIC-1 (exam 101)](https://www.youtube.com/playlist?list=PLmxB7JSpraiep6kr802UDqiAIU-76nGfc)
+### [LPIC 101.3-2 Инициализация системы в стиле systemd](https://www.youtube.com/watch?v=0IQHR6g4zLA&amp;list=PLmxB7JSpraiep6kr802UDqiAIU-76nGfc&amp;index=6&amp;pp=iAQB)

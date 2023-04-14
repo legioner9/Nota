@@ -1,0 +1,3 @@
+# [Learn Linux TV](https://www.youtube.com/@LearnLinuxTV/playlists)
+## [Linux Crash Course](https://www.youtube.com/playlist?list=PLT98CRl2KxKHKd_tH3ssq0HPrThx2hESW)
+### [Linux Crash Course - The tr Command](https://www.youtube.com/watch?v=4qP5xA_epXo&amp;list=PLT98CRl2KxKHKd_tH3ssq0HPrThx2hESW&amp;index=53&amp;pp=iAQB)

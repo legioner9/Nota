@@ -1,0 +1,3 @@
+# [Linux Training Center](https://www.youtube.com/@LinuxTrainingCenter/playlists)
+## [LPIC-102](https://www.youtube.com/playlist?list=PL5BUU9mMwX6mLCD9qz9GaNzJvXZcCVX0L)
+### [2.10 Последовательность команд в оболочке bash | Linux для начинающих](https://www.youtube.com/watch?v=o-w_Fz-FcKQ&amp;list=PL5BUU9mMwX6mLCD9qz9GaNzJvXZcCVX0L&amp;index=10&amp;pp=iAQB)

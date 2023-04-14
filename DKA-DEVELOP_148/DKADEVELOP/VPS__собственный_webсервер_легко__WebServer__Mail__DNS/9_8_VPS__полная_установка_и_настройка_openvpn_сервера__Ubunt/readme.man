@@ -1,0 +1,3 @@
+# [DKA-DEVELOP](https://www.youtube.com/@DKADEVELOP/playlists?view=1&sort=dd&shelf_id=0)
+## [VPS - собственный web-сервер легко | Web-Server | Mail | DNS](https://www.youtube.com/playlist?list=PLD5U-C5KK50VSpG0nciGKnLQuaqrAYmyP)
+### [#8 VPS - полная установка и настройка openvpn сервера | Ubuntu | Debian | Windows |](https://www.youtube.com/watch?v=9Bo99fijx3I&amp;list=PLD5U-C5KK50VSpG0nciGKnLQuaqrAYmyP&amp;index=9&amp;pp=iAQB)

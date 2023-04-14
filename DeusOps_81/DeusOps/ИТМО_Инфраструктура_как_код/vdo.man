@@ -1,0 +1,4 @@
+### [ITMO, Инфраструктура как код #1: Понятие инфраструктурного кода](https://www.youtube.com/watch?v=5AphHFOSLhI&amp;list=PLGQiJX6wM-zz5xbRH_RnQu5SSVyFf0Ftc&amp;index=1&amp;pp=iAQB)
+### [ITMO, Инфраструктура как код #3: Ansible-роли и Galaxy](https://www.youtube.com/watch?v=-x-wwgmmApA&amp;list=PLGQiJX6wM-zz5xbRH_RnQu5SSVyFf0Ftc&amp;index=2&amp;pp=iAQB)
+### [ITMO, Инфраструктура как код #2: Знакомство с Ansible](https://www.youtube.com/watch?v=jv9no1nNFqg&amp;list=PLGQiJX6wM-zz5xbRH_RnQu5SSVyFf0Ftc&amp;index=3&amp;pp=iAQB)
+### [ITMO, Инфраструктура как код #4: Разработка ролей: Molecule и Galaxy](https://www.youtube.com/watch?v=1ANRPg17fpU&amp;list=PLGQiJX6wM-zz5xbRH_RnQu5SSVyFf0Ftc&amp;index=4&amp;pp=iAQB)

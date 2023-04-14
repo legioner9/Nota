@@ -1,0 +1,3 @@
+# [Learn Linux TV](https://www.youtube.com/@LearnLinuxTV/playlists)
+## [Programming in Python (Learn Linux TV Classics)](https://www.youtube.com/playlist?list=PLT98CRl2KxKGIazPd2nQEPbG7sQpT8LEj)
+### [Coding in Python 13 - User Input (Learn Linux TV Classics)](https://www.youtube.com/watch?v=m3XhOT8fIn8&amp;list=PLT98CRl2KxKGIazPd2nQEPbG7sQpT8LEj&amp;index=13&amp;pp=iAQB)
