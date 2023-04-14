@@ -1,0 +1,3 @@
+# [Start Android](https://www.youtube.com/@start_android/playlists?view=1)
+## [Инструменты Android разработчика](https://www.youtube.com/playlist?list=PLyfVjOYzujugEUT-7gYhONqB5Y1xszpCq)
+### [ORM to simplify the work with SQLite in Android (by the example of Sugar ORM)](https://www.youtube.com/watch?v=3WFjseI13Dw&amp;list=PLyfVjOYzujugEUT-7gYhONqB5Y1xszpCq&amp;index=19&amp;pp=iAQB)

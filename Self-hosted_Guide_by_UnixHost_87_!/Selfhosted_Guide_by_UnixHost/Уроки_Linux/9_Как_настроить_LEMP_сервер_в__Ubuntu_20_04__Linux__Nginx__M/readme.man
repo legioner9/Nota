@@ -1,0 +1,3 @@
+# [Self-hosted Guide [by UnixHost]](https://www.youtube.com/@selfhostedguide/playlists)
+## [Уроки Linux](https://www.youtube.com/playlist?list=PLYKYbjpqsWJcnIHmFs77Mfm0Sglu0QJcU)
+### [Как настроить LEMP сервер в  Ubuntu 20 04 | Linux | Nginx | MySQL | PHP | UnixHost](https://www.youtube.com/watch?v=-GnVpi7jFdI&amp;list=PLYKYbjpqsWJcnIHmFs77Mfm0Sglu0QJcU&amp;index=9&amp;pp=iAQB)

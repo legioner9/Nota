@@ -1,0 +1,3 @@
+# [#SimpleCode](https://www.youtube.com/@SimpleCodeIT/playlists)
+## [Объектно-ориентированное программирование (ООП) в C++](https://www.youtube.com/playlist?list=PLQOaTSbfxUtBm7DxblJZShqBQnBAVzlXX)
+### [STL алгоритмы поиска | find | find_if | find_if_not | Библиотека стандартных шаблонов (stl) C++ #14](https://www.youtube.com/watch?v=xx_DB4sf92E&amp;list=PLQOaTSbfxUtBm7DxblJZShqBQnBAVzlXX&amp;index=99&amp;pp=iAQB)

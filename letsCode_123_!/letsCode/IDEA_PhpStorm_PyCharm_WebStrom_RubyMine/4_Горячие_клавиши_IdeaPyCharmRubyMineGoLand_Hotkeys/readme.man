@@ -1,0 +1,3 @@
+# [letsCode](https://www.youtube.com/@letsCodeDru/playlists)
+## [IDEA, PhpStorm, PyCharm, WebStrom, RubyMine](https://www.youtube.com/playlist?list=PLU2ftbIeotGor8dJGCxquh3Se3YcHQNUA)
+### [Горячие клавиши Idea/PyCharm/RubyMine/GoLand (Hotkeys)](https://www.youtube.com/watch?v=lArM1o0SoMw&amp;list=PLU2ftbIeotGor8dJGCxquh3Se3YcHQNUA&amp;index=4&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+### [Esxi: меняем размер диска виртуальной машины на лету](https://www.youtube.com/watch?v=Vcd85SjaK5o&amp;list=PLEFo-qGWcO2Z64XxWiormbqSxinXxva7L&amp;index=1&amp;pp=iAQB)
+### [Esxi: меня взломали! Лечим и понимаем причину.](https://www.youtube.com/watch?v=egOeKrJUliE&amp;list=PLEFo-qGWcO2Z64XxWiormbqSxinXxva7L&amp;index=2&amp;pp=iAQB)
+### [Esxi: меня взломали! Лечим и понимаем причину, часть 2](https://www.youtube.com/watch?v=8qkUZXCnkHQ&amp;list=PLEFo-qGWcO2Z64XxWiormbqSxinXxva7L&amp;index=3&amp;pp=iAQB)

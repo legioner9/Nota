@@ -1,0 +1,3 @@
+# [Simple BSD](https://www.youtube.com/@SimpleBSD/playlists)
+## [Система](https://www.youtube.com/playlist?list=PLzRM84AHlOOjx7RbWiyYNnjJ2RzZjkTrd)
+### [Bhyve на FreeBSD (установка Ubuntu x64)](https://www.youtube.com/watch?v=8hnghQQQ8nQ&amp;list=PLzRM84AHlOOjx7RbWiyYNnjJ2RzZjkTrd&amp;index=14&amp;pp=iAQB)

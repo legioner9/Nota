@@ -1,0 +1,3 @@
+# [#SimpleCode](https://www.youtube.com/@SimpleCodeIT/playlists)
+## [C# УРОКИ | C# ОТ НОВИЧКА К ПРОФЕССИОНАЛУ](https://www.youtube.com/playlist?list=PLQOaTSbfxUtD6kMmAYc8Fooqya3pjLs1N)
+### [Сумма элементов массива РЕКУРСИЯ C# | СИ ШАРП ДОМАШНИЕ ЗАДАНИЯ # 16](https://www.youtube.com/watch?v=5dEg9Ed9iqA&amp;list=PLQOaTSbfxUtD6kMmAYc8Fooqya3pjLs1N&amp;index=67&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [Start Android](https://www.youtube.com/@start_android/playlists?view=1)
+## [Уроки по основам разработки android-приложений на Java](https://www.youtube.com/playlist?list=PLyfVjOYzujugap6Rf3ETNKkx4v9ePllNK)
+### [Lesson 37. Working with the SQLite database in Android, requests from related tables](https://www.youtube.com/watch?v=S2JiyzxVcMU&amp;list=PLyfVjOYzujugap6Rf3ETNKkx4v9ePllNK&amp;index=39&amp;pp=iAQB)

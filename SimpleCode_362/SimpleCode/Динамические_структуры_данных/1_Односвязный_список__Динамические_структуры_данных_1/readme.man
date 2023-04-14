@@ -1,0 +1,3 @@
+# [#SimpleCode](https://www.youtube.com/@SimpleCodeIT/playlists)
+## [Динамические структуры данных](https://www.youtube.com/playlist?list=PLQOaTSbfxUtAIipl4136nwb4ISyFk8oI4)
+### [Односвязный список | Динамические структуры данных #1](https://www.youtube.com/watch?v=C9FK1pHLnhI&amp;list=PLQOaTSbfxUtAIipl4136nwb4ISyFk8oI4&amp;index=1&amp;pp=iAQB)

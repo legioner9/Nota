@@ -1,0 +1,3 @@
+# [#SimpleCode](https://www.youtube.com/@SimpleCodeIT/playlists)
+## [Объектно-ориентированное программирование (ООП) в C++](https://www.youtube.com/playlist?list=PLQOaTSbfxUtBm7DxblJZShqBQnBAVzlXX)
+### [Массив объектов класса. Динамический. Статический. Создание Особенности. ООП C++  Для начинающих #96](https://www.youtube.com/watch?v=gNtQ69x1VTM&amp;list=PLQOaTSbfxUtBm7DxblJZShqBQnBAVzlXX&amp;index=28&amp;pp=iAQB)

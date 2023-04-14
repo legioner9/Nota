@@ -1,0 +1,3 @@
+# [#SimpleCode](https://www.youtube.com/@SimpleCodeIT/playlists)
+## [Объектно-ориентированное программирование (ООП) в C++](https://www.youtube.com/playlist?list=PLQOaTSbfxUtBm7DxblJZShqBQnBAVzlXX)
+### [Множественное наследование c++ пример.  ООП. Изучение С++ с нуля для начинающих. Урок #109](https://www.youtube.com/watch?v=QEuR9GIdrZY&amp;list=PLQOaTSbfxUtBm7DxblJZShqBQnBAVzlXX&amp;index=43&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [Start Android](https://www.youtube.com/@start_android/playlists?view=1)
+## [Инструменты Android разработчика](https://www.youtube.com/playlist?list=PLyfVjOYzujugEUT-7gYhONqB5Y1xszpCq)
+### [Инструменты Android разработчика. Genymotion как альтернатива эмулятору Eclipse](https://www.youtube.com/watch?v=BgAgNBI498Y&amp;list=PLyfVjOYzujugEUT-7gYhONqB5Y1xszpCq&amp;index=1&amp;pp=iAQB)

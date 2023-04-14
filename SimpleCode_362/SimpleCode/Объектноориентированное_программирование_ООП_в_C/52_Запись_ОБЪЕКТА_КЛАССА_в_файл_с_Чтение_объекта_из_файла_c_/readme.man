@@ -1,0 +1,3 @@
+# [#SimpleCode](https://www.youtube.com/@SimpleCodeIT/playlists)
+## [Объектно-ориентированное программирование (ООП) в C++](https://www.youtube.com/playlist?list=PLQOaTSbfxUtBm7DxblJZShqBQnBAVzlXX)
+### [Запись ОБЪЕКТА КЛАССА в файл с++. Чтение объекта из файла c++ Для начинающих. Урок #117](https://www.youtube.com/watch?v=imYmUAR4QBs&amp;list=PLQOaTSbfxUtBm7DxblJZShqBQnBAVzlXX&amp;index=52&amp;pp=iAQB)

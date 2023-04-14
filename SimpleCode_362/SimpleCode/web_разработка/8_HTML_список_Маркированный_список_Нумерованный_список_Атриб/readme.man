@@ -1,0 +1,3 @@
+# [#SimpleCode](https://www.youtube.com/@SimpleCodeIT/playlists)
+## [web разработка](https://www.youtube.com/playlist?list=PLQOaTSbfxUtB4yXAyTLvI1QQf8wEEOkl5)
+### [HTML список. Маркированный список. Нумерованный список. Атрибуты списков. HTML5. Урок#6](https://www.youtube.com/watch?v=szTSVOniLBI&amp;list=PLQOaTSbfxUtB4yXAyTLvI1QQf8wEEOkl5&amp;index=8&amp;pp=iAQB)

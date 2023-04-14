@@ -1,0 +1,3 @@
+# [letsCode](https://www.youtube.com/@letsCodeDru/playlists)
+## [IDEA, PhpStorm, PyCharm, WebStrom, RubyMine](https://www.youtube.com/playlist?list=PLU2ftbIeotGor8dJGCxquh3Se3YcHQNUA)
+### [Отладка программ в IntelliJ IDEA, PhpStorm, PyCharm, WebStrom, RubyMine](https://www.youtube.com/watch?v=9joO-89mVQk&amp;list=PLU2ftbIeotGor8dJGCxquh3Se3YcHQNUA&amp;index=1&amp;pp=iAQB)

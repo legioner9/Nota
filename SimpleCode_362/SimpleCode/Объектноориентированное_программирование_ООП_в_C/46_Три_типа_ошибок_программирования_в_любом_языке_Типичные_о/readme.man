@@ -1,0 +1,3 @@
+# [#SimpleCode](https://www.youtube.com/@SimpleCodeIT/playlists)
+## [Объектно-ориентированное программирование (ООП) в C++](https://www.youtube.com/playlist?list=PLQOaTSbfxUtBm7DxblJZShqBQnBAVzlXX)
+### [Три типа ошибок программирования в любом языке. Типичные ошибки программистов.](https://www.youtube.com/watch?v=Z2GInMb0lVw&amp;list=PLQOaTSbfxUtBm7DxblJZShqBQnBAVzlXX&amp;index=46&amp;pp=iAQB)

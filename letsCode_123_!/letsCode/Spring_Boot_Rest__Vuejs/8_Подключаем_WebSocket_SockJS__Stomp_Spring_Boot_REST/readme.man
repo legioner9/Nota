@@ -1,0 +1,3 @@
+# [letsCode](https://www.youtube.com/@letsCodeDru/playlists)
+## [Spring Boot Rest + Vue.js](https://www.youtube.com/playlist?list=PLU2ftbIeotGqSTOVNjT4L3Yfy8jatCdhm)
+### [Подключаем WebSocket (SockJS + Stomp). Spring Boot REST](https://www.youtube.com/watch?v=TtcCbDddhrI&amp;list=PLU2ftbIeotGqSTOVNjT4L3Yfy8jatCdhm&amp;index=8&amp;pp=iAQB)

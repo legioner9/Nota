@@ -1,0 +1,3 @@
+# [Start Android](https://www.youtube.com/@start_android/playlists?view=1)
+## [Уроки по основам разработки android-приложений на Java](https://www.youtube.com/playlist?list=PLyfVjOYzujugap6Rf3ETNKkx4v9ePllNK)
+### [Урок 14. Menu Android: добавляем иконки и чекбоксы, программно добавляем и скрываем пункты меню](https://www.youtube.com/watch?v=xXoZSv20D7k&amp;list=PLyfVjOYzujugap6Rf3ETNKkx4v9ePllNK&amp;index=16&amp;pp=iAQB)

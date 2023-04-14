@@ -1,0 +1,3 @@
+# [#SimpleCode](https://www.youtube.com/@SimpleCodeIT/playlists)
+## [Объектно-ориентированное программирование (ООП) в C++](https://www.youtube.com/playlist?list=PLQOaTSbfxUtBm7DxblJZShqBQnBAVzlXX)
+### [Что такое геттеры и сеттеры для класса. Методы get и set. Инкапсуляция это. Пример. C++ Урок #76](https://www.youtube.com/watch?v=1GdzmKdBf9s&amp;list=PLQOaTSbfxUtBm7DxblJZShqBQnBAVzlXX&amp;index=5&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [#SimpleCode](https://www.youtube.com/@SimpleCodeIT/playlists)
+## [Объектно-ориентированное программирование (ООП) в C++](https://www.youtube.com/playlist?list=PLQOaTSbfxUtBm7DxblJZShqBQnBAVzlXX)
+### [Union | Использование в С++ | Изучение С++ для начинающих. Урок #141](https://www.youtube.com/watch?v=6IsGVvNbyOo&amp;list=PLQOaTSbfxUtBm7DxblJZShqBQnBAVzlXX&amp;index=90&amp;pp=iAQB)

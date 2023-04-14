@@ -1,0 +1,3 @@
+# [Start Android](https://www.youtube.com/@start_android/playlists?view=1)
+## [Разработка android приложений в Eclipse (уроки startandroid.ru)](https://www.youtube.com/playlist?list=PLyfVjOYzujuhLNi-AxZsW0idLj9ZChDf0)
+### [Start Аndroid: Урок 34. Хранение данных. SQLite. (видео уроки программирования по андроид)](https://www.youtube.com/watch?v=IkiDs4iuBBU&amp;list=PLyfVjOYzujuhLNi-AxZsW0idLj9ZChDf0&amp;index=37&amp;pp=iAQB)

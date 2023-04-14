@@ -1,0 +1,3 @@
+# [#SimpleCode](https://www.youtube.com/@SimpleCodeIT/playlists)
+## [Основы C++. Программирование для начинающих.](https://www.youtube.com/playlist?list=PLQOaTSbfxUtCrKs0nicOg2npJQYSPGO9r)
+### [Перегрузка оператора равенства == и не равно !=. Перегрузка логических операторов сравнения. C++ #84](https://www.youtube.com/watch?v=UsezbK-3BL0&amp;list=PLQOaTSbfxUtCrKs0nicOg2npJQYSPGO9r&amp;index=97&amp;pp=iAQB)

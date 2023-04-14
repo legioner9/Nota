@@ -1,0 +1,3 @@
+# [letsCode](https://www.youtube.com/@letsCodeDru/playlists)
+## [java libs](https://www.youtube.com/playlist?list=PLU2ftbIeotGohfABNeyKoDakCt1gNR-t5)
+### [Java Tools: Project Lombok - пишем меньше кода](https://www.youtube.com/watch?v=QmsMWCIf3nc&amp;list=PLU2ftbIeotGohfABNeyKoDakCt1gNR-t5&amp;index=1&amp;pp=iAQB)

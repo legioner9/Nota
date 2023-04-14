@@ -1,0 +1,3 @@
+# [Simple BSD](https://www.youtube.com/@SimpleBSD/playlists)
+## [Сеть](https://www.youtube.com/playlist?list=PLzRM84AHlOOgzGR2QYe4FPNsKxuuVOtxS)
+### [Lighttpd + MariaDB + Php56](https://www.youtube.com/watch?v=T4xPBf1_hwk&amp;list=PLzRM84AHlOOgzGR2QYe4FPNsKxuuVOtxS&amp;index=35&amp;pp=iAQB)

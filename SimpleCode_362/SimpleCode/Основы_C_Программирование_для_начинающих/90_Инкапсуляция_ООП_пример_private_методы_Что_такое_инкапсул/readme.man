@@ -1,0 +1,3 @@
+# [#SimpleCode](https://www.youtube.com/@SimpleCodeIT/playlists)
+## [Основы C++. Программирование для начинающих.](https://www.youtube.com/playlist?list=PLQOaTSbfxUtCrKs0nicOg2npJQYSPGO9r)
+### [Инкапсуляция ООП пример. private методы. Что такое инкапсуляция. C++ Для начинающих. Урок#77](https://www.youtube.com/watch?v=oGIJG3Vc5OU&amp;list=PLQOaTSbfxUtCrKs0nicOg2npJQYSPGO9r&amp;index=90&amp;pp=iAQB)

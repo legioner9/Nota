@@ -1,0 +1,3 @@
+# [Self-hosted Guide [by UnixHost]](https://www.youtube.com/@selfhostedguide/playlists)
+## [Мануалы](https://www.youtube.com/playlist?list=PLYKYbjpqsWJc9NTl64XOcfGUf3Q23I6jg)
+### [I Use Arch BTW - простая и понятная установка Arch Linux | Установка XFCE | UnixHost](https://www.youtube.com/watch?v=xRzZfosoSAI&amp;list=PLYKYbjpqsWJc9NTl64XOcfGUf3Q23I6jg&amp;index=21&amp;pp=iAQB)

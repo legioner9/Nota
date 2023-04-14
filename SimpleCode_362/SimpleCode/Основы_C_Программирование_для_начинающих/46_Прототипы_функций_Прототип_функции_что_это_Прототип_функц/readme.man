@@ -1,0 +1,3 @@
+# [#SimpleCode](https://www.youtube.com/@SimpleCodeIT/playlists)
+## [Основы C++. Программирование для начинающих.](https://www.youtube.com/playlist?list=PLQOaTSbfxUtCrKs0nicOg2npJQYSPGO9r)
+### [Прототипы функций. Прототип функции что это. Прототип функции пример. C++ для начинающих. Урок #36](https://www.youtube.com/watch?v=CkHIsx5vcDA&amp;list=PLQOaTSbfxUtCrKs0nicOg2npJQYSPGO9r&amp;index=46&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [Start Android](https://www.youtube.com/@start_android/playlists?view=1)
+## [Уроки по основам разработки android-приложений на Java](https://www.youtube.com/playlist?list=PLyfVjOYzujugap6Rf3ETNKkx4v9ePllNK)
+### [Урок 12(2). Всплывающие сообщения (Toast Notification)   | Android Studio](https://www.youtube.com/watch?v=1Lp76B994ko&amp;list=PLyfVjOYzujugap6Rf3ETNKkx4v9ePllNK&amp;index=14&amp;pp=iAQB)

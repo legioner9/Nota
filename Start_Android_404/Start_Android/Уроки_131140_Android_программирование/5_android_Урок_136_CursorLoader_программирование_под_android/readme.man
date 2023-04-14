@@ -1,0 +1,3 @@
+# [Start Android](https://www.youtube.com/@start_android/playlists?view=1)
+## [Уроки 131-140. Android программирование](https://www.youtube.com/playlist?list=PLyfVjOYzujuhSPE9ApdDXR-4i4Ocigx1P)
+### [android: Урок 136. CursorLoader (программирование под android, на java, видео уроки)](https://www.youtube.com/watch?v=-_4kVCvflfs&amp;list=PLyfVjOYzujuhSPE9ApdDXR-4i4Ocigx1P&amp;index=5&amp;pp=iAQB)

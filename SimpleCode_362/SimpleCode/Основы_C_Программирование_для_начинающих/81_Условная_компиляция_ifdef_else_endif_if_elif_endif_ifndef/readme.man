@@ -1,0 +1,3 @@
+# [#SimpleCode](https://www.youtube.com/@SimpleCodeIT/playlists)
+## [Основы C++. Программирование для начинающих.](https://www.youtube.com/playlist?list=PLQOaTSbfxUtCrKs0nicOg2npJQYSPGO9r)
+### [Условная компиляция. #ifdef #else #endif #if #elif #endif #ifndef что это. C ++ Урок #68](https://www.youtube.com/watch?v=Zk1nBxHgp60&amp;list=PLQOaTSbfxUtCrKs0nicOg2npJQYSPGO9r&amp;index=81&amp;pp=iAQB)

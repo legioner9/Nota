@@ -1,0 +1,3 @@
+# [#SimpleCode](https://www.youtube.com/@SimpleCodeIT/playlists)
+## [C# ПЛЮШКИ](https://www.youtube.com/playlist?list=PLQOaTSbfxUtAMJaKWZbAUHFIUTdFHBESE)
+### [ASCII графика из любой картинки на C# пишем программу | ASCII генератор | С# практика | C# ПЛЮШКИ](https://www.youtube.com/watch?v=zC0gn8_GafI&amp;list=PLQOaTSbfxUtAMJaKWZbAUHFIUTdFHBESE&amp;index=18&amp;pp=iAQB)

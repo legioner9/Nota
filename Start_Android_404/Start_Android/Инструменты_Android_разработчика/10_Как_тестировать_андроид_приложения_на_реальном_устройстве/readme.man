@@ -1,0 +1,3 @@
+# [Start Android](https://www.youtube.com/@start_android/playlists?view=1)
+## [Инструменты Android разработчика](https://www.youtube.com/playlist?list=PLyfVjOYzujugEUT-7gYhONqB5Y1xszpCq)
+### [Как тестировать андроид приложения на реальном устройстве. Захват видео c экрана в Android Studio](https://www.youtube.com/watch?v=Cm7GeUtjKDc&amp;list=PLyfVjOYzujugEUT-7gYhONqB5Y1xszpCq&amp;index=10&amp;pp=iAQB)

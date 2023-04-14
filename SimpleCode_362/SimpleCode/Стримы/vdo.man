@@ -1,0 +1,2 @@
+### [(Стрим) Основы c++ для начинающих. Свой класс string. Стрим. #SimpleCode. Часть 1.](https://www.youtube.com/watch?v=Y3GGqqXlPQI&amp;list=PLQOaTSbfxUtCw_ms8UJk5Dibdocup2eDa&amp;index=1&amp;pp=iAQB)
+### [Основы c++ для начинающих. Свой класс string. Часть 2. Запись стрима. #SimpleCode](https://www.youtube.com/watch?v=FCOEp85Y3YU&amp;list=PLQOaTSbfxUtCw_ms8UJk5Dibdocup2eDa&amp;index=2&amp;pp=iAQB)

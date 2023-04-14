@@ -1,0 +1,3 @@
+# [#SimpleCode](https://www.youtube.com/@SimpleCodeIT/playlists)
+## [Объектно-ориентированное программирование (ООП) в C++](https://www.youtube.com/playlist?list=PLQOaTSbfxUtBm7DxblJZShqBQnBAVzlXX)
+### [Захват контекста лямбдой | Лямбда функции | Лямбда-выражения | Анонимные функции |  Урок #144](https://www.youtube.com/watch?v=m3WgGSVmNcs&amp;list=PLQOaTSbfxUtBm7DxblJZShqBQnBAVzlXX&amp;index=94&amp;pp=iAQB)

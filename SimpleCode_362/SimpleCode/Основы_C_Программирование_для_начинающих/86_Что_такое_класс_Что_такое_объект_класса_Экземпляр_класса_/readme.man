@@ -1,0 +1,3 @@
+# [#SimpleCode](https://www.youtube.com/@SimpleCodeIT/playlists)
+## [Основы C++. Программирование для начинающих.](https://www.youtube.com/playlist?list=PLQOaTSbfxUtCrKs0nicOg2npJQYSPGO9r)
+### [Что такое класс. Что такое объект класса. Экземпляр класса это. Класс ООП это. Урок #73](https://www.youtube.com/watch?v=ULpr1Z0WEtQ&amp;list=PLQOaTSbfxUtCrKs0nicOg2npJQYSPGO9r&amp;index=86&amp;pp=iAQB)

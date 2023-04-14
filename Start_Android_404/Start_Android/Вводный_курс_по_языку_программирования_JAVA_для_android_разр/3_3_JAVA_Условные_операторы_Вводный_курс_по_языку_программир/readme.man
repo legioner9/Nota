@@ -1,0 +1,3 @@
+# [Start Android](https://www.youtube.com/@start_android/playlists?view=1)
+## [Вводный курс по языку программирования JAVA для android разработчиков](https://www.youtube.com/playlist?list=PLyfVjOYzujuj1J2z2CgHw1p4PdDwHuRsd)
+### [#3 JAVA. Условные операторы. Вводный курс по языку программирования](https://www.youtube.com/watch?v=Mop9ahTA1XE&amp;list=PLyfVjOYzujuj1J2z2CgHw1p4PdDwHuRsd&amp;index=3&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [letsCode](https://www.youtube.com/@letsCodeDru/playlists)
+## [Spring Boot 2](https://www.youtube.com/playlist?list=PLU2ftbIeotGpAYRP9Iv2KLIwK36-o_qYk)
+### [Spring Boot: JPA oneToMany - сообщения пользователя, редактор сообщений](https://www.youtube.com/watch?v=-gdDklUu03k&amp;list=PLU2ftbIeotGpAYRP9Iv2KLIwK36-o_qYk&amp;index=17&amp;pp=iAQB)

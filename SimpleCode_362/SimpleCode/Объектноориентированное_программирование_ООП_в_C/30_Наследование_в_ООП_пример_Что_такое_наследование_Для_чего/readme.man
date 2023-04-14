@@ -1,0 +1,3 @@
+# [#SimpleCode](https://www.youtube.com/@SimpleCodeIT/playlists)
+## [Объектно-ориентированное программирование (ООП) в C++](https://www.youtube.com/playlist?list=PLQOaTSbfxUtBm7DxblJZShqBQnBAVzlXX)
+### [Наследование в ООП пример. Что такое наследование. Для чего нужно наследование классов. ООП. C++ #98](https://www.youtube.com/watch?v=O7ruEWCa7zc&amp;list=PLQOaTSbfxUtBm7DxblJZShqBQnBAVzlXX&amp;index=30&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [Start Android](https://www.youtube.com/@start_android/playlists?view=1)
+## [Разработка android приложений в Eclipse (уроки startandroid.ru)](https://www.youtube.com/playlist?list=PLyfVjOYzujuhLNi-AxZsW0idLj9ZChDf0)
+### [Start Аndroid: Урок 12. Логи и всплывающие сообщения](https://www.youtube.com/watch?v=Ez7w9ug_0Kk&amp;list=PLyfVjOYzujuhLNi-AxZsW0idLj9ZChDf0&amp;index=15&amp;pp=iAQB)

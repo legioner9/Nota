@@ -1,0 +1,3 @@
+# [realmanual](https://www.youtube.com/@realmanual/playlists)
+## [Виртуализация Proxmox](https://www.youtube.com/playlist?list=PLEFo-qGWcO2bIGEy7HbLX2nWfhVj3prmL)
+### [Proxmox: разворачиваем Linstor хранилище ч.1](https://www.youtube.com/watch?v=MQtHOJSHT1I&amp;list=PLEFo-qGWcO2bIGEy7HbLX2nWfhVj3prmL&amp;index=1&amp;pp=iAQB)

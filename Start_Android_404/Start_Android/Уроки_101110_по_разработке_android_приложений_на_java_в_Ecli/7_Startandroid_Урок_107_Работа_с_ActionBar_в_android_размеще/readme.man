@@ -1,0 +1,3 @@
+# [Start Android](https://www.youtube.com/@start_android/playlists?view=1)
+## [Уроки 101-110 по разработке android приложений на java в Eclipse и Android Studio (startandroid)](https://www.youtube.com/playlist?list=PLyfVjOYzujuiXQ0_8KfsGIG6zn95Jo7ZK)
+### [Startandroid: Урок 107. Работа с ActionBar в android, размещение элементов и настройка видимости](https://www.youtube.com/watch?v=NYVcfa6Bke4&amp;list=PLyfVjOYzujuiXQ0_8KfsGIG6zn95Jo7ZK&amp;index=7&amp;pp=iAQB)

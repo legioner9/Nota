@@ -1,0 +1,3 @@
+# [#SimpleCode](https://www.youtube.com/@SimpleCodeIT/playlists)
+## [Основы C++. Программирование для начинающих.](https://www.youtube.com/playlist?list=PLQOaTSbfxUtCrKs0nicOg2npJQYSPGO9r)
+### [Ключевое слово break. Оператор break. Описание. Пример. Синтаксис. Урок #18.](https://www.youtube.com/watch?v=IYQe1-QsJEs&amp;list=PLQOaTSbfxUtCrKs0nicOg2npJQYSPGO9r&amp;index=25&amp;pp=iAQB)

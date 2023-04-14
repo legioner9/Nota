@@ -1,0 +1,4 @@
+### [Node.js: NPM - пакетный менеджер (для работы с JS инфраструктурой)](https://www.youtube.com/watch?v=TsM4Mekj_54&amp;list=PLU2ftbIeotGog0MpNc0kyeWTulNpGhoAh&amp;index=1&amp;pp=iAQB)
+### [Установка node.js (и npm) в linux, macos и windows (с cygwin) [2018]](https://www.youtube.com/watch?v=ZNjnM0Fyn4E&amp;list=PLU2ftbIeotGog0MpNc0kyeWTulNpGhoAh&amp;index=2&amp;pp=iAQB)
+### [Webpack - сборщик web приложений (в простые js и css)](https://www.youtube.com/watch?v=QyfzMzo9QGs&amp;list=PLU2ftbIeotGog0MpNc0kyeWTulNpGhoAh&amp;index=3&amp;pp=iAQB)
+### [Node.js REST сервер на micro.js и sequelize](https://www.youtube.com/watch?v=PS_vWDxwATM&amp;list=PLU2ftbIeotGog0MpNc0kyeWTulNpGhoAh&amp;index=4&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [#SimpleCode](https://www.youtube.com/@SimpleCodeIT/playlists)
+## [Объектно-ориентированное программирование (ООП) в C++](https://www.youtube.com/playlist?list=PLQOaTSbfxUtBm7DxblJZShqBQnBAVzlXX)
+### [Модификаторы доступа классов. public private protected что это. Спецификаторы доступа. C++ Урок #75](https://www.youtube.com/watch?v=77H7aRy68P8&amp;list=PLQOaTSbfxUtBm7DxblJZShqBQnBAVzlXX&amp;index=4&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [realmanual](https://www.youtube.com/@realmanual/playlists)
+## [Мониторинг: Zabbix](https://www.youtube.com/playlist?list=PLEFo-qGWcO2bo_hvBBz2qpzOapYB9UZsC)
+### [Zabbix - мониторинг: установка, настройка и первое использование](https://www.youtube.com/watch?v=cq_w5aj-haY&amp;list=PLEFo-qGWcO2bo_hvBBz2qpzOapYB9UZsC&amp;index=1&amp;pp=iAQB)

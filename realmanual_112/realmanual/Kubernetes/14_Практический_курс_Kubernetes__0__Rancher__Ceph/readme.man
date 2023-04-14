@@ -1,0 +1,3 @@
+# [realmanual](https://www.youtube.com/@realmanual/playlists)
+## [Kubernetes](https://www.youtube.com/playlist?list=PLEFo-qGWcO2Yc3Tx6u0eWPak-5mU0qSYB)
+### [Практический курс: Kubernetes = 0 - Rancher + Ceph](https://www.youtube.com/watch?v=Jrer-9ScF6A&amp;list=PLEFo-qGWcO2Yc3Tx6u0eWPak-5mU0qSYB&amp;index=14&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [realmanual](https://www.youtube.com/@realmanual/playlists)
+## [Kubernetes](https://www.youtube.com/playlist?list=PLEFo-qGWcO2Yc3Tx6u0eWPak-5mU0qSYB)
+### [03. Ceph: хранение данных в кубе](https://www.youtube.com/watch?v=DNLoifmxrMg&amp;list=PLEFo-qGWcO2Yc3Tx6u0eWPak-5mU0qSYB&amp;index=9&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [letsCode](https://www.youtube.com/@letsCodeDru/playlists)
+## [react](https://www.youtube.com/playlist?list=PLU2ftbIeotGpAZFKK3TRuoQOmbneTkxE1)
+### [React intro: основы использования](https://www.youtube.com/watch?v=NxUC2q0kEsE&amp;list=PLU2ftbIeotGpAZFKK3TRuoQOmbneTkxE1&amp;index=1&amp;pp=iAQB)

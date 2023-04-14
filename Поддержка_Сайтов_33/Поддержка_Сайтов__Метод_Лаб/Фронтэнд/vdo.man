@@ -1,0 +1,1 @@
+### [Отказываемся от jQuery, переходим на чистый JS](https://www.youtube.com/watch?v=wInqCTwDl_k&amp;list=PLc7C4rck3fYtM2KPutms-TrTCuqHCkleY&amp;index=1&amp;pp=iAQB)

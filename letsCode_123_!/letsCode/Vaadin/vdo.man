@@ -1,0 +1,1 @@
+### [Vaadin: адаптивный SPA сайт без JavaScript (на оленях и Spring Boot)](https://www.youtube.com/watch?v=PriMqK-D-aw&amp;list=PLU2ftbIeotGrsTpYIx6jGi6y2uejNf2Bj&amp;index=1&amp;pp=iAQB)

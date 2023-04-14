@@ -1,0 +1,3 @@
+# [#SimpleCode](https://www.youtube.com/@SimpleCodeIT/playlists)
+## [СИМУЛЯЦИЯ ЖИЗНИ НА C#](https://www.youtube.com/playlist?list=PLQOaTSbfxUtDZAQxN3eFYVkYFMfhXZEiZ)
+### [СИМУЛЯЦИЯ ЖИЗНИ НА C# | РЕФАКТОРИНГ | Клеточный автомат игра Жизнь | Часть 2](https://www.youtube.com/watch?v=zzoxt6f5ubo&amp;list=PLQOaTSbfxUtDZAQxN3eFYVkYFMfhXZEiZ&amp;index=2&amp;pp=iAQB)

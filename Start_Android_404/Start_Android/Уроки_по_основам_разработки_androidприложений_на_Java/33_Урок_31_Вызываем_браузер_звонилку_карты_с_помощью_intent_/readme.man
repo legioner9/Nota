@@ -1,0 +1,3 @@
+# [Start Android](https://www.youtube.com/@start_android/playlists?view=1)
+## [Уроки по основам разработки android-приложений на Java](https://www.youtube.com/playlist?list=PLyfVjOYzujugap6Rf3ETNKkx4v9ePllNK)
+### [Урок 31. Вызываем браузер, звонилку, карты с помощью intent с атрибутом data - Uri](https://www.youtube.com/watch?v=32D17w-EfSc&amp;list=PLyfVjOYzujugap6Rf3ETNKkx4v9ePllNK&amp;index=33&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [#SimpleCode](https://www.youtube.com/@SimpleCodeIT/playlists)
+## [C++ | STL | Библиотека стандартных шаблонов](https://www.youtube.com/playlist?list=PLQOaTSbfxUtDWAtIYme5MLZ1l0GTyUYkB)
+### [Stack | Адаптеры контейнеров | Библиотека стандартных шаблонов (stl) | Уроки | C++ #11](https://www.youtube.com/watch?v=wFTvBHEnp1A&amp;list=PLQOaTSbfxUtDWAtIYme5MLZ1l0GTyUYkB&amp;index=11&amp;pp=iAQB)

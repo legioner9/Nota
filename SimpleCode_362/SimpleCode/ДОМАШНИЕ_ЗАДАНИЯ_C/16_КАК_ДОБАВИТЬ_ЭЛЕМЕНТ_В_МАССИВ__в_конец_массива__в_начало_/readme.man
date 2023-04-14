@@ -1,0 +1,3 @@
+# [#SimpleCode](https://www.youtube.com/@SimpleCodeIT/playlists)
+## [ДОМАШНИЕ ЗАДАНИЯ C#](https://www.youtube.com/playlist?list=PLQOaTSbfxUtCd6HvVbeZbDFSHXK4MCWAN)
+### [КАК ДОБАВИТЬ ЭЛЕМЕНТ В МАССИВ | в конец массива | в начало массива | по индексу | C# УРОКИ | ДЗ #13](https://www.youtube.com/watch?v=iO0Q-G746eU&amp;list=PLQOaTSbfxUtCd6HvVbeZbDFSHXK4MCWAN&amp;index=16&amp;pp=iAQB)

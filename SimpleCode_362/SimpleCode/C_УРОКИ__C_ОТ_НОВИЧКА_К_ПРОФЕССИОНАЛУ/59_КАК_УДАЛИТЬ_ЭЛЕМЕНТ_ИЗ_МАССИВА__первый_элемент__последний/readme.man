@@ -1,0 +1,3 @@
+# [#SimpleCode](https://www.youtube.com/@SimpleCodeIT/playlists)
+## [C# УРОКИ | C# ОТ НОВИЧКА К ПРОФЕССИОНАЛУ](https://www.youtube.com/playlist?list=PLQOaTSbfxUtD6kMmAYc8Fooqya3pjLs1N)
+### [КАК УДАЛИТЬ ЭЛЕМЕНТ ИЗ МАССИВА | первый элемент | последний элемент | по индексу | C# УРОКИ | ДЗ #14](https://www.youtube.com/watch?v=ps2VQaFF1FA&amp;list=PLQOaTSbfxUtD6kMmAYc8Fooqya3pjLs1N&amp;index=59&amp;pp=iAQB)

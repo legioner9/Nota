@@ -1,0 +1,3 @@
+# [realmanual](https://www.youtube.com/@realmanual/playlists)
+## [Docker](https://www.youtube.com/playlist?list=PLEFo-qGWcO2b7trzxSQH3GyJvOUPyurhf)
+### [7 Docker Swarm + Proxmox + Minio](https://www.youtube.com/watch?v=DA9C-DAOnbM&amp;list=PLEFo-qGWcO2b7trzxSQH3GyJvOUPyurhf&amp;index=7&amp;pp=iAQB)

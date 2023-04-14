@@ -1,0 +1,3 @@
+# [letsCode](https://www.youtube.com/@letsCodeDru/playlists)
+## [Spring Boot 2](https://www.youtube.com/playlist?list=PLU2ftbIeotGpAYRP9Iv2KLIwK36-o_qYk)
+### [Spring Boot Security: добавляем регистрацию и авторизацию пользователей в приложение (простой сайт)](https://www.youtube.com/watch?v=WDlifgLS8iQ&amp;list=PLU2ftbIeotGpAYRP9Iv2KLIwK36-o_qYk&amp;index=5&amp;pp=iAQB)

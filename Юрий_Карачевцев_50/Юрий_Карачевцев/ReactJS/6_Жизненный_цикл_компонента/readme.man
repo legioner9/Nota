@@ -1,0 +1,3 @@
+# [Юрий Карачевцев](https://www.youtube.com/@user-sd1sm8hc1c/playlists)
+## [ReactJS](https://www.youtube.com/playlist?list=PLk-Tvvy1TQxH9BIpnB0pDEwa8lSf_TLX7)
+### [Жизненный цикл компонента](https://www.youtube.com/watch?v=CNqf_3fngZQ&amp;list=PLk-Tvvy1TQxH9BIpnB0pDEwa8lSf_TLX7&amp;index=6&amp;pp=iAQB)

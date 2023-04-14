@@ -1,0 +1,3 @@
+# [realmanual](https://www.youtube.com/@realmanual/playlists)
+## [Виртуализация Proxmox](https://www.youtube.com/playlist?list=PLEFo-qGWcO2bIGEy7HbLX2nWfhVj3prmL)
+### [Сертификация на Proxmox-администратора](https://www.youtube.com/watch?v=L5tgfx-GQ9g&amp;list=PLEFo-qGWcO2bIGEy7HbLX2nWfhVj3prmL&amp;index=10&amp;pp=iAQB)

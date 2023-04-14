@@ -1,0 +1,3 @@
+# [#SimpleCode](https://www.youtube.com/@SimpleCodeIT/playlists)
+## [Основы C++. Программирование для начинающих.](https://www.youtube.com/playlist?list=PLQOaTSbfxUtCrKs0nicOg2npJQYSPGO9r)
+### [Циклы. Цикл while. Что это. Что делает. Пример. Синтаксис. Урок #14.](https://www.youtube.com/watch?v=zPi163Xo4m8&amp;list=PLQOaTSbfxUtCrKs0nicOg2npJQYSPGO9r&amp;index=19&amp;pp=iAQB)

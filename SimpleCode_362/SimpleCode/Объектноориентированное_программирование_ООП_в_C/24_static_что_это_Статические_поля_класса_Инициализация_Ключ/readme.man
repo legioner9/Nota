@@ -1,0 +1,3 @@
+# [#SimpleCode](https://www.youtube.com/@SimpleCodeIT/playlists)
+## [Объектно-ориентированное программирование (ООП) в C++](https://www.youtube.com/playlist?list=PLQOaTSbfxUtBm7DxblJZShqBQnBAVzlXX)
+### [static что это. Статические поля класса. Инициализация. Ключевое слово static. C++ #92](https://www.youtube.com/watch?v=Mlc9vyFdHE8&amp;list=PLQOaTSbfxUtBm7DxblJZShqBQnBAVzlXX&amp;index=24&amp;pp=iAQB)

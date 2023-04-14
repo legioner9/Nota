@@ -1,0 +1,3 @@
+# [Start Android](https://www.youtube.com/@start_android/playlists?view=1)
+## [Уроки по основам разработки android-приложений на Java](https://www.youtube.com/playlist?list=PLyfVjOYzujugap6Rf3ETNKkx4v9ePllNK)
+### [Урок 15. Создаем контекстное меню для экранных компонентов в андроид приложениях (Android Studio)](https://www.youtube.com/watch?v=sKu_tSxUcQ4&amp;list=PLyfVjOYzujugap6Rf3ETNKkx4v9ePllNK&amp;index=17&amp;pp=iAQB)

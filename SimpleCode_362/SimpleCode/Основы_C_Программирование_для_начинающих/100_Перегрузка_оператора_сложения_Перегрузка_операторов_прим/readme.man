@@ -1,0 +1,3 @@
+# [#SimpleCode](https://www.youtube.com/@SimpleCodeIT/playlists)
+## [Основы C++. Программирование для начинающих.](https://www.youtube.com/playlist?list=PLQOaTSbfxUtCrKs0nicOg2npJQYSPGO9r)
+### [Перегрузка оператора сложения. Перегрузка операторов пример.C++ Для начинающих. Урок#85](https://www.youtube.com/watch?v=_aCCiq1ESqc&amp;list=PLQOaTSbfxUtCrKs0nicOg2npJQYSPGO9r&amp;index=100&amp;pp=iAQB)

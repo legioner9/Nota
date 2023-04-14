@@ -1,0 +1,3 @@
+# [Start Android](https://www.youtube.com/@start_android/playlists?view=1)
+## [Kotlin. Уроки по основам разработки android-приложений](https://www.youtube.com/playlist?list=PLyfVjOYzujuj20Y-3kVhT3Zro9CrMNgNS)
+### [Урок 14. Навигация по условию в приложении. Android Conditional Navigation &amp; Firebase Authentication](https://www.youtube.com/watch?v=mN6xshXJodw&amp;list=PLyfVjOYzujuj20Y-3kVhT3Zro9CrMNgNS&amp;index=14&amp;pp=iAQB)

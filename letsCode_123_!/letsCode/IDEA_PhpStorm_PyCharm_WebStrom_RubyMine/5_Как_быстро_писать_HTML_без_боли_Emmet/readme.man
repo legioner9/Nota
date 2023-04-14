@@ -1,0 +1,3 @@
+# [letsCode](https://www.youtube.com/@letsCodeDru/playlists)
+## [IDEA, PhpStorm, PyCharm, WebStrom, RubyMine](https://www.youtube.com/playlist?list=PLU2ftbIeotGor8dJGCxquh3Se3YcHQNUA)
+### [Как быстро писать HTML без боли (Emmet)](https://www.youtube.com/watch?v=CEmjrxI9qh4&amp;list=PLU2ftbIeotGor8dJGCxquh3Se3YcHQNUA&amp;index=5&amp;pp=iAQB)

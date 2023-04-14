@@ -1,0 +1,3 @@
+### [Online-meetup «Карьера в Data Science»](https://www.youtube.com/watch?v=S3dq2atWQ8o&amp;list=PL8NGcSL3ZP-_Zmq73CyFRRqDd8hva-j7T&amp;index=1&amp;pp=iAQB)
+### [МИТАП ПО JAVASCRIPT в Санкт-Петербурге - Георгий Бабаян, Владилен Минин, Андрей Мелихов](https://www.youtube.com/watch?v=6PY4jYa5c4M&amp;list=PL8NGcSL3ZP-_Zmq73CyFRRqDd8hva-j7T&amp;index=2&amp;pp=iAQB)
+### [ODS x ELBRUS meetup | Кампус Elbrus в Москве 31 мая](https://www.youtube.com/watch?v=kzPKGtw4B_o&amp;list=PL8NGcSL3ZP-_Zmq73CyFRRqDd8hva-j7T&amp;index=3&amp;pp=iAQB)

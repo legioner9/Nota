@@ -1,0 +1,3 @@
+# [#SimpleCode](https://www.youtube.com/@SimpleCodeIT/playlists)
+## [C# УРОКИ | C# ОТ НОВИЧКА К ПРОФЕССИОНАЛУ](https://www.youtube.com/playlist?list=PLQOaTSbfxUtD6kMmAYc8Fooqya3pjLs1N)
+### [Модификаторы доступа C# | РАЗНИЦА МЕЖДУ public и private в C# | ООП C#  |  C# УРОК | # 57](https://www.youtube.com/watch?v=hGJ6aq5SGSU&amp;list=PLQOaTSbfxUtD6kMmAYc8Fooqya3pjLs1N&amp;index=76&amp;pp=iAQB)

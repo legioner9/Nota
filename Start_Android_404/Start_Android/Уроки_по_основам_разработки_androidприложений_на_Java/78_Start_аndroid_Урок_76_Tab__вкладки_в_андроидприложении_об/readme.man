@@ -1,0 +1,3 @@
+# [Start Android](https://www.youtube.com/@start_android/playlists?view=1)
+## [Уроки по основам разработки android-приложений на Java](https://www.youtube.com/playlist?list=PLyfVjOYzujugap6Rf3ETNKkx4v9ePllNK)
+### [Start аndroid: Урок 76. Tab - вкладки в андроид-приложении, общий обзор](https://www.youtube.com/watch?v=5fREGcVc-x8&amp;list=PLyfVjOYzujugap6Rf3ETNKkx4v9ePllNK&amp;index=78&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [#SimpleCode](https://www.youtube.com/@SimpleCodeIT/playlists)
+## [Объектно-ориентированное программирование (ООП) в C++](https://www.youtube.com/playlist?list=PLQOaTSbfxUtBm7DxblJZShqBQnBAVzlXX)
+### [Статические методы класса зачем нужны. Модификатор static. Как влияет. ООП. Для начинающих. Урок #94](https://www.youtube.com/watch?v=aNilqhdlDXQ&amp;list=PLQOaTSbfxUtBm7DxblJZShqBQnBAVzlXX&amp;index=26&amp;pp=iAQB)

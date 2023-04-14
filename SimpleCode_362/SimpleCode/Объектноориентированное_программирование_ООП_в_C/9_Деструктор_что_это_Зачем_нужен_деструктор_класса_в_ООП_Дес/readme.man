@@ -1,0 +1,3 @@
+# [#SimpleCode](https://www.youtube.com/@SimpleCodeIT/playlists)
+## [Объектно-ориентированное программирование (ООП) в C++](https://www.youtube.com/playlist?list=PLQOaTSbfxUtBm7DxblJZShqBQnBAVzlXX)
+### [Деструктор что это. Зачем нужен деструктор класса в ООП. Деструктор с параметрами. Перегрузка. #80](https://www.youtube.com/watch?v=kXng09pmfwM&amp;list=PLQOaTSbfxUtBm7DxblJZShqBQnBAVzlXX&amp;index=9&amp;pp=iAQB)

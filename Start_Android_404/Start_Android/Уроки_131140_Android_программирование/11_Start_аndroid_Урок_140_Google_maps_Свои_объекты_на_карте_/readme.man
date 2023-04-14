@@ -1,0 +1,3 @@
+# [Start Android](https://www.youtube.com/@start_android/playlists?view=1)
+## [Уроки 131-140. Android программирование](https://www.youtube.com/playlist?list=PLyfVjOYzujuhSPE9ApdDXR-4i4Ocigx1P)
+### [Start аndroid: Урок 140. Google maps. Свои объекты на карте (разработка под андроид)](https://www.youtube.com/watch?v=Kynfa_05RRM&amp;list=PLyfVjOYzujuhSPE9ApdDXR-4i4Ocigx1P&amp;index=11&amp;pp=iAQB)

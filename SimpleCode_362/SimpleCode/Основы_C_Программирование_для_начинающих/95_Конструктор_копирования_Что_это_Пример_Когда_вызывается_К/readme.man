@@ -1,0 +1,3 @@
+# [#SimpleCode](https://www.youtube.com/@SimpleCodeIT/playlists)
+## [Основы C++. Программирование для начинающих.](https://www.youtube.com/playlist?list=PLQOaTSbfxUtCrKs0nicOg2npJQYSPGO9r)
+### [Конструктор копирования. Что это. Пример. Когда вызывается Копирование объектов по умолчанию C++ #82](https://www.youtube.com/watch?v=3x9nd6Tm7Pc&amp;list=PLQOaTSbfxUtCrKs0nicOg2npJQYSPGO9r&amp;index=95&amp;pp=iAQB)

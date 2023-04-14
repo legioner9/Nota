@@ -1,0 +1,3 @@
+# [Simple BSD](https://www.youtube.com/@SimpleBSD/playlists)
+## [Сеть](https://www.youtube.com/playlist?list=PLzRM84AHlOOgzGR2QYe4FPNsKxuuVOtxS)
+### [FreeBSD Ansible](https://www.youtube.com/watch?v=u-_DOf9Ona0&amp;list=PLzRM84AHlOOgzGR2QYe4FPNsKxuuVOtxS&amp;index=45&amp;pp=iAQB)

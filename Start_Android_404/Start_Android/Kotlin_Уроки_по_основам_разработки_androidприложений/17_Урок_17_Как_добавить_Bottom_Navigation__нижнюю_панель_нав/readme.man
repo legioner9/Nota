@@ -1,0 +1,3 @@
+# [Start Android](https://www.youtube.com/@start_android/playlists?view=1)
+## [Kotlin. Уроки по основам разработки android-приложений](https://www.youtube.com/playlist?list=PLyfVjOYzujuj20Y-3kVhT3Zro9CrMNgNS)
+### [Урок 17. Как добавить Bottom Navigation – нижнюю панель навигации в андроид приложение](https://www.youtube.com/watch?v=wzu380RouwI&amp;list=PLyfVjOYzujuj20Y-3kVhT3Zro9CrMNgNS&amp;index=17&amp;pp=iAQB)

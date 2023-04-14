@@ -1,0 +1,3 @@
+# [Start Android](https://www.youtube.com/@start_android/playlists?view=1)
+## [Уроки 81-90 по разработке андроид-приложений на java в Eclipse и Android Studio (startandroid)](https://www.youtube.com/playlist?list=PLyfVjOYzujujcO-YwtS8xccCPz3UQzrCM)
+### [Start аndroid: Урок 85. Еще несколько способов выполнения кода в UI-потоке (Android UI thread)](https://www.youtube.com/watch?v=y2ZPNfhRdf4&amp;list=PLyfVjOYzujujcO-YwtS8xccCPz3UQzrCM&amp;index=5&amp;pp=iAQB)

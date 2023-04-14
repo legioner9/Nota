@@ -1,0 +1,3 @@
+### [Пишем приложение на Kotlin с Jetpack Compose, REST API и Clean Architecture. Часть 1. Слой Data](https://www.youtube.com/watch?v=V9KaAfywQvw&amp;list=PLyfVjOYzujuhcGDmkCqJ37xwfMgR6R6e_&amp;index=1&amp;pp=iAQB)
+### [Как создать мобильное приложение на Kotlin с Jetpack Compose и Clean Architecture. Часть 2. Слой UI](https://www.youtube.com/watch?v=CNFteeO8Znk&amp;list=PLyfVjOYzujuhcGDmkCqJ37xwfMgR6R6e_&amp;index=2&amp;pp=iAQB)
+### [Пишем мобильное приложение на Kotlin с Jetpack Compose и Clean Architecture. Часть 3. Панель поиска](https://www.youtube.com/watch?v=J5kNtwwS0uo&amp;list=PLyfVjOYzujuhcGDmkCqJ37xwfMgR6R6e_&amp;index=3&amp;pp=iAQB)

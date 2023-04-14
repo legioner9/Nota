@@ -1,0 +1,3 @@
+# [#SimpleCode](https://www.youtube.com/@SimpleCodeIT/playlists)
+## [Основы C++. Программирование для начинающих.](https://www.youtube.com/playlist?list=PLQOaTSbfxUtCrKs0nicOg2npJQYSPGO9r)
+### [sizeof что это. sizeof c++ массив. Узнать количество элементов массива. sizeof array. Урок #28.](https://www.youtube.com/watch?v=8-HR57Jfaz4&amp;list=PLQOaTSbfxUtCrKs0nicOg2npJQYSPGO9r&amp;index=36&amp;pp=iAQB)

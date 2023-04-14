@@ -1,0 +1,3 @@
+# [Self-hosted Guide [by UnixHost]](https://www.youtube.com/@selfhostedguide/playlists)
+## [Мануалы](https://www.youtube.com/playlist?list=PLYKYbjpqsWJc9NTl64XOcfGUf3Q23I6jg)
+### [Установка GNOME 40 в Ubuntu 21.04 | Gnome 40 Ubuntu | UnixHost](https://www.youtube.com/watch?v=aPmGLaI_SA8&amp;list=PLYKYbjpqsWJc9NTl64XOcfGUf3Q23I6jg&amp;index=24&amp;pp=iAQB)

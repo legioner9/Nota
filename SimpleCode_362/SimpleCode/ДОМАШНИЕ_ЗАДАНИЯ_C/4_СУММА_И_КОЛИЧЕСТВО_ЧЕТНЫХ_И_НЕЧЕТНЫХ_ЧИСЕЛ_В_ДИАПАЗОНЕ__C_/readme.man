@@ -1,0 +1,3 @@
+# [#SimpleCode](https://www.youtube.com/@SimpleCodeIT/playlists)
+## [ДОМАШНИЕ ЗАДАНИЯ C#](https://www.youtube.com/playlist?list=PLQOaTSbfxUtCd6HvVbeZbDFSHXK4MCWAN)
+### [СУММА И КОЛИЧЕСТВО ЧЕТНЫХ И НЕЧЕТНЫХ ЧИСЕЛ В ДИАПАЗОНЕ | C# ДОМАШНИЕ ЗАДАНИЯ | #4](https://www.youtube.com/watch?v=bJ4DtsojdrI&amp;list=PLQOaTSbfxUtCd6HvVbeZbDFSHXK4MCWAN&amp;index=4&amp;pp=iAQB)

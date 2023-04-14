@@ -1,0 +1,3 @@
+# [realmanual](https://www.youtube.com/@realmanual/playlists)
+## [CI-CD](https://www.youtube.com/playlist?list=PLEFo-qGWcO2ZR7a2J4bSpx3C93mjxh5bp)
+### [Gitlab - валим на свой сервер ч2.1](https://www.youtube.com/watch?v=RzFUeG_m_rA&amp;list=PLEFo-qGWcO2ZR7a2J4bSpx3C93mjxh5bp&amp;index=7&amp;pp=iAQB)

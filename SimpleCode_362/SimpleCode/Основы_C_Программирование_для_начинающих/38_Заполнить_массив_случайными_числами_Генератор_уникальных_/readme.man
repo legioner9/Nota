@@ -1,0 +1,3 @@
+# [#SimpleCode](https://www.youtube.com/@SimpleCodeIT/playlists)
+## [Основы C++. Программирование для начинающих.](https://www.youtube.com/playlist?list=PLQOaTSbfxUtCrKs0nicOg2npJQYSPGO9r)
+### [Заполнить массив случайными числами. Генератор уникальных случайных чисел. rand. srand  ДЗ #7](https://www.youtube.com/watch?v=cLzJxOwLSB0&amp;list=PLQOaTSbfxUtCrKs0nicOg2npJQYSPGO9r&amp;index=38&amp;pp=iAQB)

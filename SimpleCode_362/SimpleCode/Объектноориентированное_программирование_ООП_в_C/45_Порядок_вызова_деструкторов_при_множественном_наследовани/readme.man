@@ -1,0 +1,3 @@
+# [#SimpleCode](https://www.youtube.com/@SimpleCodeIT/playlists)
+## [Объектно-ориентированное программирование (ООП) в C++](https://www.youtube.com/playlist?list=PLQOaTSbfxUtBm7DxblJZShqBQnBAVzlXX)
+### [Порядок вызова деструкторов при множественном наследовании.  ООП.  С++ начинающих. Урок #111](https://www.youtube.com/watch?v=WBt2Gsfz6WA&amp;list=PLQOaTSbfxUtBm7DxblJZShqBQnBAVzlXX&amp;index=45&amp;pp=iAQB)

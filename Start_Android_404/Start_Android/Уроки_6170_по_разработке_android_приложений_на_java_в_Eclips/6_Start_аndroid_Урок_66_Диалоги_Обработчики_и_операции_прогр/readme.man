@@ -1,0 +1,3 @@
+# [Start Android](https://www.youtube.com/@start_android/playlists?view=1)
+## [Уроки 61-70 по разработке android приложений на java в Eclipse и Android Studio (startandroid)](https://www.youtube.com/playlist?list=PLyfVjOYzujugLTukT6WK6e0f01mAk85KZ)
+### [Start аndroid: Урок 66. Диалоги. Обработчики и операции (программирование под андроид)](https://www.youtube.com/watch?v=1_t2tY6jqyE&amp;list=PLyfVjOYzujugLTukT6WK6e0f01mAk85KZ&amp;index=6&amp;pp=iAQB)

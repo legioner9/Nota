@@ -1,0 +1,3 @@
+# [letsCode](https://www.youtube.com/@letsCodeDru/playlists)
+## [Serverless Framework](https://www.youtube.com/playlist?list=PLU2ftbIeotGq8aEdMSLh8nlhBZF5ZEyUz)
+### [Serverless Framework для Java + AWS](https://www.youtube.com/watch?v=FvVymgtXf2E&amp;list=PLU2ftbIeotGq8aEdMSLh8nlhBZF5ZEyUz&amp;index=1&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [Simple BSD](https://www.youtube.com/@SimpleBSD/playlists)
+## [Сеть](https://www.youtube.com/playlist?list=PLzRM84AHlOOgzGR2QYe4FPNsKxuuVOtxS)
+### [Natd + Bhyve](https://www.youtube.com/watch?v=0ZTisDypVDg&amp;list=PLzRM84AHlOOgzGR2QYe4FPNsKxuuVOtxS&amp;index=37&amp;pp=iAQB)

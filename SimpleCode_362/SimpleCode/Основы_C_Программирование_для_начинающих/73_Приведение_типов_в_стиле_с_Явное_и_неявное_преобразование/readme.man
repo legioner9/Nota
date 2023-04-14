@@ -1,0 +1,3 @@
+# [#SimpleCode](https://www.youtube.com/@SimpleCodeIT/playlists)
+## [Основы C++. Программирование для начинающих.](https://www.youtube.com/playlist?list=PLQOaTSbfxUtCrKs0nicOg2npJQYSPGO9r)
+### [Приведение типов в стиле с. Явное и неявное преобразование типов. Преобразование типов. С++ Урок #61](https://www.youtube.com/watch?v=iHc5AUip7hI&amp;list=PLQOaTSbfxUtCrKs0nicOg2npJQYSPGO9r&amp;index=73&amp;pp=iAQB)

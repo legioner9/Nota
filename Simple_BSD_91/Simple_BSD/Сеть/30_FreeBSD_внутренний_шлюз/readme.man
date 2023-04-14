@@ -1,0 +1,3 @@
+# [Simple BSD](https://www.youtube.com/@SimpleBSD/playlists)
+## [Сеть](https://www.youtube.com/playlist?list=PLzRM84AHlOOgzGR2QYe4FPNsKxuuVOtxS)
+### [FreeBSD внутренний шлюз](https://www.youtube.com/watch?v=AIgA8JD0stU&amp;list=PLzRM84AHlOOgzGR2QYe4FPNsKxuuVOtxS&amp;index=30&amp;pp=iAQB)

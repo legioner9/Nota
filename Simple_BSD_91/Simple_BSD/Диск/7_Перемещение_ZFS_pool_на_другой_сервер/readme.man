@@ -1,0 +1,3 @@
+# [Simple BSD](https://www.youtube.com/@SimpleBSD/playlists)
+## [Диск](https://www.youtube.com/playlist?list=PLzRM84AHlOOg3_lTVgXqb65f-6L6V2SWa)
+### [Перемещение ZFS pool на другой сервер](https://www.youtube.com/watch?v=HTwEB3DJ7bs&amp;list=PLzRM84AHlOOg3_lTVgXqb65f-6L6V2SWa&amp;index=7&amp;pp=iAQB)

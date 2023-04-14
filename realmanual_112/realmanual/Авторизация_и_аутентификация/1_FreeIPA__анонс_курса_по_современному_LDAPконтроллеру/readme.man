@@ -1,0 +1,3 @@
+# [realmanual](https://www.youtube.com/@realmanual/playlists)
+## [Авторизация и аутентификация](https://www.youtube.com/playlist?list=PLEFo-qGWcO2ZcW-bXEPGsrXODTqoXlGFe)
+### [FreeIPA - анонс курса по современному LDAP-контроллеру](https://www.youtube.com/watch?v=XMcUL5kABbI&amp;list=PLEFo-qGWcO2ZcW-bXEPGsrXODTqoXlGFe&amp;index=1&amp;pp=iAQB)

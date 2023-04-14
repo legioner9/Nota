@@ -1,0 +1,3 @@
+# [#SimpleCode](https://www.youtube.com/@SimpleCodeIT/playlists)
+## [Основы C++. Программирование для начинающих.](https://www.youtube.com/playlist?list=PLQOaTSbfxUtCrKs0nicOg2npJQYSPGO9r)
+### [Switch. Что это. Пример. Синтаксис. Оператор множественного выбора. Урок #13.](https://www.youtube.com/watch?v=Hk4yo4tr5Ts&amp;list=PLQOaTSbfxUtCrKs0nicOg2npJQYSPGO9r&amp;index=17&amp;pp=iAQB)

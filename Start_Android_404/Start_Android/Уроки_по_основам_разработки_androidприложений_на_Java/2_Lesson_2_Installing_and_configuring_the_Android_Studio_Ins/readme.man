@@ -1,0 +1,3 @@
+# [Start Android](https://www.youtube.com/@start_android/playlists?view=1)
+## [Уроки по основам разработки android-приложений на Java](https://www.youtube.com/playlist?list=PLyfVjOYzujugap6Rf3ETNKkx4v9ePllNK)
+### [Lesson 2. Installing and configuring the Android Studio. Installing the JDK. Setting up Android SDK](https://www.youtube.com/watch?v=9ucX3UlCT6E&amp;list=PLyfVjOYzujugap6Rf3ETNKkx4v9ePllNK&amp;index=2&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [Simple BSD](https://www.youtube.com/@SimpleBSD/playlists)
+## [Сеть](https://www.youtube.com/playlist?list=PLzRM84AHlOOgzGR2QYe4FPNsKxuuVOtxS)
+### [Установка Fail2ban на FreeBSD](https://www.youtube.com/watch?v=k_00rmW6plI&amp;list=PLzRM84AHlOOgzGR2QYe4FPNsKxuuVOtxS&amp;index=18&amp;pp=iAQB)

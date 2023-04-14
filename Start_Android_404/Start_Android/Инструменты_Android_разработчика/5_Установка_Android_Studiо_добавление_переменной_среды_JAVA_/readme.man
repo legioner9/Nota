@@ -1,0 +1,3 @@
+# [Start Android](https://www.youtube.com/@start_android/playlists?view=1)
+## [Инструменты Android разработчика](https://www.youtube.com/playlist?list=PLyfVjOYzujugEUT-7gYhONqB5Y1xszpCq)
+### [Установка Android Studiо: добавление переменной среды JAVA_HOME, создание проекта в Android Studiо](https://www.youtube.com/watch?v=9ROy3q6pcAw&amp;list=PLyfVjOYzujugEUT-7gYhONqB5Y1xszpCq&amp;index=5&amp;pp=iAQB)

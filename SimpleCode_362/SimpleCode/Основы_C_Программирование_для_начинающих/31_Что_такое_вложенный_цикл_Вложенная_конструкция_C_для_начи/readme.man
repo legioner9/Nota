@@ -1,0 +1,3 @@
+# [#SimpleCode](https://www.youtube.com/@SimpleCodeIT/playlists)
+## [Основы C++. Программирование для начинающих.](https://www.youtube.com/playlist?list=PLQOaTSbfxUtCrKs0nicOg2npJQYSPGO9r)
+### [Что такое вложенный цикл. Вложенная конструкция. C++ для начинающих. Урок #24.](https://www.youtube.com/watch?v=HjaCTX4WAmI&amp;list=PLQOaTSbfxUtCrKs0nicOg2npJQYSPGO9r&amp;index=31&amp;pp=iAQB)

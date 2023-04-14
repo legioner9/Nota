@@ -1,0 +1,3 @@
+# [#SimpleCode](https://www.youtube.com/@SimpleCodeIT/playlists)
+## [Домашние задания. C++](https://www.youtube.com/playlist?list=PLQOaTSbfxUtC00pId360LAcZN0f2tGLcI)
+### [Напишите функцию, меняющую местами значения переменных с помощью указателей. С++ для начинающих ДЗ#9](https://www.youtube.com/watch?v=H1G5K4gztK0&amp;list=PLQOaTSbfxUtC00pId360LAcZN0f2tGLcI&amp;index=9&amp;pp=iAQB)

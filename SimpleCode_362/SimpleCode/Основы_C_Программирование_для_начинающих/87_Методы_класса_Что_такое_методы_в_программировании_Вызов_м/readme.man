@@ -1,0 +1,3 @@
+# [#SimpleCode](https://www.youtube.com/@SimpleCodeIT/playlists)
+## [Основы C++. Программирование для начинающих.](https://www.youtube.com/playlist?list=PLQOaTSbfxUtCrKs0nicOg2npJQYSPGO9r)
+### [Методы класса. Что такое методы в программировании. Вызов метода класса. Функции. C++ Урок #74](https://www.youtube.com/watch?v=sHKo3wP_EW0&amp;list=PLQOaTSbfxUtCrKs0nicOg2npJQYSPGO9r&amp;index=87&amp;pp=iAQB)

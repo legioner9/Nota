@@ -1,0 +1,3 @@
+# [Start Android](https://www.youtube.com/@start_android/playlists?view=1)
+## [Инструменты Android разработчика](https://www.youtube.com/playlist?list=PLyfVjOYzujugEUT-7gYhONqB5Y1xszpCq)
+### [Подключение Google Play services в Eclipse. Установка Google Play apps на эмулятор Genymotion](https://www.youtube.com/watch?v=bTX8gply5d4&amp;list=PLyfVjOYzujugEUT-7gYhONqB5Y1xszpCq&amp;index=3&amp;pp=iAQB)

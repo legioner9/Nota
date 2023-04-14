@@ -1,0 +1,3 @@
+# [#SimpleCode](https://www.youtube.com/@SimpleCodeIT/playlists)
+## [C# УРОКИ | C# ОТ НОВИЧКА К ПРОФЕССИОНАЛУ](https://www.youtube.com/playlist?list=PLQOaTSbfxUtD6kMmAYc8Fooqya3pjLs1N)
+### [Синтаксис инициализации объектов класса | ООП C# | C# ОТ НОВИЧКА К ПРОФЕССИОНАЛУ | # 70](https://www.youtube.com/watch?v=UIsf7vr87Eo&amp;list=PLQOaTSbfxUtD6kMmAYc8Fooqya3pjLs1N&amp;index=89&amp;pp=iAQB)

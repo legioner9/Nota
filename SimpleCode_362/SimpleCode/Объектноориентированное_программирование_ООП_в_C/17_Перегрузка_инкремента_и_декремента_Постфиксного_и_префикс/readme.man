@@ -1,0 +1,3 @@
+# [#SimpleCode](https://www.youtube.com/@SimpleCodeIT/playlists)
+## [Объектно-ориентированное программирование (ООП) в C++](https://www.youtube.com/playlist?list=PLQOaTSbfxUtBm7DxblJZShqBQnBAVzlXX)
+### [Перегрузка инкремента и декремента. Постфиксного и префиксного. ООП перегрузка операторов. C++ #86](https://www.youtube.com/watch?v=9WS4_ix4E7Y&amp;list=PLQOaTSbfxUtBm7DxblJZShqBQnBAVzlXX&amp;index=17&amp;pp=iAQB)

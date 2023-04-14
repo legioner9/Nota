@@ -1,0 +1,3 @@
+# [Start Android](https://www.youtube.com/@start_android/playlists?view=1)
+## [Делаем android игры](https://www.youtube.com/playlist?list=PLyfVjOYzujuisikez6McGsBtKviTa_lty)
+### [Lesson 12. Flappy Bird: add to the game sounds and screen Game Over | Making android games to LibGDX](https://www.youtube.com/watch?v=LEj28chiJvo&amp;list=PLyfVjOYzujuisikez6McGsBtKviTa_lty&amp;index=12&amp;pp=iAQB)

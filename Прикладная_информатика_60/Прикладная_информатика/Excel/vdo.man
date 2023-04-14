@@ -1,0 +1,3 @@
+### [20 приемов и трюков MS Excel для начинающих](https://www.youtube.com/watch?v=PcjezxSZVOo&amp;list=PLPniQm_0TXzuiqXljtegmJ29Azm7aADLo&amp;index=1&amp;pp=iAQB)
+### [Импорт (парсинг) нетабличных данных с сайтов в Excel с помощью Power Query](https://www.youtube.com/watch?v=5F9R5OsBxGE&amp;list=PLPniQm_0TXzuiqXljtegmJ29Azm7aADLo&amp;index=2&amp;pp=iAQB)
+### [Визуализация в Superset: плюсы и минусы | karpov.courses](https://www.youtube.com/watch?v=EW1dr9sdsyQ&amp;list=PLPniQm_0TXzuiqXljtegmJ29Azm7aADLo&amp;index=3&amp;pp=iAQB)

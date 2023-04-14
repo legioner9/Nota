@@ -1,0 +1,3 @@
+# [realmanual](https://www.youtube.com/@realmanual/playlists)
+## [Отдельное и интересное](https://www.youtube.com/playlist?list=PLEFo-qGWcO2YxDAuPvVGBrabox3lhrCme)
+### [Переезжаем с докера в кубернетес одной командой - move2kube](https://www.youtube.com/watch?v=KjajtiQyMWk&amp;list=PLEFo-qGWcO2YxDAuPvVGBrabox3lhrCme&amp;index=1&amp;pp=iAQB)

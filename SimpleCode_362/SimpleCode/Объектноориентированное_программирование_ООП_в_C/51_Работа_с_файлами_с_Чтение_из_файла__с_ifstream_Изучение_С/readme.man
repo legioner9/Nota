@@ -1,0 +1,3 @@
+# [#SimpleCode](https://www.youtube.com/@SimpleCodeIT/playlists)
+## [Объектно-ориентированное программирование (ООП) в C++](https://www.youtube.com/playlist?list=PLQOaTSbfxUtBm7DxblJZShqBQnBAVzlXX)
+### [Работа с файлами с++. Чтение из файла  с++ ifstream. Изучение С++ для начинающих. Урок #116](https://www.youtube.com/watch?v=aUP0eAEIxog&amp;list=PLQOaTSbfxUtBm7DxblJZShqBQnBAVzlXX&amp;index=51&amp;pp=iAQB)

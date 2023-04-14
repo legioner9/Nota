@@ -1,0 +1,3 @@
+# [Start Android](https://www.youtube.com/@start_android/playlists?view=1)
+## [Уроки по основам разработки android-приложений на Java](https://www.youtube.com/playlist?list=PLyfVjOYzujugap6Rf3ETNKkx4v9ePllNK)
+### [Start аndroid: Урок 83. Handler. Отложенные сообщения, удаление из очереди, Handler.Callback](https://www.youtube.com/watch?v=PN6krQxKIWw&amp;list=PLyfVjOYzujugap6Rf3ETNKkx4v9ePllNK&amp;index=85&amp;pp=iAQB)

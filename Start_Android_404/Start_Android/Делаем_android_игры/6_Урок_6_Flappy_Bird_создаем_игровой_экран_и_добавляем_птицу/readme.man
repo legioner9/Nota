@@ -1,0 +1,3 @@
+# [Start Android](https://www.youtube.com/@start_android/playlists?view=1)
+## [Делаем android игры](https://www.youtube.com/playlist?list=PLyfVjOYzujuisikez6McGsBtKviTa_lty)
+### [Урок 6. Flappy Bird: создаем игровой экран и добавляем птицу | Делаем android игры на LibGDX](https://www.youtube.com/watch?v=24ARxvd4P8I&amp;list=PLyfVjOYzujuisikez6McGsBtKviTa_lty&amp;index=6&amp;pp=iAQB)

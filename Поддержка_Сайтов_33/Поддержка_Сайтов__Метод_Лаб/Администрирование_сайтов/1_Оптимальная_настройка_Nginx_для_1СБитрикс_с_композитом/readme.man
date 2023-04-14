@@ -1,0 +1,3 @@
+# [Поддержка Сайтов :: Метод Лаб](https://www.youtube.com/@site_support/playlists)
+## [Администрирование сайтов](https://www.youtube.com/playlist?list=PLc7C4rck3fYtULmVG1m_vCQIpZuotHhwr)
+### [Оптимальная настройка Nginx для 1С-Битрикс с композитом](https://www.youtube.com/watch?v=utE4VQhMttU&amp;list=PLc7C4rck3fYtULmVG1m_vCQIpZuotHhwr&amp;index=1&amp;pp=iAQB)

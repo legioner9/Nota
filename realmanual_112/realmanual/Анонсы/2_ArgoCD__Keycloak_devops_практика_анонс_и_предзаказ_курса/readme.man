@@ -1,0 +1,3 @@
+# [realmanual](https://www.youtube.com/@realmanual/playlists)
+## [Анонсы](https://www.youtube.com/playlist?list=PLEFo-qGWcO2bz7RnqhDGQ6T8dzWyaCIQC)
+### [ArgoCD + Keycloak: devops практика (анонс и предзаказ курса)](https://www.youtube.com/watch?v=NP422Tfs1QY&amp;list=PLEFo-qGWcO2bz7RnqhDGQ6T8dzWyaCIQC&amp;index=2&amp;pp=iAQB)

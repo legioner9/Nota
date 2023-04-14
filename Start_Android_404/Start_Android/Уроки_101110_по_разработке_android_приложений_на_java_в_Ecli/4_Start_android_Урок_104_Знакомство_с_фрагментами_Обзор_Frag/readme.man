@@ -1,0 +1,3 @@
+# [Start Android](https://www.youtube.com/@start_android/playlists?view=1)
+## [Уроки 101-110 по разработке android приложений на java в Eclipse и Android Studio (startandroid)](https://www.youtube.com/playlist?list=PLyfVjOYzujuiXQ0_8KfsGIG6zn95Jo7ZK)
+### [Start android: Урок 104. Знакомство с фрагментами. Обзор Fragments Lifecycle (Android Studio)](https://www.youtube.com/watch?v=YbLw5mGqXmk&amp;list=PLyfVjOYzujuiXQ0_8KfsGIG6zn95Jo7ZK&amp;index=4&amp;pp=iAQB)

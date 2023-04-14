@@ -1,0 +1,3 @@
+# [letsCode](https://www.youtube.com/@letsCodeDru/playlists)
+## [devops](https://www.youtube.com/playlist?list=PLU2ftbIeotGoheVSAKOYuKmOBiWAMFv5v)
+### [Просто о контенеризации. Docker](https://www.youtube.com/watch?v=Sa7uOGczoHc&amp;list=PLU2ftbIeotGoheVSAKOYuKmOBiWAMFv5v&amp;index=3&amp;pp=iAQB)

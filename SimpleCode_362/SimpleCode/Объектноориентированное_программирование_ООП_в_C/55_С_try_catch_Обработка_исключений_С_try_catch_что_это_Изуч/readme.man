@@ -1,0 +1,3 @@
+# [#SimpleCode](https://www.youtube.com/@SimpleCodeIT/playlists)
+## [Объектно-ориентированное программирование (ООП) в C++](https://www.youtube.com/playlist?list=PLQOaTSbfxUtBm7DxblJZShqBQnBAVzlXX)
+### [С++ try catch. Обработка исключений С++. try catch что это. Изучение С++ для начинающих. Урок #120](https://www.youtube.com/watch?v=jCW2wRoRi0U&amp;list=PLQOaTSbfxUtBm7DxblJZShqBQnBAVzlXX&amp;index=55&amp;pp=iAQB)

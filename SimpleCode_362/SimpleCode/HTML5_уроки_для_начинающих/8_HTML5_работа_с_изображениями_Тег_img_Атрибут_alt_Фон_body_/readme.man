@@ -1,0 +1,3 @@
+# [#SimpleCode](https://www.youtube.com/@SimpleCodeIT/playlists)
+## [HTML5 уроки для начинающих](https://www.youtube.com/playlist?list=PLQOaTSbfxUtDSLxoc9vpOHNu8BrijOcmk)
+### [HTML5 работа с изображениями. Тег img. Атрибут alt. Фон body картинка. HTML5 для начинающих. Урок#8](https://www.youtube.com/watch?v=UbfGKoPlO6E&amp;list=PLQOaTSbfxUtDSLxoc9vpOHNu8BrijOcmk&amp;index=8&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [letsCode](https://www.youtube.com/@letsCodeDru/playlists)
+## [java se](https://www.youtube.com/playlist?list=PLU2ftbIeotGqfO1aSAD10J91razb6AS2-)
+### [Простой анализатор диска на JavaFX](https://www.youtube.com/watch?v=nXBwOwsn1-A&amp;list=PLU2ftbIeotGqfO1aSAD10J91razb6AS2-&amp;index=12&amp;pp=iAQB)

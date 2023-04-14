@@ -1,0 +1,3 @@
+# [realmanual](https://www.youtube.com/@realmanual/playlists)
+## [Виртуализация Proxmox](https://www.youtube.com/playlist?list=PLEFo-qGWcO2bIGEy7HbLX2nWfhVj3prmL)
+### [Proxmox + NFS сервер - внешнее хранилище для iso и дисков](https://www.youtube.com/watch?v=f1g_Vll8GAk&amp;list=PLEFo-qGWcO2bIGEy7HbLX2nWfhVj3prmL&amp;index=6&amp;pp=iAQB)

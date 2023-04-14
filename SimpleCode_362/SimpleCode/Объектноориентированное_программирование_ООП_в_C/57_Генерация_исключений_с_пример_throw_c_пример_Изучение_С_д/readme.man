@@ -1,0 +1,3 @@
+# [#SimpleCode](https://www.youtube.com/@SimpleCodeIT/playlists)
+## [Объектно-ориентированное программирование (ООП) в C++](https://www.youtube.com/playlist?list=PLQOaTSbfxUtBm7DxblJZShqBQnBAVzlXX)
+### [Генерация исключений с++ пример. throw c++ пример. Изучение С++ для начинающих. Урок #121](https://www.youtube.com/watch?v=FhlGFJ_zdKM&amp;list=PLQOaTSbfxUtBm7DxblJZShqBQnBAVzlXX&amp;index=57&amp;pp=iAQB)

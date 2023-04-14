@@ -1,0 +1,3 @@
+# [#SimpleCode](https://www.youtube.com/@SimpleCodeIT/playlists)
+## [Основы C++. Программирование для начинающих.](https://www.youtube.com/playlist?list=PLQOaTSbfxUtCrKs0nicOg2npJQYSPGO9r)
+### [Ключевое слово this в ООП. Что означает. Что это такое. Для чего нужен this указатель C++ #81](https://www.youtube.com/watch?v=2rv_s1j5pHE&amp;list=PLQOaTSbfxUtCrKs0nicOg2npJQYSPGO9r&amp;index=94&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [#SimpleCode](https://www.youtube.com/@SimpleCodeIT/playlists)
+## [web разработка](https://www.youtube.com/playlist?list=PLQOaTSbfxUtB4yXAyTLvI1QQf8wEEOkl5)
+### [Как сделать собственный видеоплеер на html5. html5 тег video. HTML5 Для начинающих. Урок #12](https://www.youtube.com/watch?v=AC5K-_LURvI&amp;list=PLQOaTSbfxUtB4yXAyTLvI1QQf8wEEOkl5&amp;index=15&amp;pp=iAQB)

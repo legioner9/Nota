@@ -1,0 +1,3 @@
+# [#SimpleCode](https://www.youtube.com/@SimpleCodeIT/playlists)
+## [Объектно-ориентированное программирование (ООП) в C++](https://www.youtube.com/playlist?list=PLQOaTSbfxUtBm7DxblJZShqBQnBAVzlXX)
+### [Что такое агрегация и композиция. Отношения между классами и объектами. ООП. C++ Для начинающих #97](https://www.youtube.com/watch?v=N7DzmfLBolM&amp;list=PLQOaTSbfxUtBm7DxblJZShqBQnBAVzlXX&amp;index=29&amp;pp=iAQB)

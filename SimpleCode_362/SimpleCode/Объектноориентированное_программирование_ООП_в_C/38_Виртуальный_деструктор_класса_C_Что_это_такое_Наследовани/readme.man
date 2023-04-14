@@ -1,0 +1,3 @@
+# [#SimpleCode](https://www.youtube.com/@SimpleCodeIT/playlists)
+## [Объектно-ориентированное программирование (ООП) в C++](https://www.youtube.com/playlist?list=PLQOaTSbfxUtBm7DxblJZShqBQnBAVzlXX)
+### [Виртуальный деструктор класса C++. Что это такое. Наследование. Полиморфизм. Для начинающих #105](https://www.youtube.com/watch?v=JypBB4J0XrY&amp;list=PLQOaTSbfxUtBm7DxblJZShqBQnBAVzlXX&amp;index=38&amp;pp=iAQB)

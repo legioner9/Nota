@@ -1,0 +1,3 @@
+# [#SimpleCode](https://www.youtube.com/@SimpleCodeIT/playlists)
+## [Основы C++. Программирование для начинающих.](https://www.youtube.com/playlist?list=PLQOaTSbfxUtCrKs0nicOg2npJQYSPGO9r)
+### [Функции и стек. Стек алгоритм. Стек что это. Стек рекурсии. Стек c++.  Стек рекурсивных вызовов #42](https://www.youtube.com/watch?v=jUJngLO_c_0&amp;list=PLQOaTSbfxUtCrKs0nicOg2npJQYSPGO9r&amp;index=52&amp;pp=iAQB)

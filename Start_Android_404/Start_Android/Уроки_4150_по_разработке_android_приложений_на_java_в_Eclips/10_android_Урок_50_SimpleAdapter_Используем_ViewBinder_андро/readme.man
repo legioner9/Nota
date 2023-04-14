@@ -1,0 +1,3 @@
+# [Start Android](https://www.youtube.com/@start_android/playlists?view=1)
+## [Уроки 41-50 по разработке android приложений на java в Eclipse и Android Studio (startandroid)](https://www.youtube.com/playlist?list=PLyfVjOYzujui6RO_y_xqa3dXxv0ouxr6Z)
+### [android: Урок 50. SimpleAdapter. Используем ViewBinder (андроид, основы программирования)](https://www.youtube.com/watch?v=hJ7y0lmqawQ&amp;list=PLyfVjOYzujui6RO_y_xqa3dXxv0ouxr6Z&amp;index=10&amp;pp=iAQB)

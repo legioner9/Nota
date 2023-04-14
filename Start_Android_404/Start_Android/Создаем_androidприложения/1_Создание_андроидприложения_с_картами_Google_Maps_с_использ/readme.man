@@ -1,0 +1,3 @@
+# [Start Android](https://www.youtube.com/@start_android/playlists?view=1)
+## [Создаем android-приложения](https://www.youtube.com/playlist?list=PLyfVjOYzujuhPJxUADhZd3BkvKGCPLMMD)
+### [Создание андроид-приложения с картами Google Maps с использованием Google Services в Android Studio](https://www.youtube.com/watch?v=aRi_5uTEToU&amp;list=PLyfVjOYzujuhPJxUADhZd3BkvKGCPLMMD&amp;index=1&amp;pp=iAQB)

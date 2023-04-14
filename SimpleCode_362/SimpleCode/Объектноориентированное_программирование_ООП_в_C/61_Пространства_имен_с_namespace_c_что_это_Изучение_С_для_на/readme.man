@@ -1,0 +1,3 @@
+# [#SimpleCode](https://www.youtube.com/@SimpleCodeIT/playlists)
+## [Объектно-ориентированное программирование (ООП) в C++](https://www.youtube.com/playlist?list=PLQOaTSbfxUtBm7DxblJZShqBQnBAVzlXX)
+### [Пространства имен с++. namespace c++ что это. Изучение С++ для начинающих. Урок #125](https://www.youtube.com/watch?v=Ec4RBF11S3I&amp;list=PLQOaTSbfxUtBm7DxblJZShqBQnBAVzlXX&amp;index=61&amp;pp=iAQB)

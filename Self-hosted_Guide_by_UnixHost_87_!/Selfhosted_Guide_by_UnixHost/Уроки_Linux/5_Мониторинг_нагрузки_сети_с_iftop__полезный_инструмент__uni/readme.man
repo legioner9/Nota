@@ -1,0 +1,3 @@
+# [Self-hosted Guide [by UnixHost]](https://www.youtube.com/@selfhostedguide/playlists)
+## [Уроки Linux](https://www.youtube.com/playlist?list=PLYKYbjpqsWJcnIHmFs77Mfm0Sglu0QJcU)
+### [Мониторинг нагрузки сети с iftop | полезный инструмент | unixhost](https://www.youtube.com/watch?v=23PZG5UeZwY&amp;list=PLYKYbjpqsWJcnIHmFs77Mfm0Sglu0QJcU&amp;index=5&amp;pp=iAQB)

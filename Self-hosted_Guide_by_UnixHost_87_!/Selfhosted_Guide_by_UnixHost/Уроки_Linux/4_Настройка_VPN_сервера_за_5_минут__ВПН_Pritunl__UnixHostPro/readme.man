@@ -1,0 +1,3 @@
+# [Self-hosted Guide [by UnixHost]](https://www.youtube.com/@selfhostedguide/playlists)
+## [Уроки Linux](https://www.youtube.com/playlist?list=PLYKYbjpqsWJcnIHmFs77Mfm0Sglu0QJcU)
+### [Настройка VPN сервера за 5 минут | ВПН Pritunl | UnixHost.Pro | VPN на VPS VSD](https://www.youtube.com/watch?v=syn1_R4vTdc&amp;list=PLYKYbjpqsWJcnIHmFs77Mfm0Sglu0QJcU&amp;index=4&amp;pp=iAQB)

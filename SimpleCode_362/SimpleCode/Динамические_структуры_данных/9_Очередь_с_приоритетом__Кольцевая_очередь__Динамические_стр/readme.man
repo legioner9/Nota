@@ -1,0 +1,3 @@
+# [#SimpleCode](https://www.youtube.com/@SimpleCodeIT/playlists)
+## [Динамические структуры данных](https://www.youtube.com/playlist?list=PLQOaTSbfxUtAIipl4136nwb4ISyFk8oI4)
+### [Очередь с приоритетом | Кольцевая очередь | Динамические структуры данных #6](https://www.youtube.com/watch?v=y_2toG5-j_M&amp;list=PLQOaTSbfxUtAIipl4136nwb4ISyFk8oI4&amp;index=9&amp;pp=iAQB)

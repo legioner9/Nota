@@ -1,0 +1,3 @@
+# [#SimpleCode](https://www.youtube.com/@SimpleCodeIT/playlists)
+## [C# УРОКИ | C# ОТ НОВИЧКА К ПРОФЕССИОНАЛУ](https://www.youtube.com/playlist?list=PLQOaTSbfxUtD6kMmAYc8Fooqya3pjLs1N)
+### [ЧТО ТАКОЕ ПЕРЕМЕННАЯ В C# | ОБЪЯВЛЕНИЕ И ИНИЦИАЛИЗАЦИЯ ПЕРЕМЕННЫХ | ПРИСВОЕНИЕ ЗНАЧЕНИЙ | C# Урок #4](https://www.youtube.com/watch?v=JD3Ois6i298&amp;list=PLQOaTSbfxUtD6kMmAYc8Fooqya3pjLs1N&amp;index=5&amp;pp=iAQB)

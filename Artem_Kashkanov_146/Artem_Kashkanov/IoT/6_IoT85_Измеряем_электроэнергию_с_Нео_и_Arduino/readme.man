@@ -1,0 +1,3 @@
+# [Artem Kashkanov](https://www.youtube.com/@ArtemKashkanov/playlists)
+## [IoT](https://www.youtube.com/playlist?list=PLHI3L7Als_GOUMEKkXKxKlg-HnGffHc2H)
+### [IoT#8.5 Измеряем электроэнергию с Нео и Arduino](https://www.youtube.com/watch?v=Xz747B5MwN4&amp;list=PLHI3L7Als_GOUMEKkXKxKlg-HnGffHc2H&amp;index=6&amp;pp=iAQB)

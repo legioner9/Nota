@@ -1,0 +1,3 @@
+# [#SimpleCode](https://www.youtube.com/@SimpleCodeIT/playlists)
+## [Многопоточное программирование с++](https://www.youtube.com/playlist?list=PLQOaTSbfxUtAc_RpyDiWCHq0YTzLtVSD0)
+### [С++ потоки и методы класса | С++ метод класса в потоке | Многопоточное программирование | C++ #5](https://www.youtube.com/watch?v=J32wrE_lMS4&amp;list=PLQOaTSbfxUtAc_RpyDiWCHq0YTzLtVSD0&amp;index=5&amp;pp=iAQB)

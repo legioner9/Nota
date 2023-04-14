@@ -1,0 +1,3 @@
+# [#SimpleCode](https://www.youtube.com/@SimpleCodeIT/playlists)
+## [Объектно-ориентированное программирование (ООП) в C++](https://www.youtube.com/playlist?list=PLQOaTSbfxUtBm7DxblJZShqBQnBAVzlXX)
+### [Что такое класс. Что такое объект класса. Экземпляр класса это. Класс ООП это. Урок #73](https://www.youtube.com/watch?v=ULpr1Z0WEtQ&amp;list=PLQOaTSbfxUtBm7DxblJZShqBQnBAVzlXX&amp;index=2&amp;pp=iAQB)

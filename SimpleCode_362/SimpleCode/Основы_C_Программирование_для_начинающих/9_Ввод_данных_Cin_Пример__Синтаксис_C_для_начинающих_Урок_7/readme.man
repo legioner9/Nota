@@ -1,0 +1,3 @@
+# [#SimpleCode](https://www.youtube.com/@SimpleCodeIT/playlists)
+## [Основы C++. Программирование для начинающих.](https://www.youtube.com/playlist?list=PLQOaTSbfxUtCrKs0nicOg2npJQYSPGO9r)
+### [Ввод данных. Cin. Пример.  Синтаксис. C++ для начинающих. Урок #7.](https://www.youtube.com/watch?v=Hkd2r5yEMvc&amp;list=PLQOaTSbfxUtCrKs0nicOg2npJQYSPGO9r&amp;index=9&amp;pp=iAQB)

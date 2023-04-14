@@ -1,0 +1,3 @@
+# [#SimpleCode](https://www.youtube.com/@SimpleCodeIT/playlists)
+## [Объектно-ориентированное программирование (ООП) в C++](https://www.youtube.com/playlist?list=PLQOaTSbfxUtBm7DxblJZShqBQnBAVzlXX)
+### [Можно ли изучать несколько языков программирования одновременно. Ответ программиста!](https://www.youtube.com/watch?v=SGsDXiYpBc8&amp;list=PLQOaTSbfxUtBm7DxblJZShqBQnBAVzlXX&amp;index=42&amp;pp=iAQB)

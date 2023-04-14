@@ -1,0 +1,3 @@
+# [#SimpleCode](https://www.youtube.com/@SimpleCodeIT/playlists)
+## [Объектно-ориентированное программирование (ООП) в C++](https://www.youtube.com/playlist?list=PLQOaTSbfxUtBm7DxblJZShqBQnBAVzlXX)
+### [Дружественные функции и классы пример. Для чего используются. Как определяются. Для двух классов #88](https://www.youtube.com/watch?v=Ic19I0kcBnU&amp;list=PLQOaTSbfxUtBm7DxblJZShqBQnBAVzlXX&amp;index=19&amp;pp=iAQB)

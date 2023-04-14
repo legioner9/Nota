@@ -1,0 +1,3 @@
+# [realmanual](https://www.youtube.com/@realmanual/playlists)
+## [Отдельное и интересное](https://www.youtube.com/playlist?list=PLEFo-qGWcO2YxDAuPvVGBrabox3lhrCme)
+### [PHP-окружение на Docker (MacOS)](https://www.youtube.com/watch?v=QHXiQI7APcE&amp;list=PLEFo-qGWcO2YxDAuPvVGBrabox3lhrCme&amp;index=32&amp;pp=iAQB)

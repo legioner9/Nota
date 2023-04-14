@@ -1,0 +1,3 @@
+# [#SimpleCode](https://www.youtube.com/@SimpleCodeIT/playlists)
+## [Основы C++. Программирование для начинающих.](https://www.youtube.com/playlist?list=PLQOaTSbfxUtCrKs0nicOg2npJQYSPGO9r)
+### [int main или void main. int main vs void main c++. C ++ Для начинающих. Урок #71](https://www.youtube.com/watch?v=4cr5KNyPgkU&amp;list=PLQOaTSbfxUtCrKs0nicOg2npJQYSPGO9r&amp;index=84&amp;pp=iAQB)

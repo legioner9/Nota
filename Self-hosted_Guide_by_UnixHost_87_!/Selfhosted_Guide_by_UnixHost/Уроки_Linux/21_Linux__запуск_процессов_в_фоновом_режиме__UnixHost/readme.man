@@ -1,0 +1,3 @@
+# [Self-hosted Guide [by UnixHost]](https://www.youtube.com/@selfhostedguide/playlists)
+## [Уроки Linux](https://www.youtube.com/playlist?list=PLYKYbjpqsWJcnIHmFs77Mfm0Sglu0QJcU)
+### [Linux - запуск процессов в фоновом режиме | UnixHost](https://www.youtube.com/watch?v=q6ZnAVdOVto&amp;list=PLYKYbjpqsWJcnIHmFs77Mfm0Sglu0QJcU&amp;index=21&amp;pp=iAQB)

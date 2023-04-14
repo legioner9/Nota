@@ -1,0 +1,3 @@
+# [#SimpleCode](https://www.youtube.com/@SimpleCodeIT/playlists)
+## [Основы C++. Программирование для начинающих.](https://www.youtube.com/playlist?list=PLQOaTSbfxUtCrKs0nicOg2npJQYSPGO9r)
+### [Препроцессор что это. Директива #define. Макросы. Директивы препроцессора что это. C ++ Урок #66](https://www.youtube.com/watch?v=gIcSlxBjbsY&amp;list=PLQOaTSbfxUtCrKs0nicOg2npJQYSPGO9r&amp;index=79&amp;pp=iAQB)

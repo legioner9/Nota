@@ -1,0 +1,3 @@
+# [#SimpleCode](https://www.youtube.com/@SimpleCodeIT/playlists)
+## [Объектно-ориентированное программирование (ООП) в C++](https://www.youtube.com/playlist?list=PLQOaTSbfxUtBm7DxblJZShqBQnBAVzlXX)
+### [stl copy | stl copy_if | Выборка данных по условию | Библиотека стандартных шаблонов (stl) C++ #15](https://www.youtube.com/watch?v=s7C8fPpi0BE&amp;list=PLQOaTSbfxUtBm7DxblJZShqBQnBAVzlXX&amp;index=100&amp;pp=iAQB)

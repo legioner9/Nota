@@ -1,0 +1,3 @@
+# [letsCode](https://www.youtube.com/@letsCodeDru/playlists)
+## [Springless Java](https://www.youtube.com/playlist?list=PLU2ftbIeotGps5EkYA4krU5clrWSZZvIo)
+### [Телеграм бот-игра на JAVA в 100 строк](https://www.youtube.com/watch?v=GVCb8Z94A6s&amp;list=PLU2ftbIeotGps5EkYA4krU5clrWSZZvIo&amp;index=8&amp;pp=iAQB)

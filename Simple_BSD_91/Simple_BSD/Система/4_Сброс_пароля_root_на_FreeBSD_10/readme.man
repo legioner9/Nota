@@ -1,0 +1,3 @@
+# [Simple BSD](https://www.youtube.com/@SimpleBSD/playlists)
+## [Система](https://www.youtube.com/playlist?list=PLzRM84AHlOOjx7RbWiyYNnjJ2RzZjkTrd)
+### [Сброс пароля root на FreeBSD 10](https://www.youtube.com/watch?v=AUPtDjJyil4&amp;list=PLzRM84AHlOOjx7RbWiyYNnjJ2RzZjkTrd&amp;index=4&amp;pp=iAQB)

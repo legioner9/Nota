@@ -1,0 +1,3 @@
+# [Start Android](https://www.youtube.com/@start_android/playlists?view=1)
+## [Архитектура андроид-приложений](https://www.youtube.com/playlist?list=PLyfVjOYzujuimhohH06QBmiBVhAuTiDYA)
+### [Практика по лекции 1 курса по архитектуре андроид приложений](https://www.youtube.com/watch?v=CI6K8eJRuto&amp;list=PLyfVjOYzujuimhohH06QBmiBVhAuTiDYA&amp;index=2&amp;pp=iAQB)

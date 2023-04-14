@@ -1,0 +1,3 @@
+# [Self-hosted Guide [by UnixHost]](https://www.youtube.com/@selfhostedguide/playlists)
+## [Mikrotik](https://www.youtube.com/playlist?list=PLYKYbjpqsWJczP2hBJG5AGyj9icixGdGb)
+### [Установка Mikrotik RouterOS на VDS VPS | Cloud Hosted Router | UnixHost](https://www.youtube.com/watch?v=wdje9Mybnic&amp;list=PLYKYbjpqsWJczP2hBJG5AGyj9icixGdGb&amp;index=4&amp;pp=iAQB)

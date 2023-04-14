@@ -1,0 +1,3 @@
+### [Установка Proxmox VE | Настройка Bridge в Proxmox | UnixHost](https://www.youtube.com/watch?v=uurPsh7ov4k&amp;list=PLYKYbjpqsWJcoyyk_f2DhenyVF065FjzP&amp;index=1&amp;pp=iAQB)
+### [Создание виртуальной машины в Proxmox | UnixHost](https://www.youtube.com/watch?v=iEyMPwP5o9U&amp;list=PLYKYbjpqsWJcoyyk_f2DhenyVF065FjzP&amp;index=2&amp;pp=iAQB)
+### [Создание и восстановление резервной копии в Proxmox | UnixHost](https://www.youtube.com/watch?v=mF8EqjpDlvI&amp;list=PLYKYbjpqsWJcoyyk_f2DhenyVF065FjzP&amp;index=3&amp;pp=iAQB)

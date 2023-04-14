@@ -1,0 +1,3 @@
+# [#SimpleCode](https://www.youtube.com/@SimpleCodeIT/playlists)
+## [ДОМАШНИЕ ЗАДАНИЯ C#](https://www.youtube.com/playlist?list=PLQOaTSbfxUtCd6HvVbeZbDFSHXK4MCWAN)
+### [ПРОВЕРКА ЧИСЛА НА ЧЁТНОСТЬ В C#| C# ДОМАШНИЕ ЗАДАНИЯ | #2](https://www.youtube.com/watch?v=bTSpiLPTVvQ&amp;list=PLQOaTSbfxUtCd6HvVbeZbDFSHXK4MCWAN&amp;index=2&amp;pp=iAQB)

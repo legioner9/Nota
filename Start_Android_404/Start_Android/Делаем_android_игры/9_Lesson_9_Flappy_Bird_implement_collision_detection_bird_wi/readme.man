@@ -1,0 +1,3 @@
+# [Start Android](https://www.youtube.com/@start_android/playlists?view=1)
+## [Делаем android игры](https://www.youtube.com/playlist?list=PLyfVjOYzujuisikez6McGsBtKviTa_lty)
+### [Lesson 9. Flappy Bird: implement collision detection bird with pipes | LibGDX](https://www.youtube.com/watch?v=QAwtsSPQ-nk&amp;list=PLyfVjOYzujuisikez6McGsBtKviTa_lty&amp;index=9&amp;pp=iAQB)

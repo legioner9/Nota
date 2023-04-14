@@ -1,0 +1,8 @@
+### [Почему нужно учить JAVASCRIPT? Что на нем пишут, как его учить и сколько на нём. зарабатывают ?](https://www.youtube.com/watch?v=4cuWTA7EWVY&amp;list=PL8NGcSL3ZP-8V3-yddSRs1VxkXf26WhcB&amp;index=1&amp;pp=iAQB)
+### [Типы данных | Курс JavaScript с нуля 2023](https://www.youtube.com/watch?v=yfc69Lk-h9M&amp;list=PL8NGcSL3ZP-8V3-yddSRs1VxkXf26WhcB&amp;index=2&amp;pp=iAQB)
+### [Циклы и условия в JavaScript за 5 минут](https://www.youtube.com/watch?v=klyjImfgfC8&amp;list=PL8NGcSL3ZP-8V3-yddSRs1VxkXf26WhcB&amp;index=3&amp;pp=iAQB)
+### [Алгоритм сортировки пузырьком (bubble sort)| Курс JavaScript для начинающих 2023](https://www.youtube.com/watch?v=2KZJEj17Xl8&amp;list=PL8NGcSL3ZP-8V3-yddSRs1VxkXf26WhcB&amp;index=4&amp;pp=iAQB)
+### [Введение в JavaScript | Основы для начинающих](https://www.youtube.com/watch?v=aiBZl4VgTiQ&amp;list=PL8NGcSL3ZP-8V3-yddSRs1VxkXf26WhcB&amp;index=5&amp;pp=iAQB)
+### [Как учиться программированию эффективно?](https://www.youtube.com/watch?v=MegLUjo62l4&amp;list=PL8NGcSL3ZP-8V3-yddSRs1VxkXf26WhcB&amp;index=6&amp;pp=iAQB)
+### [Решаем задачи на JavaScript |  для начинающих](https://www.youtube.com/watch?v=RSuM7QWGonw&amp;list=PL8NGcSL3ZP-8V3-yddSRs1VxkXf26WhcB&amp;index=7&amp;pp=iAQB)
+### [Ссылочный тип данных и примитивы в JavaScript | В чём разница?](https://www.youtube.com/watch?v=hQTNYRyNqAg&amp;list=PL8NGcSL3ZP-8V3-yddSRs1VxkXf26WhcB&amp;index=8&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [#SimpleCode](https://www.youtube.com/@SimpleCodeIT/playlists)
+## [Объектно-ориентированное программирование (ООП) в C++](https://www.youtube.com/playlist?list=PLQOaTSbfxUtBm7DxblJZShqBQnBAVzlXX)
+### [Дружественный метод класса. ООП. friend c++ что это. Функции друзья. C++ Для начинающих. Урок#90](https://www.youtube.com/watch?v=c3FJv4v7NlU&amp;list=PLQOaTSbfxUtBm7DxblJZShqBQnBAVzlXX&amp;index=21&amp;pp=iAQB)

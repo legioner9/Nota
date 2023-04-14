@@ -1,0 +1,5 @@
+### [Pyenv: установка Python, управление окружениями (virtualenv)](https://www.youtube.com/watch?v=5DuudrU7jK0&amp;list=PLU2ftbIeotGpla0kJgAdb1eGkOIvJFmkQ&amp;index=1&amp;pp=iAQB)
+### [Vi / Vim: основы (как выйти из vi, как редактировать текст в vi, как работать в vi)](https://www.youtube.com/watch?v=6H0GDM8ExB8&amp;list=PLU2ftbIeotGpla0kJgAdb1eGkOIvJFmkQ&amp;index=2&amp;pp=iAQB)
+### [Flask: делаем простое веб приложение на Python (простой сайт)](https://www.youtube.com/watch?v=uyjp8nLGkmM&amp;list=PLU2ftbIeotGpla0kJgAdb1eGkOIvJFmkQ&amp;index=3&amp;pp=iAQB)
+### [⚗ Flask: подключаем БД, настраиваем SqlAlchemy](https://www.youtube.com/watch?v=lBOq1_blG_8&amp;list=PLU2ftbIeotGpla0kJgAdb1eGkOIvJFmkQ&amp;index=4&amp;pp=iAQB)
+### [🔒 Flask Login: авторизация](https://www.youtube.com/watch?v=XUwOOqRDAHE&amp;list=PLU2ftbIeotGpla0kJgAdb1eGkOIvJFmkQ&amp;index=5&amp;pp=iAQB)

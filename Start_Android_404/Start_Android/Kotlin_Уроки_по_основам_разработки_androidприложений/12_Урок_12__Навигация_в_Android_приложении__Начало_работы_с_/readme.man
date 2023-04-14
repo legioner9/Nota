@@ -1,0 +1,3 @@
+# [Start Android](https://www.youtube.com/@start_android/playlists?view=1)
+## [Kotlin. Уроки по основам разработки android-приложений](https://www.youtube.com/playlist?list=PLyfVjOYzujuj20Y-3kVhT3Zro9CrMNgNS)
+### [Урок 12.  Навигация в Android приложении.  Начало работы с Navigation Architecture Component](https://www.youtube.com/watch?v=KYTHP9WtTHY&amp;list=PLyfVjOYzujuj20Y-3kVhT3Zro9CrMNgNS&amp;index=12&amp;pp=iAQB)

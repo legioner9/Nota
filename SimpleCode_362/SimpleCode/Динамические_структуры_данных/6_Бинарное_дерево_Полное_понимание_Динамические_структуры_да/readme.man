@@ -1,0 +1,3 @@
+# [#SimpleCode](https://www.youtube.com/@SimpleCodeIT/playlists)
+## [Динамические структуры данных](https://www.youtube.com/playlist?list=PLQOaTSbfxUtAIipl4136nwb4ISyFk8oI4)
+### [Бинарное дерево. Полное понимание! Динамические структуры данных #3](https://www.youtube.com/watch?v=9o_i0zzxk1s&amp;list=PLQOaTSbfxUtAIipl4136nwb4ISyFk8oI4&amp;index=6&amp;pp=iAQB)

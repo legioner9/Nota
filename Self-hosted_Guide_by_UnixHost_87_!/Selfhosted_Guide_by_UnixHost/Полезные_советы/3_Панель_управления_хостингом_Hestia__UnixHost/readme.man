@@ -1,0 +1,3 @@
+# [Self-hosted Guide [by UnixHost]](https://www.youtube.com/@selfhostedguide/playlists)
+## [Полезные советы](https://www.youtube.com/playlist?list=PLYKYbjpqsWJcaxGuJKAPpICHPObkNjn-I)
+### [Панель управления хостингом Hestia | UnixHost](https://www.youtube.com/watch?v=mwX3IbTxAMY&amp;list=PLYKYbjpqsWJcaxGuJKAPpICHPObkNjn-I&amp;index=3&amp;pp=iAQB)

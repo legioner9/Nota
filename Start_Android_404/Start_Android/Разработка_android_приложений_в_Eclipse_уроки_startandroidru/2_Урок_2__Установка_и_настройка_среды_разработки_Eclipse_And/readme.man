@@ -1,0 +1,3 @@
+# [Start Android](https://www.youtube.com/@start_android/playlists?view=1)
+## [Разработка android приложений в Eclipse (уроки startandroid.ru)](https://www.youtube.com/playlist?list=PLyfVjOYzujuhLNi-AxZsW0idLj9ZChDf0)
+### [Урок 2.  Установка и настройка среды разработки Eclipse Android SDK](https://www.youtube.com/watch?v=P7dKW0FYUbU&amp;list=PLyfVjOYzujuhLNi-AxZsW0idLj9ZChDf0&amp;index=2&amp;pp=iAQB)

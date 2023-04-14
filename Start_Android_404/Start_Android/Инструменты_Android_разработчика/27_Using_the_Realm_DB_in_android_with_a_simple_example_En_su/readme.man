@@ -1,0 +1,3 @@
+# [Start Android](https://www.youtube.com/@start_android/playlists?view=1)
+## [Инструменты Android разработчика](https://www.youtube.com/playlist?list=PLyfVjOYzujugEUT-7gYhONqB5Y1xszpCq)
+### [Using the Realm DB in android with a simple example (En subtitles)](https://www.youtube.com/watch?v=kQhUeLMbvhI&amp;list=PLyfVjOYzujugEUT-7gYhONqB5Y1xszpCq&amp;index=27&amp;pp=iAQB)

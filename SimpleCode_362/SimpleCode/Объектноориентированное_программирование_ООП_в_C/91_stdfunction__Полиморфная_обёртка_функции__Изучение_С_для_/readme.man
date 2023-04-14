@@ -1,0 +1,3 @@
+# [#SimpleCode](https://www.youtube.com/@SimpleCodeIT/playlists)
+## [Объектно-ориентированное программирование (ООП) в C++](https://www.youtube.com/playlist?list=PLQOaTSbfxUtBm7DxblJZShqBQnBAVzlXX)
+### [std::function | Полиморфная обёртка функции | Изучение С++ для начинающих. Урок #142](https://www.youtube.com/watch?v=Bm2jmUxkUVw&amp;list=PLQOaTSbfxUtBm7DxblJZShqBQnBAVzlXX&amp;index=91&amp;pp=iAQB)

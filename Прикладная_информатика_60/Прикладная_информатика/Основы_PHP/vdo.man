@@ -1,0 +1,2 @@
+### [Битва за 80 порт: веб-сервер,  skype и windows 10](https://www.youtube.com/watch?v=f7J5kYuS1XU&amp;list=PLPniQm_0TXzvIC8M6TWnuXWU0HoHHzCFv&amp;index=1&amp;pp=iAQB)
+### [Работа с базой данных на PHP и MySQL](https://www.youtube.com/watch?v=1oiUNKlylBM&amp;list=PLPniQm_0TXzvIC8M6TWnuXWU0HoHHzCFv&amp;index=2&amp;pp=iAQB)

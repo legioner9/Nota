@@ -1,0 +1,3 @@
+# [#SimpleCode](https://www.youtube.com/@SimpleCodeIT/playlists)
+## [C++ | STL | Библиотека стандартных шаблонов](https://www.youtube.com/playlist?list=PLQOaTSbfxUtDWAtIYme5MLZ1l0GTyUYkB)
+### [Поиск максимального элемента | max_element c++ |  Библиотека стандартных шаблонов (stl) C++ #17](https://www.youtube.com/watch?v=Ubj_c8Ho2JU&amp;list=PLQOaTSbfxUtDWAtIYme5MLZ1l0GTyUYkB&amp;index=17&amp;pp=iAQB)

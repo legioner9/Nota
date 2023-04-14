@@ -1,0 +1,3 @@
+# [Start Android](https://www.youtube.com/@start_android/playlists?view=1)
+## [Уроки 91-100  по разработке андроид-приложений на java в Eclipse и Android Studio (startandroid)](https://www.youtube.com/playlist?list=PLyfVjOYzujuj4DtxXPg3XVzMFxM5ZGAnH)
+### [Start аndroid: Урок 98. Service. Локальный биндинг (разработка приложений в Android Studio)](https://www.youtube.com/watch?v=TTFBlipN2_k&amp;list=PLyfVjOYzujuj4DtxXPg3XVzMFxM5ZGAnH&amp;index=8&amp;pp=iAQB)

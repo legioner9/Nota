@@ -1,0 +1,3 @@
+# [Start Android](https://www.youtube.com/@start_android/playlists?view=1)
+## [Start Android gamedev, как создать игру для android, разработка игр для андроид](https://www.youtube.com/playlist?list=PLyfVjOYzujujuuyd0B97SoW2K99663B_x)
+### [аndroid gamedev #5. Cоздание игры для андроид с помощью libgdx. Actor, Stage](https://www.youtube.com/watch?v=kEst47vUv1w&amp;list=PLyfVjOYzujujuuyd0B97SoW2K99663B_x&amp;index=5&amp;pp=iAQB)

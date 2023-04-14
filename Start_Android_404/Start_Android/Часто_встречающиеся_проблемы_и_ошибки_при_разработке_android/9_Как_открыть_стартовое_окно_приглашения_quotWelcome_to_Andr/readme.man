@@ -1,0 +1,3 @@
+# [Start Android](https://www.youtube.com/@start_android/playlists?view=1)
+## [Часто встречающиеся проблемы и ошибки при разработке android приложений](https://www.youtube.com/playlist?list=PLyfVjOYzujugjnCvSOhMvbCuvWIyDAqei)
+### [Как открыть стартовое окно приглашения &quot;Welcome to Android Studio&quot;](https://www.youtube.com/watch?v=t9b_rNnPXKg&amp;list=PLyfVjOYzujugjnCvSOhMvbCuvWIyDAqei&amp;index=9&amp;pp=iAQB)

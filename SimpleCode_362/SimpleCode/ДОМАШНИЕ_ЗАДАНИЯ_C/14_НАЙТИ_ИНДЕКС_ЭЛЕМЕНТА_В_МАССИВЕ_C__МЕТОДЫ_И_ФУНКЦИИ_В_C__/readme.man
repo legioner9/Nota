@@ -1,0 +1,3 @@
+# [#SimpleCode](https://www.youtube.com/@SimpleCodeIT/playlists)
+## [ДОМАШНИЕ ЗАДАНИЯ C#](https://www.youtube.com/playlist?list=PLQOaTSbfxUtCd6HvVbeZbDFSHXK4MCWAN)
+### [НАЙТИ ИНДЕКС ЭЛЕМЕНТА В МАССИВЕ C# | МЕТОДЫ И ФУНКЦИИ В C# | СИ ШАРП УРОКИ | ДОМАШНИЕ ЗАДАНИЯ # 11](https://www.youtube.com/watch?v=ZJ4CZDBLOc0&amp;list=PLQOaTSbfxUtCd6HvVbeZbDFSHXK4MCWAN&amp;index=14&amp;pp=iAQB)

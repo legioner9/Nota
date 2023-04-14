@@ -1,0 +1,3 @@
+# [Start Android](https://www.youtube.com/@start_android/playlists?view=1)
+## [Дизайн android приложений](https://www.youtube.com/playlist?list=PLyfVjOYzujugPnav0g4l0GGOPbj_vUf93)
+### [Working with ConstraintLayout in Android Studio (EN subtitles)](https://www.youtube.com/watch?v=zzTi4v20PgY&amp;list=PLyfVjOYzujugPnav0g4l0GGOPbj_vUf93&amp;index=9&amp;pp=iAQB)

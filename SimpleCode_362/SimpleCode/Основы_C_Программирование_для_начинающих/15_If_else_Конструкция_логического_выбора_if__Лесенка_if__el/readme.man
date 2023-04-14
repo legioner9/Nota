@@ -1,0 +1,3 @@
+# [#SimpleCode](https://www.youtube.com/@SimpleCodeIT/playlists)
+## [Основы C++. Программирование для начинающих.](https://www.youtube.com/playlist?list=PLQOaTSbfxUtCrKs0nicOg2npJQYSPGO9r)
+### [If else. Конструкция логического выбора if.  Лесенка if - else if. Примеры использования. Урок #12.](https://www.youtube.com/watch?v=k_YFH3PezqA&amp;list=PLQOaTSbfxUtCrKs0nicOg2npJQYSPGO9r&amp;index=15&amp;pp=iAQB)

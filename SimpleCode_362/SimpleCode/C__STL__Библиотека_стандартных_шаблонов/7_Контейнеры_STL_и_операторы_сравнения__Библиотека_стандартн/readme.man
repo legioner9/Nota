@@ -1,0 +1,3 @@
+# [#SimpleCode](https://www.youtube.com/@SimpleCodeIT/playlists)
+## [C++ | STL | Библиотека стандартных шаблонов](https://www.youtube.com/playlist?list=PLQOaTSbfxUtDWAtIYme5MLZ1l0GTyUYkB)
+### [Контейнеры STL и операторы сравнения. | Библиотека стандартных шаблонов (stl) | Уроки | C++ | #7](https://www.youtube.com/watch?v=K_1qCfGW5Fo&amp;list=PLQOaTSbfxUtDWAtIYme5MLZ1l0GTyUYkB&amp;index=7&amp;pp=iAQB)

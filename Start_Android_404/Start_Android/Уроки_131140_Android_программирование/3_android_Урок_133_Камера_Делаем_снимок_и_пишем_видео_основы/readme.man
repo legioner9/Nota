@@ -1,0 +1,3 @@
+# [Start Android](https://www.youtube.com/@start_android/playlists?view=1)
+## [Уроки 131-140. Android программирование](https://www.youtube.com/playlist?list=PLyfVjOYzujuhSPE9ApdDXR-4i4Ocigx1P)
+### [android: Урок 133. Камера. Делаем снимок и пишем видео (основы программирования, видео уроки)](https://www.youtube.com/watch?v=na5BH_FChZo&amp;list=PLyfVjOYzujuhSPE9ApdDXR-4i4Ocigx1P&amp;index=3&amp;pp=iAQB)

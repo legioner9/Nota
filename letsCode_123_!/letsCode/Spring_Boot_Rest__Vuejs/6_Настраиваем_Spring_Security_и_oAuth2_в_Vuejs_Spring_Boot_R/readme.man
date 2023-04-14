@@ -1,0 +1,3 @@
+# [letsCode](https://www.youtube.com/@letsCodeDru/playlists)
+## [Spring Boot Rest + Vue.js](https://www.youtube.com/playlist?list=PLU2ftbIeotGqSTOVNjT4L3Yfy8jatCdhm)
+### [Настраиваем Spring Security и oAuth2 в Vue.js. Spring Boot REST](https://www.youtube.com/watch?v=B0887PLJuSY&amp;list=PLU2ftbIeotGqSTOVNjT4L3Yfy8jatCdhm&amp;index=6&amp;pp=iAQB)

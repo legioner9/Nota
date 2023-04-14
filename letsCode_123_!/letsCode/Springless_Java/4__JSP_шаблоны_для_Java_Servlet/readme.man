@@ -1,0 +1,3 @@
+# [letsCode](https://www.youtube.com/@letsCodeDru/playlists)
+## [Springless Java](https://www.youtube.com/playlist?list=PLU2ftbIeotGps5EkYA4krU5clrWSZZvIo)
+### [⌨ JSP шаблоны для Java Servlet](https://www.youtube.com/watch?v=nTyrXZOINqk&amp;list=PLU2ftbIeotGps5EkYA4krU5clrWSZZvIo&amp;index=4&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [Start Android](https://www.youtube.com/@start_android/playlists?view=1)
+## [Уроки по основам разработки android-приложений на Java](https://www.youtube.com/playlist?list=PLyfVjOYzujugap6Rf3ETNKkx4v9ePllNK)
+### [Lesson 32. Create a simple application - web browser for Android | Lessons Android Studio](https://www.youtube.com/watch?v=2MA1ELxC7XE&amp;list=PLyfVjOYzujugap6Rf3ETNKkx4v9ePllNK&amp;index=34&amp;pp=iAQB)

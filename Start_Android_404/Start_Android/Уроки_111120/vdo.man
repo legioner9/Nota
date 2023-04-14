@@ -1,0 +1,6 @@
+### [Startandroid: Урок 112. Динамическое взаимодействие с ActionBar в процессе работы андроид-приложения](https://www.youtube.com/watch?v=Dr2V1rY3vRM&amp;list=PLyfVjOYzujuig79jEk6_VY_UqL8Aq0uGI&amp;index=1&amp;pp=iAQB)
+### [Startandroid: Урок 111. PreferenceFragment - настройки. Headers - заголовки (разработка под андройд)](https://www.youtube.com/watch?v=VuX3UMxfdPo&amp;list=PLyfVjOYzujuig79jEk6_VY_UqL8Aq0uGI&amp;index=2&amp;pp=iAQB)
+### [Startandroid: Урок 112. Динамическое взаимодействие с ActionBar в процессе работы андроид-приложения](https://www.youtube.com/watch?v=Dr2V1rY3vRM&amp;list=PLyfVjOYzujuig79jEk6_VY_UqL8Aq0uGI&amp;index=3&amp;pp=iAQB)
+### [Startandroid: Урок 111. PreferenceFragment - настройки. Headers - заголовки (разработка под андройд)](https://www.youtube.com/watch?v=VuX3UMxfdPo&amp;list=PLyfVjOYzujuig79jEk6_VY_UqL8Aq0uGI&amp;index=4&amp;pp=iAQB)
+### [Startandroid: Урок 113. ActionMode, как альтернатива контекстному меню андроид-приложения](https://www.youtube.com/watch?v=KCg_IFZ8uvI&amp;list=PLyfVjOYzujuig79jEk6_VY_UqL8Aq0uGI&amp;index=5&amp;pp=iAQB)
+### [Startandroid|Урок 114. Support Library - поддержка новых возможностей в старых версиях Android](https://www.youtube.com/watch?v=3UBegcTO_3Y&amp;list=PLyfVjOYzujuig79jEk6_VY_UqL8Aq0uGI&amp;index=6&amp;pp=iAQB)

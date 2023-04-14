@@ -1,0 +1,3 @@
+# [#SimpleCode](https://www.youtube.com/@SimpleCodeIT/playlists)
+## [Основы C++. Программирование для начинающих.](https://www.youtube.com/playlist?list=PLQOaTSbfxUtCrKs0nicOg2npJQYSPGO9r)
+### [Рекурсия что это. Рекурсия программирование. Рекурсия и цикл. Рекурсия с++. Для начинающих. Урок #43](https://www.youtube.com/watch?v=_WGNSVDb0t8&amp;list=PLQOaTSbfxUtCrKs0nicOg2npJQYSPGO9r&amp;index=53&amp;pp=iAQB)

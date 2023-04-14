@@ -1,0 +1,1 @@
+### [Создание андроид-приложения с картами Google Maps с использованием Google Services в Android Studio](https://www.youtube.com/watch?v=aRi_5uTEToU&amp;list=PLyfVjOYzujuhPJxUADhZd3BkvKGCPLMMD&amp;index=1&amp;pp=iAQB)

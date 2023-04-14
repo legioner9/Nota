@@ -1,0 +1,3 @@
+# [realmanual](https://www.youtube.com/@realmanual/playlists)
+## [Kubernetes](https://www.youtube.com/playlist?list=PLEFo-qGWcO2Yc3Tx6u0eWPak-5mU0qSYB)
+### [Запускаем кластер кубернетес локально (kind)](https://www.youtube.com/watch?v=7JfkIdSdFWA&amp;list=PLEFo-qGWcO2Yc3Tx6u0eWPak-5mU0qSYB&amp;index=5&amp;pp=iAQB)

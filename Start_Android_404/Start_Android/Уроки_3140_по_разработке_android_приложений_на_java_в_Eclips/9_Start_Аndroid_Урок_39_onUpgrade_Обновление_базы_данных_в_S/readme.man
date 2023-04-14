@@ -1,0 +1,3 @@
+# [Start Android](https://www.youtube.com/@start_android/playlists?view=1)
+## [Уроки 31-40 по разработке android приложений на java в Eclipse и Android Studio (startandroid)](https://www.youtube.com/playlist?list=PLyfVjOYzujugMUF67enCnOga1qharj9zG)
+### [Start Аndroid: Урок 39. onUpgrade. Обновление базы данных в SQLite (уроки программирования андроид)](https://www.youtube.com/watch?v=MUStJBg6GUk&amp;list=PLyfVjOYzujugMUF67enCnOga1qharj9zG&amp;index=9&amp;pp=iAQB)

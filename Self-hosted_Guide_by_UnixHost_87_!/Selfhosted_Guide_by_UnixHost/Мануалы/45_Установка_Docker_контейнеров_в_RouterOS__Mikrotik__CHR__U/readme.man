@@ -1,0 +1,3 @@
+# [Self-hosted Guide [by UnixHost]](https://www.youtube.com/@selfhostedguide/playlists)
+## [Мануалы](https://www.youtube.com/playlist?list=PLYKYbjpqsWJc9NTl64XOcfGUf3Q23I6jg)
+### [Установка Docker контейнеров в RouterOS | Mikrotik | CHR | UnixHost](https://www.youtube.com/watch?v=OksQKVVCXnA&amp;list=PLYKYbjpqsWJc9NTl64XOcfGUf3Q23I6jg&amp;index=45&amp;pp=iAQB)

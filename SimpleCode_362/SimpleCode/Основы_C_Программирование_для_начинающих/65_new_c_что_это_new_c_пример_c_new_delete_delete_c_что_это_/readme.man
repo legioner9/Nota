@@ -1,0 +1,3 @@
+# [#SimpleCode](https://www.youtube.com/@SimpleCodeIT/playlists)
+## [Основы C++. Программирование для начинающих.](https://www.youtube.com/playlist?list=PLQOaTSbfxUtCrKs0nicOg2npJQYSPGO9r)
+### [new c++ что это. new c++ пример. c++ new delete. delete c++ что это. delete c++ пример.  Урок #53](https://www.youtube.com/watch?v=vtslSm2GA9w&amp;list=PLQOaTSbfxUtCrKs0nicOg2npJQYSPGO9r&amp;index=65&amp;pp=iAQB)

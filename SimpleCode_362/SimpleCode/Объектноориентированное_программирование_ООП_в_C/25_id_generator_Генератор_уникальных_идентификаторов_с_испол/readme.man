@@ -1,0 +1,3 @@
+# [#SimpleCode](https://www.youtube.com/@SimpleCodeIT/playlists)
+## [Объектно-ориентированное программирование (ООП) в C++](https://www.youtube.com/playlist?list=PLQOaTSbfxUtBm7DxblJZShqBQnBAVzlXX)
+### [id generator. Генератор уникальных идентификаторов с использованием static переменной Начинающим #93](https://www.youtube.com/watch?v=t05dMR4yB9s&amp;list=PLQOaTSbfxUtBm7DxblJZShqBQnBAVzlXX&amp;index=25&amp;pp=iAQB)

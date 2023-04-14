@@ -1,0 +1,3 @@
+### [Docker что это? Все о контейнеризации за 8 минут](https://www.youtube.com/watch?v=VeiddqzBMls&amp;list=PL4b9wH7H8nj7p5NG8-0yXzvTmhMYNvONo&amp;index=1&amp;pp=iAQB)
+### [Kubernetes #1. Что это и зачем? Архитектура и компоненты ч. 1](https://www.youtube.com/watch?v=QR_6Lvr3JSI&amp;list=PL4b9wH7H8nj7p5NG8-0yXzvTmhMYNvONo&amp;index=2&amp;pp=iAQB)
+### [Kubernetes #2. POD, REPLICASET, DEPLOYMENT, SERVICE, CONFIGMAP](https://www.youtube.com/watch?v=6HIXuufbdtk&amp;list=PL4b9wH7H8nj7p5NG8-0yXzvTmhMYNvONo&amp;index=3&amp;pp=iAQB)

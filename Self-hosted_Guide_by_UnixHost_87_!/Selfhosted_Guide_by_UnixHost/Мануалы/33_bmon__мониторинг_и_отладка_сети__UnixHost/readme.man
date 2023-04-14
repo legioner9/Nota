@@ -1,0 +1,3 @@
+# [Self-hosted Guide [by UnixHost]](https://www.youtube.com/@selfhostedguide/playlists)
+## [Мануалы](https://www.youtube.com/playlist?list=PLYKYbjpqsWJc9NTl64XOcfGUf3Q23I6jg)
+### [bmon - мониторинг и отладка сети | UnixHost](https://www.youtube.com/watch?v=FO8O4g2PSFU&amp;list=PLYKYbjpqsWJc9NTl64XOcfGUf3Q23I6jg&amp;index=33&amp;pp=iAQB)

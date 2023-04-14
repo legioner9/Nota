@@ -1,0 +1,3 @@
+# [Start Android](https://www.youtube.com/@start_android/playlists?view=1)
+## [Архитектура андроид-приложений](https://www.youtube.com/playlist?list=PLyfVjOYzujuimhohH06QBmiBVhAuTiDYA)
+### [Лекция 4 по архитектуре андроид приложения. Clean Architecture](https://www.youtube.com/watch?v=dDu3nXlZI6I&amp;list=PLyfVjOYzujuimhohH06QBmiBVhAuTiDYA&amp;index=5&amp;pp=iAQB)

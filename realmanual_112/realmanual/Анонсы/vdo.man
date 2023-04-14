@@ -1,0 +1,4 @@
+### [Kubernetes из RKE2 - анонс](https://www.youtube.com/watch?v=UMQdWu3MSB0&amp;list=PLEFo-qGWcO2bz7RnqhDGQ6T8dzWyaCIQC&amp;index=1&amp;pp=iAQB)
+### [ArgoCD + Keycloak: devops практика (анонс и предзаказ курса)](https://www.youtube.com/watch?v=NP422Tfs1QY&amp;list=PLEFo-qGWcO2bz7RnqhDGQ6T8dzWyaCIQC&amp;index=2&amp;pp=iAQB)
+### [Анонс курса Gitlab-CI: только практика](https://www.youtube.com/watch?v=wxr0HsRwpvw&amp;list=PLEFo-qGWcO2bz7RnqhDGQ6T8dzWyaCIQC&amp;index=3&amp;pp=iAQB)
+### [Анонс курса: Vault: пароли под защитой](https://www.youtube.com/watch?v=vbse2ZzHrFo&amp;list=PLEFo-qGWcO2bz7RnqhDGQ6T8dzWyaCIQC&amp;index=4&amp;pp=iAQB)

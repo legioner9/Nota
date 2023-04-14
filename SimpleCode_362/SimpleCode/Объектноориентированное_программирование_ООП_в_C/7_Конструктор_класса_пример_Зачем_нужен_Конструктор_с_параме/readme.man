@@ -1,0 +1,3 @@
+# [#SimpleCode](https://www.youtube.com/@SimpleCodeIT/playlists)
+## [Объектно-ориентированное программирование (ООП) в C++](https://www.youtube.com/playlist?list=PLQOaTSbfxUtBm7DxblJZShqBQnBAVzlXX)
+### [Конструктор класса пример. Зачем нужен. Конструктор с параметрами. Конструктор по умолчанию. Урок#78](https://www.youtube.com/watch?v=OvzACnP7h9E&amp;list=PLQOaTSbfxUtBm7DxblJZShqBQnBAVzlXX&amp;index=7&amp;pp=iAQB)

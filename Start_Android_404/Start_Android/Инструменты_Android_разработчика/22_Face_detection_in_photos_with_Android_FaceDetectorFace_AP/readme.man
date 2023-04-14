@@ -1,0 +1,3 @@
+# [Start Android](https://www.youtube.com/@start_android/playlists?view=1)
+## [Инструменты Android разработчика](https://www.youtube.com/playlist?list=PLyfVjOYzujugEUT-7gYhONqB5Y1xszpCq)
+### [Face detection in photos with Android FaceDetector.Face API (EN subtitles)](https://www.youtube.com/watch?v=8eZGf2Yzcoc&amp;list=PLyfVjOYzujugEUT-7gYhONqB5Y1xszpCq&amp;index=22&amp;pp=iAQB)

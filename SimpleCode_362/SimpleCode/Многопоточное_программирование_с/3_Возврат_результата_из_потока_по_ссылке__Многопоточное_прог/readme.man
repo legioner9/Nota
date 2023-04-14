@@ -1,0 +1,3 @@
+# [#SimpleCode](https://www.youtube.com/@SimpleCodeIT/playlists)
+## [Многопоточное программирование с++](https://www.youtube.com/playlist?list=PLQOaTSbfxUtAc_RpyDiWCHq0YTzLtVSD0)
+### [Возврат результата из потока по ссылке | Многопоточное программирование | Уроки | C++ #3](https://www.youtube.com/watch?v=fTs2TteQkB4&amp;list=PLQOaTSbfxUtAc_RpyDiWCHq0YTzLtVSD0&amp;index=3&amp;pp=iAQB)

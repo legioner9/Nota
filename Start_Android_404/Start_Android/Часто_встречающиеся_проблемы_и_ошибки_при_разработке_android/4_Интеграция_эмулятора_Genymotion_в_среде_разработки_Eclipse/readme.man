@@ -1,0 +1,3 @@
+# [Start Android](https://www.youtube.com/@start_android/playlists?view=1)
+## [Часто встречающиеся проблемы и ошибки при разработке android приложений](https://www.youtube.com/playlist?list=PLyfVjOYzujugjnCvSOhMvbCuvWIyDAqei)
+### [Интеграция эмулятора Genymotion в среде разработки Eclipse и в AndroidStudio](https://www.youtube.com/watch?v=NCe-OPi0Euk&amp;list=PLyfVjOYzujugjnCvSOhMvbCuvWIyDAqei&amp;index=4&amp;pp=iAQB)

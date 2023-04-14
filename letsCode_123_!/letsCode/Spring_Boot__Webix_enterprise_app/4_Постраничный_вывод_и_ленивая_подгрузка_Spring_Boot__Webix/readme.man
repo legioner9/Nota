@@ -1,0 +1,3 @@
+# [letsCode](https://www.youtube.com/@letsCodeDru/playlists)
+## [Spring Boot + Webix (enterprise app)](https://www.youtube.com/playlist?list=PLU2ftbIeotGqnwHMFZQz-FrI9w_KGZlw9)
+### [Постраничный вывод и ленивая подгрузка. Spring Boot + Webix](https://www.youtube.com/watch?v=VzezTIEIdMU&amp;list=PLU2ftbIeotGqnwHMFZQz-FrI9w_KGZlw9&amp;index=4&amp;pp=iAQB)

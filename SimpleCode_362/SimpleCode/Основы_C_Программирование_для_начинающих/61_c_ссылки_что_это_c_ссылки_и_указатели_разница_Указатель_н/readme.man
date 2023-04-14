@@ -1,0 +1,3 @@
+# [#SimpleCode](https://www.youtube.com/@SimpleCodeIT/playlists)
+## [Основы C++. Программирование для начинающих.](https://www.youtube.com/playlist?list=PLQOaTSbfxUtCrKs0nicOg2npJQYSPGO9r)
+### [c++ ссылки что это. c++ ссылки и указатели разница. Указатель на ссылку. Для начинающих. Урок #50](https://www.youtube.com/watch?v=hZOX-LlUETE&amp;list=PLQOaTSbfxUtCrKs0nicOg2npJQYSPGO9r&amp;index=61&amp;pp=iAQB)

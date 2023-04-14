@@ -1,0 +1,3 @@
+# [#SimpleCode](https://www.youtube.com/@SimpleCodeIT/playlists)
+## [Основы C++. Программирование для начинающих.](https://www.youtube.com/playlist?list=PLQOaTSbfxUtCrKs0nicOg2npJQYSPGO9r)
+### [Структура и порядок выполнения программы. #Include. using namespace. C++ для начинающих. Урок #2.](https://www.youtube.com/watch?v=TQyIJ4xHOEE&amp;list=PLQOaTSbfxUtCrKs0nicOg2npJQYSPGO9r&amp;index=4&amp;pp=iAQB)

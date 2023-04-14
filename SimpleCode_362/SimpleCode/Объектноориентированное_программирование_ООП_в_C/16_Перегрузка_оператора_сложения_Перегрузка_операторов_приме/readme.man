@@ -1,0 +1,3 @@
+# [#SimpleCode](https://www.youtube.com/@SimpleCodeIT/playlists)
+## [Объектно-ориентированное программирование (ООП) в C++](https://www.youtube.com/playlist?list=PLQOaTSbfxUtBm7DxblJZShqBQnBAVzlXX)
+### [Перегрузка оператора сложения. Перегрузка операторов пример.C++ Для начинающих. Урок#85](https://www.youtube.com/watch?v=_aCCiq1ESqc&amp;list=PLQOaTSbfxUtBm7DxblJZShqBQnBAVzlXX&amp;index=16&amp;pp=iAQB)

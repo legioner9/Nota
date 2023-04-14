@@ -1,0 +1,3 @@
+# [#SimpleCode](https://www.youtube.com/@SimpleCodeIT/playlists)
+## [Объектно-ориентированное программирование (ООП) в C++](https://www.youtube.com/playlist?list=PLQOaTSbfxUtBm7DxblJZShqBQnBAVzlXX)
+### [Возврат результата из потока по ссылке | Многопоточное программирование | Уроки | C++ #3](https://www.youtube.com/watch?v=fTs2TteQkB4&amp;list=PLQOaTSbfxUtBm7DxblJZShqBQnBAVzlXX&amp;index=89&amp;pp=iAQB)

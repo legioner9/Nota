@@ -1,0 +1,3 @@
+# [realmanual](https://www.youtube.com/@realmanual/playlists)
+## [Мониторинг: Zabbix](https://www.youtube.com/playlist?list=PLEFo-qGWcO2bo_hvBBz2qpzOapYB9UZsC)
+### [Zabbix агенты - автоматизируем установку на нодах в kubernetes](https://www.youtube.com/watch?v=9nMopGzAOoI&amp;list=PLEFo-qGWcO2bo_hvBBz2qpzOapYB9UZsC&amp;index=4&amp;pp=iAQB)

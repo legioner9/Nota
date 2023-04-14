@@ -1,0 +1,3 @@
+# [#SimpleCode](https://www.youtube.com/@SimpleCodeIT/playlists)
+## [Объектно-ориентированное программирование (ООП) в C++](https://www.youtube.com/playlist?list=PLQOaTSbfxUtBm7DxblJZShqBQnBAVzlXX)
+### [Основы c++ для начинающих. Свой класс string. Часть 2. Запись стрима. #SimpleCode](https://www.youtube.com/watch?v=FCOEp85Y3YU&amp;list=PLQOaTSbfxUtBm7DxblJZShqBQnBAVzlXX&amp;index=22&amp;pp=iAQB)

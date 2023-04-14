@@ -1,0 +1,3 @@
+# [#SimpleCode](https://www.youtube.com/@SimpleCodeIT/playlists)
+## [Динамические структуры данных](https://www.youtube.com/playlist?list=PLQOaTSbfxUtAIipl4136nwb4ISyFk8oI4)
+### [Стек как структура данных. Полное понимание! Динамические структуры данных #4](https://www.youtube.com/watch?v=B3VHHfMW0Pg&amp;list=PLQOaTSbfxUtAIipl4136nwb4ISyFk8oI4&amp;index=7&amp;pp=iAQB)

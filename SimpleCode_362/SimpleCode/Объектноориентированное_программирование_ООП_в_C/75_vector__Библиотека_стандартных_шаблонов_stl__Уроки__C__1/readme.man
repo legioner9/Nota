@@ -1,0 +1,3 @@
+# [#SimpleCode](https://www.youtube.com/@SimpleCodeIT/playlists)
+## [Объектно-ориентированное программирование (ООП) в C++](https://www.youtube.com/playlist?list=PLQOaTSbfxUtBm7DxblJZShqBQnBAVzlXX)
+### [vector | Библиотека стандартных шаблонов (stl) | Уроки | C++ | #1](https://www.youtube.com/watch?v=1cKvMZOJeeE&amp;list=PLQOaTSbfxUtBm7DxblJZShqBQnBAVzlXX&amp;index=75&amp;pp=iAQB)

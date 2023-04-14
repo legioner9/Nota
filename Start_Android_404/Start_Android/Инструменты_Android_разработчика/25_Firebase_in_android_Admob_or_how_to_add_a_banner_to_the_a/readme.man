@@ -1,0 +1,3 @@
+# [Start Android](https://www.youtube.com/@start_android/playlists?view=1)
+## [Инструменты Android разработчика](https://www.youtube.com/playlist?list=PLyfVjOYzujugEUT-7gYhONqB5Y1xszpCq)
+### [Firebase in android: Admob, or how to add a banner to the android app (EN subtitles)](https://www.youtube.com/watch?v=IFI59umsats&amp;list=PLyfVjOYzujugEUT-7gYhONqB5Y1xszpCq&amp;index=25&amp;pp=iAQB)

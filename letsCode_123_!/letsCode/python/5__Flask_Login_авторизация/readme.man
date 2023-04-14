@@ -1,0 +1,3 @@
+# [letsCode](https://www.youtube.com/@letsCodeDru/playlists)
+## [python](https://www.youtube.com/playlist?list=PLU2ftbIeotGpla0kJgAdb1eGkOIvJFmkQ)
+### [🔒 Flask Login: авторизация](https://www.youtube.com/watch?v=XUwOOqRDAHE&amp;list=PLU2ftbIeotGpla0kJgAdb1eGkOIvJFmkQ&amp;index=5&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [#SimpleCode](https://www.youtube.com/@SimpleCodeIT/playlists)
+## [C# ПЛЮШКИ](https://www.youtube.com/playlist?list=PLQOaTSbfxUtAMJaKWZbAUHFIUTdFHBESE)
+### [Benchmarkdotnet | как измерить производительность кода | Benchmark вашего кода C#](https://www.youtube.com/watch?v=8Slzd1G7f9Q&amp;list=PLQOaTSbfxUtAMJaKWZbAUHFIUTdFHBESE&amp;index=19&amp;pp=iAQB)

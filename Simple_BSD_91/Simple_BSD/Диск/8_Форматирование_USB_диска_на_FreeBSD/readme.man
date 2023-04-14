@@ -1,0 +1,3 @@
+# [Simple BSD](https://www.youtube.com/@SimpleBSD/playlists)
+## [Диск](https://www.youtube.com/playlist?list=PLzRM84AHlOOg3_lTVgXqb65f-6L6V2SWa)
+### [Форматирование USB диска на FreeBSD](https://www.youtube.com/watch?v=1QkMhUXqcag&amp;list=PLzRM84AHlOOg3_lTVgXqb65f-6L6V2SWa&amp;index=8&amp;pp=iAQB)

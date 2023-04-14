@@ -1,0 +1,3 @@
+# [#SimpleCode](https://www.youtube.com/@SimpleCodeIT/playlists)
+## [Объектно-ориентированное программирование (ООП) в C++](https://www.youtube.com/playlist?list=PLQOaTSbfxUtBm7DxblJZShqBQnBAVzlXX)
+### [Перечисляемый тип enum С++. Изучение С++ для начинающих. Урок #124](https://www.youtube.com/watch?v=BMmbQ81lQd0&amp;list=PLQOaTSbfxUtBm7DxblJZShqBQnBAVzlXX&amp;index=60&amp;pp=iAQB)

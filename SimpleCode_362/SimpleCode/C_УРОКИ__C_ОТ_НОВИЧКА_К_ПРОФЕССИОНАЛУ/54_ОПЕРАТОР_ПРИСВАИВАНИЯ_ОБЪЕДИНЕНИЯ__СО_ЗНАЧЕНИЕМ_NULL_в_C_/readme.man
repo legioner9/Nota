@@ -1,0 +1,3 @@
+# [#SimpleCode](https://www.youtube.com/@SimpleCodeIT/playlists)
+## [C# УРОКИ | C# ОТ НОВИЧКА К ПРОФЕССИОНАЛУ](https://www.youtube.com/playlist?list=PLQOaTSbfxUtD6kMmAYc8Fooqya3pjLs1N)
+### [ОПЕРАТОР ПРИСВАИВАНИЯ ОБЪЕДИНЕНИЯ  СО ЗНАЧЕНИЕМ NULL в C# 8  | C# ОТ НОВИЧКА К ПРОФЕССИОНАЛУ | # 41](https://www.youtube.com/watch?v=Jb-dFOXrSa0&amp;list=PLQOaTSbfxUtD6kMmAYc8Fooqya3pjLs1N&amp;index=54&amp;pp=iAQB)

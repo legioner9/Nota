@@ -1,0 +1,3 @@
+# [realmanual](https://www.youtube.com/@realmanual/playlists)
+## [Мониторинг: Zabbix](https://www.youtube.com/playlist?list=PLEFo-qGWcO2bo_hvBBz2qpzOapYB9UZsC)
+### [Zabbix - мониторинг: настройка и отправка уведомлений, slack, telegram, sms и rocketchat](https://www.youtube.com/watch?v=eUjyTS9KOZc&amp;list=PLEFo-qGWcO2bo_hvBBz2qpzOapYB9UZsC&amp;index=2&amp;pp=iAQB)

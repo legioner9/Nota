@@ -1,0 +1,4 @@
+### [Создание мессенджера для Android. Подключение Firebase Realtime Database #1](https://www.youtube.com/watch?v=14Xg-229-7A&amp;list=PLQOaTSbfxUtCcJmlNgVgjoIN0t7Ycay6e&amp;index=1&amp;pp=iAQB)
+### [Создание мессенджера для Android. Создание интерфейса #2](https://www.youtube.com/watch?v=nc3h8zDgtzQ&amp;list=PLQOaTSbfxUtCcJmlNgVgjoIN0t7Ycay6e&amp;index=2&amp;pp=iAQB)
+### [Создание мессенджера для Android. Отправка и получение сообщений. #3](https://www.youtube.com/watch?v=fuX2V5Or0cg&amp;list=PLQOaTSbfxUtCcJmlNgVgjoIN0t7Ycay6e&amp;index=3&amp;pp=iAQB)
+### [Создание мессенджера для Android. Вывод сообщений из базы данных #4](https://www.youtube.com/watch?v=ABKRAzhyIZg&amp;list=PLQOaTSbfxUtCcJmlNgVgjoIN0t7Ycay6e&amp;index=4&amp;pp=iAQB)

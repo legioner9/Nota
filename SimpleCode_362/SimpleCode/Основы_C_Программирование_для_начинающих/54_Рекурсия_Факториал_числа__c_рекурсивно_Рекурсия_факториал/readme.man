@@ -1,0 +1,3 @@
+# [#SimpleCode](https://www.youtube.com/@SimpleCodeIT/playlists)
+## [Основы C++. Программирование для начинающих.](https://www.youtube.com/playlist?list=PLQOaTSbfxUtCrKs0nicOg2npJQYSPGO9r)
+### [Рекурсия. Факториал числа  c++ рекурсивно. Рекурсия факториал. Рекурсивный алгоритм факториал. #44](https://www.youtube.com/watch?v=44y44mniCJ4&amp;list=PLQOaTSbfxUtCrKs0nicOg2npJQYSPGO9r&amp;index=54&amp;pp=iAQB)

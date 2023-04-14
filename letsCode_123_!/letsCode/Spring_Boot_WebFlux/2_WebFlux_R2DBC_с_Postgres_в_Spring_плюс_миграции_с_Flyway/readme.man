@@ -1,0 +1,3 @@
+# [letsCode](https://www.youtube.com/@letsCodeDru/playlists)
+## [Spring Boot WebFlux](https://www.youtube.com/playlist?list=PLU2ftbIeotGpGXRr8FHAjJrQoimWox2Uj)
+### [WebFlux. R2DBC с Postgres в Spring (плюс миграции с Flyway)](https://www.youtube.com/watch?v=8S_GSQngB-c&amp;list=PLU2ftbIeotGpGXRr8FHAjJrQoimWox2Uj&amp;index=2&amp;pp=iAQB)

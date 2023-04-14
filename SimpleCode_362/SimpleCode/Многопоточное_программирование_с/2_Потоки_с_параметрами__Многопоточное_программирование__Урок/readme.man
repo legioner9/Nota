@@ -1,0 +1,3 @@
+# [#SimpleCode](https://www.youtube.com/@SimpleCodeIT/playlists)
+## [Многопоточное программирование с++](https://www.youtube.com/playlist?list=PLQOaTSbfxUtAc_RpyDiWCHq0YTzLtVSD0)
+### [Потоки с параметрами | Многопоточное программирование | Уроки | C++ #2](https://www.youtube.com/watch?v=UEtWLpDOg68&amp;list=PLQOaTSbfxUtAc_RpyDiWCHq0YTzLtVSD0&amp;index=2&amp;pp=iAQB)

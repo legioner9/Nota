@@ -1,0 +1,3 @@
+# [#SimpleCode](https://www.youtube.com/@SimpleCodeIT/playlists)
+## [Основы C++. Программирование для начинающих.](https://www.youtube.com/playlist?list=PLQOaTSbfxUtCrKs0nicOg2npJQYSPGO9r)
+### [Что такое ascii символы. ascii что это такое? Таблица ascii c++. C ++ Для начинающих. Урок #62](https://www.youtube.com/watch?v=87n23AhQYk8&amp;list=PLQOaTSbfxUtCrKs0nicOg2npJQYSPGO9r&amp;index=74&amp;pp=iAQB)

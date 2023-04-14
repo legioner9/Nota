@@ -1,0 +1,3 @@
+# [realmanual](https://www.youtube.com/@realmanual/playlists)
+## [Отдельное и интересное](https://www.youtube.com/playlist?list=PLEFo-qGWcO2YxDAuPvVGBrabox3lhrCme)
+### [Поднимаем куб в [любом] облаке с помощью kubeOne + Terraform](https://www.youtube.com/watch?v=_M_-AICE5A8&amp;list=PLEFo-qGWcO2YxDAuPvVGBrabox3lhrCme&amp;index=11&amp;pp=iAQB)

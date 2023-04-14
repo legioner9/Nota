@@ -1,0 +1,3 @@
+# [Start Android](https://www.youtube.com/@start_android/playlists?view=1)
+## [Kotlin. Уроки по основам разработки android-приложений](https://www.youtube.com/playlist?list=PLyfVjOYzujuj20Y-3kVhT3Zro9CrMNgNS)
+### [Урок 4. Kotlin. Обработка нажатия кнопок и взаимодействие с view в android](https://www.youtube.com/watch?v=-ltXkWgLu5M&amp;list=PLyfVjOYzujuj20Y-3kVhT3Zro9CrMNgNS&amp;index=4&amp;pp=iAQB)

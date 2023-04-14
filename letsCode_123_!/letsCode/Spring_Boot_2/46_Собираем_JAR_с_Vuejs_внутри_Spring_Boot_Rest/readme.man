@@ -1,0 +1,3 @@
+# [letsCode](https://www.youtube.com/@letsCodeDru/playlists)
+## [Spring Boot 2](https://www.youtube.com/playlist?list=PLU2ftbIeotGpAYRP9Iv2KLIwK36-o_qYk)
+### [Собираем JAR с Vue.js внутри. Spring Boot Rest](https://www.youtube.com/watch?v=zZ7Z7aL2WFk&amp;list=PLU2ftbIeotGpAYRP9Iv2KLIwK36-o_qYk&amp;index=46&amp;pp=iAQB)

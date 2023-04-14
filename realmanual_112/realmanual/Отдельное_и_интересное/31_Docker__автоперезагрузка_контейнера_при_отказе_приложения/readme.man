@@ -1,0 +1,3 @@
+# [realmanual](https://www.youtube.com/@realmanual/playlists)
+## [Отдельное и интересное](https://www.youtube.com/playlist?list=PLEFo-qGWcO2YxDAuPvVGBrabox3lhrCme)
+### [Docker - автоперезагрузка контейнера при отказе приложения](https://www.youtube.com/watch?v=2SEZNnT6VO4&amp;list=PLEFo-qGWcO2YxDAuPvVGBrabox3lhrCme&amp;index=31&amp;pp=iAQB)

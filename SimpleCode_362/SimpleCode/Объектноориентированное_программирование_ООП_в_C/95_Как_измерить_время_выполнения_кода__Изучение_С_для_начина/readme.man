@@ -1,0 +1,3 @@
+# [#SimpleCode](https://www.youtube.com/@SimpleCodeIT/playlists)
+## [Объектно-ориентированное программирование (ООП) в C++](https://www.youtube.com/playlist?list=PLQOaTSbfxUtBm7DxblJZShqBQnBAVzlXX)
+### [Как измерить время выполнения кода | Изучение С++ для начинающих. Урок #145](https://www.youtube.com/watch?v=bN6dfoGK38Y&amp;list=PLQOaTSbfxUtBm7DxblJZShqBQnBAVzlXX&amp;index=95&amp;pp=iAQB)

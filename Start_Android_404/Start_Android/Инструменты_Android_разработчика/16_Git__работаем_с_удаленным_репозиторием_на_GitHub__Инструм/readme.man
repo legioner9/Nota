@@ -1,0 +1,3 @@
+# [Start Android](https://www.youtube.com/@start_android/playlists?view=1)
+## [Инструменты Android разработчика](https://www.youtube.com/playlist?list=PLyfVjOYzujugEUT-7gYhONqB5Y1xszpCq)
+### [Git - работаем с удаленным репозиторием на GitHub | Инструменты android разработчика](https://www.youtube.com/watch?v=6dytzOEXAz4&amp;list=PLyfVjOYzujugEUT-7gYhONqB5Y1xszpCq&amp;index=16&amp;pp=iAQB)

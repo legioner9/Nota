@@ -1,0 +1,3 @@
+# [Start Android](https://www.youtube.com/@start_android/playlists?view=1)
+## [Kotlin. Уроки по основам разработки android-приложений](https://www.youtube.com/playlist?list=PLyfVjOYzujuj20Y-3kVhT3Zro9CrMNgNS)
+### [Урок 11. Принципы навигации внутри и между андроид-приложениями](https://www.youtube.com/watch?v=g9x6OI66B48&amp;list=PLyfVjOYzujuj20Y-3kVhT3Zro9CrMNgNS&amp;index=11&amp;pp=iAQB)

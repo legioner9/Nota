@@ -1,0 +1,3 @@
+# [#SimpleCode](https://www.youtube.com/@SimpleCodeIT/playlists)
+## [web разработка](https://www.youtube.com/playlist?list=PLQOaTSbfxUtB4yXAyTLvI1QQf8wEEOkl5)
+### [Структура html документа. Атрибут html тега. Параметры тега. HTML5 для начинающих. Урок#3](https://www.youtube.com/watch?v=yqtMByl321M&amp;list=PLQOaTSbfxUtB4yXAyTLvI1QQf8wEEOkl5&amp;index=5&amp;pp=iAQB)

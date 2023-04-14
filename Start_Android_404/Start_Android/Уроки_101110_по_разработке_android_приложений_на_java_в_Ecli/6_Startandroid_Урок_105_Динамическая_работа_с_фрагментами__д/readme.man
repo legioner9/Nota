@@ -1,0 +1,3 @@
+# [Start Android](https://www.youtube.com/@start_android/playlists?view=1)
+## [Уроки 101-110 по разработке android приложений на java в Eclipse и Android Studio (startandroid)](https://www.youtube.com/playlist?list=PLyfVjOYzujuiXQ0_8KfsGIG6zn95Jo7ZK)
+### [Startandroid: Урок 105. Динамическая работа с фрагментами - добавление, удаление, замена](https://www.youtube.com/watch?v=ula2EDI1d_o&amp;list=PLyfVjOYzujuiXQ0_8KfsGIG6zn95Jo7ZK&amp;index=6&amp;pp=iAQB)

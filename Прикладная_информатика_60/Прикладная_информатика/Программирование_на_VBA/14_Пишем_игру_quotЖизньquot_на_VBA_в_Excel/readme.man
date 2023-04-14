@@ -1,0 +1,3 @@
+# [Прикладная информатика](https://www.youtube.com/@user-pt9ld4zt9j/playlists)
+## [Программирование на VBA](https://www.youtube.com/playlist?list=PLPniQm_0TXzuLzjsyNefLCxn5hfRiOfsk)
+### [Пишем игру &quot;Жизнь&quot; на VBA в Excel](https://www.youtube.com/watch?v=nXusyCsXm2o&amp;list=PLPniQm_0TXzuLzjsyNefLCxn5hfRiOfsk&amp;index=14&amp;pp=iAQB)

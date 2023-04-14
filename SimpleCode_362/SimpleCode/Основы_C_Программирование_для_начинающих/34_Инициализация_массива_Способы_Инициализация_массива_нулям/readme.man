@@ -1,0 +1,3 @@
+# [#SimpleCode](https://www.youtube.com/@SimpleCodeIT/playlists)
+## [Основы C++. Программирование для начинающих.](https://www.youtube.com/playlist?list=PLQOaTSbfxUtCrKs0nicOg2npJQYSPGO9r)
+### [Инициализация массива. Способы. Инициализация массива нулями. C++ для начинающих. Урок #26.](https://www.youtube.com/watch?v=7q-SbRdW_24&amp;list=PLQOaTSbfxUtCrKs0nicOg2npJQYSPGO9r&amp;index=34&amp;pp=iAQB)

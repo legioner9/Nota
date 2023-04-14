@@ -1,0 +1,3 @@
+# [#SimpleCode](https://www.youtube.com/@SimpleCodeIT/playlists)
+## [Основы C++. Программирование для начинающих.](https://www.youtube.com/playlist?list=PLQOaTSbfxUtCrKs0nicOg2npJQYSPGO9r)
+### [Константы. Ключевое слово const. C++ для начинающих. Урок #6.](https://www.youtube.com/watch?v=RkrCWn3_p1Y&amp;list=PLQOaTSbfxUtCrKs0nicOg2npJQYSPGO9r&amp;index=8&amp;pp=iAQB)

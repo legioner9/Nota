@@ -1,0 +1,3 @@
+# [letsCode](https://www.youtube.com/@letsCodeDru/playlists)
+## [Spring Boot MVC (Sweater app)](https://www.youtube.com/playlist?list=PLU2ftbIeotGoGSEUf54LQH-DgiQPF2XRO)
+### [Spring Boot JPA (Hibernate): добавляем базу данных в веб приложение на Java (простой сайт)](https://www.youtube.com/watch?v=nyFLX3q3poY&amp;list=PLU2ftbIeotGoGSEUf54LQH-DgiQPF2XRO&amp;index=2&amp;pp=iAQB)

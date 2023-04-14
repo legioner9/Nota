@@ -1,0 +1,3 @@
+# [letsCode](https://www.youtube.com/@letsCodeDru/playlists)
+## [Spring Boot 2](https://www.youtube.com/playlist?list=PLU2ftbIeotGpAYRP9Iv2KLIwK36-o_qYk)
+### [Spring Boot: постраничное отображение длинных списков (pagination)](https://www.youtube.com/watch?v=Sc3EQBy0tuk&amp;list=PLU2ftbIeotGpAYRP9Iv2KLIwK36-o_qYk&amp;index=28&amp;pp=iAQB)

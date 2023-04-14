@@ -1,0 +1,3 @@
+# [letsCode](https://www.youtube.com/@letsCodeDru/playlists)
+## [Spring Boot 2](https://www.youtube.com/playlist?list=PLU2ftbIeotGpAYRP9Iv2KLIwK36-o_qYk)
+### [Vue.js - отображение и изменение данных с сервера (часть 2). Spring Boot REST](https://www.youtube.com/watch?v=E0S1ZrQP0-Y&amp;list=PLU2ftbIeotGpAYRP9Iv2KLIwK36-o_qYk&amp;index=21&amp;pp=iAQB)

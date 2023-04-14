@@ -1,0 +1,3 @@
+# [letsCode](https://www.youtube.com/@letsCodeDru/playlists)
+## [полезняшки](https://www.youtube.com/playlist?list=PLU2ftbIeotGpewHtUVXBGfxywja3Ko-eA)
+### [Pyenv: установка Python, управление окружениями (virtualenv)](https://www.youtube.com/watch?v=5DuudrU7jK0&amp;list=PLU2ftbIeotGpewHtUVXBGfxywja3Ko-eA&amp;index=4&amp;pp=iAQB)

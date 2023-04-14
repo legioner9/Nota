@@ -1,0 +1,3 @@
+# [#SimpleCode](https://www.youtube.com/@SimpleCodeIT/playlists)
+## [C# ПЛЮШКИ](https://www.youtube.com/playlist?list=PLQOaTSbfxUtAMJaKWZbAUHFIUTdFHBESE)
+### [На что способен один искусственный нейрон | Написал искусственный нейрон на C# с нуля.](https://www.youtube.com/watch?v=k4FkXs-J3VM&amp;list=PLQOaTSbfxUtAMJaKWZbAUHFIUTdFHBESE&amp;index=15&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [Start Android](https://www.youtube.com/@start_android/playlists?view=1)
+## [Уроки по основам разработки android-приложений на Java](https://www.youtube.com/playlist?list=PLyfVjOYzujugap6Rf3ETNKkx4v9ePllNK)
+### [android: Урок 57. GridView и его атрибуты (андроид программирование, видео уроки)](https://www.youtube.com/watch?v=-qyoTpL3uTE&amp;list=PLyfVjOYzujugap6Rf3ETNKkx4v9ePllNK&amp;index=59&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [realmanual](https://www.youtube.com/@realmanual/playlists)
+## [Виртуализация: Exsi](https://www.youtube.com/playlist?list=PLEFo-qGWcO2Z64XxWiormbqSxinXxva7L)
+### [Esxi: меняем размер диска виртуальной машины на лету](https://www.youtube.com/watch?v=Vcd85SjaK5o&amp;list=PLEFo-qGWcO2Z64XxWiormbqSxinXxva7L&amp;index=1&amp;pp=iAQB)

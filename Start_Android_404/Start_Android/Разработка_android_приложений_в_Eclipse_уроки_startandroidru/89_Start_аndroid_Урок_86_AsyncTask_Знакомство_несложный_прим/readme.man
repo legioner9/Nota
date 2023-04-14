@@ -1,0 +1,3 @@
+# [Start Android](https://www.youtube.com/@start_android/playlists?view=1)
+## [Разработка android приложений в Eclipse (уроки startandroid.ru)](https://www.youtube.com/playlist?list=PLyfVjOYzujuhLNi-AxZsW0idLj9ZChDf0)
+### [Start аndroid: Урок 86. AsyncTask. Знакомство, несложный пример (программирование под android)](https://www.youtube.com/watch?v=ks4lPf9RAPY&amp;list=PLyfVjOYzujuhLNi-AxZsW0idLj9ZChDf0&amp;index=89&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [Поддержка Сайтов :: Метод Лаб](https://www.youtube.com/@site_support/playlists)
+## [Настройка Linux](https://www.youtube.com/playlist?list=PLc7C4rck3fYuj44Uun6-XyxXw_hoyRwPj)
+### [Удобная конфигурация SSH-клиента в Linux (Ubuntu)](https://www.youtube.com/watch?v=MbywCRHpb2w&amp;list=PLc7C4rck3fYuj44Uun6-XyxXw_hoyRwPj&amp;index=4&amp;pp=iAQB)

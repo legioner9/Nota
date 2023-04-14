@@ -1,0 +1,3 @@
+# [Start Android](https://www.youtube.com/@start_android/playlists?view=1)
+## [Архитектура андроид-приложений](https://www.youtube.com/playlist?list=PLyfVjOYzujuimhohH06QBmiBVhAuTiDYA)
+### [Лекция 8 по архитектуре Android. Data Binding + MVVM](https://www.youtube.com/watch?v=ctBHl_3yFx0&amp;list=PLyfVjOYzujuimhohH06QBmiBVhAuTiDYA&amp;index=9&amp;pp=iAQB)

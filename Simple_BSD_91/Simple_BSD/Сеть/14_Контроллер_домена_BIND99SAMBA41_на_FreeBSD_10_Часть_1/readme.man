@@ -1,0 +1,3 @@
+# [Simple BSD](https://www.youtube.com/@SimpleBSD/playlists)
+## [Сеть](https://www.youtube.com/playlist?list=PLzRM84AHlOOgzGR2QYe4FPNsKxuuVOtxS)
+### [Контроллер домена BIND99+SAMBA41 на FreeBSD 10 (Часть 1)](https://www.youtube.com/watch?v=ihi7MZ5ff40&amp;list=PLzRM84AHlOOgzGR2QYe4FPNsKxuuVOtxS&amp;index=14&amp;pp=iAQB)

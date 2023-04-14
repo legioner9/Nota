@@ -1,0 +1,3 @@
+# [realmanual](https://www.youtube.com/@realmanual/playlists)
+## [Виртуализация Proxmox](https://www.youtube.com/playlist?list=PLEFo-qGWcO2bIGEy7HbLX2nWfhVj3prmL)
+### [Proxmox: Доступная виртуализация на русском (Урок 4.2 - LB Proxy)](https://www.youtube.com/watch?v=aK-E0NYgpp4&amp;list=PLEFo-qGWcO2bIGEy7HbLX2nWfhVj3prmL&amp;index=31&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [realmanual](https://www.youtube.com/@realmanual/playlists)
+## [Виртуализация Proxmox](https://www.youtube.com/playlist?list=PLEFo-qGWcO2bIGEy7HbLX2nWfhVj3prmL)
+### [Proxmox: Доступная виртуализация на русском Урок 3.2.2 Кластер: безопасность нод)](https://www.youtube.com/watch?v=UXrvmkq1gb8&amp;list=PLEFo-qGWcO2bIGEy7HbLX2nWfhVj3prmL&amp;index=27&amp;pp=iAQB)

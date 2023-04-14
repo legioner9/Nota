@@ -1,0 +1,3 @@
+# [Start Android](https://www.youtube.com/@start_android/playlists?view=1)
+## [Уроки 41-50 по разработке android приложений на java в Eclipse и Android Studio (startandroid)](https://www.youtube.com/playlist?list=PLyfVjOYzujui6RO_y_xqa3dXxv0ouxr6Z)
+### [Start Android: Урок 43. Одиночный и множественный выбор в ListView (уроки андроид программирования)](https://www.youtube.com/watch?v=sYhWaEBHoJI&amp;list=PLyfVjOYzujui6RO_y_xqa3dXxv0ouxr6Z&amp;index=3&amp;pp=iAQB)

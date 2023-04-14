@@ -1,0 +1,3 @@
+# [#SimpleCode](https://www.youtube.com/@SimpleCodeIT/playlists)
+## [Стримы](https://www.youtube.com/playlist?list=PLQOaTSbfxUtCw_ms8UJk5Dibdocup2eDa)
+### [(Стрим) Основы c++ для начинающих. Свой класс string. Стрим. #SimpleCode. Часть 1.](https://www.youtube.com/watch?v=Y3GGqqXlPQI&amp;list=PLQOaTSbfxUtCw_ms8UJk5Dibdocup2eDa&amp;index=1&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [Start Android](https://www.youtube.com/@start_android/playlists?view=1)
+## [Часто встречающиеся проблемы и ошибки при разработке android приложений](https://www.youtube.com/playlist?list=PLyfVjOYzujugjnCvSOhMvbCuvWIyDAqei)
+### [Нет файлов в папках layout и src. Что делать?](https://www.youtube.com/watch?v=hIkQkx3Ec_0&amp;list=PLyfVjOYzujugjnCvSOhMvbCuvWIyDAqei&amp;index=1&amp;pp=iAQB)

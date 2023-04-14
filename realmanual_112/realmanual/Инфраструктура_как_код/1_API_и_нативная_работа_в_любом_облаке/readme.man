@@ -1,0 +1,3 @@
+# [realmanual](https://www.youtube.com/@realmanual/playlists)
+## [Инфраструктура как код](https://www.youtube.com/playlist?list=PLEFo-qGWcO2aU4gfK86LBCO2HmhwEy6gq)
+### [API и нативная работа в любом облаке](https://www.youtube.com/watch?v=D85Uywd8cPY&amp;list=PLEFo-qGWcO2aU4gfK86LBCO2HmhwEy6gq&amp;index=1&amp;pp=iAQB)

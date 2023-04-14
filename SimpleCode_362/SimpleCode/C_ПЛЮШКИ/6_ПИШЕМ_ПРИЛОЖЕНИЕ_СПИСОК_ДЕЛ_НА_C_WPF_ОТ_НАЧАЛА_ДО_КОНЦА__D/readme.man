@@ -1,0 +1,3 @@
+# [#SimpleCode](https://www.youtube.com/@SimpleCodeIT/playlists)
+## [C# ПЛЮШКИ](https://www.youtube.com/playlist?list=PLQOaTSbfxUtAMJaKWZbAUHFIUTdFHBESE)
+### [ПИШЕМ ПРИЛОЖЕНИЕ СПИСОК ДЕЛ НА C# WPF ОТ НАЧАЛА ДО КОНЦА | DATAGRID | JSON ПАРСИНГ РАБОТА С ФАЙЛАМИ](https://www.youtube.com/watch?v=Mb3S2IK3NzI&amp;list=PLQOaTSbfxUtAMJaKWZbAUHFIUTdFHBESE&amp;index=6&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+### [Animation download using WaveLoadingView in android application](https://www.youtube.com/watch?v=zrbMiHa8n9I&amp;list=PLyfVjOYzujuhhD7jWwzKPy0LPqdJJMae9&amp;index=1&amp;pp=iAQB)
+### [Protection android applications using pincode](https://www.youtube.com/watch?v=RUhwlHKj5Zo&amp;list=PLyfVjOYzujuhhD7jWwzKPy0LPqdJJMae9&amp;index=2&amp;pp=iAQB)
+### [SlideUp-Android library](https://www.youtube.com/watch?v=9vb6bRO1GNA&amp;list=PLyfVjOYzujuhhD7jWwzKPy0LPqdJJMae9&amp;index=3&amp;pp=iAQB)

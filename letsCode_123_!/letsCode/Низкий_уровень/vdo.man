@@ -1,0 +1,3 @@
+### [HTTP протокол на пальцах](https://www.youtube.com/watch?v=C_QZtajkDf0&amp;list=PLU2ftbIeotGqAsdnHMfY5bAKjGzS_yrdD&amp;index=1&amp;pp=iAQB)
+### [Простой HTTP сервер. #1](https://www.youtube.com/watch?v=qwR6XsLaAY0&amp;list=PLU2ftbIeotGqAsdnHMfY5bAKjGzS_yrdD&amp;index=2&amp;pp=iAQB)
+### [Обработка HTTP запросов. Простой HTTP сервер. #2](https://www.youtube.com/watch?v=N7Aoroq_LBI&amp;list=PLU2ftbIeotGqAsdnHMfY5bAKjGzS_yrdD&amp;index=3&amp;pp=iAQB)

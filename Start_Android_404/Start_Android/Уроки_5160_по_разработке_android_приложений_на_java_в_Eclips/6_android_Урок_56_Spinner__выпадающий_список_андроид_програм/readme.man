@@ -1,0 +1,3 @@
+# [Start Android](https://www.youtube.com/@start_android/playlists?view=1)
+## [Уроки 51-60 по разработке android приложений на java в Eclipse и Android Studio (startandroid)](https://www.youtube.com/playlist?list=PLyfVjOYzujuiWLOcUGWOGOmeAA3_HAbXG)
+### [android: Урок 56. Spinner -- выпадающий список (андроид программирование, видео уроки)](https://www.youtube.com/watch?v=gYXsSEs1khc&amp;list=PLyfVjOYzujuiWLOcUGWOGOmeAA3_HAbXG&amp;index=6&amp;pp=iAQB)

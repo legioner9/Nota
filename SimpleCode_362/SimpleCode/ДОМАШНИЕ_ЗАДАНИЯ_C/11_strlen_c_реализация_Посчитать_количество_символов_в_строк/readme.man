@@ -1,0 +1,3 @@
+# [#SimpleCode](https://www.youtube.com/@SimpleCodeIT/playlists)
+## [Домашние задания. C++](https://www.youtube.com/playlist?list=PLQOaTSbfxUtC00pId360LAcZN0f2tGLcI)
+### [strlen c++ реализация. Посчитать количество символов в строке c++ ДЗ#11](https://www.youtube.com/watch?v=hFqXg1yjG6M&amp;list=PLQOaTSbfxUtC00pId360LAcZN0f2tGLcI&amp;index=11&amp;pp=iAQB)

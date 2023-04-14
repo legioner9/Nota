@@ -1,0 +1,3 @@
+# [#SimpleCode](https://www.youtube.com/@SimpleCodeIT/playlists)
+## [Основы C++. Программирование для начинающих.](https://www.youtube.com/playlist?list=PLQOaTSbfxUtCrKs0nicOg2npJQYSPGO9r)
+### [Escape - последовательности.  Как использовать. C++ для начинающих. Урок #3.](https://www.youtube.com/watch?v=DY7p1IDIioM&amp;list=PLQOaTSbfxUtCrKs0nicOg2npJQYSPGO9r&amp;index=5&amp;pp=iAQB)

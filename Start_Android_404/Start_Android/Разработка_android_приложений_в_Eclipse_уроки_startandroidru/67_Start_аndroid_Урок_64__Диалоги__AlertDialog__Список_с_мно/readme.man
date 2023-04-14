@@ -1,0 +1,3 @@
+# [Start Android](https://www.youtube.com/@start_android/playlists?view=1)
+## [Разработка android приложений в Eclipse (уроки startandroid.ru)](https://www.youtube.com/playlist?list=PLyfVjOYzujuhLNi-AxZsW0idLj9ZChDf0)
+### [Start аndroid: Урок 64  Диалоги  AlertDialog  Список с множественным выбором](https://www.youtube.com/watch?v=O0pCa9K6Gl8&amp;list=PLyfVjOYzujuhLNi-AxZsW0idLj9ZChDf0&amp;index=67&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [#SimpleCode](https://www.youtube.com/@SimpleCodeIT/playlists)
+## [Основы C++. Программирование для начинающих.](https://www.youtube.com/playlist?list=PLQOaTSbfxUtCrKs0nicOg2npJQYSPGO9r)
+### [Visual studio где exe. Как сделать exe файл в visual studio. Как скомпилировать cpp в exe. Урок #20.](https://www.youtube.com/watch?v=M5PwIoz2Fco&amp;list=PLQOaTSbfxUtCrKs0nicOg2npJQYSPGO9r&amp;index=27&amp;pp=iAQB)

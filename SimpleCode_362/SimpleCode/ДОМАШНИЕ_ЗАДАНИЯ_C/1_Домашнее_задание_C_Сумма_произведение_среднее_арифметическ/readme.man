@@ -1,0 +1,3 @@
+# [#SimpleCode](https://www.youtube.com/@SimpleCodeIT/playlists)
+## [Домашние задания. C++](https://www.youtube.com/playlist?list=PLQOaTSbfxUtC00pId360LAcZN0f2tGLcI)
+### [Домашнее задание. C++. Сумма, произведение, среднее арифметическое чисел.](https://www.youtube.com/watch?v=dCFUZ43IL5w&amp;list=PLQOaTSbfxUtC00pId360LAcZN0f2tGLcI&amp;index=1&amp;pp=iAQB)

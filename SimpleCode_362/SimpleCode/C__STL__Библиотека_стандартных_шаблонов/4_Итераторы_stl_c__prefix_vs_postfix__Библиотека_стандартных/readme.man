@@ -1,0 +1,3 @@
+# [#SimpleCode](https://www.youtube.com/@SimpleCodeIT/playlists)
+## [C++ | STL | Библиотека стандартных шаблонов](https://www.youtube.com/playlist?list=PLQOaTSbfxUtDWAtIYme5MLZ1l0GTyUYkB)
+### [Итераторы stl c++ | prefix vs postfix | Библиотека стандартных шаблонов (stl) | Уроки | C++ | #4](https://www.youtube.com/watch?v=rOERRxd5Mqc&amp;list=PLQOaTSbfxUtDWAtIYme5MLZ1l0GTyUYkB&amp;index=4&amp;pp=iAQB)

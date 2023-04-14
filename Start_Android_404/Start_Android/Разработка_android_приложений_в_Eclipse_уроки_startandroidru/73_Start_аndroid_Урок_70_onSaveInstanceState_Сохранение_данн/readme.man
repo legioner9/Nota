@@ -1,0 +1,3 @@
+# [Start Android](https://www.youtube.com/@start_android/playlists?view=1)
+## [Разработка android приложений в Eclipse (уроки startandroid.ru)](https://www.youtube.com/playlist?list=PLyfVjOYzujuhLNi-AxZsW0idLj9ZChDf0)
+### [Start аndroid: Урок 70. onSaveInstanceState. Сохранение данных Activity при повороте экрана](https://www.youtube.com/watch?v=3oMi4J0TM0s&amp;list=PLyfVjOYzujuhLNi-AxZsW0idLj9ZChDf0&amp;index=73&amp;pp=iAQB)

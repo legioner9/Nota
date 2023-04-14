@@ -1,0 +1,3 @@
+# [#SimpleCode](https://www.youtube.com/@SimpleCodeIT/playlists)
+## [Основы C++. Программирование для начинающих.](https://www.youtube.com/playlist?list=PLQOaTSbfxUtCrKs0nicOg2npJQYSPGO9r)
+### [Двумерный массив что это. Многомерные массивы. Пример. Теория. Что такое массив. Array. C++ #30](https://www.youtube.com/watch?v=JWx_FYIRaVI&amp;list=PLQOaTSbfxUtCrKs0nicOg2npJQYSPGO9r&amp;index=40&amp;pp=iAQB)

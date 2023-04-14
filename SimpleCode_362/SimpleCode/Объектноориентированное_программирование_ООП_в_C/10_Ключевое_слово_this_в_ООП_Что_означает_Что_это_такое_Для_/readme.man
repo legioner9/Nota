@@ -1,0 +1,3 @@
+# [#SimpleCode](https://www.youtube.com/@SimpleCodeIT/playlists)
+## [Объектно-ориентированное программирование (ООП) в C++](https://www.youtube.com/playlist?list=PLQOaTSbfxUtBm7DxblJZShqBQnBAVzlXX)
+### [Ключевое слово this в ООП. Что означает. Что это такое. Для чего нужен this указатель C++ #81](https://www.youtube.com/watch?v=2rv_s1j5pHE&amp;list=PLQOaTSbfxUtBm7DxblJZShqBQnBAVzlXX&amp;index=10&amp;pp=iAQB)

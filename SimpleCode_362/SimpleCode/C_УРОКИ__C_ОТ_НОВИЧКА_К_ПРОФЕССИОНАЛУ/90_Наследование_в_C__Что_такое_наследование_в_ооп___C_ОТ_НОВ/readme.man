@@ -1,0 +1,3 @@
+# [#SimpleCode](https://www.youtube.com/@SimpleCodeIT/playlists)
+## [C# УРОКИ | C# ОТ НОВИЧКА К ПРОФЕССИОНАЛУ](https://www.youtube.com/playlist?list=PLQOaTSbfxUtD6kMmAYc8Fooqya3pjLs1N)
+### [Наследование в C# | Что такое наследование в ооп  | C# ОТ НОВИЧКА К ПРОФЕССИОНАЛУ | # 71](https://www.youtube.com/watch?v=9JaiDu6DJ-o&amp;list=PLQOaTSbfxUtD6kMmAYc8Fooqya3pjLs1N&amp;index=90&amp;pp=iAQB)

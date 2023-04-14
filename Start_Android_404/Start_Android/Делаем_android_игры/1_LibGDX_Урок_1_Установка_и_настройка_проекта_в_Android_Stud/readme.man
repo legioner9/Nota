@@ -1,0 +1,3 @@
+# [Start Android](https://www.youtube.com/@start_android/playlists?view=1)
+## [Делаем android игры](https://www.youtube.com/playlist?list=PLyfVjOYzujuisikez6McGsBtKviTa_lty)
+### [LibGDX: Урок 1. Установка и настройка проекта в Android Studio | Делаем android игры](https://www.youtube.com/watch?v=e75He5HE9iE&amp;list=PLyfVjOYzujuisikez6McGsBtKviTa_lty&amp;index=1&amp;pp=iAQB)

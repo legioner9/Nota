@@ -1,0 +1,3 @@
+# [letsCode](https://www.youtube.com/@letsCodeDru/playlists)
+## [Spring Boot Rest + Vue.js](https://www.youtube.com/playlist?list=PLU2ftbIeotGqSTOVNjT4L3Yfy8jatCdhm)
+### [Бесконечная прокрутка списков. Spring Boot Rest](https://www.youtube.com/watch?v=lqQKNgFZvfI&amp;list=PLU2ftbIeotGqSTOVNjT4L3Yfy8jatCdhm&amp;index=16&amp;pp=iAQB)

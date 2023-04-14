@@ -1,0 +1,3 @@
+# [Self-hosted Guide [by UnixHost]](https://www.youtube.com/@selfhostedguide/playlists)
+## [Мануалы](https://www.youtube.com/playlist?list=PLYKYbjpqsWJc9NTl64XOcfGUf3Q23I6jg)
+### [Проблемы с отправкой почты ? Проверяем почтовый домен | Отправка почты | Настройка почты | UnixHost](https://www.youtube.com/watch?v=nJhjL5SanK4&amp;list=PLYKYbjpqsWJc9NTl64XOcfGUf3Q23I6jg&amp;index=12&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [Start Android](https://www.youtube.com/@start_android/playlists?view=1)
+## [Разработка android приложений в Eclipse (уроки startandroid.ru)](https://www.youtube.com/playlist?list=PLyfVjOYzujuhLNi-AxZsW0idLj9ZChDf0)
+### [Start Аndroid: Урок 38. Транзакции в SQLite. Небольшой FAQ по SQLite](https://www.youtube.com/watch?v=6OLGhVOM6IU&amp;list=PLyfVjOYzujuhLNi-AxZsW0idLj9ZChDf0&amp;index=41&amp;pp=iAQB)

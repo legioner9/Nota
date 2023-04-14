@@ -1,0 +1,3 @@
+# [#SimpleCode](https://www.youtube.com/@SimpleCodeIT/playlists)
+## [Основы C++. Программирование для начинающих.](https://www.youtube.com/playlist?list=PLQOaTSbfxUtCrKs0nicOg2npJQYSPGO9r)
+### [Что такое null pointer. null c++ что это. nullptr c++ что это. nullptr c++11. Урок #54](https://www.youtube.com/watch?v=aSQoBjMdp7M&amp;list=PLQOaTSbfxUtCrKs0nicOg2npJQYSPGO9r&amp;index=66&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [#SimpleCode](https://www.youtube.com/@SimpleCodeIT/playlists)
+## [Основы C++. Программирование для начинающих.](https://www.youtube.com/playlist?list=PLQOaTSbfxUtCrKs0nicOg2npJQYSPGO9r)
+### [Что такое динамическая память. Утечка памяти. Стек и куча. Статическая память. Обзорный урок #45](https://www.youtube.com/watch?v=l75xG4930bc&amp;list=PLQOaTSbfxUtCrKs0nicOg2npJQYSPGO9r&amp;index=55&amp;pp=iAQB)

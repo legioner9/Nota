@@ -1,0 +1,3 @@
+# [Start Android](https://www.youtube.com/@start_android/playlists?view=1)
+## [Уроки 141-150 по разработке андроид-приложений на java в Eclipse и Android Studio (startandroid)](https://www.youtube.com/playlist?list=PLyfVjOYzujugqpFM1GK9sK8hzZAuuXRck)
+### [Start аndroid: Урок 142. Рисование. Простые фигуры, текст (2D графика в андроид)](https://www.youtube.com/watch?v=3R6i9UJTbqQ&amp;list=PLyfVjOYzujugqpFM1GK9sK8hzZAuuXRck&amp;index=2&amp;pp=iAQB)

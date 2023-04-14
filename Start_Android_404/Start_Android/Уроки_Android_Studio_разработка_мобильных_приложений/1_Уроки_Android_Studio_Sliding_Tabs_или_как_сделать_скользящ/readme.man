@@ -1,0 +1,3 @@
+# [Start Android](https://www.youtube.com/@start_android/playlists?view=1)
+## [Уроки Android Studio: разработка мобильных приложений](https://www.youtube.com/playlist?list=PLyfVjOYzujuhBCKkhvzoyNm5SXC6MHOAo)
+### [Уроки Android Studio: Sliding Tabs, или как сделать скользящие вкладки в андроид приложении](https://www.youtube.com/watch?v=m36D0lfK7E8&amp;list=PLyfVjOYzujuhBCKkhvzoyNm5SXC6MHOAo&amp;index=1&amp;pp=iAQB)

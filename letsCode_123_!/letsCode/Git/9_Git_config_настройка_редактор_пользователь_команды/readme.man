@@ -1,0 +1,3 @@
+# [letsCode](https://www.youtube.com/@letsCodeDru/playlists)
+## [Git](https://www.youtube.com/playlist?list=PLU2ftbIeotGr_C-6t_lXH1Z3VgS5TLLdb)
+### [Git config: настройка (редактор, пользователь, команды)](https://www.youtube.com/watch?v=6k8pNsCLtFI&amp;list=PLU2ftbIeotGr_C-6t_lXH1Z3VgS5TLLdb&amp;index=9&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [#SimpleCode](https://www.youtube.com/@SimpleCodeIT/playlists)
+## [Основы C++. Программирование для начинающих.](https://www.youtube.com/playlist?list=PLQOaTSbfxUtCrKs0nicOg2npJQYSPGO9r)
+### [Передача массива в функцию. Как передать массив в функцию. C++ для начинающих. Урок #35.](https://www.youtube.com/watch?v=r1wWlUCZW08&amp;list=PLQOaTSbfxUtCrKs0nicOg2npJQYSPGO9r&amp;index=45&amp;pp=iAQB)

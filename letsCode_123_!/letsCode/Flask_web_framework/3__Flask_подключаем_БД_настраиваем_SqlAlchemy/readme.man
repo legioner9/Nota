@@ -1,0 +1,3 @@
+# [letsCode](https://www.youtube.com/@letsCodeDru/playlists)
+## [Flask web framework](https://www.youtube.com/playlist?list=PLU2ftbIeotGrVZA85M6PnXSOHY7MnTBCc)
+### [⚗ Flask: подключаем БД, настраиваем SqlAlchemy](https://www.youtube.com/watch?v=lBOq1_blG_8&amp;list=PLU2ftbIeotGrVZA85M6PnXSOHY7MnTBCc&amp;index=3&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [Simple BSD](https://www.youtube.com/@SimpleBSD/playlists)
+## [Система](https://www.youtube.com/playlist?list=PLzRM84AHlOOjx7RbWiyYNnjJ2RzZjkTrd)
+### [Настройка хоста x86 Jail на FreeBSD x64](https://www.youtube.com/watch?v=bEAAvSaC0nI&amp;list=PLzRM84AHlOOjx7RbWiyYNnjJ2RzZjkTrd&amp;index=15&amp;pp=iAQB)

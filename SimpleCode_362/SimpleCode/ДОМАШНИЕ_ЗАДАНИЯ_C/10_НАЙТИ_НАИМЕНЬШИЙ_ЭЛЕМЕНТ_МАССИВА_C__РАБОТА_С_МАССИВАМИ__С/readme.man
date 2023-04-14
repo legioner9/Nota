@@ -1,0 +1,3 @@
+# [#SimpleCode](https://www.youtube.com/@SimpleCodeIT/playlists)
+## [ДОМАШНИЕ ЗАДАНИЯ C#](https://www.youtube.com/playlist?list=PLQOaTSbfxUtCd6HvVbeZbDFSHXK4MCWAN)
+### [НАЙТИ НАИМЕНЬШИЙ ЭЛЕМЕНТ МАССИВА C# | РАБОТА С МАССИВАМИ | СИ ШАРП УРОКИ | ДОМАШНИЕ ЗАДАНИЯ # 9](https://www.youtube.com/watch?v=YN7P5y12FfE&amp;list=PLQOaTSbfxUtCd6HvVbeZbDFSHXK4MCWAN&amp;index=10&amp;pp=iAQB)

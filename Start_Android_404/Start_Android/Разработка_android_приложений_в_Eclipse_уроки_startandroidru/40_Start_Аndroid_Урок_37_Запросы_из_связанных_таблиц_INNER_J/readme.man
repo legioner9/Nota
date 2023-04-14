@@ -1,0 +1,3 @@
+# [Start Android](https://www.youtube.com/@start_android/playlists?view=1)
+## [Разработка android приложений в Eclipse (уроки startandroid.ru)](https://www.youtube.com/playlist?list=PLyfVjOYzujuhLNi-AxZsW0idLj9ZChDf0)
+### [Start Аndroid: Урок 37. Запросы из связанных таблиц. INNER JOIN в SQLite. Метод rawQuery](https://www.youtube.com/watch?v=Vt7Tzam7eZY&amp;list=PLyfVjOYzujuhLNi-AxZsW0idLj9ZChDf0&amp;index=40&amp;pp=iAQB)

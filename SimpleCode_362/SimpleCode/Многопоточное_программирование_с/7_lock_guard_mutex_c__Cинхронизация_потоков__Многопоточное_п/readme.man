@@ -1,0 +1,3 @@
+# [#SimpleCode](https://www.youtube.com/@SimpleCodeIT/playlists)
+## [Многопоточное программирование с++](https://www.youtube.com/playlist?list=PLQOaTSbfxUtAc_RpyDiWCHq0YTzLtVSD0)
+### [lock_guard mutex c++ | Cинхронизация потоков | Многопоточное программирование | C++ #7](https://www.youtube.com/watch?v=XDuSaRGeIx4&amp;list=PLQOaTSbfxUtAc_RpyDiWCHq0YTzLtVSD0&amp;index=7&amp;pp=iAQB)

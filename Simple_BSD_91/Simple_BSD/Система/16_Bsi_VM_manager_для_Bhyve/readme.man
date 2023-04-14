@@ -1,0 +1,3 @@
+# [Simple BSD](https://www.youtube.com/@SimpleBSD/playlists)
+## [Система](https://www.youtube.com/playlist?list=PLzRM84AHlOOjx7RbWiyYNnjJ2RzZjkTrd)
+### [Bsi VM manager для Bhyve](https://www.youtube.com/watch?v=EohKGvW9pxk&amp;list=PLzRM84AHlOOjx7RbWiyYNnjJ2RzZjkTrd&amp;index=16&amp;pp=iAQB)

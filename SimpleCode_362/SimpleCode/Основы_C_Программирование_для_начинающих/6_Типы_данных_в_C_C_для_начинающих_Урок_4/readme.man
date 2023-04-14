@@ -1,0 +1,3 @@
+# [#SimpleCode](https://www.youtube.com/@SimpleCodeIT/playlists)
+## [Основы C++. Программирование для начинающих.](https://www.youtube.com/playlist?list=PLQOaTSbfxUtCrKs0nicOg2npJQYSPGO9r)
+### [Типы данных в C++. C++ для начинающих. Урок #4.](https://www.youtube.com/watch?v=pwUNLjgw7lY&amp;list=PLQOaTSbfxUtCrKs0nicOg2npJQYSPGO9r&amp;index=6&amp;pp=iAQB)

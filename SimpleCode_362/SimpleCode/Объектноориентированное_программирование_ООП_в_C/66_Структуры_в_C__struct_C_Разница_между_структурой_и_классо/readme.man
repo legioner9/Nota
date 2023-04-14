@@ -1,0 +1,3 @@
+# [#SimpleCode](https://www.youtube.com/@SimpleCodeIT/playlists)
+## [Объектно-ориентированное программирование (ООП) в C++](https://www.youtube.com/playlist?list=PLQOaTSbfxUtBm7DxblJZShqBQnBAVzlXX)
+### [Структуры в C++ | struct C++. Разница между структурой и классом. Изучение С++ для начинающих.#129](https://www.youtube.com/watch?v=EWJqZN7ifI0&amp;list=PLQOaTSbfxUtBm7DxblJZShqBQnBAVzlXX&amp;index=66&amp;pp=iAQB)

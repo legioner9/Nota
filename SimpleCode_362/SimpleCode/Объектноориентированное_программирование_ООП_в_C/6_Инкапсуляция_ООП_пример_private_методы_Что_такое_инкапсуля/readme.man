@@ -1,0 +1,3 @@
+# [#SimpleCode](https://www.youtube.com/@SimpleCodeIT/playlists)
+## [Объектно-ориентированное программирование (ООП) в C++](https://www.youtube.com/playlist?list=PLQOaTSbfxUtBm7DxblJZShqBQnBAVzlXX)
+### [Инкапсуляция ООП пример. private методы. Что такое инкапсуляция. C++ Для начинающих. Урок#77](https://www.youtube.com/watch?v=oGIJG3Vc5OU&amp;list=PLQOaTSbfxUtBm7DxblJZShqBQnBAVzlXX&amp;index=6&amp;pp=iAQB)

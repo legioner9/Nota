@@ -1,0 +1,3 @@
+# [#SimpleCode](https://www.youtube.com/@SimpleCodeIT/playlists)
+## [Основы C++. Программирование для начинающих.](https://www.youtube.com/playlist?list=PLQOaTSbfxUtCrKs0nicOg2npJQYSPGO9r)
+### [Двумерный динамический массив c++ пример. Создание, заполнение, удаление. Динамические массивы. #56](https://www.youtube.com/watch?v=UhiG8c7hmIA&amp;list=PLQOaTSbfxUtCrKs0nicOg2npJQYSPGO9r&amp;index=68&amp;pp=iAQB)

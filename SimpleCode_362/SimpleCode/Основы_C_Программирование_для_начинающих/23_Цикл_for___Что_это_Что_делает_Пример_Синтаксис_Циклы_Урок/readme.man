@@ -1,0 +1,3 @@
+# [#SimpleCode](https://www.youtube.com/@SimpleCodeIT/playlists)
+## [Основы C++. Программирование для начинающих.](https://www.youtube.com/playlist?list=PLQOaTSbfxUtCrKs0nicOg2npJQYSPGO9r)
+### [Цикл for.   Что это. Что делает. Пример. Синтаксис. Циклы. Урок #16.](https://www.youtube.com/watch?v=CJm6o82Vu2g&amp;list=PLQOaTSbfxUtCrKs0nicOg2npJQYSPGO9r&amp;index=23&amp;pp=iAQB)

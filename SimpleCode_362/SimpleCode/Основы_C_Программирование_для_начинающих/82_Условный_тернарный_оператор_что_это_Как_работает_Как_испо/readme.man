@@ -1,0 +1,3 @@
+# [#SimpleCode](https://www.youtube.com/@SimpleCodeIT/playlists)
+## [Основы C++. Программирование для начинающих.](https://www.youtube.com/playlist?list=PLQOaTSbfxUtCrKs0nicOg2npJQYSPGO9r)
+### [Условный тернарный оператор что это. Как работает. Как использовать. C ++ Для начинающих. Урок #69](https://www.youtube.com/watch?v=-wmXGCxd8-w&amp;list=PLQOaTSbfxUtCrKs0nicOg2npJQYSPGO9r&amp;index=82&amp;pp=iAQB)

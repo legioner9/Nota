@@ -1,0 +1,3 @@
+# [Simple BSD](https://www.youtube.com/@SimpleBSD/playlists)
+## [Система](https://www.youtube.com/playlist?list=PLzRM84AHlOOjx7RbWiyYNnjJ2RzZjkTrd)
+### [Gnome3 на FreeBSD 11.1-BETA1 ACER Aspire ES-111M](https://www.youtube.com/watch?v=xIV-Z8Y33do&amp;list=PLzRM84AHlOOjx7RbWiyYNnjJ2RzZjkTrd&amp;index=18&amp;pp=iAQB)

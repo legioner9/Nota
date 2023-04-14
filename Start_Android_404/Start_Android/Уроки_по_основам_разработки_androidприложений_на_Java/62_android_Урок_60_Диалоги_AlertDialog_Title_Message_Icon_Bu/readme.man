@@ -1,0 +1,3 @@
+# [Start Android](https://www.youtube.com/@start_android/playlists?view=1)
+## [Уроки по основам разработки android-приложений на Java](https://www.youtube.com/playlist?list=PLyfVjOYzujugap6Rf3ETNKkx4v9ePllNK)
+### [android: Урок 60. Диалоги. AlertDialog: Title, Message, Icon, Buttons (программирование)](https://www.youtube.com/watch?v=ZlSLg0KrRH0&amp;list=PLyfVjOYzujugap6Rf3ETNKkx4v9ePllNK&amp;index=62&amp;pp=iAQB)

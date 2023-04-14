@@ -1,0 +1,3 @@
+# [Start Android](https://www.youtube.com/@start_android/playlists?view=1)
+## [Инструменты Android разработчика](https://www.youtube.com/playlist?list=PLyfVjOYzujugEUT-7gYhONqB5Y1xszpCq)
+### [Как посмотреть исходный код android приложения? Декомпиляция .apk файла (реверс инжиниринг)](https://www.youtube.com/watch?v=25O51hDMvh8&amp;list=PLyfVjOYzujugEUT-7gYhONqB5Y1xszpCq&amp;index=7&amp;pp=iAQB)

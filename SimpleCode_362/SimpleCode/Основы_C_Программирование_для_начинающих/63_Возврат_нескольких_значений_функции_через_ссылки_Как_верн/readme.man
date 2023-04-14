@@ -1,0 +1,3 @@
+# [#SimpleCode](https://www.youtube.com/@SimpleCodeIT/playlists)
+## [Основы C++. Программирование для начинающих.](https://www.youtube.com/playlist?list=PLQOaTSbfxUtCrKs0nicOg2npJQYSPGO9r)
+### [Возврат нескольких значений функции через ссылки. Как вернуть несколько значений функции. Урок #52](https://www.youtube.com/watch?v=7btUwxD4V5s&amp;list=PLQOaTSbfxUtCrKs0nicOg2npJQYSPGO9r&amp;index=63&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [#SimpleCode](https://www.youtube.com/@SimpleCodeIT/playlists)
+## [ДОМАШНИЕ ЗАДАНИЯ C#](https://www.youtube.com/playlist?list=PLQOaTSbfxUtCd6HvVbeZbDFSHXK4MCWAN)
+### [ВЫВОД МАССИВА В ОБРАТНОМ ПОРЯДКЕ C# | РАБОТА С МАССИВАМИ | СИ ШАРП УРОКИ | ДОМАШНИЕ ЗАДАНИЯ # 7](https://www.youtube.com/watch?v=3af3DiaUL8g&amp;list=PLQOaTSbfxUtCd6HvVbeZbDFSHXK4MCWAN&amp;index=8&amp;pp=iAQB)

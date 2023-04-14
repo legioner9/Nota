@@ -1,0 +1,3 @@
+# [letsCode](https://www.youtube.com/@letsCodeDru/playlists)
+## [LibGDX](https://www.youtube.com/playlist?list=PLU2ftbIeotGoCei0rzuqa9tq0e4uVUzqx)
+### [Онлайн игра на Java #2: сервер на Spring](https://www.youtube.com/watch?v=DQ3E04FBPzo&amp;list=PLU2ftbIeotGoCei0rzuqa9tq0e4uVUzqx&amp;index=2&amp;pp=iAQB)

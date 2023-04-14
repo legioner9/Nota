@@ -1,0 +1,589 @@
+ 14.04.2023 21:59:53 done Пишем приложение на Kotlin с Jetpack Compose, REST API и Clean Architecture. Часть 1. Слой Data
+ 14.04.2023 21:59:55 done Как создать мобильное приложение на Kotlin с Jetpack Compose и Clean Architecture. Часть 2. Слой UI
+ 14.04.2023 21:59:57 done Пишем мобильное приложение на Kotlin с Jetpack Compose и Clean Architecture. Часть 3. Панель поиска
+ 14.04.2023 21:59:58 done Приложение "Книжная полка" с Jetpack Compose
+ 14.04.2023 22:00:28 done at top100crypto#5#1
+ 14.04.2023 22:00:28 done at_top100crypto#5
+ 14.04.2023 22:00:58 done at top100crypto#4#1
+ 14.04.2023 22:01:01 done at top100crypto#4#2
+ 14.04.2023 22:01:03 done at top100crypto#4#3
+ 14.04.2023 22:01:04 done at_top100crypto#4
+ 14.04.2023 22:01:34 done Как создать ANDROID приложение для сайта с PUSH уведомлениями
+ 14.04.2023 22:01:36 done Как создать андроид-приложение для социальных сетей Twitter и Facebook
+ 14.04.2023 22:01:39 done Как создать android-приложение викторина, тест, экзамен или опрос
+ 14.04.2023 22:01:41 done Как создать андроид приложение Чат мессенжер с уведомлениями - анонс нового Продвинутого курса
+ 14.04.2023 22:01:43 done Как создать андроид приложение Диктофон на языке Котлин
+ 14.04.2023 22:01:46 done Как создать андроид приложение Radio App на языке Kotlin с Jetpack Compose
+ 14.04.2023 22:01:46 done Продвинутые курсы по андроид-разработке
+ 14.04.2023 22:02:17 done Урок 1. Разработка на Kotlin. Установка Android Studio.
+ 14.04.2023 22:02:20 done Урок 2. Kotlin. Создание проекта в Android Studio и запуск приложения на андроид-устройстве
+ 14.04.2023 22:02:22 done Урок 3. Ресурсы и макеты экрана приложения, ConstraintLayout в Android Studio
+ 14.04.2023 22:02:24 done Урок 4. Kotlin. Обработка нажатия кнопок и взаимодействие с view в android
+ 14.04.2023 22:02:27 done Урок 5. Kotlin. Добавление второго экрана в android-приложение
+ 14.04.2023 22:02:29 done Урок 6. AndroidDev на Kotlin. Activity Lifecycle. Интерфейс LifecycleObserver
+ 14.04.2023 22:02:31 done Урок 7. Сохранение состояния Activity - onSaveInstanceState() или ViewModel? LiveData
+ 14.04.2023 22:02:34 done Урок 8. Android Data Binding – основы
+ 14.04.2023 22:02:36 done Урок 9.  Android Data Binding с событиями пользовательского интерфейса и наблюдаемыми данными
+ 14.04.2023 22:02:38 done Урок 10.  Android Data Binding.  Binding Adapters
+ 14.04.2023 22:02:41 done Урок 11. Принципы навигации внутри и между андроид-приложениями
+ 14.04.2023 22:02:43 done Урок 12.  Навигация в Android приложении.  Начало работы с Navigation Architecture Component
+ 14.04.2023 22:02:45 done Урок 13. Навигация в Android. Интеграция в проект, добавление пунктов назначения и переходов
+ 14.04.2023 22:02:47 done Урок 14. Навигация по условию в приложении. Android Conditional Navigation &amp; Firebase Authentication
+ 14.04.2023 22:02:50 done Урок 15. Передача данных между экранами - пунктами назначения Android Navigation. Bundle vs SafeArgs
+ 14.04.2023 22:02:52 done Урок 16. Android Navigation. Анимация переходов между экранами. Transition &amp; Animation Framework
+ 14.04.2023 22:02:54 done Урок 17. Как добавить Bottom Navigation – нижнюю панель навигации в андроид приложение
+ 14.04.2023 22:02:57 done Урок 18. Как создать слайдер экранов с использованием ViewPager2 на Kotlin
+ 14.04.2023 22:02:59 done Урок 19. Как создать андроид-приложение с вкладками – TabLayout с ViewPager2 на Kotlin
+ 14.04.2023 22:03:00 done Kotlin. Уроки по основам разработки android-приложений
+ 14.04.2023 22:03:31 done Лекция 1.  Введение в архитектуру клиент-серверных андроид-приложений
+ 14.04.2023 22:03:33 done Практика по лекции 1 курса по архитектуре андроид приложений
+ 14.04.2023 22:03:36 done Лекция 2 по архитектуре андроид-приложений. Паттерны A/B/C
+ 14.04.2023 22:03:38 done Лекция 3 по архитектуре андроид приложения. Знакомство с RxJava
+ 14.04.2023 22:03:40 done Лекция 4 по архитектуре андроид приложения. Clean Architecture
+ 14.04.2023 22:03:43 done Лекция 5 по архитектуре андроид приложения. Паттерн MVP
+ 14.04.2023 22:03:45 done Лекция 6 по архитектуре Android. Unit тестирование. Test Driven Development
+ 14.04.2023 22:03:47 done Лекция 7 по архитектуре Android. Инструментальное и UI тестирование. Espresso. Dagger 2
+ 14.04.2023 22:03:49 done Лекция 8 по архитектуре Android. Data Binding + MVVM
+ 14.04.2023 22:03:52 done Лекция 9 по архитектуре Android. Заключение
+ 14.04.2023 22:03:52 done Архитектура андроид-приложений
+ 14.04.2023 22:04:23 done Animation download using WaveLoadingView in android application
+ 14.04.2023 22:04:25 done Protection android applications using pincode
+ 14.04.2023 22:04:28 done SlideUp-Android library
+ 14.04.2023 22:04:28 done Tutorial Android Studio
+ 14.04.2023 22:04:58 done Devlight: история успеха android-разработчиков
+ 14.04.2023 22:04:59 done История успеха android-разработчиков
+ 14.04.2023 22:05:30 done Обзор антивируса Grizzly
+ 14.04.2023 22:05:32 done Как настроить пуш-уведомления на сайте (push notification)
+ 14.04.2023 22:05:34 done Grizzly vs AVG:  сравнение антивирусов
+ 14.04.2023 22:05:36 done Обзор набора программ для восстановления данных в андроид смартфоне
+ 14.04.2023 22:05:39 done Как сделать бекап ваших контактов, SMS, музыки, фото, видео с Андроид на ПК в один клик
+ 14.04.2023 22:05:41 done Как восстановить удаленные файлы с SD-карты памяти, жесткого диска ПК, флэш- и USB-накопителя?
+ 14.04.2023 22:05:43 done Как перенести контакты, календарь и медиафайлы с Android на iPhone и обратно
+ 14.04.2023 22:05:46 done Как удалить фон и лишние объекты с фотографии с помощью программы Fotofire
+ 14.04.2023 22:05:48 done Как конвертировать MOV в MP4
+ 14.04.2023 22:05:50 done Если дома телевизора нет - есть мобильное приложение ДомаТВНет!
+ 14.04.2023 22:05:53 done Как перенести WhatsApp с iphone на android; MobileTrans 5G Giveaway
+ 14.04.2023 22:05:55 done Камеры видеонаблюдения Reolink E1, Reolink Lumus и Reolink RLC-410W - распаковка и обзор
+ 14.04.2023 22:05:56 done Обзоры приложений
+ 14.04.2023 22:06:27 done How to create a flashlight app for Android (EN subtitles)
+ 14.04.2023 22:06:29 done How to create an app for android with virtual reality - we are working with VR SDK Android
+ 14.04.2023 22:06:32 done Making the application of augmented reality as a Pokemon Go (EN subtitles)
+ 14.04.2023 22:06:34 done How to create a Wi-Fi Android App Scanner (EN subtitles)
+ 14.04.2023 22:06:36 done How to create an application to read the bar code on android (EN subtitles)
+ 14.04.2023 22:06:39 done How to create an android app to chat via Firebase (EN subtitles)
+ 14.04.2023 22:06:41 done How to create an application to record the screen of your Android smartphone
+ 14.04.2023 22:06:41 done Как создать Android-приложение
+ 14.04.2023 22:07:09 done 5 incredible life hacking for your android smartphone from the android-developers
+ 14.04.2023 22:07:09 done Субботний выпуск от Андрюхи
+ 14.04.2023 22:07:40 done Обновление Android Studio 1.4 и нововведения | Дизайн андроид приложений
+ 14.04.2023 22:07:43 done FAB, Snackbar, CoordinatorLayout - все это теперь в Blank Activity | Дизайн андроид приложений
+ 14.04.2023 22:07:45 done Navigation Drawer Activity в Android Studio - структура шаблона, пример | Дизайн андроид приложений
+ 14.04.2023 22:07:47 done Scrolling Activity в Android Studio - структура шаблона, пример работы | Дизайн андроид приложений
+ 14.04.2023 22:07:49 done Android Sliding Tabs — табы или вкладки в стиле Material Design | Дизайн андроид приложений
+ 14.04.2023 22:07:52 done DayNight: configure automatic change in android themes, depending on the time of day
+ 14.04.2023 22:07:54 done Vector Drawable in Android Studio
+ 14.04.2023 22:07:56 done Vector animation in android applications (Animated Vector Drawable)
+ 14.04.2023 22:07:59 done Working with ConstraintLayout in Android Studio (EN subtitles)
+ 14.04.2023 22:08:01 done How to add Bottom Navigation View in your android app (EN subtitles)
+ 14.04.2023 22:08:03 done Custom view for menu items in Android apps (EN subtitle)
+ 14.04.2023 22:08:04 done Дизайн android приложений
+ 14.04.2023 22:08:35 done LibGDX: Урок 1. Установка и настройка проекта в Android Studio | Делаем android игры
+ 14.04.2023 22:08:37 done LibGDX: Урок 2. Немного теории | Делаем android игры
+ 14.04.2023 22:08:39 done LibGDX: Урок 3. Создаем простую игру | Делаем android игры
+ 14.04.2023 22:08:42 done LibGDX: Урок 4. Добавляем в игру экран меню и счетчик прогресса | Делаем android игры
+ 14.04.2023 22:08:44 done LibGDX: Урок 5. Пишем игру Flappy Bird для андроид | Делаем android игры
+ 14.04.2023 22:08:46 done Урок 6. Flappy Bird: создаем игровой экран и добавляем птицу | Делаем android игры на LibGDX
+ 14.04.2023 22:08:49 done Урок 7. Flappy Bird: научим птичку летать | Делаем android игры на LibGDX
+ 14.04.2023 22:08:51 done Урок 8. Flappy Bird: добавляем движущиеся трубы | Делаем android игры на LibGDX
+ 14.04.2023 22:08:53 done Lesson 9. Flappy Bird: implement collision detection bird with pipes | LibGDX
+ 14.04.2023 22:08:56 done Lesson 10. Flappy Bird: add texture to the ground and optimize the code to run the game on Android
+ 14.04.2023 22:08:58 done Lesson 11. Flappy Bird: add animation to the game | Making android games to LibGDX
+ 14.04.2023 22:09:00 done Lesson 12. Flappy Bird: add to the game sounds and screen Game Over | Making android games to LibGDX
+ 14.04.2023 22:09:01 done Делаем android игры
+ 14.04.2023 22:09:31 done Reminder - Напоминалка:  Локализация android приложения
+ 14.04.2023 22:09:31 done Улучшаем наше android приложение
+ 14.04.2023 22:10:01 done Создание андроид-приложения с картами Google Maps с использованием Google Services в Android Studio
+ 14.04.2023 22:10:02 done Создаем android-приложения
+ 14.04.2023 22:10:36 done Start Android: Channel for the development of mobile applications and games (EN subtitles)
+ 14.04.2023 22:10:38 done Lesson 2. Installing and configuring the Android Studio. Installing the JDK. Setting up Android SDK
+ 14.04.2023 22:10:41 done Lesson 3: The first android app. Structure android project. Creating emulator Android (AVD)
+ 14.04.2023 22:10:43 done Lesson 4. Activity, Layout, View, ViewGroup screen elements in android (EN subtitles)
+ 14.04.2023 22:10:45 done Урок 5. Файл макета экрана android-приложения в XML виде. Поворот устройства | Android Studio
+ 14.04.2023 22:10:48 done Урок 6. LinearLayout и RelativeLayout - особенности макетов экранов android | Android Studio
+ 14.04.2023 22:10:50 done Урок 6(2).TableLayout - особенности макетов экранов в андроид (Android Studio)
+ 14.04.2023 22:10:52 done Урок 7. Параметры элементов экрана в андроид-приложениях (Android Studio)
+ 14.04.2023 22:10:55 done Урок 8. Как управлять View-элементами экрана из java кода (Android Studio)
+ 14.04.2023 22:10:57 done Урок 9. Три cпособа обработки нажатия кнопки в мобильном приложении (Android Studio)
+ 14.04.2023 22:10:59 done Урок 10. Один обработчик (OnClickListener) для нескольких кнопок (Buttons) | Android Studio
+ 14.04.2023 22:11:02 done Урок 11. Работа с ресурсами в андроид приложении | Android Studio
+ 14.04.2023 22:11:04 done Урок 12. LogCat, логи приложения. Исключения (Exception) - обработка ошибок в коде | Android Studio
+ 14.04.2023 22:11:06 done Урок 12(2). Всплывающие сообщения (Toast Notification)   | Android Studio
+ 14.04.2023 22:11:09 done Урок 13. Меню в Андроид - добавление пунктов меню, обработка нажатия | Android Studio
+ 14.04.2023 22:11:11 done Урок 14. Menu Android: добавляем иконки и чекбоксы, программно добавляем и скрываем пункты меню
+ 14.04.2023 22:11:13 done Урок 15. Создаем контекстное меню для экранных компонентов в андроид приложениях (Android Studio)
+ 14.04.2023 22:11:16 done Урок 16. Программное создание экрана в андроид приложениях. LayoutParams | Android Studio
+ 14.04.2023 22:11:18 done Урок 17. Cоздание и удаление элементов экрана в процессе работы андроид-приложения | Android Studio
+ 14.04.2023 22:11:20 done Урок 18. Динамически меняем параметры элементов экрана в андроид-приложении | Android Studio
+ 14.04.2023 22:11:23 done Урок 19. Делаем приложение: калькулятор для андроид | Android Studio
+ 14.04.2023 22:11:25 done Урок 20. Анимация компонентов экрана андроид-приложения | Android Studio
+ 14.04.2023 22:11:27 done Урок 21. Добавление Activity - cоздание многоэкранных приложений | Android Studio
+ 14.04.2023 22:11:30 done Урок 22. Что такое Intent, Intent Filter, Context
+ 14.04.2023 22:11:32 done Урок 23. Жизненный цикл активити (Activity Lifecycle) | Уроки Android Studio
+ 14.04.2023 22:11:34 done Урок 24. Activity Lifecycle - взаимодействие двух активити | Уроки Android Studio
+ 14.04.2023 22:11:37 done Урок 25. Task и BackStack активити андроид-приложений | Уроки Android Studio
+ 14.04.2023 22:11:39 done Урок 26 Как вызвать другое Activity из приложения через Action и Intent Filter |Уроки Android Studio
+ 14.04.2023 22:11:41 done Урок 27. Создаем в одной Activity несколько Action для Intent и Intent Filter | Уроки Android Studio
+ 14.04.2023 22:11:43 done Урок 28. Передаем данные между Activity используя Intent Extras | Уроки Android Studio
+ 14.04.2023 22:11:46 done Урок 29. Вызов второго Activity с возвращением данных | Уроки Android Studio
+ 14.04.2023 22:11:48 done Урок 30. Используем requestCode и resultCode в onActivityResult | Уроки Android Studio
+ 14.04.2023 22:11:50 done Урок 31. Вызываем браузер, звонилку, карты с помощью intent с атрибутом data - Uri
+ 14.04.2023 22:11:53 done Lesson 32. Create a simple application - web browser for Android | Lessons Android Studio
+ 14.04.2023 22:11:55 done Lesson 33. SharedPreferences - data storage applications | Lessons Android Studio
+ 14.04.2023 22:11:57 done Lesson 34. Working with SQLite databases on the Android
+ 14.04.2023 22:12:00 done Урок 35. Добавление и удаление строк в базе данных SQLite в Android
+ 14.04.2023 22:12:02 done Lesson 36. Working with the SQLite database in Android, grouping, sorting, filtering
+ 14.04.2023 22:12:04 done Lesson 37. Working with the SQLite database in Android, requests from related tables
+ 14.04.2023 22:12:07 done Lesson 38. Transactions in SQLite. Using SQLiteStatement
+ 14.04.2023 22:12:09 done Start Аndroid: Урок 39. onUpgrade. Обновление базы данных в SQLite (уроки программирования андроид)
+ 14.04.2023 22:12:11 done Start Аndroid: Урок 40. LayoutInflater. Учимся использовать. (уроки по андроид программированию)
+ 14.04.2023 22:12:14 done Start Аndroid: Урок 41. Используем LayoutInflater для создания списка. (видео уроки по андроид)
+ 14.04.2023 22:12:16 done Start Аndroid: Урок 42. Список - ListView. (видео уроки по андроид   программированию)
+ 14.04.2023 22:12:18 done Start Android: Урок 43. Одиночный и множественный выбор в ListView (уроки андроид программирования)
+ 14.04.2023 22:12:21 done Start Аndroid: Урок 44. События в ListView. (видео уроки по андроид программированию)
+ 14.04.2023 22:12:23 done Start Аndroid: Урок 45. Список-дерево ExpandableListView (видео уроки по андроид программированию)
+ 14.04.2023 22:12:25 done Start Аndroid: Урок 46. События ExpandableListView (видео уроки по андроид программированию)
+ 14.04.2023 22:12:28 done Start Аndroid: Урок 47. Обзор адаптеров (видео уроки андроид программирование для чайников)
+ 14.04.2023 22:12:30 done Start Аndroid: Урок 48. Используем SimpleAdapter (видео уроки по андроид программированию)
+ 14.04.2023 22:12:32 done android: Урок 49. SimpleAdapter. Методы SetViewText и SetViewImage (программирование под   android)
+ 14.04.2023 22:12:35 done android: Урок 50. SimpleAdapter. Используем ViewBinder (андроид, основы программирования)
+ 14.04.2023 22:12:37 done android: Урок 51. SimpleAdapter, добавление и удаление записей (андроид, программирование)
+ 14.04.2023 22:12:39 done android: Урок 52. SimpleCursorAdapter, пример использования (программирование)
+ 14.04.2023 22:12:42 done android: Урок 53. SimpleCursorTreeAdapter, пример использования (программирование, видео уроки)
+ 14.04.2023 22:12:44 done android: Урок 54. Кастомизация списка. Создаем свой адаптер (BaseAdapter, android custom adapter)
+ 14.04.2023 22:12:46 done android: Урок 55. Header и Footer в списках. HeaderViewListAdapter (андроид   программирование)
+ 14.04.2023 22:12:48 done android: Урок 56. Spinner -- выпадающий список (андроид программирование, видео уроки)
+ 14.04.2023 22:12:51 done android: Урок 57. GridView и его атрибуты (андроид программирование, видео уроки)
+ 14.04.2023 22:12:53 done android: Урок 58. Диалоги. TimePickerDialog (андроид программирование, видео уроки)
+ 14.04.2023 22:12:55 done android: Урок 59. Диалоги. DatePickerDialog (андроид программирование, видео уроки)
+ 14.04.2023 22:12:58 done android: Урок 60. Диалоги. AlertDialog: Title, Message, Icon, Buttons (программирование)
+ 14.04.2023 22:13:00 done android: Урок 61. Диалоги. AlertDialog.Метод onPrepareDialog (программирование)
+ 14.04.2023 22:13:02 done Start аndroid: Урок 62. Диалоги. AlertDialog. Список (программирование под андроид)
+ 14.04.2023 22:13:05 done Start аndroid: Урок 63. Диалоги. AlertDialog. Список с одиночным выбором (андроид программирование)
+ 14.04.2023 22:13:07 done Start аndroid: Урок 64  Диалоги  AlertDialog  Список с множественным выбором
+ 14.04.2023 22:13:09 done Start аndroid: Урок 65. Диалоги. AlertDialog. Кастомизация (программирование под андроид)
+ 14.04.2023 22:13:12 done Start аndroid: Урок 66. Диалоги. Обработчики и операции (программирование под андроид)
+ 14.04.2023 22:13:14 done Start аndroid: Урок 67. Диалоги. ProgressDialog (Программирование под андроид)
+ 14.04.2023 22:13:16 done Start аndroid: Урок 68. Немного о Parcel (Программирование под андроид)
+ 14.04.2023 22:13:19 done Start аndroid: Урок 69. Передаем Parcelable объекты с помощью Intent
+ 14.04.2023 22:13:21 done Start аndroid: Урок 70. onSaveInstanceState. Сохранение данных Activity при повороте экрана
+ 14.04.2023 22:13:23 done Start аndroid: Урок 71. Preferences как настройки приложения. PreferenceActivity
+ 14.04.2023 22:13:26 done Start аndroid: Урок 72. Preferences. Список, экраны и категории
+ 14.04.2023 22:13:28 done Start аndroid: Урок 73. Preferences. Управляем активностью настроек (setEnabled)
+ 14.04.2023 22:13:30 done Start аndroid: Урок 74. Preferences. Программное создание экрана настроек
+ 14.04.2023 22:13:33 done Start аndroid: Урок 75. Хранение данных. Работа с файлами в Android
+ 14.04.2023 22:13:35 done Start аndroid: Урок 76. Tab - вкладки в андроид-приложении, общий обзор
+ 14.04.2023 22:13:37 done Start аndroid: Урок 77. Tab - вкладки. TabActivity. Activity, как содержимое вкладки
+ 14.04.2023 22:13:40 done Start аndroid: Урок 78. Tab - вкладки. TabContentFactory, ручное создание содержимого вкладки
+ 14.04.2023 22:13:42 done Start аndroid: Урок 79. XmlPullParser. Парсим XML в андроид-приложении
+ 14.04.2023 22:13:44 done Start аndroid: Урок 80. Handler. Немного теории. Наглядный пример использования
+ 14.04.2023 22:13:47 done Start аndroid: Урок 81. Handler. Посылаем простое сообщение
+ 14.04.2023 22:13:49 done Start аndroid: Урок 82. Handler. Пример с более содержательными сообщениями
+ 14.04.2023 22:13:51 done Start аndroid: Урок 83. Handler. Отложенные сообщения, удаление из очереди, Handler.Callback
+ 14.04.2023 22:13:54 done Start аndroid: Урок 84. Handler. Обработка Runnable (разработка андроид-приложений)
+ 14.04.2023 22:13:56 done Start аndroid: Урок 85. Еще несколько способов выполнения кода в UI-потоке (Android UI thread)
+ 14.04.2023 22:13:58 done Start аndroid: Урок 86. AsyncTask. Знакомство, несложный пример (программирование под android)
+ 14.04.2023 22:14:01 done Start аndroid: Урок 87. AsyncTask. Параметры. Промежуточные результаты
+ 14.04.2023 22:14:03 done Start аndroid: Урок 88. AsyncTask. Итоговый результат. Метод get (программирование под android)
+ 14.04.2023 22:14:05 done Start аndroid: Урок 89. AsyncTask. Cancel -- отменяем задачу в процессе выполнения
+ 14.04.2023 22:14:08 done Start аndroid: Урок 90. AsyncTask. Status -- статусы задачи (программирование под android)
+ 14.04.2023 22:14:10 done Start аndroid: Урок 91. AsyncTask. Поворот экрана (урок в Android Studio)
+ 14.04.2023 22:14:12 done Start аndroid: Урок 92. Service. Простой пример сервиса в андроид приложении
+ 14.04.2023 22:14:15 done Start аndroid: Урок 93. Service. Передача данных в сервис. Методы остановки сервиса
+ 14.04.2023 22:14:17 done Start аndroid: Урок 94. Service. Подробно про onStartCommand (урок в Android Studio)
+ 14.04.2023 22:14:19 done Start аndroid: Урок 95. Service. Обратная связь с помощью PendingIntent (Android Studio)
+ 14.04.2023 22:14:22 done Start аndroid: Урок 96. Service. Обратная связь с помощью BroadcastReceiver
+ 14.04.2023 22:14:24 done Start аndroid: Урок 97. Service. Биндинг. ServiceConnection (разработка приложений в Android Studio)
+ 14.04.2023 22:14:26 done Start аndroid: Урок 98. Service. Локальный биндинг (разработка приложений в Android Studio)
+ 14.04.2023 22:14:27 done Уроки по основам разработки android-приложений на Java
+ 14.04.2023 22:15:01 done Обучение разработке на Android. Урок 1. Введение.
+ 14.04.2023 22:15:03 done Урок 2.  Установка и настройка среды разработки Eclipse Android SDK
+ 14.04.2023 22:15:05 done Урок 3 (1) Создание AVD (Android Virtual Device, виртуальное андроид   устройство)
+ 14.04.2023 22:15:08 done Урок 3 (2) Первое андроид приложение. Структура Android-проекта
+ 14.04.2023 22:15:10 done Startandroid: Урок 4. Activity, Layout, View, ViewGroup. Элементы экрана в android
+ 14.04.2023 22:15:12 done Startandroid Урок 5. Layout для горизонтальной ориентации экрана. Activity в xml
+ 14.04.2023 22:15:15 done Start Аndroid: Урок 6 (1). Разработка и программирование под Андроид (видеоуроки)
+ 14.04.2023 22:15:17 done Start Аndroid: Урок 6 (2). Разработка и программирование под Андроид (видеоуроки)
+ 14.04.2023 22:15:19 done Start Аndroid: Урок 6 (3). Разработка и программирование под Андроид (видеоуроки)
+ 14.04.2023 22:15:22 done Start Аndroid: Урок 7. Разработка и программирование под Андроид (видеоуроки)
+ 14.04.2023 22:15:24 done Start Аndroid: Урок 8. Разработка и программирование под Андроид (видеоуроки)
+ 14.04.2023 22:15:26 done Start Аndroid: Урок 9. Разработка и программирование под Андроид (видеоуроки)
+ 14.04.2023 22:15:29 done Start Аndroid: Урок 10. Разработка и   программирование под Андроид (видеоуроки)
+ 14.04.2023 22:15:31 done Start Аndroid: Урок 11. Папка res/values. Используем ресурсы приложения
+ 14.04.2023 22:15:33 done Start Аndroid: Урок 12. Логи и всплывающие сообщения
+ 14.04.2023 22:15:35 done Start Аndroid: Урок 13. Создание простого меню. Android программирование (видеоуроки)
+ 14.04.2023 22:15:38 done Start Аndroid: Урок 14. Меню, группы, порядок. MenuInflater и xml-меню.
+ 14.04.2023 22:15:40 done Start Аndroid: Урок 15. Контекстное меню. Android программирование (видеоуроки)
+ 14.04.2023 22:15:42 done Start Аndroid: Урок 16. Программное создание экрана. LayoutParams.
+ 14.04.2023 22:15:45 done Start Аndroid: Урок 17. Создание View-компонент в работающем приложении Android
+ 14.04.2023 22:15:47 done Start Аndroid: Урок 18. Меняем layoutParams в рабочем приложении.
+ 14.04.2023 22:15:49 done Start Аndroid: Урок 19. Пишем простой калькулятор. Android программирование (видеоуроки)
+ 14.04.2023 22:15:52 done Start Аndroid: Урок 20. Анимация. Android программирование (видеоуроки)
+ 14.04.2023 22:15:54 done Start Аndroid: Урок 21. Создание и вызов Activity. (программирование под андроид)
+ 14.04.2023 22:15:56 done Start Аndroid: Урок 22. Intent, Intent Filter, Context - теория. (уроки по андроид)
+ 14.04.2023 22:15:59 done Start Аndroid: Урок 23. Activity Lifecycle. В каких состояниях может быть Activity
+ 14.04.2023 22:16:01 done Start Аndroid: Урок 24. Activity Lifecycle, пример смены состояний с двумя Activity
+ 14.04.2023 22:16:03 done Start Аndroid: Урок 25. Task. Что это такое и как формируется. (уроки по андроид)
+ 14.04.2023 22:16:06 done Start Аndroid: Урок 26. Intent Filter - практика. (видео уроки по андроид)
+ 14.04.2023 22:16:08 done Start Аndroid: Урок 27. Читаем action из Intent. (видео уроки по андроид программированию)
+ 14.04.2023 22:16:10 done Start Аndroid: Урок 28. Extras - передаем данные с помощью Intent. (видео уроки по андроид)
+ 14.04.2023 22:16:13 done Start Аndroid: Урок 29. Вызываем Activity и получаем результат. Метод startActivityForResult
+ 14.04.2023 22:16:15 done Start Аndroid: Урок 30. Подробнее про onActivityResult. Зачем нужны requestCode и resultCode
+ 14.04.2023 22:16:17 done Start Аndroid: Урок 31. Зачем у Intent есть атрибут data. Что такое Uri. Cистемные приложения
+ 14.04.2023 22:16:20 done Start Аndroid: Урок 32. Пишем простой браузер (видеоуроки программирования по андроид)
+ 14.04.2023 22:16:22 done Start Аndroid: Урок 33. Хранение данных. Preferences. (видеоуроки по андроид)
+ 14.04.2023 22:16:24 done Start Аndroid: Урок 34. Хранение данных. SQLite. (видео уроки программирования по андроид)
+ 14.04.2023 22:16:26 done Start Аndroid: Урок 35. Работа с базами данных SQLite. Методы update и delete с указанием условия.
+ 14.04.2023 22:16:29 done Start Аndroid: Урок 36. Работа с базами данных SQLite. Метод query. Условие, сортировка, группировка
+ 14.04.2023 22:16:31 done Start Аndroid: Урок 37. Запросы из связанных таблиц. INNER JOIN в SQLite. Метод rawQuery
+ 14.04.2023 22:16:33 done Start Аndroid: Урок 38. Транзакции в SQLite. Небольшой FAQ по SQLite
+ 14.04.2023 22:16:36 done Start Аndroid: Урок 39. onUpgrade. Обновление базы данных в SQLite (уроки программирования андроид)
+ 14.04.2023 22:16:38 done Start Аndroid: Урок 40. LayoutInflater. Учимся использовать. (уроки по андроид программированию)
+ 14.04.2023 22:16:40 done Start Аndroid: Урок 41. Используем LayoutInflater для создания списка. (видео уроки по андроид)
+ 14.04.2023 22:16:43 done Start Аndroid: Урок 42. Список - ListView. (видео уроки по андроид   программированию)
+ 14.04.2023 22:16:45 done Start Android: Урок 43. Одиночный и множественный выбор в ListView (уроки андроид программирования)
+ 14.04.2023 22:16:47 done Start Аndroid: Урок 44. События в ListView. (видео уроки по андроид программированию)
+ 14.04.2023 22:16:50 done Start Аndroid: Урок 45. Список-дерево ExpandableListView (видео уроки по андроид программированию)
+ 14.04.2023 22:16:52 done Start Аndroid: Урок 46. События ExpandableListView (видео уроки по андроид программированию)
+ 14.04.2023 22:16:54 done Start Аndroid: Урок 47. Обзор адаптеров (видео уроки андроид программирование для чайников)
+ 14.04.2023 22:16:57 done Start Аndroid: Урок 48. Используем SimpleAdapter (видео уроки по андроид программированию)
+ 14.04.2023 22:16:59 done android: Урок 49. SimpleAdapter. Методы SetViewText и SetViewImage (программирование под   android)
+ 14.04.2023 22:17:01 done android: Урок 50. SimpleAdapter. Используем ViewBinder (андроид, основы программирования)
+ 14.04.2023 22:17:04 done android: Урок 51. SimpleAdapter, добавление и удаление записей (андроид, программирование)
+ 14.04.2023 22:17:06 done android: Урок 52. SimpleCursorAdapter, пример использования (программирование)
+ 14.04.2023 22:17:08 done android: Урок 53. SimpleCursorTreeAdapter, пример использования (программирование, видео уроки)
+ 14.04.2023 22:17:11 done android: Урок 54. Кастомизация списка. Создаем свой адаптер (BaseAdapter, android custom adapter)
+ 14.04.2023 22:17:13 done android: Урок 55. Header и Footer в списках. HeaderViewListAdapter (андроид   программирование)
+ 14.04.2023 22:17:15 done android: Урок 56. Spinner -- выпадающий список (андроид программирование, видео уроки)
+ 14.04.2023 22:17:17 done android: Урок 57. GridView и его атрибуты (андроид программирование, видео уроки)
+ 14.04.2023 22:17:20 done android: Урок 58. Диалоги. TimePickerDialog (андроид программирование, видео уроки)
+ 14.04.2023 22:17:22 done android: Урок 59. Диалоги. DatePickerDialog (андроид программирование, видео уроки)
+ 14.04.2023 22:17:24 done android: Урок 60. Диалоги. AlertDialog: Title, Message, Icon, Buttons (программирование)
+ 14.04.2023 22:17:27 done android: Урок 61. Диалоги. AlertDialog.Метод onPrepareDialog (программирование)
+ 14.04.2023 22:17:29 done Start аndroid: Урок 62. Диалоги. AlertDialog. Список (программирование под андроид)
+ 14.04.2023 22:17:31 done Start аndroid: Урок 63. Диалоги. AlertDialog. Список с одиночным выбором (андроид программирование)
+ 14.04.2023 22:17:33 done Start аndroid: Урок 64  Диалоги  AlertDialog  Список с множественным выбором
+ 14.04.2023 22:17:36 done Start аndroid: Урок 65. Диалоги. AlertDialog. Кастомизация (программирование под андроид)
+ 14.04.2023 22:17:38 done Start аndroid: Урок 66. Диалоги. Обработчики и операции (программирование под андроид)
+ 14.04.2023 22:17:40 done Start аndroid: Урок 67. Диалоги. ProgressDialog (Программирование под андроид)
+ 14.04.2023 22:17:43 done Start аndroid: Урок 68. Немного о Parcel (Программирование под андроид)
+ 14.04.2023 22:17:45 done Start аndroid: Урок 69. Передаем Parcelable объекты с помощью Intent
+ 14.04.2023 22:17:47 done Start аndroid: Урок 70. onSaveInstanceState. Сохранение данных Activity при повороте экрана
+ 14.04.2023 22:17:50 done Start аndroid: Урок 71. Preferences как настройки приложения. PreferenceActivity
+ 14.04.2023 22:17:52 done Start аndroid: Урок 72. Preferences. Список, экраны и категории
+ 14.04.2023 22:17:54 done Start аndroid: Урок 73. Preferences. Управляем активностью настроек (setEnabled)
+ 14.04.2023 22:17:57 done Start аndroid: Урок 74. Preferences. Программное создание экрана настроек
+ 14.04.2023 22:17:59 done Start аndroid: Урок 75. Хранение данных. Работа с файлами в Android
+ 14.04.2023 22:18:01 done Start аndroid: Урок 76. Tab - вкладки в андроид-приложении, общий обзор
+ 14.04.2023 22:18:04 done Start аndroid: Урок 77. Tab - вкладки. TabActivity. Activity, как содержимое вкладки
+ 14.04.2023 22:18:06 done Start аndroid: Урок 78. Tab - вкладки. TabContentFactory, ручное создание содержимого вкладки
+ 14.04.2023 22:18:08 done Start аndroid: Урок 79. XmlPullParser. Парсим XML в андроид-приложении
+ 14.04.2023 22:18:10 done Start аndroid: Урок 80. Handler. Немного теории. Наглядный пример использования
+ 14.04.2023 22:18:12 done Start аndroid: Урок 81. Handler. Посылаем простое сообщение
+ 14.04.2023 22:18:15 done Start аndroid: Урок 82. Handler. Пример с более содержательными сообщениями
+ 14.04.2023 22:18:17 done Start аndroid: Урок 83. Handler. Отложенные сообщения, удаление из очереди, Handler.Callback
+ 14.04.2023 22:18:19 done Start аndroid: Урок 84. Handler. Обработка Runnable (разработка андроид-приложений)
+ 14.04.2023 22:18:22 done Start аndroid: Урок 85. Еще несколько способов выполнения кода в UI-потоке (Android UI thread)
+ 14.04.2023 22:18:24 done Start аndroid: Урок 86. AsyncTask. Знакомство, несложный пример (программирование под android)
+ 14.04.2023 22:18:26 done Start аndroid: Урок 87. AsyncTask. Параметры. Промежуточные результаты
+ 14.04.2023 22:18:28 done Start аndroid: Урок 88. AsyncTask. Итоговый результат. Метод get (программирование под android)
+ 14.04.2023 22:18:31 done Start аndroid: Урок 89. AsyncTask. Cancel -- отменяем задачу в процессе выполнения
+ 14.04.2023 22:18:33 done Start аndroid: Урок 90. AsyncTask. Status -- статусы задачи (программирование под android)
+ 14.04.2023 22:18:35 done Start аndroid: Урок 92. Service. Простой пример сервиса в андроид приложении
+ 14.04.2023 22:18:38 done Start аndroid: Урок 93. Service. Передача данных в сервис. Методы остановки сервиса
+ 14.04.2023 22:18:40 done Start Аndroid: Урок 128. Медиа. Audio Focus. Видеоуроки программирования, уроки по андроид
+ 14.04.2023 22:18:42 done Start Аndroid: Урок 129. Медиа. Запись звука с помощью MediaRecorder
+ 14.04.2023 22:18:44 done Start Аndroid: Урок 130. Медиа. Запись звука с помощью AudioRecorder.
+ 14.04.2023 22:18:47 done Start Аndroid: Урок 131. Камера. Используем системное приложение. (уроки по андроид)
+ 14.04.2023 22:18:49 done android: Урок 132. Камера. Вывод изображения на экран. Обработка поворота устройства (андроид)
+ 14.04.2023 22:18:50 done Разработка android приложений в Eclipse (уроки startandroid.ru)
+ 14.04.2023 22:19:21 done #1. Вводный курс по языку программирования JAVA. Hello World
+ 14.04.2023 22:19:23 done #2 Переменные и типы. Вводный курс JAVA
+ 14.04.2023 22:19:26 done #3 JAVA. Условные операторы. Вводный курс по языку программирования
+ 14.04.2023 22:19:28 done #4. Массивы в JAVA | Вводный курс по языку программирования
+ 14.04.2023 22:19:30 done #5. Циклы (Loops). Вводный курс по JAVA с нуля
+ 14.04.2023 22:19:32 done #6.  Методы в Java.  Видеоуроки по основам Java
+ 14.04.2023 22:19:35 done #7. Объекты и конструкторы в Java. Курс видеоуроков для начинающих
+ 14.04.2023 22:19:37 done #8. Компиляция и запуск java программы с командной строки
+ 14.04.2023 22:19:39 done Урок 9. Основы языка JAVA. Наследование в java
+ 14.04.2023 22:19:42 done Lesson 10. JAVA Basics. Exception (Exception) and their processing methods. Operators try ... catch
+ 14.04.2023 22:19:44 done Lesson 11. JAVA Basics. Abstract classes and methods in java
+ 14.04.2023 22:19:46 done Lesson 12. Java Basics. Interfaces (interface) in java
+ 14.04.2023 22:19:49 done Lesson 13. Java Basics. Callback methods (callbacks)
+ 14.04.2023 22:19:49 done Вводный курс по языку программирования JAVA для android разработчиков
+ 14.04.2023 22:20:20 done 1. Development of android applications. Installing and configuring the Android Studio (in Arabic)
+ 14.04.2023 22:20:21 done Development of android applications (in Arabic)
+ 14.04.2023 22:20:52 done Startandroid: Урок 112. Динамическое взаимодействие с ActionBar в процессе работы андроид-приложения
+ 14.04.2023 22:20:54 done Startandroid: Урок 111. PreferenceFragment - настройки. Headers - заголовки (разработка под андройд)
+ 14.04.2023 22:20:56 done Startandroid: Урок 112. Динамическое взаимодействие с ActionBar в процессе работы андроид-приложения
+ 14.04.2023 22:20:58 done Startandroid: Урок 111. PreferenceFragment - настройки. Headers - заголовки (разработка под андройд)
+ 14.04.2023 22:21:01 done Startandroid: Урок 113. ActionMode, как альтернатива контекстному меню андроид-приложения
+ 14.04.2023 22:21:03 done Startandroid|Урок 114. Support Library - поддержка новых возможностей в старых версиях Android
+ 14.04.2023 22:21:04 done Уроки 111-120
+ 14.04.2023 22:21:35 done Startandroid: Урок 101. Создаем свой ContentProvider (разработка Android приложений)
+ 14.04.2023 22:21:37 done Start android: Урок 102. Touch – обработка касания (разработка андроид приложений)
+ 14.04.2023 22:21:40 done Start android: Урок 103. MultiTouch – обработка множественных касаний
+ 14.04.2023 22:21:42 done Start android: Урок 104. Знакомство с фрагментами. Обзор Fragments Lifecycle (Android Studio)
+ 14.04.2023 22:21:44 done Startandroid: Урок 106. Взаимодействие Fragments и Activity (уроки Android Studio)
+ 14.04.2023 22:21:46 done Startandroid: Урок 105. Динамическая работа с фрагментами - добавление, удаление, замена
+ 14.04.2023 22:21:49 done Startandroid: Урок 107. Работа с ActionBar в android, размещение элементов и настройка видимости
+ 14.04.2023 22:21:51 done Startandroid: Урок 108. ActionBar. Навигация в Android - табы или выпадающий список
+ 14.04.2023 22:21:53 done Startandroid: Урок 109. Использование ListFragment для создания списка в разработке приложений
+ 14.04.2023 22:21:56 done Startandroid: Урок 110. Использование DialogFragment для создания диалогов в разработке андройд
+ 14.04.2023 22:21:56 done Уроки 101-110 по разработке android приложений на java в Eclipse и Android Studio (startandroid)
+ 14.04.2023 22:22:27 done Подкаст с android разработчиками из R.id.TEAM
+ 14.04.2023 22:22:29 done Подкаст с Дмитрием Виноградовым и Вячеславом Титовым
+ 14.04.2023 22:22:31 done Встреча с опытными разработчиками на канале Start Android: ответы на вопросы начинающих
+ 14.04.2023 22:22:32 done Подкасты с android разработчиками
+ 14.04.2023 22:23:03 done Start аndroid: Урок 91. AsyncTask. Поворот экрана (урок в Android Studio)
+ 14.04.2023 22:23:05 done Start аndroid: Урок 92. Service. Простой пример сервиса в андроид приложении
+ 14.04.2023 22:23:07 done Start аndroid: Урок 93. Service. Передача данных в сервис. Методы остановки сервиса
+ 14.04.2023 22:23:10 done Start аndroid: Урок 94. Service. Подробно про onStartCommand (урок в Android Studio)
+ 14.04.2023 22:23:12 done Start аndroid: Урок 95. Service. Обратная связь с помощью PendingIntent (Android Studio)
+ 14.04.2023 22:23:14 done Start аndroid: Урок 96. Service. Обратная связь с помощью BroadcastReceiver
+ 14.04.2023 22:23:17 done Start аndroid: Урок 97. Service. Биндинг. ServiceConnection (разработка приложений в Android Studio)
+ 14.04.2023 22:23:19 done Start аndroid: Урок 98. Service. Локальный биндинг (разработка приложений в Android Studio)
+ 14.04.2023 22:23:21 done Start аndroid: Урок 99. Service. Уведомления - notifications (разработка в Android Studio)
+ 14.04.2023 22:23:24 done Урок 100. Service. IntentService. Foreground. Автозагрузка сервиса (разработка в Android Studio)
+ 14.04.2023 22:23:24 done Уроки 91-100  по разработке андроид-приложений на java в Eclipse и Android Studio (startandroid)
+ 14.04.2023 22:23:55 done Уроки Android Studio: Sliding Tabs, или как сделать скользящие вкладки в андроид приложении
+ 14.04.2023 22:23:57 done Как сделать splashscreen в android приложении (Android Studio)
+ 14.04.2023 22:23:59 done Android runtime permissions example implementation
+ 14.04.2023 22:24:02 done Урок по созданию простого браузера в Android Studio
+ 14.04.2023 22:24:02 done Уроки Android Studio: разработка мобильных приложений
+ 14.04.2023 22:24:34 done Start аndroid: Урок 81. Handler. Посылаем простое сообщение
+ 14.04.2023 22:24:36 done Start аndroid: Урок 82. Handler. Пример с более содержательными сообщениями
+ 14.04.2023 22:24:39 done Start аndroid: Урок 83. Handler. Отложенные сообщения, удаление из очереди, Handler.Callback
+ 14.04.2023 22:24:41 done Start аndroid: Урок 84. Handler. Обработка Runnable (разработка андроид-приложений)
+ 14.04.2023 22:24:43 done Start аndroid: Урок 85. Еще несколько способов выполнения кода в UI-потоке (Android UI thread)
+ 14.04.2023 22:24:46 done Start аndroid: Урок 86. AsyncTask. Знакомство, несложный пример (программирование под android)
+ 14.04.2023 22:24:48 done Start аndroid: Урок 87. AsyncTask. Параметры. Промежуточные результаты
+ 14.04.2023 22:24:50 done Start аndroid: Урок 88. AsyncTask. Итоговый результат. Метод get (программирование под android)
+ 14.04.2023 22:24:53 done Start аndroid: Урок 89. AsyncTask. Cancel -- отменяем задачу в процессе выполнения
+ 14.04.2023 22:24:55 done Start аndroid: Урок 90. AsyncTask. Status -- статусы задачи (программирование под android)
+ 14.04.2023 22:24:56 done Уроки 81-90 по разработке андроид-приложений на java в Eclipse и Android Studio (startandroid)
+ 14.04.2023 22:25:26 done Start аndroid: Урок 71. Preferences как настройки приложения. PreferenceActivity
+ 14.04.2023 22:25:28 done Start аndroid: Урок 72. Preferences. Список, экраны и категории
+ 14.04.2023 22:25:31 done Start аndroid: Урок 73. Preferences. Управляем активностью настроек (setEnabled)
+ 14.04.2023 22:25:33 done Start аndroid: Урок 74. Preferences. Программное создание экрана настроек
+ 14.04.2023 22:25:35 done Start аndroid: Урок 75. Хранение данных. Работа с файлами в Android
+ 14.04.2023 22:25:37 done Start аndroid: Урок 76. Tab - вкладки в андроид-приложении, общий обзор
+ 14.04.2023 22:25:40 done Start аndroid: Урок 77. Tab - вкладки. TabActivity. Activity, как содержимое вкладки
+ 14.04.2023 22:25:42 done Start аndroid: Урок 78. Tab - вкладки. TabContentFactory, ручное создание содержимого вкладки
+ 14.04.2023 22:25:44 done Start аndroid: Урок 79. XmlPullParser. Парсим XML в андроид-приложении
+ 14.04.2023 22:25:47 done Start аndroid: Урок 80. Handler. Немного теории. Наглядный пример использования
+ 14.04.2023 22:25:47 done Уроки 71-80  по разработке андроид-приложений на java в Eclipse и Android Studio (startandroid)
+ 14.04.2023 22:26:18 done Нет файлов в папках layout и src. Что делать?
+ 14.04.2023 22:26:20 done Установка чистого Eclipse с подключением ADT   решение проблем со средой разработки Android
+ 14.04.2023 22:26:23 done Создание проекта в Eclipse после обновления или зачем нужен fragment main
+ 14.04.2023 22:26:25 done Интеграция эмулятора Genymotion в среде разработки Eclipse и в AndroidStudio
+ 14.04.2023 22:26:27 done Как импортировать zip-архив android проекта в Eclipse
+ 14.04.2023 22:26:30 done Включение автоматического импорта классов в java код в среде разработки Android Studio
+ 14.04.2023 22:26:32 done Куда деваются папки в Android Studio?
+ 14.04.2023 22:26:34 done Как изменить цвет текста в макете андроид приложения | Android Studio
+ 14.04.2023 22:26:37 done Как открыть стартовое окно приглашения &quot;Welcome to Android Studio&quot;
+ 14.04.2023 22:26:39 done Добавляем ToolBar вместо ActionBar в андроид-приложение ниже версии Android 5+ Lolipop
+ 14.04.2023 22:26:41 done Как прописать Activity в манифесте в Android Studio
+ 14.04.2023 22:26:44 done Как переименовать проект в Android Studio
+ 14.04.2023 22:26:44 done Часто встречающиеся проблемы и ошибки при разработке android приложений
+ 14.04.2023 22:27:14 done Start аndroid: Урок 141. Рисование. Доступ к Canvas (2D графика в андроид)
+ 14.04.2023 22:27:16 done Start аndroid: Урок 142. Рисование. Простые фигуры, текст (2D графика в андроид)
+ 14.04.2023 22:27:19 done Start аndroid: Урок 143. Рисование. Path (2D графика в андроид)
+ 14.04.2023 22:27:19 done Уроки 141-150 по разработке андроид-приложений на java в Eclipse и Android Studio (startandroid)
+ 14.04.2023 22:27:51 done Инструменты Android разработчика. Genymotion как альтернатива эмулятору Eclipse
+ 14.04.2023 22:27:53 done Включение Google Maps Android API и получение API key для разработки приложений
+ 14.04.2023 22:27:56 done Подключение Google Play services в Eclipse. Установка Google Play apps на эмулятор Genymotion
+ 14.04.2023 22:27:58 done Гайд по developer.android.com #1. Первое знакомство
+ 14.04.2023 22:28:01 done Установка Android Studiо: добавление переменной среды JAVA_HOME, создание проекта в Android Studiо
+ 14.04.2023 22:28:03 done WiFi ADB: установка apk файла на смартфон по WiFi, без USB кабеля (тестирование android приложений)
+ 14.04.2023 22:28:05 done Как посмотреть исходный код android приложения? Декомпиляция .apk файла (реверс инжиниринг)
+ 14.04.2023 22:28:08 done Как перенести проект Eclipse на Android Studio. Миграция (импорт) андроид проектов на Android Studio
+ 14.04.2023 22:28:10 done Как управлять эмулятором android без виртуальных кнопок | Разработка андроид-приложений
+ 14.04.2023 22:28:12 done Как тестировать андроид приложения на реальном устройстве. Захват видео c экрана в Android Studio
+ 14.04.2023 22:28:15 done Интеграция эмулятора Genymotion в среде разработки Eclipse и в AndroidStudio
+ 14.04.2023 22:28:17 done Подсказка (hint) FloatingLabels в EditText - Android Design Support Library
+ 14.04.2023 22:28:19 done SimpleUMLCE: UML редактор для Android Studio | Инструменты андроид разработчика
+ 14.04.2023 22:28:22 done Инструменты андроид разработчика для прототипирования интерфейса android приложений
+ 14.04.2023 22:28:24 done Git - основы работы с системой контроля версий | Инструменты android разработчика
+ 14.04.2023 22:28:26 done Git - работаем с удаленным репозиторием на GitHub | Инструменты android разработчика
+ 14.04.2023 22:28:29 done Как получить список всех установленных приложений на Android.  О платных обзорах приложений
+ 14.04.2023 22:28:31 done How to create an android application development environment without | Android Developer Tools
+ 14.04.2023 22:28:33 done ORM to simplify the work with SQLite in Android (by the example of Sugar ORM)
+ 14.04.2023 22:28:36 done Testing Instant Run in Android Studio 2.0
+ 14.04.2023 22:28:38 done Application gallery with Android Glide Image Library, RecyclerView and Volley
+ 14.04.2023 22:28:40 done Face detection in photos with Android FaceDetector.Face API (EN subtitles)
+ 14.04.2023 22:28:43 done Update Android Studio 2.2 What's New? (EN subtitles)
+ 14.04.2023 22:28:45 done Firebase in android: Push Notifications and how to implement e-mail notifications in the app
+ 14.04.2023 22:28:47 done Firebase in android: Admob, or how to add a banner to the android app (EN subtitles)
+ 14.04.2023 22:28:50 done Firebase: Authenticate users via email and password android app (EN subtitles)
+ 14.04.2023 22:28:52 done Using the Realm DB in android with a simple example (En subtitles)
+ 14.04.2023 22:28:54 done Android Device Emulator from Visual Studio (EN Subtitles)
+ 14.04.2023 22:28:55 done Инструменты Android разработчика
+ 14.04.2023 22:29:26 done аndroid gamedev #1.  Cоздание игры для андроид.  Установка движка Libgdx.  Создание проекта
+ 14.04.2023 22:29:28 done аndroid gamedev #2. Cоздание игры для андроид. Что внутри игры. Структура проекта
+ 14.04.2023 22:29:30 done аndroid gamedev #3. Cоздание игры для андроид. Texture, Region и прочие важные вещи
+ 14.04.2023 22:29:33 done аndroid gamedev #4. Cоздание игры для андроид. SpriteBatch — близкое знакомство
+ 14.04.2023 22:29:35 done аndroid gamedev #5. Cоздание игры для андроид с помощью libgdx. Actor, Stage
+ 14.04.2023 22:29:37 done аndroid gamedev #6. Класс Group. Как сделать игру для андроид с помощью libgdx
+ 14.04.2023 22:29:40 done аndroid gamedev #7. Libgdx — Game, Screen. Разрабатываем игры на андроид
+ 14.04.2023 22:29:42 done аndroid gamedev #8. Обработка ввода в Libgdx. События, обработка событий ввода
+ 14.04.2023 22:29:44 done аndroid gamedev #9. Обработка ввода в Libgdx. Обработка событий ввода классами Stage и Actor
+ 14.04.2023 22:29:47 done аndroid gamedev #10. Dark Dream Engine — расширение для libGDX. DDE — создаем первый проект
+ 14.04.2023 22:29:49 done android gamedev #11. Пишем игры для андроид. Дизайн-документ. Ресурсы, графика, текстуры, пакер
+ 14.04.2023 22:29:51 done аndroid gamedev #12. Создание игры для андроид. Автоматизируем работу с ресурсами
+ 14.04.2023 22:29:52 done Start Android gamedev, как создать игру для android, разработка игр для андроид
+ 14.04.2023 22:30:22 done android: Урок 61. Диалоги. AlertDialog.Метод onPrepareDialog (программирование)
+ 14.04.2023 22:30:25 done Start аndroid: Урок 62. Диалоги. AlertDialog. Список (программирование под андроид)
+ 14.04.2023 22:30:27 done Start аndroid: Урок 63. Диалоги. AlertDialog. Список с одиночным выбором (андроид программирование)
+ 14.04.2023 22:30:29 done Start аndroid: Урок 64  Диалоги  AlertDialog  Список с множественным выбором
+ 14.04.2023 22:30:32 done Start аndroid: Урок 65. Диалоги. AlertDialog. Кастомизация (программирование под андроид)
+ 14.04.2023 22:30:34 done Start аndroid: Урок 66. Диалоги. Обработчики и операции (программирование под андроид)
+ 14.04.2023 22:30:36 done Start аndroid: Урок 67. Диалоги. ProgressDialog (Программирование под андроид)
+ 14.04.2023 22:30:39 done Start аndroid: Урок 68. Немного о Parcel (Программирование под андроид)
+ 14.04.2023 22:30:41 done Start аndroid: Урок 70. onSaveInstanceState. Сохранение данных Activity при повороте экрана
+ 14.04.2023 22:30:41 done Уроки 61-70 по разработке android приложений на java в Eclipse и Android Studio (startandroid)
+ 14.04.2023 22:31:13 done Все на вебинар по ANDROID программированию!
+ 14.04.2023 22:31:16 done Как скачать видео уроки Start Android
+ 14.04.2023 22:31:18 done Пройди тест по Android и выбери тему будущего вебинара
+ 14.04.2023 22:31:20 done 10000 Подписчиков и Наши Ближайшие Планы (вебинары, уроки GameDev, тесты)
+ 14.04.2023 22:31:23 done Наши на конференции &quot;UA Mobile  2013&quot;
+ 14.04.2023 22:31:25 done Вячеслав Титов о UA Mobile 2013. JetBrains с Android Studio, $150000 на Kickstarter и др.
+ 14.04.2023 22:31:27 done Задай свой вопрос опытным андроид разработчикам!
+ 14.04.2023 22:31:30 done Канал Start Android поздравляет с Новым Годом!
+ 14.04.2023 22:31:32 done Все на вебинар 9 января! DDMS: продолжение
+ 14.04.2023 22:31:34 done Вебинар: Тестирование Android приложений
+ 14.04.2023 22:31:37 done С 8 марта, дорогие женщины, девушки, IT-шницы и программистки!
+ 14.04.2023 22:31:39 done Конкурс от JavaRush: играй и учи JAVA одновременно!
+ 14.04.2023 22:31:41 done Результаты конкурса JavaRush:   имена десяти победителей
+ 14.04.2023 22:31:44 done Все переходим на Android Studio, вышел официальный релиз!
+ 14.04.2023 22:31:46 done С Новым Годом! Start Android 2015
+ 14.04.2023 22:31:48 done Наш ответ IllyrianWarriors
+ 14.04.2023 22:31:51 done Удобные Часы, или кто ворует наше время и деньги?
+ 14.04.2023 22:31:53 done Worket: Новости из мира IT
+ 14.04.2023 22:31:55 done Продвинутый видеокурс по созданию реального андроид приложения
+ 14.04.2023 22:31:58 done Подробнее о Продвинутом курсе разработки android приложения
+ 14.04.2023 22:32:00 done Продвинутый курс, ответы на вопросы и подтверждение подписки
+ 14.04.2023 22:32:02 done Скачай Reminder и получи шанс выиграть бесплатный доступ к Продвинутому курсу
+ 14.04.2023 22:32:05 done Победители розыгрыша бесплатного доступа к Продвинутому курсу
+ 14.04.2023 22:32:07 done Опрос: Какие видеоуроки вы хотели бы видеть на нашем канале Start Android?
+ 14.04.2023 22:32:09 done Вебинар от R.id.team
+ 14.04.2023 22:32:12 done Акция Канала Start Android и Университета IT профессий Нетология
+ 14.04.2023 22:32:14 done Free access to advanced courses Youtube Draw Results
+ 14.04.2023 22:32:16 done ВНИМАНИЕ! Выиграй Xiaomi Mi Band 2 или доступ к Продвинутому курсу по android-разработке!
+ 14.04.2023 22:32:18 done Результаты розыгрыша Xiaomi Mi Band 2 и Продвинутых курсов
+ 14.04.2023 22:32:21 done Новый продвинутый курс по разработке игры Lunar Rover для андроид
+ 14.04.2023 22:32:23 done Продвинутый курс по созданию андроид-приложения Вконтакте
+ 14.04.2023 22:32:25 done Как создать андроид-приложение HD Обои с In-app Billing (покупки в приложении)
+ 14.04.2023 22:32:28 done Как выбрать хороший хостинг для сайта - GPDHost.com
+ 14.04.2023 22:32:28 done Новости канала Start Android
+ 14.04.2023 22:32:59 done R.id.team: Вебинар 1. Программирование под android. Знакомство
+ 14.04.2023 22:33:01 done R.id.team Вебинар 2. Android. База данных. Content Provider
+ 14.04.2023 22:33:04 done R.id.team: Вебинар 3. Внутренний мир Android. AsyncTask
+ 14.04.2023 22:33:06 done R.id.team. Android. Паттерны проектирования. Factory Method
+ 14.04.2023 22:33:08 done R.id.team. Android. Работа с World Of Tanks API. Часть 1 (eclipse git, volley, json)
+ 14.04.2023 22:33:11 done R.id.team. Android. Работа с WOT API. Часть 2 (listener, adapter, tiled background, fonts android)
+ 14.04.2023 22:33:13 done R.id.team. Android. Работа с WOT API. Часть 3 (декомпиляция apk, защита apk от декомпиляции)
+ 14.04.2023 22:33:15 done R.id.team. Android. Паттерны проектирования. Abstract Factory
+ 14.04.2023 22:33:18 done R.id.team. Android. Паттерны проектирования. Builder
+ 14.04.2023 22:33:20 done R.id.team. Android. Паттерны проектирования. Prototype
+ 14.04.2023 22:33:22 done R.id.team: Вебинар 4. Введение в Android NDK (Native Development Kit)
+ 14.04.2023 22:33:25 done Открытый урок (ответы на ваши вопросы по android разработке)
+ 14.04.2023 22:33:27 done R.id.team: Вебинар 8. Автоматизированное тестирование Android проекта
+ 14.04.2023 22:33:29 done Android Priority Job Queue на практике (Запись вебинара R.id.team)
+ 14.04.2023 22:33:30 done R id team. Программирование под Android. Разработчики делятся опытом
+ 14.04.2023 22:33:57 done android: Урок 51. SimpleAdapter, добавление и удаление записей (андроид, программирование)
+ 14.04.2023 22:34:00 done android: Урок 52. SimpleCursorAdapter, пример использования (программирование)
+ 14.04.2023 22:34:02 done android: Урок 53. SimpleCursorTreeAdapter, пример использования (программирование, видео уроки)
+ 14.04.2023 22:34:04 done android: Урок 54. Кастомизация списка. Создаем свой адаптер (BaseAdapter, android custom adapter)
+ 14.04.2023 22:34:06 done android: Урок 55. Header и Footer в списках. HeaderViewListAdapter (андроид   программирование)
+ 14.04.2023 22:34:09 done android: Урок 56. Spinner -- выпадающий список (андроид программирование, видео уроки)
+ 14.04.2023 22:34:11 done android: Урок 57. GridView и его атрибуты (андроид программирование, видео уроки)
+ 14.04.2023 22:34:13 done android: Урок 58. Диалоги. TimePickerDialog (андроид программирование, видео уроки)
+ 14.04.2023 22:34:16 done android: Урок 59. Диалоги. DatePickerDialog (андроид программирование, видео уроки)
+ 14.04.2023 22:34:18 done android: Урок 60. Диалоги. AlertDialog: Title, Message, Icon, Buttons (программирование)
+ 14.04.2023 22:34:19 done Уроки 51-60 по разработке android приложений на java в Eclipse и Android Studio (startandroid)
+ 14.04.2023 22:34:47 done Start Аndroid: Урок 41. Используем LayoutInflater для создания списка. (видео уроки по андроид)
+ 14.04.2023 22:34:49 done Start Аndroid: Урок 42. Список - ListView. (видео уроки по андроид   программированию)
+ 14.04.2023 22:34:51 done Start Android: Урок 43. Одиночный и множественный выбор в ListView (уроки андроид программирования)
+ 14.04.2023 22:34:54 done Start Аndroid: Урок 44. События в ListView. (видео уроки по андроид программированию)
+ 14.04.2023 22:34:56 done Start Аndroid: Урок 45. Список-дерево ExpandableListView (видео уроки по андроид программированию)
+ 14.04.2023 22:34:58 done Start Аndroid: Урок 46. События ExpandableListView (видео уроки по андроид программированию)
+ 14.04.2023 22:35:01 done Start Аndroid: Урок 47. Обзор адаптеров (видео уроки андроид программирование для чайников)
+ 14.04.2023 22:35:03 done Start Аndroid: Урок 48. Используем SimpleAdapter (видео уроки по андроид программированию)
+ 14.04.2023 22:35:05 done android: Урок 49. SimpleAdapter. Методы SetViewText и SetViewImage (программирование под   android)
+ 14.04.2023 22:35:08 done android: Урок 50. SimpleAdapter. Используем ViewBinder (андроид, основы программирования)
+ 14.04.2023 22:35:08 done Уроки 41-50 по разработке android приложений на java в Eclipse и Android Studio (startandroid)
+ 14.04.2023 22:35:39 done Start Аndroid: Урок 131. Камера. Используем системное приложение. (уроки по андроид)
+ 14.04.2023 22:35:41 done android: Урок 132. Камера. Вывод изображения на экран. Обработка поворота устройства (андроид)
+ 14.04.2023 22:35:43 done android: Урок 133. Камера. Делаем снимок и пишем видео (основы программирования, видео уроки)
+ 14.04.2023 22:35:46 done android: Урок 135. Loader. LoaderManager. AsyncTaskLoader (программирование)
+ 14.04.2023 22:35:48 done android: Урок 136. CursorLoader (программирование под android, на java, видео уроки)
+ 14.04.2023 22:35:50 done android: Урок 137 (часть 1). Сенсоры в андроид устройствах. Датчик освещенности. (программирование)
+ 14.04.2023 22:35:53 done android: Урок 137 (часть 2). Сенсоры в андроид устройствах. Акселерометр (программирование)
+ 14.04.2023 22:35:55 done android: Урок 137 (часть 3). Сенсоры в андроид устройствах. Ориентация (программирование)
+ 14.04.2023 22:35:57 done Start аndroid: Урок 138. Определение местоположения. GPS координаты (андроид, видео уроки)
+ 14.04.2023 22:36:00 done Start аndroid: Урок 139. Google maps: карта, камера, события (программирование под андроид)
+ 14.04.2023 22:36:02 done Start аndroid: Урок 140. Google maps. Свои объекты на карте (разработка под андроид)
+ 14.04.2023 22:36:03 done Уроки 131-140. Android программирование
+ 14.04.2023 22:36:33 done Start Аndroid: Урок 31. Зачем у Intent есть атрибут data. Что такое Uri. Cистемные приложения
+ 14.04.2023 22:36:36 done Start Аndroid: Урок 32. Пишем простой браузер (видеоуроки программирования по андроид)
+ 14.04.2023 22:36:38 done Start Аndroid: Урок 33. Хранение данных. Preferences. (видеоуроки по андроид)
+ 14.04.2023 22:36:40 done Start Аndroid: Урок 34. Хранение данных. SQLite. (видео уроки программирования по андроид)
+ 14.04.2023 22:36:43 done Start Аndroid: Урок 35. Работа с базами данных SQLite. Методы update и delete с указанием условия.
+ 14.04.2023 22:36:45 done Start Аndroid: Урок 36. Работа с базами данных SQLite. Метод query. Условие, сортировка, группировка
+ 14.04.2023 22:36:47 done Start Аndroid: Урок 37. Запросы из связанных таблиц. INNER JOIN в SQLite. Метод rawQuery
+ 14.04.2023 22:36:50 done Start Аndroid: Урок 38. Транзакции в SQLite. Небольшой FAQ по SQLite
+ 14.04.2023 22:36:52 done Start Аndroid: Урок 39. onUpgrade. Обновление базы данных в SQLite (уроки программирования андроид)
+ 14.04.2023 22:36:54 done Start Аndroid: Урок 40. LayoutInflater. Учимся использовать. (уроки по андроид программированию)
+ 14.04.2023 22:36:55 done Уроки 31-40 по разработке android приложений на java в Eclipse и Android Studio (startandroid)
+ 14.04.2023 22:37:25 done Start Аndroid: Урок 21. Создание и вызов Activity. (программирование под андроид)
+ 14.04.2023 22:37:28 done Start Аndroid: Урок 22. Intent, Intent Filter, Context - теория. (уроки по андроид)
+ 14.04.2023 22:37:30 done Start Аndroid: Урок 23. Activity Lifecycle. В каких состояниях может быть Activity
+ 14.04.2023 22:37:32 done Start Аndroid: Урок 24. Activity Lifecycle, пример смены состояний с двумя Activity
+ 14.04.2023 22:37:35 done Start Аndroid: Урок 25. Task. Что это такое и как формируется. (уроки по андроид)
+ 14.04.2023 22:37:37 done Start Аndroid: Урок 26. Intent Filter - практика. (видео уроки по андроид)
+ 14.04.2023 22:37:39 done Start Аndroid: Урок 27. Читаем action из Intent. (видео уроки по андроид программированию)
+ 14.04.2023 22:37:42 done Start Аndroid: Урок 28. Extras - передаем данные с помощью Intent. (видео уроки по андроид)
+ 14.04.2023 22:37:44 done Start Аndroid: Урок 29. Вызываем Activity и получаем результат. Метод startActivityForResult
+ 14.04.2023 22:37:46 done Start Аndroid: Урок 30. Подробнее про onActivityResult. Зачем нужны requestCode и resultCode
+ 14.04.2023 22:37:47 done Уроки 21-30 по разработке android приложений на java в Eclipse и Android Studio (startandroid)
+ 14.04.2023 22:38:17 done Start Аndroid: Урок 128. Медиа. Audio Focus. Видеоуроки программирования, уроки по андроид
+ 14.04.2023 22:38:19 done Start Аndroid: Урок 129. Медиа. Запись звука с помощью MediaRecorder
+ 14.04.2023 22:38:21 done Start Аndroid: Урок 130. Медиа. Запись звука с помощью AudioRecorder.
+ 14.04.2023 22:38:22 done Уроки 121-130 по разработке android приложений на java в Eclipse и Android Studio (startandroid)
+ 14.04.2023 22:38:52 done Start Аndroid: Урок 11. Папка res/values. Используем ресурсы приложения
+ 14.04.2023 22:38:54 done Start Аndroid: Урок 12. Логи и всплывающие сообщения
+ 14.04.2023 22:38:57 done Start Аndroid: Урок 13. Создание простого меню. Android программирование (видеоуроки)
+ 14.04.2023 22:38:59 done Start Аndroid: Урок 14. Меню, группы, порядок. MenuInflater и xml-меню.
+ 14.04.2023 22:39:02 done Start Аndroid: Урок 15. Контекстное меню. Android программирование (видеоуроки)
+ 14.04.2023 22:39:04 done Start Аndroid: Урок 16. Программное создание экрана. LayoutParams.
+ 14.04.2023 22:39:06 done Start Аndroid: Урок 17. Создание View-компонент в работающем приложении Android
+ 14.04.2023 22:39:09 done Start Аndroid: Урок 18. Меняем layoutParams в рабочем приложении.
+ 14.04.2023 22:39:11 done Start Аndroid: Урок 19. Пишем простой калькулятор. Android программирование (видеоуроки)
+ 14.04.2023 22:39:13 done Start Аndroid: Урок 20. Анимация. Android программирование (видеоуроки)
+ 14.04.2023 22:39:16 done android: Тесты к урокам 11-20 (вопросы по андроид программированию)
+ 14.04.2023 22:39:18 done android: Ответы к тестам 11-20 (вопросы по андроид программированию)
+ 14.04.2023 22:39:18 done Уроки 11-20 по разработке android приложений на java в Eclipse и Android Studio (startandroid)
+ 14.04.2023 22:39:50 done Start Android: Channel for the development of mobile applications and games (EN subtitles)
+ 14.04.2023 22:39:52 done Lesson 2. Installing and configuring the Android Studio. Installing the JDK. Setting up Android SDK
+ 14.04.2023 22:39:54 done Lesson 3: The first android app. Structure android project. Creating emulator Android (AVD)
+ 14.04.2023 22:39:57 done Lesson 4. Activity, Layout, View, ViewGroup screen elements in android (EN subtitles)
+ 14.04.2023 22:39:59 done Урок 5. Файл макета экрана android-приложения в XML виде. Поворот устройства | Android Studio
+ 14.04.2023 22:40:01 done Урок 6. LinearLayout и RelativeLayout - особенности макетов экранов android | Android Studio
+ 14.04.2023 22:40:04 done Урок 6(2).TableLayout - особенности макетов экранов в андроид (Android Studio)
+ 14.04.2023 22:40:06 done Урок 7. Параметры элементов экрана в андроид-приложениях (Android Studio)
+ 14.04.2023 22:40:08 done Урок 8. Как управлять View-элементами экрана из java кода (Android Studio)
+ 14.04.2023 22:40:11 done Урок 9. Три cпособа обработки нажатия кнопки в мобильном приложении (Android Studio)
+ 14.04.2023 22:40:13 done Урок 10. Один обработчик (OnClickListener) для нескольких кнопок (Buttons) | Android Studio
+ 14.04.2023 22:40:14 done Уроки 1-10 по разработке android приложений на java в Android Studio (startandroid)
+ 14.04.2023 22:40:14 good end 
+ 14.04.2023 22:40:14 good end 

@@ -1,0 +1,3 @@
+# [letsCode](https://www.youtube.com/@letsCodeDru/playlists)
+## [Git](https://www.youtube.com/playlist?list=PLU2ftbIeotGr_C-6t_lXH1Z3VgS5TLLdb)
+### [Git merge: слияние веток (объединение), &quot;закрытие&quot; веток (удаление влитых)](https://www.youtube.com/watch?v=aYN9BC8T2Vo&amp;list=PLU2ftbIeotGr_C-6t_lXH1Z3VgS5TLLdb&amp;index=12&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [Эльбрус Буткемп : школа программирования](https://www.youtube.com/@ElbrusBootcamp/playlists)
+## [Курс JavaScript с нуля 2023](https://www.youtube.com/playlist?list=PL8NGcSL3ZP-8V3-yddSRs1VxkXf26WhcB)
+### [Введение в JavaScript | Основы для начинающих](https://www.youtube.com/watch?v=aiBZl4VgTiQ&amp;list=PL8NGcSL3ZP-8V3-yddSRs1VxkXf26WhcB&amp;index=5&amp;pp=iAQB)

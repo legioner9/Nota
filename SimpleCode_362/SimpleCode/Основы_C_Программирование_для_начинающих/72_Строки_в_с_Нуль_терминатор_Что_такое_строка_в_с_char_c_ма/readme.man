@@ -1,0 +1,3 @@
+# [#SimpleCode](https://www.youtube.com/@SimpleCodeIT/playlists)
+## [Основы C++. Программирование для начинающих.](https://www.youtube.com/playlist?list=PLQOaTSbfxUtCrKs0nicOg2npJQYSPGO9r)
+### [Строки в с++. Нуль терминатор. Что такое строка в с++. char c++ массив. С++ Для начинающих. Урок #60](https://www.youtube.com/watch?v=lOi43MtNAe0&amp;list=PLQOaTSbfxUtCrKs0nicOg2npJQYSPGO9r&amp;index=72&amp;pp=iAQB)

@@ -1,0 +1,6 @@
+### [Как создать ANDROID приложение для сайта с PUSH уведомлениями](https://www.youtube.com/watch?v=LhkcFvZxQoQ&amp;list=PLyfVjOYzujug8ez4g6u68CXB_Ob7qpzHP&amp;index=1&amp;pp=iAQB)
+### [Как создать андроид-приложение для социальных сетей Twitter и Facebook](https://www.youtube.com/watch?v=k5lgBm7RnQQ&amp;list=PLyfVjOYzujug8ez4g6u68CXB_Ob7qpzHP&amp;index=2&amp;pp=iAQB)
+### [Как создать android-приложение викторина, тест, экзамен или опрос](https://www.youtube.com/watch?v=k_sXZeNy5jQ&amp;list=PLyfVjOYzujug8ez4g6u68CXB_Ob7qpzHP&amp;index=3&amp;pp=iAQB)
+### [Как создать андроид приложение Чат мессенжер с уведомлениями - анонс нового Продвинутого курса](https://www.youtube.com/watch?v=1tCANp8yo4U&amp;list=PLyfVjOYzujug8ez4g6u68CXB_Ob7qpzHP&amp;index=4&amp;pp=iAQB)
+### [Как создать андроид приложение Диктофон на языке Котлин](https://www.youtube.com/watch?v=nVC3gxJ_a5k&amp;list=PLyfVjOYzujug8ez4g6u68CXB_Ob7qpzHP&amp;index=5&amp;pp=iAQB)
+### [Как создать андроид приложение Radio App на языке Kotlin с Jetpack Compose](https://www.youtube.com/watch?v=QulSkzSXjyM&amp;list=PLyfVjOYzujug8ez4g6u68CXB_Ob7qpzHP&amp;index=6&amp;pp=iAQB)

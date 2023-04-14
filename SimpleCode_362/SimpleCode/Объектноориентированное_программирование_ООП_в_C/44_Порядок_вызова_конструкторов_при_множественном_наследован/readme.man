@@ -1,0 +1,3 @@
+# [#SimpleCode](https://www.youtube.com/@SimpleCodeIT/playlists)
+## [Объектно-ориентированное программирование (ООП) в C++](https://www.youtube.com/playlist?list=PLQOaTSbfxUtBm7DxblJZShqBQnBAVzlXX)
+### [Порядок вызова конструкторов при множественном наследовании. ООП.  С++ начинающих. Урок #110](https://www.youtube.com/watch?v=0LnCYMZqWwE&amp;list=PLQOaTSbfxUtBm7DxblJZShqBQnBAVzlXX&amp;index=44&amp;pp=iAQB)

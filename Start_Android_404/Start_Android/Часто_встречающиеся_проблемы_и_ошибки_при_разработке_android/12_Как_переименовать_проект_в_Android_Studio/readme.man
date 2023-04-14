@@ -1,0 +1,3 @@
+# [Start Android](https://www.youtube.com/@start_android/playlists?view=1)
+## [Часто встречающиеся проблемы и ошибки при разработке android приложений](https://www.youtube.com/playlist?list=PLyfVjOYzujugjnCvSOhMvbCuvWIyDAqei)
+### [Как переименовать проект в Android Studio](https://www.youtube.com/watch?v=fqa6NyJwA04&amp;list=PLyfVjOYzujugjnCvSOhMvbCuvWIyDAqei&amp;index=12&amp;pp=iAQB)

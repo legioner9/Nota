@@ -1,0 +1,3 @@
+# [#SimpleCode](https://www.youtube.com/@SimpleCodeIT/playlists)
+## [C# УРОКИ | C# ОТ НОВИЧКА К ПРОФЕССИОНАЛУ](https://www.youtube.com/playlist?list=PLQOaTSbfxUtD6kMmAYc8Fooqya3pjLs1N)
+### [ДВУМЕРНЫЙ МАССИВ | ОБЪЯВЛЕНИЕ | ИНИЦИАЛИЗАЦИЯ | ИНДЕКСЫ | C# ОТ НОВИЧКА К ПРОФЕССИОНАЛУ | УРОК # 30](https://www.youtube.com/watch?v=m-OHrF175pU&amp;list=PLQOaTSbfxUtD6kMmAYc8Fooqya3pjLs1N&amp;index=41&amp;pp=iAQB)

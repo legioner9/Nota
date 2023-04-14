@@ -1,0 +1,3 @@
+# [Self-hosted Guide [by UnixHost]](https://www.youtube.com/@selfhostedguide/playlists)
+## [Уроки Linux](https://www.youtube.com/playlist?list=PLYKYbjpqsWJcnIHmFs77Mfm0Sglu0QJcU)
+### [Устанавливаем Shadowsocks proxy сервер | SOCKS5 | UnixHost](https://www.youtube.com/watch?v=DzL2qP65gD8&amp;list=PLYKYbjpqsWJcnIHmFs77Mfm0Sglu0QJcU&amp;index=13&amp;pp=iAQB)

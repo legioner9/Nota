@@ -1,0 +1,3 @@
+# [Start Android](https://www.youtube.com/@start_android/playlists?view=1)
+## [Инструменты Android разработчика](https://www.youtube.com/playlist?list=PLyfVjOYzujugEUT-7gYhONqB5Y1xszpCq)
+### [Подсказка (hint) FloatingLabels в EditText - Android Design Support Library](https://www.youtube.com/watch?v=egKox1-6cEk&amp;list=PLyfVjOYzujugEUT-7gYhONqB5Y1xszpCq&amp;index=12&amp;pp=iAQB)

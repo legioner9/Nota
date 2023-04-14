@@ -1,0 +1,3 @@
+# [Start Android](https://www.youtube.com/@start_android/playlists?view=1)
+## [Уроки 101-110 по разработке android приложений на java в Eclipse и Android Studio (startandroid)](https://www.youtube.com/playlist?list=PLyfVjOYzujuiXQ0_8KfsGIG6zn95Jo7ZK)
+### [Start android: Урок 102. Touch – обработка касания (разработка андроид приложений)](https://www.youtube.com/watch?v=FEBTH5XefMo&amp;list=PLyfVjOYzujuiXQ0_8KfsGIG6zn95Jo7ZK&amp;index=2&amp;pp=iAQB)

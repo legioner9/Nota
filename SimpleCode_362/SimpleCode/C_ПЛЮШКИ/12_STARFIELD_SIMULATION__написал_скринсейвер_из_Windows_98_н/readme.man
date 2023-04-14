@@ -1,0 +1,3 @@
+# [#SimpleCode](https://www.youtube.com/@SimpleCodeIT/playlists)
+## [C# ПЛЮШКИ](https://www.youtube.com/playlist?list=PLQOaTSbfxUtAMJaKWZbAUHFIUTdFHBESE)
+### [STARFIELD SIMULATION | написал скринсейвер из Windows 98 на C#](https://www.youtube.com/watch?v=ZkuYZ4cpPQg&amp;list=PLQOaTSbfxUtAMJaKWZbAUHFIUTdFHBESE&amp;index=12&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [Start Android](https://www.youtube.com/@start_android/playlists?view=1)
+## [Приложение "Книжная полка" с Jetpack Compose](https://www.youtube.com/playlist?list=PLyfVjOYzujuhcGDmkCqJ37xwfMgR6R6e_)
+### [Пишем приложение на Kotlin с Jetpack Compose, REST API и Clean Architecture. Часть 1. Слой Data](https://www.youtube.com/watch?v=V9KaAfywQvw&amp;list=PLyfVjOYzujuhcGDmkCqJ37xwfMgR6R6e_&amp;index=1&amp;pp=iAQB)

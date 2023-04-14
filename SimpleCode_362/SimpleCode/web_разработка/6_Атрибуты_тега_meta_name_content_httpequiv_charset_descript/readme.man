@@ -1,0 +1,3 @@
+# [#SimpleCode](https://www.youtube.com/@SimpleCodeIT/playlists)
+## [web разработка](https://www.youtube.com/playlist?list=PLQOaTSbfxUtB4yXAyTLvI1QQf8wEEOkl5)
+### [Атрибуты тега meta: name, content, http-equiv, charset, description, keywords, robots. HTML5 #4](https://www.youtube.com/watch?v=hl6dcJebbRg&amp;list=PLQOaTSbfxUtB4yXAyTLvI1QQf8wEEOkl5&amp;index=6&amp;pp=iAQB)

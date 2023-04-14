@@ -1,0 +1,3 @@
+# [#SimpleCode](https://www.youtube.com/@SimpleCodeIT/playlists)
+## [C++ | STL | Библиотека стандартных шаблонов](https://www.youtube.com/playlist?list=PLQOaTSbfxUtDWAtIYme5MLZ1l0GTyUYkB)
+### [queue | priority queue  | Адаптеры контейнеров | Библиотека стандартных шаблонов (stl) | C++ #12](https://www.youtube.com/watch?v=U4mV_MVCLuU&amp;list=PLQOaTSbfxUtDWAtIYme5MLZ1l0GTyUYkB&amp;index=12&amp;pp=iAQB)

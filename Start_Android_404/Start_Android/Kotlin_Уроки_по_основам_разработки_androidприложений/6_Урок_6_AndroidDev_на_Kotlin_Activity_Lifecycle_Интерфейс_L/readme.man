@@ -1,0 +1,3 @@
+# [Start Android](https://www.youtube.com/@start_android/playlists?view=1)
+## [Kotlin. Уроки по основам разработки android-приложений](https://www.youtube.com/playlist?list=PLyfVjOYzujuj20Y-3kVhT3Zro9CrMNgNS)
+### [Урок 6. AndroidDev на Kotlin. Activity Lifecycle. Интерфейс LifecycleObserver](https://www.youtube.com/watch?v=a429q_xNABg&amp;list=PLyfVjOYzujuj20Y-3kVhT3Zro9CrMNgNS&amp;index=6&amp;pp=iAQB)

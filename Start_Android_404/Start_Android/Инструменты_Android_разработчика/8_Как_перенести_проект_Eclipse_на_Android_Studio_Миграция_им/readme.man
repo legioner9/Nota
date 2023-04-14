@@ -1,0 +1,3 @@
+# [Start Android](https://www.youtube.com/@start_android/playlists?view=1)
+## [Инструменты Android разработчика](https://www.youtube.com/playlist?list=PLyfVjOYzujugEUT-7gYhONqB5Y1xszpCq)
+### [Как перенести проект Eclipse на Android Studio. Миграция (импорт) андроид проектов на Android Studio](https://www.youtube.com/watch?v=NcG-fPsxxxo&amp;list=PLyfVjOYzujugEUT-7gYhONqB5Y1xszpCq&amp;index=8&amp;pp=iAQB)

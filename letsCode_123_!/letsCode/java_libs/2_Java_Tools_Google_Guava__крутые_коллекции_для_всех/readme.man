@@ -1,0 +1,3 @@
+# [letsCode](https://www.youtube.com/@letsCodeDru/playlists)
+## [java libs](https://www.youtube.com/playlist?list=PLU2ftbIeotGohfABNeyKoDakCt1gNR-t5)
+### [Java Tools: Google Guava - крутые коллекции для всех](https://www.youtube.com/watch?v=yYwDnwcawZ4&amp;list=PLU2ftbIeotGohfABNeyKoDakCt1gNR-t5&amp;index=2&amp;pp=iAQB)

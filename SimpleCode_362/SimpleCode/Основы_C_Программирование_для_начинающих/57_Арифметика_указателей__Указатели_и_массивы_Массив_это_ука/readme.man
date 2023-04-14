@@ -1,0 +1,3 @@
+# [#SimpleCode](https://www.youtube.com/@SimpleCodeIT/playlists)
+## [Основы C++. Программирование для начинающих.](https://www.youtube.com/playlist?list=PLQOaTSbfxUtCrKs0nicOg2npJQYSPGO9r)
+### [Арифметика указателей.  Указатели и массивы. Массив это указатель.  C++ для начинающих. Урок #47](https://www.youtube.com/watch?v=Weh6UoLkNUQ&amp;list=PLQOaTSbfxUtCrKs0nicOg2npJQYSPGO9r&amp;index=57&amp;pp=iAQB)

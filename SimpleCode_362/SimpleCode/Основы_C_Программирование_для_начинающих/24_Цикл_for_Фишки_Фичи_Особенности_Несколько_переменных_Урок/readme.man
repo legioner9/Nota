@@ -1,0 +1,3 @@
+# [#SimpleCode](https://www.youtube.com/@SimpleCodeIT/playlists)
+## [Основы C++. Программирование для начинающих.](https://www.youtube.com/playlist?list=PLQOaTSbfxUtCrKs0nicOg2npJQYSPGO9r)
+### [Цикл for. Фишки. Фичи. Особенности. Несколько переменных. Урок #17.](https://www.youtube.com/watch?v=v_ZdslCeRfQ&amp;list=PLQOaTSbfxUtCrKs0nicOg2npJQYSPGO9r&amp;index=24&amp;pp=iAQB)

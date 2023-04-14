@@ -1,0 +1,3 @@
+# [#SimpleCode](https://www.youtube.com/@SimpleCodeIT/playlists)
+## [Основы C++. Программирование для начинающих.](https://www.youtube.com/playlist?list=PLQOaTSbfxUtCrKs0nicOg2npJQYSPGO9r)
+### [inline c++ что это. Ключевое слово inline. Встраиваемая функция. C++ для начинающих. Урок #39](https://www.youtube.com/watch?v=onKnrNJZRbs&amp;list=PLQOaTSbfxUtCrKs0nicOg2npJQYSPGO9r&amp;index=49&amp;pp=iAQB)

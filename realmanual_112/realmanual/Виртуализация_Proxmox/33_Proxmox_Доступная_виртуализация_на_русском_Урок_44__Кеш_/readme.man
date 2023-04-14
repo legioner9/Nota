@@ -1,0 +1,3 @@
+# [realmanual](https://www.youtube.com/@realmanual/playlists)
+## [Виртуализация Proxmox](https://www.youtube.com/playlist?list=PLEFo-qGWcO2bIGEy7HbLX2nWfhVj3prmL)
+### [Proxmox: Доступная виртуализация на русском (Урок 4.4 - Кеш )](https://www.youtube.com/watch?v=ao1JguHHu5M&amp;list=PLEFo-qGWcO2bIGEy7HbLX2nWfhVj3prmL&amp;index=33&amp;pp=iAQB)

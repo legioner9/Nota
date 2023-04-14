@@ -1,0 +1,3 @@
+# [Поддержка Сайтов :: Метод Лаб](https://www.youtube.com/@site_support/playlists)
+## [Nginx](https://www.youtube.com/playlist?list=PLc7C4rck3fYswuRgp9pI3NsAxehJwcNFD)
+### [Настройка Nginx rewrite: основные правила и директива try_files](https://www.youtube.com/watch?v=CKcaJ0mKEWc&amp;list=PLc7C4rck3fYswuRgp9pI3NsAxehJwcNFD&amp;index=9&amp;pp=iAQB)

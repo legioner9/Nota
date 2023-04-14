@@ -1,0 +1,3 @@
+# [#SimpleCode](https://www.youtube.com/@SimpleCodeIT/playlists)
+## [C++ | STL | Библиотека стандартных шаблонов](https://www.youtube.com/playlist?list=PLQOaTSbfxUtDWAtIYme5MLZ1l0GTyUYkB)
+### [Итераторы STL | Библиотека стандартных шаблонов (stl) | Уроки | C++ | #2](https://www.youtube.com/watch?v=jLPqLW2Bp_w&amp;list=PLQOaTSbfxUtDWAtIYme5MLZ1l0GTyUYkB&amp;index=2&amp;pp=iAQB)

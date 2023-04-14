@@ -1,0 +1,5 @@
+### [Корпоративная сеть на routerOS | Соединяем два роутера MikroTik по Wireguard | UnixHost](https://www.youtube.com/watch?v=QOd6XJl644E&amp;list=PLYKYbjpqsWJczP2hBJG5AGyj9icixGdGb&amp;index=1&amp;pp=iAQB)
+### [Подробная инструкция по настройке WireGuard в RouterOS | UnixHost](https://www.youtube.com/watch?v=hVQrfdmOYVc&amp;list=PLYKYbjpqsWJczP2hBJG5AGyj9icixGdGb&amp;index=2&amp;pp=iAQB)
+### [Настройка Wireguard на MikroTik RouterOS | UnixHost](https://www.youtube.com/watch?v=piHrAf2Gd0k&amp;list=PLYKYbjpqsWJczP2hBJG5AGyj9icixGdGb&amp;index=3&amp;pp=iAQB)
+### [Установка Mikrotik RouterOS на VDS VPS | Cloud Hosted Router | UnixHost](https://www.youtube.com/watch?v=wdje9Mybnic&amp;list=PLYKYbjpqsWJczP2hBJG5AGyj9icixGdGb&amp;index=4&amp;pp=iAQB)
+### [Уведомления в telegram с вашего роутера mikrotik | UnixHost](https://www.youtube.com/watch?v=ZgcbFVbGmbw&amp;list=PLYKYbjpqsWJczP2hBJG5AGyj9icixGdGb&amp;index=5&amp;pp=iAQB)

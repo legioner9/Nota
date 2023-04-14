@@ -1,0 +1,3 @@
+# [#SimpleCode](https://www.youtube.com/@SimpleCodeIT/playlists)
+## [Домашние задания. C++](https://www.youtube.com/playlist?list=PLQOaTSbfxUtC00pId360LAcZN0f2tGLcI)
+### [Вложенная конструкция. Вложенный цикл. Домашнее задание #6](https://www.youtube.com/watch?v=k1s1tnoVH9U&amp;list=PLQOaTSbfxUtC00pId360LAcZN0f2tGLcI&amp;index=6&amp;pp=iAQB)

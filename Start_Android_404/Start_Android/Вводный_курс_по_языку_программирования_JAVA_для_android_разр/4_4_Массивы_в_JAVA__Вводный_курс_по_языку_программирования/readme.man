@@ -1,0 +1,3 @@
+# [Start Android](https://www.youtube.com/@start_android/playlists?view=1)
+## [Вводный курс по языку программирования JAVA для android разработчиков](https://www.youtube.com/playlist?list=PLyfVjOYzujuj1J2z2CgHw1p4PdDwHuRsd)
+### [#4. Массивы в JAVA | Вводный курс по языку программирования](https://www.youtube.com/watch?v=8mKd8_8lxOM&amp;list=PLyfVjOYzujuj1J2z2CgHw1p4PdDwHuRsd&amp;index=4&amp;pp=iAQB)
