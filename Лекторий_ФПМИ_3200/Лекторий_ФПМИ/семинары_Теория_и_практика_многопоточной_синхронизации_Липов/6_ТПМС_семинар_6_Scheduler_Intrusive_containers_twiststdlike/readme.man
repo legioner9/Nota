@@ -1,0 +1,3 @@
+# [Лекторий ФПМИ](https://www.youtube.com/@lectory_fpmi/playlists?view=1)
+## [(семинары) Теория и практика многопоточной синхронизации (Липовский)](https://www.youtube.com/playlist?list=PL4_hYwCyhAvZgIfxf4nLnjXprGGWBs5VO)
+### [ТПМС, семинар 6. Scheduler. Intrusive containers. twist/stdlike.](https://www.youtube.com/watch?v=gwsXsS1IZ1w&amp;list=PL4_hYwCyhAvZgIfxf4nLnjXprGGWBs5VO&amp;index=6&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [Лекторий ФПМИ](https://www.youtube.com/@lectory_fpmi/playlists?view=1)
+## [Алгоритмы и структуры данных (1 курс ИВТ, весна 2020)](https://www.youtube.com/playlist?list=PL4_hYwCyhAvYikJXQHwKCOe1i7So13ZNc)
+### [Алгоритмы ИВТ 10.  ДП-2: Подмножества, матричное умножение](https://www.youtube.com/watch?v=u-J-mBLcfmU&amp;list=PL4_hYwCyhAvYikJXQHwKCOe1i7So13ZNc&amp;index=7&amp;pp=iAQB)

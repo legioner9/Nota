@@ -1,0 +1,2 @@
+### [Дискретная оптимизация 1 Вводная лекция](https://www.youtube.com/watch?v=lspqbOSiXrE&amp;list=PL4_hYwCyhAvZain8aQHEYJ9rj9pg7ojFf&amp;index=1&amp;pp=iAQB)
+### [Дискретная оптимизация 2 Терминология. KNAPSACK. LP](https://www.youtube.com/watch?v=6aGJ92WKi7g&amp;list=PL4_hYwCyhAvZain8aQHEYJ9rj9pg7ojFf&amp;index=2&amp;pp=iAQB)

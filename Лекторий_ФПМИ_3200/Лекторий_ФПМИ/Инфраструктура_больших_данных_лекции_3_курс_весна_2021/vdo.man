@@ -1,0 +1,7 @@
+### [Инфраструктура больших данных 1. Введение](https://www.youtube.com/watch?v=C5n80MSeFgI&amp;list=PL4_hYwCyhAvbREHKcRpgkhKS4XoVz7Hpx&amp;index=1&amp;pp=iAQB)
+### [Инфраструктура больших данных. Лекция 2. Устройство индекса](https://www.youtube.com/watch?v=LTHU4e_skNU&amp;list=PL4_hYwCyhAvbREHKcRpgkhKS4XoVz7Hpx&amp;index=2&amp;pp=iAQB)
+### [Инфраструктура больших данных. Лекция 3. Релевантность](https://www.youtube.com/watch?v=Ut8J5bS_DkQ&amp;list=PL4_hYwCyhAvbREHKcRpgkhKS4XoVz7Hpx&amp;index=3&amp;pp=iAQB)
+### [Инфраструктура больших данных. Лекция 4. Методы сжатия данных](https://www.youtube.com/watch?v=qMBcqGqH0Bs&amp;list=PL4_hYwCyhAvbREHKcRpgkhKS4XoVz7Hpx&amp;index=4&amp;pp=iAQB)
+### [Инфраструктура больших данных. Лекция 5. Аттрибутивное хранилище](https://www.youtube.com/watch?v=tqxI4JajAUw&amp;list=PL4_hYwCyhAvbREHKcRpgkhKS4XoVz7Hpx&amp;index=5&amp;pp=iAQB)
+### [Инфраструктура больших данных. Лекция 6. Построение оптимального плана запросов](https://www.youtube.com/watch?v=9r79-Tihch0&amp;list=PL4_hYwCyhAvbREHKcRpgkhKS4XoVz7Hpx&amp;index=6&amp;pp=iAQB)
+### [Инфраструктура больших данных. Лекция 7. Структуры данных для In-memory хранилищ](https://www.youtube.com/watch?v=xWNy189aKZA&amp;list=PL4_hYwCyhAvbREHKcRpgkhKS4XoVz7Hpx&amp;index=7&amp;pp=iAQB)

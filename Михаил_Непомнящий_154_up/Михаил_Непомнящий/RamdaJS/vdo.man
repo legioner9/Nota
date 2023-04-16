@@ -1,0 +1,7 @@
+### [Функциональное программирование с RamdaJS. Основы и блок Математики](https://www.youtube.com/watch?v=XkNynJBruKY&amp;list=PLiZoB8JBsdzkqsILPvz5jw2-OJ5rw6ukH&amp;index=1&amp;pp=iAQB)
+### [Обработка строк в RamdaJS и поток вызова функций](https://www.youtube.com/watch?v=_cIPI0MLXdc&amp;list=PLiZoB8JBsdzkqsILPvz5jw2-OJ5rw6ukH&amp;index=2&amp;pp=iAQB)
+### [Методы объектов в RamdaJS и пара полезных функций](https://www.youtube.com/watch?v=PpH_dP1Fjdw&amp;list=PLiZoB8JBsdzkqsILPvz5jw2-OJ5rw6ukH&amp;index=3&amp;pp=iAQB)
+### [Логические операции в RamdaJS](https://www.youtube.com/watch?v=bBKd7ijNSRA&amp;list=PLiZoB8JBsdzkqsILPvz5jw2-OJ5rw6ukH&amp;index=4&amp;pp=iAQB)
+### [Функции первой необходимости в RamdaJS](https://www.youtube.com/watch?v=EIQKsVH_UCw&amp;list=PLiZoB8JBsdzkqsILPvz5jw2-OJ5rw6ukH&amp;index=5&amp;pp=iAQB)
+### [Трансдюсеры в RamdaJS - скидка на дорогие операции](https://www.youtube.com/watch?v=58iOCZmNKHU&amp;list=PLiZoB8JBsdzkqsILPvz5jw2-OJ5rw6ukH&amp;index=6&amp;pp=iAQB)
+### [Линзы в RamdaJS как абстракция по работе со структурами данных](https://www.youtube.com/watch?v=y7K3KizdiI4&amp;list=PLiZoB8JBsdzkqsILPvz5jw2-OJ5rw6ukH&amp;index=7&amp;pp=iAQB)

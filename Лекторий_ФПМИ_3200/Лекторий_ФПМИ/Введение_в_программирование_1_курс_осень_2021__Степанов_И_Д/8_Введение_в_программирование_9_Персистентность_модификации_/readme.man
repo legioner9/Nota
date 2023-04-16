@@ -1,0 +1,3 @@
+# [Лекторий ФПМИ](https://www.youtube.com/@lectory_fpmi/playlists?view=1)
+## [Введение в программирование (1 курс, осень 2021) - Степанов И. Д.](https://www.youtube.com/playlist?list=PL4_hYwCyhAvYdtAoMuCjG6pSL5DoqAp7Q)
+### [Введение в программирование 9. Персистентность, модификации дерева отрезков, онлайн vs. оффлайн](https://www.youtube.com/watch?v=B_L7GlVBnRA&amp;list=PL4_hYwCyhAvYdtAoMuCjG6pSL5DoqAp7Q&amp;index=8&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [Как стать программистом](https://www.youtube.com/@user-gu8gg2ib6y/playlists)
+## [11 концепций в JavaScript](https://www.youtube.com/playlist?list=PLqp5ZRS9tv4Qdq9Cmkh5f0Ta22u7vg_T4)
+### [Объекты в JavaScript (Тема №3)](https://www.youtube.com/watch?v=FiKAFVgZe60&amp;list=PLqp5ZRS9tv4Qdq9Cmkh5f0Ta22u7vg_T4&amp;index=4&amp;pp=iAQB)

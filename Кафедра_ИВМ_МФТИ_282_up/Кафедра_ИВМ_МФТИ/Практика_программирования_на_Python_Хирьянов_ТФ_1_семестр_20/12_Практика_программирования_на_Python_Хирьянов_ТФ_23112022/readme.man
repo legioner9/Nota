@@ -1,0 +1,3 @@
+# [Кафедра ИВМ МФТИ](https://www.youtube.com/@cs_mipt/playlists)
+## [Практика программирования на Python, Хирьянов Т.Ф. (1 семестр, 2022-2023)](https://www.youtube.com/playlist?list=PL55ElYIEKI0B3AC_Ug-tRai97G_9shqtA)
+### [Практика программирования на Python, Хирьянов Т.Ф. (23.11.2022)](https://www.youtube.com/watch?v=l95IY0WM4GU&amp;list=PL55ElYIEKI0B3AC_Ug-tRai97G_9shqtA&amp;index=12&amp;pp=iAQB)

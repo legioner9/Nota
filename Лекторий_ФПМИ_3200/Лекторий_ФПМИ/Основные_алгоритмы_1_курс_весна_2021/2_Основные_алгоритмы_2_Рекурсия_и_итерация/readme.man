@@ -1,0 +1,3 @@
+# [Лекторий ФПМИ](https://www.youtube.com/@lectory_fpmi/playlists?view=1)
+## [Основные алгоритмы (1 курс, весна 2021)](https://www.youtube.com/playlist?list=PL4_hYwCyhAvYmAr9XTqxfJmTEBFRVNJoA)
+### [Основные алгоритмы 2. Рекурсия и итерация](https://www.youtube.com/watch?v=N2QOr7kxrI0&amp;list=PL4_hYwCyhAvYmAr9XTqxfJmTEBFRVNJoA&amp;index=2&amp;pp=iAQB)

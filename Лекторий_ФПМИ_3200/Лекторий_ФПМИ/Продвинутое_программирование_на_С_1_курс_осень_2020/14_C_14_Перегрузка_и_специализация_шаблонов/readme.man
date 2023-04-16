@@ -1,0 +1,3 @@
+# [Лекторий ФПМИ](https://www.youtube.com/@lectory_fpmi/playlists?view=1)
+## [Продвинутое программирование на С++ (1 курс, осень 2020)](https://www.youtube.com/playlist?list=PL4_hYwCyhAvazfCDGyS0wx_hvBmnAAf4h)
+### [C++ 14. Перегрузка и специализация шаблонов.](https://www.youtube.com/watch?v=_AzG2QAvpOs&amp;list=PL4_hYwCyhAvazfCDGyS0wx_hvBmnAAf4h&amp;index=14&amp;pp=iAQB)

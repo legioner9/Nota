@@ -1,0 +1,3 @@
+# [AreaWeb](https://www.youtube.com/@areaweb/playlists)
+## [PHP](https://www.youtube.com/playlist?list=PLiOhsP3M5j5znqpNshsaAoeNJe0vFyhio)
+### [Laravel 8 + Vue.js = WOW?!](https://www.youtube.com/watch?v=KSHt4Ig4GLI&amp;list=PLiOhsP3M5j5znqpNshsaAoeNJe0vFyhio&amp;index=5&amp;pp=iAQB)

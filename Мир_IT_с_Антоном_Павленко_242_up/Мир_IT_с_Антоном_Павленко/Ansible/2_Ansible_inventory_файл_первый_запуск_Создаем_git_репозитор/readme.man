@@ -1,0 +1,3 @@
+# [Мир IT с Антоном Павленко](https://www.youtube.com/@pavlenkoat/playlists)
+## [Ansible](https://www.youtube.com/playlist?list=PLWCdmr_xDegfV3Ni0-SP6u4j58b7A9Chf)
+### [Ansible inventory файл, первый запуск. Создаем git репозиторий? | ITСИТКОМ | 3 Серия](https://www.youtube.com/watch?v=U0RBtNo0JzA&amp;list=PLWCdmr_xDegfV3Ni0-SP6u4j58b7A9Chf&amp;index=2&amp;pp=iAQB)

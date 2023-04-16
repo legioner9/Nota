@@ -1,0 +1,7 @@
+### [Анализ требований 1. Введение в аналитику, системный анализ.](https://www.youtube.com/watch?v=FoGsGa6a9VI&amp;list=PL4_hYwCyhAvb0pm9MdtpG3_P4CAUhru4s&amp;index=1&amp;pp=iAQB)
+### [Анализ требований 2. Проекты, цели и риски. Анализ стейкхолдеров, контекст и scope проекта.](https://www.youtube.com/watch?v=CS5IlysN32Y&amp;list=PL4_hYwCyhAvb0pm9MdtpG3_P4CAUhru4s&amp;index=2&amp;pp=iAQB)
+### [Анализ требований 3.  Сбор требований.](https://www.youtube.com/watch?v=S7S9xHGzvx0&amp;list=PL4_hYwCyhAvb0pm9MdtpG3_P4CAUhru4s&amp;index=3&amp;pp=iAQB)
+### [Анализ требований 4. Ценностное предложение. Анализ конкурентов.](https://www.youtube.com/watch?v=hywLs9ihIjk&amp;list=PL4_hYwCyhAvb0pm9MdtpG3_P4CAUhru4s&amp;index=4&amp;pp=iAQB)
+### [Анализ требований 5. Ценностное предложение (практика). Метрики.](https://www.youtube.com/watch?v=BjMj5xZyqco&amp;list=PL4_hYwCyhAvb0pm9MdtpG3_P4CAUhru4s&amp;index=5&amp;pp=iAQB)
+### [Анализ требований 6. Бизнес-объекты. Бизнес требования. Функциональные требования.](https://www.youtube.com/watch?v=_hvKm6dKQd4&amp;list=PL4_hYwCyhAvb0pm9MdtpG3_P4CAUhru4s&amp;index=6&amp;pp=iAQB)
+### [Анализ требований 7. Группировка артефактов. Управление артефактами. Usability-тестирование.](https://www.youtube.com/watch?v=Kh1eukbvm3w&amp;list=PL4_hYwCyhAvb0pm9MdtpG3_P4CAUhru4s&amp;index=7&amp;pp=iAQB)

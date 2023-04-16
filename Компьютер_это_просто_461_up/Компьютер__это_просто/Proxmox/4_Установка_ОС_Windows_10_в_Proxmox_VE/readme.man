@@ -1,0 +1,3 @@
+# [Компьютер - это просто!](https://www.youtube.com/@it-black/playlists)
+## [Proxmox](https://www.youtube.com/playlist?list=PLh6tZVFnHXkr9QFfmlgPR0P12ax4Af5zQ)
+### [Установка ОС Windows 10 в Proxmox VE.](https://www.youtube.com/watch?v=1zsYmQd46Lk&amp;list=PLh6tZVFnHXkr9QFfmlgPR0P12ax4Af5zQ&amp;index=4&amp;pp=iAQB)

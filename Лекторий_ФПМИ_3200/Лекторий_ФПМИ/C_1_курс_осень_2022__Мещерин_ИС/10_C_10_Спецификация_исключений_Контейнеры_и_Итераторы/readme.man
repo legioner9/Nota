@@ -1,0 +1,3 @@
+# [Лекторий ФПМИ](https://www.youtube.com/@lectory_fpmi/playlists?view=1)
+## [C++ (1 курс, осень 2022) - Мещерин И.С.](https://www.youtube.com/playlist?list=PL4_hYwCyhAvbKdcSnPFPtQCGjBzbB6n2f)
+### [C++ 10. Спецификация исключений, Контейнеры и Итераторы](https://www.youtube.com/watch?v=wyaCK-EXhzo&amp;list=PL4_hYwCyhAvbKdcSnPFPtQCGjBzbB6n2f&amp;index=10&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [Andrey Sozykin](https://www.youtube.com/@AndreySozykin/playlists?view=1)
+## [Нейросети на Python](https://www.youtube.com/playlist?list=PLtPJ9lKvJ4oiz9aaL_xcZd-x0qd8G0VN_)
+### [Как сохранить нейронную сеть | Нейросети на Python](https://www.youtube.com/watch?v=ro3s22RyvbA&amp;list=PLtPJ9lKvJ4oiz9aaL_xcZd-x0qd8G0VN_&amp;index=8&amp;pp=iAQB)

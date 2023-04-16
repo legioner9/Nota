@@ -1,0 +1,4 @@
+### [Сложные сети 2. Формирование гигантского кластера.](https://www.youtube.com/watch?v=-_5DOih0B0k&amp;list=PL4_hYwCyhAvZPsb6opPT3POhmJeWu1TEP&amp;index=1&amp;pp=iAQB)
+### [Сложные сети 3. Формирование гигантского кластера (продолжение).](https://www.youtube.com/watch?v=Tz7RC45DNT8&amp;list=PL4_hYwCyhAvZPsb6opPT3POhmJeWu1TEP&amp;index=2&amp;pp=iAQB)
+### [Сложные сети 4. Формирование гигантского кластера в терминах производящих функций.](https://www.youtube.com/watch?v=w_m2LcP7zFI&amp;list=PL4_hYwCyhAvZPsb6opPT3POhmJeWu1TEP&amp;index=3&amp;pp=iAQB)
+### [Сложные сети 5. Ориентированные графы. Диффузия на графах.](https://www.youtube.com/watch?v=dxZMngee81w&amp;list=PL4_hYwCyhAvZPsb6opPT3POhmJeWu1TEP&amp;index=4&amp;pp=iAQB)

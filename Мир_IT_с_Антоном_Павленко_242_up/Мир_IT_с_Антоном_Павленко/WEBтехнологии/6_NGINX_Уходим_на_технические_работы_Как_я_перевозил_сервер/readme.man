@@ -1,0 +1,3 @@
+# [Мир IT с Антоном Павленко](https://www.youtube.com/@pavlenkoat/playlists)
+## [WEB-технологии](https://www.youtube.com/playlist?list=PLWCdmr_xDegcLpwsvjrYuVe-f5iu_zyzv)
+### [NGINX. Уходим на технические работы. Как я перевозил сервер?](https://www.youtube.com/watch?v=ONsSq8ZNEYg&amp;list=PLWCdmr_xDegcLpwsvjrYuVe-f5iu_zyzv&amp;index=6&amp;pp=iAQB)

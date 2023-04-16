@@ -1,0 +1,3 @@
+# [Django School](https://www.youtube.com/@DjangoSchool/playlists?view=1)
+## [Django rest framework](https://www.youtube.com/playlist?list=PLF-NY6ldwAWqP9PqPU3LA7mX2KJVyLhC_)
+### [vue js + muse-ui на русском -  внешний вид чата -  урок 8](https://www.youtube.com/watch?v=AIywmf0nmcw&amp;list=PLF-NY6ldwAWqP9PqPU3LA7mX2KJVyLhC_&amp;index=8)

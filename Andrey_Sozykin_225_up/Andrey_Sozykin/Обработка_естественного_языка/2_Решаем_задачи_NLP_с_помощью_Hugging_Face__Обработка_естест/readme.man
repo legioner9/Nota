@@ -1,0 +1,3 @@
+# [Andrey Sozykin](https://www.youtube.com/@AndreySozykin/playlists?view=1)
+## [Обработка естественного языка](https://www.youtube.com/playlist?list=PLtPJ9lKvJ4ohZpMV9Ml-DPtMSXPFNl6Sz)
+### [Решаем задачи NLP с помощью Hugging Face | Обработка естественного языка](https://www.youtube.com/watch?v=NE69JT5OElU&amp;list=PLtPJ9lKvJ4ohZpMV9Ml-DPtMSXPFNl6Sz&amp;index=2&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [Мир IT с Антоном Павленко](https://www.youtube.com/@pavlenkoat/playlists)
+## [Apache Kafka](https://www.youtube.com/playlist?list=PLWCdmr_xDegcuLlhmXdVFyeNzNbVQdwDM)
+### [Apache Kafka основы УРОК 2. Что такое broker, consumer, producer, topic, partition и т.д.](https://www.youtube.com/watch?v=i8ULypfr6kM&amp;list=PLWCdmr_xDegcuLlhmXdVFyeNzNbVQdwDM&amp;index=1&amp;pp=iAQB)

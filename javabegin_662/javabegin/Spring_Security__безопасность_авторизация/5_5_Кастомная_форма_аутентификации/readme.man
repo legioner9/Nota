@@ -1,0 +1,3 @@
+# [javabegin](https://www.youtube.com/@javabegin/playlists?view=1)
+## [Spring Security - безопасность, авторизация](https://www.youtube.com/playlist?list=PL8X2nqRlWfaYbAYJvmHP9luJOIdPTp9Lc)
+### [5 Кастомная форма аутентификации](https://www.youtube.com/watch?v=3n81FCRLvTU&amp;list=PL8X2nqRlWfaYbAYJvmHP9luJOIdPTp9Lc&amp;index=5&amp;pp=iAQB)

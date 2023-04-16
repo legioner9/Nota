@@ -1,0 +1,1 @@
+### [Что нового в Laravel 10.4?](https://www.youtube.com/watch?v=KQBjFS_31kM&amp;list=PLiOhsP3M5j5xcI68F3U7OZcXDN9C0NoHr&amp;index=1&amp;pp=iAQB)

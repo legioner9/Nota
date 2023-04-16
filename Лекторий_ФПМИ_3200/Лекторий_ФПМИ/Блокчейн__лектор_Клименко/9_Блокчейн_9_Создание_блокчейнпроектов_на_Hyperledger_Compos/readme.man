@@ -1,0 +1,3 @@
+# [Лекторий ФПМИ](https://www.youtube.com/@lectory_fpmi/playlists?view=1)
+## [Блокчейн - лектор Клименко](https://www.youtube.com/playlist?list=PL4_hYwCyhAvZmzpIjwewZOdBMFJooHIHx)
+### [Блокчейн 9. Создание блокчейн-проектов на Hyperledger Composer](https://www.youtube.com/watch?v=txi6DV6cBPs&amp;list=PL4_hYwCyhAvZmzpIjwewZOdBMFJooHIHx&amp;index=9&amp;pp=iAQB)

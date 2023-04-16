@@ -1,0 +1,3 @@
+# [Компьютер - это просто!](https://www.youtube.com/@it-black/playlists)
+## [VMware ESXi](https://www.youtube.com/playlist?list=PLh6tZVFnHXkovaWnvyYXtLADjHkOZvVnE)
+### [Установка Router OS на VMware ESXi.](https://www.youtube.com/watch?v=MN51aqX9QrQ&amp;list=PLh6tZVFnHXkovaWnvyYXtLADjHkOZvVnE&amp;index=2&amp;pp=iAQB)

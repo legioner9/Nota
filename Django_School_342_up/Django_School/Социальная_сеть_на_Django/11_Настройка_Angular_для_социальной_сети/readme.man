@@ -1,0 +1,3 @@
+# [Django School](https://www.youtube.com/@DjangoSchool/playlists?view=1)
+## [Социальная сеть на Django](https://www.youtube.com/playlist?list=PLF-NY6ldwAWqwKfXqpgDKqjUDAe8qbCem)
+### [Настройка Angular для социальной сети](https://www.youtube.com/watch?v=py0oJxg9PHI&amp;list=PLF-NY6ldwAWqwKfXqpgDKqjUDAe8qbCem&amp;index=11)

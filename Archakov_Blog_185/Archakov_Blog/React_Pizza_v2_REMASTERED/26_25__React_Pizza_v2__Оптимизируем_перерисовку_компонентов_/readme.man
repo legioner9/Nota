@@ -1,0 +1,3 @@
+# [Archakov Blog](https://www.youtube.com/@ArchakovBlog/playlists)
+## [React Pizza v2 [REMASTERED]](https://www.youtube.com/playlist?list=PL0FGkDGJQjJG9eI85xM1_iLIf6BcEdaNl)
+### [#25: 🍕 React Pizza v2 — Оптимизируем перерисовку компонентов с помощью useCallback и React.memo](https://www.youtube.com/watch?v=KvoWbHHBv88&amp;list=PL0FGkDGJQjJG9eI85xM1_iLIf6BcEdaNl&amp;index=26)

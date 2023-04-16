@@ -1,0 +1,3 @@
+# [Лекторий ФПМИ](https://www.youtube.com/@lectory_fpmi/playlists?view=1)
+## [Прикладное машинное обучение (4 курс, осень 2019), лектор Радослав Нейчев](https://www.youtube.com/playlist?list=PL4_hYwCyhAvZeq93ssEUaR47xhvs7IhJM)
+### [Прикладное машинное обучение 8. Model free методы.](https://www.youtube.com/watch?v=OgSVD0A0xWo&amp;list=PL4_hYwCyhAvZeq93ssEUaR47xhvs7IhJM&amp;index=8&amp;pp=iAQB)

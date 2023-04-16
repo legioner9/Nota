@@ -1,0 +1,3 @@
+# [Django School](https://www.youtube.com/@DjangoSchool/playlists?view=1)
+## [Git уроки](https://www.youtube.com/playlist?list=PLF-NY6ldwAWq5PwYd92NGdQvHn-RCGbQf)
+### [Git на русском - создание локального репозитория git -  урок 1](https://www.youtube.com/watch?v=zacqjREKWM4&amp;list=PLF-NY6ldwAWq5PwYd92NGdQvHn-RCGbQf&amp;index=1)

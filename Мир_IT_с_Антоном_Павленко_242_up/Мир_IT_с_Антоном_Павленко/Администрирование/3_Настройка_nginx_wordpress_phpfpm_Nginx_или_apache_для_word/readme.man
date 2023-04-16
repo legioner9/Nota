@@ -1,0 +1,3 @@
+# [Мир IT с Антоном Павленко](https://www.youtube.com/@pavlenkoat/playlists)
+## [Администрирование](https://www.youtube.com/playlist?list=PLWCdmr_xDegdIzr-SlQ4qEBskGnz3g6LP)
+### [Настройка nginx wordpress php-fpm. Nginx или apache для wordpress? Почему nginx?](https://www.youtube.com/watch?v=VF3VvP9v0Y8&amp;list=PLWCdmr_xDegdIzr-SlQ4qEBskGnz3g6LP&amp;index=3&amp;pp=iAQB)

@@ -1,0 +1,8 @@
+### [Highload 0. Введение](https://www.youtube.com/watch?v=DJJEr6IaW1Y&amp;list=PL4_hYwCyhAva6-f-YxobKju-6ltmn-jNC&amp;index=1&amp;pp=iAQB)
+### [Highload 1. Сбор требований. Фронтенд-бэкенд](https://www.youtube.com/watch?v=KWQ4UWmOyEI&amp;list=PL4_hYwCyhAva6-f-YxobKju-6ltmn-jNC&amp;index=2&amp;pp=iAQB)
+### [Highload 2. Кэширование](https://www.youtube.com/watch?v=hooUsePUCKo&amp;list=PL4_hYwCyhAva6-f-YxobKju-6ltmn-jNC&amp;index=3&amp;pp=iAQB)
+### [Highload 3. Инвалидация кешей](https://www.youtube.com/watch?v=FZ10pRSFzoA&amp;list=PL4_hYwCyhAva6-f-YxobKju-6ltmn-jNC&amp;index=4&amp;pp=iAQB)
+### [Highload 6. Очередь, конвейер. Репликация](https://www.youtube.com/watch?v=McBbiudrh7A&amp;list=PL4_hYwCyhAva6-f-YxobKju-6ltmn-jNC&amp;index=5&amp;pp=iAQB)
+### [Highload 7. Шардинг. Партиционирование, денормализация](https://www.youtube.com/watch?v=ZiL_JfF5QTQ&amp;list=PL4_hYwCyhAva6-f-YxobKju-6ltmn-jNC&amp;index=6&amp;pp=iAQB)
+### [Highload 8. Проектирование спортивных трансляций](https://www.youtube.com/watch?v=UL0pgnrKxIw&amp;list=PL4_hYwCyhAva6-f-YxobKju-6ltmn-jNC&amp;index=7&amp;pp=iAQB)
+### [Highload 9. Практика проектирования](https://www.youtube.com/watch?v=FJ_lmc07LY8&amp;list=PL4_hYwCyhAva6-f-YxobKju-6ltmn-jNC&amp;index=8&amp;pp=iAQB)

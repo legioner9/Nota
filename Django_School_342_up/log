@@ -1,0 +1,351 @@
+ 26.03.2023 23:41:59 done Архитектура для E-commerce | Монолит или микросервисы
+ 26.03.2023 23:42:01 done Что такое шина событий | Микросервисы | Монорепозиторий | GSpot
+ 26.03.2023 23:42:04 done Архитектура БД сервиса Games | Проект GSpot
+ 26.03.2023 23:42:06 done Django Rest + Docker + GitHub actions  + Flake8 | Проект GSpot
+ 26.03.2023 23:42:08 done Архитектура БД сервиса users | Django Rest | Проект GSpot
+ 26.03.2023 23:42:08 done E-commerce - интернет магазин видеоигр
+ 26.03.2023 23:42:29 done Masonite 4 introduction to the framework | Lesson 1
+ 26.03.2023 23:42:31 done Masonite 4 migrations and models | Lesson 2
+ 26.03.2023 23:42:33 done Masonite 4 controllers and routes | Lesson 3
+ 26.03.2023 23:42:35 done Masonite 4 groups routes | Models Masonite methods | Lesson 4
+ 26.03.2023 23:42:36 done Masonite 4
+ 26.03.2023 23:42:56 done Django Foreign Key оптимизация запросов в БД
+ 26.03.2023 23:42:58 done Как переопределить сохранение формы Django admin Inline?
+ 26.03.2023 23:42:58 done Django в примерах
+ 26.03.2023 23:43:20 done WebSocket + Django + Vue
+ 26.03.2023 23:43:22 done Крестики-нолики онлайн | WebSockets Starlette | Django School
+ 26.03.2023 23:43:24 done Крестики-нолики онлайн #2 | WebSockets Starlette | Django School
+ 26.03.2023 23:43:26 done Django Channels Rest Framework + WebSockets | Django School
+ 26.03.2023 23:43:26 done WebSockets
+ 26.03.2023 23:43:49 done FastAPI что это такое? | Django School
+ 26.03.2023 23:43:51 done Webrtc Fastapi aiortc | Трансляция видео на сервер и в браузер
+ 26.03.2023 23:43:53 done Распознавание объектов в потоковом видео | opencv fastapi webrtc
+ 26.03.2023 23:43:55 done Речь в текст python | Текст в речь в python
+ 26.03.2023 23:43:56 done FastAPI
+ 26.03.2023 23:44:17 done Django асинхронность на примере сайта | Django School
+ 26.03.2023 23:44:19 done Django 4 что нового? | Django School
+ 26.03.2023 23:44:19 done Django 4
+ 26.03.2023 23:44:36 done Starlette введение | Django School
+ 26.03.2023 23:44:38 done Крестики-нолики онлайн | WebSockets Starlette | Django School
+ 26.03.2023 23:44:40 done Крестики-нолики онлайн #2 | WebSockets Starlette | Django School
+ 26.03.2023 23:44:40 done Starlette
+ 26.03.2023 23:45:04 done django school ответы на вопросы #1
+ 26.03.2023 23:45:06 done Компания или фриланс? django school
+ 26.03.2023 23:45:08 done Какие проекты делать для резюме
+ 26.03.2023 23:45:10 done Нужны ли джуны? | Django School
+ 26.03.2023 23:45:13 done FastApi &amp; Starlette от Django School
+ 26.03.2023 23:45:15 done Когда нужна django admin
+ 26.03.2023 23:45:17 done Код для души Django School
+ 26.03.2023 23:45:19 done джун, мидл и синьор в чем разница
+ 26.03.2023 23:45:21 done frontend для бекендера
+ 26.03.2023 23:45:23 done Кровавый энтерпрайз и Django School
+ 26.03.2023 23:45:25 done Не пишите такой код
+ 26.03.2023 23:45:28 done Что учить кроме python
+ 26.03.2023 23:45:30 done Kubernetes тебе не нужен!
+ 26.03.2023 23:45:30 done Shorts
+ 26.03.2023 23:45:50 done Почему не Django?
+ 26.03.2023 23:45:50 done DeepSkills
+ 26.03.2023 23:46:11 done Ответы на вопросы подписчиков | Django school
+ 26.03.2023 23:46:13 done Ответы на вопросы (06.11.21) | Django school
+ 26.03.2023 23:46:15 done Django в 2022 | Django School
+ 26.03.2023 23:46:17 done Асинхронность в django
+ 26.03.2023 23:46:20 done Как пройти собеседование на Django Middle
+ 26.03.2023 23:46:22 done Деплой Telegram бота на VPS + Docker | Django School
+ 26.03.2023 23:46:24 done FastAPI  / DB / Meta class | Django School &amp; luchanos часть 1
+ 26.03.2023 23:46:26 done Пет проекты и собеседования | Django School &amp; luchanos часть 2
+ 26.03.2023 23:46:28 done Game DEV и 1C | Django School &amp; luchanos часть 3
+ 26.03.2023 23:46:30 done Как выбрать фреймворк для проекта в 2023 | Подкаст с Николаем Свиридовым
+ 26.03.2023 23:46:31 done Стримы
+ 26.03.2023 23:46:51 done Custom user Django | Настройка проекта Django Rest | Sound Cloud #1
+ 26.03.2023 23:46:53 done Авторизация Google Django Rest Framework | Создание JWT | Sound Cloud #2
+ 26.03.2023 23:46:55 done Своя аутентификация пользователя Django Rest Framework | авторизация в swagger | Sound Cloud #3
+ 26.03.2023 23:46:57 done Авторизация Spotify Django Rest Framework | Sound Cloud #4
+ 26.03.2023 23:46:59 done Свой permission Django Rest Framework | Sound Cloud #5
+ 26.03.2023 23:47:01 done Аудио библиотека DRF | Sound Cloud #6
+ 26.03.2023 23:47:03 done Слушать и скачивать музыку на Django Rest Framework | Sound Cloud #7
+ 26.03.2023 23:47:06 done DRF + Docker + NGINX + Postgres | Sound Cloud #8
+ 26.03.2023 23:47:06 done Sound Cloud - Django Rest Framework
+ 26.03.2023 23:47:26 done Django webRTC теория | django потоковое видео | #1
+ 26.03.2023 23:47:28 done Видеочат на Django | Django WebRTC
+ 26.03.2023 23:47:29 done Django WebRTC
+ 26.03.2023 23:47:49 done Создание rest api на Django Ninja | django async | #1
+ 26.03.2023 23:47:51 done Django Ninja авторизация google | Django Ninja классы view | #2
+ 26.03.2023 23:47:51 done Django Ninja rest api
+ 26.03.2023 23:48:11 done django slug autocomplete field
+ 26.03.2023 23:48:14 done как изменить тему Pycharm
+ 26.03.2023 23:48:16 done django видеоплеер | воспроизведение видео онлайн на django
+ 26.03.2023 23:48:16 done Django рецепты
+ 26.03.2023 23:48:36 done создание сайта на django | Стрим
+ 26.03.2023 23:48:38 done сайт на django | Стрим #2
+ 26.03.2023 23:48:41 done как создать сайт на django | #3
+ 26.03.2023 23:48:43 done django сайт для шеф-повара | создать сайт на django | #4
+ 26.03.2023 23:48:45 done Сайт на django для шеф-повара | #5
+ 26.03.2023 23:48:47 done Завершение сайта шеф-повара на django | #6
+ 26.03.2023 23:48:47 done Django 3 разработка сайта для шеф-повара
+ 26.03.2023 23:49:08 done Разработка проекта Useful (pysonet) | Дневник разработчика | Стрим
+ 26.03.2023 23:49:10 done Пишу проект для Django School
+ 26.03.2023 23:49:11 done Проект Useful
+ 26.03.2023 23:49:30 done godot engine как я писал black jack
+ 26.03.2023 23:49:31 done Godot
+ 26.03.2023 23:49:52 done Бесплатный курс по программированию с нуля. Курс по python
+ 26.03.2023 23:49:54 done What is programming and algorithms | Programming Course | Lesson 1
+ 26.03.2023 23:49:56 done Flowcharts and Algorithms | Lesson 2
+ 26.03.2023 23:49:58 done Variables and Constants | Lesson 3 | Programming course
+ 26.03.2023 23:50:00 done Choosing a Code Editor for Programming | Lesson 4
+ 26.03.2023 23:50:02 done Курс по программированию | Как устроен компьютер | Урок 5 | Стрим
+ 26.03.2023 23:50:05 done Python introduction | Programming Course | lesson 6
+ 26.03.2023 23:50:07 done python списки, словари, кортежи | цикл For | урок 7 | Стрим
+ 26.03.2023 23:50:09 done Python функции | Исключения python  try except  | Курс по программированию | урок 8
+ 26.03.2023 23:50:11 done Python работа с файлами | Python срезы  | разбор ДЗ | урок 9
+ 26.03.2023 23:50:13 done Python practice | Pizza Ordering Program | lesson 10
+ 26.03.2023 23:50:15 done Python set and frozenset | lesson 11
+ 26.03.2023 23:50:17 done Python find all numbers in a string | Python practice | lesson 12
+ 26.03.2023 23:50:19 done Классы python | Python ООП | урок 13
+ 26.03.2023 23:50:22 done Python классы практика | Урок 14 | Стрим
+ 26.03.2023 23:50:24 done zip python | Cловарь из двух списков python | Урок 15
+ 26.03.2023 23:50:26 done import в python | Создание своих модулей в python | Урок 16
+ 26.03.2023 23:50:28 done lambda функции в python | функции map и filter в python | Урок 17
+ 26.03.2023 23:50:30 done Декораторы в python | Урок 18
+ 26.03.2023 23:50:32 done python декораторы примеры | класс как декоратор | Урок 19 | Стрим
+ 26.03.2023 23:50:34 done python декоратор класса | урок 20
+ 26.03.2023 23:50:36 done Библиотека requests python | Урок 21
+ 26.03.2023 23:50:39 done requests загрузка изображений pillow | урок 22
+ 26.03.2023 23:50:41 done асинхронность python 3 примеры | Урок 23
+ 26.03.2023 23:50:41 done Курс по программированию с нуля. Курс по python.
+ 26.03.2023 23:51:01 done Книги по Python, Django и программированию
+ 26.03.2023 23:51:02 done Советы для разработчиков
+ 26.03.2023 23:51:22 done Мини соц сеть на django | как создать свою социальную сеть
+ 26.03.2023 23:51:25 done Социальная сеть на django, старт проекта
+ 26.03.2023 23:51:27 done Пишем свою cоциальную сеть на django настройка docker
+ 26.03.2023 23:51:29 done своя социальная сеть на django custom user
+ 26.03.2023 23:51:31 done Как создать свою социальную сеть на django
+ 26.03.2023 23:51:33 done Социальная сеть на django стена и лента
+ 26.03.2023 23:51:35 done Социальная сеть на django followers и лента
+ 26.03.2023 23:51:37 done Тест запросов бд социальной сети на django
+ 26.03.2023 23:51:39 done Лента в социальной сети на django
+ 26.03.2023 23:51:42 done Выбираем дизайн для своей социальной сети на django
+ 26.03.2023 23:51:44 done Настройка Angular для социальной сети
+ 26.03.2023 23:51:46 done Компоненты логина и регистрации Angular // соц. сеть
+ 26.03.2023 23:51:48 done Регистрация Angular // соц. сеть
+ 26.03.2023 23:51:50 done Профиль пользователя - Angular - соц. сеть
+ 26.03.2023 23:51:52 done Профиль пользователя, часть 2 - Angular - соц. сеть
+ 26.03.2023 23:51:54 done Рефакторинг кода | Django Rest Framework
+ 26.03.2023 23:51:56 done Сервисы на Django, Flask, FastAPI | Стрим
+ 26.03.2023 23:51:59 done Архитектура БД Django для сервиса | Стрим
+ 26.03.2023 23:51:59 done Социальная сеть на Django
+ 26.03.2023 23:52:19 done Django + Docker на русском - часть 1
+ 26.03.2023 23:52:21 done Vue.js + Docker на русском - часть 2
+ 26.03.2023 23:52:23 done Django + Docker разделение настроек  - часть 3
+ 26.03.2023 23:52:25 done Django + Docker deploy - часть 4
+ 26.03.2023 23:52:27 done Vue + Docker deploy - часть 5
+ 26.03.2023 23:52:30 done Vue + Docker deploy - часть 5/1
+ 26.03.2023 23:52:32 done Что такое DevOps | Интервью с DevOps
+ 26.03.2023 23:52:32 done Django + Docker
+ 26.03.2023 23:52:52 done Первый подкаст с Егором с канала murrengan говорим обо всем и юмор
+ 26.03.2023 23:52:52 done Подкасты
+ 26.03.2023 23:53:12 done Vue.js что это и с чем едят // Django rest framework + vue.js
+ 26.03.2023 23:53:12 done Дополнение к курсу Vue.js
+ 26.03.2023 23:53:32 done Уроки Vue.js - создание проекта vue - урок 1
+ 26.03.2023 23:53:34 done Уроки Vue.js - разбор проекта и компонентов vue - урок 2
+ 26.03.2023 23:53:36 done Уроки Vue.js - создание компонентов и router vue - урок 3
+ 26.03.2023 23:53:38 done Уроки Vue.js - store во vue, использование fetch во vue и вывод списка фильмов  - урок 4
+ 26.03.2023 23:53:40 done Уроки Vue.js - vue router и вывод полного описания фильма  - урок 5
+ 26.03.2023 23:53:42 done Уроки Vue.js - fetch post, emit vue, отзывы к фильму  - урок 6
+ 26.03.2023 23:53:44 done Уроки Vue.js пагинация - урок 7
+ 26.03.2023 23:53:45 done Уроки по Vue.js
+ 26.03.2023 23:54:05 done Django rest framework и с чем его едят
+ 26.03.2023 23:54:07 done разбор классов django rest framework GenericAPIView ListAPIView RetrieveAPIView
+ 26.03.2023 23:54:09 done разбор классов Create Update Destroy django rest framework | drf
+ 26.03.2023 23:54:11 done django rest framework права доступа permissions JWT
+ 26.03.2023 23:54:13 done Авторизация и сброс пароля в django rest framework
+ 26.03.2023 23:54:15 done WebSocket + Django + Vue
+ 26.03.2023 23:54:18 done Авторизация по token django rest framework
+ 26.03.2023 23:54:20 done разбор классов ViewSet django rest framework
+ 26.03.2023 23:54:20 done Дополнение к курсу Django Rest Framework
+ 26.03.2023 23:54:41 done Django Rest Framework Course
+ 26.03.2023 23:54:43 done Creating and customizing a Django rest framework project - lesson 1
+ 26.03.2023 23:54:45 done django rest framework ckeditor настройка приложения movies - урок 2 | Django Shool
+ 26.03.2023 23:54:47 done Serializers и APIView django rest framework - урок 3
+ 26.03.2023 23:54:49 done django rest framework | Добавление и вывод отзывов к фильму -  урок 4 | Django School
+ 26.03.2023 23:54:51 done django rest framework рекурсивный вывод вложенных записей, api вывод отзывов к фильму - урок 5
+ 26.03.2023 23:54:53 done Django Rest Framework - добавление и обновление рейтинга к фильму - урок 6
+ 26.03.2023 23:54:56 done Django Rest Framework - вывод рейтинга к фильмам - урок 7 | Django School
+ 26.03.2023 23:54:58 done django rest framework - ListAPIView и RetrieveAPIView, вывод актеров и режиссеров - урок 8
+ 26.03.2023 23:55:00 done django rest framework использование generics классов - урок 9
+ 26.03.2023 23:55:02 done django-filter фильтрация фильмов по годам и жанрам | django rest framework | урок 10
+ 26.03.2023 23:55:04 done djoser регистрация, авторизация, отправка email с подтверждением - Django Rest Framework урок 11
+ 26.03.2023 23:55:06 done drf-yasg автодокументирование api django rest framework - урок 12
+ 26.03.2023 23:55:08 done Django rest framework Social OAuth2 вход через социальную сеть VK - урок 13
+ 26.03.2023 23:55:10 done Использование ViewSet в django rest framework - урок 14
+ 26.03.2023 23:55:12 done Добавление cors django rest framework - урок 15
+ 26.03.2023 23:55:15 done Пагинация в django rest framework - урок 16
+ 26.03.2023 23:55:15 done Уроки Django Rest Framework
+ 26.03.2023 23:55:35 done Celery + Django - теория  #1
+ 26.03.2023 23:55:37 done celery django примеры #2
+ 26.03.2023 23:55:39 done flower celery django - практика #3
+ 26.03.2023 23:55:40 done Celery + Django
+ 26.03.2023 23:55:58 done Ошибка TemplateDoesNotExist в django.
+ 26.03.2023 23:55:59 done Ошибки в django
+ 26.03.2023 23:56:19 done Как работает http протокол + django
+ 26.03.2023 23:56:21 done как работает django | middleware django | django urls
+ 26.03.2023 23:56:23 done разбор классов django View | ListView | DetailView
+ 26.03.2023 23:56:25 done Разбор классов django CreateView UpdateView DeleteView
+ 26.03.2023 23:56:27 done Как сделать свои права доступа в django
+ 26.03.2023 23:56:30 done Django ORM работа с базой данных
+ 26.03.2023 23:56:32 done Django ORM работа с базой данных
+ 26.03.2023 23:56:34 done django orm пишем правильные запросы
+ 26.03.2023 23:56:36 done Deploy проекта django на сервер
+ 26.03.2023 23:56:38 done Расширения для Django которые тебе облегчат жизнь
+ 26.03.2023 23:56:40 done Cервисы в django
+ 26.03.2023 23:56:42 done Что такое рефакторинг кода и как делать рефакторинг
+ 26.03.2023 23:56:43 done Дополнение к курсу по Django 3
+ 26.03.2023 23:57:03 done Django Course 3
+ 26.03.2023 23:57:05 done Django 3 tutorials - database architecture
+ 26.03.2023 23:57:07 done Overview and creating a Django 3 project - lesson 2
+ 26.03.2023 23:57:09 done Overview and creating a Django 3 application - Lesson 3
+ 26.03.2023 23:57:11 done Django tutorials 3 - creating django models - lesson 4
+ 26.03.2023 23:57:13 done Уроки Django 3 - таблицы в базе данных и файлы миграций django - урок 5
+ 26.03.2023 23:57:16 done Ошибка TemplateDoesNotExist в django.
+ 26.03.2023 23:57:18 done Уроки Django 3 - создание и вывод фильмов на сайт django - урок 6
+ 26.03.2023 23:57:20 done Уроки Django 3 - классы ListView и DetailView django, страница с фильмом  - урок 7
+ 26.03.2023 23:57:22 done Уроки Django 3 - шаблоны django, наследование шаблонов django - урок 8
+ 26.03.2023 23:57:24 done Уроки Django 3 - формы django отзывы и кадры из фильма - урок 9
+ 26.03.2023 23:57:26 done Уроки Django 3 - ForeignKey self django ответ на отзыв - урок 10
+ 26.03.2023 23:57:28 done Уроки Django 3 - настройка админки django - урок 11
+ 26.03.2023 23:57:30 done Уроки Django 3 - вывод изображений в админке django - урок 12
+ 26.03.2023 23:57:33 done Уроки Django 3 - использование редактора ckeditor в админке django и plugin youtube - урок 13
+ 26.03.2023 23:57:35 done Уроки Django 3 - пишем свои actions django для админки - урок 14
+ 26.03.2023 23:57:37 done Уроки Django 3 - template tags inclusion и simple в django - урок 15
+ 26.03.2023 23:57:39 done Уроки Django 3 - страница актера и related_name в django - урок 16
+ 26.03.2023 23:57:41 done Уроки Django 3 - фильтр фильмов, Q в django - урок 17
+ 26.03.2023 23:57:43 done Уроки Django 3 - ajax фильтр в django + hogan.js - урок 18
+ 26.03.2023 23:57:45 done Уроки Django 3 - добавление рейтинга к фильму - урок 19
+ 26.03.2023 23:57:48 done Уроки Django 3 - как сделать пагинацию в django - урок 20
+ 26.03.2023 23:57:50 done Уроки Django 3 - поиск фильмов по названию - урок 21
+ 26.03.2023 23:57:52 done Уроки Django 3 - установка recapcha3 django - урок 22
+ 26.03.2023 23:57:54 done Уроки Django 3 - простые страницы flatpages django - урок 23
+ 26.03.2023 23:57:56 done Уроки Django 3 - форма подписки на рассылку django email - урок 24
+ 26.03.2023 23:57:59 done Уроки Django 3 - делаем мультиязычный сайт на django - урок 25
+ 26.03.2023 23:58:01 done Уроки django 3 - авторизация и регистрация django allauth - урок 26
+ 26.03.2023 23:58:03 done Уроки Django 3 - вход на сайт через VK django allauth - урок 27
+ 26.03.2023 23:58:03 done Уроки Django 3
+ 26.03.2023 23:58:23 done Figma разработка дизайна djangochannel.com
+ 26.03.2023 23:58:25 done Авторизация пользователя для djangochannel.com (backend)
+ 26.03.2023 23:58:27 done Пишем сообщества (backend) djangochannel.com
+ 26.03.2023 23:58:29 done Пишем API сообщества (backend) #2
+ 26.03.2023 23:58:31 done Разработка комментариев, абстрактная модель (backend)
+ 26.03.2023 23:58:34 done DRF permissions viewset routers
+ 26.03.2023 23:58:36 done Django 2 работа с изображениями
+ 26.03.2023 23:58:38 done Django 2 работа с изображениями - часть 2
+ 26.03.2023 23:58:40 done Django 2 работа с изображениями - часть 3
+ 26.03.2023 23:58:42 done Пишем API курсов
+ 26.03.2023 23:58:44 done тесты django rest framework теория | часть 1
+ 26.03.2023 23:58:46 done Как писать тесты api django rest framework
+ 26.03.2023 23:58:48 done DRF API блога // recursive serializer django
+ 26.03.2023 23:58:50 done DRF API CRUD комментариев блога permission и serializer
+ 26.03.2023 23:58:53 done DRF API фильтры и поиск в блоге - django filter, search
+ 26.03.2023 23:58:53 done Разработка сайта djangochannel.com
+ 26.03.2023 23:59:13 done Обзор django3, смотрим на язык elm, общаемся
+ 26.03.2023 23:59:15 done Watson python framework
+ 26.03.2023 23:59:17 done Falcon python web api framework
+ 26.03.2023 23:59:19 done Топ 10 популярных сайтов написанных на Django
+ 26.03.2023 23:59:21 done Django Ninja - Fast Django REST Framework | Обзор
+ 26.03.2023 23:59:23 done Django Ninja сайт за 20 минут | Django + FastAPI
+ 26.03.2023 23:59:24 done Обзоры фреймворков python
+ 26.03.2023 23:59:44 done Гость стрима Александр junior python разработчик - Django School
+ 26.03.2023 23:59:46 done Django junior разработчик | Интервью с Артемом | Django School
+ 26.03.2023 23:59:48 done Интервью с Евгением Django junior developer | Django School
+ 26.03.2023 23:59:50 done Junior full stack developer | Интервью с Дмитрием | Django School
+ 26.03.2023 23:59:51 done Интервью с моими учениками
+ 27.03.2023 00:00:10 done Доска объявлений на Django 2 - Django School
+ 27.03.2023 00:00:12 done Модели доски объявлений на Django 2 | Django School
+ 27.03.2023 00:00:14 done Профиль пользователя в доске объявлений на Django 2 - Django School
+ 27.03.2023 00:00:14 done Доска объявлений на Django 2
+ 27.03.2023 00:00:34 done Уроки python 3  - введение - #0
+ 27.03.2023 00:00:36 done Уроки python 3  - установка интерпретатора python #1
+ 27.03.2023 00:00:39 done Уроки python 3 -  редакторы кода python - урок 2
+ 27.03.2023 00:00:41 done Уроки python 3 -  виртуальное окружение и установщик пакетов pip - #3
+ 27.03.2023 00:00:43 done Уроки python 3  - переменные и типы данных - #4
+ 27.03.2023 00:00:45 done Уроки python 3  - переменные и типы данных - #4
+ 27.03.2023 00:00:47 done Уроки python 3 - if else в python - урок 5
+ 27.03.2023 00:00:49 done Уроки python 3 цикл For - #6
+ 27.03.2023 00:00:51 done Уроки python 3 цикл while - урок 7
+ 27.03.2023 00:00:53 done Операторы в python 3 - уроки python 3  - урок 8
+ 27.03.2023 00:00:56 done Переменные в python 3 - Что такое переменные
+ 27.03.2023 00:00:58 done Переменные в python 3 - #2
+ 27.03.2023 00:01:00 done Работа с переменными в python 3
+ 27.03.2023 00:01:02 done Работа с числами в python 3
+ 27.03.2023 00:01:04 done Python с нуля - типы данных
+ 27.03.2023 00:01:06 done Python с нуля - циклы for и while, функции
+ 27.03.2023 00:01:08 done Сортировка словаря python 3
+ 27.03.2023 00:01:10 done Работа со списками python 3
+ 27.03.2023 00:01:12 done Python 3 set, frozenset, *args, **kwargs
+ 27.03.2023 00:01:13 done Python 3
+ 27.03.2023 00:01:33 done Git на русском - создание локального репозитория git -  урок 1
+ 27.03.2023 00:01:35 done Работа с ветками Git. Git branch - урок 2
+ 27.03.2023 00:01:37 done Git работа с удаленными репозиториями -  урок 3
+ 27.03.2023 00:01:38 done Git уроки
+ 27.03.2023 00:01:58 done Pycharm создание проекта, работа редактора  - урок 1
+ 27.03.2023 00:02:00 done Pycharm панели инструментов -  урок 2
+ 27.03.2023 00:02:02 done Pycharm горячие клавиши и поиск -  урок 3
+ 27.03.2023 00:02:04 done Pycharm контроль версий git -  урок 4
+ 27.03.2023 00:02:06 done Стилизуем Pycharm -  урок 5
+ 27.03.2023 00:02:08 done Pycharm vs Postman, http запросы в pycharm -  урок 6
+ 27.03.2023 00:02:10 done Часто применяемые функции Pycharm -  урок 7
+ 27.03.2023 00:02:12 done Как подключить базу данных в pycharm Database Navigator
+ 27.03.2023 00:02:13 done Pycharm уроки
+ 27.03.2023 00:02:33 done Django rest framework на русском  - урок 1
+ 27.03.2023 00:02:35 done Django rest framework + vue js  на русском - урок 2
+ 27.03.2023 00:02:37 done Django rest framework на русском - drf serializers  - урок 3
+ 27.03.2023 00:02:40 done Django rest framework на русском  -  post запросы, djoser авторизация -  урок 4
+ 27.03.2023 00:02:42 done Django rest framework + vue js -  авторизация в приложении - урок 5
+ 27.03.2023 00:02:44 done Django rest framework + vue js на русском - token, список комнат, реализация выхода  - урок 6
+ 27.03.2023 00:02:46 done Django rest framework + vue js на русском - вывод диалога  - урок 7
+ 27.03.2023 00:02:48 done vue js + muse-ui на русском -  внешний вид чата -  урок 8
+ 27.03.2023 00:02:50 done DRF + vue js  - настройка jquery и как найти код из урока  - урок 9
+ 27.03.2023 00:02:52 done Django rest framework + vuejs - отправка сообщений в чате - урок 10
+ 27.03.2023 00:02:54 done Django rest framework + vuejs  - добавление пользователей в чат  - урок 11
+ 27.03.2023 00:02:56 done Django rest framework + vue js -  создание комнаты чата -  урок 12
+ 27.03.2023 00:02:59 done Django rest framework + vue.js -  используем vue slot и vue url для диалогов -  урок 13
+ 27.03.2023 00:03:01 done Django rest framework + vue js  - подготавливаем проект django к deploy -  урок 14
+ 27.03.2023 00:03:03 done Django rest framework + vue js -  подготавливаем сервер к deploy проекта django -  урок 15
+ 27.03.2023 00:03:05 done Django rest framework + vue js -  запуск проекта на сервере -  урок 16
+ 27.03.2023 00:03:05 done Django rest framework
+ 27.03.2023 00:03:25 done В каком порядке смотреть уроки на канале Django School
+ 27.03.2023 00:03:27 done Как и где учить python
+ 27.03.2023 00:03:29 done Зачем backend разработчику javascript | Где и как учить javascript
+ 27.03.2023 00:03:32 done Где и как учить django?
+ 27.03.2023 00:03:34 done Как стать программистом до и после 30 и 40 лет
+ 27.03.2023 00:03:36 done Нужен ли английский программисту? Где и как учить?
+ 27.03.2023 00:03:38 done как стать программистом | Что нужно знать веб разработчику
+ 27.03.2023 00:03:40 done Как найти работу python-разработчику?
+ 27.03.2023 00:03:42 done что такое json формат
+ 27.03.2023 00:03:44 done Django School программист после 30
+ 27.03.2023 00:03:46 done Как я стал разработчиком Django School
+ 27.03.2023 00:03:48 done В чем разница staticmethod и classmethod python
+ 27.03.2023 00:03:51 done Почему &quot;блог&quot; как первое приложение на django 2?
+ 27.03.2023 00:03:53 done Почему я перешел на Pycharm
+ 27.03.2023 00:03:55 done Что нужно знать чтобы стать junior django
+ 27.03.2023 00:03:57 done Развитие джуна в django. Работа с git
+ 27.03.2023 00:03:59 done Как начать программировать. Не получается начать писать код?
+ 27.03.2023 00:04:01 done Python ответы на вопросы | Курс по программированию | Стрим
+ 27.03.2023 00:04:03 done Как стать востребованным backend разработчиком | roadmap backend 2022
+ 27.03.2023 00:04:04 done Ответы на вопросы django \ python
+ 27.03.2023 00:04:24 done django 2 и postgresql 10 - создание проекта | Урок 1
+ 27.03.2023 00:04:26 done Django 2 создание блога 1ч. | Урок 2
+ 27.03.2023 00:04:28 done Работа с git. GitHub + Django | Урок 3
+ 27.03.2023 00:04:30 done Django 2 уроки текстовый редактор для статей | Урок 4
+ 27.03.2023 00:04:32 done Django 2 уроки - модель комментариев и админка | Урок 5
+ 27.03.2023 00:04:34 done Django 2 уроки вывод комментариев к статье | Урок 6
+ 27.03.2023 00:04:36 done Django 2 уроки - доработка комментариев | Урок 7
+ 27.03.2023 00:04:38 done Django 2 регистрация пользователей | Урок 8
+ 27.03.2023 00:04:40 done Django 2 уроки фильтр статей по дате | Урок 9
+ 27.03.2023 00:04:42 done django 2 фильтр статей по дате | Урок 10
+ 27.03.2023 00:04:45 done django 2 административная панель | Урок 11
+ 27.03.2023 00:04:47 done Django 2 уроки подключение css и js к шаблону | Урок 12
+ 27.03.2023 00:04:49 done django 2 классы View и TemplateView | Урок 13
+ 27.03.2023 00:04:51 done django 2 класс CreateView делаем добавление тикета | Урок 14
+ 27.03.2023 00:04:53 done django2 классы ListView и UpdateView | Урок 15
+ 27.03.2023 00:04:54 done Django 2 уроки
+ 27.03.2023 00:04:54 good end 
+ 27.03.2023 00:04:54 good end 

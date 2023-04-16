@@ -1,0 +1,3 @@
+# [Какие-то уроки](https://www.youtube.com/@kakieToYroki/playlists?view=1&sort=dd&shelf_id=0)
+## [Практика JavaScript для НАЧИНАЮЩИХ](https://www.youtube.com/playlist?list=PL6NCtzCz-4pSu8N7QJlGyqE9pA8l2sZFg)
+### [JavaScript. Решение ДЗ с 20 урока (Объекты)](https://www.youtube.com/watch?v=yamxmALFnq0&amp;list=PL6NCtzCz-4pSu8N7QJlGyqE9pA8l2sZFg&amp;index=8&amp;pp=iAQB)

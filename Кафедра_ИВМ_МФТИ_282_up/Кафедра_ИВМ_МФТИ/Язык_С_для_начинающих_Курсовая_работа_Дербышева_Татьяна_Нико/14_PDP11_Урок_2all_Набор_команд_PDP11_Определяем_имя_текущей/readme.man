@@ -1,0 +1,3 @@
+# [Кафедра ИВМ МФТИ](https://www.youtube.com/@cs_mipt/playlists)
+## [Язык С для начинающих. Курсовая работа. Дербышева Татьяна Николаевна (2020)](https://www.youtube.com/playlist?list=PL55ElYIEKI0ApTzK4GdmVIw5uJEYTxJx5)
+### [PDP-11. Урок 2-all. Набор команд PDP-11. Определяем имя текущей команды](https://www.youtube.com/watch?v=L3m_Xei8fR4&amp;list=PL55ElYIEKI0ApTzK4GdmVIw5uJEYTxJx5&amp;index=14&amp;pp=iAQB)

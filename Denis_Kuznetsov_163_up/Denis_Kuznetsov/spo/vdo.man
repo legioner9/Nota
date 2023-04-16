@@ -1,0 +1,7 @@
+### [Системное программирование: команды shell](https://www.youtube.com/watch?v=T73YLEAGyGs&amp;list=PLrih0txcjWjGqmtOSACxVYcXBC0lPqz_G&amp;index=1)
+### [Перенаправление ввода/вывода на shell](https://www.youtube.com/watch?v=t3PrM3hymHM&amp;list=PLrih0txcjWjGqmtOSACxVYcXBC0lPqz_G&amp;index=2)
+### [tr, grep, sed, awk, регулярные выражения](https://www.youtube.com/watch?v=HhZMuTfk2KA&amp;list=PLrih0txcjWjGqmtOSACxVYcXBC0lPqz_G&amp;index=3)
+### [&quot;Опыт 6&quot; с ОС Minix. Создание и взаимодействие процессов: POSIX vs WINAPI](https://www.youtube.com/watch?v=kS2Lilq9ZGY&amp;list=PLrih0txcjWjGqmtOSACxVYcXBC0lPqz_G&amp;index=4)
+### [Работа системы при запуске программы](https://www.youtube.com/watch?v=5JEbP1jJEGM&amp;list=PLrih0txcjWjGqmtOSACxVYcXBC0lPqz_G&amp;index=5)
+### [Скрипты в bash](https://www.youtube.com/watch?v=HK0P6Th0q_k&amp;list=PLrih0txcjWjGqmtOSACxVYcXBC0lPqz_G&amp;index=6)
+### [Создание и восстановление git-репозитория](https://www.youtube.com/watch?v=9EpHupfPzI8&amp;list=PLrih0txcjWjGqmtOSACxVYcXBC0lPqz_G&amp;index=7)

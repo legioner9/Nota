@@ -1,0 +1,5 @@
+### [Дерандомизация и псевдослучайность 2. UPATH in RL, графы-экспандеры](https://www.youtube.com/watch?v=4Xg8j31xrBE&amp;list=PL4_hYwCyhAvZkCM79e4XZRmj7dAl4zRaZ&amp;index=1&amp;pp=iAQB)
+### [Дерандомизация 3. Графы-экспандеры](https://www.youtube.com/watch?v=dpkROblzG8w&amp;list=PL4_hYwCyhAvZkCM79e4XZRmj7dAl4zRaZ&amp;index=2&amp;pp=iAQB)
+### [Дерандомизация и псевдослучайность 6. Теорема Рейнгольда](https://www.youtube.com/watch?v=zILqk2TvBv0&amp;list=PL4_hYwCyhAvZkCM79e4XZRmj7dAl4zRaZ&amp;index=3&amp;pp=iAQB)
+### [Дерандомизация и псевдослучайность 8. Конденсеры и коды Варди-Парвареша](https://www.youtube.com/watch?v=436Zr0IfLpw&amp;list=PL4_hYwCyhAvZkCM79e4XZRmj7dAl4zRaZ&amp;index=4&amp;pp=iAQB)
+### [Дерандомизация 9. Генераторы Нисана-Вигдерсона](https://www.youtube.com/watch?v=YHjoC8TCrMU&amp;list=PL4_hYwCyhAvZkCM79e4XZRmj7dAl4zRaZ&amp;index=5&amp;pp=iAQB)

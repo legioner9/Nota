@@ -1,0 +1,3 @@
+# [Archakov Blog](https://www.youtube.com/@ArchakovBlog/playlists)
+## [React Pizza — интернет магазин на ReactJS + Redux](https://www.youtube.com/playlist?list=PL0FGkDGJQjJFMRmP7wZ771m1Nx-m2_qXq)
+### [#10: React Pizza — разработка интернет-магазина (for junior) #ФИНАЛ](https://www.youtube.com/watch?v=hCMnDgOmURQ&amp;list=PL0FGkDGJQjJFMRmP7wZ771m1Nx-m2_qXq&amp;index=10)

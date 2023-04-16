@@ -1,0 +1,3 @@
+# [Лекторий ФПМИ](https://www.youtube.com/@lectory_fpmi/playlists?view=1)
+## [Backend - мини-курс в рамках инновационного практикума (3 курс, весна 2019)](https://www.youtube.com/playlist?list=PL4_hYwCyhAvaUqjQB_ks3aau3LUYlLXHx)
+### [Backend 5. Аутентификация. Heroku](https://www.youtube.com/watch?v=eCxaPLBgEdI&amp;list=PL4_hYwCyhAvaUqjQB_ks3aau3LUYlLXHx&amp;index=5&amp;pp=iAQB)

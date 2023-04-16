@@ -1,0 +1,7 @@
+### [Как изменить логотип на экране авторизации WordPress. Уроки по WordPress Codex #1](https://www.youtube.com/watch?v=0OsitwYKCcQ&amp;list=PL2CKgzoZxvxWH3XiQrCRQ9fIshKfOPTNd&amp;index=1&amp;pp=iAQB)
+### [Как поменять иконку и копирайты админ панели WordPress. Уроки по WordPress Codex #2](https://www.youtube.com/watch?v=nBpvEAP95-E&amp;list=PL2CKgzoZxvxWH3XiQrCRQ9fIshKfOPTNd&amp;index=2&amp;pp=iAQB)
+### [WordPress Customizer API. Делаем вкладку Реклама. Уроки по WordPress Codex #3](https://www.youtube.com/watch?v=ZW1_-7gsOB0&amp;list=PL2CKgzoZxvxWH3XiQrCRQ9fIshKfOPTNd&amp;index=3&amp;pp=iAQB)
+### [Как создать новый сайдбар на WordPress. Уроки WordPress Codex #4](https://www.youtube.com/watch?v=zC6WHbioDKU&amp;list=PL2CKgzoZxvxWH3XiQrCRQ9fIshKfOPTNd&amp;index=4&amp;pp=iAQB)
+### [Как установить WordPress одним заклинанием? Фантастика! Используем Yeoman! Уроки WordPress.](https://www.youtube.com/watch?v=Vau1a7yZz54&amp;list=PL2CKgzoZxvxWH3XiQrCRQ9fIshKfOPTNd&amp;index=5&amp;pp=iAQB)
+### [Как сбросить пароль администратора в WordPress на localhost? Уроки по WordPress Codex](https://www.youtube.com/watch?v=2qS5vRvA6_o&amp;list=PL2CKgzoZxvxWH3XiQrCRQ9fIshKfOPTNd&amp;index=6&amp;pp=iAQB)
+### [Как сделать сотни сайтов одной установкой WordPress?](https://www.youtube.com/watch?v=4pxpQoHcspc&amp;list=PL2CKgzoZxvxWH3XiQrCRQ9fIshKfOPTNd&amp;index=7&amp;pp=iAQB)

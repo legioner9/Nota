@@ -1,0 +1,3 @@
+# [Лекторий ФПМИ](https://www.youtube.com/@lectory_fpmi/playlists?view=1)
+## [Инфраструктура больших данных (лекции) (3 курс, весна 2021)](https://www.youtube.com/playlist?list=PL4_hYwCyhAvbREHKcRpgkhKS4XoVz7Hpx)
+### [Инфраструктура больших данных. Лекция 6. Построение оптимального плана запросов](https://www.youtube.com/watch?v=9r79-Tihch0&amp;list=PL4_hYwCyhAvbREHKcRpgkhKS4XoVz7Hpx&amp;index=6&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [Лекторий ФПМИ](https://www.youtube.com/@lectory_fpmi/playlists?view=1)
+## [Алгоритмы и структуры данных (1 курс ИВТ, весна 2020)](https://www.youtube.com/playlist?list=PL4_hYwCyhAvYikJXQHwKCOe1i7So13ZNc)
+### [Алгоритмы ИВТ 13  Алгоритмы Форда-Беллмана, SPFA и Флойда. Поиск отрицательных циклов.](https://www.youtube.com/watch?v=h0acs-EguOI&amp;list=PL4_hYwCyhAvYikJXQHwKCOe1i7So13ZNc&amp;index=11&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [Лекторий ФПМИ](https://www.youtube.com/@lectory_fpmi/playlists?view=1)
+## [Прикладное машинное обучение (семинары, 4 курс, осень 2020)](https://www.youtube.com/playlist?list=PL4_hYwCyhAvZLp0CTIDVQr9FtDR_7DaUr)
+### [Прикладное машинное обучение. Семинар 6. Question Answering &amp; Text to Speech demo](https://www.youtube.com/watch?v=vDO9cuA9vEE&amp;list=PL4_hYwCyhAvZLp0CTIDVQr9FtDR_7DaUr&amp;index=6&amp;pp=iAQB)

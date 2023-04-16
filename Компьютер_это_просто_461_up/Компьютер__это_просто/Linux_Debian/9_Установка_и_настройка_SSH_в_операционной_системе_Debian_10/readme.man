@@ -1,0 +1,3 @@
+# [Компьютер - это просто!](https://www.youtube.com/@it-black/playlists)
+## [Linux Debian](https://www.youtube.com/playlist?list=PLh6tZVFnHXkr70zHCL_4QciH8yEnqz5Ug)
+### [Установка и настройка SSH в операционной системе Debian 10.](https://www.youtube.com/watch?v=NFgf1XJRLHM&amp;list=PLh6tZVFnHXkr70zHCL_4QciH8yEnqz5Ug&amp;index=9&amp;pp=iAQB)

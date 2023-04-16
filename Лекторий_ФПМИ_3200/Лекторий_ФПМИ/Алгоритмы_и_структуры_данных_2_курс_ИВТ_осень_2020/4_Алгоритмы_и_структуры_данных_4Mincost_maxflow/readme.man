@@ -1,0 +1,3 @@
+# [Лекторий ФПМИ](https://www.youtube.com/@lectory_fpmi/playlists?view=1)
+## [Алгоритмы и структуры данных (2 курс ИВТ) осень 2020](https://www.youtube.com/playlist?list=PL4_hYwCyhAva8kiBBrAG1APab7xso6nnn)
+### [Алгоритмы и структуры данных 4.Mincost maxflow](https://www.youtube.com/watch?v=ktPWFDBY5Ds&amp;list=PL4_hYwCyhAva8kiBBrAG1APab7xso6nnn&amp;index=4&amp;pp=iAQB)

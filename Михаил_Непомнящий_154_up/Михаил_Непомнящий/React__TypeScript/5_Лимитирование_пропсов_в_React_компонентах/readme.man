@@ -1,0 +1,3 @@
+# [Михаил Непомнящий](https://www.youtube.com/@mishanep/playlists)
+## [React + TypeScript](https://www.youtube.com/playlist?list=PLiZoB8JBsdzm6SwsKL8ZGCXc8V9i6XakQ)
+### [Лимитирование пропсов в React компонентах](https://www.youtube.com/watch?v=4mzl28OwRg4&amp;list=PLiZoB8JBsdzm6SwsKL8ZGCXc8V9i6XakQ&amp;index=5&amp;pp=iAQB)

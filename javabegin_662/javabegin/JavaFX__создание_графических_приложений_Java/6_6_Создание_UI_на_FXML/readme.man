@@ -1,0 +1,3 @@
+# [javabegin](https://www.youtube.com/@javabegin/playlists?view=1)
+## [JavaFX - создание графических приложений Java](https://www.youtube.com/playlist?list=PL8X2nqRlWfaYInJtb9RQBSclyYvk67lsx)
+### [6 Создание UI на FXML](https://www.youtube.com/watch?v=Glmdmn8JbFs&amp;list=PL8X2nqRlWfaYInJtb9RQBSclyYvk67lsx&amp;index=6&amp;pp=iAQB)

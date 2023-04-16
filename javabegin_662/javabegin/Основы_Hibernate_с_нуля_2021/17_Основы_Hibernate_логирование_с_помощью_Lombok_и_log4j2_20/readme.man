@@ -1,0 +1,3 @@
+# [javabegin](https://www.youtube.com/@javabegin/playlists?view=1)
+## [Основы Hibernate с нуля (2021)](https://www.youtube.com/playlist?list=PL8X2nqRlWfabN7rXPD7KDfXd8jFhAmkTL)
+### [Основы Hibernate: логирование с помощью Lombok и log4j2 (2021)](https://www.youtube.com/watch?v=PjBCg1Ov6Hs&amp;list=PL8X2nqRlWfabN7rXPD7KDfXd8jFhAmkTL&amp;index=17&amp;pp=iAQB)

@@ -1,0 +1,6 @@
+### [Как построили бизнес с Asterisk и 1C](https://www.youtube.com/watch?v=ZXreRRUoSFQ&amp;list=PLPCm3kZfSIxy3VfsFT46MUtTox9aIq7_H&amp;index=1&amp;pp=iAQB)
+### [Соединяем Asterisk, CRM и сервис генерации речи  IVR на лету!](https://www.youtube.com/watch?v=nqVeoyBJ8Es&amp;list=PLPCm3kZfSIxy3VfsFT46MUtTox9aIq7_H&amp;index=2&amp;pp=iAQB)
+### [Обзор интерфейсам модуля МИКО: Коллтрекинг](https://www.youtube.com/watch?v=Zj5Xhz80sMM&amp;list=PLPCm3kZfSIxy3VfsFT46MUtTox9aIq7_H&amp;index=3&amp;pp=iAQB)
+### [Как сделать интеграцию 1С и телефонии бесплатно](https://www.youtube.com/watch?v=do8XFIrte3A&amp;list=PLPCm3kZfSIxy3VfsFT46MUtTox9aIq7_H&amp;index=4&amp;pp=iAQB)
+### [Краткая инструкция по установке Панели телефонии для 1С для письма 🫶](https://www.youtube.com/watch?v=_FUiLH0a1dA&amp;list=PLPCm3kZfSIxy3VfsFT46MUtTox9aIq7_H&amp;index=5&amp;pp=iAQB)
+### [МИКО: Интеграция 1С и телефонии 🦉](https://www.youtube.com/watch?v=E4-N6Cnqywk&amp;list=PLPCm3kZfSIxy3VfsFT46MUtTox9aIq7_H&amp;index=6&amp;pp=iAQB)

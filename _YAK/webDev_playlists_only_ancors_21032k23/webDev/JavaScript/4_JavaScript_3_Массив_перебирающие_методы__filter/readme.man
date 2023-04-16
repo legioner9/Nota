@@ -1,0 +1,3 @@
+# [webDev](https://www.youtube.com/@YauhenKavalchuk/playlists?view=1)
+## [JavaScript](https://www.youtube.com/playlist?list=PLNkWIWHIRwMHKLotIS_d-wyj00pg0AnUg)
+### [JavaScript #3 Массив перебирающие методы – filter](https://www.youtube.com/watch?v=DTfFcLKpM2g&amp;list=PLNkWIWHIRwMHKLotIS_d-wyj00pg0AnUg&amp;index=4)

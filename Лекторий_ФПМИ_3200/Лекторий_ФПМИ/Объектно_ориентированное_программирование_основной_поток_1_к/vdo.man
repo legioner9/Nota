@@ -1,0 +1,7 @@
+### [ООП (основной поток) 1. Введение в C++](https://www.youtube.com/watch?v=Bnje9dnOXA4&amp;list=PL4_hYwCyhAvaZpaXa8FL24nwcPdS8PPA9&amp;index=1&amp;pp=iAQB)
+### [ООП (основной поток) 2. Errors, указатели и ссылки, массивы и работа с памятью.](https://www.youtube.com/watch?v=r7WpRaJG794&amp;list=PL4_hYwCyhAvaZpaXa8FL24nwcPdS8PPA9&amp;index=2&amp;pp=iAQB)
+### [ООП (основной поток) 3. Константы, приведение типов и введение в ООП](https://www.youtube.com/watch?v=eW0dsADf_O0&amp;list=PL4_hYwCyhAvaZpaXa8FL24nwcPdS8PPA9&amp;index=3&amp;pp=iAQB)
+### [ООП (основной поток) 4. Конструкторы и деструкторы](https://www.youtube.com/watch?v=s4rB0yPG3nk&amp;list=PL4_hYwCyhAvaZpaXa8FL24nwcPdS8PPA9&amp;index=4&amp;pp=iAQB)
+### [ООП (основной поток) 5. Наследование](https://www.youtube.com/watch?v=__gsY3Qobys&amp;list=PL4_hYwCyhAvaZpaXa8FL24nwcPdS8PPA9&amp;index=5&amp;pp=iAQB)
+### [ООП (основной поток) 6.](https://www.youtube.com/watch?v=lDxkJ55LFMY&amp;list=PL4_hYwCyhAvaZpaXa8FL24nwcPdS8PPA9&amp;index=6&amp;pp=iAQB)
+### [ООП (основной поток) 7.](https://www.youtube.com/watch?v=CpGr7TG3-jc&amp;list=PL4_hYwCyhAvaZpaXa8FL24nwcPdS8PPA9&amp;index=7&amp;pp=iAQB)

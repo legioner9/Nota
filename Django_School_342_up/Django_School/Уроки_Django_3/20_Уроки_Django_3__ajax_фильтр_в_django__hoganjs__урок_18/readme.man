@@ -1,0 +1,3 @@
+# [Django School](https://www.youtube.com/@DjangoSchool/playlists?view=1)
+## [Уроки Django 3](https://www.youtube.com/playlist?list=PLF-NY6ldwAWrb6nQcPL21XX_-AmivFAYq)
+### [Уроки Django 3 - ajax фильтр в django + hogan.js - урок 18](https://www.youtube.com/watch?v=QFy_RmpJ4ZQ&amp;list=PLF-NY6ldwAWrb6nQcPL21XX_-AmivFAYq&amp;index=20)

@@ -1,0 +1,4 @@
+### [Гость стрима Александр junior python разработчик - Django School](https://www.youtube.com/watch?v=f1Mxo0L8KK0&amp;list=PLF-NY6ldwAWqPIut7jguOeJEw0SWgJ5On&amp;index=1)
+### [Django junior разработчик | Интервью с Артемом | Django School](https://www.youtube.com/watch?v=Icc5fuuY7iM&amp;list=PLF-NY6ldwAWqPIut7jguOeJEw0SWgJ5On&amp;index=2)
+### [Интервью с Евгением Django junior developer | Django School](https://www.youtube.com/watch?v=TzJv_cvwuWQ&amp;list=PLF-NY6ldwAWqPIut7jguOeJEw0SWgJ5On&amp;index=3)
+### [Junior full stack developer | Интервью с Дмитрием | Django School](https://www.youtube.com/watch?v=qHnML2mE7nM&amp;list=PLF-NY6ldwAWqPIut7jguOeJEw0SWgJ5On&amp;index=4)

@@ -1,0 +1,7 @@
+### [АКОС 1 лекция. Unix-подобные ОС.](https://www.youtube.com/watch?v=I0twIDoe5z0&amp;list=PL4_hYwCyhAvbPdTFj35Zg2_y30DzeOtvS&amp;index=1&amp;pp=iAQB)
+### [АКОС 2 лекция. Представление данных. Файлы.](https://www.youtube.com/watch?v=nNYGqJd-cHU&amp;list=PL4_hYwCyhAvbPdTFj35Zg2_y30DzeOtvS&amp;index=2&amp;pp=iAQB)
+### [АКОС 3 лекция  Представление чисел в памяти](https://www.youtube.com/watch?v=sDDmC5qHKyk&amp;list=PL4_hYwCyhAvbPdTFj35Zg2_y30DzeOtvS&amp;index=3&amp;pp=iAQB)
+### [АКОС 4 лекция. Ассемблер ARM](https://www.youtube.com/watch?v=HPNboKtse3Y&amp;list=PL4_hYwCyhAvbPdTFj35Zg2_y30DzeOtvS&amp;index=4&amp;pp=iAQB)
+### [АКОС 5 лекция. Ассемблер. Работа с памятью](https://www.youtube.com/watch?v=rqlJNtBhqZw&amp;list=PL4_hYwCyhAvbPdTFj35Zg2_y30DzeOtvS&amp;index=5&amp;pp=iAQB)
+### [АКОС 6 лекция. SIMD и Кеш.](https://www.youtube.com/watch?v=AY36jeCKgwU&amp;list=PL4_hYwCyhAvbPdTFj35Zg2_y30DzeOtvS&amp;index=6&amp;pp=iAQB)
+### [АКОС 7 лекция. Периферийные устройства.](https://www.youtube.com/watch?v=6fVUocnEZ3Q&amp;list=PL4_hYwCyhAvbPdTFj35Zg2_y30DzeOtvS&amp;index=7&amp;pp=iAQB)

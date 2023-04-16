@@ -1,0 +1,3 @@
+# [Лекторий ФПМИ](https://www.youtube.com/@lectory_fpmi/playlists?view=1)
+## [Алгоритмы и структуры данных (1 курс, продвинутый поток) - лектор Тихомиров](https://www.youtube.com/playlist?list=PL4_hYwCyhAvaVUrDMrAvkiDetyCtMkzMv)
+### [Алгоритмы и структура данных 13. DFS и его применения.](https://www.youtube.com/watch?v=OwGk2CY47ak&amp;list=PL4_hYwCyhAvaVUrDMrAvkiDetyCtMkzMv&amp;index=13&amp;pp=iAQB)

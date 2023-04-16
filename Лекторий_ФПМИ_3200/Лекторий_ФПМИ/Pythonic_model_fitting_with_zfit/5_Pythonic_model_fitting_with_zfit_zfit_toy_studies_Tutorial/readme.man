@@ -1,0 +1,3 @@
+# [Лекторий ФПМИ](https://www.youtube.com/@lectory_fpmi/playlists?view=1)
+## [Pythonic model fitting with zfit](https://www.youtube.com/playlist?list=PL4_hYwCyhAvaDSZ2kBe-ddyYC2u4MJ6d9)
+### [Pythonic model fitting with zfit. zfit toy studies. Tutorial 4](https://www.youtube.com/watch?v=mPRD_a4xfKo&amp;list=PL4_hYwCyhAvaDSZ2kBe-ddyYC2u4MJ6d9&amp;index=5&amp;pp=iAQB)

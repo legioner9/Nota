@@ -1,0 +1,3 @@
+# [AreaWeb](https://www.youtube.com/@areaweb/playlists)
+## [JavaScript](https://www.youtube.com/playlist?list=PLiOhsP3M5j5wIUlXkYMuWTVR8inofxLS0)
+### [Drag &amp; Drop на чистом JavaScript и PHP](https://www.youtube.com/watch?v=OvLZX2B05Fw&amp;list=PLiOhsP3M5j5wIUlXkYMuWTVR8inofxLS0&amp;index=9&amp;pp=iAQB)

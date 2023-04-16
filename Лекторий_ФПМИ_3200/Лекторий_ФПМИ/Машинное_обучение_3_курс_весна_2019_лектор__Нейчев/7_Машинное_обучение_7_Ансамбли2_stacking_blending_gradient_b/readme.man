@@ -1,0 +1,3 @@
+# [Лекторий ФПМИ](https://www.youtube.com/@lectory_fpmi/playlists?view=1)
+## [Машинное обучение (3 курс, весна 2019), лектор -- Нейчев](https://www.youtube.com/playlist?list=PL4_hYwCyhAvasRqzz4w562ce0esEwS0Mt)
+### [Машинное обучение 7. Ансамбли-2: stacking, blending, gradient boosting](https://www.youtube.com/watch?v=md5krGNRrwU&amp;list=PL4_hYwCyhAvasRqzz4w562ce0esEwS0Mt&amp;index=7&amp;pp=iAQB)

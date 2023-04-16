@@ -1,0 +1,3 @@
+# [AreaWeb](https://www.youtube.com/@areaweb/playlists)
+## [Дневник](https://www.youtube.com/playlist?list=PLiOhsP3M5j5w3HObHAgNwPf6ysfs-v1SS)
+### [Cвоя соц. сеть на PHP и Laravel (часть 1, аутентификация)](https://www.youtube.com/watch?v=TJ_vj_uFBBo&amp;list=PLiOhsP3M5j5w3HObHAgNwPf6ysfs-v1SS&amp;index=2&amp;pp=iAQB)

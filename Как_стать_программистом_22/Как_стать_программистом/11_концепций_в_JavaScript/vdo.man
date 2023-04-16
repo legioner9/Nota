@@ -1,0 +1,4 @@
+### [11 концепций в JavaScript](https://www.youtube.com/watch?v=IJzo0kPAxwg&amp;list=PLqp5ZRS9tv4Qdq9Cmkh5f0Ta22u7vg_T4&amp;index=1&amp;pp=iAQB)
+### [Область видимости в JavaScript (Тема №1)](https://www.youtube.com/watch?v=2XFidNSwdpY&amp;list=PLqp5ZRS9tv4Qdq9Cmkh5f0Ta22u7vg_T4&amp;index=2&amp;pp=iAQB)
+### [Всплытие в JavaScript / Hoisting (Тема №2)](https://www.youtube.com/watch?v=mlds8tyhdXE&amp;list=PLqp5ZRS9tv4Qdq9Cmkh5f0Ta22u7vg_T4&amp;index=3&amp;pp=iAQB)
+### [Объекты в JavaScript (Тема №3)](https://www.youtube.com/watch?v=FiKAFVgZe60&amp;list=PLqp5ZRS9tv4Qdq9Cmkh5f0Ta22u7vg_T4&amp;index=4&amp;pp=iAQB)

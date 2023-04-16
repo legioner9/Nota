@@ -1,0 +1,3 @@
+# [ИИКС НИЯУ МИФИ](https://www.youtube.com/@icismephi/playlists)
+## [Python ИИКС](https://www.youtube.com/playlist?list=PLrMb_y4Du4Jhu0KoJzZZPcmgtonjbhw1t)
+### [Мастер-класс &quot;Видео плеер на Python: Qt и OpenCV&quot;](https://www.youtube.com/watch?v=Ga02TH5ry7U&amp;list=PLrMb_y4Du4Jhu0KoJzZZPcmgtonjbhw1t&amp;index=4&amp;pp=iAQB)

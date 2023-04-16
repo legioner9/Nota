@@ -1,0 +1,3 @@
+# [Основы протокола SIP](https://www.youtube.com/@sip2864ru/playlists)
+## [Теория](https://www.youtube.com/playlist?list=PLu-vH1nEdtsXL3q3gXlyWQ9bF4h76go8j)
+### [Тема#15 - Регистрация и настройка SIP телефона по HTTP(S)](https://www.youtube.com/watch?v=bOMaaoCCsg4&amp;list=PLu-vH1nEdtsXL3q3gXlyWQ9bF4h76go8j&amp;index=3&amp;pp=iAQB)

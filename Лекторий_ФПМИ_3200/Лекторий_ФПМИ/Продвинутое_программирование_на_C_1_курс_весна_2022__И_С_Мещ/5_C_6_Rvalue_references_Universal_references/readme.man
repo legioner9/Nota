@@ -1,0 +1,3 @@
+# [Лекторий ФПМИ](https://www.youtube.com/@lectory_fpmi/playlists?view=1)
+## [Продвинутое программирование на C++ (1 курс, весна 2022) - И. С. Мещерин](https://www.youtube.com/playlist?list=PL4_hYwCyhAvaWsj3-0gLH_yEZfKdTife0)
+### [C++ 6. Rvalue references. Universal references](https://www.youtube.com/watch?v=wu66JJ8ATbg&amp;list=PL4_hYwCyhAvaWsj3-0gLH_yEZfKdTife0&amp;index=5&amp;pp=iAQB)

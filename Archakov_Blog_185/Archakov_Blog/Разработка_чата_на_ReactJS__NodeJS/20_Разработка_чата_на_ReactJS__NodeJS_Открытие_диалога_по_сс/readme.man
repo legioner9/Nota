@@ -1,0 +1,3 @@
+# [Archakov Blog](https://www.youtube.com/@ArchakovBlog/playlists)
+## [Разработка чата на ReactJS + NodeJS](https://www.youtube.com/playlist?list=PL0FGkDGJQjJFDr8R3D6dFVa1nhce_2-ly)
+### [Разработка чата на ReactJS + NodeJS: Открытие диалога по ссылке, статус &quot;прочитано&quot;, Cloudinary](https://www.youtube.com/watch?v=QacAxfBNbBg&amp;list=PL0FGkDGJQjJFDr8R3D6dFVa1nhce_2-ly&amp;index=20)

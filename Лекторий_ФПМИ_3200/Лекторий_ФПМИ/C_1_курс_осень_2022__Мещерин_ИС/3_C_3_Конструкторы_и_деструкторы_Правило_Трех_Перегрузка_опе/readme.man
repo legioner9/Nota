@@ -1,0 +1,3 @@
+# [Лекторий ФПМИ](https://www.youtube.com/@lectory_fpmi/playlists?view=1)
+## [C++ (1 курс, осень 2022) - Мещерин И.С.](https://www.youtube.com/playlist?list=PL4_hYwCyhAvbKdcSnPFPtQCGjBzbB6n2f)
+### [C++ 3. Конструкторы и деструкторы, Правило Трех, Перегрузка операторов.](https://www.youtube.com/watch?v=6uC2UHgKcQk&amp;list=PL4_hYwCyhAvbKdcSnPFPtQCGjBzbB6n2f&amp;index=3&amp;pp=iAQB)

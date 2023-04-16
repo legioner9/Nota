@@ -1,0 +1,3 @@
+# [webDev](https://www.youtube.com/@YauhenKavalchuk/playlists?view=1)
+## [TypeScript](https://www.youtube.com/playlist?list=PLNkWIWHIRwMEm1FgiLjHqSky27x5rXvQa)
+### [TypeScript #8 Пространства имён и модули (Namespaces &amp; Modules)](https://www.youtube.com/watch?v=5Eap2h9AffA&amp;list=PLNkWIWHIRwMEm1FgiLjHqSky27x5rXvQa&amp;index=9)

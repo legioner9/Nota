@@ -1,0 +1,3 @@
+# [Мир IT с Антоном Павленко](https://www.youtube.com/@pavlenkoat/playlists)
+## [Администрирование](https://www.youtube.com/playlist?list=PLWCdmr_xDegdIzr-SlQ4qEBskGnz3g6LP)
+### [В чем разница между OSI и TCP/IP? Зачем существуют одновременно две сетевые модели?](https://www.youtube.com/watch?v=4a2CeSD1yIk&amp;list=PLWCdmr_xDegdIzr-SlQ4qEBskGnz3g6LP&amp;index=1&amp;pp=iAQB)

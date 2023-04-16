@@ -1,0 +1,3 @@
+# [Лекторий ФПМИ](https://www.youtube.com/@lectory_fpmi/playlists?view=1)
+## [(семинары) Алгоритмы и структуры данных (1 курс, осень 2019) - семинарист Рухович Ф.Д.](https://www.youtube.com/playlist?list=PL4_hYwCyhAvb7igx_YeBF4BZBnq5CRtMB)
+### [Алгоритмы. Семинар 9. Быстрое преобразование Фурье. Часть 3](https://www.youtube.com/watch?v=IRirsL62Tu8&amp;list=PL4_hYwCyhAvb7igx_YeBF4BZBnq5CRtMB&amp;index=6&amp;pp=iAQB)

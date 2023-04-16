@@ -1,0 +1,3 @@
+# [Компьютер - это просто!](https://www.youtube.com/@it-black/playlists)
+## [Linux Debian](https://www.youtube.com/playlist?list=PLh6tZVFnHXkr70zHCL_4QciH8yEnqz5Ug)
+### [Установка источников и обновление Debian 10 (установка sudo для пользователя).](https://www.youtube.com/watch?v=hf-J2pWepzc&amp;list=PLh6tZVFnHXkr70zHCL_4QciH8yEnqz5Ug&amp;index=2&amp;pp=iAQB)

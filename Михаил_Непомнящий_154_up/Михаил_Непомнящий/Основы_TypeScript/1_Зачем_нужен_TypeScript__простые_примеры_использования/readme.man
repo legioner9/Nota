@@ -1,0 +1,3 @@
+# [Михаил Непомнящий](https://www.youtube.com/@mishanep/playlists)
+## [Основы TypeScript](https://www.youtube.com/playlist?list=PLiZoB8JBsdzlG1oAY8U4vrBtVW07j6jil)
+### [Зачем нужен TypeScript - простые примеры использования](https://www.youtube.com/watch?v=G7fNaZwIoiM&amp;list=PLiZoB8JBsdzlG1oAY8U4vrBtVW07j6jil&amp;index=1&amp;pp=iAQB)

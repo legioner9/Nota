@@ -1,0 +1,6 @@
+### [АКОС Семинар №4. Целочисленная арифметика. Вещественная арифметика.](https://www.youtube.com/watch?v=hAGPksJEWPo&amp;list=PL4_hYwCyhAvbYWkGzo2vpc-HbhjUbxeEf&amp;index=1&amp;pp=iAQB)
+### [АКОС Семинар №5. Разработка под ARM.](https://www.youtube.com/watch?v=6wUWcsfd8bw&amp;list=PL4_hYwCyhAvbYWkGzo2vpc-HbhjUbxeEf&amp;index=2&amp;pp=iAQB)
+### [АКОС Семинар №6. Ассемблер ARM.](https://www.youtube.com/watch?v=_GrnynfePy0&amp;list=PL4_hYwCyhAvbYWkGzo2vpc-HbhjUbxeEf&amp;index=3&amp;pp=iAQB)
+### [АКОС Семинар №7. Ассемблер архитектуры х86.](https://www.youtube.com/watch?v=SwlIr437U_A&amp;list=PL4_hYwCyhAvbYWkGzo2vpc-HbhjUbxeEf&amp;index=4&amp;pp=iAQB)
+### [АКОС Семинар №8. Вещественные операции в SSE.](https://www.youtube.com/watch?v=jdyTaQAf33I&amp;list=PL4_hYwCyhAvbYWkGzo2vpc-HbhjUbxeEf&amp;index=5&amp;pp=iAQB)
+### [АКОС Семинар №9. Системные вызовы.](https://www.youtube.com/watch?v=FENz1yCD4Dw&amp;list=PL4_hYwCyhAvbYWkGzo2vpc-HbhjUbxeEf&amp;index=6&amp;pp=iAQB)

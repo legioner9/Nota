@@ -1,0 +1,3 @@
+# [Лекторий ФПМИ](https://www.youtube.com/@lectory_fpmi/playlists?view=1)
+## [Сложность вычислений, доп.главы. Лектор - Мусатов Д.В.](https://www.youtube.com/playlist?list=PL4_hYwCyhAvZn9EJfRktZs6i6ytMDMgyJ)
+### [Сложность вычислений (доп.главы) - 5. PCP-теорема, приближённые решения NP-полных задач оптимизации.](https://www.youtube.com/watch?v=hHcXmor48qA&amp;list=PL4_hYwCyhAvZn9EJfRktZs6i6ytMDMgyJ&amp;index=4&amp;pp=iAQB)

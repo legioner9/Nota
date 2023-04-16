@@ -1,0 +1,3 @@
+### [ТПМС / Лекция 1 / Вводная лекция](https://www.youtube.com/watch?v=zw6V3SDsXDk&amp;list=PL4_hYwCyhAvZLYM41IC4JMnrPpNLbAVL2&amp;index=1&amp;pp=iAQB)
+### [ТПМС / Лекция 2 / Взаимное исключение](https://www.youtube.com/watch?v=fmcBo4E7qr0&amp;list=PL4_hYwCyhAvZLYM41IC4JMnrPpNLbAVL2&amp;index=2&amp;pp=iAQB)
+### [ТПМС / Лекция 3 / Пул потоков, условные переменные](https://www.youtube.com/watch?v=8ye_GRpvpr4&amp;list=PL4_hYwCyhAvZLYM41IC4JMnrPpNLbAVL2&amp;index=3&amp;pp=iAQB)

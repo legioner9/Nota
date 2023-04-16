@@ -1,0 +1,80 @@
+ 06.04.2023 13:31:43 done Стрим по разработке консольного Twitch чата: добавляем поддержку Twitch Badges
+ 06.04.2023 13:31:45 done Стрим по разработке консольного Twitch чата, рефакторим работу со стикерами
+ 06.04.2023 13:31:48 done Стрим по разработке консольного Twitch чата, добавлине поддержки BetterTTV
+ 06.04.2023 13:31:50 done Стрим по разработке консольного Twitch чата, добавляем больше цветов
+ 06.04.2023 13:31:50 done Разработка Twitch чата
+ 06.04.2023 13:32:22 done A Tour of Go #1: Вкатываемся в Golang, начинаем туториал
+ 06.04.2023 13:32:24 done A Tour of Go #2: Продолжаем вкатываться в Golang, туториал по гоферски
+ 06.04.2023 13:32:26 done A Tour of Go #3: Методируем Golang, продолжение туториала
+ 06.04.2023 13:32:29 done A Tour of Go #4: Конкурируем
+ 06.04.2023 13:32:31 done A Tour of Go #5: Финал
+ 06.04.2023 13:32:31 done A Tour of Go
+ 06.04.2023 13:33:02 done Чай, код и honeypot
+ 06.04.2023 13:33:04 done Чай, код и honeypot #2
+ 06.04.2023 13:33:07 done Что такое honeypot? Пишем honeypot на python с помощью flask
+ 06.04.2023 13:33:07 done honeypot
+ 06.04.2023 13:33:39 done [Stream] Обновляем VRedis
+ 06.04.2023 13:33:41 done [Stream] leetcode me вкатываемся в easy level
+ 06.04.2023 13:33:43 done [Stream] leetcode me решаем greedy easy
+ 06.04.2023 13:33:46 done [Stream] leetcode me продолжаем greedy easy
+ 06.04.2023 13:33:48 done [Stream] leetcode me продолжаем easy
+ 06.04.2023 13:33:50 done [Stream] leetcode me уровень easy, часть 5
+ 06.04.2023 13:33:53 done [Stream] синхронизатор vim конфигов
+ 06.04.2023 13:33:55 done [Stream] пишем telegram бота на vlang
+ 06.04.2023 13:33:57 done [Stream] Простой rest на vlang
+ 06.04.2023 13:34:00 done [Stream] Начинаем реализацию memcached библиотеки на vlang
+ 06.04.2023 13:34:02 done [Stream] Реализация get и set в библиотеке vlang memcached
+ 06.04.2023 13:34:04 done [Stream] Реализация replace и delete в библиотеке vlang memcached
+ 06.04.2023 13:34:06 done [Stream] решаем задачи с помощью stack на leetcode
+ 06.04.2023 13:34:09 done [Stream] Топ задачи интервью на leetcode часть 1
+ 06.04.2023 13:34:11 done [Stream] Топ задачи интервью на leetcode часть 2
+ 06.04.2023 13:34:13 done [Stream] Топ задачи интервью на leetcode часть 3
+ 06.04.2023 13:34:14 done stream
+ 06.04.2023 13:34:46 done [Vtutor] Introduction
+ 06.04.2023 13:34:48 done [Vtutor] Install vlang
+ 06.04.2023 13:34:50 done [Vtutor] Variables and types
+ 06.04.2023 13:34:52 done [Vtutor] Array and map
+ 06.04.2023 13:34:55 done [Vtutor] Conditions and loops
+ 06.04.2023 13:34:55 done Vtutor
+ 06.04.2023 13:34:56 good end 
+ 06.04.2023 13:34:56 good end 
+ 16.04.2023 11:50:00 done Стрим по разработке консольного Twitch чата: добавляем поддержку Twitch Badges
+ 16.04.2023 11:50:02 done Стрим по разработке консольного Twitch чата, рефакторим работу со стикерами
+ 16.04.2023 11:50:04 done Стрим по разработке консольного Twitch чата, добавлине поддержки BetterTTV
+ 16.04.2023 11:50:06 done Стрим по разработке консольного Twitch чата, добавляем больше цветов
+ 16.04.2023 11:50:07 done Разработка Twitch чата
+ 16.04.2023 11:50:33 done A Tour of Go #1: Вкатываемся в Golang, начинаем туториал
+ 16.04.2023 11:50:35 done A Tour of Go #2: Продолжаем вкатываться в Golang, туториал по гоферски
+ 16.04.2023 11:50:37 done A Tour of Go #3: Методируем Golang, продолжение туториала
+ 16.04.2023 11:50:39 done A Tour of Go #4: Конкурируем
+ 16.04.2023 11:50:42 done A Tour of Go #5: Финал
+ 16.04.2023 11:50:42 done A Tour of Go
+ 16.04.2023 11:51:07 done Чай, код и honeypot
+ 16.04.2023 11:51:10 done Чай, код и honeypot #2
+ 16.04.2023 11:51:12 done Что такое honeypot? Пишем honeypot на python с помощью flask
+ 16.04.2023 11:51:12 done honeypot
+ 16.04.2023 11:51:38 done [Stream] Обновляем VRedis
+ 16.04.2023 11:51:41 done [Stream] leetcode me вкатываемся в easy level
+ 16.04.2023 11:51:43 done [Stream] leetcode me решаем greedy easy
+ 16.04.2023 11:51:45 done [Stream] leetcode me продолжаем greedy easy
+ 16.04.2023 11:51:47 done [Stream] leetcode me продолжаем easy
+ 16.04.2023 11:51:50 done [Stream] leetcode me уровень easy, часть 5
+ 16.04.2023 11:51:52 done [Stream] синхронизатор vim конфигов
+ 16.04.2023 11:51:54 done [Stream] пишем telegram бота на vlang
+ 16.04.2023 11:51:56 done [Stream] Простой rest на vlang
+ 16.04.2023 11:51:59 done [Stream] Начинаем реализацию memcached библиотеки на vlang
+ 16.04.2023 11:52:01 done [Stream] Реализация get и set в библиотеке vlang memcached
+ 16.04.2023 11:52:03 done [Stream] Реализация replace и delete в библиотеке vlang memcached
+ 16.04.2023 11:52:05 done [Stream] решаем задачи с помощью stack на leetcode
+ 16.04.2023 11:52:08 done [Stream] Топ задачи интервью на leetcode часть 1
+ 16.04.2023 11:52:10 done [Stream] Топ задачи интервью на leetcode часть 2
+ 16.04.2023 11:52:12 done [Stream] Топ задачи интервью на leetcode часть 3
+ 16.04.2023 11:52:13 done stream
+ 16.04.2023 11:52:39 done [Vtutor] Introduction
+ 16.04.2023 11:52:41 done [Vtutor] Install vlang
+ 16.04.2023 11:52:43 done [Vtutor] Variables and types
+ 16.04.2023 11:52:45 done [Vtutor] Array and map
+ 16.04.2023 11:52:48 done [Vtutor] Conditions and loops
+ 16.04.2023 11:52:48 done Vtutor
+ 16.04.2023 11:52:49 good end 
+ 16.04.2023 11:52:49 good end 

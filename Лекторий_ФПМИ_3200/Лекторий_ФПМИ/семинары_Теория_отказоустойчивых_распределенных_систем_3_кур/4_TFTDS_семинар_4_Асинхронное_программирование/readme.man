@@ -1,0 +1,3 @@
+# [Лекторий ФПМИ](https://www.youtube.com/@lectory_fpmi/playlists?view=1)
+## [(семинары) Теория отказоустойчивых распределенных систем (3 курс, осень 2019) - семинарист -- Роман Липовский](https://www.youtube.com/playlist?list=PL4_hYwCyhAvYaxubHPI-qZDhqPckxxvK7)
+### [TFTDS. семинар 4. Асинхронное программирование](https://www.youtube.com/watch?v=bOsS7NIhREA&amp;list=PL4_hYwCyhAvYaxubHPI-qZDhqPckxxvK7&amp;index=4&amp;pp=iAQB)

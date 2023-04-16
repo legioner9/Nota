@@ -1,0 +1,5 @@
+### [Файловая система Linux. Нужна ли дефрагментация? Раскрываем секреты.](https://www.youtube.com/watch?v=3PUAEqquVEU&amp;list=PLWCdmr_xDegd7e_3as8ERlwNxOEqx1vRy&amp;index=1&amp;pp=iAQB)
+### [Структура каталогов Linux и монтирование дисков. Как продлить жизнь SSD.](https://www.youtube.com/watch?v=j7iKs5xiujM&amp;list=PLWCdmr_xDegd7e_3as8ERlwNxOEqx1vRy&amp;index=2&amp;pp=iAQB)
+### [Управление доступом к файлам в Linux, назначение владельцев, права по умолчанию](https://www.youtube.com/watch?v=l8BSD_hfFww&amp;list=PLWCdmr_xDegd7e_3as8ERlwNxOEqx1vRy&amp;index=3&amp;pp=iAQB)
+### [Что такое SWAP linux, как он работает? Создание swap файла linux](https://www.youtube.com/watch?v=EBwiZ02IBTg&amp;list=PLWCdmr_xDegd7e_3as8ERlwNxOEqx1vRy&amp;index=4&amp;pp=iAQB)
+### [LVM Linux. Как разметить диск в Linux чтобы можно было расширить?](https://www.youtube.com/watch?v=6nB_W6qz2gg&amp;list=PLWCdmr_xDegd7e_3as8ERlwNxOEqx1vRy&amp;index=5&amp;pp=iAQB)

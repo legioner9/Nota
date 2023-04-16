@@ -1,0 +1,3 @@
+# [Мир IT с Антоном Павленко](https://www.youtube.com/@pavlenkoat/playlists)
+## [WEB-технологии](https://www.youtube.com/playlist?list=PLWCdmr_xDegcLpwsvjrYuVe-f5iu_zyzv)
+### [NGINX с нуля до профи. Nginx что это, как работает, как парсит конфиги?](https://www.youtube.com/watch?v=ixfnxLqcLOs&amp;list=PLWCdmr_xDegcLpwsvjrYuVe-f5iu_zyzv&amp;index=1&amp;pp=iAQB)

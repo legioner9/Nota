@@ -1,0 +1,3 @@
+# [Лекторий ФПМИ](https://www.youtube.com/@lectory_fpmi/playlists?view=1)
+## [Математическая логика и теория алгоритмов (1 курс, весна 2022) - Дашков Е. В.](https://www.youtube.com/playlist?list=PL4_hYwCyhAvYJx5swFZ7-ZDJV9LhLIdqD)
+### [Матлогика 19. Логика предикатов. Структуры. Сигнатуры и их интерпретации](https://www.youtube.com/watch?v=m5P3Ax3ibvs&amp;list=PL4_hYwCyhAvYJx5swFZ7-ZDJV9LhLIdqD&amp;index=3&amp;pp=iAQB)

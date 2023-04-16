@@ -1,0 +1,3 @@
+# [Django School](https://www.youtube.com/@DjangoSchool/playlists?view=1)
+## [Уроки Django Rest Framework](https://www.youtube.com/playlist?list=PLF-NY6ldwAWqSxUpnTBObEP21cFQxNJ7C)
+### [Django Rest Framework - добавление и обновление рейтинга к фильму - урок 6](https://www.youtube.com/watch?v=nmYPbCwbhjs&amp;list=PLF-NY6ldwAWqSxUpnTBObEP21cFQxNJ7C&amp;index=7)

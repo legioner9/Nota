@@ -1,0 +1,3 @@
+# [Exploring the IT World / Oleg Shpagin / WISEPLAT](https://www.youtube.com/@wiseplat/playlists)
+## [Уроки C# для начинающих [ОСНОВЫ / уровень 1]](https://www.youtube.com/playlist?list=PLxiU3nwEQ4PH1Zp-b83G_EE62Y0BWeOoG)
+### [Уроки C# / Аргументы командной строки](https://www.youtube.com/watch?v=UOnkeZxcmHg&amp;list=PLxiU3nwEQ4PH1Zp-b83G_EE62Y0BWeOoG&amp;index=9)

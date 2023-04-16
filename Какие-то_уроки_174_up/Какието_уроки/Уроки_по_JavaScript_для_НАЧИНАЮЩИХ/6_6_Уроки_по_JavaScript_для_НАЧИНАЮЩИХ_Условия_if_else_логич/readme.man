@@ -1,0 +1,3 @@
+# [Какие-то уроки](https://www.youtube.com/@kakieToYroki/playlists?view=1&sort=dd&shelf_id=0)
+## [Уроки по JavaScript для НАЧИНАЮЩИХ](https://www.youtube.com/playlist?list=PL6NCtzCz-4pTxrzj7Iy4W9fAi60YmwXFl)
+### [#6. Уроки по JavaScript для НАЧИНАЮЩИХ (Условия if else, логические операторы)](https://www.youtube.com/watch?v=uus8Vl3w-VI&amp;list=PL6NCtzCz-4pTxrzj7Iy4W9fAi60YmwXFl&amp;index=6&amp;pp=iAQB)

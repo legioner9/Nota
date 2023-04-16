@@ -1,0 +1,3 @@
+# [Лекторий ФПМИ](https://www.youtube.com/@lectory_fpmi/playlists?view=1)
+## [Алгоритмы и структуры данных (2 курс ИВТ) осень 2020](https://www.youtube.com/playlist?list=PL4_hYwCyhAva8kiBBrAG1APab7xso6nnn)
+### [Агоритмы и структуры данных, семинар 11. Хэши](https://www.youtube.com/watch?v=xst7a1k-Qk8&amp;list=PL4_hYwCyhAva8kiBBrAG1APab7xso6nnn&amp;index=12&amp;pp=iAQB)

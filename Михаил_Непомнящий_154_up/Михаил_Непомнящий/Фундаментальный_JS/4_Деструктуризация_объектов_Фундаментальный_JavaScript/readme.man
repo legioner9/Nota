@@ -1,0 +1,3 @@
+# [Михаил Непомнящий](https://www.youtube.com/@mishanep/playlists)
+## [Фундаментальный JS](https://www.youtube.com/playlist?list=PLiZoB8JBsdznAXu9WxE5NWfPwp22XWnM7)
+### [Деструктуризация объектов. Фундаментальный JavaScript](https://www.youtube.com/watch?v=mbov4Rs0F3k&amp;list=PLiZoB8JBsdznAXu9WxE5NWfPwp22XWnM7&amp;index=4&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [javabegin](https://www.youtube.com/@javabegin/playlists?view=1)
+## [Синтаксис Java](https://www.youtube.com/playlist?list=PL8X2nqRlWfaYPXOltJATRT-MbGCKkiO1j)
+### [17 Операторы И ИЛИ в Java](https://www.youtube.com/watch?v=Bx_E46UV1Qs&amp;list=PL8X2nqRlWfaYPXOltJATRT-MbGCKkiO1j&amp;index=17&amp;pp=iAQB)

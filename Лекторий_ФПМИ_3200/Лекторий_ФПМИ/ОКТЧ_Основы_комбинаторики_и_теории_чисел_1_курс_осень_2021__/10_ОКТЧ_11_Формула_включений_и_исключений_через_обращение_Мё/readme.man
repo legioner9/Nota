@@ -1,0 +1,3 @@
+# [Лекторий ФПМИ](https://www.youtube.com/@lectory_fpmi/playlists?view=1)
+## [[ОКТЧ] Основы комбинаторики и теории чисел (1 курс, осень 2021) - Мусатов Д. В. / Райгородский А. М.](https://www.youtube.com/playlist?list=PL4_hYwCyhAvaQVTXoaN9LfTevGEfKzaZn)
+### [ОКТЧ 11. Формула включений и исключений через обращение Мёбиуса. Разбиение числа на слагаемые](https://www.youtube.com/watch?v=iuoHGK659-M&amp;list=PL4_hYwCyhAvaQVTXoaN9LfTevGEfKzaZn&amp;index=10&amp;pp=iAQB)

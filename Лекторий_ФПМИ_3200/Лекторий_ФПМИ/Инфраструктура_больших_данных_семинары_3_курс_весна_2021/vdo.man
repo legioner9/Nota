@@ -1,0 +1,5 @@
+### [Инфраструктура больших данных. Семинар 1. Знакомство с репозиторием](https://www.youtube.com/watch?v=UoJ6qy1xwG4&amp;list=PL4_hYwCyhAvbI83zAjpg8EO52sBywa2rQ&amp;index=1&amp;pp=iAQB)
+### [Инфраструктура больших данных. Семинар 2. Индексы и внешняя память](https://www.youtube.com/watch?v=zUHIBt5anFw&amp;list=PL4_hYwCyhAvbI83zAjpg8EO52sBywa2rQ&amp;index=2&amp;pp=iAQB)
+### [Инфраструктура больших данных. Семинар 3. Ранжирование](https://www.youtube.com/watch?v=bpLIEEGa4ug&amp;list=PL4_hYwCyhAvbI83zAjpg8EO52sBywa2rQ&amp;index=3&amp;pp=iAQB)
+### [Инфраструктура больших данных. Семинар 4. Cache aware и cache-oblivious алгоритмы.](https://www.youtube.com/watch?v=vu7ybRmR9P4&amp;list=PL4_hYwCyhAvbI83zAjpg8EO52sBywa2rQ&amp;index=4&amp;pp=iAQB)
+### [Инфраструктура больших данных. Семинар 5. Flex &amp; Bison](https://www.youtube.com/watch?v=8uixbM5DdDQ&amp;list=PL4_hYwCyhAvbI83zAjpg8EO52sBywa2rQ&amp;index=5&amp;pp=iAQB)

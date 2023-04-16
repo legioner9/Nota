@@ -1,0 +1,3 @@
+# [Лекторий ФПМИ](https://www.youtube.com/@lectory_fpmi/playlists?view=1)
+## [Concurrency (2 курс, 2020)](https://www.youtube.com/playlist?list=PL4_hYwCyhAvalRjpPlvaCYPpPE8TL-fn3)
+### [Concurrency 3. Мелкогранулярные блокировки](https://www.youtube.com/watch?v=39FVKa9liZU&amp;list=PL4_hYwCyhAvalRjpPlvaCYPpPE8TL-fn3&amp;index=3&amp;pp=iAQB)

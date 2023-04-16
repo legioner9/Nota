@@ -1,0 +1,3 @@
+# [Какие-то уроки](https://www.youtube.com/@kakieToYroki/playlists?view=1&sort=dd&shelf_id=0)
+## [Уроки по CSS для НАЧИНАЮЩИХ](https://www.youtube.com/playlist?list=PL6NCtzCz-4pQZ-uueXnuIcQMs085CAhty)
+### [#8. Уроки по CSS для НАЧИНАЮЩИХ (Flexbox 2/2)](https://www.youtube.com/watch?v=46J9EHwA6T4&amp;list=PL6NCtzCz-4pQZ-uueXnuIcQMs085CAhty&amp;index=8&amp;pp=iAQB)

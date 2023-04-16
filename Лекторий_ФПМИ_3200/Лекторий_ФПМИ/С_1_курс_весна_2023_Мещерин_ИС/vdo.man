@@ -1,0 +1,7 @@
+### [C++ 1. std::map, std::list](https://www.youtube.com/watch?v=_jIp7mA1Hy8&amp;list=PL4_hYwCyhAvZATDL6xxWCrHDqBF50RfKW&amp;index=1&amp;pp=iAQB)
+### [C++ 2. unordered_map, allocator_traits и allocator aware containers](https://www.youtube.com/watch?v=XamV5-pTNc8&amp;list=PL4_hYwCyhAvZATDL6xxWCrHDqBF50RfKW&amp;index=2&amp;pp=iAQB)
+### [C++ 3.  Перегрузка new/delete, Alignments and bit fields, Scoped allocators, std::move](https://www.youtube.com/watch?v=naciFWWN9yc&amp;list=PL4_hYwCyhAvZATDL6xxWCrHDqBF50RfKW&amp;index=3&amp;pp=iAQB)
+### [C++ 4. Реализация std::move,  rvalue and lvalue + Семинар](https://www.youtube.com/watch?v=CHm-jXWdb54&amp;list=PL4_hYwCyhAvZATDL6xxWCrHDqBF50RfKW&amp;index=4&amp;pp=iAQB)
+### [С++ 5. Perfect forwarding and Universal references](https://www.youtube.com/watch?v=LLLYvY72L8E&amp;list=PL4_hYwCyhAvZATDL6xxWCrHDqBF50RfKW&amp;index=5&amp;pp=iAQB)
+### [C++ 6. xvalues, RVO, copy elision, move_if_noexcept](https://www.youtube.com/watch?v=3XSwpsy-EVE&amp;list=PL4_hYwCyhAvZATDL6xxWCrHDqBF50RfKW&amp;index=6&amp;pp=iAQB)
+### [C++ 7. Лямбда-функция](https://www.youtube.com/watch?v=81Rk2wm0Ah0&amp;list=PL4_hYwCyhAvZATDL6xxWCrHDqBF50RfKW&amp;index=7&amp;pp=iAQB)

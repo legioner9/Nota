@@ -1,0 +1,3 @@
+# [Компьютер - это просто!](https://www.youtube.com/@it-black/playlists)
+## [PureOS](https://www.youtube.com/playlist?list=PLh6tZVFnHXkoCcEORCYxixRRWCnSHBo4d)
+### [Установка PureOS через виртуальный USB-носитель в VirtualBox.](https://www.youtube.com/watch?v=fXwNifh79DU&amp;list=PLh6tZVFnHXkoCcEORCYxixRRWCnSHBo4d&amp;index=1&amp;pp=iAQB)

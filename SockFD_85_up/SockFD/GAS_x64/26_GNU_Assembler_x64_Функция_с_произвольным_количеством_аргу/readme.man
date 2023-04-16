@@ -1,0 +1,3 @@
+# [SockFD](https://www.youtube.com/@sockfd/playlists)
+## [GAS x64](https://www.youtube.com/playlist?list=PL74QQzBTjH9PaC9sxDXpqXDqVvUkOqsj9)
+### [GNU Assembler x64. Функция с произвольным количеством аргументов](https://www.youtube.com/watch?v=M_bAG0pgFGY&amp;list=PL74QQzBTjH9PaC9sxDXpqXDqVvUkOqsj9&amp;index=26&amp;pp=iAQB)

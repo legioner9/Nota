@@ -1,0 +1,3 @@
+# [Мир IT с Антоном Павленко](https://www.youtube.com/@pavlenkoat/playlists)
+## [WEB-технологии](https://www.youtube.com/playlist?list=PLWCdmr_xDegcLpwsvjrYuVe-f5iu_zyzv)
+### [Что такое CORS и зачем он нужен? По простому](https://www.youtube.com/watch?v=39vDgivMPHs&amp;list=PLWCdmr_xDegcLpwsvjrYuVe-f5iu_zyzv&amp;index=3&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [Кафедра ИВМ МФТИ](https://www.youtube.com/@cs_mipt/playlists)
+## [Язык С для начинающих. Курсовая работа. Дербышева Татьяна Николаевна (2020)](https://www.youtube.com/playlist?list=PL55ElYIEKI0ApTzK4GdmVIw5uJEYTxJx5)
+### [Эмулятор PDP-11. Урок 1-all. Функции работы с памятью](https://www.youtube.com/watch?v=G3WHIRr8fwI&amp;list=PL55ElYIEKI0ApTzK4GdmVIw5uJEYTxJx5&amp;index=7&amp;pp=iAQB)

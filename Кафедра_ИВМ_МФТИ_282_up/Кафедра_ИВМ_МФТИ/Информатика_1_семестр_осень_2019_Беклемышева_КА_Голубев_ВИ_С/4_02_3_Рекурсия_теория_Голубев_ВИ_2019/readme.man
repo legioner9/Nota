@@ -1,0 +1,3 @@
+# [Кафедра ИВМ МФТИ](https://www.youtube.com/@cs_mipt/playlists)
+## [Информатика, 1 семестр (осень 2019). Беклемышева К.А., Голубев В.И., Стогний П.В., Васюков А.В.](https://www.youtube.com/playlist?list=PL55ElYIEKI0AIeQxsp7iW3WmUPdu7FTh-)
+### [02 3 Рекурсия: теория (Голубев В.И., 2019)](https://www.youtube.com/watch?v=DFTLpBmOc5E&amp;list=PL55ElYIEKI0AIeQxsp7iW3WmUPdu7FTh-&amp;index=4&amp;pp=iAQB)

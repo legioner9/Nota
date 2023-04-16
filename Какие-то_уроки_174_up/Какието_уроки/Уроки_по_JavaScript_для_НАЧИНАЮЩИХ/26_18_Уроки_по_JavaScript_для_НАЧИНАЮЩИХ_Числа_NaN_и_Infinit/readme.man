@@ -1,0 +1,3 @@
+# [Какие-то уроки](https://www.youtube.com/@kakieToYroki/playlists?view=1&sort=dd&shelf_id=0)
+## [Уроки по JavaScript для НАЧИНАЮЩИХ](https://www.youtube.com/playlist?list=PL6NCtzCz-4pTxrzj7Iy4W9fAi60YmwXFl)
+### [#18. Уроки по JavaScript для НАЧИНАЮЩИХ (Числа. NaN и Infinity, Math, toFixed, округляем)](https://www.youtube.com/watch?v=If-_4I0k_Js&amp;list=PL6NCtzCz-4pTxrzj7Iy4W9fAi60YmwXFl&amp;index=26&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [Мир IT с Антоном Павленко](https://www.youtube.com/@pavlenkoat/playlists)
+## [WEB-технологии](https://www.youtube.com/playlist?list=PLWCdmr_xDegcLpwsvjrYuVe-f5iu_zyzv)
+### [МИКРОСЕРВИСЫ VS МОНОЛИТ. Какую архитектуру выбрать? DevOps собеседование](https://www.youtube.com/watch?v=PmIrrFqOfn8&amp;list=PLWCdmr_xDegcLpwsvjrYuVe-f5iu_zyzv&amp;index=11&amp;pp=iAQB)

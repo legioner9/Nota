@@ -1,0 +1,2 @@
+### [Full-stack разработка 1. Вводная лекция, HTML, CSS](https://www.youtube.com/watch?v=HX0dIIAE47c&amp;list=PL4_hYwCyhAvZRLsaf2IuFy52MoKzcxu8a&amp;index=1&amp;pp=iAQB)
+### [Full-stack разработка 2. JavaScript. ES6.](https://www.youtube.com/watch?v=uQwOanutJqo&amp;list=PL4_hYwCyhAvZRLsaf2IuFy52MoKzcxu8a&amp;index=2&amp;pp=iAQB)

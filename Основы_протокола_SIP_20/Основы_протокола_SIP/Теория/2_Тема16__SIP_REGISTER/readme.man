@@ -1,0 +1,3 @@
+# [Основы протокола SIP](https://www.youtube.com/@sip2864ru/playlists)
+## [Теория](https://www.youtube.com/playlist?list=PLu-vH1nEdtsXL3q3gXlyWQ9bF4h76go8j)
+### [Тема#16 - SIP REGISTER](https://www.youtube.com/watch?v=aeua6yOr2jI&amp;list=PLu-vH1nEdtsXL3q3gXlyWQ9bF4h76go8j&amp;index=2&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [javabegin](https://www.youtube.com/@javabegin/playlists?view=1)
+## [Основы Git для новичков (2021)](https://www.youtube.com/playlist?list=PL8X2nqRlWfab4cebpPc3ENb5UBQDxcM0H)
+### [Основы Git: изменение конфигурации - config (2021)](https://www.youtube.com/watch?v=Zt25l3Xr9kc&amp;list=PL8X2nqRlWfab4cebpPc3ENb5UBQDxcM0H&amp;index=4&amp;pp=iAQB)

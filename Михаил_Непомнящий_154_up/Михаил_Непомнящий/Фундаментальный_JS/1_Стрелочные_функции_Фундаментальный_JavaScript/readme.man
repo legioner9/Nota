@@ -1,0 +1,3 @@
+# [Михаил Непомнящий](https://www.youtube.com/@mishanep/playlists)
+## [Фундаментальный JS](https://www.youtube.com/playlist?list=PLiZoB8JBsdznAXu9WxE5NWfPwp22XWnM7)
+### [Стрелочные функции. Фундаментальный JavaScript](https://www.youtube.com/watch?v=l7fHH0YA7vY&amp;list=PLiZoB8JBsdznAXu9WxE5NWfPwp22XWnM7&amp;index=1&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [javabegin](https://www.youtube.com/@javabegin/playlists?view=1)
+## [Основы работы с базой данных PostgreSQL (2021)](https://www.youtube.com/playlist?list=PL8X2nqRlWfaZRM65hqNbm-HYUAK9J7uOi)
+### [Вторая нормальная форма таблиц в PostgreSQL (2021)](https://www.youtube.com/watch?v=hmr-A1dg4U4&amp;list=PL8X2nqRlWfaZRM65hqNbm-HYUAK9J7uOi&amp;index=13&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [Лекторий ФПМИ](https://www.youtube.com/@lectory_fpmi/playlists?view=1)
+## [[АиСД] Алгоритмы и структуры данных (2 курс, базовый поток, осень 2021)](https://www.youtube.com/playlist?list=PL4_hYwCyhAvYVJNXV2kk55cQQ7-vIh9yK)
+### [Алгоритмы и структуры данных 3 (базовый поток). BST для RMQ\RSQ](https://www.youtube.com/watch?v=gWlhuSQz4A0&amp;list=PL4_hYwCyhAvYVJNXV2kk55cQQ7-vIh9yK&amp;index=2&amp;pp=iAQB)

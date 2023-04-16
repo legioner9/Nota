@@ -1,0 +1,3 @@
+# [Компьютер - это просто!](https://www.youtube.com/@it-black/playlists)
+## [Firewalld](https://www.youtube.com/playlist?list=PLh6tZVFnHXkpKuh9f-IKF1pOlWPyto1ra)
+### [Настройка маскарадинга в Firewalld.](https://www.youtube.com/watch?v=Nu-ZiwsGM1M&amp;list=PLh6tZVFnHXkpKuh9f-IKF1pOlWPyto1ra&amp;index=6&amp;pp=iAQB)

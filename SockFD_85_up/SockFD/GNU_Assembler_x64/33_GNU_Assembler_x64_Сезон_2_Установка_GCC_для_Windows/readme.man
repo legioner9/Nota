@@ -1,0 +1,3 @@
+# [SockFD](https://www.youtube.com/@sockfd/playlists)
+## [GNU Assembler x64](https://www.youtube.com/playlist?list=PL74QQzBTjH9ONnXdADHX__1gMYJIKOe2E)
+### [GNU Assembler x64. Сезон 2. Установка GCC для Windows](https://www.youtube.com/watch?v=AqkDwcnBo_Y&amp;list=PL74QQzBTjH9ONnXdADHX__1gMYJIKOe2E&amp;index=33&amp;pp=iAQB)

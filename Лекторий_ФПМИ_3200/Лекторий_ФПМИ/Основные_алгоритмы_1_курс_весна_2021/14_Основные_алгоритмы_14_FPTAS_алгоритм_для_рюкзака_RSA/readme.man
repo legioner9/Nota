@@ -1,0 +1,3 @@
+# [Лекторий ФПМИ](https://www.youtube.com/@lectory_fpmi/playlists?view=1)
+## [Основные алгоритмы (1 курс, весна 2021)](https://www.youtube.com/playlist?list=PL4_hYwCyhAvYmAr9XTqxfJmTEBFRVNJoA)
+### [Основные алгоритмы 14. F.P.T.A.S. алгоритм для рюкзака. RSA](https://www.youtube.com/watch?v=Za4IMeasa9A&amp;list=PL4_hYwCyhAvYmAr9XTqxfJmTEBFRVNJoA&amp;index=14&amp;pp=iAQB)

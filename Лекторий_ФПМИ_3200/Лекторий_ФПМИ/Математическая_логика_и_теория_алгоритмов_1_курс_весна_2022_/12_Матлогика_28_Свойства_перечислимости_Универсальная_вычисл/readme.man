@@ -1,0 +1,3 @@
+# [Лекторий ФПМИ](https://www.youtube.com/@lectory_fpmi/playlists?view=1)
+## [Математическая логика и теория алгоритмов (1 курс, весна 2022) - Дашков Е. В.](https://www.youtube.com/playlist?list=PL4_hYwCyhAvYJx5swFZ7-ZDJV9LhLIdqD)
+### [Матлогика 28. Свойства перечислимости. Универсальная вычислимая функция. Проблема самоприменимости](https://www.youtube.com/watch?v=-p4E_aY3jA4&amp;list=PL4_hYwCyhAvYJx5swFZ7-ZDJV9LhLIdqD&amp;index=12&amp;pp=iAQB)

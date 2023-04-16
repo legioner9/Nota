@@ -1,0 +1,3 @@
+# [МИКО - центр разработки программных продуктов](https://www.youtube.com/@MsBeketov/playlists)
+## [Инструкции](https://www.youtube.com/playlist?list=PLPCm3kZfSIxyBfdN6MBOFUR9gM1ZtLpJK)
+### [Инструкция: Установка MikoPBX (ex. Askozia) в 1С:ГРМ (mail.ru Cloud solution)](https://www.youtube.com/watch?v=j8wOJgbvwGg&amp;list=PLPCm3kZfSIxyBfdN6MBOFUR9gM1ZtLpJK&amp;index=3&amp;pp=iAQB)

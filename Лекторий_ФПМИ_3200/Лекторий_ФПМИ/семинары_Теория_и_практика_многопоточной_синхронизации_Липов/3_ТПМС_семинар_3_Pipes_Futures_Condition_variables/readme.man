@@ -1,0 +1,3 @@
+# [Лекторий ФПМИ](https://www.youtube.com/@lectory_fpmi/playlists?view=1)
+## [(семинары) Теория и практика многопоточной синхронизации (Липовский)](https://www.youtube.com/playlist?list=PL4_hYwCyhAvZgIfxf4nLnjXprGGWBs5VO)
+### [ТПМС, семинар 3. Pipes. Futures. Condition variables.](https://www.youtube.com/watch?v=Z0t2ZE5FoXI&amp;list=PL4_hYwCyhAvZgIfxf4nLnjXprGGWBs5VO&amp;index=3&amp;pp=iAQB)

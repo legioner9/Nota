@@ -1,0 +1,3 @@
+# [Мир IT с Антоном Павленко](https://www.youtube.com/@pavlenkoat/playlists)
+## [Linux для начинающих - это просто](https://www.youtube.com/playlist?list=PLWCdmr_xDegeCydnc4ynxKW0xfabx6iY1)
+### [Управление процессами в Linux Перевести процесс в фоновый режим](https://www.youtube.com/watch?v=ZpwzqBy6dkg&amp;list=PLWCdmr_xDegeCydnc4ynxKW0xfabx6iY1&amp;index=9&amp;pp=iAQB)

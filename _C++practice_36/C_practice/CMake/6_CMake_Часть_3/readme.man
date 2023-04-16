@@ -1,0 +1,3 @@
+# [C++ practice](https://www.youtube.com/@cpppractice/playlists)
+## [CMake](https://www.youtube.com/playlist?list=PLyw-Qzqua8-bUs1Ve7PAb-Vm3AOrmbtjo)
+### [CMake. Часть 3](https://www.youtube.com/watch?v=F48PJYmB9nU&amp;list=PLyw-Qzqua8-bUs1Ve7PAb-Vm3AOrmbtjo&amp;index=6&amp;pp=iAQB)

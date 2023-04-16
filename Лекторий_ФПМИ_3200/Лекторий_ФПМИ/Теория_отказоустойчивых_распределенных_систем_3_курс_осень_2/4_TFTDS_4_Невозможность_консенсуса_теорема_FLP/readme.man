@@ -1,0 +1,3 @@
+# [Лекторий ФПМИ](https://www.youtube.com/@lectory_fpmi/playlists?view=1)
+## [Теория отказоустойчивых распределенных систем (3 курс, осень 2019) - лектор -- Роман Липовский](https://www.youtube.com/playlist?list=PL4_hYwCyhAvYwYRYQB1QwwwrqDrIgSMou)
+### [TFTDS 4. Невозможность консенсуса, теорема FLP](https://www.youtube.com/watch?v=X5y1ZrXgwW8&amp;list=PL4_hYwCyhAvYwYRYQB1QwwwrqDrIgSMou&amp;index=4&amp;pp=iAQB)

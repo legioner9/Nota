@@ -1,0 +1,3 @@
+# [ИИКС НИЯУ МИФИ](https://www.youtube.com/@icismephi/playlists)
+## [ООП и классы в C++](https://www.youtube.com/playlist?list=PLrMb_y4Du4JhJ2_xkvKjqGHDPwL1WGwDW)
+### [Работа с памятью в С++ / Семантика перемещения / Умные указатели](https://www.youtube.com/watch?v=TE3_ShwJk-E&amp;list=PLrMb_y4Du4JhJ2_xkvKjqGHDPwL1WGwDW&amp;index=9&amp;pp=iAQB)

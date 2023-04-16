@@ -1,0 +1,3 @@
+# [Михаил Непомнящий](https://www.youtube.com/@mishanep/playlists)
+## [⚛️ Pro React](https://www.youtube.com/playlist?list=PLiZoB8JBsdzkClMnvcedplvSF_JPhvopM)
+### [CSS-модули, SASS/SCSS и сброс стилей в React-приложении](https://www.youtube.com/watch?v=oYnyQ47BUSo&amp;list=PLiZoB8JBsdzkClMnvcedplvSF_JPhvopM&amp;index=20&amp;pp=iAQB)

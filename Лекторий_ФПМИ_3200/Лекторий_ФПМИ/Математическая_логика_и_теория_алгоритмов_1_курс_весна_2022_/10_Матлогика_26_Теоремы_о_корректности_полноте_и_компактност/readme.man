@@ -1,0 +1,3 @@
+# [Лекторий ФПМИ](https://www.youtube.com/@lectory_fpmi/playlists?view=1)
+## [Математическая логика и теория алгоритмов (1 курс, весна 2022) - Дашков Е. В.](https://www.youtube.com/playlist?list=PL4_hYwCyhAvYJx5swFZ7-ZDJV9LhLIdqD)
+### [Матлогика 26. Теоремы о корректности, полноте и компактности](https://www.youtube.com/watch?v=ZZjbCD9ir1g&amp;list=PL4_hYwCyhAvYJx5swFZ7-ZDJV9LhLIdqD&amp;index=10&amp;pp=iAQB)

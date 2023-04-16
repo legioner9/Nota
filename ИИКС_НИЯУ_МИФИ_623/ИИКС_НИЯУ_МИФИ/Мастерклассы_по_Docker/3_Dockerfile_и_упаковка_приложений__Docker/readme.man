@@ -1,0 +1,3 @@
+# [ИИКС НИЯУ МИФИ](https://www.youtube.com/@icismephi/playlists)
+## [Мастер-классы по Docker](https://www.youtube.com/playlist?list=PLrMb_y4Du4JgTi3hPnTl74KlUI9J8vk6m)
+### [Dockerfile и упаковка приложений / Docker](https://www.youtube.com/watch?v=ax1zJrJDYKs&amp;list=PLrMb_y4Du4JgTi3hPnTl74KlUI9J8vk6m&amp;index=3&amp;pp=iAQB)

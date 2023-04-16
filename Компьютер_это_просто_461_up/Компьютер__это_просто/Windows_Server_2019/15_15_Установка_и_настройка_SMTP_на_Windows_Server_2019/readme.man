@@ -1,0 +1,3 @@
+# [Компьютер - это просто!](https://www.youtube.com/@it-black/playlists)
+## [Windows Server 2019](https://www.youtube.com/playlist?list=PLh6tZVFnHXkrIwjOTSOMsE0Aj39U3wQUa)
+### [#15. Установка и настройка SMTP на Windows Server 2019.](https://www.youtube.com/watch?v=XLk5eKV1ou0&amp;list=PLh6tZVFnHXkrIwjOTSOMsE0Aj39U3wQUa&amp;index=15&amp;pp=iAQB)

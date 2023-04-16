@@ -1,0 +1,3 @@
+# [Лекторий ФПМИ](https://www.youtube.com/@lectory_fpmi/playlists?view=1)
+## [АКОС - лектор Яковлев](https://www.youtube.com/playlist?list=PL4_hYwCyhAva4dDOnyddyvkAs_jWVr624)
+### [АКОС 19. Неблокирующие сокеты.  Событийно-ориентированное  программирование](https://www.youtube.com/watch?v=4yuEeM4bNQ4&amp;list=PL4_hYwCyhAva4dDOnyddyvkAs_jWVr624&amp;index=18&amp;pp=iAQB)

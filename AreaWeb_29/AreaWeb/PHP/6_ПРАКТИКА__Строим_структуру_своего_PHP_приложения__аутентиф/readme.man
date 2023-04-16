@@ -1,0 +1,3 @@
+# [AreaWeb](https://www.youtube.com/@areaweb/playlists)
+## [PHP](https://www.youtube.com/playlist?list=PLiOhsP3M5j5znqpNshsaAoeNJe0vFyhio)
+### [[ПРАКТИКА] - Строим структуру своего PHP приложения + аутентификация](https://www.youtube.com/watch?v=EEVkFW_IDec&amp;list=PLiOhsP3M5j5znqpNshsaAoeNJe0vFyhio&amp;index=6&amp;pp=iAQB)

@@ -1,0 +1,7 @@
+### [Статистические методы в биоинформатике 1. Повторение теории вероятностей, задача оценки параметра.](https://www.youtube.com/watch?v=FyTrg_lu4qA&amp;list=PL4_hYwCyhAvbBOQIoB7fAkhtyNS_O4eJU&amp;index=1&amp;pp=iAQB)
+### [Статистические методы в биоинформатике 2. Методы поиска оценок и доверительных интервалов.](https://www.youtube.com/watch?v=hxiDxOsclh4&amp;list=PL4_hYwCyhAvbBOQIoB7fAkhtyNS_O4eJU&amp;index=2&amp;pp=iAQB)
+### [Статистические методы в биоинформатике 3. Гипотезы и критерии, p-value.](https://www.youtube.com/watch?v=1X5IW1bdHgw&amp;list=PL4_hYwCyhAvbBOQIoB7fAkhtyNS_O4eJU&amp;index=3&amp;pp=iAQB)
+### [Cтатистические методы в биоинформатике 4. Критерии согласия. Множественная проверка гипотез.](https://www.youtube.com/watch?v=02l3hqICtVg&amp;list=PL4_hYwCyhAvbBOQIoB7fAkhtyNS_O4eJU&amp;index=4&amp;pp=iAQB)
+### [Статистические методы в биоинформатике 5. Анализ зависимостей. Ядерная оценка плотности.](https://www.youtube.com/watch?v=pSdgAb2OPBA&amp;list=PL4_hYwCyhAvbBOQIoB7fAkhtyNS_O4eJU&amp;index=5&amp;pp=iAQB)
+### [Статистические методы в биоинформатике 6. Дисперсионный анализ.](https://www.youtube.com/watch?v=gbvmJDqLM3w&amp;list=PL4_hYwCyhAvbBOQIoB7fAkhtyNS_O4eJU&amp;index=6&amp;pp=iAQB)
+### [Статистические методы в биоинформатике 7. Линейная регрессия](https://www.youtube.com/watch?v=JoF7_GtXosk&amp;list=PL4_hYwCyhAvbBOQIoB7fAkhtyNS_O4eJU&amp;index=7&amp;pp=iAQB)

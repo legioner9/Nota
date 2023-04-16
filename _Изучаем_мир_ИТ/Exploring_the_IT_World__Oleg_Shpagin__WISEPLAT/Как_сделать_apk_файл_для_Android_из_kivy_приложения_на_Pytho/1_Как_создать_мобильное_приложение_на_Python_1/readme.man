@@ -1,0 +1,3 @@
+# [Exploring the IT World / Oleg Shpagin / WISEPLAT](https://www.youtube.com/@wiseplat/playlists)
+## [Как сделать apk файл для Android из kivy приложения на Python](https://www.youtube.com/playlist?list=PLxiU3nwEQ4PGSSFwaBihVZ6jgt-4gaJvK)
+### [Как создать мобильное приложение на Python #1](https://www.youtube.com/watch?v=tvyr2guZMKM&amp;list=PLxiU3nwEQ4PGSSFwaBihVZ6jgt-4gaJvK&amp;index=1)

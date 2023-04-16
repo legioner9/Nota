@@ -1,0 +1,3 @@
+# [32BIT Academy](https://www.youtube.com/@32BITAcademy/playlists)
+## [Лекции. Компьютерная графика (OpenGL)](https://www.youtube.com/playlist?list=PLfyiNADFEW5dE5hJ4xWGbIOGu3V2k3iru)
+### [Камера и перспектива. Модельное, видовое и проективное преобразование точек [Компьютерная графика]](https://www.youtube.com/watch?v=1DRtqwNCOwQ&amp;list=PLfyiNADFEW5dE5hJ4xWGbIOGu3V2k3iru&amp;index=6&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [МИКО - центр разработки программных продуктов](https://www.youtube.com/@MsBeketov/playlists)
+## [Конференции и выступления](https://www.youtube.com/playlist?list=PLPCm3kZfSIxy3VfsFT46MUtTox9aIq7_H)
+### [Обзор интерфейсам модуля МИКО: Коллтрекинг](https://www.youtube.com/watch?v=Zj5Xhz80sMM&amp;list=PLPCm3kZfSIxy3VfsFT46MUtTox9aIq7_H&amp;index=3&amp;pp=iAQB)

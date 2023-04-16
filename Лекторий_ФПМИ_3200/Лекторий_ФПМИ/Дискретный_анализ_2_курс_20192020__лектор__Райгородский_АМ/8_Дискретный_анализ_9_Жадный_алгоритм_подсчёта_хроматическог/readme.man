@@ -1,0 +1,3 @@
+# [Лекторий ФПМИ](https://www.youtube.com/@lectory_fpmi/playlists?view=1)
+## [Дискретный анализ (2 курс, 2019-2020) - лектор -- Райгородский А.М.](https://www.youtube.com/playlist?list=PL4_hYwCyhAvZnEIHHqMPWi8nM_nDPvrAk)
+### [Дискретный анализ 9. Жадный алгоритм подсчёта хроматического числа. Гиперграфы](https://www.youtube.com/watch?v=Y-zrfOjb-Ps&amp;list=PL4_hYwCyhAvZnEIHHqMPWi8nM_nDPvrAk&amp;index=8&amp;pp=iAQB)

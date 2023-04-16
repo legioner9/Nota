@@ -1,0 +1,3 @@
+# [Alexander Molchanov](https://www.youtube.com/@alexandermolchanov2171/playlists)
+## [Программа решения системы уравнений Навье-Стокса для сжимаемого газа](https://www.youtube.com/playlist?list=PLPsx-wWDSTVp4ZDc6atukWnijdrojx5-K)
+### [Visual C++. Программа решения уравнений HC. Урок 5. Решение модельного уравнения энергии](https://www.youtube.com/watch?v=TyFml_OW55o&amp;list=PLPsx-wWDSTVp4ZDc6atukWnijdrojx5-K&amp;index=14&amp;pp=iAQB)

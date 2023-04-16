@@ -1,0 +1,3 @@
+# [Лекторий ФПМИ](https://www.youtube.com/@lectory_fpmi/playlists?view=1)
+## [(семинары) Алгоритмы и структуры данных. Продвинутый поток (осень 2019)](https://www.youtube.com/playlist?list=PL4_hYwCyhAvYwconG2P-Podts1HlYHxb_)
+### [Алгоритмы и структуры данных (продвинутый поток). Семинар 6. Потоки и паросочетания](https://www.youtube.com/watch?v=dgrsL_y6-Ms&amp;list=PL4_hYwCyhAvYwconG2P-Podts1HlYHxb_&amp;index=4&amp;pp=iAQB)

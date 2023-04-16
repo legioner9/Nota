@@ -1,0 +1,3 @@
+# [javabegin](https://www.youtube.com/@javabegin/playlists?view=1)
+## [Spring Boot, Spring Data - создание backend на Spring/Java](https://www.youtube.com/playlist?list=PL8X2nqRlWfaYG3sbfnKlmG6sBWwNLNtBx)
+### [9 Постраничный вывод   решение](https://www.youtube.com/watch?v=rYFuHZ0IMoY&amp;list=PL8X2nqRlWfaYG3sbfnKlmG6sBWwNLNtBx&amp;index=14&amp;pp=iAQB)

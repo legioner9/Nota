@@ -1,0 +1,3 @@
+# [Михаил Непомнящий](https://www.youtube.com/@mishanep/playlists)
+## [⚛️ Pro React](https://www.youtube.com/playlist?list=PLiZoB8JBsdzkClMnvcedplvSF_JPhvopM)
+### [Как поменять цвет SVG в React-приложении](https://www.youtube.com/watch?v=b4btk12Evgw&amp;list=PLiZoB8JBsdzkClMnvcedplvSF_JPhvopM&amp;index=21&amp;pp=iAQB)

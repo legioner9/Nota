@@ -1,0 +1,3 @@
+# [Exploring the IT World / Oleg Shpagin / WISEPLAT](https://www.youtube.com/@wiseplat/playlists)
+## [Искусственный интеллект на Python](https://www.youtube.com/playlist?list=PLxiU3nwEQ4PH2Mt9ufjfbWpPEs2Jx7RyY)
+### [Уроки Python / Как установить модуль в PyCharm](https://www.youtube.com/watch?v=Swe-2blw4Ro&amp;list=PLxiU3nwEQ4PH2Mt9ufjfbWpPEs2Jx7RyY&amp;index=15)

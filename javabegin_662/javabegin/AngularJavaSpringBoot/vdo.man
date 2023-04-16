@@ -1,0 +1,5 @@
+### [Создание backend на Java/SpringBoot/RESTful](https://www.youtube.com/watch?v=UzpSZcMxzRs&amp;list=PL8X2nqRlWfaZngkjmrwEMSTqE4wTB6z-t&amp;index=1&amp;pp=iAQB)
+### [Создание frontend на Angular и вызов RESTful сервиса](https://www.youtube.com/watch?v=ZSbxpX6NBQ8&amp;list=PL8X2nqRlWfaZngkjmrwEMSTqE4wTB6z-t&amp;index=2&amp;pp=iAQB)
+### [Демонстрация приложения Angular+Java/Spring + Hibernate](https://www.youtube.com/watch?v=_wokFz-McUs&amp;list=PL8X2nqRlWfaZngkjmrwEMSTqE4wTB6z-t&amp;index=3&amp;pp=iAQB)
+### [Как правильно обновлять Angular для системы и проектов](https://www.youtube.com/watch?v=lePek8C3hAg&amp;list=PL8X2nqRlWfaZngkjmrwEMSTqE4wTB6z-t&amp;index=4&amp;pp=iAQB)
+### [Как правильно обновлять Angular для системы и проектов](https://www.youtube.com/watch?v=lePek8C3hAg&amp;list=PL8X2nqRlWfaZngkjmrwEMSTqE4wTB6z-t&amp;index=5&amp;pp=iAQB)

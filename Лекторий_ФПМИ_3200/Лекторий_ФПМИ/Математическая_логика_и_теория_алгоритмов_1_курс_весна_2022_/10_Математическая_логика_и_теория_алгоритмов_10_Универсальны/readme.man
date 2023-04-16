@@ -1,0 +1,3 @@
+# [Лекторий ФПМИ](https://www.youtube.com/@lectory_fpmi/playlists?view=1)
+## [Математическая логика и теория алгоритмов (1 курс, весна 2022) - Мусатов Д. В.](https://www.youtube.com/playlist?list=PL4_hYwCyhAvYLl1VsA8JGQkrxg0Ll2D9J)
+### [Математическая логика и теория алгоритмов 10. Универсальные вычислимые функции](https://www.youtube.com/watch?v=oFRhIS7Mas8&amp;list=PL4_hYwCyhAvYLl1VsA8JGQkrxg0Ll2D9J&amp;index=10&amp;pp=iAQB)

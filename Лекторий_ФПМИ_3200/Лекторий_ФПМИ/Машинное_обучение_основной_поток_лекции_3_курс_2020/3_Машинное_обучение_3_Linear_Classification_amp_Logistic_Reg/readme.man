@@ -1,0 +1,3 @@
+# [Лекторий ФПМИ](https://www.youtube.com/@lectory_fpmi/playlists?view=1)
+## [Машинное обучение, основной поток, лекции (3 курс, 2020)](https://www.youtube.com/playlist?list=PL4_hYwCyhAvZyW6qS58x4uElZgAkMVUvj)
+### [Машинное обучение 3. Linear Classification &amp; Logistic Regression](https://www.youtube.com/watch?v=_SUJsDLtJsE&amp;list=PL4_hYwCyhAvZyW6qS58x4uElZgAkMVUvj&amp;index=3&amp;pp=iAQB)

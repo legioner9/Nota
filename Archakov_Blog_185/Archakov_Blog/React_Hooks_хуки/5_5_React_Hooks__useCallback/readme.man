@@ -1,0 +1,3 @@
+# [Archakov Blog](https://www.youtube.com/@ArchakovBlog/playlists)
+## [React Hooks (хуки)](https://www.youtube.com/playlist?list=PL0FGkDGJQjJH4Uz-Vsk_91V65Wh88nlXC)
+### [#5: React Hooks — useCallback](https://www.youtube.com/watch?v=F8EvdTsl6hU&amp;list=PL0FGkDGJQjJH4Uz-Vsk_91V65Wh88nlXC&amp;index=5)

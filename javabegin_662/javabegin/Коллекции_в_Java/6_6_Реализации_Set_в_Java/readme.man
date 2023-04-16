@@ -1,0 +1,3 @@
+# [javabegin](https://www.youtube.com/@javabegin/playlists?view=1)
+## [Коллекции в Java](https://www.youtube.com/playlist?list=PL8X2nqRlWfab2fMfRCADxQfUUPyaAe842)
+### [6 Реализации Set в Java](https://www.youtube.com/watch?v=arP748p74Hc&amp;list=PL8X2nqRlWfab2fMfRCADxQfUUPyaAe842&amp;index=6&amp;pp=iAQB)

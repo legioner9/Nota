@@ -1,0 +1,3 @@
+# [Exploring the IT World / Oleg Shpagin / WISEPLAT](https://www.youtube.com/@wiseplat/playlists)
+## [Игры на Юнити программирование с нуля](https://www.youtube.com/playlist?list=PLxiU3nwEQ4PFVGDQSgo-ls46DTpZ3q4Cu)
+### [Уроки Unity / Как сделать анимацию для моделей в Юнити](https://www.youtube.com/watch?v=8M4ij8G_ikw&amp;list=PLxiU3nwEQ4PFVGDQSgo-ls46DTpZ3q4Cu&amp;index=1)

@@ -1,0 +1,3 @@
+# [МИКО - центр разработки программных продуктов](https://www.youtube.com/@MsBeketov/playlists)
+## [Инструкции](https://www.youtube.com/playlist?list=PLPCm3kZfSIxyBfdN6MBOFUR9gM1ZtLpJK)
+### [Инструкция: Получение API ключа для Yandex Speech Kit](https://www.youtube.com/watch?v=1IV9RUDm__w&amp;list=PLPCm3kZfSIxyBfdN6MBOFUR9gM1ZtLpJK&amp;index=1&amp;pp=iAQB)

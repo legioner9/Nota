@@ -1,0 +1,3 @@
+# [Мир IT с Антоном Павленко](https://www.youtube.com/@pavlenkoat/playlists)
+## [Файловая система Linux](https://www.youtube.com/playlist?list=PLWCdmr_xDegd7e_3as8ERlwNxOEqx1vRy)
+### [Управление доступом к файлам в Linux, назначение владельцев, права по умолчанию](https://www.youtube.com/watch?v=l8BSD_hfFww&amp;list=PLWCdmr_xDegd7e_3as8ERlwNxOEqx1vRy&amp;index=3&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [Лекторий ФПМИ](https://www.youtube.com/@lectory_fpmi/playlists?view=1)
+## [Введение в научное программирование на Kotlin](https://www.youtube.com/playlist?list=PL4_hYwCyhAvZzRpbK4iTy9S6_OWZNEiVk)
+### [Kotlin 2. Устройство классов. Компиляция, исполнение программы](https://www.youtube.com/watch?v=K3_CYvV8yH8&amp;list=PL4_hYwCyhAvZzRpbK4iTy9S6_OWZNEiVk&amp;index=2&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [Лекторий ФПМИ](https://www.youtube.com/@lectory_fpmi/playlists?view=1)
+## [Алгоритмы и структуры данных (1 курс, продвинутый поток) - лектор Тихомиров](https://www.youtube.com/playlist?list=PL4_hYwCyhAvaVUrDMrAvkiDetyCtMkzMv)
+### [Алгоритмы и структуры данных 4. Фибоначчиева куча. СНМ](https://www.youtube.com/watch?v=Scb22Y0STMQ&amp;list=PL4_hYwCyhAvaVUrDMrAvkiDetyCtMkzMv&amp;index=4&amp;pp=iAQB)

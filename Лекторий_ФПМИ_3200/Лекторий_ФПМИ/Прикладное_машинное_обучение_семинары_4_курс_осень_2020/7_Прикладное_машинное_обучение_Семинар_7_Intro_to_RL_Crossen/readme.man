@@ -1,0 +1,3 @@
+# [Лекторий ФПМИ](https://www.youtube.com/@lectory_fpmi/playlists?view=1)
+## [Прикладное машинное обучение (семинары, 4 курс, осень 2020)](https://www.youtube.com/playlist?list=PL4_hYwCyhAvZLp0CTIDVQr9FtDR_7DaUr)
+### [Прикладное машинное обучение. Семинар 7. Intro to RL. Cross-entropy method](https://www.youtube.com/watch?v=3aPQzOgPUu4&amp;list=PL4_hYwCyhAvZLp0CTIDVQr9FtDR_7DaUr&amp;index=7&amp;pp=iAQB)

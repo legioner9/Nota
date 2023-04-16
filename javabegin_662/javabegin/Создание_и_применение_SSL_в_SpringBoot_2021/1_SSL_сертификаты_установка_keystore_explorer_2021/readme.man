@@ -1,0 +1,3 @@
+# [javabegin](https://www.youtube.com/@javabegin/playlists?view=1)
+## [Создание и применение SSL в SpringBoot (2021)](https://www.youtube.com/playlist?list=PL8X2nqRlWfaZLUwOoAI9iRlj3NqclE-X_)
+### [SSL сертификаты: установка keystore explorer (2021)](https://www.youtube.com/watch?v=Dg3vxO3P1ug&amp;list=PL8X2nqRlWfaZLUwOoAI9iRlj3NqclE-X_&amp;index=1&amp;pp=iAQB)

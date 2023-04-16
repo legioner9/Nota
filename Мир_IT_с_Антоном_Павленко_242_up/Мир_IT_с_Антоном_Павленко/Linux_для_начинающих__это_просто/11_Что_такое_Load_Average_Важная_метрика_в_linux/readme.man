@@ -1,0 +1,3 @@
+# [Мир IT с Антоном Павленко](https://www.youtube.com/@pavlenkoat/playlists)
+## [Linux для начинающих - это просто](https://www.youtube.com/playlist?list=PLWCdmr_xDegeCydnc4ynxKW0xfabx6iY1)
+### [Что такое Load Average? Важная метрика в linux](https://www.youtube.com/watch?v=_6PkYxsVvxI&amp;list=PLWCdmr_xDegeCydnc4ynxKW0xfabx6iY1&amp;index=11&amp;pp=iAQB)

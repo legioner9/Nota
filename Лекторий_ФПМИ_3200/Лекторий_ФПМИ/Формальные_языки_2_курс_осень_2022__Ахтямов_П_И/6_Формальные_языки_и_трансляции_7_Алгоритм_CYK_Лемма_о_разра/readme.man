@@ -1,0 +1,3 @@
+# [Лекторий ФПМИ](https://www.youtube.com/@lectory_fpmi/playlists?view=1)
+## [Формальные языки (2 курс, осень 2022) - Ахтямов П. И.](https://www.youtube.com/playlist?list=PL4_hYwCyhAvYU2TfjIbkYxhAHReI0FFCX)
+### [Формальные языки и трансляции 7. Алгоритм CYK. Лемма о разрастании для КС языков. НФ Грейбах](https://www.youtube.com/watch?v=w1IP-C5UEe8&amp;list=PL4_hYwCyhAvYU2TfjIbkYxhAHReI0FFCX&amp;index=6&amp;pp=iAQB)

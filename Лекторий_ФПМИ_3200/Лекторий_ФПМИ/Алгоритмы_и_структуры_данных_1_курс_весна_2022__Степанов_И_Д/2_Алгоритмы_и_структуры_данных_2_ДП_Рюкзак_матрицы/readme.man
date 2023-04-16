@@ -1,0 +1,3 @@
+# [Лекторий ФПМИ](https://www.youtube.com/@lectory_fpmi/playlists?view=1)
+## [Алгоритмы и структуры данных (1 курс, весна 2022) - Степанов И. Д.](https://www.youtube.com/playlist?list=PL4_hYwCyhAvaJeKhXPw6KN81haxBTyRQ4)
+### [Алгоритмы и структуры данных 2. ДП: Рюкзак, матрицы](https://www.youtube.com/watch?v=0gZS9m55Cg0&amp;list=PL4_hYwCyhAvaJeKhXPw6KN81haxBTyRQ4&amp;index=2&amp;pp=iAQB)

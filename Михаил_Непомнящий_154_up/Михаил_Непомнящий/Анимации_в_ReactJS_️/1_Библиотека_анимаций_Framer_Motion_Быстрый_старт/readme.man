@@ -1,0 +1,3 @@
+# [Михаил Непомнящий](https://www.youtube.com/@mishanep/playlists)
+## [Анимации в ReactJS ⚛️](https://www.youtube.com/playlist?list=PLiZoB8JBsdzkn1yqxUaprfLYzdS-1jhJE)
+### [Библиотека анимаций Framer Motion. Быстрый старт](https://www.youtube.com/watch?v=_94vYQtaz1Y&amp;list=PLiZoB8JBsdzkn1yqxUaprfLYzdS-1jhJE&amp;index=1&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [Django School](https://www.youtube.com/@DjangoSchool/playlists?view=1)
+## [Python 3](https://www.youtube.com/playlist?list=PLF-NY6ldwAWo6s-QyFgg7INalN6NCgH_s)
+### [Работа с переменными в python 3](https://www.youtube.com/watch?v=30TE8qnf_Es&amp;list=PLF-NY6ldwAWo6s-QyFgg7INalN6NCgH_s&amp;index=13)

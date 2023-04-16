@@ -1,0 +1,7 @@
+### [Теория вероятностей 1 Генезис теории вероятностей](https://www.youtube.com/watch?v=sQp1n5t1T-4&amp;list=PL4_hYwCyhAvY0oGB1ADUzi94cmeEIIK7q&amp;index=1&amp;pp=iAQB)
+### [Теория вероятностей 2 Аксиоматическое определение вероятности](https://www.youtube.com/watch?v=YLu9KvHyFCY&amp;list=PL4_hYwCyhAvY0oGB1ADUzi94cmeEIIK7q&amp;index=2&amp;pp=iAQB)
+### [Теория вероятностей 3 Непрерывная вероятность](https://www.youtube.com/watch?v=tKO3z4J3BPk&amp;list=PL4_hYwCyhAvY0oGB1ADUzi94cmeEIIK7q&amp;index=3&amp;pp=iAQB)
+### [Теория Вероятностей 4 Леммы Бореля-Кантелли](https://www.youtube.com/watch?v=7fHOiRlddQw&amp;list=PL4_hYwCyhAvY0oGB1ADUzi94cmeEIIK7q&amp;index=4&amp;pp=iAQB)
+### [Теория вероятностей 5 Случайные величины](https://www.youtube.com/watch?v=A-xcx2fsHZk&amp;list=PL4_hYwCyhAvY0oGB1ADUzi94cmeEIIK7q&amp;index=5&amp;pp=iAQB)
+### [Теория вероятностей 6 Случайные величины Случайный вектор](https://www.youtube.com/watch?v=nRddAUrbOo4&amp;list=PL4_hYwCyhAvY0oGB1ADUzi94cmeEIIK7q&amp;index=6&amp;pp=iAQB)
+### [Теория вероятностей 7 Матожидание Дисперсия](https://www.youtube.com/watch?v=UlYDYJgBu9c&amp;list=PL4_hYwCyhAvY0oGB1ADUzi94cmeEIIK7q&amp;index=7&amp;pp=iAQB)

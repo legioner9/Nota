@@ -1,0 +1,3 @@
+# [Кафедра ИВМ МФТИ](https://www.youtube.com/@cs_mipt/playlists)
+## [Лекции по курсу "Основы операционных систем", Карпов В.Е. (2019)](https://www.youtube.com/playlist?list=PL55ElYIEKI0Cr3BvjFCpFXgLdR3ed8hBd)
+### [Основы операционных систем, Карпов В.Е. (Лекция №11 часть 2, 2019)](https://www.youtube.com/watch?v=E8binl5K9Ck&amp;list=PL55ElYIEKI0Cr3BvjFCpFXgLdR3ed8hBd&amp;index=12&amp;pp=iAQB)

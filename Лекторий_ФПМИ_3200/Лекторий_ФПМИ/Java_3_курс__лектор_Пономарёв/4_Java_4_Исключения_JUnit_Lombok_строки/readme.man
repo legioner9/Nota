@@ -1,0 +1,3 @@
+# [Лекторий ФПМИ](https://www.youtube.com/@lectory_fpmi/playlists?view=1)
+## [Java (3 курс) - лектор Пономарёв](https://www.youtube.com/playlist?list=PL4_hYwCyhAvblhTbPQmOF4b3kilWSpOjU)
+### [Java #4. Исключения, JUnit, Lombok, строки](https://www.youtube.com/watch?v=YgY2pksf3k8&amp;list=PL4_hYwCyhAvblhTbPQmOF4b3kilWSpOjU&amp;index=4&amp;pp=iAQB)

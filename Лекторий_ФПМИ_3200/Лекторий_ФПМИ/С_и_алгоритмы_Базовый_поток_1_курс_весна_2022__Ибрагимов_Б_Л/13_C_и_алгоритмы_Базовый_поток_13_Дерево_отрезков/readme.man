@@ -1,0 +1,3 @@
+# [Лекторий ФПМИ](https://www.youtube.com/@lectory_fpmi/playlists?view=1)
+## [С++ и алгоритмы (Базовый поток) (1 курс, весна 2022) - Ибрагимов Б. Л.](https://www.youtube.com/playlist?list=PL4_hYwCyhAvY1CNC2azvnDjkQfx5_S13l)
+### [C++ и алгоритмы (Базовый поток) 13. Дерево отрезков](https://www.youtube.com/watch?v=Csm2SPva8oY&amp;list=PL4_hYwCyhAvY1CNC2azvnDjkQfx5_S13l&amp;index=13&amp;pp=iAQB)

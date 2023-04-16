@@ -1,0 +1,2 @@
+### [Тестирование PHP. Что и как?](https://www.youtube.com/watch?v=14yrZiIZ9m8&amp;list=PLiOhsP3M5j5wv_GNOUrkYVB1ZSY3-ifJE&amp;index=1&amp;pp=iAQB)
+### [Тестирование PHP. Утверждения (Asserts)](https://www.youtube.com/watch?v=Dzy-qJsaXuI&amp;list=PLiOhsP3M5j5wv_GNOUrkYVB1ZSY3-ifJE&amp;index=2&amp;pp=iAQB)

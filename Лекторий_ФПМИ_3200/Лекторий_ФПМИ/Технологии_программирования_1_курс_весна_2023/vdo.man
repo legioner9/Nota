@@ -1,0 +1,7 @@
+### [Технологии программирования 1. Вводная лекция.](https://www.youtube.com/watch?v=z-CSO4UVjug&amp;list=PL4_hYwCyhAvZvaacP1LTI86x5-2Li5Md6&amp;index=1&amp;pp=iAQB)
+### [Технологии программирования 2. Принципы разработки, SOLID, UML, Factory Method, Adapter](https://www.youtube.com/watch?v=PDLmf_RHcbA&amp;list=PL4_hYwCyhAvZvaacP1LTI86x5-2Li5Md6&amp;index=2&amp;pp=iAQB)
+### [Технологии программирования 3. UML. Метод Аббота. CRC-карты](https://www.youtube.com/watch?v=AYWYZF9M6NM&amp;list=PL4_hYwCyhAvZvaacP1LTI86x5-2Li5Md6&amp;index=3&amp;pp=iAQB)
+### [Технологии программирования 4. Методология разработки ПО. Waterfall, Agile, Scrum, Kanban](https://www.youtube.com/watch?v=UjXL07vmDR4&amp;list=PL4_hYwCyhAvZvaacP1LTI86x5-2Li5Md6&amp;index=4&amp;pp=iAQB)
+### [Технологии программирования 5. Тестирование - 1.](https://www.youtube.com/watch?v=XlxgotogaCQ&amp;list=PL4_hYwCyhAvZvaacP1LTI86x5-2Li5Md6&amp;index=5&amp;pp=iAQB)
+### [Технологии программирования 6. Тестирование - 2.](https://www.youtube.com/watch?v=YQoxz5hHM-s&amp;list=PL4_hYwCyhAvZvaacP1LTI86x5-2Li5Md6&amp;index=6&amp;pp=iAQB)
+### [Технологии программирования 7. Сетевой стек.](https://www.youtube.com/watch?v=KfyT9QYulfU&amp;list=PL4_hYwCyhAvZvaacP1LTI86x5-2Li5Md6&amp;index=7&amp;pp=iAQB)

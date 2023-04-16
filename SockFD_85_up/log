@@ -1,0 +1,78 @@
+ 16.04.2023 01:33:54 done GNU Assembler x64. Сезон 2. Установка для Ubuntu
+ 16.04.2023 01:33:56 done GNU Assembler x64. Сезон 2. Первая программа
+ 16.04.2023 01:33:58 done GNU Assembler x64. Сезон 2. Разделение команд и комментарии
+ 16.04.2023 01:34:00 done GNU Assembler x64. Сезон 2. Отладчик GDB
+ 16.04.2023 01:34:03 done GNU Assembler x64. Сезон 2. Сегмент данных и порядок байтов
+ 16.04.2023 01:34:05 done GNU Assembler x64. Сезон 2. Команды mov и lea
+ 16.04.2023 01:34:07 done GNU Assembler x64. Сезон 2. Способы адресации
+ 16.04.2023 01:34:09 done GNU Assembler x64. Сезон 2. Адресация со смещением относительно %rip
+ 16.04.2023 01:34:12 done GNU Assembler x64. Сезон 2. Сегмент стека
+ 16.04.2023 01:34:14 done GNU Assembler x64. Сезон 2. Вывод строки на экран. Таблица ASCII
+ 16.04.2023 01:34:16 done GNU Assembler x64. Сезон 2. Специальные символы в строках
+ 16.04.2023 01:34:19 done GNU Assembler x64. Сезон 2. Текстовые и бинарные файлы
+ 16.04.2023 01:34:21 done GNU Assembler x64. Сезон 2. Сегмент кода
+ 16.04.2023 01:34:23 done GNU Assembler x64. Сезон 2. Регистр %rip
+ 16.04.2023 01:34:25 done GNU Assembler x64. Сезон 2. Команда jmp
+ 16.04.2023 01:34:27 done GNU Assembler x64. Сезон 2. Команды call и ret
+ 16.04.2023 01:34:30 done GNU Assembler x64. Сезон 2. Компоновщик ld
+ 16.04.2023 01:34:32 done GNU Assembler x64. Сезон 2. Компоновщик gcc
+ 16.04.2023 01:34:34 done GNU Assembler x64. Сезон 2. Вызов функции write
+ 16.04.2023 01:34:37 done GNU Assembler x64. Сезон 2. Создание функции вывода строки
+ 16.04.2023 01:34:39 done GNU Assembler x64. Сезон 2. Таблица символов
+ 16.04.2023 01:34:41 done GNU Assembler x64. Сезон 2. Директивы объявления символов
+ 16.04.2023 01:34:43 done GNU Assembler x64. Сезон 2. Сегмент .rodata и машинные инструкции
+ 16.04.2023 01:34:45 done GNU Assembler x64. Сезон 2. Директива .size
+ 16.04.2023 01:34:48 done GNU Assembler x64. Сезон 2. Директива .align и команда nop
+ 16.04.2023 01:34:50 done GNU Assembler x64. Сезон 2. Выравнивание стека
+ 16.04.2023 01:34:52 done GNU Assembler x64. Сезон 2. Стековый фрейм функции
+ 16.04.2023 01:34:55 done GNU Assembler x64. Сезон 2. Изменение регистров и возвращаемое значение
+ 16.04.2023 01:34:57 done GNU Assembler x64. Сезон 2. Создание функции ввода строки
+ 16.04.2023 01:34:59 done GNU Assembler x64. Сезон 2. Директива .include
+ 16.04.2023 01:35:01 done GNU Assembler x64. Сезон 2. Статические библиотеки
+ 16.04.2023 01:35:03 done GNU Assembler x64. Сезон 2. Динамические библиотеки
+ 16.04.2023 01:35:05 done GNU Assembler x64. Сезон 2. Установка GCC для Windows
+ 16.04.2023 01:35:08 done GNU Assembler x64. Сезон 2. Первая программа для Windows
+ 16.04.2023 01:35:10 done GNU Assembler x64. Сезон 2. Кодировки
+ 16.04.2023 01:35:12 done GNU Assembler x64. Сезон 2. Функция printf. Спецификаторы &quot;s&quot; и &quot;c&quot;
+ 16.04.2023 01:35:14 done GNU Assembler x64. Сезон 2. Функция printf. Спецификаторы &quot;d&quot;, &quot;u&quot;, &quot;x&quot; и &quot;o&quot;
+ 16.04.2023 01:35:17 done GNU Assembler x64. Сезон 2. Функция scanf. Спецификаторы &quot;[]&quot;, &quot;s&quot;, &quot;c&quot;
+ 16.04.2023 01:35:19 done GNU Assembler x64. Сезон 2. Перенаправление потоков ввода-вывода
+ 16.04.2023 01:35:21 done GNU Assembler x64. Сезон 2. Функция scanf. Спецификаторы &quot;d&quot;, &quot;u&quot;, &quot;x&quot;, &quot;o&quot;
+ 16.04.2023 01:35:23 done GNU Assembler x64. Сезон 2. Простые побитовые операции
+ 16.04.2023 01:35:26 done GNU Assembler x64. Сезон 2. Комплексные побитовые операции
+ 16.04.2023 01:35:28 done GNU Assembler x64. Сезон 2. Отрицательные числа
+ 16.04.2023 01:35:30 done GNU Assembler x64. Сезон 2. Команда mov со знаковым расширением
+ 16.04.2023 01:35:33 done GNU Assembler x64. Сезон 2. Флаги SF и ZF
+ 16.04.2023 01:35:35 done GNU Assembler x64. Сезон 2. Флаги CF и OF
+ 16.04.2023 01:35:35 done GNU Assembler x64
+ 16.04.2023 01:36:08 done GNU Assembler x64. Установка и первая программа в Ubuntu
+ 16.04.2023 01:36:10 done GNU Assembler x64. Отладчик GDB
+ 16.04.2023 01:36:13 done GNU Assembler x64. Операции с целыми числами и флаг ZF
+ 16.04.2023 01:36:15 done GNU Assembler x64. Команда MOV.
+ 16.04.2023 01:36:17 done GNU Assembler x64. Команда MOV с суффиксом.
+ 16.04.2023 01:36:19 done GNU Assembler x64. Сегмент стека и порядок байтов.
+ 16.04.2023 01:36:21 done GNU Assembler x64. Команды push и pop
+ 16.04.2023 01:36:23 done GNU Assembler x64. Вывод строки на экран
+ 16.04.2023 01:36:26 done GNU Assembler x64. Побитовые операции
+ 16.04.2023 01:36:28 done GNU Assembler x64. Отрицательные числа. Флаги OF и CF
+ 16.04.2023 01:36:30 done GNU Assembler x64. Регистр флагов
+ 16.04.2023 01:36:32 done GNU Assembler x64. Команды перехода
+ 16.04.2023 01:36:34 done GNU Assembler x64. Сегмент кода
+ 16.04.2023 01:36:36 done GNU Assembler x64. Цикл
+ 16.04.2023 01:36:39 done GNU Assembler x64. Ввод строки с клавиатуры
+ 16.04.2023 01:36:41 done GNU Assembler x64. Преобразование числа в строку
+ 16.04.2023 01:36:43 done GNU Assembler x64. Подпрограммы
+ 16.04.2023 01:36:45 done GNU Assembler x64. Преобразование строки в число
+ 16.04.2023 01:36:47 done GNU Assembler x64. Калькулятор
+ 16.04.2023 01:36:50 done GNU Assembler x64. Калькулятор для чисел со знаком
+ 16.04.2023 01:36:52 done GNU Assembler x64. Статические библиотеки
+ 16.04.2023 01:36:54 done GNU Assembler x64. Соглашения о функциях в ABI System V
+ 16.04.2023 01:36:56 done GNU Assembler x64. Функция вывода строки на экран
+ 16.04.2023 01:36:58 done GNU Assembler x64. Компоновщик gcc
+ 16.04.2023 01:37:01 done GNU Assembler x64. Динамические библиотеки.
+ 16.04.2023 01:37:03 done GNU Assembler x64. Функция с произвольным количеством аргументов
+ 16.04.2023 01:37:05 done GNU Assembler x64. Установка для Windows. Переменные окружения
+ 16.04.2023 01:37:07 done GNU Assembler x64. Соглашения о вызовах функций в ABI Microsoft x64
+ 16.04.2023 01:37:08 done GAS x64
+ 16.04.2023 01:37:08 good end 
+ 16.04.2023 01:37:08 good end 

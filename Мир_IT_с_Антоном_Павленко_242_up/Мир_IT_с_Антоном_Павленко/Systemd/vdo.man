@@ -1,0 +1,4 @@
+### [Процесс загрузки Linux. Systemd, Kernel,  GRUB2, Bios](https://www.youtube.com/watch?v=AKGnZnvUIvE&amp;list=PLWCdmr_xDegfj8ZsLK7lyp5-jjcGk3gv2&amp;index=1&amp;pp=iAQB)
+### [Что такое systemd? Управление демонами linux c помощью systemctl](https://www.youtube.com/watch?v=1NYNJUR59FE&amp;list=PLWCdmr_xDegfj8ZsLK7lyp5-jjcGk3gv2&amp;index=2&amp;pp=iAQB)
+### [Основные параметры unit systemd linux. Создание unit systemd.](https://www.youtube.com/watch?v=z3pTgZ39KxM&amp;list=PLWCdmr_xDegfj8ZsLK7lyp5-jjcGk3gv2&amp;index=3&amp;pp=iAQB)
+### [Изменение и создание unit systemd. Как написать свою службу в Linux?](https://www.youtube.com/watch?v=JmVjL2jbk5E&amp;list=PLWCdmr_xDegfj8ZsLK7lyp5-jjcGk3gv2&amp;index=4&amp;pp=iAQB)

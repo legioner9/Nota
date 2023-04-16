@@ -1,0 +1,3 @@
+# [Django School](https://www.youtube.com/@DjangoSchool/playlists?view=1)
+## [Социальная сеть на Django](https://www.youtube.com/playlist?list=PLF-NY6ldwAWqwKfXqpgDKqjUDAe8qbCem)
+### [Мини соц сеть на django | как создать свою социальную сеть](https://www.youtube.com/watch?v=vUDchwIQJm4&amp;list=PLF-NY6ldwAWqwKfXqpgDKqjUDAe8qbCem&amp;index=1)

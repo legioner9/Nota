@@ -1,0 +1,3 @@
+# [Лекторий ФПМИ](https://www.youtube.com/@lectory_fpmi/playlists?view=1)
+## [[ТФСиА] Теория формальных систем и алгоритмов (2 курс, осень 2022) - Вялый М.Н.](https://www.youtube.com/playlist?list=PL4_hYwCyhAva1uSJOhs4RFax7eK8KmZF5)
+### [ТФСиА 4. Исчисление резолюций. Алгебра предикатов.](https://www.youtube.com/watch?v=fu8jiWX8Jqc&amp;list=PL4_hYwCyhAva1uSJOhs4RFax7eK8KmZF5&amp;index=3&amp;pp=iAQB)

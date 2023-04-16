@@ -1,0 +1,3 @@
+# [Лекторий ФПМИ](https://www.youtube.com/@lectory_fpmi/playlists?view=1)
+## [Алгоритмы и модели вычислений (2 курс, весна 2022, Мусатов Д.В.)](https://www.youtube.com/playlist?list=PL4_hYwCyhAvYJ1r22vWqp_sDwJMNf64MN)
+### [Алгоритмы и модели вычислений 8. Схемная сложность.](https://www.youtube.com/watch?v=DKBDg491BDs&amp;list=PL4_hYwCyhAvYJ1r22vWqp_sDwJMNf64MN&amp;index=8&amp;pp=iAQB)

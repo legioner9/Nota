@@ -1,0 +1,3 @@
+# [Компьютер - это просто!](https://www.youtube.com/@it-black/playlists)
+## [Windows Server 2019](https://www.youtube.com/playlist?list=PLh6tZVFnHXkrIwjOTSOMsE0Aj39U3wQUa)
+### [#18. Изменение данных пользователей домена в Windows Server 2019.](https://www.youtube.com/watch?v=wZEwCAKhF7c&amp;list=PLh6tZVFnHXkrIwjOTSOMsE0Aj39U3wQUa&amp;index=18&amp;pp=iAQB)

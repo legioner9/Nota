@@ -1,0 +1,3 @@
+# [javabegin](https://www.youtube.com/@javabegin/playlists?view=1)
+## [Основы Hibernate + Java/MySQL (архив)](https://www.youtube.com/playlist?list=PL8X2nqRlWfabWFN81Zi4vl30cZsdyxt6e)
+### [8 Получение данных](https://www.youtube.com/watch?v=_tSoyXPJauE&amp;list=PL8X2nqRlWfabWFN81Zi4vl30cZsdyxt6e&amp;index=9&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [Лекторий ФПМИ](https://www.youtube.com/@lectory_fpmi/playlists?view=1)
+## [Алгоритмы и структуры данных (1 курс, весна 2023) - Рухович Ф. Д.](https://www.youtube.com/playlist?list=PL4_hYwCyhAvZAho3t-z48Y2UkeraLACf3)
+### [Алгоритмы и структуры данных (продвинутый поток) 1. Деревья поиска, ДО, Disjoint Sparse Table](https://www.youtube.com/watch?v=5v_nKKbrPlg&amp;list=PL4_hYwCyhAvZAho3t-z48Y2UkeraLACf3&amp;index=1&amp;pp=iAQB)

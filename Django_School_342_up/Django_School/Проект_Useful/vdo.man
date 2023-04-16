@@ -1,0 +1,2 @@
+### [Разработка проекта Useful (pysonet) | Дневник разработчика | Стрим](https://www.youtube.com/watch?v=k2MeMEO6rpM&amp;list=PLF-NY6ldwAWpuiLE-I0VeBpjBedPqrsuv&amp;index=1)
+### [Пишу проект для Django School](https://www.youtube.com/watch?v=s1Ix4nafjYM&amp;list=PLF-NY6ldwAWpuiLE-I0VeBpjBedPqrsuv&amp;index=2)

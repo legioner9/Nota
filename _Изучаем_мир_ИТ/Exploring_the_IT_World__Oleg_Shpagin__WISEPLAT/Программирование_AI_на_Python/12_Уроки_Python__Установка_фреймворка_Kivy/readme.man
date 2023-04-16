@@ -1,0 +1,3 @@
+# [Exploring the IT World / Oleg Shpagin / WISEPLAT](https://www.youtube.com/@wiseplat/playlists)
+## [Программирование AI на Python](https://www.youtube.com/playlist?list=PLxiU3nwEQ4PHAPvwDfdmhX0DsHFiOtqTm)
+### [Уроки Python / Установка фреймворка Kivy](https://www.youtube.com/watch?v=TeXF_n_hNgE&amp;list=PLxiU3nwEQ4PHAPvwDfdmhX0DsHFiOtqTm&amp;index=12)

@@ -1,0 +1,5 @@
+### [Вычислительные методы алгебры 3. Сингулярное разложение](https://www.youtube.com/watch?v=0B1WGIXxPps&amp;list=PL4_hYwCyhAvZym27H5SU9BuCUYpbMq5AF&amp;index=1&amp;pp=iAQB)
+### [Вычислительные методы алгебры 4. Сингулярное разложение](https://www.youtube.com/watch?v=7_LntjVJIiU&amp;list=PL4_hYwCyhAvZym27H5SU9BuCUYpbMq5AF&amp;index=2&amp;pp=iAQB)
+### [Вычислительные методы алгебры 5. Принцип максимального объема](https://www.youtube.com/watch?v=870cGu6prpM&amp;list=PL4_hYwCyhAvZym27H5SU9BuCUYpbMq5AF&amp;index=3&amp;pp=iAQB)
+### [Вычислительные методы алгебры 6. Минимальное разложение Таккера](https://www.youtube.com/watch?v=vYcn8QZ644c&amp;list=PL4_hYwCyhAvZym27H5SU9BuCUYpbMq5AF&amp;index=4&amp;pp=iAQB)
+### [Вычислительные методы алгебры 7.](https://www.youtube.com/watch?v=YCUSruze36M&amp;list=PL4_hYwCyhAvZym27H5SU9BuCUYpbMq5AF&amp;index=5&amp;pp=iAQB)

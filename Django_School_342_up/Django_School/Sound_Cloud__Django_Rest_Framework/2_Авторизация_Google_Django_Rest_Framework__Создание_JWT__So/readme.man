@@ -1,0 +1,3 @@
+# [Django School](https://www.youtube.com/@DjangoSchool/playlists?view=1)
+## [Sound Cloud - Django Rest Framework](https://www.youtube.com/playlist?list=PLF-NY6ldwAWosy6hAyKMwZozmEyq1J2fg)
+### [Авторизация Google Django Rest Framework | Создание JWT | Sound Cloud #2](https://www.youtube.com/watch?v=-I1PnAgyMRw&amp;list=PLF-NY6ldwAWosy6hAyKMwZozmEyq1J2fg&amp;index=2)

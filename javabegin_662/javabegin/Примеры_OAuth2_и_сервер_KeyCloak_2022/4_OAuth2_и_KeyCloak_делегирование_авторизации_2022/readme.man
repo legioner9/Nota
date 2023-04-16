@@ -1,0 +1,3 @@
+# [javabegin](https://www.youtube.com/@javabegin/playlists?view=1)
+## [Примеры OAuth2 и сервер KeyCloak (2022)](https://www.youtube.com/playlist?list=PL8X2nqRlWfaZbGSfSCnNyQ7g5VW3irLjX)
+### [OAuth2 и KeyCloak: делегирование авторизации (2022)](https://www.youtube.com/watch?v=kR82_Yj-MXA&amp;list=PL8X2nqRlWfaZbGSfSCnNyQ7g5VW3irLjX&amp;index=4&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [AreaWeb](https://www.youtube.com/@areaweb/playlists)
+## [PHP](https://www.youtube.com/playlist?list=PLiOhsP3M5j5znqpNshsaAoeNJe0vFyhio)
+### [RESTful API на чистом PHP](https://www.youtube.com/watch?v=COb-KpOfCSw&amp;list=PLiOhsP3M5j5znqpNshsaAoeNJe0vFyhio&amp;index=1&amp;pp=iAQB)

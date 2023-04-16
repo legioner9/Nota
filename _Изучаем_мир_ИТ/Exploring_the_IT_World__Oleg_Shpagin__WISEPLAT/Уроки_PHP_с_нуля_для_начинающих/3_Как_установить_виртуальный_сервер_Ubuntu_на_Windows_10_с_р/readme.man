@@ -1,0 +1,3 @@
+# [Exploring the IT World / Oleg Shpagin / WISEPLAT](https://www.youtube.com/@wiseplat/playlists)
+## [Уроки PHP с нуля для начинающих](https://www.youtube.com/playlist?list=PLxiU3nwEQ4PFvGkF-KPwPOCeKbU5zHumj)
+### [Как установить виртуальный сервер Ubuntu на Windows 10 (с ролью Hyper V) / Уроки администрирования](https://www.youtube.com/watch?v=JjXILkYGmJs&amp;list=PLxiU3nwEQ4PFvGkF-KPwPOCeKbU5zHumj&amp;index=3)

@@ -1,0 +1,3 @@
+# [Andrey Sozykin](https://www.youtube.com/@AndreySozykin/playlists?view=1)
+## [Нейросети для анализа изображений](https://www.youtube.com/playlist?list=PLtPJ9lKvJ4oi5ATzKmmp6FznCHmnhVoey)
+### [Загрузка своего набора изображений в TensorFlow | Нейросети для анализа изображений](https://www.youtube.com/watch?v=TARP_Y3wOpQ&amp;list=PLtPJ9lKvJ4oi5ATzKmmp6FznCHmnhVoey&amp;index=10&amp;pp=iAQB)

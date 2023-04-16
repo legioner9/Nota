@@ -1,0 +1,3 @@
+# [Лекторий ФПМИ](https://www.youtube.com/@lectory_fpmi/playlists?view=1)
+## [Продвинутое программирование на С++ (1 курс, весна 2021)](https://www.youtube.com/playlist?list=PL4_hYwCyhAvYTzwME4vQoDO8ZINM5trra)
+### [C++ 24. Перегрузка new и delete. Аллокаторы](https://www.youtube.com/watch?v=priW8fXDkWg&amp;list=PL4_hYwCyhAvYTzwME4vQoDO8ZINM5trra&amp;index=5&amp;pp=iAQB)

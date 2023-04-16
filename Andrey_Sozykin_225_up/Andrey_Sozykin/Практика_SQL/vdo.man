@@ -1,0 +1,6 @@
+### [Объединение двух таблиц | Практика по SQL](https://www.youtube.com/watch?v=EWjY8SOQBGk&amp;list=PLtPJ9lKvJ4oiwv4Ps-R8jcycN-YrwZGNl&amp;index=1&amp;pp=iAQB)
+### [Удаление дубликатов email | Практика по SQL](https://www.youtube.com/watch?v=nF-l3tZovKY&amp;list=PLtPJ9lKvJ4oiwv4Ps-R8jcycN-YrwZGNl&amp;index=2&amp;pp=iAQB)
+### [SELF JOIN - объединение таблицы с самой собой | Практика по SQL](https://www.youtube.com/watch?v=G50eazjD3o0&amp;list=PLtPJ9lKvJ4oiwv4Ps-R8jcycN-YrwZGNl&amp;index=3&amp;pp=iAQB)
+### [JOIN нескольких таблиц | Практика по SQL](https://www.youtube.com/watch?v=AIKAffTTAy4&amp;list=PLtPJ9lKvJ4oiwv4Ps-R8jcycN-YrwZGNl&amp;index=4&amp;pp=iAQB)
+### [Объединение таблиц и запроса с GROUP BY | Практика по SQL](https://www.youtube.com/watch?v=5zEktfQAPRc&amp;list=PLtPJ9lKvJ4oiwv4Ps-R8jcycN-YrwZGNl&amp;index=5&amp;pp=iAQB)
+### [Условный оператор CASE в SQL | Практика по SQL](https://www.youtube.com/watch?v=5vrmSoT7tjE&amp;list=PLtPJ9lKvJ4oiwv4Ps-R8jcycN-YrwZGNl&amp;index=6&amp;pp=iAQB)

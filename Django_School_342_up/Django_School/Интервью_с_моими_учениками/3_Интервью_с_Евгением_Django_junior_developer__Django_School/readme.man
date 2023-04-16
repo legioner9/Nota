@@ -1,0 +1,3 @@
+# [Django School](https://www.youtube.com/@DjangoSchool/playlists?view=1)
+## [Интервью с моими учениками](https://www.youtube.com/playlist?list=PLF-NY6ldwAWqPIut7jguOeJEw0SWgJ5On)
+### [Интервью с Евгением Django junior developer | Django School](https://www.youtube.com/watch?v=TzJv_cvwuWQ&amp;list=PLF-NY6ldwAWqPIut7jguOeJEw0SWgJ5On&amp;index=3)

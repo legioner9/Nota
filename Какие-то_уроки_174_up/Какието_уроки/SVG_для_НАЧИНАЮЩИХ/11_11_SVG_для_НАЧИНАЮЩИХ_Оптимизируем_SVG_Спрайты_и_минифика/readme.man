@@ -1,0 +1,3 @@
+# [Какие-то уроки](https://www.youtube.com/@kakieToYroki/playlists?view=1&sort=dd&shelf_id=0)
+## [SVG для НАЧИНАЮЩИХ](https://www.youtube.com/playlist?list=PL6NCtzCz-4pRcotLgtXTbNZqE0g_AqjMk)
+### [#11. SVG для НАЧИНАЮЩИХ (Оптимизируем SVG. Спрайты и минификаторы)](https://www.youtube.com/watch?v=Ox_JbDcoqDA&amp;list=PL6NCtzCz-4pRcotLgtXTbNZqE0g_AqjMk&amp;index=11&amp;pp=iAQB)

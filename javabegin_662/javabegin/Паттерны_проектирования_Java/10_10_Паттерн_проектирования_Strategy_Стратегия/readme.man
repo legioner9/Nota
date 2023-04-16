@@ -1,0 +1,3 @@
+# [javabegin](https://www.youtube.com/@javabegin/playlists?view=1)
+## [Паттерны проектирования Java](https://www.youtube.com/playlist?list=PL8X2nqRlWfabIgbe5CF-h_bDDHc3CPH74)
+### [10 Паттерн проектирования Strategy Стратегия](https://www.youtube.com/watch?v=JWAxukohEO0&amp;list=PL8X2nqRlWfabIgbe5CF-h_bDDHc3CPH74&amp;index=10&amp;pp=iAQB)

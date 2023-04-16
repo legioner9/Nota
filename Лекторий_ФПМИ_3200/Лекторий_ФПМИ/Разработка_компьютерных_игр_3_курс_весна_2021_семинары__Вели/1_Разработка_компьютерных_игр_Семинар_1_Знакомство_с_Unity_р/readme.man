@@ -1,0 +1,3 @@
+# [Лекторий ФПМИ](https://www.youtube.com/@lectory_fpmi/playlists?view=1)
+## [Разработка компьютерных игр (3 курс, весна 2021), семинары -- Великовский Н.](https://www.youtube.com/playlist?list=PL4_hYwCyhAvZnVBeakKtB8vl0dIc4ourc)
+### [Разработка компьютерных игр. Семинар 1. Знакомство с Unity, репозиторием](https://www.youtube.com/watch?v=ag5EOFHJIyY&amp;list=PL4_hYwCyhAvZnVBeakKtB8vl0dIc4ourc&amp;index=1&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [Михаил Непомнящий](https://www.youtube.com/@mishanep/playlists)
+## [React Router v6](https://www.youtube.com/playlist?list=PLiZoB8JBsdznY1XwBcBhHL9L7S_shPGVE)
+### [Параметры в ссылках в React Router 6](https://www.youtube.com/watch?v=wZ1P3QM9_p8&amp;list=PLiZoB8JBsdznY1XwBcBhHL9L7S_shPGVE&amp;index=4&amp;pp=iAQB)

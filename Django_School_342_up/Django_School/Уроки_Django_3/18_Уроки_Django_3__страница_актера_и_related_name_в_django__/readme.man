@@ -1,0 +1,3 @@
+# [Django School](https://www.youtube.com/@DjangoSchool/playlists?view=1)
+## [Уроки Django 3](https://www.youtube.com/playlist?list=PLF-NY6ldwAWrb6nQcPL21XX_-AmivFAYq)
+### [Уроки Django 3 - страница актера и related_name в django - урок 16](https://www.youtube.com/watch?v=Z3QJg6cMv_E&amp;list=PLF-NY6ldwAWrb6nQcPL21XX_-AmivFAYq&amp;index=18)

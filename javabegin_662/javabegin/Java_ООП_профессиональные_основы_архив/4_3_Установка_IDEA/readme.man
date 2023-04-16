@@ -1,0 +1,3 @@
+# [javabegin](https://www.youtube.com/@javabegin/playlists?view=1)
+## [Java ООП, профессиональные основы (архив)](https://www.youtube.com/playlist?list=PL8X2nqRlWfablTdl21xZtC-vGXC7I4xKH)
+### [3 Установка IDEA](https://www.youtube.com/watch?v=OdyF9898TKQ&amp;list=PL8X2nqRlWfablTdl21xZtC-vGXC7I4xKH&amp;index=4&amp;pp=iAQB)

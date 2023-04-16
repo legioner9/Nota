@@ -1,0 +1,3 @@
+# [Какие-то уроки](https://www.youtube.com/@kakieToYroki/playlists?view=1&sort=dd&shelf_id=0)
+## [Практика JavaScript для НАЧИНАЮЩИХ](https://www.youtube.com/playlist?list=PL6NCtzCz-4pSu8N7QJlGyqE9pA8l2sZFg)
+### [Практика JavaScript для НАЧИНАЮЩИХ (switch case, тернарный оператор)](https://www.youtube.com/watch?v=eyoZHwhvMkE&amp;list=PL6NCtzCz-4pSu8N7QJlGyqE9pA8l2sZFg&amp;index=4&amp;pp=iAQB)

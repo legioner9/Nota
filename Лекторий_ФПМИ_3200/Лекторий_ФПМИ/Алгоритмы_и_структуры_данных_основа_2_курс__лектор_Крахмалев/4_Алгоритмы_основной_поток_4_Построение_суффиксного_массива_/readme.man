@@ -1,0 +1,3 @@
+# [Лекторий ФПМИ](https://www.youtube.com/@lectory_fpmi/playlists?view=1)
+## [Алгоритмы и структуры данных (основа, 2 курс) - лектор Крахмалев Д. С.](https://www.youtube.com/playlist?list=PL4_hYwCyhAvZ5D_JszUoabA_U8QRLcN_e)
+### [Алгоритмы (основной поток) 4. Построение суффиксного массива, LCP](https://www.youtube.com/watch?v=lBO-PgpBlWE&amp;list=PL4_hYwCyhAvZ5D_JszUoabA_U8QRLcN_e&amp;index=4&amp;pp=iAQB)

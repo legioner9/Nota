@@ -1,0 +1,3 @@
+# [Лекторий ФПМИ](https://www.youtube.com/@lectory_fpmi/playlists?view=1)
+## [[Семинары]Concurrency(2 курс, весна) - Липовский Р. Г.](https://www.youtube.com/playlist?list=PL4_hYwCyhAvZ6sF9sSKzpYf7Djez7L4ej)
+### [Concurrecy(семинар) 3. Futex. Memory orders](https://www.youtube.com/watch?v=QMM4GDSQya4&amp;list=PL4_hYwCyhAvZ6sF9sSKzpYf7Djez7L4ej&amp;index=3&amp;pp=iAQB)

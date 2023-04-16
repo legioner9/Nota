@@ -1,0 +1,3 @@
+# [Лекторий ФПМИ](https://www.youtube.com/@lectory_fpmi/playlists?view=1)
+## [Алгоритмы и структуры данных (2 курс ИВТ) осень 2020](https://www.youtube.com/playlist?list=PL4_hYwCyhAva8kiBBrAG1APab7xso6nnn)
+### [Алгоритмы и структуры данных 5. Алгоритм Рабина-Карпа, префикс и z-функции, поиск подстроки в тексте](https://www.youtube.com/watch?v=7k4UZDTnkqs&amp;list=PL4_hYwCyhAva8kiBBrAG1APab7xso6nnn&amp;index=5&amp;pp=iAQB)

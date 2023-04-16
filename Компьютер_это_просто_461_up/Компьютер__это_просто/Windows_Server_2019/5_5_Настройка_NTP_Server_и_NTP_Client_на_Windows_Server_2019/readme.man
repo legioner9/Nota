@@ -1,0 +1,3 @@
+# [Компьютер - это просто!](https://www.youtube.com/@it-black/playlists)
+## [Windows Server 2019](https://www.youtube.com/playlist?list=PLh6tZVFnHXkrIwjOTSOMsE0Aj39U3wQUa)
+### [#5. Настройка NTP Server и NTP Client на Windows Server 2019.](https://www.youtube.com/watch?v=SZIvqjUbz2s&amp;list=PLh6tZVFnHXkrIwjOTSOMsE0Aj39U3wQUa&amp;index=5&amp;pp=iAQB)

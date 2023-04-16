@@ -1,0 +1,3 @@
+# [Django School](https://www.youtube.com/@DjangoSchool/playlists?view=1)
+## [FastAPI](https://www.youtube.com/playlist?list=PLF-NY6ldwAWqoWmTvGzfT0ygGn72wwNbR)
+### [FastAPI что это такое? | Django School](https://www.youtube.com/watch?v=1J47jwMykL0&amp;list=PLF-NY6ldwAWqoWmTvGzfT0ygGn72wwNbR&amp;index=1)

@@ -1,0 +1,3 @@
+# [МИКО - центр разработки программных продуктов](https://www.youtube.com/@MsBeketov/playlists)
+## [Инструкции](https://www.youtube.com/playlist?list=PLPCm3kZfSIxyBfdN6MBOFUR9gM1ZtLpJK)
+### [Встраивание подсистемы телефонии 4.0 в Управление торговлей 11.5](https://www.youtube.com/watch?v=TyMqBHfwM5M&amp;list=PLPCm3kZfSIxyBfdN6MBOFUR9gM1ZtLpJK&amp;index=12&amp;pp=iAQB)

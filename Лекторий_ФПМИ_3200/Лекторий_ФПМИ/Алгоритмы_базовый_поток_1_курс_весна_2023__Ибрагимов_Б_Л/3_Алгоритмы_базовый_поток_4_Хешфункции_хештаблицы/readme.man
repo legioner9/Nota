@@ -1,0 +1,3 @@
+# [Лекторий ФПМИ](https://www.youtube.com/@lectory_fpmi/playlists?view=1)
+## [Алгоритмы (базовый поток) (1 курс, весна 2023) - Ибрагимов Б. Л.](https://www.youtube.com/playlist?list=PL4_hYwCyhAvYnTuFntl1nQARzYfa7fryW)
+### [Алгоритмы (базовый поток) 4. Хеш-функции, хеш-таблицы](https://www.youtube.com/watch?v=NwYnjYYZo2Q&amp;list=PL4_hYwCyhAvYnTuFntl1nQARzYfa7fryW&amp;index=3&amp;pp=iAQB)

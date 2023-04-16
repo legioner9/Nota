@@ -1,0 +1,3 @@
+# [Archakov Blog](https://www.youtube.com/@ArchakovBlog/playlists)
+## [Разрабатываем клон TJournal](https://www.youtube.com/playlist?list=PL0FGkDGJQjJH8uKAWtvvd1aI2Poo-TXGD)
+### [#4: Разрабатываем клон TJournal: форма регистрации, валидация, React Hook Form и Yup [frontend]](https://www.youtube.com/watch?v=tyBvOv2ruXo&amp;list=PL0FGkDGJQjJH8uKAWtvvd1aI2Poo-TXGD&amp;index=4)

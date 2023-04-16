@@ -1,0 +1,3 @@
+# [Лекторий ФПМИ](https://www.youtube.com/@lectory_fpmi/playlists?view=1)
+## [Алгоритмы и структуры данных (1 курс, весна 2023) - Рухович Ф. Д.](https://www.youtube.com/playlist?list=PL4_hYwCyhAvZAho3t-z48Y2UkeraLACf3)
+### [Алгоритмы и структуры данных (продвинутый поток) 8. Алгоритм Флойда, Алгоритм Джонсона, Теория игр](https://www.youtube.com/watch?v=vEbg3J7rMgU&amp;list=PL4_hYwCyhAvZAho3t-z48Y2UkeraLACf3&amp;index=8&amp;pp=iAQB)

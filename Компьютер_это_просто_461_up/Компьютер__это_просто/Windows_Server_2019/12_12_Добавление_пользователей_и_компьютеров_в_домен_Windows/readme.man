@@ -1,0 +1,3 @@
+# [Компьютер - это просто!](https://www.youtube.com/@it-black/playlists)
+## [Windows Server 2019](https://www.youtube.com/playlist?list=PLh6tZVFnHXkrIwjOTSOMsE0Aj39U3wQUa)
+### [#12. Добавление пользователей и компьютеров в домен Windows Server 2019.](https://www.youtube.com/watch?v=QI15QRxAFe8&amp;list=PLh6tZVFnHXkrIwjOTSOMsE0Aj39U3wQUa&amp;index=12&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [Лекторий ФПМИ](https://www.youtube.com/@lectory_fpmi/playlists?view=1)
+## [Алгоритмы и структуры данных (2 курс, осень 2020, ПМИ + КТ)](https://www.youtube.com/playlist?list=PL4_hYwCyhAvYqSADD82AQhUFk-0GtY-UC)
+### [Алгоритмы и структуры данных 8. Сумма Минковского. Scan line](https://www.youtube.com/watch?v=jW3xTLgYIgY&amp;list=PL4_hYwCyhAvYqSADD82AQhUFk-0GtY-UC&amp;index=8&amp;pp=iAQB)

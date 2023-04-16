@@ -1,0 +1,3 @@
+# [Лекторий ФПМИ](https://www.youtube.com/@lectory_fpmi/playlists?view=1)
+## [Технологии программирования (1 курс, весна 2019), лектор -- Старичков](https://www.youtube.com/playlist?list=PL4_hYwCyhAvZ_oBYi6P7SZqu7WoWTzIqP)
+### [Технологии программирования 9. Методологии разработки ПО](https://www.youtube.com/watch?v=QeSQEbFRdwQ&amp;list=PL4_hYwCyhAvZ_oBYi6P7SZqu7WoWTzIqP&amp;index=9&amp;pp=iAQB)

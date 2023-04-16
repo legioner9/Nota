@@ -1,0 +1,3 @@
+# [Лекторий ФПМИ](https://www.youtube.com/@lectory_fpmi/playlists?view=1)
+## [Введение в программирование (1 курс, осень 2021) - Рухович Ф. Д.](https://www.youtube.com/playlist?list=PL4_hYwCyhAvYCBgUmSph0M60Kaie9L-p5)
+### [Введение в программирование(продвинутый поток) 12. Дерево Ван Эмде Боаса. Дерево Фенвика](https://www.youtube.com/watch?v=_td-oz2_2NY&amp;list=PL4_hYwCyhAvYCBgUmSph0M60Kaie9L-p5&amp;index=9&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [Как стать программистом](https://www.youtube.com/@user-gu8gg2ib6y/playlists)
+## [10 JavaScript проектов](https://www.youtube.com/playlist?list=PLqp5ZRS9tv4QDOXnn6zGtl1R5LfPDMvz4)
+### [#4 Пишем КИНОСАЙТ на Javascript](https://www.youtube.com/watch?v=swDY06tK6j4&amp;list=PLqp5ZRS9tv4QDOXnn6zGtl1R5LfPDMvz4&amp;index=4&amp;pp=iAQB)

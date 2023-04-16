@@ -1,0 +1,3 @@
+# [Какие-то уроки](https://www.youtube.com/@kakieToYroki/playlists?view=1&sort=dd&shelf_id=0)
+## [Мини-задачи по JavaScript](https://www.youtube.com/playlist?list=PL6NCtzCz-4pQsy7RUAbiGuPjRlj3MW6_U)
+### [Мини задача по JavaScript (функция parseInt)](https://www.youtube.com/watch?v=05DP4M41stI&amp;list=PL6NCtzCz-4pQsy7RUAbiGuPjRlj3MW6_U&amp;index=6&amp;pp=iAQB)

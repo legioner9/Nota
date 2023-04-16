@@ -1,0 +1,3 @@
+# [Мир IT с Антоном Павленко](https://www.youtube.com/@pavlenkoat/playlists)
+## [Apache Kafka](https://www.youtube.com/playlist?list=PLWCdmr_xDegcuLlhmXdVFyeNzNbVQdwDM)
+### [Apache Kafka урок 1. Зачем нужна, что это? RabbitMQ vs Kafka vs БД](https://www.youtube.com/watch?v=DvXPKUUl38w&amp;list=PLWCdmr_xDegcuLlhmXdVFyeNzNbVQdwDM&amp;index=2&amp;pp=iAQB)

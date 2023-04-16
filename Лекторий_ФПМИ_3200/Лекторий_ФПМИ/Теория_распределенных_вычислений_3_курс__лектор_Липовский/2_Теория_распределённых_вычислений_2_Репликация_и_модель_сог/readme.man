@@ -1,0 +1,3 @@
+# [Лекторий ФПМИ](https://www.youtube.com/@lectory_fpmi/playlists?view=1)
+## [Теория распределенных вычислений (3 курс) - лектор Липовский](https://www.youtube.com/playlist?list=PL4_hYwCyhAvaFFsMCUzAA1K7JU7YBb8b9)
+### [Теория распределённых вычислений 2. Репликация и модель согласованности. Алгоритм ABD.](https://www.youtube.com/watch?v=fmZ4dzSrXNw&amp;list=PL4_hYwCyhAvaFFsMCUzAA1K7JU7YBb8b9&amp;index=2&amp;pp=iAQB)

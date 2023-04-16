@@ -1,0 +1,3 @@
+# [Лекторий ФПМИ](https://www.youtube.com/@lectory_fpmi/playlists?view=1)
+## [Алгоритмы и структуры данных (1 курс, весна 2023) - Степанов И. Д.](https://www.youtube.com/playlist?list=PL4_hYwCyhAvZSdTWba4rwTlmdMwqf0gEd)
+### [Алгоритмы и структуры данных 7. Алгоритмы Флойда и А*](https://www.youtube.com/watch?v=ZkyyAP-2UTI&amp;list=PL4_hYwCyhAvZSdTWba4rwTlmdMwqf0gEd&amp;index=7&amp;pp=iAQB)

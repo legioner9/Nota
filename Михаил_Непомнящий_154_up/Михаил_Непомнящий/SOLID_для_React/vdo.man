@@ -1,0 +1,5 @@
+### [Принцип единой ответственности. SOLID для React](https://www.youtube.com/watch?v=N5QbnmNWctc&amp;list=PLiZoB8JBsdznXsIsi14OSRfxBkIlCl8FX&amp;index=1&amp;pp=iAQB)
+### [Принцип открытости/закрытости. SOLID для React](https://www.youtube.com/watch?v=qYBAN9womRc&amp;list=PLiZoB8JBsdznXsIsi14OSRfxBkIlCl8FX&amp;index=2&amp;pp=iAQB)
+### [Принцип подстановки Лисков. SOLID для React](https://www.youtube.com/watch?v=rQbftW8Ke8Q&amp;list=PLiZoB8JBsdznXsIsi14OSRfxBkIlCl8FX&amp;index=3&amp;pp=iAQB)
+### [Принцип разделения интерфейса. SOLID для React](https://www.youtube.com/watch?v=HiHInuKKzw4&amp;list=PLiZoB8JBsdznXsIsi14OSRfxBkIlCl8FX&amp;index=4&amp;pp=iAQB)
+### [Инверсия зависимостей. SOLID для React](https://www.youtube.com/watch?v=COudsR6ybqw&amp;list=PLiZoB8JBsdznXsIsi14OSRfxBkIlCl8FX&amp;index=5&amp;pp=iAQB)

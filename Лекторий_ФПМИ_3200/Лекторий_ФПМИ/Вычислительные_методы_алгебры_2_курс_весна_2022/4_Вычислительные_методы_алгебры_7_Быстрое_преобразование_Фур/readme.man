@@ -1,0 +1,3 @@
+# [Лекторий ФПМИ](https://www.youtube.com/@lectory_fpmi/playlists?view=1)
+## [Вычислительные методы алгебры (2 курс, весна 2022)](https://www.youtube.com/playlist?list=PL4_hYwCyhAvZ2JDE5pZxQEly3-CGwX7py)
+### [Вычислительные методы алгебры 7. Быстрое преобразование Фурье.](https://www.youtube.com/watch?v=YLlr_K0JfJI&amp;list=PL4_hYwCyhAvZ2JDE5pZxQEly3-CGwX7py&amp;index=4&amp;pp=iAQB)

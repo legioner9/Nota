@@ -1,0 +1,3 @@
+# [Лекторий ФПМИ](https://www.youtube.com/@lectory_fpmi/playlists?view=1)
+## [Метапрограммирование (4 курс, 2019) - лектор Никита Старичков](https://www.youtube.com/playlist?list=PL4_hYwCyhAvbuMqCr9X0RLtqb3KDZVdjs)
+### [Метапрограммирование 3. Поведенческие паттерны. Typelist](https://www.youtube.com/watch?v=tiaBcZzN3so&amp;list=PL4_hYwCyhAvbuMqCr9X0RLtqb3KDZVdjs&amp;index=2&amp;pp=iAQB)

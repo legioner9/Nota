@@ -1,0 +1,3 @@
+# [Какие-то уроки](https://www.youtube.com/@kakieToYroki/playlists?view=1&sort=dd&shelf_id=0)
+## [Верстка сайта GRID](https://www.youtube.com/playlist?list=PL6NCtzCz-4pR_FoUnb1h65Pj2ao0acIiT)
+### [#6. Верстка сайта GRID (Практика HTML + CSS)](https://www.youtube.com/watch?v=OP7MaJiO8OY&amp;list=PL6NCtzCz-4pR_FoUnb1h65Pj2ao0acIiT&amp;index=6&amp;pp=iAQB)

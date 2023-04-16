@@ -1,0 +1,2 @@
+### [Мастер-класс: &quot;C++. Калькулятор на QT&quot;](https://www.youtube.com/watch?v=jzL7Pu6b55Y&amp;list=PLrMb_y4Du4JiV-bXVcRHTDR5ksjcOwRrU&amp;index=1&amp;pp=iAQB)
+### [Мастер-класс &quot;Змейка на С++ и Qt&quot;](https://www.youtube.com/watch?v=QiWqpv8fE3s&amp;list=PLrMb_y4Du4JiV-bXVcRHTDR5ksjcOwRrU&amp;index=2&amp;pp=iAQB)

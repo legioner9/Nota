@@ -1,0 +1,8 @@
+### [Алгоритмы и структуры данных (основной поток) 1.](https://www.youtube.com/watch?v=Pm7tFOG7K4Y&amp;list=PL4_hYwCyhAvaIDzD0DaekAzp23WOjeo09&amp;index=1&amp;pp=iAQB)
+### [Алгоритмы и структуры данных (основной поток) 2.](https://www.youtube.com/watch?v=319CRkBZJus&amp;list=PL4_hYwCyhAvaIDzD0DaekAzp23WOjeo09&amp;index=2&amp;pp=iAQB)
+### [Алгоритмы и структуры данных (основной поток) 3.](https://www.youtube.com/watch?v=nn4l2GgFq8I&amp;list=PL4_hYwCyhAvaIDzD0DaekAzp23WOjeo09&amp;index=3&amp;pp=iAQB)
+### [Алгоритмы и структуры данных (основной поток) 4.](https://www.youtube.com/watch?v=Bg7lXr4clCs&amp;list=PL4_hYwCyhAvaIDzD0DaekAzp23WOjeo09&amp;index=4&amp;pp=iAQB)
+### [Алгоритмы и структуры данных 5. Кратчайшие пути, алгоритмы Форда-Беллмана и Флойда.](https://www.youtube.com/watch?v=3WtlI4fnr4o&amp;list=PL4_hYwCyhAvaIDzD0DaekAzp23WOjeo09&amp;index=5&amp;pp=iAQB)
+### [Алгоритмы и структуры данных (основной поток) 6. Алгоритм Дейкстры](https://www.youtube.com/watch?v=e0Ud4f5ubro&amp;list=PL4_hYwCyhAvaIDzD0DaekAzp23WOjeo09&amp;index=6&amp;pp=iAQB)
+### [Алгоритмы и структуры данных (основной поток) 7. Оптимизации и использование Дейкстры](https://www.youtube.com/watch?v=t61Y0z3auF8&amp;list=PL4_hYwCyhAvaIDzD0DaekAzp23WOjeo09&amp;index=7&amp;pp=iAQB)
+### [Алгоритмы и структуры данных (основной поток) 8.](https://www.youtube.com/watch?v=85LfgaukBzU&amp;list=PL4_hYwCyhAvaIDzD0DaekAzp23WOjeo09&amp;index=8&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [Лекторий ФПМИ](https://www.youtube.com/@lectory_fpmi/playlists?view=1)
+## [Продвинутое программирование на С++ (1 курс, весна 2021)](https://www.youtube.com/playlist?list=PL4_hYwCyhAvYTzwME4vQoDO8ZINM5trra)
+### [C++ 34. Реализация std::variant, функция std::launder](https://www.youtube.com/watch?v=7sPvacA1BoA&amp;list=PL4_hYwCyhAvYTzwME4vQoDO8ZINM5trra&amp;index=14&amp;pp=iAQB)

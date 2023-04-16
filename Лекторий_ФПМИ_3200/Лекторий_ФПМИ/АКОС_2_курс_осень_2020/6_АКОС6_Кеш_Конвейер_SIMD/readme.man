@@ -1,0 +1,3 @@
+# [Лекторий ФПМИ](https://www.youtube.com/@lectory_fpmi/playlists?view=1)
+## [АКОС (2 курс, осень 2020)](https://www.youtube.com/playlist?list=PL4_hYwCyhAvZcOr5sJzuLmze2F6wPms-A)
+### [АКОС-6. Кеш. Конвейер. SIMD.](https://www.youtube.com/watch?v=L_Cu7Ppx5aQ&amp;list=PL4_hYwCyhAvZcOr5sJzuLmze2F6wPms-A&amp;index=6&amp;pp=iAQB)

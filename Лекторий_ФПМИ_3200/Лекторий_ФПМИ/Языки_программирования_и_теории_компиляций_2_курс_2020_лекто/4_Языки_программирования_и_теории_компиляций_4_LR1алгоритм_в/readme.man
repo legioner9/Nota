@@ -1,0 +1,3 @@
+# [Лекторий ФПМИ](https://www.youtube.com/@lectory_fpmi/playlists?view=1)
+## [Языки программирования и теории компиляций (2 курс, 2020), лектор - Ахтямов Павел](https://www.youtube.com/playlist?list=PL4_hYwCyhAvYOzs-YNOf4oVFTKdk2jRYH)
+### [Языки программирования и теории компиляций 4. LR(1)-алгоритм, восстановление ошибок компиляции.](https://www.youtube.com/watch?v=5otS_fuxrqE&amp;list=PL4_hYwCyhAvYOzs-YNOf4oVFTKdk2jRYH&amp;index=4&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [javabegin](https://www.youtube.com/@javabegin/playlists?view=1)
+## [Angular+Java/SpringBoot](https://www.youtube.com/playlist?list=PL8X2nqRlWfaZngkjmrwEMSTqE4wTB6z-t)
+### [Как правильно обновлять Angular для системы и проектов](https://www.youtube.com/watch?v=lePek8C3hAg&amp;list=PL8X2nqRlWfaZngkjmrwEMSTqE4wTB6z-t&amp;index=4&amp;pp=iAQB)

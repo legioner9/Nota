@@ -1,0 +1,6 @@
+### [Вычислительные методы алгебры 1. Ранг, разделение переменных и сингулярное разложение.](https://www.youtube.com/watch?v=bvCf5id4Pgc&amp;list=PL4_hYwCyhAvZ2JDE5pZxQEly3-CGwX7py&amp;index=1&amp;pp=iAQB)
+### [Вычислительные методы алгебры 2. Теорема о малоранговом приближении матрицы.](https://www.youtube.com/watch?v=9CSXWUw9k90&amp;list=PL4_hYwCyhAvZ2JDE5pZxQEly3-CGwX7py&amp;index=2&amp;pp=iAQB)
+### [Вычислительные методы алгебры 4. Возмущение матрицы.](https://www.youtube.com/watch?v=sz0RYQKPwCs&amp;list=PL4_hYwCyhAvZ2JDE5pZxQEly3-CGwX7py&amp;index=3&amp;pp=iAQB)
+### [Вычислительные методы алгебры 7. Быстрое преобразование Фурье.](https://www.youtube.com/watch?v=YLlr_K0JfJI&amp;list=PL4_hYwCyhAvZ2JDE5pZxQEly3-CGwX7py&amp;index=4&amp;pp=iAQB)
+### [Вычислительные методы алгебры 9. Многочлены Чебышева.](https://www.youtube.com/watch?v=ryXNllYzlyA&amp;list=PL4_hYwCyhAvZ2JDE5pZxQEly3-CGwX7py&amp;index=5&amp;pp=iAQB)
+### [Вычислительные методы алгебры 10.  Степенной метод.](https://www.youtube.com/watch?v=lRC--haCk5c&amp;list=PL4_hYwCyhAvZ2JDE5pZxQEly3-CGwX7py&amp;index=6&amp;pp=iAQB)

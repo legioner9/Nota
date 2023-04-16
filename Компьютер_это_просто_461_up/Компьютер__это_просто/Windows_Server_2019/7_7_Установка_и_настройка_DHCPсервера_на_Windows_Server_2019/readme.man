@@ -1,0 +1,3 @@
+# [Компьютер - это просто!](https://www.youtube.com/@it-black/playlists)
+## [Windows Server 2019](https://www.youtube.com/playlist?list=PLh6tZVFnHXkrIwjOTSOMsE0Aj39U3wQUa)
+### [#7. Установка и настройка DHCP-сервера на Windows Server 2019.](https://www.youtube.com/watch?v=b1Bhuauk0ks&amp;list=PLh6tZVFnHXkrIwjOTSOMsE0Aj39U3wQUa&amp;index=7&amp;pp=iAQB)

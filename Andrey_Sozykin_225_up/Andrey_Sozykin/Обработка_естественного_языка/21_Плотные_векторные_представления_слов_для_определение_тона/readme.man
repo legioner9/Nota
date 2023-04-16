@@ -1,0 +1,3 @@
+# [Andrey Sozykin](https://www.youtube.com/@AndreySozykin/playlists?view=1)
+## [Обработка естественного языка](https://www.youtube.com/playlist?list=PLtPJ9lKvJ4ohZpMV9Ml-DPtMSXPFNl6Sz)
+### [Плотные векторные представления слов для определение тональности | Обработка естественного языка](https://www.youtube.com/watch?v=A1yuqPqhecU&amp;list=PLtPJ9lKvJ4ohZpMV9Ml-DPtMSXPFNl6Sz&amp;index=21&amp;pp=iAQB)

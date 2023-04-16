@@ -1,0 +1,3 @@
+# [Мир IT с Антоном Павленко](https://www.youtube.com/@pavlenkoat/playlists)
+## [DevOps](https://www.youtube.com/playlist?list=PLWCdmr_xDeged_8pzGzcEee1nNw6jLPer)
+### [НЕ КОМПИЛИРУЙ в Docker пока не посмотришь. Рельные ошибки при сборке Docker](https://www.youtube.com/watch?v=2ZkKqiEiXmc&amp;list=PLWCdmr_xDeged_8pzGzcEee1nNw6jLPer&amp;index=2&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [javabegin](https://www.youtube.com/@javabegin/playlists?view=1)
+## [Паттерны проектирования Java](https://www.youtube.com/playlist?list=PL8X2nqRlWfabIgbe5CF-h_bDDHc3CPH74)
+### [5 Паттерн проектирования Decorator Декоратор](https://www.youtube.com/watch?v=lj5m-2DpNCs&amp;list=PL8X2nqRlWfabIgbe5CF-h_bDDHc3CPH74&amp;index=5&amp;pp=iAQB)

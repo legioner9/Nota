@@ -1,0 +1,3 @@
+# [Основы протокола SIP](https://www.youtube.com/@sip2864ru/playlists)
+## [Теория](https://www.youtube.com/playlist?list=PLu-vH1nEdtsXL3q3gXlyWQ9bF4h76go8j)
+### [Тема#17 - Rich Business Messaging (RBM)](https://www.youtube.com/watch?v=XDyWNp86q0A&amp;list=PLu-vH1nEdtsXL3q3gXlyWQ9bF4h76go8j&amp;index=1&amp;pp=iAQB)

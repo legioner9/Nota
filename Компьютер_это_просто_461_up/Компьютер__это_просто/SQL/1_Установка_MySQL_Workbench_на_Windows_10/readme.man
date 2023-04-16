@@ -1,0 +1,3 @@
+# [Компьютер - это просто!](https://www.youtube.com/@it-black/playlists)
+## [SQL](https://www.youtube.com/playlist?list=PLh6tZVFnHXkpNWTaTlp56mj8T0karCzJa)
+### [Установка MySQL Workbench на Windows 10.](https://www.youtube.com/watch?v=9PjDpoPTWkM&amp;list=PLh6tZVFnHXkpNWTaTlp56mj8T0karCzJa&amp;index=1&amp;pp=iAQB)

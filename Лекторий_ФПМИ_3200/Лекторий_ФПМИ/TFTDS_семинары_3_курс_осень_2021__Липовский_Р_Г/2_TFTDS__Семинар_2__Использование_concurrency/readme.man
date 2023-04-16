@@ -1,0 +1,3 @@
+# [Лекторий ФПМИ](https://www.youtube.com/@lectory_fpmi/playlists?view=1)
+## [TFTDS (семинары, 3 курс, осень 2021) - Липовский Р. Г.](https://www.youtube.com/playlist?list=PL4_hYwCyhAvZd6B5fN3yAB0zOCjhgpfgg)
+### [TFTDS / Семинар 2 / Использование concurrency](https://www.youtube.com/watch?v=88kTYPwQ6QI&amp;list=PL4_hYwCyhAvZd6B5fN3yAB0zOCjhgpfgg&amp;index=2&amp;pp=iAQB)

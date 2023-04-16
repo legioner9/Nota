@@ -1,0 +1,3 @@
+# [Кафедра ИВМ МФТИ](https://www.youtube.com/@cs_mipt/playlists)
+## [Язык С для начинающих. Курсовая работа. Дербышева Татьяна Николаевна (2020)](https://www.youtube.com/playlist?list=PL55ElYIEKI0ApTzK4GdmVIw5uJEYTxJx5)
+### [PDP-11. Урок 3-2. Выставление флагов командами.](https://www.youtube.com/watch?v=JIKZ7CO_x3o&amp;list=PL55ElYIEKI0ApTzK4GdmVIw5uJEYTxJx5&amp;index=16&amp;pp=iAQB)

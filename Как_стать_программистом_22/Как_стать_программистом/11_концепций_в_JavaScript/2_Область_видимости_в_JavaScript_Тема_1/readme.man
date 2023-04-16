@@ -1,0 +1,3 @@
+# [Как стать программистом](https://www.youtube.com/@user-gu8gg2ib6y/playlists)
+## [11 концепций в JavaScript](https://www.youtube.com/playlist?list=PLqp5ZRS9tv4Qdq9Cmkh5f0Ta22u7vg_T4)
+### [Область видимости в JavaScript (Тема №1)](https://www.youtube.com/watch?v=2XFidNSwdpY&amp;list=PLqp5ZRS9tv4Qdq9Cmkh5f0Ta22u7vg_T4&amp;index=2&amp;pp=iAQB)

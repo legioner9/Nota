@@ -1,0 +1,3 @@
+# [Лекторий ФПМИ](https://www.youtube.com/@lectory_fpmi/playlists?view=1)
+## [Теория отказоустойчивых распределенных систем (3 курс, осень 2019) - лектор -- Роман Липовский](https://www.youtube.com/playlist?list=PL4_hYwCyhAvYwYRYQB1QwwwrqDrIgSMou)
+### [TFTDS 2. Атомарный регистр, алгоритм ABD](https://www.youtube.com/watch?v=H-82_Gy6WEY&amp;list=PL4_hYwCyhAvYwYRYQB1QwwwrqDrIgSMou&amp;index=2&amp;pp=iAQB)

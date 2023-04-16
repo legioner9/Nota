@@ -1,0 +1,3 @@
+# [Лекторий ФПМИ](https://www.youtube.com/@lectory_fpmi/playlists?view=1)
+## [Математика больших данных (4-5 курсы, осень 2022) - Гасников А.В.](https://www.youtube.com/playlist?list=PL4_hYwCyhAvZIqYnUHqHf7g0G74gPOHo1)
+### [Математика больших данных 5. Гасников А.В. &quot;Вокруг стохастического градиентного спуска&quot;](https://www.youtube.com/watch?v=h6YmYBJU-Wg&amp;list=PL4_hYwCyhAvZIqYnUHqHf7g0G74gPOHo1&amp;index=5&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [Лекторий ФПМИ](https://www.youtube.com/@lectory_fpmi/playlists?view=1)
+## [Теория и практика многопоточной синхронизации (ТПМС, Concurrency) / Лекции / Весна 2022 / Роман Липовский](https://www.youtube.com/playlist?list=PL4_hYwCyhAva37lNnoMuBcKRELso5nvBm)
+### [ТПМС / Лекция 7 / Shared Memory: Memory Models](https://www.youtube.com/watch?v=CEzFMP78D1Y&amp;list=PL4_hYwCyhAva37lNnoMuBcKRELso5nvBm&amp;index=7&amp;pp=iAQB)

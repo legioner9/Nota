@@ -1,0 +1,3 @@
+# [javabegin](https://www.youtube.com/@javabegin/playlists?view=1)
+## [Коллекции в Java](https://www.youtube.com/playlist?list=PL8X2nqRlWfab2fMfRCADxQfUUPyaAe842)
+### [10 Реализации Queue в Java](https://www.youtube.com/watch?v=fElkvr53WBQ&amp;list=PL8X2nqRlWfab2fMfRCADxQfUUPyaAe842&amp;index=10&amp;pp=iAQB)

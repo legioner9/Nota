@@ -1,0 +1,3 @@
+# [Михаил Непомнящий](https://www.youtube.com/@mishanep/playlists)
+## [JavaScript фишки](https://www.youtube.com/playlist?list=PLiZoB8JBsdzklPlprqQRwGQuyD92f-Wm8)
+### [Расчет временной дистанции в JavaScript](https://www.youtube.com/watch?v=CeS6i2NlYbE&amp;list=PLiZoB8JBsdzklPlprqQRwGQuyD92f-Wm8&amp;index=7&amp;pp=iAQB)

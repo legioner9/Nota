@@ -1,0 +1,3 @@
+# [Кафедра ИВМ МФТИ](https://www.youtube.com/@cs_mipt/playlists)
+## [Язык С для начинающих (информатика 1-2 семестр), Дербышева Татьяна Николаевна (2019-2020)](https://www.youtube.com/playlist?list=PL55ElYIEKI0ADQO0opspdFNJGtPJ82UI_)
+### [Дербышева Т.Н Лекция 5 &quot;Циклы&quot;](https://www.youtube.com/watch?v=ZknyHkRI70g&amp;list=PL55ElYIEKI0ADQO0opspdFNJGtPJ82UI_&amp;index=5&amp;pp=iAQB)

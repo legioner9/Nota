@@ -1,0 +1,3 @@
+# [Andrey Sozykin](https://www.youtube.com/@AndreySozykin/playlists?view=1)
+## [Практика SQL](https://www.youtube.com/playlist?list=PLtPJ9lKvJ4oiwv4Ps-R8jcycN-YrwZGNl)
+### [Условный оператор CASE в SQL | Практика по SQL](https://www.youtube.com/watch?v=5vrmSoT7tjE&amp;list=PLtPJ9lKvJ4oiwv4Ps-R8jcycN-YrwZGNl&amp;index=6&amp;pp=iAQB)

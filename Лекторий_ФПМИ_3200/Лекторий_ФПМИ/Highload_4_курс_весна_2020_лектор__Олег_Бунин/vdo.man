@@ -1,0 +1,7 @@
+### [Highload 7. Примеры проектирования систем](https://www.youtube.com/watch?v=kBmRmUvFrOg&amp;list=PL4_hYwCyhAvZuoK6Y0FaCh-25jEYtBvDo&amp;index=1&amp;pp=iAQB)
+### [Highload 6. Базы данных, продолжение](https://www.youtube.com/watch?v=P99GSKqQAfw&amp;list=PL4_hYwCyhAvZuoK6Y0FaCh-25jEYtBvDo&amp;index=2&amp;pp=iAQB)
+### [Highload 5. Базы данных, начало](https://www.youtube.com/watch?v=6JveW8Y3PU4&amp;list=PL4_hYwCyhAvZuoK6Y0FaCh-25jEYtBvDo&amp;index=3&amp;pp=iAQB)
+### [Highload 4. Recap](https://www.youtube.com/watch?v=TenEN81EvWc&amp;list=PL4_hYwCyhAvZuoK6Y0FaCh-25jEYtBvDo&amp;index=4&amp;pp=iAQB)
+### [Highload 3. Линеаризация кеша, балансировка нагрузки, толстый клиент](https://www.youtube.com/watch?v=qfTlJ4sbQuA&amp;list=PL4_hYwCyhAvZuoK6Y0FaCh-25jEYtBvDo&amp;index=5&amp;pp=iAQB)
+### [Highload 2. Фронтенд-бэкенд, кэширование](https://www.youtube.com/watch?v=8WNOH3P2VN4&amp;list=PL4_hYwCyhAvZuoK6Y0FaCh-25jEYtBvDo&amp;index=6&amp;pp=iAQB)
+### [Highload 1. Вводное занятие, примеры проектирования систем, сбор требований.](https://www.youtube.com/watch?v=2xXTeCic_to&amp;list=PL4_hYwCyhAvZuoK6Y0FaCh-25jEYtBvDo&amp;index=7&amp;pp=iAQB)

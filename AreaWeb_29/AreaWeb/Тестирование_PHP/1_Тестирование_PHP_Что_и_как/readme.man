@@ -1,0 +1,3 @@
+# [AreaWeb](https://www.youtube.com/@areaweb/playlists)
+## [Тестирование PHP](https://www.youtube.com/playlist?list=PLiOhsP3M5j5wv_GNOUrkYVB1ZSY3-ifJE)
+### [Тестирование PHP. Что и как?](https://www.youtube.com/watch?v=14yrZiIZ9m8&amp;list=PLiOhsP3M5j5wv_GNOUrkYVB1ZSY3-ifJE&amp;index=1&amp;pp=iAQB)

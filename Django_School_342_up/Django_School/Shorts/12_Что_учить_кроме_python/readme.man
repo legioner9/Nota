@@ -1,0 +1,3 @@
+# [Django School](https://www.youtube.com/@DjangoSchool/playlists?view=1)
+## [Shorts](https://www.youtube.com/playlist?list=PLF-NY6ldwAWrM6h7JxvKXMGoaaFRcSBcP)
+### [Что учить кроме python](https://www.youtube.com/watch?v=so7DL76nQ1c&amp;list=PLF-NY6ldwAWrM6h7JxvKXMGoaaFRcSBcP&amp;index=12)

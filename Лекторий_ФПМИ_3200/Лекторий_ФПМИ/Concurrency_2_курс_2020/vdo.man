@@ -1,0 +1,8 @@
+### [Concurrency 1. Взаимное исключение](https://www.youtube.com/watch?v=KNHNqp1e9u8&amp;list=PL4_hYwCyhAvalRjpPlvaCYPpPE8TL-fn3&amp;index=1&amp;pp=iAQB)
+### [Concurrency 2. Механика потоков](https://www.youtube.com/watch?v=SY3IcxvyPXw&amp;list=PL4_hYwCyhAvalRjpPlvaCYPpPE8TL-fn3&amp;index=2&amp;pp=iAQB)
+### [Concurrency 3. Мелкогранулярные блокировки](https://www.youtube.com/watch?v=39FVKa9liZU&amp;list=PL4_hYwCyhAvalRjpPlvaCYPpPE8TL-fn3&amp;index=3&amp;pp=iAQB)
+### [Concurrency 4. Когерентность кэшей](https://www.youtube.com/watch?v=lerIrAMzjWA&amp;list=PL4_hYwCyhAvalRjpPlvaCYPpPE8TL-fn3&amp;index=4&amp;pp=iAQB)
+### [Concurrency 5. Модели памяти I](https://www.youtube.com/watch?v=H_X8c1M3BZs&amp;list=PL4_hYwCyhAvalRjpPlvaCYPpPE8TL-fn3&amp;index=5&amp;pp=iAQB)
+### [Concurrency 7. Планировщик Asio. Futures](https://www.youtube.com/watch?v=s5Unf9l3OfM&amp;list=PL4_hYwCyhAvalRjpPlvaCYPpPE8TL-fn3&amp;index=6&amp;pp=iAQB)
+### [Concurrency 8. Lock-free (неблокирующая синхронизация)](https://www.youtube.com/watch?v=Hs5ZJdg35G4&amp;list=PL4_hYwCyhAvalRjpPlvaCYPpPE8TL-fn3&amp;index=7&amp;pp=iAQB)
+### [Concurrency 9. Планировщик Go](https://www.youtube.com/watch?v=RAB2vG1xOYs&amp;list=PL4_hYwCyhAvalRjpPlvaCYPpPE8TL-fn3&amp;index=8&amp;pp=iAQB)

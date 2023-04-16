@@ -1,0 +1,3 @@
+# [Михаил Непомнящий](https://www.youtube.com/@mishanep/playlists)
+## [JavaScript фишки](https://www.youtube.com/playlist?list=PLiZoB8JBsdzklPlprqQRwGQuyD92f-Wm8)
+### [Простые решения для сложных задач с Intersection Observer API](https://www.youtube.com/watch?v=ZYqBZmU-tA0&amp;list=PLiZoB8JBsdzklPlprqQRwGQuyD92f-Wm8&amp;index=1&amp;pp=iAQB)

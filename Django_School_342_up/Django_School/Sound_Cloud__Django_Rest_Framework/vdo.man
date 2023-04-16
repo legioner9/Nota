@@ -1,0 +1,8 @@
+### [Custom user Django | Настройка проекта Django Rest | Sound Cloud #1](https://www.youtube.com/watch?v=UD0EiGTgfmI&amp;list=PLF-NY6ldwAWosy6hAyKMwZozmEyq1J2fg&amp;index=1)
+### [Авторизация Google Django Rest Framework | Создание JWT | Sound Cloud #2](https://www.youtube.com/watch?v=-I1PnAgyMRw&amp;list=PLF-NY6ldwAWosy6hAyKMwZozmEyq1J2fg&amp;index=2)
+### [Своя аутентификация пользователя Django Rest Framework | авторизация в swagger | Sound Cloud #3](https://www.youtube.com/watch?v=XEHzrXlQAY8&amp;list=PLF-NY6ldwAWosy6hAyKMwZozmEyq1J2fg&amp;index=3)
+### [Авторизация Spotify Django Rest Framework | Sound Cloud #4](https://www.youtube.com/watch?v=9mQfE3CZ-BA&amp;list=PLF-NY6ldwAWosy6hAyKMwZozmEyq1J2fg&amp;index=4)
+### [Свой permission Django Rest Framework | Sound Cloud #5](https://www.youtube.com/watch?v=eiLVkV-TfYY&amp;list=PLF-NY6ldwAWosy6hAyKMwZozmEyq1J2fg&amp;index=5)
+### [Аудио библиотека DRF | Sound Cloud #6](https://www.youtube.com/watch?v=B1NdnpmwLog&amp;list=PLF-NY6ldwAWosy6hAyKMwZozmEyq1J2fg&amp;index=6)
+### [Слушать и скачивать музыку на Django Rest Framework | Sound Cloud #7](https://www.youtube.com/watch?v=PmmKLqnlGl8&amp;list=PLF-NY6ldwAWosy6hAyKMwZozmEyq1J2fg&amp;index=7)
+### [DRF + Docker + NGINX + Postgres | Sound Cloud #8](https://www.youtube.com/watch?v=G3sTcn8GYhU&amp;list=PLF-NY6ldwAWosy6hAyKMwZozmEyq1J2fg&amp;index=8)

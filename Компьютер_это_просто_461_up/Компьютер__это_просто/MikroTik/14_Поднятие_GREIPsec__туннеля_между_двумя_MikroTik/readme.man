@@ -1,0 +1,3 @@
+# [Компьютер - это просто!](https://www.youtube.com/@it-black/playlists)
+## [MikroTik](https://www.youtube.com/playlist?list=PLh6tZVFnHXkqg1sFtjtS0MduZP8ciDgrB)
+### [Поднятие GRE/IPsec - туннеля между двумя MikroTik.](https://www.youtube.com/watch?v=RLTV46dEDP4&amp;list=PLh6tZVFnHXkqg1sFtjtS0MduZP8ciDgrB&amp;index=14&amp;pp=iAQB)

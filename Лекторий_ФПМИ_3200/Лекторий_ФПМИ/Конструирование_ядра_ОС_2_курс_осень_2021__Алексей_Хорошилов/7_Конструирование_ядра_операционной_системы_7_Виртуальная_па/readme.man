@@ -1,0 +1,3 @@
+# [Лекторий ФПМИ](https://www.youtube.com/@lectory_fpmi/playlists?view=1)
+## [Конструирование ядра ОС (2 курс, осень 2021) - Алексей Хорошилов, Виталий Чепцов, Виктор Перевёрткин](https://www.youtube.com/playlist?list=PL4_hYwCyhAva5JvmFBIUc_-JqZk4xfc5f)
+### [Конструирование ядра операционной системы 7. Виртуальная память](https://www.youtube.com/watch?v=jmeMSdLlq0o&amp;list=PL4_hYwCyhAva5JvmFBIUc_-JqZk4xfc5f&amp;index=7&amp;pp=iAQB)

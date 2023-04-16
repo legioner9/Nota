@@ -1,0 +1,3 @@
+# [Кафедра ИВМ МФТИ](https://www.youtube.com/@cs_mipt/playlists)
+## [Язык С для начинающих. Курсовая работа. Дербышева Татьяна Николаевна (2020)](https://www.youtube.com/playlist?list=PL55ElYIEKI0ApTzK4GdmVIw5uJEYTxJx5)
+### [Эмулятор PDP-11 Урок 1-2. Терминология. Little endian и big endian.](https://www.youtube.com/watch?v=eBXfExL_D70&amp;list=PL55ElYIEKI0ApTzK4GdmVIw5uJEYTxJx5&amp;index=2&amp;pp=iAQB)

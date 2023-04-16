@@ -1,0 +1,3 @@
+# [javabegin](https://www.youtube.com/@javabegin/playlists?view=1)
+## [Получение Access Token из OAuth2 в Frontend (HTML/JS) + KeyCloak](https://www.youtube.com/playlist?list=PL8X2nqRlWfaaL8LXo5HlwDwbhKRQVDiEI)
+### [Frontend + OAuth2/KeyCloak: Настройка Spring Security для backend (2022)](https://www.youtube.com/watch?v=oNmg4V0B8xE&amp;list=PL8X2nqRlWfaaL8LXo5HlwDwbhKRQVDiEI&amp;index=5&amp;pp=iAQB)

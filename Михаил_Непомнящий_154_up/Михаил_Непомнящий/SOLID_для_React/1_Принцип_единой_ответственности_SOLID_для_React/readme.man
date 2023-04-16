@@ -1,0 +1,3 @@
+# [Михаил Непомнящий](https://www.youtube.com/@mishanep/playlists)
+## [SOLID для React](https://www.youtube.com/playlist?list=PLiZoB8JBsdznXsIsi14OSRfxBkIlCl8FX)
+### [Принцип единой ответственности. SOLID для React](https://www.youtube.com/watch?v=N5QbnmNWctc&amp;list=PLiZoB8JBsdznXsIsi14OSRfxBkIlCl8FX&amp;index=1&amp;pp=iAQB)

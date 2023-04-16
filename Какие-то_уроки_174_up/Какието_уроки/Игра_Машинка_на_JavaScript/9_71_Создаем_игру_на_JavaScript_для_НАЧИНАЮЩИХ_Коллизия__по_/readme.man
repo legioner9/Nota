@@ -1,0 +1,3 @@
+# [Какие-то уроки](https://www.youtube.com/@kakieToYroki/playlists?view=1&sort=dd&shelf_id=0)
+## [Игра "Машинка" на JavaScript](https://www.youtube.com/playlist?list=PL6NCtzCz-4pQGZtf83TkzQQFmppJGng8V)
+### [#7.1. Создаем игру на JavaScript для НАЧИНАЮЩИХ (Коллизия  по вертикали)](https://www.youtube.com/watch?v=vFNDfubwoXo&amp;list=PL6NCtzCz-4pQGZtf83TkzQQFmppJGng8V&amp;index=9&amp;pp=iAQB)

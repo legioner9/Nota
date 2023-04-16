@@ -1,0 +1,4 @@
+### [Продвинутые алгоритмы и структуры данных 1 Дерево ван Эмде Боаса](https://www.youtube.com/watch?v=BVdHVGXvDcg&amp;list=PL4_hYwCyhAvaFvdV1vXlRtUY8l4Iqx5WH&amp;index=1&amp;pp=iAQB)
+### [Продвинутые алгоритмы и структуры данных 2 Динамическое программирование](https://www.youtube.com/watch?v=ilKnLy51FjE&amp;list=PL4_hYwCyhAvaFvdV1vXlRtUY8l4Iqx5WH&amp;index=2&amp;pp=iAQB)
+### [Продвинутые алгоритмы и структуры данных 3 Динамическое программирование (НОП, часть 1)](https://www.youtube.com/watch?v=QNN3Ew8GSnU&amp;list=PL4_hYwCyhAvaFvdV1vXlRtUY8l4Iqx5WH&amp;index=3&amp;pp=iAQB)
+### [Продвинутые алгоритмы и структуры данных 4 Динамическое программирование (НОП, часть 2)](https://www.youtube.com/watch?v=jsL7mPlv3EM&amp;list=PL4_hYwCyhAvaFvdV1vXlRtUY8l4Iqx5WH&amp;index=4&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [Archakov Blog](https://www.youtube.com/@ArchakovBlog/playlists)
+## [Создаем свой Clubhouse на ReactJS + NextJS + WebRTC](https://www.youtube.com/playlist?list=PL0FGkDGJQjJEwzHLU7-sFyS46VVwlqK-0)
+### [#10: Создаем свой Clubhouse на ReactJS / NextJS / WebRTC / Socket.IO / NodeJS (pre-middle/middle)](https://www.youtube.com/watch?v=b4R2IrkUv_8&amp;list=PL0FGkDGJQjJEwzHLU7-sFyS46VVwlqK-0&amp;index=10)

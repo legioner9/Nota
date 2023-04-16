@@ -1,0 +1,3 @@
+# [webDev](https://www.youtube.com/@YauhenKavalchuk/playlists?view=1)
+## [Front-end. Быстрые советы и рекомендации](https://www.youtube.com/playlist?list=PLNkWIWHIRwMFDRZRMMUVkn3QXEogqBJfA)
+### [Front-end. Быстрые советы и рекомендации #3 Используй консоль браузера на 100%](https://www.youtube.com/watch?v=9U2hloR0Ies&amp;list=PLNkWIWHIRwMFDRZRMMUVkn3QXEogqBJfA&amp;index=1)

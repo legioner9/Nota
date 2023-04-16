@@ -1,0 +1,3 @@
+# [Django School](https://www.youtube.com/@DjangoSchool/playlists?view=1)
+## [Django в примерах](https://www.youtube.com/playlist?list=PLF-NY6ldwAWpTnRdB6dqRkquMAIP3JbwH)
+### [Как переопределить сохранение формы Django admin Inline?](https://www.youtube.com/watch?v=7C63crPArwc&amp;list=PLF-NY6ldwAWpTnRdB6dqRkquMAIP3JbwH&amp;index=2)

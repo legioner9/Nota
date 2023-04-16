@@ -1,0 +1,3 @@
+# [Лаборатория Data-driven management'a. ЭФ НГУ](https://www.youtube.com/@data-drivenmanagementa.363/playlists)
+## [обучение](https://www.youtube.com/playlist?list=PLDxkNyWEQfqj7fchaHjMQjvl9CwhhUoQh)
+### [Импорт базы данных в PostgreSQL. Изучение структуры базы данных](https://www.youtube.com/watch?v=YoHHP_SYs2w&amp;list=PLDxkNyWEQfqj7fchaHjMQjvl9CwhhUoQh&amp;index=2&amp;pp=iAQB)

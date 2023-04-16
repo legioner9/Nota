@@ -1,0 +1,3 @@
+# [Exploring the IT World / Oleg Shpagin / WISEPLAT](https://www.youtube.com/@wiseplat/playlists)
+## [Распознавание речи на Пайтон AI](https://www.youtube.com/playlist?list=PLxiU3nwEQ4PHLCwPFUdr3u2oScfIhUohe)
+### [Уроки Python / Как сделать игру Змейка (Мастер-класс)](https://www.youtube.com/watch?v=eJ7Q5qvhbAw&amp;list=PLxiU3nwEQ4PHLCwPFUdr3u2oScfIhUohe&amp;index=11)

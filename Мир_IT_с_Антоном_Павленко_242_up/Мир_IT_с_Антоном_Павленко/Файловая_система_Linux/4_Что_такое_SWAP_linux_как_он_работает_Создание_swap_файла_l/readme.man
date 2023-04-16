@@ -1,0 +1,3 @@
+# [Мир IT с Антоном Павленко](https://www.youtube.com/@pavlenkoat/playlists)
+## [Файловая система Linux](https://www.youtube.com/playlist?list=PLWCdmr_xDegd7e_3as8ERlwNxOEqx1vRy)
+### [Что такое SWAP linux, как он работает? Создание swap файла linux](https://www.youtube.com/watch?v=EBwiZ02IBTg&amp;list=PLWCdmr_xDegd7e_3as8ERlwNxOEqx1vRy&amp;index=4&amp;pp=iAQB)

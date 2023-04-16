@@ -1,0 +1,3 @@
+# [Andrey Sozykin](https://www.youtube.com/@AndreySozykin/playlists?view=1)
+## [Основы SQL](https://www.youtube.com/playlist?list=PLtPJ9lKvJ4oh5SdmGVusIVDPcELrJ2bsT)
+### [Создание таблиц в SQL | Основы SQL](https://www.youtube.com/watch?v=7nD1e4m9Wgg&amp;list=PLtPJ9lKvJ4oh5SdmGVusIVDPcELrJ2bsT&amp;index=5&amp;pp=iAQB)

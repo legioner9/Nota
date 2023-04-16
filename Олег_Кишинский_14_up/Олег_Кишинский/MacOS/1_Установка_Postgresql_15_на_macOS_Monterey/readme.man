@@ -1,0 +1,3 @@
+# [Олег Кишинский](https://www.youtube.com/@oleg_kishinskii/playlists)
+## [MacOS](https://www.youtube.com/playlist?list=PL-CNdS1UhzQkueYwMBW0l1t-L-9sqqZi3)
+### [Установка Postgresql 15 на macOS Monterey](https://www.youtube.com/watch?v=rpcHU7YPC4k&amp;list=PL-CNdS1UhzQkueYwMBW0l1t-L-9sqqZi3&amp;index=1&amp;pp=iAQB)

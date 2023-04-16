@@ -1,0 +1,8 @@
+### [Алгоритмы. Семинар 1. Асимптотики](https://www.youtube.com/watch?v=eZeBflKo_14&amp;list=PL4_hYwCyhAvb7igx_YeBF4BZBnq5CRtMB&amp;index=1&amp;pp=iAQB)
+### [Алгоритмы. Семинар 5. Быстрое преобразование Фурье](https://www.youtube.com/watch?v=71hk65x8rec&amp;list=PL4_hYwCyhAvb7igx_YeBF4BZBnq5CRtMB&amp;index=2&amp;pp=iAQB)
+### [Алгоритмы. Семинар 6. Классы в C++](https://www.youtube.com/watch?v=HSIowYPlnOk&amp;list=PL4_hYwCyhAvb7igx_YeBF4BZBnq5CRtMB&amp;index=3&amp;pp=iAQB)
+### [Алгоритмы. Семинар 7. Быстрое преобразование Фурье. Часть 2](https://www.youtube.com/watch?v=IMDylQULDbo&amp;list=PL4_hYwCyhAvb7igx_YeBF4BZBnq5CRtMB&amp;index=4&amp;pp=iAQB)
+### [Алгоритмы. Семинар 8. Метод Ньютона для поиска корней](https://www.youtube.com/watch?v=NJFJ39R1tnU&amp;list=PL4_hYwCyhAvb7igx_YeBF4BZBnq5CRtMB&amp;index=5&amp;pp=iAQB)
+### [Алгоритмы. Семинар 9. Быстрое преобразование Фурье. Часть 3](https://www.youtube.com/watch?v=IRirsL62Tu8&amp;list=PL4_hYwCyhAvb7igx_YeBF4BZBnq5CRtMB&amp;index=6&amp;pp=iAQB)
+### [Алгоритмы. Семинар 10. Быстрое преобразование Фурье. Часть 4](https://www.youtube.com/watch?v=TUQlJw9xApI&amp;list=PL4_hYwCyhAvb7igx_YeBF4BZBnq5CRtMB&amp;index=7&amp;pp=iAQB)
+### [Алгоритмы. Семинар 11. Быстрое преобразование Фурье(часть 5), SET](https://www.youtube.com/watch?v=4inCBzYvL6I&amp;list=PL4_hYwCyhAvb7igx_YeBF4BZBnq5CRtMB&amp;index=8&amp;pp=iAQB)

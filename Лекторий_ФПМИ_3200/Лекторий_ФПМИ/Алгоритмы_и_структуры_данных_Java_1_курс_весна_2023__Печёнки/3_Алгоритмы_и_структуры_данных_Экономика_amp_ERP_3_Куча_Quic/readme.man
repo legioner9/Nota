@@ -1,0 +1,3 @@
+# [Лекторий ФПМИ](https://www.youtube.com/@lectory_fpmi/playlists?view=1)
+## [Алгоритмы и структуры данных (Java) (1 курс, весна 2023) - Печёнкин А. А.](https://www.youtube.com/playlist?list=PL4_hYwCyhAvbPIeVQRbuctLAiOkiCxH-v)
+### [Алгоритмы и структуры данных (Экономика &amp; ERP). 3. Куча; Quick sort](https://www.youtube.com/watch?v=opBT-1D5Ll8&amp;list=PL4_hYwCyhAvbPIeVQRbuctLAiOkiCxH-v&amp;index=3&amp;pp=iAQB)

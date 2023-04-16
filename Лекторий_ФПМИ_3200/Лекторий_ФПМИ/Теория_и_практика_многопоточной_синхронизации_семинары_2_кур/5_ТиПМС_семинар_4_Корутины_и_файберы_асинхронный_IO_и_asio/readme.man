@@ -1,0 +1,3 @@
+# [Лекторий ФПМИ](https://www.youtube.com/@lectory_fpmi/playlists?view=1)
+## [Теория и практика многопоточной синхронизации (семинары) (2 курс, весна 2021), семинарист - Роман Липовский](https://www.youtube.com/playlist?list=PL4_hYwCyhAvaxKQHe6n8JQcoc7tWxKWRL)
+### [ТиПМС, семинар 4. Корутины и файберы, асинхронный IO и asio](https://www.youtube.com/watch?v=U2nyhsfociw&amp;list=PL4_hYwCyhAvaxKQHe6n8JQcoc7tWxKWRL&amp;index=5&amp;pp=iAQB)

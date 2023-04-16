@@ -1,0 +1,3 @@
+# [SockFD](https://www.youtube.com/@sockfd/playlists)
+## [GAS x64](https://www.youtube.com/playlist?list=PL74QQzBTjH9PaC9sxDXpqXDqVvUkOqsj9)
+### [GNU Assembler x64. Функция вывода строки на экран](https://www.youtube.com/watch?v=bvlkpklYT9M&amp;list=PL74QQzBTjH9PaC9sxDXpqXDqVvUkOqsj9&amp;index=23&amp;pp=iAQB)

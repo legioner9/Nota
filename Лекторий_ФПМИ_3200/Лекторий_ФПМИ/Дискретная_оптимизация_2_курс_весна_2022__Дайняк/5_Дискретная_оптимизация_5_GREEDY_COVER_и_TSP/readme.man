@@ -1,0 +1,3 @@
+# [Лекторий ФПМИ](https://www.youtube.com/@lectory_fpmi/playlists?view=1)
+## [Дискретная оптимизация (2 курс, весна 2022) - Дайняк](https://www.youtube.com/playlist?list=PL4_hYwCyhAvZ39hI0Pd6Cf8XrSz0e9ulH)
+### [Дискретная оптимизация 5. GREEDY COVER и TSP](https://www.youtube.com/watch?v=t13dqqm74gw&amp;list=PL4_hYwCyhAvZ39hI0Pd6Cf8XrSz0e9ulH&amp;index=5&amp;pp=iAQB)

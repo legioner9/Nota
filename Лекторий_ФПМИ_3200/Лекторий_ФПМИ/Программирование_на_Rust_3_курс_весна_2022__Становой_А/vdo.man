@@ -1,0 +1,8 @@
+### [Программирование на Rust 1. Intro](https://www.youtube.com/watch?v=XDv4I3_4Ubs&amp;list=PL4_hYwCyhAvbeLzi699gqMUA4UaPkcdmJ&amp;index=1&amp;pp=iAQB)
+### [Программирование на Rust 2. Borrow checker. Standard library](https://www.youtube.com/watch?v=WM0St1vX_JM&amp;list=PL4_hYwCyhAvbeLzi699gqMUA4UaPkcdmJ&amp;index=2&amp;pp=iAQB)
+### [Программирование на Rust 3. Traits](https://www.youtube.com/watch?v=I3Y8Cb05f7U&amp;list=PL4_hYwCyhAvbeLzi699gqMUA4UaPkcdmJ&amp;index=3&amp;pp=iAQB)
+### [Программирование на Rust 4. Interior mutability. Cargo. Iterators](https://www.youtube.com/watch?v=9b4tjyFVadM&amp;list=PL4_hYwCyhAvbeLzi699gqMUA4UaPkcdmJ&amp;index=4&amp;pp=iAQB)
+### [Программирование на Rust 5. Closures. Metaprogramming](https://www.youtube.com/watch?v=FfmrQIsvJ5g&amp;list=PL4_hYwCyhAvbeLzi699gqMUA4UaPkcdmJ&amp;index=5&amp;pp=iAQB)
+### [Программирование на Rust 6. System safety](https://www.youtube.com/watch?v=WzsQfs5P4Dc&amp;list=PL4_hYwCyhAvbeLzi699gqMUA4UaPkcdmJ&amp;index=6&amp;pp=iAQB)
+### [Программирование на Rust 7. Unsafe. Parallel computing](https://www.youtube.com/watch?v=YTxblhRVu-A&amp;list=PL4_hYwCyhAvbeLzi699gqMUA4UaPkcdmJ&amp;index=7&amp;pp=iAQB)
+### [Программирование на Rust 8. Asynchronous computing](https://www.youtube.com/watch?v=vxFUVkDq5R8&amp;list=PL4_hYwCyhAvbeLzi699gqMUA4UaPkcdmJ&amp;index=8&amp;pp=iAQB)

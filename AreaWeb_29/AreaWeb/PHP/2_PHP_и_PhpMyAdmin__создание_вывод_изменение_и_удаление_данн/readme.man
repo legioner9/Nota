@@ -1,0 +1,3 @@
+# [AreaWeb](https://www.youtube.com/@areaweb/playlists)
+## [PHP](https://www.youtube.com/playlist?list=PLiOhsP3M5j5znqpNshsaAoeNJe0vFyhio)
+### [PHP и PhpMyAdmin - создание, вывод, изменение и удаление данных](https://www.youtube.com/watch?v=GDVWdYZLM7w&amp;list=PLiOhsP3M5j5znqpNshsaAoeNJe0vFyhio&amp;index=2&amp;pp=iAQB)

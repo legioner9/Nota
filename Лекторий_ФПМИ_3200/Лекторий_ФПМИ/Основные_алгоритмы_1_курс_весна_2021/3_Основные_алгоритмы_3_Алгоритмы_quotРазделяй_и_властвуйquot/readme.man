@@ -1,0 +1,3 @@
+# [Лекторий ФПМИ](https://www.youtube.com/@lectory_fpmi/playlists?view=1)
+## [Основные алгоритмы (1 курс, весна 2021)](https://www.youtube.com/playlist?list=PL4_hYwCyhAvYmAr9XTqxfJmTEBFRVNJoA)
+### [Основные алгоритмы 3. Алгоритмы &quot;Разделяй и властвуй&quot;](https://www.youtube.com/watch?v=It6KagDmosY&amp;list=PL4_hYwCyhAvYmAr9XTqxfJmTEBFRVNJoA&amp;index=3&amp;pp=iAQB)

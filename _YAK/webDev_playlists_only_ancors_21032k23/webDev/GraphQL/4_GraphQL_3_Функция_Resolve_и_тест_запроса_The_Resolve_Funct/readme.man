@@ -1,0 +1,3 @@
+# [webDev](https://www.youtube.com/@YauhenKavalchuk/playlists?view=1)
+## [GraphQL](https://www.youtube.com/playlist?list=PLNkWIWHIRwMF2sVLwzRef0Cu5kzAOeRcu)
+### [GraphQL #3 Функция Resolve и тест запроса (The Resolve Function &amp; Testing Query)](https://www.youtube.com/watch?v=8KmJ_RzJrp8&amp;list=PLNkWIWHIRwMF2sVLwzRef0Cu5kzAOeRcu&amp;index=4)

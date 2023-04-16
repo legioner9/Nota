@@ -1,0 +1,3 @@
+# [javabegin](https://www.youtube.com/@javabegin/playlists?view=1)
+## [Коллекции в Java](https://www.youtube.com/playlist?list=PL8X2nqRlWfab2fMfRCADxQfUUPyaAe842)
+### [2 Структура классов коллекций Java](https://www.youtube.com/watch?v=ZvXy4dtbppE&amp;list=PL8X2nqRlWfab2fMfRCADxQfUUPyaAe842&amp;index=2&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [Какие-то уроки](https://www.youtube.com/@kakieToYroki/playlists?view=1&sort=dd&shelf_id=0)
+## [React для НАЧИНАЮЩИХ](https://www.youtube.com/playlist?list=PL6NCtzCz-4pR_xzjVY6wpSTppLdJJmUqF)
+### [#4.1. React для НАЧИНАЮЩИХ (package.json, npm init, scripts, build, start)](https://www.youtube.com/watch?v=vTu4Z-bVcMA&amp;list=PL6NCtzCz-4pR_xzjVY6wpSTppLdJJmUqF&amp;index=4&amp;pp=iAQB)

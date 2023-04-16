@@ -1,0 +1,3 @@
+# [Лекторий ФПМИ](https://www.youtube.com/@lectory_fpmi/playlists?view=1)
+## [Объектно ориентированное программирование, основной поток (1 курс, 2020)](https://www.youtube.com/playlist?list=PL4_hYwCyhAvaZpaXa8FL24nwcPdS8PPA9)
+### [ООП (основной поток) 4. Конструкторы и деструкторы](https://www.youtube.com/watch?v=s4rB0yPG3nk&amp;list=PL4_hYwCyhAvaZpaXa8FL24nwcPdS8PPA9&amp;index=4&amp;pp=iAQB)

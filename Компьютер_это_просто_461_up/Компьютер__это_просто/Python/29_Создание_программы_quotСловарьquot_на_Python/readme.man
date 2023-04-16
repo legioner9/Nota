@@ -1,0 +1,3 @@
+# [Компьютер - это просто!](https://www.youtube.com/@it-black/playlists)
+## [Python](https://www.youtube.com/playlist?list=PLh6tZVFnHXkril4XyWsqbIe1wOL8epVS9)
+### [Создание программы &quot;Словарь&quot; на Python.](https://www.youtube.com/watch?v=oFQhZ4j4YUg&amp;list=PLh6tZVFnHXkril4XyWsqbIe1wOL8epVS9&amp;index=29&amp;pp=iAQB)

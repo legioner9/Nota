@@ -1,0 +1,3 @@
+# [Компьютер - это просто!](https://www.youtube.com/@it-black/playlists)
+## [Firewalld](https://www.youtube.com/playlist?list=PLh6tZVFnHXkpKuh9f-IKF1pOlWPyto1ra)
+### [Создание правил с условиями в Firewalld.](https://www.youtube.com/watch?v=qComoDDdRl4&amp;list=PLh6tZVFnHXkpKuh9f-IKF1pOlWPyto1ra&amp;index=5&amp;pp=iAQB)

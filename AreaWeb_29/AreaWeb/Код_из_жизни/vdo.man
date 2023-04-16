@@ -1,0 +1,1 @@
+### [Создание и использование своих фасадов в Laravel](https://www.youtube.com/watch?v=PsoPhi9xC50&amp;list=PLiOhsP3M5j5zWlUM4i1_QKPLQSidTOAsl&amp;index=1&amp;pp=iAQB)

@@ -1,0 +1,2 @@
+### [Django webRTC теория | django потоковое видео | #1](https://www.youtube.com/watch?v=jOoJk63rXAk&amp;list=PLF-NY6ldwAWpkFEUi4o3_Kz-0eBD_VtAZ&amp;index=1)
+### [Видеочат на Django | Django WebRTC](https://www.youtube.com/watch?v=bTflwIMFNmk&amp;list=PLF-NY6ldwAWpkFEUi4o3_Kz-0eBD_VtAZ&amp;index=2)

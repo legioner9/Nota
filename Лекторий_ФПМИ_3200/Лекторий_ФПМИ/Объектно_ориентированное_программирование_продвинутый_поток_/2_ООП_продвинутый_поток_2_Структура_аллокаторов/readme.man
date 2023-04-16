@@ -1,0 +1,3 @@
+# [Лекторий ФПМИ](https://www.youtube.com/@lectory_fpmi/playlists?view=1)
+## [Объектно ориентированное программирование, продвинутый поток (1 курс, 2020)](https://www.youtube.com/playlist?list=PL4_hYwCyhAvYn9QJJUb1WjHuhG3ojyuHL)
+### [ООП (продвинутый поток) 2. Структура аллокаторов](https://www.youtube.com/watch?v=Uy_SJy_ZSyg&amp;list=PL4_hYwCyhAvYn9QJJUb1WjHuhG3ojyuHL&amp;index=2&amp;pp=iAQB)

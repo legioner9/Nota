@@ -1,0 +1,3 @@
+# [Django School](https://www.youtube.com/@DjangoSchool/playlists?view=1)
+## [Django 2 уроки](https://www.youtube.com/playlist?list=PLF-NY6ldwAWqP4S95brtPHZ5fTCxilgei)
+### [Django 2 уроки - модель комментариев и админка | Урок 5](https://www.youtube.com/watch?v=KhN4LKMMErw&amp;list=PLF-NY6ldwAWqP4S95brtPHZ5fTCxilgei&amp;index=5)

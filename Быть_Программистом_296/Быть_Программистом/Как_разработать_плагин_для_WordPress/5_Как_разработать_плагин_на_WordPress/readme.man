@@ -1,0 +1,3 @@
+# [Быть Программистом](https://www.youtube.com/@bedeveloper/playlists?view=1)
+## [Как разработать плагин для WordPress.](https://www.youtube.com/playlist?list=PL2CKgzoZxvxU4fKv7Ce5l2zZf84tLzsZ9)
+### [Как разработать плагин на WordPress?](https://www.youtube.com/watch?v=wQgRmlvmqPU&amp;list=PL2CKgzoZxvxU4fKv7Ce5l2zZf84tLzsZ9&amp;index=5&amp;pp=iAQB)

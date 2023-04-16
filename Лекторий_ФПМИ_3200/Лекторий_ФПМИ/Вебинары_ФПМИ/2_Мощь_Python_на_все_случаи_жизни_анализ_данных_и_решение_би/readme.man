@@ -1,0 +1,3 @@
+# [Лекторий ФПМИ](https://www.youtube.com/@lectory_fpmi/playlists?view=1)
+## [Вебинары ФПМИ](https://www.youtube.com/playlist?list=PL4_hYwCyhAvZ_I1In-egJYAnvlME8frV-)
+### [Мощь Python на все случаи жизни: анализ данных и решение бизнес-задач.](https://www.youtube.com/watch?v=A_mdL2NfyQI&amp;list=PL4_hYwCyhAvZ_I1In-egJYAnvlME8frV-&amp;index=2&amp;pp=iAQB)

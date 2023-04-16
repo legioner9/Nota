@@ -1,0 +1,3 @@
+# [МИКО - центр разработки программных продуктов](https://www.youtube.com/@MsBeketov/playlists)
+## [Инструкции](https://www.youtube.com/playlist?list=PLPCm3kZfSIxyBfdN6MBOFUR9gM1ZtLpJK)
+### [Инструкция: Настройка blackfire.io для анализа MikoPBX](https://www.youtube.com/watch?v=cy2ywxtgDug&amp;list=PLPCm3kZfSIxyBfdN6MBOFUR9gM1ZtLpJK&amp;index=7&amp;pp=iAQB)

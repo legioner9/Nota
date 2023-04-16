@@ -1,0 +1,3 @@
+# [Exploring the IT World / Oleg Shpagin / WISEPLAT](https://www.youtube.com/@wiseplat/playlists)
+## [Уроки Python для начинающих #3 [ОСНОВЫ / уровень 3]](https://www.youtube.com/playlist?list=PLxiU3nwEQ4PFAx1MHW2qJjgPHlRoWm6v-)
+### [Уроки Python / Как сделать сайт на Питоне, Делаем Веб сервер](https://www.youtube.com/watch?v=_SOia1H_5Ic&amp;list=PLxiU3nwEQ4PFAx1MHW2qJjgPHlRoWm6v-&amp;index=21)

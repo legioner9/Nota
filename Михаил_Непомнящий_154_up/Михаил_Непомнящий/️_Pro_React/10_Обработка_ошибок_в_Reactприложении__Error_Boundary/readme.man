@@ -1,0 +1,3 @@
+# [Михаил Непомнящий](https://www.youtube.com/@mishanep/playlists)
+## [⚛️ Pro React](https://www.youtube.com/playlist?list=PLiZoB8JBsdzkClMnvcedplvSF_JPhvopM)
+### [Обработка ошибок в React-приложении | Error Boundary](https://www.youtube.com/watch?v=gyqAW0--0Tc&amp;list=PLiZoB8JBsdzkClMnvcedplvSF_JPhvopM&amp;index=10&amp;pp=iAQB)

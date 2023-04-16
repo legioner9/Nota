@@ -1,0 +1,3 @@
+# [Лекторий ФПМИ](https://www.youtube.com/@lectory_fpmi/playlists?view=1)
+## [Продвинутое программирование на С++ (1 курс, осень 2020)](https://www.youtube.com/playlist?list=PL4_hYwCyhAvazfCDGyS0wx_hvBmnAAf4h)
+### [С++ 19. Спецификации исключений. Стандартные контейнеры.](https://www.youtube.com/watch?v=6cMoTUfo-ms&amp;list=PL4_hYwCyhAvazfCDGyS0wx_hvBmnAAf4h&amp;index=19&amp;pp=iAQB)

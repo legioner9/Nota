@@ -1,0 +1,3 @@
+# [Основы протокола SIP](https://www.youtube.com/@sip2864ru/playlists)
+## [Практика](https://www.youtube.com/playlist?list=PLu-vH1nEdtsXIOCcXlMqH7byFRrYUOuVR)
+### [Тема#8 - SIP анализ в Wireshark](https://www.youtube.com/watch?v=9BJZXj8wnr4&amp;list=PLu-vH1nEdtsXIOCcXlMqH7byFRrYUOuVR&amp;index=3&amp;pp=iAQB)

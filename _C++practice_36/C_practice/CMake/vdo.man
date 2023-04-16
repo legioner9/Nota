@@ -1,0 +1,6 @@
+### [CMake в Visual Studio Code](https://www.youtube.com/watch?v=H0xbSStc9D0&amp;list=PLyw-Qzqua8-bUs1Ve7PAb-Vm3AOrmbtjo&amp;index=1&amp;pp=iAQB)
+### [GNU Make. Описание и примеры make-файлов. Часть 1.](https://www.youtube.com/watch?v=RtCpuDO_hhw&amp;list=PLyw-Qzqua8-bUs1Ve7PAb-Vm3AOrmbtjo&amp;index=2&amp;pp=iAQB)
+### [GNU Make. Описание и примеры make-файлов. Часть 2.](https://www.youtube.com/watch?v=TJHF7E7pDfM&amp;list=PLyw-Qzqua8-bUs1Ve7PAb-Vm3AOrmbtjo&amp;index=3&amp;pp=iAQB)
+### [CMake. Часть 1](https://www.youtube.com/watch?v=e8j9TgjCR48&amp;list=PLyw-Qzqua8-bUs1Ve7PAb-Vm3AOrmbtjo&amp;index=4&amp;pp=iAQB)
+### [CMake. Часть 2](https://www.youtube.com/watch?v=bSNQ2GPG-L0&amp;list=PLyw-Qzqua8-bUs1Ve7PAb-Vm3AOrmbtjo&amp;index=5&amp;pp=iAQB)
+### [CMake. Часть 3](https://www.youtube.com/watch?v=F48PJYmB9nU&amp;list=PLyw-Qzqua8-bUs1Ve7PAb-Vm3AOrmbtjo&amp;index=6&amp;pp=iAQB)

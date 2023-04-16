@@ -1,0 +1,3 @@
+# [Лекторий ФПМИ](https://www.youtube.com/@lectory_fpmi/playlists?view=1)
+## [Дискретный анализ (2 курс, осень 2022) — Райгородский А. М.](https://www.youtube.com/playlist?list=PL4_hYwCyhAvbPEUM7bPJGR5pUzJL5YvQw)
+### [Дискретный анализ 7. Хроматические числа случайных графов. Теоремы Эрдеша и Боллобаша](https://www.youtube.com/watch?v=NHvNT65jArA&amp;list=PL4_hYwCyhAvbPEUM7bPJGR5pUzJL5YvQw&amp;index=6&amp;pp=iAQB)

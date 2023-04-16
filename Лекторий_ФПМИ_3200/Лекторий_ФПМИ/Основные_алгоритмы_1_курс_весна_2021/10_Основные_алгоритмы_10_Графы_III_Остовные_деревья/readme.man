@@ -1,0 +1,3 @@
+# [Лекторий ФПМИ](https://www.youtube.com/@lectory_fpmi/playlists?view=1)
+## [Основные алгоритмы (1 курс, весна 2021)](https://www.youtube.com/playlist?list=PL4_hYwCyhAvYmAr9XTqxfJmTEBFRVNJoA)
+### [Основные алгоритмы 10. Графы III. Остовные деревья](https://www.youtube.com/watch?v=AVOeUpomGtU&amp;list=PL4_hYwCyhAvYmAr9XTqxfJmTEBFRVNJoA&amp;index=10&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [Михаил Непомнящий](https://www.youtube.com/@mishanep/playlists)
+## [SOLID для React](https://www.youtube.com/playlist?list=PLiZoB8JBsdznXsIsi14OSRfxBkIlCl8FX)
+### [Принцип разделения интерфейса. SOLID для React](https://www.youtube.com/watch?v=HiHInuKKzw4&amp;list=PLiZoB8JBsdznXsIsi14OSRfxBkIlCl8FX&amp;index=4&amp;pp=iAQB)

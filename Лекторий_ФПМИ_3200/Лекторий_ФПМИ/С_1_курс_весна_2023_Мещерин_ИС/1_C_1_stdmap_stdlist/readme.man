@@ -1,0 +1,3 @@
+# [Лекторий ФПМИ](https://www.youtube.com/@lectory_fpmi/playlists?view=1)
+## [С++ (1 курс, весна 2023) Мещерин И.С.](https://www.youtube.com/playlist?list=PL4_hYwCyhAvZATDL6xxWCrHDqBF50RfKW)
+### [C++ 1. std::map, std::list](https://www.youtube.com/watch?v=_jIp7mA1Hy8&amp;list=PL4_hYwCyhAvZATDL6xxWCrHDqBF50RfKW&amp;index=1&amp;pp=iAQB)

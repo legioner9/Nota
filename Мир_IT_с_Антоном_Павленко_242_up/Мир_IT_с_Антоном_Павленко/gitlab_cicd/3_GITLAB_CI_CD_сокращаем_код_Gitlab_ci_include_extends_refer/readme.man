@@ -1,0 +1,3 @@
+# [Мир IT с Антоном Павленко](https://www.youtube.com/@pavlenkoat/playlists)
+## [gitlab ci/cd](https://www.youtube.com/playlist?list=PLWCdmr_xDegfn7-Z0eqsB7Po8ITgCZkEB)
+### [GITLAB CI CD сокращаем код. Gitlab ci include, extends, reference, remote, local](https://www.youtube.com/watch?v=T_IuyNXWMjQ&amp;list=PLWCdmr_xDegfn7-Z0eqsB7Po8ITgCZkEB&amp;index=3&amp;pp=iAQB)

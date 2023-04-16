@@ -1,0 +1,3 @@
+# [javabegin](https://www.youtube.com/@javabegin/playlists?view=1)
+## [Angular на практике - создание проекта  Todo с нуля (+ Git)](https://www.youtube.com/playlist?list=PL8X2nqRlWfaY09TihXp27wN7HayRB1rC9)
+### [6 Создание Angular проекта](https://www.youtube.com/watch?v=QhCMAUFhsKc&amp;list=PL8X2nqRlWfaY09TihXp27wN7HayRB1rC9&amp;index=5&amp;pp=iAQB)

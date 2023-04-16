@@ -1,0 +1,3 @@
+# [Михаил Непомнящий](https://www.youtube.com/@mishanep/playlists)
+## [Анимации в ReactJS ⚛️](https://www.youtube.com/playlist?list=PLiZoB8JBsdzkn1yqxUaprfLYzdS-1jhJE)
+### [Анимация перехода между страницами в React SPA с react-spring](https://www.youtube.com/watch?v=BSmXK6z0h3s&amp;list=PLiZoB8JBsdzkn1yqxUaprfLYzdS-1jhJE&amp;index=11&amp;pp=iAQB)

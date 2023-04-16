@@ -1,0 +1,3 @@
+### [Полная установка Kali Linux 2020.2 на виртуальную машину VirtualBox + установка доп. гостевой ОС.](https://www.youtube.com/watch?v=Ff9HVQlAIM4&amp;list=PLh6tZVFnHXkqGaXikvcATgC9BoCLJhGj4&amp;index=1&amp;pp=iAQB)
+### [Установка готового образа Kali Linux 2020.2 на виртуальную машину VirtualBox.](https://www.youtube.com/watch?v=qjR_K3U4DIM&amp;list=PLh6tZVFnHXkqGaXikvcATgC9BoCLJhGj4&amp;index=2&amp;pp=iAQB)
+### [Настройка общей папки в Kali Linux на VirtualBox.](https://www.youtube.com/watch?v=r6s0P-WeZu0&amp;list=PLh6tZVFnHXkqGaXikvcATgC9BoCLJhGj4&amp;index=3&amp;pp=iAQB)

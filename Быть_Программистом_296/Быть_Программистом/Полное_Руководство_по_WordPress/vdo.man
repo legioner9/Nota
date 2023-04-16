@@ -1,0 +1,3 @@
+### [Полное Руководство по WordPress. Часть 1](https://www.youtube.com/watch?v=8yIRvyWJWQE&amp;list=PL2CKgzoZxvxUgFmayuWeSSw9cazuZLRUx&amp;index=1&amp;pp=iAQB)
+### [Если не поставить эти плагины, у твоего сайта будут проблемы!](https://www.youtube.com/watch?v=aETsjfn2InU&amp;list=PL2CKgzoZxvxUgFmayuWeSSw9cazuZLRUx&amp;index=2&amp;pp=iAQB)
+### [Как быстро сделать качественный Landing | Elementor + Redux](https://www.youtube.com/watch?v=pCMoo_V7oA4&amp;list=PL2CKgzoZxvxUgFmayuWeSSw9cazuZLRUx&amp;index=3&amp;pp=iAQB)

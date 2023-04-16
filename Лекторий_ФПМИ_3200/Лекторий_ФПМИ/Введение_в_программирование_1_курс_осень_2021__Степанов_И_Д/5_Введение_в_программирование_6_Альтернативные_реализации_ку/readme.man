@@ -1,0 +1,3 @@
+# [Лекторий ФПМИ](https://www.youtube.com/@lectory_fpmi/playlists?view=1)
+## [Введение в программирование (1 курс, осень 2021) - Степанов И. Д.](https://www.youtube.com/playlist?list=PL4_hYwCyhAvYdtAoMuCjG6pSL5DoqAp7Q)
+### [Введение в программирование 6. Альтернативные реализации кучи: Биномиальная куча](https://www.youtube.com/watch?v=BHbmxWe56Tw&amp;list=PL4_hYwCyhAvYdtAoMuCjG6pSL5DoqAp7Q&amp;index=5&amp;pp=iAQB)

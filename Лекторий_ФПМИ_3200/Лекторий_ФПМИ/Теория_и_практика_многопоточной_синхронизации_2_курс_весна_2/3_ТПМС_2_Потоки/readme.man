@@ -1,0 +1,3 @@
+# [Лекторий ФПМИ](https://www.youtube.com/@lectory_fpmi/playlists?view=1)
+## [Теория и практика многопоточной синхронизации (2 курс, весна 2019), лектор -- Липовский](https://www.youtube.com/playlist?list=PL4_hYwCyhAvbW4DHFV3CY5CqupNqPf4jS)
+### [ТПМС 2. Потоки](https://www.youtube.com/watch?v=WVv1JFmJHcw&amp;list=PL4_hYwCyhAvbW4DHFV3CY5CqupNqPf4jS&amp;index=3&amp;pp=iAQB)

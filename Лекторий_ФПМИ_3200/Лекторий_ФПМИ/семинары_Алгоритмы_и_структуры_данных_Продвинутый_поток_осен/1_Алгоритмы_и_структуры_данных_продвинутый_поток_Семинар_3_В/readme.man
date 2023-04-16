@@ -1,0 +1,3 @@
+# [Лекторий ФПМИ](https://www.youtube.com/@lectory_fpmi/playlists?view=1)
+## [(семинары) Алгоритмы и структуры данных. Продвинутый поток (осень 2019)](https://www.youtube.com/playlist?list=PL4_hYwCyhAvYwconG2P-Podts1HlYHxb_)
+### [Алгоритмы и структуры данных (продвинутый поток). Семинар 3. Вычислительная геометрия](https://www.youtube.com/watch?v=R-T50mVMMEM&amp;list=PL4_hYwCyhAvYwconG2P-Podts1HlYHxb_&amp;index=1&amp;pp=iAQB)

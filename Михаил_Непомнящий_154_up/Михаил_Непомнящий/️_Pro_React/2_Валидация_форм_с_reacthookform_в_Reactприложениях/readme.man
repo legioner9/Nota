@@ -1,0 +1,3 @@
+# [Михаил Непомнящий](https://www.youtube.com/@mishanep/playlists)
+## [⚛️ Pro React](https://www.youtube.com/playlist?list=PLiZoB8JBsdzkClMnvcedplvSF_JPhvopM)
+### [Валидация форм с react-hook-form в React-приложениях](https://www.youtube.com/watch?v=Jxfun6Jnt5Q&amp;list=PLiZoB8JBsdzkClMnvcedplvSF_JPhvopM&amp;index=2&amp;pp=iAQB)

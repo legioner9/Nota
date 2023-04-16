@@ -1,0 +1,8 @@
+### [Введение в машинное обучение 1. Math refresher for DS](https://www.youtube.com/watch?v=tHhGeGwdvks&amp;list=PL4_hYwCyhAvYAPsfeaIWH6cBb8Js9lLNt&amp;index=1&amp;pp=iAQB)
+### [Введение в машинное обучение 2. Linear Models (cкрин-каст)](https://www.youtube.com/watch?v=--aZGoTBibA&amp;list=PL4_hYwCyhAvYAPsfeaIWH6cBb8Js9lLNt&amp;index=2&amp;pp=iAQB)
+### [Введение в машинное обучение 2. Linear Models](https://www.youtube.com/watch?v=heCdgqU5W8I&amp;list=PL4_hYwCyhAvYAPsfeaIWH6cBb8Js9lLNt&amp;index=3&amp;pp=iAQB)
+### [Введение в машинное обучение 3. Logistic Regression](https://www.youtube.com/watch?v=LpmAOmo8ktQ&amp;list=PL4_hYwCyhAvYAPsfeaIWH6cBb8Js9lLNt&amp;index=4&amp;pp=iAQB)
+### [Введение в машинное обучение 4. SVM, PCA.](https://www.youtube.com/watch?v=S5e2PClkP4o&amp;list=PL4_hYwCyhAvYAPsfeaIWH6cBb8Js9lLNt&amp;index=5&amp;pp=iAQB)
+### [Введение в машинное обучение 5. Trees and Ensembles](https://www.youtube.com/watch?v=sJNE-Pgs4bI&amp;list=PL4_hYwCyhAvYAPsfeaIWH6cBb8Js9lLNt&amp;index=6&amp;pp=iAQB)
+### [Введение в машинное обучение 6. Gradient boosting](https://www.youtube.com/watch?v=dPhDmvBAD2g&amp;list=PL4_hYwCyhAvYAPsfeaIWH6cBb8Js9lLNt&amp;index=7&amp;pp=iAQB)
+### [Введение в машинное обучение 7. Middle test review](https://www.youtube.com/watch?v=Q_7rbjacDyk&amp;list=PL4_hYwCyhAvYAPsfeaIWH6cBb8Js9lLNt&amp;index=8&amp;pp=iAQB)

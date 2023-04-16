@@ -1,0 +1,3 @@
+# [Лекторий ФПМИ](https://www.youtube.com/@lectory_fpmi/playlists?view=1)
+## [Основные алгоритмы (1 курс, весна 2021)](https://www.youtube.com/playlist?list=PL4_hYwCyhAvYmAr9XTqxfJmTEBFRVNJoA)
+### [Основные алгоритмы 13. Динамическое программирование II. Задача о рюкзаке](https://www.youtube.com/watch?v=7iH45aYtJjo&amp;list=PL4_hYwCyhAvYmAr9XTqxfJmTEBFRVNJoA&amp;index=13&amp;pp=iAQB)

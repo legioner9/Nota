@@ -1,0 +1,3 @@
+# [Лекторий ФПМИ](https://www.youtube.com/@lectory_fpmi/playlists?view=1)
+## [Формальные языки (2 курс, осень 2019) - лектор Сорокин А.А.](https://www.youtube.com/playlist?list=PL4_hYwCyhAvbl7pkWGbeOjWyU-z7hDnlb)
+### [Формальные языки и трансляции 2. Детерминированные конечные автоматы](https://www.youtube.com/watch?v=N6Bbj7YZrls&amp;list=PL4_hYwCyhAvbl7pkWGbeOjWyU-z7hDnlb&amp;index=2&amp;pp=iAQB)

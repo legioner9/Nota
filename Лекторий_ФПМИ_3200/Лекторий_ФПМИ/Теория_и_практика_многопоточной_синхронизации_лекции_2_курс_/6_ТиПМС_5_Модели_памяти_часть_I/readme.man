@@ -1,0 +1,3 @@
+# [Лекторий ФПМИ](https://www.youtube.com/@lectory_fpmi/playlists?view=1)
+## [Теория и практика многопоточной синхронизации (лекции) (2 курс, весна 2021), лектор - Роман Липовский](https://www.youtube.com/playlist?list=PL4_hYwCyhAvb7P8guwSTaaUS8EcOaWjxF)
+### [ТиПМС 5. Модели памяти, часть I](https://www.youtube.com/watch?v=Ao7qoAc9AGc&amp;list=PL4_hYwCyhAvb7P8guwSTaaUS8EcOaWjxF&amp;index=6&amp;pp=iAQB)

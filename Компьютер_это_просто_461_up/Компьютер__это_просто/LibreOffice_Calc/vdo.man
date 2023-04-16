@@ -1,0 +1,7 @@
+### [Знакомство с LibreOffice Calc.](https://www.youtube.com/watch?v=BtJKedKxA1M&amp;list=PLh6tZVFnHXkrm-fA2ri8I7gNSaDZN8FiU&amp;index=1&amp;pp=iAQB)
+### [Скачивание и установка LibreOffice 6.4 на операционную систему Windows 10.](https://www.youtube.com/watch?v=QkrCd71KCV0&amp;list=PLh6tZVFnHXkrm-fA2ri8I7gNSaDZN8FiU&amp;index=2&amp;pp=iAQB)
+### [Обрамление ячеек и добавление кнопок на панель в LibreOffice Calc.](https://www.youtube.com/watch?v=37apH0ayYXY&amp;list=PLh6tZVFnHXkrm-fA2ri8I7gNSaDZN8FiU&amp;index=3&amp;pp=iAQB)
+### [Перенос по словам, объединение и разбитие в LibreOffice Calc.](https://www.youtube.com/watch?v=u902-RJ9QbU&amp;list=PLh6tZVFnHXkrm-fA2ri8I7gNSaDZN8FiU&amp;index=4&amp;pp=iAQB)
+### [Формат ячеек в LibreOffice Calc.](https://www.youtube.com/watch?v=TZ2Qs7VUEOk&amp;list=PLh6tZVFnHXkrm-fA2ri8I7gNSaDZN8FiU&amp;index=5&amp;pp=iAQB)
+### [Сумма в LibreOffice Calc.](https://www.youtube.com/watch?v=Kv3BtKEM5s0&amp;list=PLh6tZVFnHXkrm-fA2ri8I7gNSaDZN8FiU&amp;index=6&amp;pp=iAQB)
+### [Использование средств, ускоряющих ввод данных в LibreOffice Calc.](https://www.youtube.com/watch?v=RNUj5k2vQ5I&amp;list=PLh6tZVFnHXkrm-fA2ri8I7gNSaDZN8FiU&amp;index=7&amp;pp=iAQB)

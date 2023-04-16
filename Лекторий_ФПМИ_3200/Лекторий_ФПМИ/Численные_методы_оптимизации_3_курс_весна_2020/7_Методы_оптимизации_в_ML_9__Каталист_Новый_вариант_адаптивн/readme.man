@@ -1,0 +1,3 @@
+# [Лекторий ФПМИ](https://www.youtube.com/@lectory_fpmi/playlists?view=1)
+## [Численные методы оптимизации (3 курс, весна 2020)](https://www.youtube.com/playlist?list=PL4_hYwCyhAvZT27DsXTISyRfQn6zo7Wud)
+### [Методы оптимизации в ML #9 / Каталист. Новый вариант адаптивного SGD / Александр Гасников [MADE]](https://www.youtube.com/watch?v=XxeOk6hY6Vg&amp;list=PL4_hYwCyhAvZT27DsXTISyRfQn6zo7Wud&amp;index=7&amp;pp=iAQB)

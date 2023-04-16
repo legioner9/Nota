@@ -1,0 +1,3 @@
+# [Мир IT с Антоном Павленко](https://www.youtube.com/@pavlenkoat/playlists)
+## [DevOps](https://www.youtube.com/playlist?list=PLWCdmr_xDeged_8pzGzcEee1nNw6jLPer)
+### [Написал телеграм бота на golang. Зачем нужны pet-проекты? Как я учу языки программирования](https://www.youtube.com/watch?v=oHCld8chK8k&amp;list=PLWCdmr_xDeged_8pzGzcEee1nNw6jLPer&amp;index=5&amp;pp=iAQB)

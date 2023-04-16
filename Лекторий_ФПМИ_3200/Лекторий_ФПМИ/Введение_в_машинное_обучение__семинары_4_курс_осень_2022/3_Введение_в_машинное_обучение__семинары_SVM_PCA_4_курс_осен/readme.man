@@ -1,0 +1,3 @@
+# [Лекторий ФПМИ](https://www.youtube.com/@lectory_fpmi/playlists?view=1)
+## [Введение в машинное обучение - семинары (4 курс, осень 2022)](https://www.youtube.com/playlist?list=PL4_hYwCyhAvbx03psZi7UTsCa5Ya4WUEX)
+### [Введение в машинное обучение - семинары, SVM, PCA. (4 курс, осень 2022)](https://www.youtube.com/watch?v=X_d7MYnT1Kc&amp;list=PL4_hYwCyhAvbx03psZi7UTsCa5Ya4WUEX&amp;index=3&amp;pp=iAQB)

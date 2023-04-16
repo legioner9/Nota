@@ -1,0 +1,8 @@
+### [Сложность вычислений, доп.главы. 2. IP = PSPACE. Доказательства с нулевым разглашением.](https://www.youtube.com/watch?v=jiDoLQlUMLA&amp;list=PL4_hYwCyhAvZn9EJfRktZs6i6ytMDMgyJ&amp;index=1&amp;pp=iAQB)
+### [Сложность вычислений, доп.главы 3. PZK, SZK, CZK. Протокол привязки к биту.](https://www.youtube.com/watch?v=2n_NKZlDmzw&amp;list=PL4_hYwCyhAvZn9EJfRktZs6i6ytMDMgyJ&amp;index=2&amp;pp=iAQB)
+### [Сложность вычислений (доп.главы) - 4. CZK, PCP.](https://www.youtube.com/watch?v=EvvjV_MFHT4&amp;list=PL4_hYwCyhAvZn9EJfRktZs6i6ytMDMgyJ&amp;index=3&amp;pp=iAQB)
+### [Сложность вычислений (доп.главы) - 5. PCP-теорема, приближённые решения NP-полных задач оптимизации.](https://www.youtube.com/watch?v=hHcXmor48qA&amp;list=PL4_hYwCyhAvZn9EJfRktZs6i6ytMDMgyJ&amp;index=4&amp;pp=iAQB)
+### [Сложность вычислений (доп.главы) 6. Коды Уолша-Адамара, PCP(poly(n), 1).](https://www.youtube.com/watch?v=oP6DIpP738o&amp;list=PL4_hYwCyhAvZn9EJfRktZs6i6ytMDMgyJ&amp;index=5&amp;pp=iAQB)
+### [Сложность вычислений (доп.главы) 7. Рациональные интерактивные доказательства](https://www.youtube.com/watch?v=gksM3RfWiao&amp;list=PL4_hYwCyhAvZn9EJfRktZs6i6ytMDMgyJ&amp;index=6&amp;pp=iAQB)
+### [Сложность вычислений (доп.главы) 8. DRMA = CH. Задачи поиска, PPAD.](https://www.youtube.com/watch?v=IhoR_bTfnBs&amp;list=PL4_hYwCyhAvZn9EJfRktZs6i6ytMDMgyJ&amp;index=7&amp;pp=iAQB)
+### [Сложность вычислений (доп.главы) 9. Задачи поиска, лемма Шпернера, теорема Брауэра, равновесие Нэша](https://www.youtube.com/watch?v=XeT6cGmacf4&amp;list=PL4_hYwCyhAvZn9EJfRktZs6i6ytMDMgyJ&amp;index=8&amp;pp=iAQB)

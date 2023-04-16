@@ -1,0 +1,3 @@
+# [Мир IT с Антоном Павленко](https://www.youtube.com/@pavlenkoat/playlists)
+## [WEB-технологии](https://www.youtube.com/playlist?list=PLWCdmr_xDegcLpwsvjrYuVe-f5iu_zyzv)
+### [Балансировка нагрузки NGINX. От простого к сложному.](https://www.youtube.com/watch?v=RGSyx7oYjp0&amp;list=PLWCdmr_xDegcLpwsvjrYuVe-f5iu_zyzv&amp;index=7&amp;pp=iAQB)

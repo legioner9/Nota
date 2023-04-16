@@ -1,0 +1,7 @@
+### [Как разработать плагин для WordPress? Своя CRM система. Урок 1](https://www.youtube.com/watch?v=HGJBPDI7uOU&amp;list=PL2CKgzoZxvxU4fKv7Ce5l2zZf84tLzsZ9&amp;index=1&amp;pp=iAQB)
+### [Как подключить CSS и JS в админ панели для WordPress Плагина. Урок 2.](https://www.youtube.com/watch?v=fZsmVTUzhM0&amp;list=PL2CKgzoZxvxU4fKv7Ce5l2zZf84tLzsZ9&amp;index=2&amp;pp=iAQB)
+### [Как сделать плагин многоязычным на WordPress? Урок 3](https://www.youtube.com/watch?v=TKXuq8O8wdk&amp;list=PL2CKgzoZxvxU4fKv7Ce5l2zZf84tLzsZ9&amp;index=3&amp;pp=iAQB)
+### [Как защитить плагин для WordPress? Урок 4](https://www.youtube.com/watch?v=SymcdpOc_4w&amp;list=PL2CKgzoZxvxU4fKv7Ce5l2zZf84tLzsZ9&amp;index=4&amp;pp=iAQB)
+### [Как разработать плагин на WordPress?](https://www.youtube.com/watch?v=wQgRmlvmqPU&amp;list=PL2CKgzoZxvxU4fKv7Ce5l2zZf84tLzsZ9&amp;index=5&amp;pp=iAQB)
+### [Система шаблонов в плагине / Как разработать плагин на WordPress?](https://www.youtube.com/watch?v=xtgKWFEmF6M&amp;list=PL2CKgzoZxvxU4fKv7Ce5l2zZf84tLzsZ9&amp;index=6&amp;pp=iAQB)
+### [Meta Boxes для WordPress / Как создать плагин на WordPress.](https://www.youtube.com/watch?v=UiGm8zFzfNw&amp;list=PL2CKgzoZxvxU4fKv7Ce5l2zZf84tLzsZ9&amp;index=7&amp;pp=iAQB)

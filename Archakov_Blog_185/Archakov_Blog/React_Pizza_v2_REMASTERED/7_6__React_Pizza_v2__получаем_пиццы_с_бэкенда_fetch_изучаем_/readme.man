@@ -1,0 +1,3 @@
+# [Archakov Blog](https://www.youtube.com/@ArchakovBlog/playlists)
+## [React Pizza v2 [REMASTERED]](https://www.youtube.com/playlist?list=PL0FGkDGJQjJG9eI85xM1_iLIf6BcEdaNl)
+### [#6: 🍕 React Pizza v2 — получаем пиццы с бэкенда (fetch), изучаем хук useEffect](https://www.youtube.com/watch?v=A_7DhcVwcjg&amp;list=PL0FGkDGJQjJG9eI85xM1_iLIf6BcEdaNl&amp;index=7)

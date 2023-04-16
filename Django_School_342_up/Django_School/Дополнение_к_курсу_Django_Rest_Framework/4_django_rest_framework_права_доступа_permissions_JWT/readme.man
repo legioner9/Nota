@@ -1,0 +1,3 @@
+# [Django School](https://www.youtube.com/@DjangoSchool/playlists?view=1)
+## [Дополнение к курсу Django Rest Framework](https://www.youtube.com/playlist?list=PLF-NY6ldwAWpktIw6ailetqjXibKlOLY_)
+### [django rest framework права доступа permissions JWT](https://www.youtube.com/watch?v=Svs3eCAvBaA&amp;list=PLF-NY6ldwAWpktIw6ailetqjXibKlOLY_&amp;index=4)

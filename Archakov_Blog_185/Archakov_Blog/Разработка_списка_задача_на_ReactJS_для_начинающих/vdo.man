@@ -1,0 +1,6 @@
+### [Разработка списка задача на ReactJS (ToDo) #1](https://www.youtube.com/watch?v=PGZ6HtgSeio&amp;list=PL0FGkDGJQjJGBcY_b625HqAKL4i5iNZGs&amp;index=1)
+### [Разработка списка задача на ReactJS (ToDo) #2](https://www.youtube.com/watch?v=PsQC6zOo3FI&amp;list=PL0FGkDGJQjJGBcY_b625HqAKL4i5iNZGs&amp;index=2)
+### [Разработка списка задача на ReactJS (ToDo) #3](https://www.youtube.com/watch?v=08_6vPv8UMs&amp;list=PL0FGkDGJQjJGBcY_b625HqAKL4i5iNZGs&amp;index=3)
+### [Разработка списка задача на ReactJS (ToDo) #4](https://www.youtube.com/watch?v=ZzOzECgwRRw&amp;list=PL0FGkDGJQjJGBcY_b625HqAKL4i5iNZGs&amp;index=4)
+### [Разработка списка задача на ReactJS (ToDo) #5](https://www.youtube.com/watch?v=6NuzPai9GqQ&amp;list=PL0FGkDGJQjJGBcY_b625HqAKL4i5iNZGs&amp;index=5)
+### [Разработка списка задача на ReactJS (ToDo) #6](https://www.youtube.com/watch?v=pb9yCDdGNCo&amp;list=PL0FGkDGJQjJGBcY_b625HqAKL4i5iNZGs&amp;index=6)

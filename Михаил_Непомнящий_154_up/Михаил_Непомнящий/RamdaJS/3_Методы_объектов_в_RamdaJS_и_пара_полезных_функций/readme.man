@@ -1,0 +1,3 @@
+# [Михаил Непомнящий](https://www.youtube.com/@mishanep/playlists)
+## [RamdaJS](https://www.youtube.com/playlist?list=PLiZoB8JBsdzkqsILPvz5jw2-OJ5rw6ukH)
+### [Методы объектов в RamdaJS и пара полезных функций](https://www.youtube.com/watch?v=PpH_dP1Fjdw&amp;list=PLiZoB8JBsdzkqsILPvz5jw2-OJ5rw6ukH&amp;index=3&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [ИИКС НИЯУ МИФИ](https://www.youtube.com/@icismephi/playlists)
+## [Язык Go ИИКС](https://www.youtube.com/playlist?list=PLrMb_y4Du4JjhgFBMAudsck1-IPyVwwlu)
+### [Старт в web на Go Часть 3](https://www.youtube.com/watch?v=1tX2snwDnKE&amp;list=PLrMb_y4Du4JjhgFBMAudsck1-IPyVwwlu&amp;index=3&amp;pp=iAQB)

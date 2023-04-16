@@ -1,0 +1,3 @@
+# [Лекторий ФПМИ](https://www.youtube.com/@lectory_fpmi/playlists?view=1)
+## [Формальные языки и трансляции (2 курс, осень 2021) - Ахтямов П. И.](https://www.youtube.com/playlist?list=PL4_hYwCyhAvYkVw2wY5Ax6Mq79vBGbze3)
+### [Формальные языки 8. Эквивалентность МП-автоматов и КС-грамматик](https://www.youtube.com/watch?v=bblHtX8mhWk&amp;list=PL4_hYwCyhAvYkVw2wY5Ax6Mq79vBGbze3&amp;index=8&amp;pp=iAQB)

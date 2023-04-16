@@ -1,0 +1,3 @@
+# [Лекторий ФПМИ](https://www.youtube.com/@lectory_fpmi/playlists?view=1)
+## [Алгоритмы и структуры данных (2 курс, осень 2022) - Рухович Ф. Д.](https://www.youtube.com/playlist?list=PL4_hYwCyhAvYcG_QJnYZQeGvKwJNe62gC)
+### [Алгоритмы и структуры данных (продвинутый поток) 12. Алгоритм Galil-Seiferas](https://www.youtube.com/watch?v=I4SjnWBDg3U&amp;list=PL4_hYwCyhAvYcG_QJnYZQeGvKwJNe62gC&amp;index=10&amp;pp=iAQB)

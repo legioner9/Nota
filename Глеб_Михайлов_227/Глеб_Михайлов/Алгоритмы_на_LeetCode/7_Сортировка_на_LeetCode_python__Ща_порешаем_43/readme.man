@@ -1,0 +1,3 @@
+# [Глеб Михайлов](https://www.youtube.com/@GlebMikhaylov/playlists)
+## [Алгоритмы на LeetCode](https://www.youtube.com/playlist?list=PLQJ7ptkRY-xacUqHRbKcQ8A64dL9b7acn)
+### [Сортировка на LeetCode (python) | Ща порешаем! #43](https://www.youtube.com/watch?v=M10BQpT-K7o&amp;list=PLQJ7ptkRY-xacUqHRbKcQ8A64dL9b7acn&amp;index=7&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+### [Установка Linux Ubuntu 19.10 на виртуальную машину (VirtualBox) и настройка общей папки.](https://www.youtube.com/watch?v=lKJchJEfokc&amp;list=PLh6tZVFnHXkoeAhi0efEEmCKuqqwDuUTf&amp;index=1&amp;pp=iAQB)
+### [Загрузка и установка обновлений для операционной системы Ubuntu 19.10 различными способами.](https://www.youtube.com/watch?v=5YpMFtlOJEs&amp;list=PLh6tZVFnHXkoeAhi0efEEmCKuqqwDuUTf&amp;index=2&amp;pp=iAQB)
+### [Создание виртуального USB-носителя в VirtualBox.](https://www.youtube.com/watch?v=yYVOWyLAtV4&amp;list=PLh6tZVFnHXkoeAhi0efEEmCKuqqwDuUTf&amp;index=3&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [Быть Программистом](https://www.youtube.com/@bedeveloper/playlists?view=1)
+## [Цикл курсов "WordPress Codex"](https://www.youtube.com/playlist?list=PL2CKgzoZxvxWH3XiQrCRQ9fIshKfOPTNd)
+### [WordPress Customizer API. Делаем вкладку Реклама. Уроки по WordPress Codex #3](https://www.youtube.com/watch?v=ZW1_-7gsOB0&amp;list=PL2CKgzoZxvxWH3XiQrCRQ9fIshKfOPTNd&amp;index=3&amp;pp=iAQB)

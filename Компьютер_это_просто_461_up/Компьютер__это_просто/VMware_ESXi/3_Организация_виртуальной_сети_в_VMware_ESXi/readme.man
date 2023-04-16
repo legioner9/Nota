@@ -1,0 +1,3 @@
+# [Компьютер - это просто!](https://www.youtube.com/@it-black/playlists)
+## [VMware ESXi](https://www.youtube.com/playlist?list=PLh6tZVFnHXkovaWnvyYXtLADjHkOZvVnE)
+### [Организация виртуальной сети в VMware ESXi.](https://www.youtube.com/watch?v=iuIsPgrFhkQ&amp;list=PLh6tZVFnHXkovaWnvyYXtLADjHkOZvVnE&amp;index=3&amp;pp=iAQB)

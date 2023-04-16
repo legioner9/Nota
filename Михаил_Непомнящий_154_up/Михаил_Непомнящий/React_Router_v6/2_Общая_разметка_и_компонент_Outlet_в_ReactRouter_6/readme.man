@@ -1,0 +1,3 @@
+# [Михаил Непомнящий](https://www.youtube.com/@mishanep/playlists)
+## [React Router v6](https://www.youtube.com/playlist?list=PLiZoB8JBsdznY1XwBcBhHL9L7S_shPGVE)
+### [Общая разметка и компонент Outlet в React-Router 6](https://www.youtube.com/watch?v=ApftxkYnXdo&amp;list=PLiZoB8JBsdznY1XwBcBhHL9L7S_shPGVE&amp;index=2&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [Django School](https://www.youtube.com/@DjangoSchool/playlists?view=1)
+## [Дополнение к курсу по Django 3](https://www.youtube.com/playlist?list=PLF-NY6ldwAWrQz1aZB-gxR5WnP40RIJSj)
+### [Что такое рефакторинг кода и как делать рефакторинг](https://www.youtube.com/watch?v=-78v5U4u3o8&amp;list=PLF-NY6ldwAWrQz1aZB-gxR5WnP40RIJSj&amp;index=12)

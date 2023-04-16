@@ -1,0 +1,3 @@
+# [Михаил Непомнящий](https://www.youtube.com/@mishanep/playlists)
+## [JavaScript фишки](https://www.youtube.com/playlist?list=PLiZoB8JBsdzklPlprqQRwGQuyD92f-Wm8)
+### [Форматирование дат под локаль пользователя](https://www.youtube.com/watch?v=Wh2zd2oZOmo&amp;list=PLiZoB8JBsdzklPlprqQRwGQuyD92f-Wm8&amp;index=4&amp;pp=iAQB)

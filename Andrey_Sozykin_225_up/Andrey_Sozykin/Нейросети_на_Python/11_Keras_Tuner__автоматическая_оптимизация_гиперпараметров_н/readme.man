@@ -1,0 +1,3 @@
+# [Andrey Sozykin](https://www.youtube.com/@AndreySozykin/playlists?view=1)
+## [Нейросети на Python](https://www.youtube.com/playlist?list=PLtPJ9lKvJ4oiz9aaL_xcZd-x0qd8G0VN_)
+### [Keras Tuner - автоматическая оптимизация гиперпараметров нейросети | Нейросети на Python](https://www.youtube.com/watch?v=M08yHFPKTNI&amp;list=PLtPJ9lKvJ4oiz9aaL_xcZd-x0qd8G0VN_&amp;index=11&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [AreaWeb](https://www.youtube.com/@areaweb/playlists)
+## [PHP](https://www.youtube.com/playlist?list=PLiOhsP3M5j5znqpNshsaAoeNJe0vFyhio)
+### [Авторизация и регистрация на чистом PHP (валидация и Ajax)](https://www.youtube.com/watch?v=VKytLDKryQ8&amp;list=PLiOhsP3M5j5znqpNshsaAoeNJe0vFyhio&amp;index=4&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [Лекторий ФПМИ](https://www.youtube.com/@lectory_fpmi/playlists?view=1)
+## [Введение в LaTeX (Весна 2022)](https://www.youtube.com/playlist?list=PL4_hYwCyhAvZtx63FR9d5_K0GMWF1XUc6)
+### [Введение в LaTeX 2. Оформление документа. Изображения. Таблицы. Команды. Окружения](https://www.youtube.com/watch?v=7dkmvnC8eSU&amp;list=PL4_hYwCyhAvZtx63FR9d5_K0GMWF1XUc6&amp;index=2&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [Михаил Непомнящий](https://www.youtube.com/@mishanep/playlists)
+## [Фундаментальный JS](https://www.youtube.com/playlist?list=PLiZoB8JBsdznAXu9WxE5NWfPwp22XWnM7)
+### [Оператор многоточие (он же spread, он же rest). Фундаментальный JavaScript](https://www.youtube.com/watch?v=HkQ--STLf2Q&amp;list=PLiZoB8JBsdznAXu9WxE5NWfPwp22XWnM7&amp;index=2&amp;pp=iAQB)

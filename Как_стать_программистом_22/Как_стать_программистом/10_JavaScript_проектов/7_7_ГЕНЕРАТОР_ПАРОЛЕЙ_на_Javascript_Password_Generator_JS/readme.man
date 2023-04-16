@@ -1,0 +1,3 @@
+# [Как стать программистом](https://www.youtube.com/@user-gu8gg2ib6y/playlists)
+## [10 JavaScript проектов](https://www.youtube.com/playlist?list=PLqp5ZRS9tv4QDOXnn6zGtl1R5LfPDMvz4)
+### [#7 ГЕНЕРАТОР ПАРОЛЕЙ на Javascript (Password Generator JS)](https://www.youtube.com/watch?v=UWopWjHiiBI&amp;list=PLqp5ZRS9tv4QDOXnn6zGtl1R5LfPDMvz4&amp;index=7&amp;pp=iAQB)

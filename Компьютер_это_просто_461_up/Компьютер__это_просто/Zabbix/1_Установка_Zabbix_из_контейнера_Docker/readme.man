@@ -1,0 +1,3 @@
+# [Компьютер - это просто!](https://www.youtube.com/@it-black/playlists)
+## [Zabbix](https://www.youtube.com/playlist?list=PLh6tZVFnHXkoYFHGaH3AlO7-z-UerUpae)
+### [Установка Zabbix из контейнера Docker.](https://www.youtube.com/watch?v=PJpTLcx80wM&amp;list=PLh6tZVFnHXkoYFHGaH3AlO7-z-UerUpae&amp;index=1&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [МИКО - центр разработки программных продуктов](https://www.youtube.com/@MsBeketov/playlists)
+## [Инструкции](https://www.youtube.com/playlist?list=PLPCm3kZfSIxyBfdN6MBOFUR9gM1ZtLpJK)
+### [Инструкция: Настраиваем шлюз Telegram в MikoPBX](https://www.youtube.com/watch?v=U7kKMDBEdSw&amp;list=PLPCm3kZfSIxyBfdN6MBOFUR9gM1ZtLpJK&amp;index=5&amp;pp=iAQB)

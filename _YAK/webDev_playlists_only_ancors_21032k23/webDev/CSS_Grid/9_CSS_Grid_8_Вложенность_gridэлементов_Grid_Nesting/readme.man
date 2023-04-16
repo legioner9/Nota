@@ -1,0 +1,3 @@
+# [webDev](https://www.youtube.com/@YauhenKavalchuk/playlists?view=1)
+## [CSS Grid](https://www.youtube.com/playlist?list=PLNkWIWHIRwMHlq6yOP65F_rNH5wID1U21)
+### [CSS Grid #8 Вложенность grid-элементов (Grid Nesting)](https://www.youtube.com/watch?v=XP30BMpJ740&amp;list=PLNkWIWHIRwMHlq6yOP65F_rNH5wID1U21&amp;index=9)

@@ -1,0 +1,3 @@
+# [C++ practice](https://www.youtube.com/@cpppractice/playlists)
+## [Отладчик GDB](https://www.youtube.com/playlist?list=PLyw-Qzqua8-bpl68wb-wCm3Z2uN2ImlVW)
+### [GDB. Точки наблюдения (watchpoints)](https://www.youtube.com/watch?v=_H5s2I0dxIs&amp;list=PLyw-Qzqua8-bpl68wb-wCm3Z2uN2ImlVW&amp;index=5&amp;pp=iAQB)

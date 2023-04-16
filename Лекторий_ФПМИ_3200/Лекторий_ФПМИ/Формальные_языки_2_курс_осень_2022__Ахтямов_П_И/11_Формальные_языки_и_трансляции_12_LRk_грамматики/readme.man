@@ -1,0 +1,3 @@
+# [Лекторий ФПМИ](https://www.youtube.com/@lectory_fpmi/playlists?view=1)
+## [Формальные языки (2 курс, осень 2022) - Ахтямов П. И.](https://www.youtube.com/playlist?list=PL4_hYwCyhAvYU2TfjIbkYxhAHReI0FFCX)
+### [Формальные языки и трансляции 12. LR(k) грамматики](https://www.youtube.com/watch?v=YpqF-6bszp0&amp;list=PL4_hYwCyhAvYU2TfjIbkYxhAHReI0FFCX&amp;index=11&amp;pp=iAQB)

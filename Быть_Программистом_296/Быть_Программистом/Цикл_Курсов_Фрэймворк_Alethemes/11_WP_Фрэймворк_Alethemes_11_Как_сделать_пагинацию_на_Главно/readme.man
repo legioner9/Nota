@@ -1,0 +1,3 @@
+# [Быть Программистом](https://www.youtube.com/@bedeveloper/playlists?view=1)
+## [Цикл Курсов "Фрэймворк Alethemes"](https://www.youtube.com/playlist?list=PL2CKgzoZxvxWOzkf8zNT8UTqO97uYFaz8)
+### [WP Фрэймворк Alethemes #11. Как сделать пагинацию на Главной и в Архиве? Уроки WordPress](https://www.youtube.com/watch?v=OcXJYY-JPvA&amp;list=PL2CKgzoZxvxWOzkf8zNT8UTqO97uYFaz8&amp;index=11&amp;pp=iAQB)

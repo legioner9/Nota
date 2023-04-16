@@ -1,0 +1,3 @@
+# [webDev](https://www.youtube.com/@YauhenKavalchuk/playlists?view=1)
+## [MongoDB](https://www.youtube.com/playlist?list=PLNkWIWHIRwMFJ-3-gI7GC5JDg1ivbIKNR)
+### [MongoDB #14 Курсоры и получение данных (Cursors &amp; Fetching Data)](https://www.youtube.com/watch?v=GZ4gmLF358M&amp;list=PLNkWIWHIRwMFJ-3-gI7GC5JDg1ivbIKNR&amp;index=15)

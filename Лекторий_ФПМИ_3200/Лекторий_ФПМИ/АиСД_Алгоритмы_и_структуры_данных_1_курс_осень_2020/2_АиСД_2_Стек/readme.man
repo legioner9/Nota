@@ -1,0 +1,3 @@
+# [Лекторий ФПМИ](https://www.youtube.com/@lectory_fpmi/playlists?view=1)
+## [[АиСД] Алгоритмы и структуры данных (1 курс, осень 2020)](https://www.youtube.com/playlist?list=PL4_hYwCyhAvadJ5KZ4to2hWEjRvJnlNfv)
+### [АиСД 2. Стек.](https://www.youtube.com/watch?v=07-SP1LsxUc&amp;list=PL4_hYwCyhAvadJ5KZ4to2hWEjRvJnlNfv&amp;index=2&amp;pp=iAQB)

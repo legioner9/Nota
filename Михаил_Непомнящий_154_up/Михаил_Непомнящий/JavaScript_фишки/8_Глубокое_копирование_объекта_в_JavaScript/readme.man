@@ -1,0 +1,3 @@
+# [Михаил Непомнящий](https://www.youtube.com/@mishanep/playlists)
+## [JavaScript фишки](https://www.youtube.com/playlist?list=PLiZoB8JBsdzklPlprqQRwGQuyD92f-Wm8)
+### [Глубокое копирование объекта в JavaScript](https://www.youtube.com/watch?v=LEGg1F9yErI&amp;list=PLiZoB8JBsdzklPlprqQRwGQuyD92f-Wm8&amp;index=8&amp;pp=iAQB)

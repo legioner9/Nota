@@ -1,0 +1,8 @@
+### [RESTful API на чистом PHP](https://www.youtube.com/watch?v=COb-KpOfCSw&amp;list=PLiOhsP3M5j5znqpNshsaAoeNJe0vFyhio&amp;index=1&amp;pp=iAQB)
+### [PHP и PhpMyAdmin - создание, вывод, изменение и удаление данных](https://www.youtube.com/watch?v=GDVWdYZLM7w&amp;list=PLiOhsP3M5j5znqpNshsaAoeNJe0vFyhio&amp;index=2&amp;pp=iAQB)
+### [Авторизация и регистрация с сессией на чистом PHP](https://www.youtube.com/watch?v=eCItZh6uMVc&amp;list=PLiOhsP3M5j5znqpNshsaAoeNJe0vFyhio&amp;index=3&amp;pp=iAQB)
+### [Авторизация и регистрация на чистом PHP (валидация и Ajax)](https://www.youtube.com/watch?v=VKytLDKryQ8&amp;list=PLiOhsP3M5j5znqpNshsaAoeNJe0vFyhio&amp;index=4&amp;pp=iAQB)
+### [Laravel 8 + Vue.js = WOW?!](https://www.youtube.com/watch?v=KSHt4Ig4GLI&amp;list=PLiOhsP3M5j5znqpNshsaAoeNJe0vFyhio&amp;index=5&amp;pp=iAQB)
+### [[ПРАКТИКА] - Строим структуру своего PHP приложения + аутентификация](https://www.youtube.com/watch?v=EEVkFW_IDec&amp;list=PLiOhsP3M5j5znqpNshsaAoeNJe0vFyhio&amp;index=6&amp;pp=iAQB)
+### [PHP - загрузка одного или нескольких файлов](https://www.youtube.com/watch?v=KQKgvkHWgr4&amp;list=PLiOhsP3M5j5znqpNshsaAoeNJe0vFyhio&amp;index=7&amp;pp=iAQB)
+### [Drag &amp; Drop на чистом JavaScript и PHP](https://www.youtube.com/watch?v=OvLZX2B05Fw&amp;list=PLiOhsP3M5j5znqpNshsaAoeNJe0vFyhio&amp;index=8&amp;pp=iAQB)

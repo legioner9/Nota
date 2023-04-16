@@ -1,0 +1,3 @@
+# [javabegin](https://www.youtube.com/@javabegin/playlists?view=1)
+## [Паттерны проектирования Java](https://www.youtube.com/playlist?list=PL8X2nqRlWfabIgbe5CF-h_bDDHc3CPH74)
+### [8 Паттерн проектирования Observer Наблюдатель](https://www.youtube.com/watch?v=M6pdzBlvqvY&amp;list=PL8X2nqRlWfabIgbe5CF-h_bDDHc3CPH74&amp;index=8&amp;pp=iAQB)

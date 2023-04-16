@@ -1,0 +1,3 @@
+# [Django School](https://www.youtube.com/@DjangoSchool/playlists?view=1)
+## [Обзоры фреймворков python](https://www.youtube.com/playlist?list=PLF-NY6ldwAWrPUAkpT37UpVoyKak_BtpA)
+### [Watson python framework](https://www.youtube.com/watch?v=rnPGujldIXc&amp;list=PLF-NY6ldwAWrPUAkpT37UpVoyKak_BtpA&amp;index=2)

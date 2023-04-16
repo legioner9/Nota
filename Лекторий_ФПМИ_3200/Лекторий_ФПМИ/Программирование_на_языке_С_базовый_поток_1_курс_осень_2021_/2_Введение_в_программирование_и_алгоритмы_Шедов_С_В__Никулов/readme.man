@@ -1,0 +1,3 @@
+# [Лекторий ФПМИ](https://www.youtube.com/@lectory_fpmi/playlists?view=1)
+## [Программирование на языке С++ (базовый поток) (1 курс, осень 2021) - Шедов С. В.](https://www.youtube.com/playlist?list=PL4_hYwCyhAvYFv2lj3ARJaTllQugxl2zF)
+### [Введение в программирование и алгоритмы, Шедов С. В. , Никулов С. А. 09.09.2021г.](https://www.youtube.com/watch?v=Z9bTpFr9LOk&amp;list=PL4_hYwCyhAvYFv2lj3ARJaTllQugxl2zF&amp;index=2&amp;pp=iAQB)

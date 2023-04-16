@@ -1,0 +1,3 @@
+# [Лекторий ФПМИ](https://www.youtube.com/@lectory_fpmi/playlists?view=1)
+## [Машинное обучение, основной поток, лекции (3 курс, 2020)](https://www.youtube.com/playlist?list=PL4_hYwCyhAvZyW6qS58x4uElZgAkMVUvj)
+### [Машинное обучение 6. Decision trees and Ensembles](https://www.youtube.com/watch?v=-0Do2_WIJAQ&amp;list=PL4_hYwCyhAvZyW6qS58x4uElZgAkMVUvj&amp;index=6&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [webDev](https://www.youtube.com/@YauhenKavalchuk/playlists?view=1)
+## [Next.js](https://www.youtube.com/playlist?list=PLNkWIWHIRwMHjz7hM5o10BNc6dq0OMd2U)
+### [Next.js #7 Получение данных (Fetching Data)](https://www.youtube.com/watch?v=ZCCEl9J8zv0&amp;list=PLNkWIWHIRwMHjz7hM5o10BNc6dq0OMd2U&amp;index=8)

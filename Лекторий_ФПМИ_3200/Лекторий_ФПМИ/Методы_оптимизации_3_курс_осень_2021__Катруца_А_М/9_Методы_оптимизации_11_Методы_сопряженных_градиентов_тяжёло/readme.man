@@ -1,0 +1,3 @@
+# [Лекторий ФПМИ](https://www.youtube.com/@lectory_fpmi/playlists?view=1)
+## [Методы оптимизации (3 курс, осень 2021) - Катруца А. М.](https://www.youtube.com/playlist?list=PL4_hYwCyhAvYPakWYKKt3RnTAFiTewm50)
+### [Методы оптимизации 11. Методы сопряженных градиентов, тяжёлого шарика](https://www.youtube.com/watch?v=vQwD1T-GP4U&amp;list=PL4_hYwCyhAvYPakWYKKt3RnTAFiTewm50&amp;index=9&amp;pp=iAQB)

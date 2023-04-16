@@ -1,0 +1,3 @@
+# [Denis Kuznetsov](https://www.youtube.com/@deniskuznetsov7097/playlists)
+## [distant](https://www.youtube.com/playlist?list=PLrih0txcjWjFzEnJYs1vosMe0-B0lSiYg)
+### [Массивы в JavaScript](https://www.youtube.com/watch?v=XIxWjxahr1Q&amp;list=PLrih0txcjWjFzEnJYs1vosMe0-B0lSiYg&amp;index=13)

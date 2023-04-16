@@ -1,0 +1,3 @@
+# [Лекторий ФПМИ](https://www.youtube.com/@lectory_fpmi/playlists?view=1)
+## [Продвинутое программирование на С++ (1 курс, весна 2021)](https://www.youtube.com/playlist?list=PL4_hYwCyhAvYTzwME4vQoDO8ZINM5trra)
+### [C++ 39. std::enable_if, std::is_constructible](https://www.youtube.com/watch?v=t2xYX8-xwvY&amp;list=PL4_hYwCyhAvYTzwME4vQoDO8ZINM5trra&amp;index=19&amp;pp=iAQB)

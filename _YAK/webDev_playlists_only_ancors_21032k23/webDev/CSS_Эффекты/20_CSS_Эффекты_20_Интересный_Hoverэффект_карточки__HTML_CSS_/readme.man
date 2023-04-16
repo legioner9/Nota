@@ -1,0 +1,3 @@
+# [webDev](https://www.youtube.com/@YauhenKavalchuk/playlists?view=1)
+## [CSS Эффекты](https://www.youtube.com/playlist?list=PLNkWIWHIRwMEosiVP_3B-h4fE7CIfZ7pI)
+### [CSS Эффекты #20 Интересный Hover-эффект карточки | HTML, CSS (SCSS)](https://www.youtube.com/watch?v=8bDropEZmA4&amp;list=PLNkWIWHIRwMEosiVP_3B-h4fE7CIfZ7pI&amp;index=20)

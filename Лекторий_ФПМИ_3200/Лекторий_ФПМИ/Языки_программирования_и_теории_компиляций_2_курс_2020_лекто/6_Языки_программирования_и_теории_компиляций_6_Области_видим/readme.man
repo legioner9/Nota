@@ -1,0 +1,3 @@
+# [Лекторий ФПМИ](https://www.youtube.com/@lectory_fpmi/playlists?view=1)
+## [Языки программирования и теории компиляций (2 курс, 2020), лектор - Ахтямов Павел](https://www.youtube.com/playlist?list=PL4_hYwCyhAvYOzs-YNOf4oVFTKdk2jRYH)
+### [Языки программирования и теории компиляций 6. Области видимости (variable scope)](https://www.youtube.com/watch?v=b_GoMTHv0vA&amp;list=PL4_hYwCyhAvYOzs-YNOf4oVFTKdk2jRYH&amp;index=6&amp;pp=iAQB)

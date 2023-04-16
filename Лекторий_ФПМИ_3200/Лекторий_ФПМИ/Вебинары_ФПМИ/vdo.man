@@ -1,0 +1,7 @@
+### [Разговорный искусственный интеллект](https://www.youtube.com/watch?v=tLfj3yKfGwk&amp;list=PL4_hYwCyhAvZ_I1In-egJYAnvlME8frV-&amp;index=1&amp;pp=iAQB)
+### [Мощь Python на все случаи жизни: анализ данных и решение бизнес-задач.](https://www.youtube.com/watch?v=A_mdL2NfyQI&amp;list=PL4_hYwCyhAvZ_I1In-egJYAnvlME8frV-&amp;index=2&amp;pp=iAQB)
+### [Какая математика нужна в анализе данных? Для обучения нейронной сети?](https://www.youtube.com/watch?v=g-kMyED62c0&amp;list=PL4_hYwCyhAvZ_I1In-egJYAnvlME8frV-&amp;index=3&amp;pp=iAQB)
+### [AI 2020: технологии, рынок и управление продуктами](https://www.youtube.com/watch?v=jNjbrHf1OrE&amp;list=PL4_hYwCyhAvZ_I1In-egJYAnvlME8frV-&amp;index=4&amp;pp=iAQB)
+### [Что делают в Computer Vision и как этому научиться](https://www.youtube.com/watch?v=zzVtEXRxwK4&amp;list=PL4_hYwCyhAvZ_I1In-egJYAnvlME8frV-&amp;index=5&amp;pp=iAQB)
+### [Искусственный интеллект в вопросах и ответах](https://www.youtube.com/watch?v=kGUlPv_r-ow&amp;list=PL4_hYwCyhAvZ_I1In-egJYAnvlME8frV-&amp;index=6&amp;pp=iAQB)
+### [Кого возьмут в будущее?](https://www.youtube.com/watch?v=A5PREG03yfI&amp;list=PL4_hYwCyhAvZ_I1In-egJYAnvlME8frV-&amp;index=7&amp;pp=iAQB)

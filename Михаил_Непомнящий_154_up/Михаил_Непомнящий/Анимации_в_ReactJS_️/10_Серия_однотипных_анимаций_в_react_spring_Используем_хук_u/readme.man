@@ -1,0 +1,3 @@
+# [Михаил Непомнящий](https://www.youtube.com/@mishanep/playlists)
+## [Анимации в ReactJS ⚛️](https://www.youtube.com/playlist?list=PLiZoB8JBsdzkn1yqxUaprfLYzdS-1jhJE)
+### [Серия однотипных анимаций в react spring. Используем хук useTrail](https://www.youtube.com/watch?v=1rqO98SqcWU&amp;list=PLiZoB8JBsdzkn1yqxUaprfLYzdS-1jhJE&amp;index=10&amp;pp=iAQB)

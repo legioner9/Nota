@@ -1,0 +1,3 @@
+# [Какие-то уроки](https://www.youtube.com/@kakieToYroki/playlists?view=1&sort=dd&shelf_id=0)
+## [Игра "Машинка" на JavaScript](https://www.youtube.com/playlist?list=PL6NCtzCz-4pQGZtf83TkzQQFmppJGng8V)
+### [#2. Создаем игру на JavaScript для НАЧИНАЮЩИХ (Анимируем дерево, создаем паузу)](https://www.youtube.com/watch?v=rQfNdCJmbqM&amp;list=PL6NCtzCz-4pQGZtf83TkzQQFmppJGng8V&amp;index=2&amp;pp=iAQB)

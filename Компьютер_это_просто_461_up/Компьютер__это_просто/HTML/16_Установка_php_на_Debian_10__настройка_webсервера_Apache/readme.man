@@ -1,0 +1,3 @@
+# [Компьютер - это просто!](https://www.youtube.com/@it-black/playlists)
+## [HTML](https://www.youtube.com/playlist?list=PLh6tZVFnHXkoZs2O63lf-N3TbeggPHVqr)
+### [Установка php на Debian 10 + настройка web-сервера Apache.](https://www.youtube.com/watch?v=OsST3xGtNlI&amp;list=PLh6tZVFnHXkoZs2O63lf-N3TbeggPHVqr&amp;index=16&amp;pp=iAQB)

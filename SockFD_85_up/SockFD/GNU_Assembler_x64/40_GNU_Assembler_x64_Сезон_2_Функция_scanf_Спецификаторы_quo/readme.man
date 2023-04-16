@@ -1,0 +1,3 @@
+# [SockFD](https://www.youtube.com/@sockfd/playlists)
+## [GNU Assembler x64](https://www.youtube.com/playlist?list=PL74QQzBTjH9ONnXdADHX__1gMYJIKOe2E)
+### [GNU Assembler x64. Сезон 2. Функция scanf. Спецификаторы &quot;d&quot;, &quot;u&quot;, &quot;x&quot;, &quot;o&quot;](https://www.youtube.com/watch?v=xnBK37YH8gg&amp;list=PL74QQzBTjH9ONnXdADHX__1gMYJIKOe2E&amp;index=40&amp;pp=iAQB)

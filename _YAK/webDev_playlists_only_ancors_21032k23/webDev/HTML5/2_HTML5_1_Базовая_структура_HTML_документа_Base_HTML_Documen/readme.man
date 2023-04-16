@@ -1,0 +1,3 @@
+# [webDev](https://www.youtube.com/@YauhenKavalchuk/playlists?view=1)
+## [HTML5](https://www.youtube.com/playlist?list=PLNkWIWHIRwMFtHHg0amAgocYP-kZypbY7)
+### [HTML5 #1 Базовая структура HTML документа (Base HTML Document Structure)](https://www.youtube.com/watch?v=01QJmn0vDxs&amp;list=PLNkWIWHIRwMFtHHg0amAgocYP-kZypbY7&amp;index=2)

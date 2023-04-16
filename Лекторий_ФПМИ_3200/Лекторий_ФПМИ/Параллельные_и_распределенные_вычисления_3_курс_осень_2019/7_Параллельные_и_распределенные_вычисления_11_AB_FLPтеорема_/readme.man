@@ -1,0 +1,3 @@
+# [Лекторий ФПМИ](https://www.youtube.com/@lectory_fpmi/playlists?view=1)
+## [Параллельные и распределенные вычисления (3 курс, осень 2019)](https://www.youtube.com/playlist?list=PL4_hYwCyhAvaPnYMJ-mBwwkG1iORVpwz1)
+### [Параллельные и распределенные вычисления 11. AB, FLP-теорема, CAP-теорема, CRDT](https://www.youtube.com/watch?v=VUeoSx7vQd4&amp;list=PL4_hYwCyhAvaPnYMJ-mBwwkG1iORVpwz1&amp;index=7&amp;pp=iAQB)

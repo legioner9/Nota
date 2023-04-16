@@ -1,0 +1,3 @@
+# [Exploring the IT World / Oleg Shpagin / WISEPLAT](https://www.youtube.com/@wiseplat/playlists)
+## [Пайтон для начинающих](https://www.youtube.com/playlist?list=PLxiU3nwEQ4PHpI7lClbPX85jE6sAk1G4F)
+### [Уроки Python / Задаем вопросы if else, условия и сравнения, разница между строками и числами](https://www.youtube.com/watch?v=ck3Fp05O3gs&amp;list=PLxiU3nwEQ4PHpI7lClbPX85jE6sAk1G4F&amp;index=13)

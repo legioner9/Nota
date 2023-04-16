@@ -1,0 +1,3 @@
+# [Компьютер - это просто!](https://www.youtube.com/@it-black/playlists)
+## [Администрирование Moodle](https://www.youtube.com/playlist?list=PLh6tZVFnHXkoZ31SxpUMRYa0iHGjVrxLX)
+### [#1. Установка системы управления курсами Moodle на локальный сервер.](https://www.youtube.com/watch?v=_jGVKg-Qew0&amp;list=PLh6tZVFnHXkoZ31SxpUMRYa0iHGjVrxLX&amp;index=1&amp;pp=iAQB)

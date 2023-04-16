@@ -1,0 +1,3 @@
+# [javabegin](https://www.youtube.com/@javabegin/playlists?view=1)
+## [Основы Git для новичков (2021)](https://www.youtube.com/playlist?list=PL8X2nqRlWfab4cebpPc3ENb5UBQDxcM0H)
+### [Основы Git: концепция веток (2021)](https://www.youtube.com/watch?v=byQmUuf6lg0&amp;list=PL8X2nqRlWfab4cebpPc3ENb5UBQDxcM0H&amp;index=9&amp;pp=iAQB)

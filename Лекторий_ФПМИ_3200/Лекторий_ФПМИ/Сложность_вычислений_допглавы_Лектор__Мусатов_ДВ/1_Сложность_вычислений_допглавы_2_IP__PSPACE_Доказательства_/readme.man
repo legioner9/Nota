@@ -1,0 +1,3 @@
+# [Лекторий ФПМИ](https://www.youtube.com/@lectory_fpmi/playlists?view=1)
+## [Сложность вычислений, доп.главы. Лектор - Мусатов Д.В.](https://www.youtube.com/playlist?list=PL4_hYwCyhAvZn9EJfRktZs6i6ytMDMgyJ)
+### [Сложность вычислений, доп.главы. 2. IP = PSPACE. Доказательства с нулевым разглашением.](https://www.youtube.com/watch?v=jiDoLQlUMLA&amp;list=PL4_hYwCyhAvZn9EJfRktZs6i6ytMDMgyJ&amp;index=1&amp;pp=iAQB)

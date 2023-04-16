@@ -1,0 +1,3 @@
+# [ИИКС НИЯУ МИФИ](https://www.youtube.com/@icismephi/playlists)
+## [С++ и QT ИИКС](https://www.youtube.com/playlist?list=PLrMb_y4Du4JiV-bXVcRHTDR5ksjcOwRrU)
+### [Мастер-класс: &quot;C++. Калькулятор на QT&quot;](https://www.youtube.com/watch?v=jzL7Pu6b55Y&amp;list=PLrMb_y4Du4JiV-bXVcRHTDR5ksjcOwRrU&amp;index=1&amp;pp=iAQB)

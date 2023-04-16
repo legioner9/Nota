@@ -1,0 +1,3 @@
+# [Компьютер - это просто!](https://www.youtube.com/@it-black/playlists)
+## [Linux Debian](https://www.youtube.com/playlist?list=PLh6tZVFnHXkr70zHCL_4QciH8yEnqz5Ug)
+### [Установка GUI KDE Plasma на операционную систему Debian 10.](https://www.youtube.com/watch?v=f1eT6SZ1Smk&amp;list=PLh6tZVFnHXkr70zHCL_4QciH8yEnqz5Ug&amp;index=11&amp;pp=iAQB)

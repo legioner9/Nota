@@ -1,0 +1,3 @@
+# [javabegin](https://www.youtube.com/@javabegin/playlists?view=1)
+## [Веб сервисы в Java (SOAP, XML, WSDL) - архив](https://www.youtube.com/playlist?list=PL8X2nqRlWfaYA4kptglUg72TFAzbn1ZJ0)
+### [15 Соединение с базой данных](https://www.youtube.com/watch?v=eovAcWd8pi4&amp;list=PL8X2nqRlWfaYA4kptglUg72TFAzbn1ZJ0&amp;index=20&amp;pp=iAQB)

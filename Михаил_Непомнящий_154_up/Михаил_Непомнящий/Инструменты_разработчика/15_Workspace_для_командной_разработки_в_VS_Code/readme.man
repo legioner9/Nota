@@ -1,0 +1,3 @@
+# [Михаил Непомнящий](https://www.youtube.com/@mishanep/playlists)
+## [Инструменты разработчика](https://www.youtube.com/playlist?list=PLiZoB8JBsdzlI0lIfk2zsf3F46FUkNaKC)
+### [Workspace для командной разработки в VS Code](https://www.youtube.com/watch?v=DN25t2QYTko&amp;list=PLiZoB8JBsdzlI0lIfk2zsf3F46FUkNaKC&amp;index=15&amp;pp=iAQB)

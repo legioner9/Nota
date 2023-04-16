@@ -1,0 +1,5 @@
+### [Геймдев 1. Введение. Особенности языка C#. Проектирование типов](https://www.youtube.com/watch?v=VTiHRidcJvk&amp;list=PL4_hYwCyhAvaavpkA4Ce8lS2xLQFcwqUo&amp;index=1&amp;pp=iAQB)
+### [Геймдев 2. Особенности C#](https://www.youtube.com/watch?v=_mGdsoQr0s4&amp;list=PL4_hYwCyhAvaavpkA4Ce8lS2xLQFcwqUo&amp;index=2&amp;pp=iAQB)
+### [Геймдев 3. Unity](https://www.youtube.com/watch?v=yDzzaDqC5hk&amp;list=PL4_hYwCyhAvaavpkA4Ce8lS2xLQFcwqUo&amp;index=3&amp;pp=iAQB)
+### [Геймдев 4. Паттерны проектирования игр](https://www.youtube.com/watch?v=GS_Rxm_QxZk&amp;list=PL4_hYwCyhAvaavpkA4Ce8lS2xLQFcwqUo&amp;index=4&amp;pp=iAQB)
+### [Геймдев 5. 3D-графика](https://www.youtube.com/watch?v=QYDx6wM2SiQ&amp;list=PL4_hYwCyhAvaavpkA4Ce8lS2xLQFcwqUo&amp;index=5&amp;pp=iAQB)

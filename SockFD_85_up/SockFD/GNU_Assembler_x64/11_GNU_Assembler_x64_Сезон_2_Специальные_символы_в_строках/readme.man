@@ -1,0 +1,3 @@
+# [SockFD](https://www.youtube.com/@sockfd/playlists)
+## [GNU Assembler x64](https://www.youtube.com/playlist?list=PL74QQzBTjH9ONnXdADHX__1gMYJIKOe2E)
+### [GNU Assembler x64. Сезон 2. Специальные символы в строках](https://www.youtube.com/watch?v=1Vx-5sk5iU0&amp;list=PL74QQzBTjH9ONnXdADHX__1gMYJIKOe2E&amp;index=11&amp;pp=iAQB)

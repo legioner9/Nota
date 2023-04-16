@@ -1,0 +1,3 @@
+# [Django School](https://www.youtube.com/@DjangoSchool/playlists?view=1)
+## [Советы для разработчиков](https://www.youtube.com/playlist?list=PLF-NY6ldwAWqOm3GTYSXBzeDepG-Kobh8)
+### [Книги по Python, Django и программированию](https://www.youtube.com/watch?v=9otbJ8ezF38&amp;list=PLF-NY6ldwAWqOm3GTYSXBzeDepG-Kobh8&amp;index=1)

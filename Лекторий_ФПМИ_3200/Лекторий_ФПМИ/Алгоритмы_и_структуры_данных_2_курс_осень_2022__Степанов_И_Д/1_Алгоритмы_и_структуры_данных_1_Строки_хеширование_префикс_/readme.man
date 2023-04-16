@@ -1,0 +1,3 @@
+# [Лекторий ФПМИ](https://www.youtube.com/@lectory_fpmi/playlists?view=1)
+## [Алгоритмы и структуры данных (2 курс, осень 2022) — Степанов И. Д.](https://www.youtube.com/playlist?list=PL4_hYwCyhAvaAajkilVk9Pm_xDGnwLR-3)
+### [Алгоритмы и структуры данных 1. Строки: хеширование, префикс-, z-функции](https://www.youtube.com/watch?v=bQrag-TId4I&amp;list=PL4_hYwCyhAvaAajkilVk9Pm_xDGnwLR-3&amp;index=1&amp;pp=iAQB)

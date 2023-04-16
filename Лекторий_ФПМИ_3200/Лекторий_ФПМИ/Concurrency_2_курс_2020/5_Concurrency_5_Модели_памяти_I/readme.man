@@ -1,0 +1,3 @@
+# [Лекторий ФПМИ](https://www.youtube.com/@lectory_fpmi/playlists?view=1)
+## [Concurrency (2 курс, 2020)](https://www.youtube.com/playlist?list=PL4_hYwCyhAvalRjpPlvaCYPpPE8TL-fn3)
+### [Concurrency 5. Модели памяти I](https://www.youtube.com/watch?v=H_X8c1M3BZs&amp;list=PL4_hYwCyhAvalRjpPlvaCYPpPE8TL-fn3&amp;index=5&amp;pp=iAQB)

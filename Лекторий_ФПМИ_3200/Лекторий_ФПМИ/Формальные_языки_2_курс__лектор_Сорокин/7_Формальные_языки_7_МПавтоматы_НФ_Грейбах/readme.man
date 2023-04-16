@@ -1,0 +1,3 @@
+# [Лекторий ФПМИ](https://www.youtube.com/@lectory_fpmi/playlists?view=1)
+## [Формальные языки (2 курс) - лектор Сорокин](https://www.youtube.com/playlist?list=PL4_hYwCyhAvaR2qldy6YyCXWRfMnl86Ql)
+### [Формальные языки 7. МП-автоматы. НФ Грейбах.](https://www.youtube.com/watch?v=byBm_OUg_D4&amp;list=PL4_hYwCyhAvaR2qldy6YyCXWRfMnl86Ql&amp;index=7&amp;pp=iAQB)

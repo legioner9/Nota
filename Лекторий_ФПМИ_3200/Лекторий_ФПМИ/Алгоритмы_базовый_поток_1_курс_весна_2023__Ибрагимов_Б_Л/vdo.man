@@ -1,0 +1,7 @@
+### [Алгоритмы (базовый поток) 1. Вычислительная геометрия](https://www.youtube.com/watch?v=Smf7wQIt97s&amp;list=PL4_hYwCyhAvYnTuFntl1nQARzYfa7fryW&amp;index=1&amp;pp=iAQB)
+### [Алгоритмы (базовый поток) 2. Выпуклые многоугольники, алгоритм Джарвиса, алгоритм Грэхема](https://www.youtube.com/watch?v=ImTTD8Cv4_E&amp;list=PL4_hYwCyhAvYnTuFntl1nQARzYfa7fryW&amp;index=2&amp;pp=iAQB)
+### [Алгоритмы (базовый поток) 4. Хеш-функции, хеш-таблицы](https://www.youtube.com/watch?v=NwYnjYYZo2Q&amp;list=PL4_hYwCyhAvYnTuFntl1nQARzYfa7fryW&amp;index=3&amp;pp=iAQB)
+### [Алгоритмы (базовый поток) 5. Простейшие графы, 0-k, 0-1 BFS](https://www.youtube.com/watch?v=YAezi7Ck2lg&amp;list=PL4_hYwCyhAvYnTuFntl1nQARzYfa7fryW&amp;index=4&amp;pp=iAQB)
+### [Алгоритмы (базовый поток) 6. DFS, проверка на ацикличность, сильная и слабая связанность, применения](https://www.youtube.com/watch?v=q9l1mHsz0k8&amp;list=PL4_hYwCyhAvYnTuFntl1nQARzYfa7fryW&amp;index=5&amp;pp=iAQB)
+### [Алгоритмы (базовый поток) 7. TopSort, SSC, Эйлеровы графы](https://www.youtube.com/watch?v=uYUMY205CBo&amp;list=PL4_hYwCyhAvYnTuFntl1nQARzYfa7fryW&amp;index=6&amp;pp=iAQB)
+### [Алгоритмы (базовый поток) 8. Точки сочленения, Мосты, Эйлеров цикл](https://www.youtube.com/watch?v=8JzcF-46wvc&amp;list=PL4_hYwCyhAvYnTuFntl1nQARzYfa7fryW&amp;index=7&amp;pp=iAQB)

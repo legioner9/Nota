@@ -1,0 +1,3 @@
+### [Распознавание человека по лицу | Проекты по нейросетям](https://www.youtube.com/watch?v=KuRdXGEmPkM&amp;list=PLtPJ9lKvJ4ognrCJaMveP9Eh5G1w5mnfU&amp;index=1&amp;pp=iAQB)
+### [Поиск объектов на изображениях | Проекты по нейросетям](https://www.youtube.com/watch?v=1KzKqxx-s-Q&amp;list=PLtPJ9lKvJ4ognrCJaMveP9Eh5G1w5mnfU&amp;index=2&amp;pp=iAQB)
+### [Автоматическое определение туберкулеза на флюорографии | Архив](https://www.youtube.com/watch?v=507J7YNw9lA&amp;list=PLtPJ9lKvJ4ognrCJaMveP9Eh5G1w5mnfU&amp;index=3&amp;pp=iAQB)

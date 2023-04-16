@@ -1,0 +1,7 @@
+### [Установка Cisco FirePOWER на VMware ESXi.](https://www.youtube.com/watch?v=upciFHaE7wc&amp;list=PLh6tZVFnHXkpOhDbwAqgsrdALlPgbclmH&amp;index=1&amp;pp=iAQB)
+### [Создание интерфейсов в CISCO Firepower.](https://www.youtube.com/watch?v=MhF3GpXQK6k&amp;list=PLh6tZVFnHXkpOhDbwAqgsrdALlPgbclmH&amp;index=2&amp;pp=iAQB)
+### [Создание DHCP-серверов на CISCO FirePOWER.](https://www.youtube.com/watch?v=OFDPlkW6uY4&amp;list=PLh6tZVFnHXkpOhDbwAqgsrdALlPgbclmH&amp;index=3&amp;pp=iAQB)
+### [Создание нового пользователя в CISCO FirePower.](https://www.youtube.com/watch?v=7guksQ6Jle8&amp;list=PLh6tZVFnHXkpOhDbwAqgsrdALlPgbclmH&amp;index=4&amp;pp=iAQB)
+### [Создание backup в CISCO FirePower.](https://www.youtube.com/watch?v=e9EQupX2UJk&amp;list=PLh6tZVFnHXkpOhDbwAqgsrdALlPgbclmH&amp;index=5&amp;pp=iAQB)
+### [Настройка статической маршрутизации + NAT в CISCO FirePower и MikroTik.](https://www.youtube.com/watch?v=2shucANFCec&amp;list=PLh6tZVFnHXkpOhDbwAqgsrdALlPgbclmH&amp;index=6&amp;pp=iAQB)
+### [Настройка политик для межсетевого экрана CISCO FirePower.](https://www.youtube.com/watch?v=ytY3qNZbTxY&amp;list=PLh6tZVFnHXkpOhDbwAqgsrdALlPgbclmH&amp;index=7&amp;pp=iAQB)

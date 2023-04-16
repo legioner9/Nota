@@ -1,0 +1,3 @@
+# [Лекторий ФПМИ](https://www.youtube.com/@lectory_fpmi/playlists?view=1)
+## [Теория распределенных вычислений (3 курс) - лектор Липовский](https://www.youtube.com/playlist?list=PL4_hYwCyhAvaFFsMCUzAA1K7JU7YBb8b9)
+### [Теория распределённых вычислений 1. Время. Синхронизация часов](https://www.youtube.com/watch?v=6D8w_jtncac&amp;list=PL4_hYwCyhAvaFFsMCUzAA1K7JU7YBb8b9&amp;index=1&amp;pp=iAQB)

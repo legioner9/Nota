@@ -1,0 +1,4 @@
+### [Уравнения математической физики 11 Формула Пуассона для уравнения теплопроводности](https://www.youtube.com/watch?v=4xurBHfmiSg&amp;list=PL4_hYwCyhAvZkKjjrvhdot8WJJ76qkb1D&amp;index=1&amp;pp=iAQB)
+### [Уравнения математической физики 12 Неоднородные уравнения Единственность решения](https://www.youtube.com/watch?v=6dyUsuwZoCw&amp;list=PL4_hYwCyhAvZkKjjrvhdot8WJJ76qkb1D&amp;index=2&amp;pp=iAQB)
+### [Уравнения математической физики 13+14 Принцип максимума Спектральная задача](https://www.youtube.com/watch?v=JNd0ACgdJzU&amp;list=PL4_hYwCyhAvZkKjjrvhdot8WJJ76qkb1D&amp;index=3&amp;pp=iAQB)
+### [Уравнения математической физики 15+16 Задача Дирихле для уравнения Лапласа - Пуассона в круге](https://www.youtube.com/watch?v=vlBFFONj6zE&amp;list=PL4_hYwCyhAvZkKjjrvhdot8WJJ76qkb1D&amp;index=4&amp;pp=iAQB)

@@ -1,0 +1,7 @@
+### [Установка Firewalld. Общие команды для управления Firewalld.](https://www.youtube.com/watch?v=kf3W1szxTHc&amp;list=PLh6tZVFnHXkpKuh9f-IKF1pOlWPyto1ra&amp;index=1&amp;pp=iAQB)
+### [Управление зонами в Firewalld.](https://www.youtube.com/watch?v=U33C3jRFnTo&amp;list=PLh6tZVFnHXkpKuh9f-IKF1pOlWPyto1ra&amp;index=2&amp;pp=iAQB)
+### [Управление правилами в Firewalld.](https://www.youtube.com/watch?v=LE_X4alGI3o&amp;list=PLh6tZVFnHXkpKuh9f-IKF1pOlWPyto1ra&amp;index=3&amp;pp=iAQB)
+### [Управление сервисами в Firewalld.](https://www.youtube.com/watch?v=34CsbgAjKpg&amp;list=PLh6tZVFnHXkpKuh9f-IKF1pOlWPyto1ra&amp;index=4&amp;pp=iAQB)
+### [Создание правил с условиями в Firewalld.](https://www.youtube.com/watch?v=qComoDDdRl4&amp;list=PLh6tZVFnHXkpKuh9f-IKF1pOlWPyto1ra&amp;index=5&amp;pp=iAQB)
+### [Настройка маскарадинга в Firewalld.](https://www.youtube.com/watch?v=Nu-ZiwsGM1M&amp;list=PLh6tZVFnHXkpKuh9f-IKF1pOlWPyto1ra&amp;index=6&amp;pp=iAQB)
+### [Проброс портов в Firewalld.](https://www.youtube.com/watch?v=Mg55U2eMDQY&amp;list=PLh6tZVFnHXkpKuh9f-IKF1pOlWPyto1ra&amp;index=7&amp;pp=iAQB)

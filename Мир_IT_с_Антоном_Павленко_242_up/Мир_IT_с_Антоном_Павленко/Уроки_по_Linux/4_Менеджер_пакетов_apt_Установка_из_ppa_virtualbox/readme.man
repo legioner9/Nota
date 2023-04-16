@@ -1,0 +1,3 @@
+# [Мир IT с Антоном Павленко](https://www.youtube.com/@pavlenkoat/playlists)
+## [Уроки по Linux](https://www.youtube.com/playlist?list=PLWCdmr_xDegfmNxUhbLAC4YxIvlnzY9U9)
+### [Менеджер пакетов apt. Установка из ppa virtualbox](https://www.youtube.com/watch?v=a7hQnzF7ISs&amp;list=PLWCdmr_xDegfmNxUhbLAC4YxIvlnzY9U9&amp;index=4&amp;pp=iAQB)

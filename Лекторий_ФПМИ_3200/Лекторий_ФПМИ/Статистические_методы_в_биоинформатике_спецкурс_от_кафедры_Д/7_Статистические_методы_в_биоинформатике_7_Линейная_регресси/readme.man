@@ -1,0 +1,3 @@
+# [Лекторий ФПМИ](https://www.youtube.com/@lectory_fpmi/playlists?view=1)
+## [Статистические методы в биоинформатике (спецкурс от кафедры ДМ). Лектор - Никита Волков](https://www.youtube.com/playlist?list=PL4_hYwCyhAvbBOQIoB7fAkhtyNS_O4eJU)
+### [Статистические методы в биоинформатике 7. Линейная регрессия](https://www.youtube.com/watch?v=JoF7_GtXosk&amp;list=PL4_hYwCyhAvbBOQIoB7fAkhtyNS_O4eJU&amp;index=7&amp;pp=iAQB)

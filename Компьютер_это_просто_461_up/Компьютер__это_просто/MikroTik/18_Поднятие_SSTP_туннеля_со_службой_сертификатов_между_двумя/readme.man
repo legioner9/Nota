@@ -1,0 +1,3 @@
+# [Компьютер - это просто!](https://www.youtube.com/@it-black/playlists)
+## [MikroTik](https://www.youtube.com/playlist?list=PLh6tZVFnHXkqg1sFtjtS0MduZP8ciDgrB)
+### [Поднятие SSTP туннеля со службой сертификатов между двумя MikroTik.](https://www.youtube.com/watch?v=o3BViC8kCd4&amp;list=PLh6tZVFnHXkqg1sFtjtS0MduZP8ciDgrB&amp;index=18&amp;pp=iAQB)

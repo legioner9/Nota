@@ -1,0 +1,3 @@
+# [Лекторий ФПМИ](https://www.youtube.com/@lectory_fpmi/playlists?view=1)
+## [Highload (4 курс, весна 2022) - Бунин О. В.](https://www.youtube.com/playlist?list=PL4_hYwCyhAva6-f-YxobKju-6ltmn-jNC)
+### [Highload 7. Шардинг. Партиционирование, денормализация](https://www.youtube.com/watch?v=ZiL_JfF5QTQ&amp;list=PL4_hYwCyhAva6-f-YxobKju-6ltmn-jNC&amp;index=6&amp;pp=iAQB)

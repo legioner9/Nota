@@ -1,0 +1,3 @@
+# [Мир IT с Антоном Павленко](https://www.youtube.com/@pavlenkoat/playlists)
+## [IT NEWS](https://www.youtube.com/playlist?list=PLWCdmr_xDegfumDzVkg8KXseuTG7tTekd)
+### [WSL что это? Убийца Linux Desktop? Microsoft анонсировала в wsl графический интерфейс](https://www.youtube.com/watch?v=o8SZmsMGM1Y&amp;list=PLWCdmr_xDegfumDzVkg8KXseuTG7tTekd&amp;index=1&amp;pp=iAQB)

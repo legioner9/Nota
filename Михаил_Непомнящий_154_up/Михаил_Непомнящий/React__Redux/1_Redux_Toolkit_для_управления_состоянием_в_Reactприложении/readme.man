@@ -1,0 +1,3 @@
+# [Михаил Непомнящий](https://www.youtube.com/@mishanep/playlists)
+## [React + Redux](https://www.youtube.com/playlist?list=PLiZoB8JBsdznQv3kAEvTzDP2qjaUI8Vo7)
+### [Redux Toolkit для управления состоянием в React-приложении](https://www.youtube.com/watch?v=C0fBnil_Im4&amp;list=PLiZoB8JBsdznQv3kAEvTzDP2qjaUI8Vo7&amp;index=1&amp;pp=iAQB)

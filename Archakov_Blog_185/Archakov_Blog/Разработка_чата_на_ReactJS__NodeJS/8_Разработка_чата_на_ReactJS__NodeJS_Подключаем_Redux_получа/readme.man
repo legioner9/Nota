@@ -1,0 +1,3 @@
+# [Archakov Blog](https://www.youtube.com/@ArchakovBlog/playlists)
+## [Разработка чата на ReactJS + NodeJS](https://www.youtube.com/playlist?list=PL0FGkDGJQjJFDr8R3D6dFVa1nhce_2-ly)
+### [Разработка чата на ReactJS + NodeJS: Подключаем Redux, получаем данные асинхронно, подклчаем смайлы](https://www.youtube.com/watch?v=4lMbguyj5KQ&amp;list=PL0FGkDGJQjJFDr8R3D6dFVa1nhce_2-ly&amp;index=8)

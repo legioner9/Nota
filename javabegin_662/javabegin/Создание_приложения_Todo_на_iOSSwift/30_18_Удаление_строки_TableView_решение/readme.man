@@ -1,0 +1,3 @@
+# [javabegin](https://www.youtube.com/@javabegin/playlists?view=1)
+## [Создание приложения Todo на iOS/Swift](https://www.youtube.com/playlist?list=PL8X2nqRlWfaZIPOPN-_bf0iYUDvZK8ZgS)
+### [18 Удаление строки TableView решение](https://www.youtube.com/watch?v=tob5EpdRx2w&amp;list=PL8X2nqRlWfaZIPOPN-_bf0iYUDvZK8ZgS&amp;index=30&amp;pp=iAQB)

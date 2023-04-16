@@ -1,0 +1,3 @@
+# [Лекторий ФПМИ](https://www.youtube.com/@lectory_fpmi/playlists?view=1)
+## [Сложность вычислений (3 курс, осень 2019) - лектор -- Мусатов Д.В.](https://www.youtube.com/playlist?list=PL4_hYwCyhAvbXd4YjOILzI5nPZMIzotMG)
+### [Сложность вычислений 8. PSPACE-полные языки](https://www.youtube.com/watch?v=1RyyJpRmDQs&amp;list=PL4_hYwCyhAvbXd4YjOILzI5nPZMIzotMG&amp;index=8&amp;pp=iAQB)

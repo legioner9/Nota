@@ -1,0 +1,7 @@
+### [Знакомство с LibreOffice Base.](https://www.youtube.com/watch?v=z9udIe9h1DI&amp;list=PLh6tZVFnHXkqC2UnhIM4v3NbugmYjBRRt&amp;index=1&amp;pp=iAQB)
+### [Скачивание и установка LibreOffice 6.4 на операционную систему Windows 10.](https://www.youtube.com/watch?v=QkrCd71KCV0&amp;list=PLh6tZVFnHXkqC2UnhIM4v3NbugmYjBRRt&amp;index=2&amp;pp=iAQB)
+### [Создание таблиц в режиме дизайна LibreOffice Base.](https://www.youtube.com/watch?v=_IMT4LsGiog&amp;list=PLh6tZVFnHXkqC2UnhIM4v3NbugmYjBRRt&amp;index=3&amp;pp=iAQB)
+### [Создание таблиц в режиме мастера для создания таблиц СУБД LibreOffice Base.](https://www.youtube.com/watch?v=PR1VCTMJdts&amp;list=PLh6tZVFnHXkqC2UnhIM4v3NbugmYjBRRt&amp;index=4&amp;pp=iAQB)
+### [Редактирование таблиц в базе данных LibreOffice Base.](https://www.youtube.com/watch?v=uN-kTLidimk&amp;list=PLh6tZVFnHXkqC2UnhIM4v3NbugmYjBRRt&amp;index=5&amp;pp=iAQB)
+### [Ввод данных в таблицу в режиме таблицы СУБД LibreOffice Base.](https://www.youtube.com/watch?v=j5MUBjxwrA4&amp;list=PLh6tZVFnHXkqC2UnhIM4v3NbugmYjBRRt&amp;index=6&amp;pp=iAQB)
+### [Установление связей между таблицами в LibreOffice Base.](https://www.youtube.com/watch?v=MrT1ve5jKrw&amp;list=PLh6tZVFnHXkqC2UnhIM4v3NbugmYjBRRt&amp;index=7&amp;pp=iAQB)

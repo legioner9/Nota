@@ -1,0 +1,7 @@
+### [ООП (продвинутый поток) 1. Аллокаторы](https://www.youtube.com/watch?v=Hywp-92uvfo&amp;list=PL4_hYwCyhAvYn9QJJUb1WjHuhG3ojyuHL&amp;index=1&amp;pp=iAQB)
+### [ООП (продвинутый поток) 2. Структура аллокаторов](https://www.youtube.com/watch?v=Uy_SJy_ZSyg&amp;list=PL4_hYwCyhAvYn9QJJUb1WjHuhG3ojyuHL&amp;index=2&amp;pp=iAQB)
+### [ООП (продвинутый поток) 3. Контейнеры и итераторы](https://www.youtube.com/watch?v=KjPAsH8ugZU&amp;list=PL4_hYwCyhAvYn9QJJUb1WjHuhG3ojyuHL&amp;index=3&amp;pp=iAQB)
+### [ООП (продвинутый поток) 4. Итераторы (часть 2)](https://www.youtube.com/watch?v=_ksN6YLuE54&amp;list=PL4_hYwCyhAvYn9QJJUb1WjHuhG3ojyuHL&amp;index=4&amp;pp=iAQB)
+### [ООП (продвинутый поток) 5. Итераторы (часть 3) и Move-семантика](https://www.youtube.com/watch?v=9xeye00M7bc&amp;list=PL4_hYwCyhAvYn9QJJUb1WjHuhG3ojyuHL&amp;index=5&amp;pp=iAQB)
+### [ООП (продвинутый поток) 6. Move-семантика (часть 2)](https://www.youtube.com/watch?v=UGcThD-lL64&amp;list=PL4_hYwCyhAvYn9QJJUb1WjHuhG3ojyuHL&amp;index=6&amp;pp=iAQB)
+### [ООП (продвинутый поток) 7. Move-семантика (часть 3)](https://www.youtube.com/watch?v=CwvmQH24VeQ&amp;list=PL4_hYwCyhAvYn9QJJUb1WjHuhG3ojyuHL&amp;index=7&amp;pp=iAQB)

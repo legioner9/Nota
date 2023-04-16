@@ -1,0 +1,3 @@
+# [Мир IT с Антоном Павленко](https://www.youtube.com/@pavlenkoat/playlists)
+## [Администрирование](https://www.youtube.com/playlist?list=PLWCdmr_xDegdIzr-SlQ4qEBskGnz3g6LP)
+### [Strace Linux. Когда нет другого выхода](https://www.youtube.com/watch?v=8PCXptyOyRQ&amp;list=PLWCdmr_xDegdIzr-SlQ4qEBskGnz3g6LP&amp;index=6&amp;pp=iAQB)

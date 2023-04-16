@@ -1,0 +1,3 @@
+# [Лекторий ФПМИ](https://www.youtube.com/@lectory_fpmi/playlists?view=1)
+## [Параллельные и распределённые вычисления (3 курс)](https://www.youtube.com/playlist?list=PL4_hYwCyhAvY0if4yb4sTZBIrI8hK6h2C)
+### [Параллельные и распределённые вычисления 8. Kafka](https://www.youtube.com/watch?v=-daObLFVF4I&amp;list=PL4_hYwCyhAvY0if4yb4sTZBIrI8hK6h2C&amp;index=5&amp;pp=iAQB)

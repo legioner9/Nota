@@ -1,0 +1,5 @@
+### [Виртуализация и контейнеризация / Docker](https://www.youtube.com/watch?v=h6LNP2Amp4M&amp;list=PLrMb_y4Du4JgTi3hPnTl74KlUI9J8vk6m&amp;index=1&amp;pp=iAQB)
+### [Основы работы с утилитой Docker](https://www.youtube.com/watch?v=WM5wIoSikO0&amp;list=PLrMb_y4Du4JgTi3hPnTl74KlUI9J8vk6m&amp;index=2&amp;pp=iAQB)
+### [Dockerfile и упаковка приложений / Docker](https://www.youtube.com/watch?v=ax1zJrJDYKs&amp;list=PLrMb_y4Du4JgTi3hPnTl74KlUI9J8vk6m&amp;index=3&amp;pp=iAQB)
+### [Основы работы с Docker-compose / Docker](https://www.youtube.com/watch?v=q0LGZO_QiGQ&amp;list=PLrMb_y4Du4JgTi3hPnTl74KlUI9J8vk6m&amp;index=4&amp;pp=iAQB)
+### [Работа с registry / Перенос своих образов / Docker](https://www.youtube.com/watch?v=mreFkoAj0FI&amp;list=PLrMb_y4Du4JgTi3hPnTl74KlUI9J8vk6m&amp;index=5&amp;pp=iAQB)

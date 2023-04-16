@@ -1,0 +1,3 @@
+# [Лекторий ФПМИ](https://www.youtube.com/@lectory_fpmi/playlists?view=1)
+## [Алгоритмы и структуры данных (1 курс, весна 2022) - Степанов И. Д.](https://www.youtube.com/playlist?list=PL4_hYwCyhAvaJeKhXPw6KN81haxBTyRQ4)
+### [Алгоритмы и структуры данных 4. Хеши и хеш-таблицы - std::unordered_set изнутри](https://www.youtube.com/watch?v=iRjxCXVhWFI&amp;list=PL4_hYwCyhAvaJeKhXPw6KN81haxBTyRQ4&amp;index=4&amp;pp=iAQB)

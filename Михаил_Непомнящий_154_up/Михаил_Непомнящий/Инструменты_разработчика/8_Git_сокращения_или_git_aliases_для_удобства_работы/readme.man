@@ -1,0 +1,3 @@
+# [Михаил Непомнящий](https://www.youtube.com/@mishanep/playlists)
+## [Инструменты разработчика](https://www.youtube.com/playlist?list=PLiZoB8JBsdzlI0lIfk2zsf3F46FUkNaKC)
+### [Git сокращения или git aliases для удобства работы](https://www.youtube.com/watch?v=378-T6h_ec0&amp;list=PLiZoB8JBsdzlI0lIfk2zsf3F46FUkNaKC&amp;index=8&amp;pp=iAQB)

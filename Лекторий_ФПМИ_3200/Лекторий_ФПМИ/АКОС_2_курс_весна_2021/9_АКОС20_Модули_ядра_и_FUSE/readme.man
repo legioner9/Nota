@@ -1,0 +1,3 @@
+# [Лекторий ФПМИ](https://www.youtube.com/@lectory_fpmi/playlists?view=1)
+## [АКОС (2 курс, весна 2021)](https://www.youtube.com/playlist?list=PL4_hYwCyhAvalZgPVlOhi7QkdQTD-x-PM)
+### [АКОС-20. Модули ядра и FUSE](https://www.youtube.com/watch?v=ZKDRAvP9Hds&amp;list=PL4_hYwCyhAvalZgPVlOhi7QkdQTD-x-PM&amp;index=9&amp;pp=iAQB)

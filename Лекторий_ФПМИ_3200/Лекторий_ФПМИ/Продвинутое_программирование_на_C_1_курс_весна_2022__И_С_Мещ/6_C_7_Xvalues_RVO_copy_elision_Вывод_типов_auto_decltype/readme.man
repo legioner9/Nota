@@ -1,0 +1,3 @@
+# [Лекторий ФПМИ](https://www.youtube.com/@lectory_fpmi/playlists?view=1)
+## [Продвинутое программирование на C++ (1 курс, весна 2022) - И. С. Мещерин](https://www.youtube.com/playlist?list=PL4_hYwCyhAvaWsj3-0gLH_yEZfKdTife0)
+### [C++ 7. Xvalues, RVO, copy elision. Вывод типов: auto, decltype](https://www.youtube.com/watch?v=hbGIlm--blA&amp;list=PL4_hYwCyhAvaWsj3-0gLH_yEZfKdTife0&amp;index=6&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [Какие-то уроки](https://www.youtube.com/@kakieToYroki/playlists?view=1&sort=dd&shelf_id=0)
+## [Игра "Машинка" на JavaScript](https://www.youtube.com/playlist?list=PL6NCtzCz-4pQGZtf83TkzQQFmppJGng8V)
+### [#6.1. Создаем игру на JavaScript для НАЧИНАЮЩИХ (Добавляем монетку, знак объезда и знак ускорения)](https://www.youtube.com/watch?v=uqEtSgRRM3k&amp;list=PL6NCtzCz-4pQGZtf83TkzQQFmppJGng8V&amp;index=7&amp;pp=iAQB)

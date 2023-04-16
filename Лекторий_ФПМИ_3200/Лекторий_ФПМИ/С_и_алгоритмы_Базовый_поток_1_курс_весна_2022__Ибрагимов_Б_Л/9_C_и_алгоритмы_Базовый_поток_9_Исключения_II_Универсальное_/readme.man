@@ -1,0 +1,3 @@
+# [Лекторий ФПМИ](https://www.youtube.com/@lectory_fpmi/playlists?view=1)
+## [С++ и алгоритмы (Базовый поток) (1 курс, весна 2022) - Ибрагимов Б. Л.](https://www.youtube.com/playlist?list=PL4_hYwCyhAvY1CNC2azvnDjkQfx5_S13l)
+### [C++ и алгоритмы (Базовый поток) 9. Исключения II. Универсальное хеширование](https://www.youtube.com/watch?v=ixx41j2hjOY&amp;list=PL4_hYwCyhAvY1CNC2azvnDjkQfx5_S13l&amp;index=9&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [Какие-то уроки](https://www.youtube.com/@kakieToYroki/playlists?view=1&sort=dd&shelf_id=0)
+## [Уроки по HTML для НАЧИНАЮЩИХ](https://www.youtube.com/playlist?list=PL6NCtzCz-4pQX0CZIwP7i0_mamieywtyw)
+### [#4. Уроки по HTML для НАЧИНАЮЩИХ (ul, ol, li, div, span, блочные и строчные тэги)](https://www.youtube.com/watch?v=xnZ57H2YWaE&amp;list=PL6NCtzCz-4pQX0CZIwP7i0_mamieywtyw&amp;index=4&amp;pp=iAQB)

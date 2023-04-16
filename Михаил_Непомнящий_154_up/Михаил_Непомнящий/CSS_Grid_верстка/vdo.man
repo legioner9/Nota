@@ -1,0 +1,7 @@
+### [CSS Grid верстка простыми словами, часть 1. Базовая терминология](https://www.youtube.com/watch?v=01SzD20gJUU&amp;list=PLiZoB8JBsdzk7yebGLJSgZiGXty6YDPBD&amp;index=1&amp;pp=iAQB)
+### [CSS Grid верстка простыми словами, часть 2. Базовые возможности](https://www.youtube.com/watch?v=hhAhr1y_H5o&amp;list=PLiZoB8JBsdzk7yebGLJSgZiGXty6YDPBD&amp;index=2&amp;pp=iAQB)
+### [CSS Grid простыми словами, часть 3. Шаблоны и фракции](https://www.youtube.com/watch?v=nZkNA5JUu4g&amp;list=PLiZoB8JBsdzk7yebGLJSgZiGXty6YDPBD&amp;index=3&amp;pp=iAQB)
+### [CSS Grid простыми словами, часть 4. Области и работа с ними](https://www.youtube.com/watch?v=uo0RVFpGVDo&amp;list=PLiZoB8JBsdzk7yebGLJSgZiGXty6YDPBD&amp;index=4&amp;pp=iAQB)
+### [CSS Grid верстка, часть 5. Выравнивание](https://www.youtube.com/watch?v=4fxFl-C2IoI&amp;list=PLiZoB8JBsdzk7yebGLJSgZiGXty6YDPBD&amp;index=5&amp;pp=iAQB)
+### [CSS Grid верстка, часть 6. Методы адаптива](https://www.youtube.com/watch?v=J16UUP52zyw&amp;list=PLiZoB8JBsdzk7yebGLJSgZiGXty6YDPBD&amp;index=6&amp;pp=iAQB)
+### [CSS Grid верстка, часть 7. Нюансы использования](https://www.youtube.com/watch?v=Afd7AXZuqtI&amp;list=PLiZoB8JBsdzk7yebGLJSgZiGXty6YDPBD&amp;index=7&amp;pp=iAQB)

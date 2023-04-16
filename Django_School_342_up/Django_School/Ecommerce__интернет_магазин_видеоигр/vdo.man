@@ -1,0 +1,5 @@
+### [Архитектура для E-commerce | Монолит или микросервисы](https://www.youtube.com/watch?v=in_zSwBHGig&amp;list=PLF-NY6ldwAWqO_h3KWp2PzCbYk-YoVcdF&amp;index=1)
+### [Что такое шина событий | Микросервисы | Монорепозиторий | GSpot](https://www.youtube.com/watch?v=TtSITwv5D5k&amp;list=PLF-NY6ldwAWqO_h3KWp2PzCbYk-YoVcdF&amp;index=2)
+### [Архитектура БД сервиса Games | Проект GSpot](https://www.youtube.com/watch?v=ONDExlgrj-4&amp;list=PLF-NY6ldwAWqO_h3KWp2PzCbYk-YoVcdF&amp;index=3)
+### [Django Rest + Docker + GitHub actions  + Flake8 | Проект GSpot](https://www.youtube.com/watch?v=x9o4xCMUk8M&amp;list=PLF-NY6ldwAWqO_h3KWp2PzCbYk-YoVcdF&amp;index=4)
+### [Архитектура БД сервиса users | Django Rest | Проект GSpot](https://www.youtube.com/watch?v=U3pAT4KSTM8&amp;list=PLF-NY6ldwAWqO_h3KWp2PzCbYk-YoVcdF&amp;index=5)

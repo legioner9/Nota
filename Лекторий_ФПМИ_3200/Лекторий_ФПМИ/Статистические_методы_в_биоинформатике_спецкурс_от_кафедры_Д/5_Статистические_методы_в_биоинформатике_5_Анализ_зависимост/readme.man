@@ -1,0 +1,3 @@
+# [Лекторий ФПМИ](https://www.youtube.com/@lectory_fpmi/playlists?view=1)
+## [Статистические методы в биоинформатике (спецкурс от кафедры ДМ). Лектор - Никита Волков](https://www.youtube.com/playlist?list=PL4_hYwCyhAvbBOQIoB7fAkhtyNS_O4eJU)
+### [Статистические методы в биоинформатике 5. Анализ зависимостей. Ядерная оценка плотности.](https://www.youtube.com/watch?v=pSdgAb2OPBA&amp;list=PL4_hYwCyhAvbBOQIoB7fAkhtyNS_O4eJU&amp;index=5&amp;pp=iAQB)

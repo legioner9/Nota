@@ -1,0 +1,3 @@
+# [Компьютер - это просто!](https://www.youtube.com/@it-black/playlists)
+## [Python](https://www.youtube.com/playlist?list=PLh6tZVFnHXkril4XyWsqbIe1wOL8epVS9)
+### [Переменные в языке программирования Python.](https://www.youtube.com/watch?v=-X0X8bOA5ts&amp;list=PLh6tZVFnHXkril4XyWsqbIe1wOL8epVS9&amp;index=13&amp;pp=iAQB)

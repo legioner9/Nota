@@ -1,0 +1,3 @@
+# [Лекторий ФПМИ](https://www.youtube.com/@lectory_fpmi/playlists?view=1)
+## [Языки программирования и теории компиляций (семинары) (2 курс, 2020), семинарист - Ахтямов Павел](https://www.youtube.com/playlist?list=PL4_hYwCyhAvZpfUPtAiHQUoQTcFnmmhYx)
+### [Языки программирования и теории компиляций (семинары) 8.2. Механизмы вызова функций](https://www.youtube.com/watch?v=1d5wGFQr-48&amp;list=PL4_hYwCyhAvZpfUPtAiHQUoQTcFnmmhYx&amp;index=7&amp;pp=iAQB)

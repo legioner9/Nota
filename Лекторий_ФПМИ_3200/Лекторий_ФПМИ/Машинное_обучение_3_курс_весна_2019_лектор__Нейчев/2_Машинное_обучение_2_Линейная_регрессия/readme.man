@@ -1,0 +1,3 @@
+# [Лекторий ФПМИ](https://www.youtube.com/@lectory_fpmi/playlists?view=1)
+## [Машинное обучение (3 курс, весна 2019), лектор -- Нейчев](https://www.youtube.com/playlist?list=PL4_hYwCyhAvasRqzz4w562ce0esEwS0Mt)
+### [Машинное обучение 2. Линейная регрессия](https://www.youtube.com/watch?v=sl3MM_i3az8&amp;list=PL4_hYwCyhAvasRqzz4w562ce0esEwS0Mt&amp;index=2&amp;pp=iAQB)

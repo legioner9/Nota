@@ -1,0 +1,3 @@
+# [Archakov Blog](https://www.youtube.com/@ArchakovBlog/playlists)
+## [Разработка простого чата на ReactJS + NodeJS + Socket.IO (for Junior)](https://www.youtube.com/playlist?list=PL0FGkDGJQjJFCldbWGKTm593zE2l-nTqq)
+### [#1: Разработка простого чата на ReactJS + NodeJS + Socket.IO (for Junior)](https://www.youtube.com/watch?v=5uES64gckVQ&amp;list=PL0FGkDGJQjJFCldbWGKTm593zE2l-nTqq&amp;index=1)

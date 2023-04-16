@@ -1,0 +1,3 @@
+# [javabegin](https://www.youtube.com/@javabegin/playlists?view=1)
+## [Паттерны проектирования Java](https://www.youtube.com/playlist?list=PL8X2nqRlWfabIgbe5CF-h_bDDHc3CPH74)
+### [6 Паттерн проектирования Adapter Адаптер](https://www.youtube.com/watch?v=HA-DTVE2dCo&amp;list=PL8X2nqRlWfabIgbe5CF-h_bDDHc3CPH74&amp;index=6&amp;pp=iAQB)

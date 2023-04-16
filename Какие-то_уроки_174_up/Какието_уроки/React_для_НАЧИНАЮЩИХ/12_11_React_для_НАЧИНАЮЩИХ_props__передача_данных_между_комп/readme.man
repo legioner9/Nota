@@ -1,0 +1,3 @@
+# [Какие-то уроки](https://www.youtube.com/@kakieToYroki/playlists?view=1&sort=dd&shelf_id=0)
+## [React для НАЧИНАЮЩИХ](https://www.youtube.com/playlist?list=PL6NCtzCz-4pR_xzjVY6wpSTppLdJJmUqF)
+### [#11. React для НАЧИНАЮЩИХ (props - передача данных между компонентами)](https://www.youtube.com/watch?v=XAtmQrr59J4&amp;list=PL6NCtzCz-4pR_xzjVY6wpSTppLdJJmUqF&amp;index=12&amp;pp=iAQB)

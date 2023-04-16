@@ -1,0 +1,3 @@
+# [Михаил Непомнящий](https://www.youtube.com/@mishanep/playlists)
+## [⚛️ Pro React](https://www.youtube.com/playlist?list=PLiZoB8JBsdzkClMnvcedplvSF_JPhvopM)
+### [Динамический запуск анимаций Framer Motion по viewport](https://www.youtube.com/watch?v=PGW36uIVggM&amp;list=PLiZoB8JBsdzkClMnvcedplvSF_JPhvopM&amp;index=17&amp;pp=iAQB)

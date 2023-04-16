@@ -1,0 +1,3 @@
+# [Олег Кишинский](https://www.youtube.com/@oleg_kishinskii/playlists)
+## [MacOS](https://www.youtube.com/playlist?list=PL-CNdS1UhzQkueYwMBW0l1t-L-9sqqZi3)
+### [Установка PostgreSQL на MacOS](https://www.youtube.com/watch?v=Obo7rzLr8NQ&amp;list=PL-CNdS1UhzQkueYwMBW0l1t-L-9sqqZi3&amp;index=2&amp;pp=iAQB)

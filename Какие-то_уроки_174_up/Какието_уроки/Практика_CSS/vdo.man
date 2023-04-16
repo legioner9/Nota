@@ -1,0 +1,4 @@
+### [FLEXBOX FROGGY (Игра про css flexbox)](https://www.youtube.com/watch?v=HY9Sok_TUgg&amp;list=PL6NCtzCz-4pQbAghSFjdZysbS4Yklpvs4&amp;index=1&amp;pp=iAQB)
+### [#1. Практика CSS для НАЧИНАЮЩИХ (Select)](https://www.youtube.com/watch?v=KbV2oe87evw&amp;list=PL6NCtzCz-4pQbAghSFjdZysbS4Yklpvs4&amp;index=2&amp;pp=iAQB)
+### [#2. Практика CSS для НАЧИНАЮЩИХ (media query)](https://www.youtube.com/watch?v=N-3LDITkmWQ&amp;list=PL6NCtzCz-4pQbAghSFjdZysbS4Yklpvs4&amp;index=3&amp;pp=iAQB)
+### [GRID GARDEN (Игра про css grid)](https://www.youtube.com/watch?v=o6l-3jKkNf0&amp;list=PL6NCtzCz-4pQbAghSFjdZysbS4Yklpvs4&amp;index=4&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [Лекторий ФПМИ](https://www.youtube.com/@lectory_fpmi/playlists?view=1)
+## [Программирование основных алгоритмов (1 курс, весна 2023) — Кулапин А. Е.](https://www.youtube.com/playlist?list=PL4_hYwCyhAvZZ_DqJ7mS_xyG_AsyerfdB)
+### [Программирование основных алгоритмов 7. Алгоритм Форда-Фалкерсона и Эдмондса-Карпа](https://www.youtube.com/watch?v=zHApRSC1s5A&amp;list=PL4_hYwCyhAvZZ_DqJ7mS_xyG_AsyerfdB&amp;index=7&amp;pp=iAQB)

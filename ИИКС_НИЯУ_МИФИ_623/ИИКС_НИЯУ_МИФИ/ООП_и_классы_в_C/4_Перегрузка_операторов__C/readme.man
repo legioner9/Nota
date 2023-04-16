@@ -1,0 +1,3 @@
+# [ИИКС НИЯУ МИФИ](https://www.youtube.com/@icismephi/playlists)
+## [ООП и классы в C++](https://www.youtube.com/playlist?list=PLrMb_y4Du4JhJ2_xkvKjqGHDPwL1WGwDW)
+### [Перегрузка операторов / C++](https://www.youtube.com/watch?v=PbtSimT1g_0&amp;list=PLrMb_y4Du4JhJ2_xkvKjqGHDPwL1WGwDW&amp;index=4&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [Django School](https://www.youtube.com/@DjangoSchool/playlists?view=1)
+## [Django rest framework](https://www.youtube.com/playlist?list=PLF-NY6ldwAWqP9PqPU3LA7mX2KJVyLhC_)
+### [Django rest framework + vue.js -  используем vue slot и vue url для диалогов -  урок 13](https://www.youtube.com/watch?v=y_As6ZLFWPg&amp;list=PLF-NY6ldwAWqP9PqPU3LA7mX2KJVyLhC_&amp;index=13)

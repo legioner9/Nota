@@ -1,0 +1,3 @@
+# [javabegin](https://www.youtube.com/@javabegin/playlists?view=1)
+## [Основы Java с нуля + задачи (2021)](https://www.youtube.com/playlist?list=PL8X2nqRlWfab435eNe6KwRomIbTW5W0Zl)
+### [Основы Java: создание проекта с нуля в IntelliJ IDEA (2021)](https://www.youtube.com/watch?v=XBf_XzXQQS8&amp;list=PL8X2nqRlWfab435eNe6KwRomIbTW5W0Zl&amp;index=2&amp;pp=iAQB)

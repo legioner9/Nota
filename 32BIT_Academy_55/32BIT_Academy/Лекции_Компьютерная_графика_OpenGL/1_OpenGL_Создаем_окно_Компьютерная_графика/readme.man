@@ -1,0 +1,3 @@
+# [32BIT Academy](https://www.youtube.com/@32BITAcademy/playlists)
+## [Лекции. Компьютерная графика (OpenGL)](https://www.youtube.com/playlist?list=PLfyiNADFEW5dE5hJ4xWGbIOGu3V2k3iru)
+### [OpenGL. Создаем окно [Компьютерная графика]](https://www.youtube.com/watch?v=GnoauFXoxwo&amp;list=PLfyiNADFEW5dE5hJ4xWGbIOGu3V2k3iru&amp;index=1&amp;pp=iAQB)

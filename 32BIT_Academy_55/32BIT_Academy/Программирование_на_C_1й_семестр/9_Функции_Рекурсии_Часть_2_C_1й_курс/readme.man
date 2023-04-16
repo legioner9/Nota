@@ -1,0 +1,3 @@
+# [32BIT Academy](https://www.youtube.com/@32BITAcademy/playlists)
+## [Программирование на C++. 1-й семестр](https://www.youtube.com/playlist?list=PLfyiNADFEW5dmBz5QOQar4slxhLnngOEC)
+### [Функции. Рекурсии (Часть 2) [C++, 1й курс]](https://www.youtube.com/watch?v=MxIqaq37EN4&amp;list=PLfyiNADFEW5dmBz5QOQar4slxhLnngOEC&amp;index=9&amp;pp=iAQB)

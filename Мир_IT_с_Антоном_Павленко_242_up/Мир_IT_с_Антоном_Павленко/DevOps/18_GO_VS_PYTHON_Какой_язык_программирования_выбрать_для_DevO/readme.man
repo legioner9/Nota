@@ -1,0 +1,3 @@
+# [Мир IT с Антоном Павленко](https://www.youtube.com/@pavlenkoat/playlists)
+## [DevOps](https://www.youtube.com/playlist?list=PLWCdmr_xDeged_8pzGzcEee1nNw6jLPer)
+### [GO VS PYTHON. Какой язык программирования выбрать для DevOps SRE и сисадминов?](https://www.youtube.com/watch?v=OTsmJxzD7vA&amp;list=PLWCdmr_xDeged_8pzGzcEee1nNw6jLPer&amp;index=18&amp;pp=iAQB)

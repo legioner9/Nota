@@ -1,0 +1,3 @@
+# [32BIT Academy](https://www.youtube.com/@32BITAcademy/playlists)
+## [Программирование на C++. 1-й семестр](https://www.youtube.com/playlist?list=PLfyiNADFEW5dmBz5QOQar4slxhLnngOEC)
+### [Оператор множественного ветвления switch. Оператор goto [C++, 1й курс]](https://www.youtube.com/watch?v=43rX3xV_xl4&amp;list=PLfyiNADFEW5dmBz5QOQar4slxhLnngOEC&amp;index=4&amp;pp=iAQB)

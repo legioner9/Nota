@@ -1,0 +1,3 @@
+# [SockFD](https://www.youtube.com/@sockfd/playlists)
+## [GAS x64](https://www.youtube.com/playlist?list=PL74QQzBTjH9PaC9sxDXpqXDqVvUkOqsj9)
+### [GNU Assembler x64. Динамические библиотеки.](https://www.youtube.com/watch?v=DLResqsExMg&amp;list=PL74QQzBTjH9PaC9sxDXpqXDqVvUkOqsj9&amp;index=25&amp;pp=iAQB)

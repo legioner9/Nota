@@ -1,0 +1,3 @@
+# [C++ practice](https://www.youtube.com/@cpppractice/playlists)
+## [Отладчик GDB](https://www.youtube.com/playlist?list=PLyw-Qzqua8-bpl68wb-wCm3Z2uN2ImlVW)
+### [GDB. Отладка с core дампами](https://www.youtube.com/watch?v=2d15CuwDabQ&amp;list=PLyw-Qzqua8-bpl68wb-wCm3Z2uN2ImlVW&amp;index=10&amp;pp=iAQB)

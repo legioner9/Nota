@@ -1,0 +1,3 @@
+# [javabegin](https://www.youtube.com/@javabegin/playlists?view=1)
+## [Получение Access Token из OAuth2 в Frontend (HTML/JS) + KeyCloak](https://www.youtube.com/playlist?list=PL8X2nqRlWfaaL8LXo5HlwDwbhKRQVDiEI)
+### [Frontend + OAuth2/KeyCloak: Генерация Code Verifier (2022)](https://www.youtube.com/watch?v=wnHu68kyU3c&amp;list=PL8X2nqRlWfaaL8LXo5HlwDwbhKRQVDiEI&amp;index=16&amp;pp=iAQB)

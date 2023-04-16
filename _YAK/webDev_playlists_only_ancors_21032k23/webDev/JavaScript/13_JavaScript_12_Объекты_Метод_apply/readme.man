@@ -1,0 +1,3 @@
+# [webDev](https://www.youtube.com/@YauhenKavalchuk/playlists?view=1)
+## [JavaScript](https://www.youtube.com/playlist?list=PLNkWIWHIRwMHKLotIS_d-wyj00pg0AnUg)
+### [JavaScript #12 Объекты: Метод apply](https://www.youtube.com/watch?v=4j0HOpm9OJ0&amp;list=PLNkWIWHIRwMHKLotIS_d-wyj00pg0AnUg&amp;index=13)

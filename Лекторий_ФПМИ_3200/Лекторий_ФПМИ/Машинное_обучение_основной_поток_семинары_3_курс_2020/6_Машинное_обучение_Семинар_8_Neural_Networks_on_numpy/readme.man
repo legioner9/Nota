@@ -1,0 +1,3 @@
+# [Лекторий ФПМИ](https://www.youtube.com/@lectory_fpmi/playlists?view=1)
+## [Машинное обучение, основной поток, семинары (3 курс, 2020)](https://www.youtube.com/playlist?list=PL4_hYwCyhAvYPOWn6e44RKxEfRWEsPA1z)
+### [Машинное обучение. Семинар 8. Neural Networks on numpy](https://www.youtube.com/watch?v=fOSeZIaATyE&amp;list=PL4_hYwCyhAvYPOWn6e44RKxEfRWEsPA1z&amp;index=6&amp;pp=iAQB)

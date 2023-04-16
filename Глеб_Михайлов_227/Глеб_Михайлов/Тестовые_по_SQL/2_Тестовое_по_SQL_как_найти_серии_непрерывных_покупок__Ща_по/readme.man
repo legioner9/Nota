@@ -1,0 +1,3 @@
+# [Глеб Михайлов](https://www.youtube.com/@GlebMikhaylov/playlists)
+## [Тестовые по SQL](https://www.youtube.com/playlist?list=PLQJ7ptkRY-xaxhUTi2JEtn-0XfiIDGt75)
+### [Тестовое по SQL: как найти серии непрерывных покупок? | Ща порешаем! #2](https://www.youtube.com/watch?v=qwsx1In4e9w&amp;list=PLQJ7ptkRY-xaxhUTi2JEtn-0XfiIDGt75&amp;index=2&amp;pp=iAQB)

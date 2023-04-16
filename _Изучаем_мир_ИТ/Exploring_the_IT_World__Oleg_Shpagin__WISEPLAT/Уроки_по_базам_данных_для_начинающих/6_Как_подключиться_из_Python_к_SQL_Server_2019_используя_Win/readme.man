@@ -1,0 +1,3 @@
+# [Exploring the IT World / Oleg Shpagin / WISEPLAT](https://www.youtube.com/@wiseplat/playlists)
+## [Уроки по базам данных для начинающих](https://www.youtube.com/playlist?list=PLxiU3nwEQ4PGtNfwrLtABYwsQkNrQamTK)
+### [Как подключиться из Python к SQL Server 2019 используя Windows аутентификацию NTLM](https://www.youtube.com/watch?v=FQBUFg_E528&amp;list=PLxiU3nwEQ4PGtNfwrLtABYwsQkNrQamTK&amp;index=6)

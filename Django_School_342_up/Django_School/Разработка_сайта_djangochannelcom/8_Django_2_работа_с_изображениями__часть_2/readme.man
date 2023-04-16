@@ -1,0 +1,3 @@
+# [Django School](https://www.youtube.com/@DjangoSchool/playlists?view=1)
+## [Разработка сайта djangochannel.com](https://www.youtube.com/playlist?list=PLF-NY6ldwAWpjARuT4-IoL3cNLIGdF0RL)
+### [Django 2 работа с изображениями - часть 2](https://www.youtube.com/watch?v=T5p8DI4Vp2o&amp;list=PLF-NY6ldwAWpjARuT4-IoL3cNLIGdF0RL&amp;index=8)

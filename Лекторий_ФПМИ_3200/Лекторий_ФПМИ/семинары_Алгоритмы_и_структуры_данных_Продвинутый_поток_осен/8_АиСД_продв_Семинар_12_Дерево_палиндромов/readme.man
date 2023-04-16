@@ -1,0 +1,3 @@
+# [Лекторий ФПМИ](https://www.youtube.com/@lectory_fpmi/playlists?view=1)
+## [(семинары) Алгоритмы и структуры данных. Продвинутый поток (осень 2019)](https://www.youtube.com/playlist?list=PL4_hYwCyhAvYwconG2P-Podts1HlYHxb_)
+### [АиСД (продв) Семинар 12. Дерево палиндромов](https://www.youtube.com/watch?v=rr9MUxlKd2g&amp;list=PL4_hYwCyhAvYwconG2P-Podts1HlYHxb_&amp;index=8&amp;pp=iAQB)

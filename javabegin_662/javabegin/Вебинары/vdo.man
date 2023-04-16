@@ -1,0 +1,2 @@
+### [Вебинар: как работают современные системы](https://www.youtube.com/watch?v=PD_OVFTOTqE&amp;list=PL8X2nqRlWfabozZsTPhSXNoBajF5BbTaM&amp;index=1&amp;pp=iAQB)
+### [Вебинар: CI/CD, DevOps - как разрабатывают современные проекты (2021)](https://www.youtube.com/watch?v=TboGIy-5hYs&amp;list=PL8X2nqRlWfabozZsTPhSXNoBajF5BbTaM&amp;index=2&amp;pp=iAQB)

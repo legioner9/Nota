@@ -1,0 +1,3 @@
+# [javabegin](https://www.youtube.com/@javabegin/playlists?view=1)
+## [Angular + Spring/Java (2022)](https://www.youtube.com/playlist?list=PL8X2nqRlWfab3tBneu2qCvLgfTVqUqZhW)
+### [Основы Angular + Java/Spring: routing в Angular (2022)](https://www.youtube.com/watch?v=qE1i12HFoWQ&amp;list=PL8X2nqRlWfab3tBneu2qCvLgfTVqUqZhW&amp;index=16&amp;pp=iAQB)

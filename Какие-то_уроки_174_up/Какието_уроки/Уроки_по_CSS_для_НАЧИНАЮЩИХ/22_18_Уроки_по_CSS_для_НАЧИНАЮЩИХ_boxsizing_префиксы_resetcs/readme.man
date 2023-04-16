@@ -1,0 +1,3 @@
+# [Какие-то уроки](https://www.youtube.com/@kakieToYroki/playlists?view=1&sort=dd&shelf_id=0)
+## [Уроки по CSS для НАЧИНАЮЩИХ](https://www.youtube.com/playlist?list=PL6NCtzCz-4pQZ-uueXnuIcQMs085CAhty)
+### [#18. Уроки по CSS для НАЧИНАЮЩИХ (box-sizing, префиксы, reset.css, normalize.css)](https://www.youtube.com/watch?v=by5T2tc_pCw&amp;list=PL6NCtzCz-4pQZ-uueXnuIcQMs085CAhty&amp;index=22&amp;pp=iAQB)

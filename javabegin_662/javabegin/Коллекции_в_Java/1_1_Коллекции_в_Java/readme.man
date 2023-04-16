@@ -1,0 +1,3 @@
+# [javabegin](https://www.youtube.com/@javabegin/playlists?view=1)
+## [Коллекции в Java](https://www.youtube.com/playlist?list=PL8X2nqRlWfab2fMfRCADxQfUUPyaAe842)
+### [1 Коллекции в Java](https://www.youtube.com/watch?v=RBDXuOMlvxk&amp;list=PL8X2nqRlWfab2fMfRCADxQfUUPyaAe842&amp;index=1&amp;pp=iAQB)

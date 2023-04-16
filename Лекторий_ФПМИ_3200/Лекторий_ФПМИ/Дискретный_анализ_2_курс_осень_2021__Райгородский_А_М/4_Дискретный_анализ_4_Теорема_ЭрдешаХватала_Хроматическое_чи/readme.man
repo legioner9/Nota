@@ -1,0 +1,3 @@
+# [Лекторий ФПМИ](https://www.youtube.com/@lectory_fpmi/playlists?view=1)
+## [Дискретный анализ (2 курс, осень 2021) - Райгородский А. М](https://www.youtube.com/playlist?list=PL4_hYwCyhAva78XFKFG1MoMdWXyV5ntmE)
+### [Дискретный анализ 4. Теорема Эрдеша-Хватала. Хроматическое число графа](https://www.youtube.com/watch?v=2nxYU-i1WfQ&amp;list=PL4_hYwCyhAva78XFKFG1MoMdWXyV5ntmE&amp;index=4&amp;pp=iAQB)

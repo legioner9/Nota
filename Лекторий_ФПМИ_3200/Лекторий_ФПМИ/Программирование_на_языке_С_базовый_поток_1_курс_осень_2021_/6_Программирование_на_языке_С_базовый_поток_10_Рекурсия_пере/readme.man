@@ -1,0 +1,3 @@
+# [Лекторий ФПМИ](https://www.youtube.com/@lectory_fpmi/playlists?view=1)
+## [Программирование на языке С++ (базовый поток) (1 курс, осень 2021) - Шедов С. В.](https://www.youtube.com/playlist?list=PL4_hYwCyhAvYFv2lj3ARJaTllQugxl2zF)
+### [Программирование на языке С++ (базовый поток) 10. Рекурсия, перечисления и структуры.](https://www.youtube.com/watch?v=Mi2KfZWpSBI&amp;list=PL4_hYwCyhAvYFv2lj3ARJaTllQugxl2zF&amp;index=6&amp;pp=iAQB)

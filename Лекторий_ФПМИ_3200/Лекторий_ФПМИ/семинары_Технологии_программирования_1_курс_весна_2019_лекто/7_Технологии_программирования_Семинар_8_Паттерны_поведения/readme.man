@@ -1,0 +1,3 @@
+# [Лекторий ФПМИ](https://www.youtube.com/@lectory_fpmi/playlists?view=1)
+## [(семинары) Технологии программирования. (1 курс, весна 2019), лектор -- Старичков](https://www.youtube.com/playlist?list=PL4_hYwCyhAvYGUkQNaw9YOUdtvT9eWKU0)
+### [Технологии программирования. Семинар 8. Паттерны поведения](https://www.youtube.com/watch?v=55vm1hgNH3E&amp;list=PL4_hYwCyhAvYGUkQNaw9YOUdtvT9eWKU0&amp;index=7&amp;pp=iAQB)

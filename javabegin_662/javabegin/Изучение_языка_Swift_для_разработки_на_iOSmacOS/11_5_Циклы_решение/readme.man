@@ -1,0 +1,3 @@
+# [javabegin](https://www.youtube.com/@javabegin/playlists?view=1)
+## [Изучение языка Swift для разработки на iOS/macOS](https://www.youtube.com/playlist?list=PL8X2nqRlWfabTnp382DjajPZ69ITGwPtg)
+### [5 Циклы решение](https://www.youtube.com/watch?v=V7-pyhU3oOs&amp;list=PL8X2nqRlWfabTnp382DjajPZ69ITGwPtg&amp;index=11&amp;pp=iAQB)

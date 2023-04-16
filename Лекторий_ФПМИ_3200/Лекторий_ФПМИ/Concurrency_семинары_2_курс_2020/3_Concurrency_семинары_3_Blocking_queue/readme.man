@@ -1,0 +1,3 @@
+# [Лекторий ФПМИ](https://www.youtube.com/@lectory_fpmi/playlists?view=1)
+## [Concurrency, семинары (2 курс, 2020)](https://www.youtube.com/playlist?list=PL4_hYwCyhAvY-mbXKJwKLLdafLrSOIgRN)
+### [Concurrency (семинары) 3. Blocking queue](https://www.youtube.com/watch?v=IGGC5WF5zjo&amp;list=PL4_hYwCyhAvY-mbXKJwKLLdafLrSOIgRN&amp;index=3&amp;pp=iAQB)

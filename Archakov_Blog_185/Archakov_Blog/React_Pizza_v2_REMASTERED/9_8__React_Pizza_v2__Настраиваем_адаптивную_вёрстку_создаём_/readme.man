@@ -1,0 +1,3 @@
+# [Archakov Blog](https://www.youtube.com/@ArchakovBlog/playlists)
+## [React Pizza v2 [REMASTERED]](https://www.youtube.com/playlist?list=PL0FGkDGJQjJG9eI85xM1_iLIf6BcEdaNl)
+### [#8: 🍕 React Pizza v2 — Настраиваем адаптивную вёрстку, создаём страницу корзины](https://www.youtube.com/watch?v=7t9_nmg_Yzg&amp;list=PL0FGkDGJQjJG9eI85xM1_iLIf6BcEdaNl&amp;index=9)

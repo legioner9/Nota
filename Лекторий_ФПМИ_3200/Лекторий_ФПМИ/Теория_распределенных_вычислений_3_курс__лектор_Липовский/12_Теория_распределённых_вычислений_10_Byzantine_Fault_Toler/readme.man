@@ -1,0 +1,3 @@
+# [Лекторий ФПМИ](https://www.youtube.com/@lectory_fpmi/playlists?view=1)
+## [Теория распределенных вычислений (3 курс) - лектор Липовский](https://www.youtube.com/playlist?list=PL4_hYwCyhAvaFFsMCUzAA1K7JU7YBb8b9)
+### [Теория распределённых вычислений 10. Byzantine Fault Tolerance](https://www.youtube.com/watch?v=XbnBppvpUgI&amp;list=PL4_hYwCyhAvaFFsMCUzAA1K7JU7YBb8b9&amp;index=12&amp;pp=iAQB)

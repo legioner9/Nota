@@ -1,0 +1,3 @@
+# [Лекторий ФПМИ](https://www.youtube.com/@lectory_fpmi/playlists?view=1)
+## [Введение в программирование (1 курс, основной поток, осень 2019) - лектор -- Денис Крахмалев](https://www.youtube.com/playlist?list=PL4_hYwCyhAvbfm6EMKYGAybRMxSQsOCXG)
+### [Введение в программирование №15. Метод ветвей и границ, естественные алгоритмы](https://www.youtube.com/watch?v=vWVfodR30TU&amp;list=PL4_hYwCyhAvbfm6EMKYGAybRMxSQsOCXG&amp;index=16&amp;pp=iAQB)

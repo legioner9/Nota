@@ -1,0 +1,3 @@
+# [SockFD](https://www.youtube.com/@sockfd/playlists)
+## [GNU Assembler x64](https://www.youtube.com/playlist?list=PL74QQzBTjH9ONnXdADHX__1gMYJIKOe2E)
+### [GNU Assembler x64. Сезон 2. Флаги CF и OF](https://www.youtube.com/watch?v=73ITFWGWkfQ&amp;list=PL74QQzBTjH9ONnXdADHX__1gMYJIKOe2E&amp;index=46&amp;pp=iAQB)

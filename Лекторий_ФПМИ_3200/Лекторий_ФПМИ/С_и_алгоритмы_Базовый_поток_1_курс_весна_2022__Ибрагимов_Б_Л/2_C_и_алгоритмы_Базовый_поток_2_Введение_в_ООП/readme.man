@@ -1,0 +1,3 @@
+# [Лекторий ФПМИ](https://www.youtube.com/@lectory_fpmi/playlists?view=1)
+## [С++ и алгоритмы (Базовый поток) (1 курс, весна 2022) - Ибрагимов Б. Л.](https://www.youtube.com/playlist?list=PL4_hYwCyhAvY1CNC2azvnDjkQfx5_S13l)
+### [C++ и алгоритмы (Базовый поток) 2. Введение в ООП](https://www.youtube.com/watch?v=vla7i6Ypceo&amp;list=PL4_hYwCyhAvY1CNC2azvnDjkQfx5_S13l&amp;index=2&amp;pp=iAQB)

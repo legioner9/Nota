@@ -1,0 +1,3 @@
+# [Alexander Molchanov](https://www.youtube.com/@alexandermolchanov2171/playlists)
+## [Программа решения системы уравнений Навье-Стокса для сжимаемого газа](https://www.youtube.com/playlist?list=PLPsx-wWDSTVp4ZDc6atukWnijdrojx5-K)
+### [Visual C++ Программа решения уравнений динамики вязкой жидкости. Урок 9.](https://www.youtube.com/watch?v=M0TixvWrlas&amp;list=PLPsx-wWDSTVp4ZDc6atukWnijdrojx5-K&amp;index=18&amp;pp=iAQB)

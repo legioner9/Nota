@@ -1,0 +1,3 @@
+# [Быть Программистом](https://www.youtube.com/@bedeveloper/playlists?view=1)
+## [WordPress для Пользователей](https://www.youtube.com/playlist?list=PL2CKgzoZxvxWs1DQnlJSQZkKaINwYUAUV)
+### [Как настроить доставку на WooCommerce? Плагин Яндекс.Доставка](https://www.youtube.com/watch?v=doWZGeJGcEQ&amp;list=PL2CKgzoZxvxWs1DQnlJSQZkKaINwYUAUV&amp;index=13&amp;pp=iAQB)

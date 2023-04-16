@@ -1,0 +1,7 @@
+### [Django + Docker на русском - часть 1](https://www.youtube.com/watch?v=biWrymIuc1Q&amp;list=PLF-NY6ldwAWrTEtHA8zhIVeNIzXjmS8Vu&amp;index=1)
+### [Vue.js + Docker на русском - часть 2](https://www.youtube.com/watch?v=3CebB9gchqk&amp;list=PLF-NY6ldwAWrTEtHA8zhIVeNIzXjmS8Vu&amp;index=2)
+### [Django + Docker разделение настроек  - часть 3](https://www.youtube.com/watch?v=5nTqDIMb_Lc&amp;list=PLF-NY6ldwAWrTEtHA8zhIVeNIzXjmS8Vu&amp;index=3)
+### [Django + Docker deploy - часть 4](https://www.youtube.com/watch?v=MJmSte679Vc&amp;list=PLF-NY6ldwAWrTEtHA8zhIVeNIzXjmS8Vu&amp;index=4)
+### [Vue + Docker deploy - часть 5](https://www.youtube.com/watch?v=W-fme-K_XLA&amp;list=PLF-NY6ldwAWrTEtHA8zhIVeNIzXjmS8Vu&amp;index=5)
+### [Vue + Docker deploy - часть 5/1](https://www.youtube.com/watch?v=TUWWMz6z2To&amp;list=PLF-NY6ldwAWrTEtHA8zhIVeNIzXjmS8Vu&amp;index=6)
+### [Что такое DevOps | Интервью с DevOps](https://www.youtube.com/watch?v=YswUb0QE_Bg&amp;list=PLF-NY6ldwAWrTEtHA8zhIVeNIzXjmS8Vu&amp;index=7)

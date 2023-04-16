@@ -1,0 +1,8 @@
+### [Алгоритмы и модели вычислений 1 Вводная лекция](https://www.youtube.com/watch?v=yyJ47LTuWHU&amp;list=PL4_hYwCyhAvbm8fy2kHAHWA3J4wOcfClI&amp;index=1&amp;pp=iAQB)
+### [Алгоритмы и модели вычислений 2 Формальные вычислительные модели и определения классов](https://www.youtube.com/watch?v=vRFZa5iaFkY&amp;list=PL4_hYwCyhAvbm8fy2kHAHWA3J4wOcfClI&amp;index=2&amp;pp=iAQB)
+### [Алгоритмы и модели вычислений 3 Полиномиальная сводимость](https://www.youtube.com/watch?v=snA3Xi3iP3M&amp;list=PL4_hYwCyhAvbm8fy2kHAHWA3J4wOcfClI&amp;index=3&amp;pp=iAQB)
+### [Алгоритмы и модели вычислений 4 NP-полные задачи](https://www.youtube.com/watch?v=Y0hV13JYgS4&amp;list=PL4_hYwCyhAvbm8fy2kHAHWA3J4wOcfClI&amp;index=4&amp;pp=iAQB)
+### [Алгоритмы и модели вычислений  5 ЦЛП Задача поиска](https://www.youtube.com/watch?v=QN6t15f01Ek&amp;list=PL4_hYwCyhAvbm8fy2kHAHWA3J4wOcfClI&amp;index=5&amp;pp=iAQB)
+### [Алгоритмы и модели вычислений 7 Вычисления ограниченные по памяти, NL](https://www.youtube.com/watch?v=RuIqeGtXHFQ&amp;list=PL4_hYwCyhAvbm8fy2kHAHWA3J4wOcfClI&amp;index=6&amp;pp=iAQB)
+### [Алгоритмы и модели вычислений 8 Схемная сложность](https://www.youtube.com/watch?v=6mkywo3e1GQ&amp;list=PL4_hYwCyhAvbm8fy2kHAHWA3J4wOcfClI&amp;index=7&amp;pp=iAQB)
+### [Алгоритмы и модели вычислений 9 Вероятностные вычисления](https://www.youtube.com/watch?v=fKns6dzeWco&amp;list=PL4_hYwCyhAvbm8fy2kHAHWA3J4wOcfClI&amp;index=8&amp;pp=iAQB)

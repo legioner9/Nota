@@ -1,0 +1,3 @@
+# [javabegin](https://www.youtube.com/@javabegin/playlists?view=1)
+## [Angular + Spring/Java (2022)](https://www.youtube.com/playlist?list=PL8X2nqRlWfab3tBneu2qCvLgfTVqUqZhW)
+### [Основы Angular + Java/Spring: план изучения Angular (2022)](https://www.youtube.com/watch?v=qC2_1JkPBhw&amp;list=PL8X2nqRlWfab3tBneu2qCvLgfTVqUqZhW&amp;index=12&amp;pp=iAQB)

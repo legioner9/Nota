@@ -1,0 +1,3 @@
+# [Компьютер - это просто!](https://www.youtube.com/@it-black/playlists)
+## [Wordpress](https://www.youtube.com/playlist?list=PLh6tZVFnHXkqM9et9bzr5-zrnmdaCZuqg)
+### [#3. Настройка сервера XAMPP для использования в локальной сети CMS Wordpress.](https://www.youtube.com/watch?v=w4WMSLzgBqo&amp;list=PLh6tZVFnHXkqM9et9bzr5-zrnmdaCZuqg&amp;index=3&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+### [Docker основные команды. Поиск и скачивание образов, запуск, остановка, удаление.](https://www.youtube.com/watch?v=3MgTf8wiuDM&amp;list=PLWCdmr_xDegdTz2StjOdFyMTy-l82FXA1&amp;index=1&amp;pp=iAQB)
+### [Docker file рецепт для Docker images. Как рождается Docker контейнер c помощью Docker build.](https://www.youtube.com/watch?v=wskg5903K8I&amp;list=PLWCdmr_xDegdTz2StjOdFyMTy-l82FXA1&amp;index=2&amp;pp=iAQB)
+### [Основы Docker и других контейнеров. Технологии контейниризации](https://www.youtube.com/watch?v=YdA3nij8IvA&amp;list=PLWCdmr_xDegdTz2StjOdFyMTy-l82FXA1&amp;index=3&amp;pp=iAQB)

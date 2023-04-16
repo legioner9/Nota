@@ -1,0 +1,3 @@
+# [Лекторий ФПМИ](https://www.youtube.com/@lectory_fpmi/playlists?view=1)
+## [Frontend -- мини-курс в рамках инновационного практикума на 3 курсе](https://www.youtube.com/playlist?list=PL4_hYwCyhAvZm-RtxrSq67n5vKojvisP4)
+### [Frontend 4.  React (продолжение)](https://www.youtube.com/watch?v=Jf5qWSZ9-hQ&amp;list=PL4_hYwCyhAvZm-RtxrSq67n5vKojvisP4&amp;index=4&amp;pp=iAQB)

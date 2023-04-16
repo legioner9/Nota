@@ -1,0 +1,3 @@
+# [ИИКС НИЯУ МИФИ](https://www.youtube.com/@icismephi/playlists)
+## [Python ИИКС](https://www.youtube.com/playlist?list=PLrMb_y4Du4Jhu0KoJzZZPcmgtonjbhw1t)
+### [Мастер-класс &quot;Нейронная сеть с 0. PyTorch&quot;](https://www.youtube.com/watch?v=khvO24NWZsc&amp;list=PLrMb_y4Du4Jhu0KoJzZZPcmgtonjbhw1t&amp;index=3&amp;pp=iAQB)

@@ -1,0 +1,5 @@
+### [Установка web-сервера Apache в операционной системе Debian 10.](https://www.youtube.com/watch?v=--lKfCCL18Q&amp;list=PLh6tZVFnHXkoOai-wR1P4AvZzTGu0tzuJ&amp;index=1&amp;pp=iAQB)
+### [Установка локального сервера XAMPP на операционную систему Debian 10.](https://www.youtube.com/watch?v=sdHs2LJJIR0&amp;list=PLh6tZVFnHXkoOai-wR1P4AvZzTGu0tzuJ&amp;index=2&amp;pp=iAQB)
+### [Установка php на Debian 10 + настройка web-сервера Apache.](https://www.youtube.com/watch?v=OsST3xGtNlI&amp;list=PLh6tZVFnHXkoOai-wR1P4AvZzTGu0tzuJ&amp;index=3&amp;pp=iAQB)
+### [Установка Sublime Text 3 и плагина Emmet.](https://www.youtube.com/watch?v=bLWyLccA7uw&amp;list=PLh6tZVFnHXkoOai-wR1P4AvZzTGu0tzuJ&amp;index=4&amp;pp=iAQB)
+### [Декоративные свойства в CSS.](https://www.youtube.com/watch?v=UiIDTCJynho&amp;list=PLh6tZVFnHXkoOai-wR1P4AvZzTGu0tzuJ&amp;index=5&amp;pp=iAQB)

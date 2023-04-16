@@ -1,0 +1,8 @@
+### [Функциональный анализ 1. Слабая сходимость](https://www.youtube.com/watch?v=af7hh5fOQsg&amp;list=PL4_hYwCyhAvb3sLM_TNL6lu-KnzkIDGs3&amp;index=1&amp;pp=iAQB)
+### [Функциональный анализ 2. Слабая сходимость, продолжение](https://www.youtube.com/watch?v=_RcYGe1IjMY&amp;list=PL4_hYwCyhAvb3sLM_TNL6lu-KnzkIDGs3&amp;index=2&amp;pp=iAQB)
+### [Функциональный анализ 3. Обратный оператор](https://www.youtube.com/watch?v=kqoAvzbnkDM&amp;list=PL4_hYwCyhAvb3sLM_TNL6lu-KnzkIDGs3&amp;index=3&amp;pp=iAQB)
+### [Функциональный анализ 4. Сопряжённый оператор](https://www.youtube.com/watch?v=A_2lDYswHlw&amp;list=PL4_hYwCyhAvb3sLM_TNL6lu-KnzkIDGs3&amp;index=4&amp;pp=iAQB)
+### [Функциональный анализ 5. Спектр оператора. Резольвента](https://www.youtube.com/watch?v=otp-L8BG3kQ&amp;list=PL4_hYwCyhAvb3sLM_TNL6lu-KnzkIDGs3&amp;index=5&amp;pp=iAQB)
+### [Функциональный анализ 6. Самосопряжённые операторы](https://www.youtube.com/watch?v=vbeIaJhkMrA&amp;list=PL4_hYwCyhAvb3sLM_TNL6lu-KnzkIDGs3&amp;index=6&amp;pp=iAQB)
+### [Функциональный анализ 7. Компактные операторы](https://www.youtube.com/watch?v=l_z390kRH6E&amp;list=PL4_hYwCyhAvb3sLM_TNL6lu-KnzkIDGs3&amp;index=7&amp;pp=iAQB)
+### [Функциональный анализ 8. Теорема Фредгольма](https://www.youtube.com/watch?v=-xuGck6Fp-I&amp;list=PL4_hYwCyhAvb3sLM_TNL6lu-KnzkIDGs3&amp;index=8&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [Exploring the IT World / Oleg Shpagin / WISEPLAT](https://www.youtube.com/@wiseplat/playlists)
+## [Уроки для админов](https://www.youtube.com/playlist?list=PLxiU3nwEQ4PFanHSbbkPHeUTekzkHz7VT)
+### [Как в Linux удобно работать с файлами - файловые менеджеры](https://www.youtube.com/watch?v=JJapxJbmvHw&amp;list=PLxiU3nwEQ4PFanHSbbkPHeUTekzkHz7VT&amp;index=22)

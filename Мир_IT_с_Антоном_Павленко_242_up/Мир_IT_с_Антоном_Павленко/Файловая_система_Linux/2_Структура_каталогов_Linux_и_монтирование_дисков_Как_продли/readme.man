@@ -1,0 +1,3 @@
+# [Мир IT с Антоном Павленко](https://www.youtube.com/@pavlenkoat/playlists)
+## [Файловая система Linux](https://www.youtube.com/playlist?list=PLWCdmr_xDegd7e_3as8ERlwNxOEqx1vRy)
+### [Структура каталогов Linux и монтирование дисков. Как продлить жизнь SSD.](https://www.youtube.com/watch?v=j7iKs5xiujM&amp;list=PLWCdmr_xDegd7e_3as8ERlwNxOEqx1vRy&amp;index=2&amp;pp=iAQB)

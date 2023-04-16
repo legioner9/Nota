@@ -1,0 +1,6 @@
+### [Алгоритмы и структуры данных 2 (базовый поток). FibonacciHeap. Дерево отрезков. Групповые операции](https://www.youtube.com/watch?v=-ulfkKxYJ1I&amp;list=PL4_hYwCyhAvYVJNXV2kk55cQQ7-vIh9yK&amp;index=1&amp;pp=iAQB)
+### [Алгоритмы и структуры данных 3 (базовый поток). BST для RMQ\RSQ](https://www.youtube.com/watch?v=gWlhuSQz4A0&amp;list=PL4_hYwCyhAvYVJNXV2kk55cQQ7-vIh9yK&amp;index=2&amp;pp=iAQB)
+### [Алгоритмы и структуры данных 5 (базовый поток). Обход в глубину (DFS)](https://www.youtube.com/watch?v=8ngFy711x_U&amp;list=PL4_hYwCyhAvYVJNXV2kk55cQQ7-vIh9yK&amp;index=3&amp;pp=iAQB)
+### [Алгоритмы и структуры данных 6 (базовый поток). Топологическая сортировка. SCC. Эйлеровы графы](https://www.youtube.com/watch?v=mpgYZBBK2XU&amp;list=PL4_hYwCyhAvYVJNXV2kk55cQQ7-vIh9yK&amp;index=4&amp;pp=iAQB)
+### [Алгоритмы и структуры данных 7 (базовый поток). Эйлеровы графы. Точки сочленения](https://www.youtube.com/watch?v=kiAQqMrpBwg&amp;list=PL4_hYwCyhAvYVJNXV2kk55cQQ7-vIh9yK&amp;index=5&amp;pp=iAQB)
+### [Алгоритмы и структуры данных 8 (базовый поток). Точки сочленения и мосты. Потоки в графах](https://www.youtube.com/watch?v=fshAmvS2xe8&amp;list=PL4_hYwCyhAvYVJNXV2kk55cQQ7-vIh9yK&amp;index=6&amp;pp=iAQB)

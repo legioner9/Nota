@@ -1,0 +1,3 @@
+# [Лаборатория Data-driven management'a. ЭФ НГУ](https://www.youtube.com/@data-drivenmanagementa.363/playlists)
+## [обучение](https://www.youtube.com/playlist?list=PLDxkNyWEQfqj7fchaHjMQjvl9CwhhUoQh)
+### [PostgreSQL. Установка на Windows 7. Решение проблемы: Problem running post-install step](https://www.youtube.com/watch?v=PArzpMGYw10&amp;list=PLDxkNyWEQfqj7fchaHjMQjvl9CwhhUoQh&amp;index=1&amp;pp=iAQB)

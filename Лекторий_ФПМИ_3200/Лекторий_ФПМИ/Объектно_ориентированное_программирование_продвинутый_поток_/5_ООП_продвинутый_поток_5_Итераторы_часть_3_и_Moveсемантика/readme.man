@@ -1,0 +1,3 @@
+# [Лекторий ФПМИ](https://www.youtube.com/@lectory_fpmi/playlists?view=1)
+## [Объектно ориентированное программирование, продвинутый поток (1 курс, 2020)](https://www.youtube.com/playlist?list=PL4_hYwCyhAvYn9QJJUb1WjHuhG3ojyuHL)
+### [ООП (продвинутый поток) 5. Итераторы (часть 3) и Move-семантика](https://www.youtube.com/watch?v=9xeye00M7bc&amp;list=PL4_hYwCyhAvYn9QJJUb1WjHuhG3ojyuHL&amp;index=5&amp;pp=iAQB)

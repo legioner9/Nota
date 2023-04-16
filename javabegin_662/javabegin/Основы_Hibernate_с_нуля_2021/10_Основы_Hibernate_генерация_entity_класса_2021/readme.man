@@ -1,0 +1,3 @@
+# [javabegin](https://www.youtube.com/@javabegin/playlists?view=1)
+## [Основы Hibernate с нуля (2021)](https://www.youtube.com/playlist?list=PL8X2nqRlWfabN7rXPD7KDfXd8jFhAmkTL)
+### [Основы Hibernate: генерация entity класса (2021)](https://www.youtube.com/watch?v=ECQu2uc0mZY&amp;list=PL8X2nqRlWfabN7rXPD7KDfXd8jFhAmkTL&amp;index=10&amp;pp=iAQB)

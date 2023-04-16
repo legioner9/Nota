@@ -1,0 +1,3 @@
+# [Михаил Непомнящий](https://www.youtube.com/@mishanep/playlists)
+## [JavaScript фишки](https://www.youtube.com/playlist?list=PLiZoB8JBsdzklPlprqQRwGQuyD92f-Wm8)
+### [MatchMedia для определения типа устройства](https://www.youtube.com/watch?v=vvieEwYX02c&amp;list=PLiZoB8JBsdzklPlprqQRwGQuyD92f-Wm8&amp;index=2&amp;pp=iAQB)

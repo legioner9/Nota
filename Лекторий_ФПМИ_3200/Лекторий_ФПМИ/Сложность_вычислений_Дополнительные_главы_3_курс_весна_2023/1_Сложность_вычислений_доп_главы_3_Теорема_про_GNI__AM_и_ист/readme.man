@@ -1,0 +1,3 @@
+# [Лекторий ФПМИ](https://www.youtube.com/@lectory_fpmi/playlists?view=1)
+## [Сложность вычислений. Дополнительные главы (3 курс, весна 2023)](https://www.youtube.com/playlist?list=PL4_hYwCyhAvali86ki-x3B3OLbkgB2FCe)
+### [Сложность вычислений (доп. главы) 3. Теорема про GNI ∈ AM и история доказательства IP = PSPACE.](https://www.youtube.com/watch?v=ajGCnh-jecc&amp;list=PL4_hYwCyhAvali86ki-x3B3OLbkgB2FCe&amp;index=1&amp;pp=iAQB)

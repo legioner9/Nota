@@ -1,0 +1,3 @@
+### [PostgreSQL. Установка на Windows 7. Решение проблемы: Problem running post-install step](https://www.youtube.com/watch?v=PArzpMGYw10&amp;list=PLDxkNyWEQfqj7fchaHjMQjvl9CwhhUoQh&amp;index=1&amp;pp=iAQB)
+### [Импорт базы данных в PostgreSQL. Изучение структуры базы данных](https://www.youtube.com/watch?v=YoHHP_SYs2w&amp;list=PLDxkNyWEQfqj7fchaHjMQjvl9CwhhUoQh&amp;index=2&amp;pp=iAQB)
+### [Первые SQL запросы к учебной базе данных](https://www.youtube.com/watch?v=-8agW4H8keM&amp;list=PLDxkNyWEQfqj7fchaHjMQjvl9CwhhUoQh&amp;index=3&amp;pp=iAQB)

@@ -1,0 +1,5 @@
+### [Алгоритмы (продвинутый поток) 1. Дерево Фенвика](https://www.youtube.com/watch?v=yof3EkCXQB4&amp;list=PL4_hYwCyhAvYzrbNOLAy-EczKdAbWoRDK&amp;index=1&amp;pp=iAQB)
+### [Алгоритмы (продвинутый поток) 3. Динамическое программирование](https://www.youtube.com/watch?v=RzXtyxd2LdI&amp;list=PL4_hYwCyhAvYzrbNOLAy-EczKdAbWoRDK&amp;index=2&amp;pp=iAQB)
+### [Алгоритмы (продвинутый поток) 4. НВП и ДП на подотрезках](https://www.youtube.com/watch?v=dBJxLOKqYqU&amp;list=PL4_hYwCyhAvYzrbNOLAy-EczKdAbWoRDK&amp;index=3&amp;pp=iAQB)
+### [Алгоритмы (продвинутый поток) 5. Динамика на подмножествах](https://www.youtube.com/watch?v=Z2djkPn2Jo8&amp;list=PL4_hYwCyhAvYzrbNOLAy-EczKdAbWoRDK&amp;index=4&amp;pp=iAQB)
+### [Алгоритмы (продвинутый поток) 6. Динамика по профилю](https://www.youtube.com/watch?v=z4-6ejAPs1A&amp;list=PL4_hYwCyhAvYzrbNOLAy-EczKdAbWoRDK&amp;index=5&amp;pp=iAQB)

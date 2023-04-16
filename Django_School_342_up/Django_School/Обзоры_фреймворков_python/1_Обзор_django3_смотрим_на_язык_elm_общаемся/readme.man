@@ -1,0 +1,3 @@
+# [Django School](https://www.youtube.com/@DjangoSchool/playlists?view=1)
+## [Обзоры фреймворков python](https://www.youtube.com/playlist?list=PLF-NY6ldwAWrPUAkpT37UpVoyKak_BtpA)
+### [Обзор django3, смотрим на язык elm, общаемся](https://www.youtube.com/watch?v=0vBa7eaZ3hM&amp;list=PLF-NY6ldwAWrPUAkpT37UpVoyKak_BtpA&amp;index=1)

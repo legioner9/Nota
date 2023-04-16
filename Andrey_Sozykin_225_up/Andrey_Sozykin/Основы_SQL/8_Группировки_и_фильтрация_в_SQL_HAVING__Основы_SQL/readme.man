@@ -1,0 +1,3 @@
+# [Andrey Sozykin](https://www.youtube.com/@AndreySozykin/playlists?view=1)
+## [Основы SQL](https://www.youtube.com/playlist?list=PLtPJ9lKvJ4oh5SdmGVusIVDPcELrJ2bsT)
+### [Группировки и фильтрация в SQL: HAVING | Основы SQL](https://www.youtube.com/watch?v=ytfXUvCsNuo&amp;list=PLtPJ9lKvJ4oh5SdmGVusIVDPcELrJ2bsT&amp;index=8&amp;pp=iAQB)

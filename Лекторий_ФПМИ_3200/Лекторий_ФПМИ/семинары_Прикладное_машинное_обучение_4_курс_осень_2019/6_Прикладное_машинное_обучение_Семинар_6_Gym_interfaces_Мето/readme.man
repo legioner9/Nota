@@ -1,0 +1,3 @@
+# [Лекторий ФПМИ](https://www.youtube.com/@lectory_fpmi/playlists?view=1)
+## [(семинары) Прикладное машинное обучение (4 курс, осень 2019)](https://www.youtube.com/playlist?list=PL4_hYwCyhAvYvuHz_PKlEV-kOsK2bwUBg)
+### [Прикладное машинное обучение. Семинар 6. Gym interfaces. Метод перекрестной энтропии.](https://www.youtube.com/watch?v=ejqfCh5OMPs&amp;list=PL4_hYwCyhAvYvuHz_PKlEV-kOsK2bwUBg&amp;index=6&amp;pp=iAQB)

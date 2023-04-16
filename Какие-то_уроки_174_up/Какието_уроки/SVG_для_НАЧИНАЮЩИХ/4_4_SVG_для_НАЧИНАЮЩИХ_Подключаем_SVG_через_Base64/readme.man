@@ -1,0 +1,3 @@
+# [Какие-то уроки](https://www.youtube.com/@kakieToYroki/playlists?view=1&sort=dd&shelf_id=0)
+## [SVG для НАЧИНАЮЩИХ](https://www.youtube.com/playlist?list=PL6NCtzCz-4pRcotLgtXTbNZqE0g_AqjMk)
+### [#4. SVG для НАЧИНАЮЩИХ (Подключаем SVG через Base64)](https://www.youtube.com/watch?v=T1za5VAzmto&amp;list=PL6NCtzCz-4pRcotLgtXTbNZqE0g_AqjMk&amp;index=4&amp;pp=iAQB)

@@ -1,0 +1,5 @@
+### [ANSYS CFX. Calculation of the flow in a supersonic nozzle. Part 1.](https://www.youtube.com/watch?v=H6oPvJMmt_I&amp;list=PLPsx-wWDSTVrIMYcmn9CIOzRrX_oufDPA&amp;index=1&amp;pp=iAQB)
+### [ANSYS CFX. Calculation of the flow in a supersonic nozzle. Part 2.](https://www.youtube.com/watch?v=ByCoRZ8k5l8&amp;list=PLPsx-wWDSTVrIMYcmn9CIOzRrX_oufDPA&amp;index=2&amp;pp=iAQB)
+### [ANSYS CFX. Расчет течения в сверхзвуковом сопле. Часть 3.1](https://www.youtube.com/watch?v=t8U-XOUQqlM&amp;list=PLPsx-wWDSTVrIMYcmn9CIOzRrX_oufDPA&amp;index=3&amp;pp=iAQB)
+### [ANSYS CFX. Расчет течения в сверхзвуковом сопле. Часть 3.2](https://www.youtube.com/watch?v=oBOK0wLY5SQ&amp;list=PLPsx-wWDSTVrIMYcmn9CIOzRrX_oufDPA&amp;index=4&amp;pp=iAQB)
+### [ANSYS CFX. Расчет течения в сверхзвуковом сопле. ICEM CFD](https://www.youtube.com/watch?v=hy0WPbb6H5I&amp;list=PLPsx-wWDSTVrIMYcmn9CIOzRrX_oufDPA&amp;index=5&amp;pp=iAQB)

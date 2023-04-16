@@ -1,0 +1,3 @@
+# [Exploring the IT World / Oleg Shpagin / WISEPLAT](https://www.youtube.com/@wiseplat/playlists)
+## [Уроки Python для начинающих #2 [ОСНОВЫ / уровень 2]](https://www.youtube.com/playlist?list=PLxiU3nwEQ4PE3WJaU2iclTpRjZojskznl)
+### [Как перемещать мышкой объекты в приложении [Tkinter] / Уроки Python](https://www.youtube.com/watch?v=E01FiLlffa8&amp;list=PLxiU3nwEQ4PE3WJaU2iclTpRjZojskznl&amp;index=30)

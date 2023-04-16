@@ -1,0 +1,3 @@
+# [Компьютер - это просто!](https://www.youtube.com/@it-black/playlists)
+## [Python](https://www.youtube.com/playlist?list=PLh6tZVFnHXkril4XyWsqbIe1wOL8epVS9)
+### [Решение проблемы при установке нового контейнера в Docker.](https://www.youtube.com/watch?v=OWP1KTve8cA&amp;list=PLh6tZVFnHXkril4XyWsqbIe1wOL8epVS9&amp;index=9&amp;pp=iAQB)

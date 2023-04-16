@@ -1,0 +1,3 @@
+# [Django School](https://www.youtube.com/@DjangoSchool/playlists?view=1)
+## [Django 3 разработка сайта для шеф-повара](https://www.youtube.com/playlist?list=PLF-NY6ldwAWpK1DDLdRcmRRX4_WtOa-Bo)
+### [создание сайта на django | Стрим](https://www.youtube.com/watch?v=f7zwXjPJRtU&amp;list=PLF-NY6ldwAWpK1DDLdRcmRRX4_WtOa-Bo&amp;index=1)

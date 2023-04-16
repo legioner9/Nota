@@ -1,0 +1,3 @@
+# [Archakov Blog](https://www.youtube.com/@ArchakovBlog/playlists)
+## [Разработка чата на ReactJS + NodeJS](https://www.youtube.com/playlist?list=PL0FGkDGJQjJFDr8R3D6dFVa1nhce_2-ly)
+### [Разработка чата на ReactJS + NodeJS: Загрузку фото на фронте, делаем запись аудио (MediaRecorder)](https://www.youtube.com/watch?v=DaFo3Bi4vx0&amp;list=PL0FGkDGJQjJFDr8R3D6dFVa1nhce_2-ly&amp;index=22)

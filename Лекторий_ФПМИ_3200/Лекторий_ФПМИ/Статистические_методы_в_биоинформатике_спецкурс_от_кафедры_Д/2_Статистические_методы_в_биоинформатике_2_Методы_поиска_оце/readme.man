@@ -1,0 +1,3 @@
+# [Лекторий ФПМИ](https://www.youtube.com/@lectory_fpmi/playlists?view=1)
+## [Статистические методы в биоинформатике (спецкурс от кафедры ДМ). Лектор - Никита Волков](https://www.youtube.com/playlist?list=PL4_hYwCyhAvbBOQIoB7fAkhtyNS_O4eJU)
+### [Статистические методы в биоинформатике 2. Методы поиска оценок и доверительных интервалов.](https://www.youtube.com/watch?v=hxiDxOsclh4&amp;list=PL4_hYwCyhAvbBOQIoB7fAkhtyNS_O4eJU&amp;index=2&amp;pp=iAQB)

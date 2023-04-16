@@ -1,0 +1,3 @@
+# [javabegin](https://www.youtube.com/@javabegin/playlists?view=1)
+## [Основы работы с базой данных PostgreSQL (2021)](https://www.youtube.com/playlist?list=PL8X2nqRlWfaZRM65hqNbm-HYUAK9J7uOi)
+### [Первичный ключ в таблице PostgreSQL (2021)](https://www.youtube.com/watch?v=pRa43sJmAv8&amp;list=PL8X2nqRlWfaZRM65hqNbm-HYUAK9J7uOi&amp;index=5&amp;pp=iAQB)

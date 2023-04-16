@@ -1,0 +1,8 @@
+### [Kotlin 1. Основы языка, интерфейс  IntelliJ IDEA.](https://www.youtube.com/watch?v=3gOWWB5SZcs&amp;list=PL4_hYwCyhAvZzRpbK4iTy9S6_OWZNEiVk&amp;index=1&amp;pp=iAQB)
+### [Kotlin 2. Устройство классов. Компиляция, исполнение программы](https://www.youtube.com/watch?v=K3_CYvV8yH8&amp;list=PL4_hYwCyhAvZzRpbK4iTy9S6_OWZNEiVk&amp;index=2&amp;pp=iAQB)
+### [Kotlin 3. Сборка проектов.](https://www.youtube.com/watch?v=hZ0gDidiFWY&amp;list=PL4_hYwCyhAvZzRpbK4iTy9S6_OWZNEiVk&amp;index=3&amp;pp=iAQB)
+### [Kotlin 4. Системы типов. Функции расширения](https://www.youtube.com/watch?v=C4qouKfY6-0&amp;list=PL4_hYwCyhAvZzRpbK4iTy9S6_OWZNEiVk&amp;index=4&amp;pp=iAQB)
+### [Kotlin 5. Реализация интегрирования функции методом Монте-Карло.](https://www.youtube.com/watch?v=y981SRXfa88&amp;list=PL4_hYwCyhAvZzRpbK4iTy9S6_OWZNEiVk&amp;index=5&amp;pp=iAQB)
+### [Kotlin 6. Kotlin native: Что это такое и зачем он нужен](https://www.youtube.com/watch?v=lcfgXgHPFio&amp;list=PL4_hYwCyhAvZzRpbK4iTy9S6_OWZNEiVk&amp;index=6&amp;pp=iAQB)
+### [Kotlin 7. Параллельные вычисления в kotlin.](https://www.youtube.com/watch?v=K_PAnaVyoco&amp;list=PL4_hYwCyhAvZzRpbK4iTy9S6_OWZNEiVk&amp;index=7&amp;pp=iAQB)
+### [Kotlin 8. Завершающее занятие](https://www.youtube.com/watch?v=O6XEEvcsvYA&amp;list=PL4_hYwCyhAvZzRpbK4iTy9S6_OWZNEiVk&amp;index=8&amp;pp=iAQB)

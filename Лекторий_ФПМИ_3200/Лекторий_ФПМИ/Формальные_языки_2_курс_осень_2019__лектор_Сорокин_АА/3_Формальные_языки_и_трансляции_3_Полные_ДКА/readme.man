@@ -1,0 +1,3 @@
+# [Лекторий ФПМИ](https://www.youtube.com/@lectory_fpmi/playlists?view=1)
+## [Формальные языки (2 курс, осень 2019) - лектор Сорокин А.А.](https://www.youtube.com/playlist?list=PL4_hYwCyhAvbl7pkWGbeOjWyU-z7hDnlb)
+### [Формальные языки и трансляции 3. Полные ДКА](https://www.youtube.com/watch?v=tVbnSkV48pY&amp;list=PL4_hYwCyhAvbl7pkWGbeOjWyU-z7hDnlb&amp;index=3&amp;pp=iAQB)

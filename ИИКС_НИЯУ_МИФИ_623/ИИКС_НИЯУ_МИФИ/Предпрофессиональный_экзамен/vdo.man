@@ -1,0 +1,7 @@
+### [Могучий нейрон. Разбираем предпроф МИФИ 2020. Программирование, Программная инженерия](https://www.youtube.com/watch?v=VqdU7Of2eSI&amp;list=PLrMb_y4Du4Jj4elRtmjEhAEfw0TPyVOC4&amp;index=1&amp;pp=iAQB)
+### [Ожидаемая зарплата. Разбираем предпроф МИФИ 2020. Программирование, Программная инженерия](https://www.youtube.com/watch?v=edHqZpU5cZ0&amp;list=PLrMb_y4Du4Jj4elRtmjEhAEfw0TPyVOC4&amp;index=2&amp;pp=iAQB)
+### [Сумма элементов. Разбираем предпроф МИФИ 2020. Программирование, Программная инженерия](https://www.youtube.com/watch?v=QNEEeN3brZI&amp;list=PLrMb_y4Du4Jj4elRtmjEhAEfw0TPyVOC4&amp;index=3&amp;pp=iAQB)
+### [Числовая последовательность. Разбираем предпроф МИФИ 2020. Программирование, Программная инженерия](https://www.youtube.com/watch?v=Ftun6848m94&amp;list=PLrMb_y4Du4Jj4elRtmjEhAEfw0TPyVOC4&amp;index=4&amp;pp=iAQB)
+### [Решим задачу: шаг градиентного спуска](https://www.youtube.com/watch?v=S-h64mzuUfY&amp;list=PLrMb_y4Du4Jj4elRtmjEhAEfw0TPyVOC4&amp;index=5&amp;pp=iAQB)
+### [Решим задачу: Свёрточный слой](https://www.youtube.com/watch?v=3D_OGm6BUJE&amp;list=PLrMb_y4Du4Jj4elRtmjEhAEfw0TPyVOC4&amp;index=6&amp;pp=iAQB)
+### [Решим задачу: мощность множества решений квадратного уравнения](https://www.youtube.com/watch?v=h5FAc9Cjc10&amp;list=PLrMb_y4Du4Jj4elRtmjEhAEfw0TPyVOC4&amp;index=7&amp;pp=iAQB)

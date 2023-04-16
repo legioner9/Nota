@@ -1,0 +1,3 @@
+# [Глеб Михайлов](https://www.youtube.com/@GlebMikhaylov/playlists)
+## [Тестовые по SQL](https://www.youtube.com/playlist?list=PLQJ7ptkRY-xaxhUTi2JEtn-0XfiIDGt75)
+### [Тестовое по ClickHouse | Ща порешаем! #34](https://www.youtube.com/watch?v=wQVYK5uG7gA&amp;list=PLQJ7ptkRY-xaxhUTi2JEtn-0XfiIDGt75&amp;index=9&amp;pp=iAQB)

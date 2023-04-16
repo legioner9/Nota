@@ -1,0 +1,6 @@
+### [Команда AWK bash скрипты по-взрослому.](https://www.youtube.com/watch?v=6rlCYIqILVE&amp;list=PLWCdmr_xDegfmNxUhbLAC4YxIvlnzY9U9&amp;index=1&amp;pp=iAQB)
+### [Редактируем текст в linux c SED](https://www.youtube.com/watch?v=rGLhkmF5nyY&amp;list=PLWCdmr_xDegfmNxUhbLAC4YxIvlnzY9U9&amp;index=2&amp;pp=iAQB)
+### [GREP регулярные выражения. Поиск в Linux](https://www.youtube.com/watch?v=PBkJIRmWynM&amp;list=PLWCdmr_xDegfmNxUhbLAC4YxIvlnzY9U9&amp;index=3&amp;pp=iAQB)
+### [Менеджер пакетов apt. Установка из ppa virtualbox](https://www.youtube.com/watch?v=a7hQnzF7ISs&amp;list=PLWCdmr_xDegfmNxUhbLAC4YxIvlnzY9U9&amp;index=4&amp;pp=iAQB)
+### [Запуск задач по расписанию linux. Cron и его маленький секрет](https://www.youtube.com/watch?v=ynK_9Q7tkVk&amp;list=PLWCdmr_xDegfmNxUhbLAC4YxIvlnzY9U9&amp;index=5&amp;pp=iAQB)
+### [Процессы Linux. От рождения до смерти. Делаем процесс милым (nice, renice)](https://www.youtube.com/watch?v=6-h6HtqPXNA&amp;list=PLWCdmr_xDegfmNxUhbLAC4YxIvlnzY9U9&amp;index=6&amp;pp=iAQB)

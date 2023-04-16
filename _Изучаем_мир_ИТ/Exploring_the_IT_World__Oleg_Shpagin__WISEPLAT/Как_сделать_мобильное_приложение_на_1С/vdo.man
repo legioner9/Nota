@@ -1,0 +1,8 @@
+### [Как создать мобильное приложение на 1С](https://www.youtube.com/watch?v=GjpiRpiaCj4&amp;list=PLxiU3nwEQ4PFOmhIx16cq7aG-jZeVzLDq&amp;index=1)
+### [Как подписать APK Android + Python](https://www.youtube.com/watch?v=rWOqTKBMJUs&amp;list=PLxiU3nwEQ4PFOmhIx16cq7aG-jZeVzLDq&amp;index=2)
+### [БИТВА с Google Play - Мобильное приложение на Python](https://www.youtube.com/watch?v=Xw_zV_Euy5w&amp;list=PLxiU3nwEQ4PFOmhIx16cq7aG-jZeVzLDq&amp;index=3)
+### [Мобильное приложение на Python отклонено Google Play Что делать?](https://www.youtube.com/watch?v=v71Ea0evldE&amp;list=PLxiU3nwEQ4PFOmhIx16cq7aG-jZeVzLDq&amp;index=4)
+### [Публикация мобильного приложения на Google Play Market #2 💥 уроки Python](https://www.youtube.com/watch?v=1yst3givwy0&amp;list=PLxiU3nwEQ4PFOmhIx16cq7aG-jZeVzLDq&amp;index=5)
+### [Публикация мобильного приложения на Google Play 💥 уроки Python](https://www.youtube.com/watch?v=BHlCMdRuhiM&amp;list=PLxiU3nwEQ4PFOmhIx16cq7aG-jZeVzLDq&amp;index=6)
+### [Ошибки при компиляции Python в мобильное приложение](https://www.youtube.com/watch?v=7Aj0VoTtyzM&amp;list=PLxiU3nwEQ4PFOmhIx16cq7aG-jZeVzLDq&amp;index=7)
+### [Как скомпилировать Python в мобильное приложение](https://www.youtube.com/watch?v=GfeHPcH0qvQ&amp;list=PLxiU3nwEQ4PFOmhIx16cq7aG-jZeVzLDq&amp;index=8)

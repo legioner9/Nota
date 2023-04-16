@@ -1,0 +1,3 @@
+# [Лекторий ФПМИ](https://www.youtube.com/@lectory_fpmi/playlists?view=1)
+## [Продвинутое программирование на С++ (1 курс, весна 2021)](https://www.youtube.com/playlist?list=PL4_hYwCyhAvYTzwME4vQoDO8ZINM5trra)
+### [C++ 22. Внутреннее устройство vector](https://www.youtube.com/watch?v=_wE7JYfcKN0&amp;list=PL4_hYwCyhAvYTzwME4vQoDO8ZINM5trra&amp;index=3&amp;pp=iAQB)

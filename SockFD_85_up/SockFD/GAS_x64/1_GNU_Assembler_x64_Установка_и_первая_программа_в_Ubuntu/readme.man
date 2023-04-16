@@ -1,0 +1,3 @@
+# [SockFD](https://www.youtube.com/@sockfd/playlists)
+## [GAS x64](https://www.youtube.com/playlist?list=PL74QQzBTjH9PaC9sxDXpqXDqVvUkOqsj9)
+### [GNU Assembler x64. Установка и первая программа в Ubuntu](https://www.youtube.com/watch?v=NT-N7bW1r_U&amp;list=PL74QQzBTjH9PaC9sxDXpqXDqVvUkOqsj9&amp;index=1&amp;pp=iAQB)

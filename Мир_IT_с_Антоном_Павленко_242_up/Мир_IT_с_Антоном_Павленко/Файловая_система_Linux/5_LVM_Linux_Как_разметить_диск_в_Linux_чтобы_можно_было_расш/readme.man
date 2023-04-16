@@ -1,0 +1,3 @@
+# [Мир IT с Антоном Павленко](https://www.youtube.com/@pavlenkoat/playlists)
+## [Файловая система Linux](https://www.youtube.com/playlist?list=PLWCdmr_xDegd7e_3as8ERlwNxOEqx1vRy)
+### [LVM Linux. Как разметить диск в Linux чтобы можно было расширить?](https://www.youtube.com/watch?v=6nB_W6qz2gg&amp;list=PLWCdmr_xDegd7e_3as8ERlwNxOEqx1vRy&amp;index=5&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [Лекторий ФПМИ](https://www.youtube.com/@lectory_fpmi/playlists?view=1)
+## [Алгоритмы и структуры данных (2 курс, осень 2021) - Степанов И. Д.](https://www.youtube.com/playlist?list=PL4_hYwCyhAvY4u3TUOD4rYoMpwlwP1CC2)
+### [Алгоритмы и структуры данных 5. Суффиксный автомат](https://www.youtube.com/watch?v=yNLMx-ZhSIk&amp;list=PL4_hYwCyhAvY4u3TUOD4rYoMpwlwP1CC2&amp;index=5&amp;pp=iAQB)

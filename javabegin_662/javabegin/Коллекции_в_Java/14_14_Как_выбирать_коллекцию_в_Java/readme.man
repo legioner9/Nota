@@ -1,0 +1,3 @@
+# [javabegin](https://www.youtube.com/@javabegin/playlists?view=1)
+## [Коллекции в Java](https://www.youtube.com/playlist?list=PL8X2nqRlWfab2fMfRCADxQfUUPyaAe842)
+### [14 Как выбирать коллекцию в Java](https://www.youtube.com/watch?v=aD0q4WbK8lU&amp;list=PL8X2nqRlWfab2fMfRCADxQfUUPyaAe842&amp;index=14&amp;pp=iAQB)

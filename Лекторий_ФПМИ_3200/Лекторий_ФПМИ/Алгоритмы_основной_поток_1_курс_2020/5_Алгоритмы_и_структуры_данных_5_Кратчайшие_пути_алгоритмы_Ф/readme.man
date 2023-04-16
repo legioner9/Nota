@@ -1,0 +1,3 @@
+# [Лекторий ФПМИ](https://www.youtube.com/@lectory_fpmi/playlists?view=1)
+## [Алгоритмы, основной поток (1 курс, 2020)](https://www.youtube.com/playlist?list=PL4_hYwCyhAvaIDzD0DaekAzp23WOjeo09)
+### [Алгоритмы и структуры данных 5. Кратчайшие пути, алгоритмы Форда-Беллмана и Флойда.](https://www.youtube.com/watch?v=3WtlI4fnr4o&amp;list=PL4_hYwCyhAvaIDzD0DaekAzp23WOjeo09&amp;index=5&amp;pp=iAQB)

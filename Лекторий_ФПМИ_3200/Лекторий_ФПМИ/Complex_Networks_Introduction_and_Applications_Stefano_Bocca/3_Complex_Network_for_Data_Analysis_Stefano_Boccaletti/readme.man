@@ -1,0 +1,3 @@
+# [Лекторий ФПМИ](https://www.youtube.com/@lectory_fpmi/playlists?view=1)
+## [Complex Networks: Introduction and Applications. Stefano Boccaletti](https://www.youtube.com/playlist?list=PL4_hYwCyhAvYRMcCHSVbghzmpa8gOtli4)
+### [Complex Network for Data Analysis. Stefano Boccaletti](https://www.youtube.com/watch?v=dPbPzpDCM40&amp;list=PL4_hYwCyhAvYRMcCHSVbghzmpa8gOtli4&amp;index=3&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [Лекторий ФПМИ](https://www.youtube.com/@lectory_fpmi/playlists?view=1)
+## [Семинары АиСД (продвинутый поток)](https://www.youtube.com/playlist?list=PL4_hYwCyhAvYj1kaQ7FRLWjiAd2MKmjQV)
+### [Семинар по АиСД (продвинутый поток). Асимптотика потоковых алгоритмов в различных задачах.](https://www.youtube.com/watch?v=5LL_-APqnzc&amp;list=PL4_hYwCyhAvYj1kaQ7FRLWjiAd2MKmjQV&amp;index=4&amp;pp=iAQB)

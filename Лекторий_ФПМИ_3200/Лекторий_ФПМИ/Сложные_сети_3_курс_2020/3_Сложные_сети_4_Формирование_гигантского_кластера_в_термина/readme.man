@@ -1,0 +1,3 @@
+# [Лекторий ФПМИ](https://www.youtube.com/@lectory_fpmi/playlists?view=1)
+## [Сложные сети (3 курс, 2020)](https://www.youtube.com/playlist?list=PL4_hYwCyhAvZPsb6opPT3POhmJeWu1TEP)
+### [Сложные сети 4. Формирование гигантского кластера в терминах производящих функций.](https://www.youtube.com/watch?v=w_m2LcP7zFI&amp;list=PL4_hYwCyhAvZPsb6opPT3POhmJeWu1TEP&amp;index=3&amp;pp=iAQB)

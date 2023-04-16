@@ -1,0 +1,3 @@
+# [Быть Программистом](https://www.youtube.com/@bedeveloper/playlists?view=1)
+## [Настоящий .php](https://www.youtube.com/playlist?list=PL2CKgzoZxvxWW_s7Vq7axPYiH1aiF1qjj)
+### [Как устроен интернет? Протоколы передачи данных TCP/IP/HTTP. DNS и Доменные имена](https://www.youtube.com/watch?v=wshk0hSDSdo&amp;list=PL2CKgzoZxvxWW_s7Vq7axPYiH1aiF1qjj&amp;index=1&amp;pp=iAQB)

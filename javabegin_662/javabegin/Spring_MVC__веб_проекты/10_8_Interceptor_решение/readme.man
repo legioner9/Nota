@@ -1,0 +1,3 @@
+# [javabegin](https://www.youtube.com/@javabegin/playlists?view=1)
+## [Spring MVC - веб проекты](https://www.youtube.com/playlist?list=PL8X2nqRlWfaYbxWgX1OzcuD3Ewfq8EYrC)
+### [8 Interceptor решение](https://www.youtube.com/watch?v=yxAbGoIpHfc&amp;list=PL8X2nqRlWfaYbxWgX1OzcuD3Ewfq8EYrC&amp;index=10&amp;pp=iAQB)

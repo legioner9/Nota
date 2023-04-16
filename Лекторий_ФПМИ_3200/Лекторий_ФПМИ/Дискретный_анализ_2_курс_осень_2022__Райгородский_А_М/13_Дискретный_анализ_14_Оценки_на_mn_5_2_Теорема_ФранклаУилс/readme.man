@@ -1,0 +1,3 @@
+# [Лекторий ФПМИ](https://www.youtube.com/@lectory_fpmi/playlists?view=1)
+## [Дискретный анализ (2 курс, осень 2022) — Райгородский А. М.](https://www.youtube.com/playlist?list=PL4_hYwCyhAvbPEUM7bPJGR5pUzJL5YvQw)
+### [Дискретный анализ 14. Оценки на m(n, 5, 2). Теорема Франкла-Уилсона](https://www.youtube.com/watch?v=J91WOx9-vDg&amp;list=PL4_hYwCyhAvbPEUM7bPJGR5pUzJL5YvQw&amp;index=13&amp;pp=iAQB)

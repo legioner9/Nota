@@ -1,0 +1,3 @@
+# [Andrey Sozykin](https://www.youtube.com/@AndreySozykin/playlists?view=1)
+## [Нейросети для анализа изображений](https://www.youtube.com/playlist?list=PLtPJ9lKvJ4oi5ATzKmmp6FznCHmnhVoey)
+### [Как подготовить свой набор изображений в Keras  | Глубокие нейронные сети на Python](https://www.youtube.com/watch?v=_bH2oh75Kdo&amp;list=PLtPJ9lKvJ4oi5ATzKmmp6FznCHmnhVoey&amp;index=4&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [Лекторий ФПМИ](https://www.youtube.com/@lectory_fpmi/playlists?view=1)
+## [Формальные языки и трансляции (2 курс, осень 2021) - Ахтямов П. И.](https://www.youtube.com/playlist?list=PL4_hYwCyhAvYkVw2wY5Ax6Mq79vBGbze3)
+### [Формальные языки 2. Свойства конечных автоматов](https://www.youtube.com/watch?v=Bd_MKc2WF90&amp;list=PL4_hYwCyhAvYkVw2wY5Ax6Mq79vBGbze3&amp;index=2&amp;pp=iAQB)

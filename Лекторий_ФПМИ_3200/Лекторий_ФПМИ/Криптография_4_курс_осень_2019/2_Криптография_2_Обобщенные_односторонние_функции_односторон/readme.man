@@ -1,0 +1,3 @@
+# [Лекторий ФПМИ](https://www.youtube.com/@lectory_fpmi/playlists?view=1)
+## [Криптография (4 курс, осень 2019)](https://www.youtube.com/playlist?list=PL4_hYwCyhAvZqc_y1RJkeCeU5JhYMFwq4)
+### [Криптография 2. Обобщенные односторонние функции, односторонние перестановки, ГПСЧ](https://www.youtube.com/watch?v=xFH2BfJyk24&amp;list=PL4_hYwCyhAvZqc_y1RJkeCeU5JhYMFwq4&amp;index=2&amp;pp=iAQB)

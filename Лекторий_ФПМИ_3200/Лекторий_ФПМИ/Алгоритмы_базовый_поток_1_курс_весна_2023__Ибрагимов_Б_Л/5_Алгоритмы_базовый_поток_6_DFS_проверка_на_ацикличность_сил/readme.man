@@ -1,0 +1,3 @@
+# [Лекторий ФПМИ](https://www.youtube.com/@lectory_fpmi/playlists?view=1)
+## [Алгоритмы (базовый поток) (1 курс, весна 2023) - Ибрагимов Б. Л.](https://www.youtube.com/playlist?list=PL4_hYwCyhAvYnTuFntl1nQARzYfa7fryW)
+### [Алгоритмы (базовый поток) 6. DFS, проверка на ацикличность, сильная и слабая связанность, применения](https://www.youtube.com/watch?v=q9l1mHsz0k8&amp;list=PL4_hYwCyhAvYnTuFntl1nQARzYfa7fryW&amp;index=5&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [Лекторий ФПМИ](https://www.youtube.com/@lectory_fpmi/playlists?view=1)
+## [Программирование на Rust (3 курс, весна 2022) - Становой А.](https://www.youtube.com/playlist?list=PL4_hYwCyhAvbeLzi699gqMUA4UaPkcdmJ)
+### [Программирование на Rust 1. Intro](https://www.youtube.com/watch?v=XDv4I3_4Ubs&amp;list=PL4_hYwCyhAvbeLzi699gqMUA4UaPkcdmJ&amp;index=1&amp;pp=iAQB)

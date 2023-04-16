@@ -1,0 +1,3 @@
+### [Complex Networks: Introduction and mathematical description (I &amp; II). Stefano Boccaletti](https://www.youtube.com/watch?v=Pa3D6N1Tka4&amp;list=PL4_hYwCyhAvYRMcCHSVbghzmpa8gOtli4&amp;index=1&amp;pp=iAQB)
+### [Synchronization in complex networks: the Master Stability Function. Stefano Boccaletti](https://www.youtube.com/watch?v=mi9TUwmwbXE&amp;list=PL4_hYwCyhAvYRMcCHSVbghzmpa8gOtli4&amp;index=2&amp;pp=iAQB)
+### [Complex Network for Data Analysis. Stefano Boccaletti](https://www.youtube.com/watch?v=dPbPzpDCM40&amp;list=PL4_hYwCyhAvYRMcCHSVbghzmpa8gOtli4&amp;index=3&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [Лекторий ФПМИ](https://www.youtube.com/@lectory_fpmi/playlists?view=1)
+## [(семинары) Технологии программирования. (1 курс, весна 2019), лектор -- Старичков](https://www.youtube.com/playlist?list=PL4_hYwCyhAvYGUkQNaw9YOUdtvT9eWKU0)
+### [Технологии программирования. Семинар 5. Утечки памяти. Паттерны](https://www.youtube.com/watch?v=_9a_W0DdT8s&amp;list=PL4_hYwCyhAvYGUkQNaw9YOUdtvT9eWKU0&amp;index=4&amp;pp=iAQB)

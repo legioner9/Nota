@@ -1,0 +1,3 @@
+# [Компьютер - это просто!](https://www.youtube.com/@it-black/playlists)
+## [CISCO Firepower](https://www.youtube.com/playlist?list=PLh6tZVFnHXkpOhDbwAqgsrdALlPgbclmH)
+### [Установка Cisco FirePOWER на VMware ESXi.](https://www.youtube.com/watch?v=upciFHaE7wc&amp;list=PLh6tZVFnHXkpOhDbwAqgsrdALlPgbclmH&amp;index=1&amp;pp=iAQB)

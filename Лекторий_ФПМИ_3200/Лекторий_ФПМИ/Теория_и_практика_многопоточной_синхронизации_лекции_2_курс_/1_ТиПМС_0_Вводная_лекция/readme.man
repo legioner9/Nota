@@ -1,0 +1,3 @@
+# [Лекторий ФПМИ](https://www.youtube.com/@lectory_fpmi/playlists?view=1)
+## [Теория и практика многопоточной синхронизации (лекции) (2 курс, весна 2021), лектор - Роман Липовский](https://www.youtube.com/playlist?list=PL4_hYwCyhAvb7P8guwSTaaUS8EcOaWjxF)
+### [ТиПМС 0. Вводная лекция](https://www.youtube.com/watch?v=lvXXA9qI8HY&amp;list=PL4_hYwCyhAvb7P8guwSTaaUS8EcOaWjxF&amp;index=1&amp;pp=iAQB)

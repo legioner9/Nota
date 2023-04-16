@@ -1,0 +1,3 @@
+# [Django School](https://www.youtube.com/@DjangoSchool/playlists?view=1)
+## [Django Ninja rest api](https://www.youtube.com/playlist?list=PLF-NY6ldwAWrqI91iSRk0jqbhsYQlh1_Q)
+### [Создание rest api на Django Ninja | django async | #1](https://www.youtube.com/watch?v=WN1ivx1rx-I&amp;list=PLF-NY6ldwAWrqI91iSRk0jqbhsYQlh1_Q&amp;index=1)

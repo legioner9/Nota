@@ -1,0 +1,3 @@
+# [Михаил Непомнящий](https://www.youtube.com/@mishanep/playlists)
+## [React + Redux](https://www.youtube.com/playlist?list=PLiZoB8JBsdznQv3kAEvTzDP2qjaUI8Vo7)
+### [RTK Query или альтернативный Redux по работе с API](https://www.youtube.com/watch?v=uSwe-5dPrV8&amp;list=PLiZoB8JBsdznQv3kAEvTzDP2qjaUI8Vo7&amp;index=3&amp;pp=iAQB)

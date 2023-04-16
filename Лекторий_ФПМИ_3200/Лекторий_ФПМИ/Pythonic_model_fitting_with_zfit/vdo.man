@@ -1,0 +1,5 @@
+### [Pythonic model fitting with zfit. Introduction to zfit. Talk](https://www.youtube.com/watch?v=1MU1OoeuLLQ&amp;list=PL4_hYwCyhAvaDSZ2kBe-ddyYC2u4MJ6d9&amp;index=1&amp;pp=iAQB)
+### [Pythonic model fitting with zfit. zfit introduction. Tutorial 1](https://www.youtube.com/watch?v=TMRlWy6Fc9Q&amp;list=PL4_hYwCyhAvaDSZ2kBe-ddyYC2u4MJ6d9&amp;index=2&amp;pp=iAQB)
+### [Pythonic model fitting with zfit. zfit constraints simultaneous. Tutorial 2](https://www.youtube.com/watch?v=IhQRWK2bx4o&amp;list=PL4_hYwCyhAvaDSZ2kBe-ddyYC2u4MJ6d9&amp;index=3&amp;pp=iAQB)
+### [Pythonic model fitting with zfit. zfit custom models. Tutorial 3](https://www.youtube.com/watch?v=PPsJkBUvSK8&amp;list=PL4_hYwCyhAvaDSZ2kBe-ddyYC2u4MJ6d9&amp;index=4&amp;pp=iAQB)
+### [Pythonic model fitting with zfit. zfit toy studies. Tutorial 4](https://www.youtube.com/watch?v=mPRD_a4xfKo&amp;list=PL4_hYwCyhAvaDSZ2kBe-ddyYC2u4MJ6d9&amp;index=5&amp;pp=iAQB)

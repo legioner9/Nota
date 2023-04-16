@@ -1,0 +1,3 @@
+# [Какие-то уроки](https://www.youtube.com/@kakieToYroki/playlists?view=1&sort=dd&shelf_id=0)
+## [Уроки по CSS для НАЧИНАЮЩИХ](https://www.youtube.com/playlist?list=PL6NCtzCz-4pQZ-uueXnuIcQMs085CAhty)
+### [#2. Уроки по CSS для НАЧИНАЮЩИХ (id, class, rgb, rgba, hex)](https://www.youtube.com/watch?v=3aYrQwY0fL0&amp;list=PL6NCtzCz-4pQZ-uueXnuIcQMs085CAhty&amp;index=2&amp;pp=iAQB)

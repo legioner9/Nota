@@ -1,0 +1,3 @@
+# [Django School](https://www.youtube.com/@DjangoSchool/playlists?view=1)
+## [Masonite 4](https://www.youtube.com/playlist?list=PLF-NY6ldwAWp2MeIx20btm6n2ZmCd9fBp)
+### [Masonite 4 groups routes | Models Masonite methods | Lesson 4](https://www.youtube.com/watch?v=r1YZRe4Jmyc&amp;list=PLF-NY6ldwAWp2MeIx20btm6n2ZmCd9fBp&amp;index=4)

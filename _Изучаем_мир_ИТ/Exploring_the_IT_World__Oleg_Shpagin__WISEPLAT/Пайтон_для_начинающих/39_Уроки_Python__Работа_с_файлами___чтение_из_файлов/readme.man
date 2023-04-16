@@ -1,0 +1,3 @@
+# [Exploring the IT World / Oleg Shpagin / WISEPLAT](https://www.youtube.com/@wiseplat/playlists)
+## [Пайтон для начинающих](https://www.youtube.com/playlist?list=PLxiU3nwEQ4PHpI7lClbPX85jE6sAk1G4F)
+### [Уроки Python / Работа с файлами   чтение из файлов](https://www.youtube.com/watch?v=7-rVPqE5YOk&amp;list=PLxiU3nwEQ4PHpI7lClbPX85jE6sAk1G4F&amp;index=39)

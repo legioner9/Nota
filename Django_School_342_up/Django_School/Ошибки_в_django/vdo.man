@@ -1,0 +1,1 @@
+### [Ошибка TemplateDoesNotExist в django.](https://www.youtube.com/watch?v=gstSQBISTd0&amp;list=PLF-NY6ldwAWqBBOnE7gGlHgOBy7Zwcl8g&amp;index=1)

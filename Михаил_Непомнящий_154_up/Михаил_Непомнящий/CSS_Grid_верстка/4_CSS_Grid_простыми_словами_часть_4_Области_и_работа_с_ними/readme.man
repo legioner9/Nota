@@ -1,0 +1,3 @@
+# [Михаил Непомнящий](https://www.youtube.com/@mishanep/playlists)
+## [CSS Grid верстка](https://www.youtube.com/playlist?list=PLiZoB8JBsdzk7yebGLJSgZiGXty6YDPBD)
+### [CSS Grid простыми словами, часть 4. Области и работа с ними](https://www.youtube.com/watch?v=uo0RVFpGVDo&amp;list=PLiZoB8JBsdzk7yebGLJSgZiGXty6YDPBD&amp;index=4&amp;pp=iAQB)

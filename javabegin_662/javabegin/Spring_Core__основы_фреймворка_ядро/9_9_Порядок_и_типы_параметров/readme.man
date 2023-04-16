@@ -1,0 +1,3 @@
+# [javabegin](https://www.youtube.com/@javabegin/playlists?view=1)
+## [Spring Core - основы фреймворка, ядро](https://www.youtube.com/playlist?list=PL8X2nqRlWfaYYP1-qXjdPKE7bXYkl6aL4)
+### [9 Порядок и типы параметров](https://www.youtube.com/watch?v=jLBGm-mB7g0&amp;list=PL8X2nqRlWfaYYP1-qXjdPKE7bXYkl6aL4&amp;index=9&amp;pp=iAQB)

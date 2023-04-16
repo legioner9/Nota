@@ -1,0 +1,4 @@
+### [Семинар по АиСД (продвинутый поток). Геометрия.](https://www.youtube.com/watch?v=28tz6zhCa-A&amp;list=PL4_hYwCyhAvYj1kaQ7FRLWjiAd2MKmjQV&amp;index=1&amp;pp=iAQB)
+### [Семинар по АиСД (продвинутый поток). Выпуклая оболочка. Потоки.](https://www.youtube.com/watch?v=Va-iGz_Su8Q&amp;list=PL4_hYwCyhAvYj1kaQ7FRLWjiAd2MKmjQV&amp;index=2&amp;pp=iAQB)
+### [Семинар по АиСД (продвинутый поток). Решение задач на потоки. Паросочетания.](https://www.youtube.com/watch?v=-A0upPE2_eQ&amp;list=PL4_hYwCyhAvYj1kaQ7FRLWjiAd2MKmjQV&amp;index=3&amp;pp=iAQB)
+### [Семинар по АиСД (продвинутый поток). Асимптотика потоковых алгоритмов в различных задачах.](https://www.youtube.com/watch?v=5LL_-APqnzc&amp;list=PL4_hYwCyhAvYj1kaQ7FRLWjiAd2MKmjQV&amp;index=4&amp;pp=iAQB)

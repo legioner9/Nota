@@ -1,0 +1,3 @@
+# [Компьютер - это просто!](https://www.youtube.com/@it-black/playlists)
+## [Python](https://www.youtube.com/playlist?list=PLh6tZVFnHXkril4XyWsqbIe1wOL8epVS9)
+### [Цикл For в Python.](https://www.youtube.com/watch?v=pzf3lVqcC5Y&amp;list=PLh6tZVFnHXkril4XyWsqbIe1wOL8epVS9&amp;index=16&amp;pp=iAQB)

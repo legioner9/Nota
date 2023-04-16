@@ -1,0 +1,3 @@
+# [Лекторий ФПМИ](https://www.youtube.com/@lectory_fpmi/playlists?view=1)
+## [TFTDS (семинары, 3 курс, осень 2020), семинарист Роман Липовский](https://www.youtube.com/playlist?list=PL4_hYwCyhAvZTjajkPpwgR29jyx81lMCl)
+### [TFTDS. Семинар 12. Multi-Paxos. Обсуждение ДЗ. Часть 2](https://www.youtube.com/watch?v=EwaSu_D85ZM&amp;list=PL4_hYwCyhAvZTjajkPpwgR29jyx81lMCl&amp;index=13&amp;pp=iAQB)

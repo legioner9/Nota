@@ -1,0 +1,3 @@
+# [Andrey Sozykin](https://www.youtube.com/@AndreySozykin/playlists?view=1)
+## [Нейросети в Google Colab](https://www.youtube.com/playlist?list=PLtPJ9lKvJ4ogxwKJh6WToi1wBgmCpPtYM)
+### [Соревнования на Kaggle по распознаванию рукописных цифр | Нейросети в Google Colab](https://www.youtube.com/watch?v=zO0RAtZRkpc&amp;list=PLtPJ9lKvJ4ogxwKJh6WToi1wBgmCpPtYM&amp;index=4&amp;pp=iAQB)

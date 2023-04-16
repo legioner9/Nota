@@ -1,0 +1,3 @@
+# [webDev](https://www.youtube.com/@YauhenKavalchuk/playlists?view=1)
+## [Node.js](https://www.youtube.com/playlist?list=PLNkWIWHIRwMFtsaJ4b_wwkJDHKJeuAkP0)
+### [Node.js #6 Буфер и потоки (Buffer &amp; Streams)](https://www.youtube.com/watch?v=r--VL8JywyA&amp;list=PLNkWIWHIRwMFtsaJ4b_wwkJDHKJeuAkP0&amp;index=7)

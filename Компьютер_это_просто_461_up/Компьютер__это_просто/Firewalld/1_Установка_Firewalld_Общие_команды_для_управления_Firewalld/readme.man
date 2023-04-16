@@ -1,0 +1,3 @@
+# [Компьютер - это просто!](https://www.youtube.com/@it-black/playlists)
+## [Firewalld](https://www.youtube.com/playlist?list=PLh6tZVFnHXkpKuh9f-IKF1pOlWPyto1ra)
+### [Установка Firewalld. Общие команды для управления Firewalld.](https://www.youtube.com/watch?v=kf3W1szxTHc&amp;list=PLh6tZVFnHXkpKuh9f-IKF1pOlWPyto1ra&amp;index=1&amp;pp=iAQB)
