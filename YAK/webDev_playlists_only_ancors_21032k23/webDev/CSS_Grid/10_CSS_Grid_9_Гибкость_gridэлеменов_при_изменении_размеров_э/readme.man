@@ -1,3 +1,0 @@
-# [webDev](https://www.youtube.com/@YauhenKavalchuk/playlists?view=1)
-## [CSS Grid](https://www.youtube.com/playlist?list=PLNkWIWHIRwMHlq6yOP65F_rNH5wID1U21)
-### [CSS Grid #9 Гибкость grid-элеменов при изменении размеров экрана (Auto-fill &amp; Auto-fit)](https://www.youtube.com/watch?v=Ee2SWlquOQU&amp;list=PLNkWIWHIRwMHlq6yOP65F_rNH5wID1U21&amp;index=10)

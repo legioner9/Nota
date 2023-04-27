@@ -1,3 +1,0 @@
-# [webDev](https://www.youtube.com/@YauhenKavalchuk/playlists?view=1)
-## [TailwindCSS](https://www.youtube.com/playlist?list=PLNkWIWHIRwMFN8qKfZ5Lgr29L5BoJKFfa)
-### [TailwindCSS #13 Плавные переходы (Transitions)](https://www.youtube.com/watch?v=w0DOvTtZ3_c&amp;list=PLNkWIWHIRwMFN8qKfZ5Lgr29L5BoJKFfa&amp;index=14)

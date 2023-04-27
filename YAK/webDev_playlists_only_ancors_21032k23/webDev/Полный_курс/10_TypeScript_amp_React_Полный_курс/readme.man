@@ -1,3 +1,0 @@
-# [webDev](https://www.youtube.com/@YauhenKavalchuk/playlists?view=1)
-## [Полный курс](https://www.youtube.com/playlist?list=PLNkWIWHIRwMFKmmIPVaCPpusgloMMgxN2)
-### [TypeScript &amp; React. Полный курс](https://www.youtube.com/watch?v=xL-a5Tox7Qw&amp;list=PLNkWIWHIRwMFKmmIPVaCPpusgloMMgxN2&amp;index=10)

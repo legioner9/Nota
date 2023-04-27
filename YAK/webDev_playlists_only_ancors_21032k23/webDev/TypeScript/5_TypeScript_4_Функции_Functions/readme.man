@@ -1,3 +1,0 @@
-# [webDev](https://www.youtube.com/@YauhenKavalchuk/playlists?view=1)
-## [TypeScript](https://www.youtube.com/playlist?list=PLNkWIWHIRwMEm1FgiLjHqSky27x5rXvQa)
-### [TypeScript #4 Функции (Functions)](https://www.youtube.com/watch?v=qrIuuJc2Zc8&amp;list=PLNkWIWHIRwMEm1FgiLjHqSky27x5rXvQa&amp;index=5)

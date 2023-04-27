@@ -1,3 +1,0 @@
-# [webDev](https://www.youtube.com/@YauhenKavalchuk/playlists?view=1)
-## [TailwindCSS](https://www.youtube.com/playlist?list=PLNkWIWHIRwMFN8qKfZ5Lgr29L5BoJKFfa)
-### [TailwindCSS #15 Пользовательские настройки (Customization)](https://www.youtube.com/watch?v=vtWafRDajD0&amp;list=PLNkWIWHIRwMFN8qKfZ5Lgr29L5BoJKFfa&amp;index=16)

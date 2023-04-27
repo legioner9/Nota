@@ -1,3 +1,0 @@
-# [webDev](https://www.youtube.com/@YauhenKavalchuk/playlists?view=1)
-## [JavaScript](https://www.youtube.com/playlist?list=PLNkWIWHIRwMHKLotIS_d-wyj00pg0AnUg)
-### [JavaScript #9 Функции: Замыкания, области видимости, лексическое окружение](https://www.youtube.com/watch?v=tCGiKGNmMbE&amp;list=PLNkWIWHIRwMHKLotIS_d-wyj00pg0AnUg&amp;index=10)

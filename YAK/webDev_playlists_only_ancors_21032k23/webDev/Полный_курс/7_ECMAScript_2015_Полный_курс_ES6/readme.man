@@ -1,3 +1,0 @@
-# [webDev](https://www.youtube.com/@YauhenKavalchuk/playlists?view=1)
-## [Полный курс](https://www.youtube.com/playlist?list=PLNkWIWHIRwMFKmmIPVaCPpusgloMMgxN2)
-### [ECMAScript 2015. Полный курс (ES6)](https://www.youtube.com/watch?v=TvgkcaaMLcc&amp;list=PLNkWIWHIRwMFKmmIPVaCPpusgloMMgxN2&amp;index=7)

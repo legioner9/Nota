@@ -1,3 +1,0 @@
-# [webDev](https://www.youtube.com/@YauhenKavalchuk/playlists?view=1)
-## [MobX & React](https://www.youtube.com/playlist?list=PLNkWIWHIRwMFK-Gpb4NE45_1_Himhyi-K)
-### [MobX + React #0 Введение (Introduction)](https://www.youtube.com/watch?v=SKy3vXLh8A8&amp;list=PLNkWIWHIRwMFK-Gpb4NE45_1_Himhyi-K&amp;index=1)

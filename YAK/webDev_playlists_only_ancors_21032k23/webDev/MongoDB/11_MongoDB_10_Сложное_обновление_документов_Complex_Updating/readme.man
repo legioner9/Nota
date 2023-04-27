@@ -1,3 +1,0 @@
-# [webDev](https://www.youtube.com/@YauhenKavalchuk/playlists?view=1)
-## [MongoDB](https://www.youtube.com/playlist?list=PLNkWIWHIRwMFJ-3-gI7GC5JDg1ivbIKNR)
-### [MongoDB #10 Сложное обновление документов (Complex Updating Documents)](https://www.youtube.com/watch?v=Oa-ql4mFGgw&amp;list=PLNkWIWHIRwMFJ-3-gI7GC5JDg1ivbIKNR&amp;index=11)

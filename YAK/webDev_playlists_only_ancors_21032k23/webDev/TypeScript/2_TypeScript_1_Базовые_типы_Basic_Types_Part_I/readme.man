@@ -1,3 +1,0 @@
-# [webDev](https://www.youtube.com/@YauhenKavalchuk/playlists?view=1)
-## [TypeScript](https://www.youtube.com/playlist?list=PLNkWIWHIRwMEm1FgiLjHqSky27x5rXvQa)
-### [TypeScript #1 Базовые типы (Basic Types. Part I)](https://www.youtube.com/watch?v=iugNHvMWBw4&amp;list=PLNkWIWHIRwMEm1FgiLjHqSky27x5rXvQa&amp;index=2)

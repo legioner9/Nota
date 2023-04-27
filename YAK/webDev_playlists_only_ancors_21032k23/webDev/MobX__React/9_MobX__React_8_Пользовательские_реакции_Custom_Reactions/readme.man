@@ -1,3 +1,0 @@
-# [webDev](https://www.youtube.com/@YauhenKavalchuk/playlists?view=1)
-## [MobX & React](https://www.youtube.com/playlist?list=PLNkWIWHIRwMFK-Gpb4NE45_1_Himhyi-K)
-### [MobX + React #8 Пользовательские реакции (Custom Reactions)](https://www.youtube.com/watch?v=YBaDerUNQCw&amp;list=PLNkWIWHIRwMFK-Gpb4NE45_1_Himhyi-K&amp;index=9)

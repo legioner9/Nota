@@ -1,3 +1,0 @@
-# [webDev](https://www.youtube.com/@YauhenKavalchuk/playlists?view=1)
-## [HTML5](https://www.youtube.com/playlist?list=PLNkWIWHIRwMFtHHg0amAgocYP-kZypbY7)
-### [HTML5 #2 Мета-данные и внешние импорты (Meta Data &amp; External Imports)](https://www.youtube.com/watch?v=RTqHlz8VsQA&amp;list=PLNkWIWHIRwMFtHHg0amAgocYP-kZypbY7&amp;index=3)

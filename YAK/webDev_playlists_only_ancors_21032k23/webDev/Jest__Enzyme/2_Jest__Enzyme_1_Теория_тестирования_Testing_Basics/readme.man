@@ -1,3 +1,0 @@
-# [webDev](https://www.youtube.com/@YauhenKavalchuk/playlists?view=1)
-## [Jest & Enzyme](https://www.youtube.com/playlist?list=PLNkWIWHIRwMFPcbK0AJVBYyNveXmMZhMS)
-### [Jest + Enzyme #1 Теория тестирования (Testing Basics)](https://www.youtube.com/watch?v=T7E6rb8uvB0&amp;list=PLNkWIWHIRwMFPcbK0AJVBYyNveXmMZhMS&amp;index=2)

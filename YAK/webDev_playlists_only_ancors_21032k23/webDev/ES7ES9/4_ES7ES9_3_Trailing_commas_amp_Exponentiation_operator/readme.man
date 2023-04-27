@@ -1,3 +1,0 @@
-# [webDev](https://www.youtube.com/@YauhenKavalchuk/playlists?view=1)
-## [ES7-ES9](https://www.youtube.com/playlist?list=PLNkWIWHIRwMH_05WTvIX419odDtStynm3)
-### [ES7-ES9 #3 Trailing commas &amp; Exponentiation operator](https://www.youtube.com/watch?v=gmVLp3ZVYZk&amp;list=PLNkWIWHIRwMH_05WTvIX419odDtStynm3&amp;index=4)

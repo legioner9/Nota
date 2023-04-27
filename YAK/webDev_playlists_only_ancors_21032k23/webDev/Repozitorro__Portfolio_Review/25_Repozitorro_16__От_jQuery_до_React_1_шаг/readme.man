@@ -1,3 +1,0 @@
-# [webDev](https://www.youtube.com/@YauhenKavalchuk/playlists?view=1)
-## [Repozitorro - Portfolio Review](https://www.youtube.com/playlist?list=PLNkWIWHIRwMFEAXHn_XH_tR140yaN3bP3)
-### [Repozitorro #16 - От jQuery до React 1 шаг?](https://www.youtube.com/watch?v=mLHPsdJuHdI&amp;list=PLNkWIWHIRwMFEAXHn_XH_tR140yaN3bP3&amp;index=25)

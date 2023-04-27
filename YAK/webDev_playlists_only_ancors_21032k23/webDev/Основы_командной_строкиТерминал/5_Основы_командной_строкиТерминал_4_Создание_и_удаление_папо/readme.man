@@ -1,3 +1,0 @@
-# [webDev](https://www.youtube.com/@YauhenKavalchuk/playlists?view=1)
-## [Основы командной строки/Терминал](https://www.youtube.com/playlist?list=PLNkWIWHIRwMFJqtnggkX53Bsgq65CP1Rv)
-### [Основы командной строки/Терминал #4 Создание и удаление папок и файлов](https://www.youtube.com/watch?v=Mc_LljwvGfI&amp;list=PLNkWIWHIRwMFJqtnggkX53Bsgq65CP1Rv&amp;index=5)

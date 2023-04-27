@@ -1,3 +1,0 @@
-# [webDev](https://www.youtube.com/@YauhenKavalchuk/playlists?view=1)
-## [JavaScript Паттерны](https://www.youtube.com/playlist?list=PLNkWIWHIRwMGzgvuPRFkDrpAygvdKJIE4)
-### [JavaScript Паттерны #6 - Decorator (Декоратор)](https://www.youtube.com/watch?v=gXvKHKQB2DI&amp;list=PLNkWIWHIRwMGzgvuPRFkDrpAygvdKJIE4&amp;index=7)

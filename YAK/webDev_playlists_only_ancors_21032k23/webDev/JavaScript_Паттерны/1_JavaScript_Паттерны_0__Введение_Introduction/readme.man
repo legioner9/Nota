@@ -1,3 +1,0 @@
-# [webDev](https://www.youtube.com/@YauhenKavalchuk/playlists?view=1)
-## [JavaScript Паттерны](https://www.youtube.com/playlist?list=PLNkWIWHIRwMGzgvuPRFkDrpAygvdKJIE4)
-### [JavaScript Паттерны #0 - Введение (Introduction)](https://www.youtube.com/watch?v=RyY6x_6ws4s&amp;list=PLNkWIWHIRwMGzgvuPRFkDrpAygvdKJIE4&amp;index=1)

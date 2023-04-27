@@ -1,3 +1,0 @@
-# [webDev](https://www.youtube.com/@YauhenKavalchuk/playlists?view=1)
-## [CSS Flexbox](https://www.youtube.com/playlist?list=PLNkWIWHIRwMG0EUBS8rvTRVNL9IcxcawW)
-### [CSS Flexbox #3 Перенос элементов и отступы (Flex-wrap &amp; Gap)](https://www.youtube.com/watch?v=zvkE0MY1cxE&amp;list=PLNkWIWHIRwMG0EUBS8rvTRVNL9IcxcawW&amp;index=4)

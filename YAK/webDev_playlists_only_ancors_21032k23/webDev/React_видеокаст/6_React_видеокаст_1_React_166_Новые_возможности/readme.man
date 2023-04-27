@@ -1,3 +1,0 @@
-# [webDev](https://www.youtube.com/@YauhenKavalchuk/playlists?view=1)
-## [React видеокаст](https://www.youtube.com/playlist?list=PLNkWIWHIRwMFesGd_dDbQ4H2haApbwIAj)
-### [React видеокаст #1 React 16.6 Новые возможности](https://www.youtube.com/watch?v=vc1shGHGBj0&amp;list=PLNkWIWHIRwMFesGd_dDbQ4H2haApbwIAj&amp;index=6)

@@ -1,3 +1,0 @@
-# [webDev](https://www.youtube.com/@YauhenKavalchuk/playlists?view=1)
-## [React JS](https://www.youtube.com/playlist?list=PLNkWIWHIRwME_Gv2vlWAR6TfeSXylYfw4)
-### [React JS #8 Списки и ключи (Lists &amp; keys)](https://www.youtube.com/watch?v=stOttWwNncQ&amp;list=PLNkWIWHIRwME_Gv2vlWAR6TfeSXylYfw4&amp;index=9)

@@ -1,3 +1,0 @@
-# [webDev](https://www.youtube.com/@YauhenKavalchuk/playlists?view=1)
-## [JavaScript Паттерны](https://www.youtube.com/playlist?list=PLNkWIWHIRwMGzgvuPRFkDrpAygvdKJIE4)
-### [JavaScript Паттерны #16 - Strategy (Стратегия)](https://www.youtube.com/watch?v=te-teUr0N_w&amp;list=PLNkWIWHIRwMGzgvuPRFkDrpAygvdKJIE4&amp;index=17)

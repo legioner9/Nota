@@ -1,3 +1,0 @@
-# [webDev](https://www.youtube.com/@YauhenKavalchuk/playlists?view=1)
-## [MongoDB](https://www.youtube.com/playlist?list=PLNkWIWHIRwMFJ-3-gI7GC5JDg1ivbIKNR)
-### [MongoDB #11 Полезные методы и операторы (Useful Methods &amp; Operators)](https://www.youtube.com/watch?v=MU6We3Zan-0&amp;list=PLNkWIWHIRwMFJ-3-gI7GC5JDg1ivbIKNR&amp;index=12)

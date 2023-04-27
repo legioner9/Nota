@@ -1,3 +1,0 @@
-# [webDev](https://www.youtube.com/@YauhenKavalchuk/playlists?view=1)
-## [TypeScript + React](https://www.youtube.com/playlist?list=PLNkWIWHIRwMFQBDhZ6HfwO9NL09X3N3Gq)
-### [TypeScript + React #2 Типизация функциональных компонентов (Typing of Functional Components)](https://www.youtube.com/watch?v=yc5acYhDM48&amp;list=PLNkWIWHIRwMFQBDhZ6HfwO9NL09X3N3Gq&amp;index=3)

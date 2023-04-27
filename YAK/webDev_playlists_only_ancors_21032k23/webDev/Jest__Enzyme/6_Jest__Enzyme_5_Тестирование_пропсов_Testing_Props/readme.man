@@ -1,3 +1,0 @@
-# [webDev](https://www.youtube.com/@YauhenKavalchuk/playlists?view=1)
-## [Jest & Enzyme](https://www.youtube.com/playlist?list=PLNkWIWHIRwMFPcbK0AJVBYyNveXmMZhMS)
-### [Jest + Enzyme #5 Тестирование пропсов (Testing Props)](https://www.youtube.com/watch?v=_yWortkgpow&amp;list=PLNkWIWHIRwMFPcbK0AJVBYyNveXmMZhMS&amp;index=6)

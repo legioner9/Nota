@@ -1,3 +1,0 @@
-# [webDev](https://www.youtube.com/@YauhenKavalchuk/playlists?view=1)
-## [TypeScript](https://www.youtube.com/playlist?list=PLNkWIWHIRwMEm1FgiLjHqSky27x5rXvQa)
-### [TypeScript #12 Утилиты (Utility Types)](https://www.youtube.com/watch?v=Qf_WJGJf4yw&amp;list=PLNkWIWHIRwMEm1FgiLjHqSky27x5rXvQa&amp;index=13)

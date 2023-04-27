@@ -1,3 +1,0 @@
-# [webDev](https://www.youtube.com/@YauhenKavalchuk/playlists?view=1)
-## [CSS3](https://www.youtube.com/playlist?list=PLNkWIWHIRwMHUawuIEpPI_tOG7Mfhs_sA)
-### [CSS3 #23 Стилизация плейсхолдера и скролла, CSS-спрайты (Placeholder, Scrollbar &amp; Sprites)](https://www.youtube.com/watch?v=_eO1urQ71Lw&amp;list=PLNkWIWHIRwMHUawuIEpPI_tOG7Mfhs_sA&amp;index=24)

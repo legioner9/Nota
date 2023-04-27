@@ -1,3 +1,0 @@
-# [webDev](https://www.youtube.com/@YauhenKavalchuk/playlists?view=1)
-## [JavaScript Паттерны](https://www.youtube.com/playlist?list=PLNkWIWHIRwMGzgvuPRFkDrpAygvdKJIE4)
-### [JavaScript Паттерны #17 - Memento (Снимок)](https://www.youtube.com/watch?v=kAY-ozumlr4&amp;list=PLNkWIWHIRwMGzgvuPRFkDrpAygvdKJIE4&amp;index=18)

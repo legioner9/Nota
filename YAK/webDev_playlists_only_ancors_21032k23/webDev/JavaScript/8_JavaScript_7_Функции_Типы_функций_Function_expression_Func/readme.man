@@ -1,3 +1,0 @@
-# [webDev](https://www.youtube.com/@YauhenKavalchuk/playlists?view=1)
-## [JavaScript](https://www.youtube.com/playlist?list=PLNkWIWHIRwMHKLotIS_d-wyj00pg0AnUg)
-### [JavaScript #7 Функции: Типы функций Function expression, Function declaration &amp; NFE](https://www.youtube.com/watch?v=rtGTZ4knRSY&amp;list=PLNkWIWHIRwMHKLotIS_d-wyj00pg0AnUg&amp;index=8)
