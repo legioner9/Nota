@@ -1,0 +1,5 @@
+### [Настройка Sublime Text 3 + Установка необходимых плагинов](https://www.youtube.com/watch?v=sssu2d1UqrE&amp;list=PL3LQJkGQtzc51x2RpSNk3e3Ebh7rbKCkB&amp;index=1&amp;pp=iAQB)
+### [Автообновление страницы HTML и CSS. Установка BrowserSync и node.js](https://www.youtube.com/watch?v=mvntgMuUPhU&amp;list=PL3LQJkGQtzc51x2RpSNk3e3Ebh7rbKCkB&amp;index=2&amp;pp=iAQB)
+### [Препроцессор LESS. Как быстро писать CSS код. Молниеносная верстка.](https://www.youtube.com/watch?v=GHYPsEDd_bs&amp;list=PL3LQJkGQtzc51x2RpSNk3e3Ebh7rbKCkB&amp;index=3&amp;pp=iAQB)
+### [Как делать 5 часовую верстку за час. Рассказываю про сниппеты (snippet) в sublime text 3](https://www.youtube.com/watch?v=Z0rF3VdYo94&amp;list=PL3LQJkGQtzc51x2RpSNk3e3Ebh7rbKCkB&amp;index=4&amp;pp=iAQB)
+### [Красивое всплывающее (модальное) окно для сайта с использованием svg](https://www.youtube.com/watch?v=XaA9YdY52L8&amp;list=PL3LQJkGQtzc51x2RpSNk3e3Ebh7rbKCkB&amp;index=5&amp;pp=iAQB)

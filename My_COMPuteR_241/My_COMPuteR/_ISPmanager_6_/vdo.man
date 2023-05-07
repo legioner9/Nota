@@ -1,0 +1,7 @@
+### [Установка ISPmanager 6 в CentOS 7](https://www.youtube.com/watch?v=xl8g1lUYzok&amp;list=PLh1BaaL_XriPGMdP62hAnPxFmQK83sHOJ&amp;index=1&amp;pp=iAQB)
+### [Обзор панели ISPmanager 6](https://www.youtube.com/watch?v=1-VjPwrdKqU&amp;list=PLh1BaaL_XriPGMdP62hAnPxFmQK83sHOJ&amp;index=2&amp;pp=iAQB)
+### [ISPmanager 6 - пошаговая установка сайта](https://www.youtube.com/watch?v=as7iFlJ6gaU&amp;list=PLh1BaaL_XriPGMdP62hAnPxFmQK83sHOJ&amp;index=3&amp;pp=iAQB)
+### [Сертификат Let's Encrypt для панели ISPmanager 6](https://www.youtube.com/watch?v=eTKB4sYWXfw&amp;list=PLh1BaaL_XriPGMdP62hAnPxFmQK83sHOJ&amp;index=4&amp;pp=iAQB)
+### [ISPmanager 6 - backup-recovery-transfer сайта](https://www.youtube.com/watch?v=pmN5h1yn5dQ&amp;list=PLh1BaaL_XriPGMdP62hAnPxFmQK83sHOJ&amp;index=5&amp;pp=iAQB)
+### [ISPmanager 6 - почтовый сервер и ящики](https://www.youtube.com/watch?v=Cv6gZ6tivSQ&amp;list=PLh1BaaL_XriPGMdP62hAnPxFmQK83sHOJ&amp;index=6&amp;pp=iAQB)
+### [OwnCloud и Nextcloud на ISPmanager 6](https://www.youtube.com/watch?v=Jc4HH4jtt0E&amp;list=PLh1BaaL_XriPGMdP62hAnPxFmQK83sHOJ&amp;index=7&amp;pp=iAQB)

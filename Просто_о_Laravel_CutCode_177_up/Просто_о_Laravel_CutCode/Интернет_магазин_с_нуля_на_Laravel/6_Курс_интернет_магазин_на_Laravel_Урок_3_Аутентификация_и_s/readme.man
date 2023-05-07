@@ -1,0 +1,3 @@
+# [Просто о Laravel. CutCode](https://www.youtube.com/@CutCodeRu/playlists)
+## [Интернет магазин с нуля на Laravel](https://www.youtube.com/playlist?list=PLTucyHptHtTkveNJf17ypoZoG3pdnvs6v)
+### [Курс интернет магазин на Laravel. Урок 3. Аутентификация и socialite](https://www.youtube.com/watch?v=DGaXW6DLV6M&amp;list=PLTucyHptHtTkveNJf17ypoZoG3pdnvs6v&amp;index=6&amp;pp=iAQB)

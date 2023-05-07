@@ -1,3 +1,0 @@
-# [Exploring the IT World / Oleg Shpagin / WISEPLAT](https://www.youtube.com/@wiseplat/playlists)
-## [Уроки PHP с нуля для начинающих](https://www.youtube.com/playlist?list=PLxiU3nwEQ4PFvGkF-KPwPOCeKbU5zHumj)
-### [Как установить PhpMyAdmin для MySql](https://www.youtube.com/watch?v=O3M3dFgqT7I&amp;list=PLxiU3nwEQ4PFvGkF-KPwPOCeKbU5zHumj&amp;index=10)

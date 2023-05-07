@@ -1,0 +1,3 @@
+# [webDev](https://www.youtube.com/@YauhenKavalchuk/playlists?view=1)
+## [React JS](https://www.youtube.com/playlist?list=PLNkWIWHIRwME_Gv2vlWAR6TfeSXylYfw4)
+### [React JS #17 Работа с реальным API (React: work with API. Part II)](https://www.youtube.com/watch?v=d2Z1D5Jvajc&amp;list=PLNkWIWHIRwME_Gv2vlWAR6TfeSXylYfw4&amp;index=18)

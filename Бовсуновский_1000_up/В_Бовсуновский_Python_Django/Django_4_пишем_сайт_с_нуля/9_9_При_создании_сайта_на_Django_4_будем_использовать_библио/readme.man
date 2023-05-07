@@ -1,0 +1,3 @@
+# [В. Бовсуновский Python Django](https://www.youtube.com/@bov/playlists?view=1)
+## [Django 4 пишем сайт с нуля.](https://www.youtube.com/playlist?list=PLuZJ9n46uMzXVj9JEjULImuBKRVKKS9To)
+### [9. При создании сайта на Django 4 будем использовать библиотеку сопоставления dotenv.](https://www.youtube.com/watch?v=M3dc_jSOwN0&amp;list=PLuZJ9n46uMzXVj9JEjULImuBKRVKKS9To&amp;index=9&amp;pp=iAQB)

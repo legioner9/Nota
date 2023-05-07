@@ -1,0 +1,7 @@
+### [Full Ethical Hacking Course - Network Penetration Testing for Beginners (2019)](https://www.youtube.com/watch?v=3Kq1MIfTWCE&amp;list=PLWKjhJtqVAbnklGh3FNRLECx_2D_vK3mu&amp;index=1&amp;pp=iAQB)
+### [Improve Cybersecurity Skills with CTFs - PicoCTF Walkthrough (2018)](https://www.youtube.com/watch?v=uIkxsBgkpj8&amp;list=PLWKjhJtqVAbnklGh3FNRLECx_2D_vK3mu&amp;index=2&amp;pp=iAQB)
+### [Ethical Hacking 101: Web App Penetration Testing - a full course for beginners](https://www.youtube.com/watch?v=2_lswM1S264&amp;list=PLWKjhJtqVAbnklGh3FNRLECx_2D_vK3mu&amp;index=3&amp;pp=iAQB)
+### [Linux for Ethical Hackers (Kali Linux Tutorial)](https://www.youtube.com/watch?v=lZAoFs75_cs&amp;list=PLWKjhJtqVAbnklGh3FNRLECx_2D_vK3mu&amp;index=4&amp;pp=iAQB)
+### [Create a Keylogger with Python - Tutorial](https://www.youtube.com/watch?v=TbMKwl11itQ&amp;list=PLWKjhJtqVAbnklGh3FNRLECx_2D_vK3mu&amp;index=5&amp;pp=iAQB)
+### [Writing Code like a Real Hacker (VS Code Macro Extension)](https://www.youtube.com/watch?v=rO8-cgtkZSw&amp;list=PLWKjhJtqVAbnklGh3FNRLECx_2D_vK3mu&amp;index=6&amp;pp=iAQB)
+### [Penetration Testing: Gophish Tutorial (Phishing Framework)](https://www.youtube.com/watch?v=S6S5JF6Gou0&amp;list=PLWKjhJtqVAbnklGh3FNRLECx_2D_vK3mu&amp;index=7&amp;pp=iAQB)

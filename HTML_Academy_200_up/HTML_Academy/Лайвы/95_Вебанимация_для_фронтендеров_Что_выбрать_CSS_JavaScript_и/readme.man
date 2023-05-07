@@ -1,0 +1,3 @@
+# [HTML Academy](https://www.youtube.com/@HTMLAcademyRUS/playlists)
+## [Лайвы](https://www.youtube.com/playlist?list=PLQJNT2fdCJnjNdO_mHAoX2wl22ApM-rNx)
+### [Веб-анимация для фронтендеров. Что выбрать: CSS, JavaScript или SVG](https://www.youtube.com/watch?v=rV1bnnBkNQ8&amp;list=PLQJNT2fdCJnjNdO_mHAoX2wl22ApM-rNx&amp;index=95&amp;pp=iAQB)

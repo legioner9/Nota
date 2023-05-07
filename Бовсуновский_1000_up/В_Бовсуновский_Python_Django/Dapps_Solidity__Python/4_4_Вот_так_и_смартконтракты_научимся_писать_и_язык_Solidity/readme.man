@@ -1,0 +1,3 @@
+# [В. Бовсуновский Python Django](https://www.youtube.com/@bov/playlists?view=1)
+## [Dapps Solidity + Python.](https://www.youtube.com/playlist?list=PLuZJ9n46uMzX1SYAfC8AlBNJPu6fTFmI5)
+### [4. Вот так и смарт-контракты научимся писать и язык Solidity изучим.](https://www.youtube.com/watch?v=L0CINrHPkEs&amp;list=PLuZJ9n46uMzX1SYAfC8AlBNJPu6fTFmI5&amp;index=4&amp;pp=iAQB)

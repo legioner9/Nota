@@ -1,0 +1,3 @@
+# [Coding Tech](https://www.youtube.com/@CodingTech/playlists)
+## [C++](https://www.youtube.com/playlist?list=PLFjq8z-aGyQ77zA5OkzNETLca4ad864Da)
+### [Not your Grandparent's C++ (Evolution of C++)](https://www.youtube.com/watch?v=3gbMF1OZ3EU&amp;list=PLFjq8z-aGyQ77zA5OkzNETLca4ad864Da&amp;index=15&amp;pp=iAQB)

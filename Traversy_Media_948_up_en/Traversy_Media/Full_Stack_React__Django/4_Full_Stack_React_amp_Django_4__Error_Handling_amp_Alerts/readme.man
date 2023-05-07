@@ -1,0 +1,3 @@
+# [Traversy Media](https://www.youtube.com/@TraversyMedia/playlists)
+## [Full Stack React & Django](https://www.youtube.com/playlist?list=PLillGF-RfqbbRA-CIUxlxkUpbq0IFkX60)
+### [Full Stack React &amp; Django [4] - Error Handling &amp; Alerts](https://www.youtube.com/watch?v=Fia-GGgHpK0&amp;list=PLillGF-RfqbbRA-CIUxlxkUpbq0IFkX60&amp;index=4&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [openWeb - Веб программирование на языках PHP и JS](https://www.youtube.com/@openweb-php/playlists)
+## [Laravel фреймворк](https://www.youtube.com/playlist?list=PL-leL2miqjEa1oaZWwTQAqoC5NUYk9WOX)
+### [Изучение Laravel - Основы работы фреймворка Laravel](https://www.youtube.com/watch?v=dNuOCGwQl8k&amp;list=PL-leL2miqjEa1oaZWwTQAqoC5NUYk9WOX&amp;index=1&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [Андрей Иванов | Python](https://www.youtube.com/@PythononPapyrusRU/playlists)
+## [Redis](https://www.youtube.com/playlist?list=PLF4MWzDJPFSbY5TxSdq3DMPSL7ke51u93)
+### [СОЗДАЕМ СВОЙ CELERY ЧЕРЕЗ REDIS. BACKGROUND WORKERS В ПИТОНЕ](https://www.youtube.com/watch?v=_TEww3otoK4&amp;list=PLF4MWzDJPFSbY5TxSdq3DMPSL7ke51u93&amp;index=6&amp;pp=iAQB)

@@ -1,0 +1,5 @@
+### [Getting Started With AdonisJS 4.0 [1] - Framework Intro &amp; Setup](https://www.youtube.com/watch?v=2oXpBK2iNQU&amp;list=PLillGF-RfqbY6wY9yZjCpSMzvhn-icuG6&amp;index=1&amp;pp=iAQB)
+### [Getting Started With AdonisJS 4.0 [2] - Controller,  Layouts &amp; Routing](https://www.youtube.com/watch?v=kJhWUBEO5aY&amp;list=PLillGF-RfqbY6wY9yZjCpSMzvhn-icuG6&amp;index=2&amp;pp=iAQB)
+### [Getting Started With AdonisJS 4.0 [3] - Database &amp; Model](https://www.youtube.com/watch?v=IBRHeUtCydY&amp;list=PLillGF-RfqbY6wY9yZjCpSMzvhn-icuG6&amp;index=3&amp;pp=iAQB)
+### [Getting Started With AdonisJS 4.0 [4] - Add Post &amp; Validation](https://www.youtube.com/watch?v=SaXhwbuMTu4&amp;list=PLillGF-RfqbY6wY9yZjCpSMzvhn-icuG6&amp;index=4&amp;pp=iAQB)
+### [Getting Started With AdonisJS 4.0 [5] - Edit &amp; Delete Posts](https://www.youtube.com/watch?v=SpJqYS_67Iw&amp;list=PLillGF-RfqbY6wY9yZjCpSMzvhn-icuG6&amp;index=5&amp;pp=iAQB)

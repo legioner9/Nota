@@ -1,0 +1,3 @@
+# [WebDev с нуля. Канал Алекса Лущенко](https://www.youtube.com/@itgid/playlists)
+## [30 вопросов JavaScript собеседования - бесплатный курс](https://www.youtube.com/playlist?list=PLM7wFzahDYnGF4WqYaSuwnItYDEBakTDS)
+### [Что делает метод event.stopPropagation. 30 вопросов JavaScript собеседования](https://www.youtube.com/watch?v=GsYiq4Ic384&amp;list=PLM7wFzahDYnGF4WqYaSuwnItYDEBakTDS&amp;index=1&amp;pp=iAQB)

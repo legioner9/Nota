@@ -1,0 +1,3 @@
+# [В. Бовсуновский Python Django](https://www.youtube.com/@bov/playlists?view=1)
+## [Kotlin](https://www.youtube.com/playlist?list=PLuZJ9n46uMzVVHB82xLSBpKlGyVb7H7fp)
+### [Урок 2. Если не понимаем Django? Как все таки его изучать правильно?](https://www.youtube.com/watch?v=-yPNyDY4g5w&amp;list=PLuZJ9n46uMzVVHB82xLSBpKlGyVb7H7fp&amp;index=35&amp;pp=iAQB)

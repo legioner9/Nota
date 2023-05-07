@@ -1,0 +1,3 @@
+# [freeCodeCamp.org](https://www.youtube.com/@freecodecamp/playlists)
+## [Tutorials](https://www.youtube.com/playlist?list=PLWKjhJtqVAbmDGFE_pZ-PDJ1GWe3KtT-M)
+### [Create a Keylogger with Python - Tutorial](https://www.youtube.com/watch?v=TbMKwl11itQ&amp;list=PLWKjhJtqVAbmDGFE_pZ-PDJ1GWe3KtT-M&amp;index=7&amp;pp=iAQB)

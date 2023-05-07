@@ -1,0 +1,4 @@
+### [PyTorch Basics and Gradient Descent | Deep Learning with PyTorch: Zero to GANs | Part 1 of 6](https://www.youtube.com/watch?v=5ioMqzMRFgM&amp;list=PLWKjhJtqVAbm5dir5TLEy2aZQMG7cHEZp&amp;index=1&amp;pp=iAQB)
+### [PyTorch Images and Logistic Regression | Deep Learning with PyTorch: Zero to GANs | Part 2 of 6](https://www.youtube.com/watch?v=uuuzvOEC0zw&amp;list=PLWKjhJtqVAbm5dir5TLEy2aZQMG7cHEZp&amp;index=2&amp;pp=iAQB)
+### [Training Deep Neural Networks on a GPU | Deep Learning with PyTorch: Zero to GANs | Part 3 of 6](https://www.youtube.com/watch?v=Qn5DDQn0fx0&amp;list=PLWKjhJtqVAbm5dir5TLEy2aZQMG7cHEZp&amp;index=3&amp;pp=iAQB)
+### [Image Classification with Convolutional Neural Networks | Deep Learning with PyTorch: Zero to GANs |](https://www.youtube.com/watch?v=d9QHNkD_Pos&amp;list=PLWKjhJtqVAbm5dir5TLEy2aZQMG7cHEZp&amp;index=4&amp;pp=iAQB)

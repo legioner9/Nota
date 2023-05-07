@@ -1,0 +1,3 @@
+# [LN Master](https://www.youtube.com/@ToBeCloser007/playlists)
+## [Паттерны проектирования](https://www.youtube.com/playlist?list=PL3PZFGlHBUn1kqqv2aG1bZmZS7P_mwL_Y)
+### [Уроки по JavaScript - Паттерн Singleton (Одиночка)](https://www.youtube.com/watch?v=NwaLe-BqzXk&amp;list=PL3PZFGlHBUn1kqqv2aG1bZmZS7P_mwL_Y&amp;index=2&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [Михаил Федосеев](https://www.youtube.com/@fedoseevm/playlists)
+## [Программирование с использованием Qt 2020](https://www.youtube.com/playlist?list=PLYQhNajy-JUHqxt_MmjMrETFFvOYdguu7)
+### [Урок 7  Соединение 2 классов С++ с помощью механизма сигналов и слотов в новом стиле](https://www.youtube.com/watch?v=rQg7sLDMrRw&amp;list=PLYQhNajy-JUHqxt_MmjMrETFFvOYdguu7&amp;index=7&amp;pp=iAQB)

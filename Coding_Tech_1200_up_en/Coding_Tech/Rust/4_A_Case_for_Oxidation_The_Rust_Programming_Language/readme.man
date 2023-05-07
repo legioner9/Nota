@@ -1,0 +1,3 @@
+# [Coding Tech](https://www.youtube.com/@CodingTech/playlists)
+## [Rust](https://www.youtube.com/playlist?list=PLFjq8z-aGyQ6t_LGp7wqHsHTYO-pDDx84)
+### [A Case for Oxidation: The Rust Programming Language](https://www.youtube.com/watch?v=cDFSrVhnZKo&amp;list=PLFjq8z-aGyQ6t_LGp7wqHsHTYO-pDDx84&amp;index=4&amp;pp=iAQB)

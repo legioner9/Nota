@@ -1,0 +1,3 @@
+# [openWeb - Веб программирование на языках PHP и JS](https://www.youtube.com/@openweb-php/playlists)
+## [Уроки Java Scripts](https://www.youtube.com/playlist?list=PL-leL2miqjEbQmAmLfe9GHiMYdnzBMVoU)
+### [Как сделать мобильное меню на сайте?](https://www.youtube.com/watch?v=LMS2Y3V3FS8&amp;list=PL-leL2miqjEbQmAmLfe9GHiMYdnzBMVoU&amp;index=16&amp;pp=iAQB)

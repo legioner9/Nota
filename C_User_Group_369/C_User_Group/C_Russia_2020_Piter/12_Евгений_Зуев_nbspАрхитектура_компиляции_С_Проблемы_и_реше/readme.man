@@ -1,0 +1,3 @@
+# [C++ User Group](https://www.youtube.com/@CUserGroupRussia/playlists)
+## [C++ Russia 2020 Piter](https://www.youtube.com/playlist?list=PLZN9ZGiWZoZpzXS_y_1tZJW0OaL-HrU1F)
+### [Евгений Зуев —&nbsp;Архитектура компиляции С++: Проблемы и решения](https://www.youtube.com/watch?v=O6DDHyp2VuY&amp;list=PLZN9ZGiWZoZpzXS_y_1tZJW0OaL-HrU1F&amp;index=12&amp;pp=iAQB)

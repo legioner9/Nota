@@ -1,0 +1,3 @@
+# [freeCodeCamp.org](https://www.youtube.com/@freecodecamp/playlists)
+## [React Project 5 - Live Coding with Jesse](https://www.youtube.com/playlist?list=PLWKjhJtqVAbkOoQw0jDWn-pzN3nFVjhbH)
+### [Planning a New React Project (P5D1) - Live Coding with Jesse](https://www.youtube.com/watch?v=iiQxq8Gsr5A&amp;list=PLWKjhJtqVAbkOoQw0jDWn-pzN3nFVjhbH&amp;index=1&amp;pp=iAQB)

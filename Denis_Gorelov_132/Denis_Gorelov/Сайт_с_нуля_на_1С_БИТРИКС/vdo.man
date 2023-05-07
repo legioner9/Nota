@@ -1,0 +1,7 @@
+### [Отображаем компонент в редакторе 1C Bitrix - (.description.php)](https://www.youtube.com/watch?v=pNMN116x2hw&amp;list=PL8pp2EAvIK-LaGLDQtIF2EF1N3FWUUudR&amp;index=1&amp;pp=iAQB)
+### [План разработки компонента в CMS 1С-Битрикс (Анонс)](https://www.youtube.com/watch?v=X8xvYiChAd4&amp;list=PL8pp2EAvIK-LaGLDQtIF2EF1N3FWUUudR&amp;index=2&amp;pp=iAQB)
+### [Как установить наш ШАБЛОН в 1С-Битрикс (Анонс)](https://www.youtube.com/watch?v=mk2wsFMD7zY&amp;list=PL8pp2EAvIK-LaGLDQtIF2EF1N3FWUUudR&amp;index=3&amp;pp=iAQB)
+### [Установка HTML шаблона в Битрикс. #4 Внедрение HTML ШАБЛОНА в Битрикс](https://www.youtube.com/watch?v=PVykLCpv5Pk&amp;list=PL8pp2EAvIK-LaGLDQtIF2EF1N3FWUUudR&amp;index=4&amp;pp=iAQB)
+### [1С БИТРИКС примеры внедрения HTML шаблона. #3 Подключение HTML ШАБЛОНА к Битрикс](https://www.youtube.com/watch?v=EqkBelf-RYo&amp;list=PL8pp2EAvIK-LaGLDQtIF2EF1N3FWUUudR&amp;index=5&amp;pp=iAQB)
+### [УСТАНОВКА 1С Битрикс. #2 Подключаем HTML ШАБЛОН на сайт](https://www.youtube.com/watch?v=5m33kgdji2E&amp;list=PL8pp2EAvIK-LaGLDQtIF2EF1N3FWUUudR&amp;index=6&amp;pp=iAQB)
+### [Регистрация хостинга. #1 Подключаем HTML ШАБЛОН на 1С Битрикс](https://www.youtube.com/watch?v=NeJu_b836kE&amp;list=PL8pp2EAvIK-LaGLDQtIF2EF1N3FWUUudR&amp;index=7&amp;pp=iAQB)

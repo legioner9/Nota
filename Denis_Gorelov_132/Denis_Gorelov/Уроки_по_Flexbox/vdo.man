@@ -1,0 +1,3 @@
+### [Flexbox - скоро начнем осваивать](https://www.youtube.com/watch?v=IDFx8qFQPHQ&amp;list=PL8pp2EAvIK-JSstdvVL4hZ9M3KbRiPrA9&amp;index=1&amp;pp=iAQB)
+### [Flexbox CSS #1 - практика выравнивания элементов](https://www.youtube.com/watch?v=WM1fzRm152g&amp;list=PL8pp2EAvIK-JSstdvVL4hZ9M3KbRiPrA9&amp;index=2&amp;pp=iAQB)
+### [Flexbox CSS #2 - (практика) направление осей и многострочность](https://www.youtube.com/watch?v=1T8BHyyH-Wo&amp;list=PL8pp2EAvIK-JSstdvVL4hZ9M3KbRiPrA9&amp;index=3&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [Denis Batrankov](https://www.youtube.com/@BDVSecurity/playlists)
+## [Лекциии 1 час](https://www.youtube.com/playlist?list=PLRAbJA74qU4DT5OPHSxAVw36wipe6NOnU)
+### [Как выгрузить нужные IoC из базы Autofocus, как использовать API и MineMeld.](https://www.youtube.com/watch?v=mhFAoqeKF1w&amp;list=PLRAbJA74qU4DT5OPHSxAVw36wipe6NOnU&amp;index=23&amp;pp=iAQB)

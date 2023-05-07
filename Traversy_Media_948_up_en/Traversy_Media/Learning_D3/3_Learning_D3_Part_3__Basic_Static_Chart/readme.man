@@ -1,0 +1,3 @@
+# [Traversy Media](https://www.youtube.com/@TraversyMedia/playlists)
+## [Learning D3](https://www.youtube.com/playlist?list=PLillGF-RfqbY8Vy_G5WxXwhZx4eXI6Oea)
+### [Learning D3 Part 3 - Basic Static Chart](https://www.youtube.com/watch?v=udVieI4c0iY&amp;list=PLillGF-RfqbY8Vy_G5WxXwhZx4eXI6Oea&amp;index=3&amp;pp=iAQB)

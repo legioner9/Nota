@@ -1,0 +1,3 @@
+# [Tech Javascript](https://www.youtube.com/@techjavascript/playlists)
+## [Основы Typescript](https://www.youtube.com/playlist?list=PLco1IpJXlada3EI5Pfsp7NZKrC_-oYDvY)
+### [4. Уроки typescript. Enum в typescript](https://www.youtube.com/watch?v=wL1j8o2Mymw&amp;list=PLco1IpJXlada3EI5Pfsp7NZKrC_-oYDvY&amp;index=4&amp;pp=iAQB)

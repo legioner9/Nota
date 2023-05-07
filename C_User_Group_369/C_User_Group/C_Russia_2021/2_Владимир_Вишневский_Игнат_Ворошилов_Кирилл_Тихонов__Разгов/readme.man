@@ -1,0 +1,3 @@
+# [C++ User Group](https://www.youtube.com/@CUserGroupRussia/playlists)
+## [C++ Russia 2021](https://www.youtube.com/playlist?list=PLZN9ZGiWZoZqIsJqUgmMznD68NSsyaAhy)
+### [Владимир Вишневский, Игнат Ворошилов, Кирилл Тихонов — Разговор о С++ в Embedded](https://www.youtube.com/watch?v=t7WFXqqKVaM&amp;list=PLZN9ZGiWZoZqIsJqUgmMznD68NSsyaAhy&amp;index=2&amp;pp=iAQB)

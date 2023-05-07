@@ -1,0 +1,3 @@
+# [Traversy Media](https://www.youtube.com/@TraversyMedia/playlists)
+## [React Lyric Search App (Context API)](https://www.youtube.com/playlist?list=PLillGF-RfqbaxgxkKgKk1XlJAVCX31xRI)
+### [Lyric Search App With React &amp; Context API [2] - Lyrics Page](https://www.youtube.com/watch?v=jiM0wqQZMWg&amp;list=PLillGF-RfqbaxgxkKgKk1XlJAVCX31xRI&amp;index=2&amp;pp=iAQB)

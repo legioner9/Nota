@@ -1,0 +1,3 @@
+# [C++ User Group](https://www.youtube.com/@CUserGroupRussia/playlists)
+## [C++ Siberia 2015](https://www.youtube.com/playlist?list=PLZN9ZGiWZoZooPvBI2c42jSCSPOa8tHcn)
+### [Eric Niebler, Ranges for the Standard Library at C++ Siberia 2015](https://www.youtube.com/watch?v=gOKHcQad7xE&amp;list=PLZN9ZGiWZoZooPvBI2c42jSCSPOa8tHcn&amp;index=1&amp;pp=iAQB)

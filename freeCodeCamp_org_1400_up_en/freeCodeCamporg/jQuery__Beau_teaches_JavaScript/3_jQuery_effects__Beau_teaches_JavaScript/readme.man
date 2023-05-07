@@ -1,0 +1,3 @@
+# [freeCodeCamp.org](https://www.youtube.com/@freecodecamp/playlists)
+## [jQuery - Beau teaches JavaScript](https://www.youtube.com/playlist?list=PLWKjhJtqVAbkyK9woUZUtunToLtNGoQHB)
+### [jQuery effects - Beau teaches JavaScript](https://www.youtube.com/watch?v=nwK0pJQZMPI&amp;list=PLWKjhJtqVAbkyK9woUZUtunToLtNGoQHB&amp;index=3&amp;pp=iAQB)

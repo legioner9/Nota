@@ -1,0 +1,3 @@
+# [Елена Литвинова — Искусство веб-разработки](https://www.youtube.com/@webelart/playlists)
+## [Веб-разработка](https://www.youtube.com/playlist?list=PLJpSkcgOK72A4dTtU52OOH7MyskB8o9sz)
+### [Разрабатываем ToDo лист на React + TypeScript + Zustand со сборкой на ViteJS | Уроки JavaScript](https://www.youtube.com/watch?v=Z0rxniw2nBc&amp;list=PLJpSkcgOK72A4dTtU52OOH7MyskB8o9sz&amp;index=33&amp;pp=iAQB)

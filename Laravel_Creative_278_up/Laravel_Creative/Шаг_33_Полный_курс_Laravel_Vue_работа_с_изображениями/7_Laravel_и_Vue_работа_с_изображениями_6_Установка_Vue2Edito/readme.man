@@ -1,0 +1,3 @@
+# [Laravel Creative](https://www.youtube.com/@laravelcreative/playlists)
+## [Шаг 3.3. Полный курс Laravel Vue работа с изображениями](https://www.youtube.com/playlist?list=PLd2_Os8Cj3t-Dy5nO8CnPEvH_ERwZzDSk)
+### [Laravel и Vue работа с изображениями 6. Установка Vue2Editor. Добавляем изображение в Storage](https://www.youtube.com/watch?v=C98WSdA20AA&amp;list=PLd2_Os8Cj3t-Dy5nO8CnPEvH_ERwZzDSk&amp;index=7&amp;pp=iAQB)

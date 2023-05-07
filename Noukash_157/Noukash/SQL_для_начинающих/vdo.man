@@ -1,0 +1,7 @@
+### [SQL. Решаем ТЕСТОВЫЕ ЗАДАНИЯ из AMAZON и FACEBOOK (подробный разбор)](https://www.youtube.com/watch?v=S9B43Ffiais&amp;list=PLXc92E2Pp5KIiLuwhAHOQueH9oNQiTo5r&amp;index=1&amp;pp=iAQB)
+### [Как и где учить SQL для начинающих? SQL для анализа данных.](https://www.youtube.com/watch?v=AX-w4fr46RM&amp;list=PLXc92E2Pp5KIiLuwhAHOQueH9oNQiTo5r&amp;index=2&amp;pp=iAQB)
+### [Полный разбор SQL задач из Кремниевой долины (FAANG)](https://www.youtube.com/watch?v=kIRR7M8Ryp0&amp;list=PLXc92E2Pp5KIiLuwhAHOQueH9oNQiTo5r&amp;index=3&amp;pp=iAQB)
+### [Как SQL и PYTHON используют в аналитике данных?](https://www.youtube.com/watch?v=e8N2zKuGABY&amp;list=PLXc92E2Pp5KIiLuwhAHOQueH9oNQiTo5r&amp;index=4&amp;pp=iAQB)
+### [Полный разбор SQL задач из Кремниевой долины (Amazon, Uber, Lyft)](https://www.youtube.com/watch?v=bgBM3bwfL3Q&amp;list=PLXc92E2Pp5KIiLuwhAHOQueH9oNQiTo5r&amp;index=5&amp;pp=iAQB)
+### [SQL ДЛЯ НАЧИНАЮЩИХ. Все, что нужно знать в SQL для аналитики (основные SQL запросы)](https://www.youtube.com/watch?v=Zf8M3xJaMEc&amp;list=PLXc92E2Pp5KIiLuwhAHOQueH9oNQiTo5r&amp;index=6&amp;pp=iAQB)
+### [ИНСТРУМЕНТЫ АНАЛИТИКА 2023 - что учить, чтобы стать аналитиком в IT?](https://www.youtube.com/watch?v=H4vQSoKT9lE&amp;list=PLXc92E2Pp5KIiLuwhAHOQueH9oNQiTo5r&amp;index=7&amp;pp=iAQB)

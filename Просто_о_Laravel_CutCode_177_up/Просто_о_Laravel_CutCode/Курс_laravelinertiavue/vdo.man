@@ -1,0 +1,7 @@
+### [Laravel + inertia + vue course Lesson 1. Installation and configuration](https://www.youtube.com/watch?v=Jjv5yDkmHos&amp;list=PLTucyHptHtTljVToD6w4JXuNEIzEXskLe&amp;index=1&amp;pp=iAQB)
+### [Laravel + inertia + vue course Lesson 2. Layout, Link, Meta, Route](https://www.youtube.com/watch?v=KHIK9cA4zkw&amp;list=PLTucyHptHtTljVToD6w4JXuNEIzEXskLe&amp;index=2&amp;pp=iAQB)
+### [Laravel + inertia + vue course Lesson 3. CRUD. List and pagination](https://www.youtube.com/watch?v=k9DW9T3-TgE&amp;list=PLTucyHptHtTljVToD6w4JXuNEIzEXskLe&amp;index=3&amp;pp=iAQB)
+### [Laravel + inertia + vue course Lesson 4. CRUD: adding, editing and deleting](https://www.youtube.com/watch?v=BInJBCWggAo&amp;list=PLTucyHptHtTljVToD6w4JXuNEIzEXskLe&amp;index=4&amp;pp=iAQB)
+### [Laravel + inertia + vue course Lesson 5. Testing, forms, flash notifications](https://www.youtube.com/watch?v=5hECMmiJJvA&amp;list=PLTucyHptHtTljVToD6w4JXuNEIzEXskLe&amp;index=5&amp;pp=iAQB)
+### [Курс по Laravel+inertia+vue. Урок 6. Аутентификация](https://www.youtube.com/watch?v=o_RqvflmCYY&amp;list=PLTucyHptHtTljVToD6w4JXuNEIzEXskLe&amp;index=6&amp;pp=iAQB)
+### [Курс по Laravel+inertia+vue. Урок 7. SSR](https://www.youtube.com/watch?v=kLSHhrhyrpY&amp;list=PLTucyHptHtTljVToD6w4JXuNEIzEXskLe&amp;index=7&amp;pp=iAQB)

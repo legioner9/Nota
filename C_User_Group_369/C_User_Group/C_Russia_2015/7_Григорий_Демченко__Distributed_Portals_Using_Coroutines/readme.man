@@ -1,0 +1,3 @@
+# [C++ User Group](https://www.youtube.com/@CUserGroupRussia/playlists)
+## [C++ Russia 2015](https://www.youtube.com/playlist?list=PLZN9ZGiWZoZq3nObp2P8BJvsCc639tYSd)
+### [Григорий Демченко | Distributed Portals Using Coroutines](https://www.youtube.com/watch?v=zacEt5ZCVgI&amp;list=PLZN9ZGiWZoZq3nObp2P8BJvsCc639tYSd&amp;index=7&amp;pp=iAQB)

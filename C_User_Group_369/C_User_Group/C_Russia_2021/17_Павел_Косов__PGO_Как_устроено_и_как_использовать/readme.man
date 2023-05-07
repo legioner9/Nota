@@ -1,0 +1,3 @@
+# [C++ User Group](https://www.youtube.com/@CUserGroupRussia/playlists)
+## [C++ Russia 2021](https://www.youtube.com/playlist?list=PLZN9ZGiWZoZqIsJqUgmMznD68NSsyaAhy)
+### [Павел Косов — PGO: Как устроено и как использовать](https://www.youtube.com/watch?v=CvbIPGSnes8&amp;list=PLZN9ZGiWZoZqIsJqUgmMznD68NSsyaAhy&amp;index=17&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [Coding Tech](https://www.youtube.com/@CodingTech/playlists)
+## [JavaScript](https://www.youtube.com/playlist?list=PLFjq8z-aGyQ49hmlhMZgYAoXb3NBiee4R)
+### [How Do JavaScript Frameworks Impact the Security of Applications?](https://www.youtube.com/watch?v=Z1mZ9wSi4Bo&amp;list=PLFjq8z-aGyQ49hmlhMZgYAoXb3NBiee4R&amp;index=95&amp;pp=iAQB)

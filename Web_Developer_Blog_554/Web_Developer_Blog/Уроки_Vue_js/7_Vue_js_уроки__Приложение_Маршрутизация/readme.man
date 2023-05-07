@@ -1,0 +1,3 @@
+# [Web Developer Blog](https://www.youtube.com/@SuprunAlexey/playlists)
+## [Уроки Vue js](https://www.youtube.com/playlist?list=PLVfMKQXDAhGWFP61AzOs_PowY7OAaFRHU)
+### [Vue js уроки - Приложение. Маршрутизация](https://www.youtube.com/watch?v=QGOlFc9AYRI&amp;list=PLVfMKQXDAhGWFP61AzOs_PowY7OAaFRHU&amp;index=7&amp;pp=iAQB)

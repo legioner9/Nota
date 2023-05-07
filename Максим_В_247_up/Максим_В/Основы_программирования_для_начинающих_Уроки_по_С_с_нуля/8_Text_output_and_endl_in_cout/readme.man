@@ -1,0 +1,3 @@
+# [Максим В](https://www.youtube.com/@cpp/playlists)
+## [Основы программирования для начинающих. Уроки по С++ с нуля.](https://www.youtube.com/playlist?list=PLlxYwLnXeoE0qsuXwsUi3zSU6FKOS8YCB)
+### [Text output and endl in cout](https://www.youtube.com/watch?v=7RUfhISR9Io&amp;list=PLlxYwLnXeoE0qsuXwsUi3zSU6FKOS8YCB&amp;index=8&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [freeCodeCamp.org](https://www.youtube.com/@freecodecamp/playlists)
+## [Beau teaches JavaScript](https://www.youtube.com/playlist?list=PLWKjhJtqVAbmoiNlqLJg1gxEjEuKHHcn_)
+### [React Basics - Beau teaches JavaScript](https://www.youtube.com/watch?v=QqLkkBKVDyM&amp;list=PLWKjhJtqVAbmoiNlqLJg1gxEjEuKHHcn_&amp;index=59&amp;pp=iAQB)

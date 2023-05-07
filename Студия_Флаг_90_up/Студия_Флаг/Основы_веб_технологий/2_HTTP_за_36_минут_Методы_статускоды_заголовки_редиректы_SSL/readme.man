@@ -1,0 +1,3 @@
+# [Студия Флаг](https://www.youtube.com/@FlagStudio/playlists)
+## [Основы веб технологий](https://www.youtube.com/playlist?list=PLVdcV6tHcaCHgVLbK7AW3KHavs88CP2w2)
+### [HTTP за 36 минут. Методы, статус-коды, заголовки, редиректы, SSL](https://www.youtube.com/watch?v=PpdQQjPS0MA&amp;list=PLVdcV6tHcaCHgVLbK7AW3KHavs88CP2w2&amp;index=2&amp;pp=iAQB)

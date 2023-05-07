@@ -1,0 +1,3 @@
+# [HTML Academy](https://www.youtube.com/@HTMLAcademyRUS/playlists)
+## [Мини-интенсив по Git и GitHub](https://www.youtube.com/playlist?list=PLQJNT2fdCJnj4I3e7aVCuw2rDJXfqyW6P)
+### [Мини-интенсив по Git и GitHub. Урок 2: как работать с GitHub](https://www.youtube.com/watch?v=S8GvSgMaJlM&amp;list=PLQJNT2fdCJnj4I3e7aVCuw2rDJXfqyW6P&amp;index=2&amp;pp=iAQB)

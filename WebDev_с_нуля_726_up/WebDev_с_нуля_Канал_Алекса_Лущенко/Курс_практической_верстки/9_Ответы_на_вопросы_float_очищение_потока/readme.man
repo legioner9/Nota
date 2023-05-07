@@ -1,0 +1,3 @@
+# [WebDev с нуля. Канал Алекса Лущенко](https://www.youtube.com/@itgid/playlists)
+## [Курс практической верстки](https://www.youtube.com/playlist?list=PLM7wFzahDYnF6V3FOkFMzwAwyJDlVP_kL)
+### [Ответы на вопросы: float, очищение потока](https://www.youtube.com/watch?v=zZ1D-VcsO64&amp;list=PLM7wFzahDYnF6V3FOkFMzwAwyJDlVP_kL&amp;index=9&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [Иван Викторович](https://www.youtube.com/@plugar_inf/playlists)
+## [Мини-блог на Django 4](https://www.youtube.com/playlist?list=PLs2IpQwiXpT2V0brYrq1gxbRJVeR9t5jY)
+### [Создание мини-блога на Django 4 | Урок 6](https://www.youtube.com/watch?v=35XLVPF5RTs&amp;list=PLs2IpQwiXpT2V0brYrq1gxbRJVeR9t5jY&amp;index=6&amp;pp=iAQB)

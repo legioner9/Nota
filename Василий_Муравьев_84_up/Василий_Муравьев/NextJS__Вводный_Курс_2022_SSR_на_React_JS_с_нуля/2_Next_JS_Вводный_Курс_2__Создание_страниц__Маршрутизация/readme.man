@@ -1,0 +1,3 @@
+# [Василий Муравьев](https://www.youtube.com/@stackdev/playlists)
+## [NextJS - Вводный Курс 2022 (SSR на React JS с нуля)](https://www.youtube.com/playlist?list=PLtL3lrXPn2rUQtW3A4kXbYY21frev-iDw)
+### [Next JS Вводный Курс #2 - Создание страниц + Маршрутизация](https://www.youtube.com/watch?v=daQmDNHZ06g&amp;list=PLtL3lrXPn2rUQtW3A4kXbYY21frev-iDw&amp;index=2&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [Traversy Media](https://www.youtube.com/@TraversyMedia/playlists)
+## [Build a GraphQL Server](https://www.youtube.com/playlist?list=PLillGF-RfqbYZty73_PHBqKRDnv7ikh68)
+### [Building a GraphQL Server [Part 3] - RootQuery &amp; Fetching Data](https://www.youtube.com/watch?v=e9Zxzr7sy60&amp;list=PLillGF-RfqbYZty73_PHBqKRDnv7ikh68&amp;index=3&amp;pp=iAQB)

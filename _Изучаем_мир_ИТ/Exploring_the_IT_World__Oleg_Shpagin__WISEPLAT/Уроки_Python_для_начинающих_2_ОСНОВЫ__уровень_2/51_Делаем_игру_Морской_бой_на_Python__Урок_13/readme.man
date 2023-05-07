@@ -1,3 +1,0 @@
-# [Exploring the IT World / Oleg Shpagin / WISEPLAT](https://www.youtube.com/@wiseplat/playlists)
-## [Уроки Python для начинающих #2 [ОСНОВЫ / уровень 2]](https://www.youtube.com/playlist?list=PLxiU3nwEQ4PE3WJaU2iclTpRjZojskznl)
-### [Делаем игру Морской бой на Python / Урок #13](https://www.youtube.com/watch?v=qu5Pzkkwt0o&amp;list=PLxiU3nwEQ4PE3WJaU2iclTpRjZojskznl&amp;index=51)

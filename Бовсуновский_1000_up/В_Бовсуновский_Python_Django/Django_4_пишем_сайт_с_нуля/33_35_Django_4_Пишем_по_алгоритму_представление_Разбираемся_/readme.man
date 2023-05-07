@@ -1,0 +1,3 @@
+# [В. Бовсуновский Python Django](https://www.youtube.com/@bov/playlists?view=1)
+## [Django 4 пишем сайт с нуля.](https://www.youtube.com/playlist?list=PLuZJ9n46uMzXVj9JEjULImuBKRVKKS9To)
+### [35. Django 4. Пишем по алгоритму представление. Разбираемся с self.kwargs.get().](https://www.youtube.com/watch?v=CdKBlenzo2I&amp;list=PLuZJ9n46uMzXVj9JEjULImuBKRVKKS9To&amp;index=33&amp;pp=iAQB)

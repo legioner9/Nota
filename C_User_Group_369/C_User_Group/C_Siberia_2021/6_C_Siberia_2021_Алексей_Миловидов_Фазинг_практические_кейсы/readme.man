@@ -1,0 +1,3 @@
+# [C++ User Group](https://www.youtube.com/@CUserGroupRussia/playlists)
+## [C++ Siberia 2021](https://www.youtube.com/playlist?list=PLZN9ZGiWZoZoqHq5MVAFH1e5QfKs9vQ8T)
+### [C++ Siberia 2021: Алексей Миловидов, Фазинг: практические кейсы в ClickHouse](https://www.youtube.com/watch?v=tNqzCPe3g4E&amp;list=PLZN9ZGiWZoZoqHq5MVAFH1e5QfKs9vQ8T&amp;index=6&amp;pp=iAQB)

@@ -1,0 +1,4 @@
+### [Github, Django, два джуна. Серия четвертая. Делаем красиво.](https://www.youtube.com/watch?v=Cs-0WFJe7Kg&amp;list=PLgENP2X2Wt57RxX1hp1vzGfQW-In8UZdX&amp;index=1&amp;pp=iAQB)
+### [Github, Django, два джуна. Серия третья. Бездны рефакторинга.](https://www.youtube.com/watch?v=p0oBzTMVsUA&amp;list=PLgENP2X2Wt57RxX1hp1vzGfQW-In8UZdX&amp;index=2&amp;pp=iAQB)
+### [Github, Django, два джуна. Серия вторая. Кажется, мы все поломали, или что делать с Git.](https://www.youtube.com/watch?v=JotTL2vz6-I&amp;list=PLgENP2X2Wt57RxX1hp1vzGfQW-In8UZdX&amp;index=3&amp;pp=iAQB)
+### [Github, Django, два джуна. Серия первая. Разбираем общие проблемы проекта.](https://www.youtube.com/watch?v=pert8_IIaQE&amp;list=PLgENP2X2Wt57RxX1hp1vzGfQW-In8UZdX&amp;index=4&amp;pp=iAQB)

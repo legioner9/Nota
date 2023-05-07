@@ -1,0 +1,3 @@
+# [Студия Флаг](https://www.youtube.com/@FlagStudio/playlists)
+## [Go Git Бесплатное 👍](https://www.youtube.com/playlist?list=PLVdcV6tHcaCFGiTjsGLKkWhTam_DJ6P0s)
+### [⭐️ Не используйте git add * (со звездой). Курс Go Git](https://www.youtube.com/watch?v=tV8OnWE57Fc&amp;list=PLVdcV6tHcaCFGiTjsGLKkWhTam_DJ6P0s&amp;index=7&amp;pp=iAQB)

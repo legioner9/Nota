@@ -1,0 +1,3 @@
+# [Web Developer Blog](https://www.youtube.com/@SuprunAlexey/playlists)
+## [Уроки JavaScript](https://www.youtube.com/playlist?list=PLVfMKQXDAhGUaEtJ_fOUz0F7TJtidE7Qw)
+### [Уроки JavaScript | #15 - Как работать с DOM. Доступ к элементам вэб страницы](https://www.youtube.com/watch?v=AZx45EHcA1w&amp;list=PLVfMKQXDAhGUaEtJ_fOUz0F7TJtidE7Qw&amp;index=15&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [В. Бовсуновский Python Django](https://www.youtube.com/@bov/playlists?view=1)
+## [Искусственный интеллект](https://www.youtube.com/playlist?list=PLuZJ9n46uMzUM76FLR97dXc0YM76hU94v)
+### [Продолжаем изучать функции numpy (Python).](https://www.youtube.com/watch?v=SrLKMrgCAn0&amp;list=PLuZJ9n46uMzUM76FLR97dXc0YM76hU94v&amp;index=2&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [Просто о Laravel. CutCode](https://www.youtube.com/@CutCodeRu/playlists)
+## [Проекты CutCode](https://www.youtube.com/playlist?list=PLTucyHptHtTnLFqJoXPX8292F5MQkRRrC)
+### [LiveWire. Отправка событий между компонентами и новый раздел на проекте Cutcode](https://www.youtube.com/watch?v=Go8QPrVaCdc&amp;list=PLTucyHptHtTnLFqJoXPX8292F5MQkRRrC&amp;index=6&amp;pp=iAQB)

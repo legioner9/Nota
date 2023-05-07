@@ -1,0 +1,3 @@
+# [WebDev с нуля. Канал Алекса Лущенко](https://www.youtube.com/@itgid/playlists)
+## [Разное](https://www.youtube.com/playlist?list=PLM7wFzahDYnFHL9iXtfpFHU_HAlt9UBgb)
+### [Розыгрыш курса &quot;Практический JavaScript&quot;](https://www.youtube.com/watch?v=RszvVlu8TxI&amp;list=PLM7wFzahDYnFHL9iXtfpFHU_HAlt9UBgb&amp;index=1&amp;pp=iAQB)

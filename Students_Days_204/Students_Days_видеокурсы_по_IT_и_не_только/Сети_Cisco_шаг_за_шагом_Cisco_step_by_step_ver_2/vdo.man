@@ -1,0 +1,2 @@
+### [Курс Cisco, Routing and Switching. Шаг 1 Подключение к маршрутизатору, настройка IP адреса](https://www.youtube.com/watch?v=kb4wE1U_rXw&amp;list=PL7CmqnO_QydixFWro--bxiXLSiQtt3Sez&amp;index=1&amp;pp=iAQB)
+### [Курс Cisco, Routing and Switching. Шаг 2 Настройка пароля на портах Console и для доступа по telnet](https://www.youtube.com/watch?v=PnuVWZyiYKM&amp;list=PL7CmqnO_QydixFWro--bxiXLSiQtt3Sez&amp;index=2&amp;pp=iAQB)

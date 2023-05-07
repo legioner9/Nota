@@ -1,0 +1,3 @@
+# [Noukash](https://www.youtube.com/@Noukash/playlists)
+## [Аналитика данных](https://www.youtube.com/playlist?list=PLXc92E2Pp5KLSAE8LWl5KDdjQzam5k95T)
+### [Полный разбор SQL задач из Кремниевой долины (FAANG)](https://www.youtube.com/watch?v=kIRR7M8Ryp0&amp;list=PLXc92E2Pp5KLSAE8LWl5KDdjQzam5k95T&amp;index=20&amp;pp=iAQB)

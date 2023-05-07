@@ -1,0 +1,3 @@
+# [WebDev с нуля. Канал Алекса Лущенко](https://www.youtube.com/@itgid/playlists)
+## [JavaScript. Первые шаги](https://www.youtube.com/playlist?list=PLM7wFzahDYnGiAEISqw1Lal_T9heUvbar)
+### [Хитрые скобки в стрелочных функциях JavaScript](https://www.youtube.com/watch?v=wf3yr9TxlLo&amp;list=PLM7wFzahDYnGiAEISqw1Lal_T9heUvbar&amp;index=15&amp;pp=iAQB)

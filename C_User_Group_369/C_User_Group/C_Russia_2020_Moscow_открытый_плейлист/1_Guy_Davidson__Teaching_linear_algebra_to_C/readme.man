@@ -1,0 +1,3 @@
+# [C++ User Group](https://www.youtube.com/@CUserGroupRussia/playlists)
+## [C++ Russia 2020 Moscow: открытый плейлист](https://www.youtube.com/playlist?list=PLZN9ZGiWZoZruMY-MlkAd-nHzdP9TfLRC)
+### [Guy Davidson — Teaching linear algebra to C++](https://www.youtube.com/watch?v=hPlEN_UtJSI&amp;list=PLZN9ZGiWZoZruMY-MlkAd-nHzdP9TfLRC&amp;index=1&amp;pp=iAQB)

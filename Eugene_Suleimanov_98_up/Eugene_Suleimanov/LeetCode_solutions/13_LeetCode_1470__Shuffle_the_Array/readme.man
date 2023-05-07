@@ -1,0 +1,3 @@
+# [Eugene Suleimanov](https://www.youtube.com/@EugeneSuleimanov/playlists)
+## [LeetCode solutions](https://www.youtube.com/playlist?list=PLlsMRoVt5sTPCbbIW2QZ-hRMW80lymEYR)
+### [LeetCode #1470 - Shuffle the Array](https://www.youtube.com/watch?v=DndcKgne2w4&amp;list=PLlsMRoVt5sTPCbbIW2QZ-hRMW80lymEYR&amp;index=13&amp;pp=iAQB)

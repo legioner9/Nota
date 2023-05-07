@@ -1,0 +1,3 @@
+# [Unix way](https://www.youtube.com/@unixway4196/playlists)
+## [Системы автоматизации](https://www.youtube.com/playlist?list=PLsMIccp52YRurNpkYG_leXVHaKzl-QG-u)
+### [Система автоматизации Jenkins. Часть 1](https://www.youtube.com/watch?v=tvswVeMptLM&amp;list=PLsMIccp52YRurNpkYG_leXVHaKzl-QG-u&amp;index=1&amp;pp=iAQB)

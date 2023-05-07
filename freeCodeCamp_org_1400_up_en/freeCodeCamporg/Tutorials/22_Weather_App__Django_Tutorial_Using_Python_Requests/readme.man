@@ -1,0 +1,3 @@
+# [freeCodeCamp.org](https://www.youtube.com/@freecodecamp/playlists)
+## [Tutorials](https://www.youtube.com/playlist?list=PLWKjhJtqVAbmDGFE_pZ-PDJ1GWe3KtT-M)
+### [Weather App - Django Tutorial (Using Python Requests)](https://www.youtube.com/watch?v=qCQGV7F7CUc&amp;list=PLWKjhJtqVAbmDGFE_pZ-PDJ1GWe3KtT-M&amp;index=22&amp;pp=iAQB)

@@ -1,0 +1,5 @@
+### [Framework Yii2 уроки и знакомство - Hello World](https://www.youtube.com/watch?v=jOK6C5D96gw&amp;list=PL-leL2miqjEaHR1_-VSMmhVAcGRuRgNuK&amp;index=1&amp;pp=iAQB)
+### [Подключение скриптов js и css в Yii2](https://www.youtube.com/watch?v=mgGDxhRF48w&amp;list=PL-leL2miqjEaHR1_-VSMmhVAcGRuRgNuK&amp;index=2&amp;pp=iAQB)
+### [MVC примеры в Yii2 Framework PHP](https://www.youtube.com/watch?v=uJRnub-VtlA&amp;list=PL-leL2miqjEaHR1_-VSMmhVAcGRuRgNuK&amp;index=3&amp;pp=iAQB)
+### [Yii2 Уроки - связь с базой данных MySQL](https://www.youtube.com/watch?v=-_bot4oMqx4&amp;list=PL-leL2miqjEaHR1_-VSMmhVAcGRuRgNuK&amp;index=4&amp;pp=iAQB)
+### [Онлайн конвертер видео с помощи ffmpeg](https://www.youtube.com/watch?v=aiyPpLtIemA&amp;list=PL-leL2miqjEaHR1_-VSMmhVAcGRuRgNuK&amp;index=5&amp;pp=iAQB)

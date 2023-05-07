@@ -1,0 +1,3 @@
+# [В. Бовсуновский Python Django](https://www.youtube.com/@bov/playlists?view=1)
+## [Фреймворк Django + Python](https://www.youtube.com/playlist?list=PLuZJ9n46uMzUTlpOt5EiuFdL3NADjS5EP)
+### [Создание шаблонов в Django(фреймворк) курс 5 уроков 8](https://www.youtube.com/watch?v=0JBq4sN1EUs&amp;list=PLuZJ9n46uMzUTlpOt5EiuFdL3NADjS5EP&amp;index=10&amp;pp=iAQB)

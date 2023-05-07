@@ -1,0 +1,3 @@
+# [Андрей Андриевский](https://www.youtube.com/@andrievskii/playlists)
+## [Django](https://www.youtube.com/playlist?list=PLMB6wLyKp7lU9gAGPaIIbLKQwMicNzlgv)
+### [Установка Linux Mint на VirtualBox](https://www.youtube.com/watch?v=LayQcuPGBGQ&amp;list=PLMB6wLyKp7lU9gAGPaIIbLKQwMicNzlgv&amp;index=1&amp;pp=iAQB)

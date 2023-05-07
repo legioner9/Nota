@@ -1,0 +1,3 @@
+# [В. Бовсуновский Python Django](https://www.youtube.com/@bov/playlists?view=1)
+## [Kotlin](https://www.youtube.com/playlist?list=PLuZJ9n46uMzVVHB82xLSBpKlGyVb7H7fp)
+### [Переключение в программировании ведёт к профессиональному пониманию.](https://www.youtube.com/watch?v=nMWX2lJXeiA&amp;list=PLuZJ9n46uMzVVHB82xLSBpKlGyVb7H7fp&amp;index=24&amp;pp=iAQB)

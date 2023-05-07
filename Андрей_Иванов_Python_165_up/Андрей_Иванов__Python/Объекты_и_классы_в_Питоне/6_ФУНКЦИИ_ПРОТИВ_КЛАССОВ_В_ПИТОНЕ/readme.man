@@ -1,0 +1,3 @@
+# [Андрей Иванов | Python](https://www.youtube.com/@PythononPapyrusRU/playlists)
+## [Объекты и классы в Питоне](https://www.youtube.com/playlist?list=PLF4MWzDJPFSZeovRnxvorr4HwwTQi15-Q)
+### [ФУНКЦИИ ПРОТИВ КЛАССОВ В ПИТОНЕ](https://www.youtube.com/watch?v=-r8mt4Djc-A&amp;list=PLF4MWzDJPFSZeovRnxvorr4HwwTQi15-Q&amp;index=6&amp;pp=iAQB)

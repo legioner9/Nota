@@ -1,0 +1,3 @@
+# [webDev](https://www.youtube.com/@YauhenKavalchuk/playlists?view=1)
+## [CSS3](https://www.youtube.com/playlist?list=PLNkWIWHIRwMHUawuIEpPI_tOG7Mfhs_sA)
+### [CSS3 #5 Каскадность и наследование (Cascading &amp; Inheritance)](https://www.youtube.com/watch?v=Y8UFzOoKkvQ&amp;list=PLNkWIWHIRwMHUawuIEpPI_tOG7Mfhs_sA&amp;index=6)

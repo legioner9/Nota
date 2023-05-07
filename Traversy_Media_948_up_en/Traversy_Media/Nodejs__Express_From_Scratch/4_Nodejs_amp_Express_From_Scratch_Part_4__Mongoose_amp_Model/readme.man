@@ -1,0 +1,3 @@
+# [Traversy Media](https://www.youtube.com/@TraversyMedia/playlists)
+## [Node.js & Express From Scratch](https://www.youtube.com/playlist?list=PLillGF-RfqbYRpji8t4SxUkMxfowG4Kqp)
+### [Node.js &amp; Express From Scratch [Part 4] - Mongoose &amp; Model Setup](https://www.youtube.com/watch?v=cVYQEvP-_PA&amp;list=PLillGF-RfqbYRpji8t4SxUkMxfowG4Kqp&amp;index=4&amp;pp=iAQB)

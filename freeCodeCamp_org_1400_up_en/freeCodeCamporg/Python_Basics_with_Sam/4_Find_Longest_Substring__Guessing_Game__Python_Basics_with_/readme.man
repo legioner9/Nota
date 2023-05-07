@@ -1,0 +1,3 @@
+# [freeCodeCamp.org](https://www.youtube.com/@freecodecamp/playlists)
+## [Python Basics with Sam](https://www.youtube.com/playlist?list=PLWKjhJtqVAbkmRvnFmOd4KhDdlK1oIq23)
+### [Find Longest Substring / Guessing Game - Python Basics with Sam](https://www.youtube.com/watch?v=hoP7_DkrmiA&amp;list=PLWKjhJtqVAbkmRvnFmOd4KhDdlK1oIq23&amp;index=4&amp;pp=iAQB)

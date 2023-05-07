@@ -1,0 +1,2 @@
+### [Docker. Что нужно знать про него для трудоустройства программистом. Отвечает Максим Гриханов](https://www.youtube.com/watch?v=77h67lgBh-k&amp;list=PLgENP2X2Wt5534nm-nP5wBltEcB4xXKwP&amp;index=1&amp;pp=iAQB)
+### [Docker на windows. Как, что зачем. Ответы на вопросы. Отвечает Максим Гриханов](https://www.youtube.com/watch?v=2jXGMcxDlIY&amp;list=PLgENP2X2Wt5534nm-nP5wBltEcB4xXKwP&amp;index=2&amp;pp=iAQB)

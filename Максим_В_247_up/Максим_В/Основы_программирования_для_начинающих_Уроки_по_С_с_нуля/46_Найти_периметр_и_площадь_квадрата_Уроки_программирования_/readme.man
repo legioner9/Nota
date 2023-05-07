@@ -1,0 +1,3 @@
+# [Максим В](https://www.youtube.com/@cpp/playlists)
+## [Основы программирования для начинающих. Уроки по С++ с нуля.](https://www.youtube.com/playlist?list=PLlxYwLnXeoE0qsuXwsUi3zSU6FKOS8YCB)
+### [Найти периметр и площадь квадрата. Уроки программирования на С++ для начинающих.](https://www.youtube.com/watch?v=xCZbX_BPgvo&amp;list=PLlxYwLnXeoE0qsuXwsUi3zSU6FKOS8YCB&amp;index=46&amp;pp=iAQB)

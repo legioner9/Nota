@@ -1,0 +1,3 @@
+# [WebDev с нуля. Канал Алекса Лущенко](https://www.youtube.com/@itgid/playlists)
+## [Курс ReactJS (Redux, deploy)](https://www.youtube.com/playlist?list=PLM7wFzahDYnHVWnTz-OMi0pXSLdAlAHte)
+### [Стыкуем React + Node.js. Пишем приложение файловый менеджер, фронт react.js, бек - node.js](https://www.youtube.com/watch?v=-l3KdDWrKQY&amp;list=PLM7wFzahDYnHVWnTz-OMi0pXSLdAlAHte&amp;index=20&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [Traversy Media](https://www.youtube.com/@TraversyMedia/playlists)
+## [React Projects](https://www.youtube.com/playlist?list=PLillGF-RfqbY3c2r0htQyVbDJJoBFE6Rb)
+### [Data Display With ApexCharts | Vanilla JS &amp; React](https://www.youtube.com/watch?v=JxEyXOlSgV0&amp;list=PLillGF-RfqbY3c2r0htQyVbDJJoBFE6Rb&amp;index=11&amp;pp=iAQB)

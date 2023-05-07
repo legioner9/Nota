@@ -1,0 +1,3 @@
+# [Eugene Suleimanov](https://www.youtube.com/@EugeneSuleimanov/playlists)
+## [Шаблоны  проектирования на языке Java](https://www.youtube.com/playlist?list=PLlsMRoVt5sTPgGbinwOVnaF1mxNeLAD7P)
+### [Шаблоны Java. Chain of Responsibility (Цепочка ответственности).](https://www.youtube.com/watch?v=66_0-u8P5DQ&amp;list=PLlsMRoVt5sTPgGbinwOVnaF1mxNeLAD7P&amp;index=18&amp;pp=iAQB)

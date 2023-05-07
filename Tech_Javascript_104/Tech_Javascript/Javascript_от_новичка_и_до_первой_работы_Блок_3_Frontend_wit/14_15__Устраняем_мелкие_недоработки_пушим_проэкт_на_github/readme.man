@@ -1,0 +1,3 @@
+# [Tech Javascript](https://www.youtube.com/@techjavascript/playlists)
+## [Javascript от новичка и до первой работы. Блок 3. Frontend with React js](https://www.youtube.com/playlist?list=PLco1IpJXladYKtXL9ppvHEMd8fQsTdCYm)
+### [15  Устраняем мелкие недоработки, пушим проэкт на github](https://www.youtube.com/watch?v=7O6uk_YsGNs&amp;list=PLco1IpJXladYKtXL9ppvHEMd8fQsTdCYm&amp;index=14&amp;pp=iAQB)

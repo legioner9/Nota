@@ -1,0 +1,3 @@
+### [#0 Базовая сборка Gulp для участников марафона](https://www.youtube.com/watch?v=ct0AFhbn6U0&amp;list=PLU0nVsJXPyy9vwOS1NujV4T7ZxtKKmneI&amp;index=1&amp;pp=iAQB)
+### [#1 Верстка сайта из Figma для начинающих  | Марафон по верстке с GULP, SASS, БЭМ и Pixel Perfect](https://www.youtube.com/watch?v=aZMTlQHg0A4&amp;list=PLU0nVsJXPyy9vwOS1NujV4T7ZxtKKmneI&amp;index=2&amp;pp=iAQB)
+### [#2 Верстка сайта из Figma для начинающих  | Марафон по верстке с GULP, SASS, БЭМ и Pixel Perfect](https://www.youtube.com/watch?v=ToZ3s_eYsuU&amp;list=PLU0nVsJXPyy9vwOS1NujV4T7ZxtKKmneI&amp;index=3&amp;pp=iAQB)

@@ -1,0 +1,6 @@
+### [1. Проектирование интерфейсов. Введение | Технострим](https://www.youtube.com/watch?v=NLfAhKXWn_o&amp;list=PLrCZzMib1e9ov6p4Wno8DfIoD5pf25qiL&amp;index=1&amp;pp=iAQB)
+### [2. Проектирование интерфейсов. Сбор информации о пользователях и задачах | Технострим](https://www.youtube.com/watch?v=4UqlS_inLP0&amp;list=PLrCZzMib1e9ov6p4Wno8DfIoD5pf25qiL&amp;index=2&amp;pp=iAQB)
+### [3. Проектирование интерфейсов. Информационная архитектура и пользовательские сценарии | Технострим](https://www.youtube.com/watch?v=7gDikKZm6mc&amp;list=PLrCZzMib1e9ov6p4Wno8DfIoD5pf25qiL&amp;index=3&amp;pp=iAQB)
+### [4. Проектирование интерфейсов. Психология | Технострим](https://www.youtube.com/watch?v=FxY5kY2Ot1A&amp;list=PLrCZzMib1e9ov6p4Wno8DfIoD5pf25qiL&amp;index=4&amp;pp=iAQB)
+### [5. Проектирование интерфейсов. Навигация, элементы интерфейса и взаимодействие | Технострим](https://www.youtube.com/watch?v=QB4Uz75jgqs&amp;list=PLrCZzMib1e9ov6p4Wno8DfIoD5pf25qiL&amp;index=5&amp;pp=iAQB)
+### [6. Проектирование интерфейсов. Ошибки при работе с интерфейсом | Технострим](https://www.youtube.com/watch?v=Lzsgn7Qg5y8&amp;list=PLrCZzMib1e9ov6p4Wno8DfIoD5pf25qiL&amp;index=6&amp;pp=iAQB)

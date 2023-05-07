@@ -1,0 +1,3 @@
+# [okiseleva](https://www.youtube.com/@okiseleva/playlists)
+## [Автоматизация в Postman](https://www.youtube.com/playlist?list=PLzy4cPXOwbY5jBrEKajDA3-jzzvJgW6n8)
+### [Как запускать тесты через newman](https://www.youtube.com/watch?v=f2gGCO_L318&amp;list=PLzy4cPXOwbY5jBrEKajDA3-jzzvJgW6n8&amp;index=8&amp;pp=iAQB)

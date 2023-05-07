@@ -1,0 +1,3 @@
+# [Просто о Laravel. CutCode](https://www.youtube.com/@CutCodeRu/playlists)
+## [Тесты в Laravel](https://www.youtube.com/playlist?list=PLTucyHptHtTmGnH8cSooC0hWyQXCTp-vh)
+### [Factories, seeds в Laravel. Использование фабрик и сидов при тестировании проектов на Ларавел](https://www.youtube.com/watch?v=tkyBM-LIc5U&amp;list=PLTucyHptHtTmGnH8cSooC0hWyQXCTp-vh&amp;index=1&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [Eugene Suleimanov](https://www.youtube.com/@EugeneSuleimanov/playlists)
+## [Примеры приложений](https://www.youtube.com/playlist?list=PLlsMRoVt5sTNpihn4q4S4an2xpYkSA3RR)
+### [Spring Security + База Данных. Регистрация и авторизация .](https://www.youtube.com/watch?v=iivY8B5A0Tk&amp;list=PLlsMRoVt5sTNpihn4q4S4an2xpYkSA3RR&amp;index=2&amp;pp=iAQB)

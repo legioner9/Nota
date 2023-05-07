@@ -1,0 +1,3 @@
+# [Coding Tech](https://www.youtube.com/@CodingTech/playlists)
+## [Databases](https://www.youtube.com/playlist?list=PLFjq8z-aGyQ4Sd7-CI0ruUHaE4xVCYvXZ)
+### [MySQL 8.0: Not Only Good, its GREAT](https://www.youtube.com/watch?v=RACzbFKHSDU&amp;list=PLFjq8z-aGyQ4Sd7-CI0ruUHaE4xVCYvXZ&amp;index=2&amp;pp=iAQB)

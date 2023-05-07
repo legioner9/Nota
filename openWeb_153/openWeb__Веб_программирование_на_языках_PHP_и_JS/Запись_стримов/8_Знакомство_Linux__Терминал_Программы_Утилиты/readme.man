@@ -1,0 +1,3 @@
+# [openWeb - Веб программирование на языках PHP и JS](https://www.youtube.com/@openweb-php/playlists)
+## [Запись стримов](https://www.youtube.com/playlist?list=PL-leL2miqjEafGwuxjs1CCdRVDLnpceug)
+### [Знакомство Linux - Терминал, Программы, Утилиты](https://www.youtube.com/watch?v=4z7pRrCGpCE&amp;list=PL-leL2miqjEafGwuxjs1CCdRVDLnpceug&amp;index=8&amp;pp=iAQB)

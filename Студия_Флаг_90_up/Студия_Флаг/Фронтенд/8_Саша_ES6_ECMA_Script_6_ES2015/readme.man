@@ -1,0 +1,3 @@
+# [Студия Флаг](https://www.youtube.com/@FlagStudio/playlists)
+## [Фронтенд](https://www.youtube.com/playlist?list=PLVdcV6tHcaCGQrTMSYdBgedHMhNtGNXWf)
+### [Саша ES6 (ECMA Script 6, ES2015)](https://www.youtube.com/watch?v=j6ejKe5LAFM&amp;list=PLVdcV6tHcaCGQrTMSYdBgedHMhNtGNXWf&amp;index=8&amp;pp=iAQB)

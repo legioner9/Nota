@@ -1,0 +1,3 @@
+# [Unix way](https://www.youtube.com/@unixway4196/playlists)
+## [DNS](https://www.youtube.com/playlist?list=PLsMIccp52YRubCDPYCCuE0eL4wZaeFYNz)
+### [DNS // Настройка bind](https://www.youtube.com/watch?v=JlrV1-jd-4w&amp;list=PLsMIccp52YRubCDPYCCuE0eL4wZaeFYNz&amp;index=2&amp;pp=iAQB)

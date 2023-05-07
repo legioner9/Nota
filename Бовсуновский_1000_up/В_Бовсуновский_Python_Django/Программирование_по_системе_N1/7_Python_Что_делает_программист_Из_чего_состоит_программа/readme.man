@@ -1,0 +1,3 @@
+# [В. Бовсуновский Python Django](https://www.youtube.com/@bov/playlists?view=1)
+## [Программирование по системе N1](https://www.youtube.com/playlist?list=PLuZJ9n46uMzW1oBDysdzhnRVaAF4xdjJd)
+### [(Python) Что делает программист? Из чего состоит программа?](https://www.youtube.com/watch?v=snEtQW9ey80&amp;list=PLuZJ9n46uMzW1oBDysdzhnRVaAF4xdjJd&amp;index=7&amp;pp=iAQB)

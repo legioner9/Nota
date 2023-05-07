@@ -1,0 +1,3 @@
+# [Андрей Иванов | Python](https://www.youtube.com/@PythononPapyrusRU/playlists)
+## [Финансовые рынки в Питоне](https://www.youtube.com/playlist?list=PLF4MWzDJPFSb8VagHQNFIUwIXSGAgquj-)
+### [СТРОИМ ГЛУБИНУ БИТКОИНА В ПИТОНЕ. ДОСТАЕМ И АНАЛИЗИРУЕМ СТЕНКИ ИЗ БИНАНСА](https://www.youtube.com/watch?v=Ar6DMcioBKg&amp;list=PLF4MWzDJPFSb8VagHQNFIUwIXSGAgquj-&amp;index=5&amp;pp=iAQB)

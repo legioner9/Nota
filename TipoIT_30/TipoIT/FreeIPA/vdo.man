@@ -1,0 +1,3 @@
+### [FreeIPA (Identity, policy, audit)- Введение](https://www.youtube.com/watch?v=jZlbZwm4n2E&amp;list=PLTuGAOACdyjWd6l9VVS17RnGd6pIc4gnn&amp;index=1&amp;pp=iAQB)
+### [FreeIPA - Установка и конфигурирование (Часть 2)](https://www.youtube.com/watch?v=_XxtstG4Qq4&amp;list=PLTuGAOACdyjWd6l9VVS17RnGd6pIc4gnn&amp;index=2&amp;pp=iAQB)
+### [FreeIPA - Установка и конфигурирование (Часть 1)](https://www.youtube.com/watch?v=Q0KwUO7KC3M&amp;list=PLTuGAOACdyjWd6l9VVS17RnGd6pIc4gnn&amp;index=3&amp;pp=iAQB)

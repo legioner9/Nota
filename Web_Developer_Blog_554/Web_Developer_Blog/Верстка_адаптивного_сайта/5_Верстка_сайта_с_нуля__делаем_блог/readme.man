@@ -1,0 +1,3 @@
+# [Web Developer Blog](https://www.youtube.com/@SuprunAlexey/playlists)
+## [Верстка адаптивного сайта](https://www.youtube.com/playlist?list=PLVfMKQXDAhGXEkdlziVqdr6aHC7l4y5Mq)
+### [Верстка сайта с нуля - делаем блог](https://www.youtube.com/watch?v=dQknQySN41I&amp;list=PLVfMKQXDAhGXEkdlziVqdr6aHC7l4y5Mq&amp;index=5&amp;pp=iAQB)

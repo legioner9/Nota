@@ -1,0 +1,2 @@
+### [Palo Alto networks - Prisma Cloud (Twistlock)](https://www.youtube.com/watch?v=Fus5h4tD_0k&amp;list=PLRAbJA74qU4BPkFj4EIpACGOVTzDR9MlU&amp;index=1&amp;pp=iAQB)
+### [Защита контейнерных сред](https://www.youtube.com/watch?v=clzWAZ45ukc&amp;list=PLRAbJA74qU4BPkFj4EIpACGOVTzDR9MlU&amp;index=2&amp;pp=iAQB)

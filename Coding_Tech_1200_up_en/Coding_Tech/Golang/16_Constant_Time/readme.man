@@ -1,0 +1,3 @@
+# [Coding Tech](https://www.youtube.com/@CodingTech/playlists)
+## [Golang](https://www.youtube.com/playlist?list=PLFjq8z-aGyQ7elzRbDAaW49gyYSwKwEEp)
+### [Constant Time](https://www.youtube.com/watch?v=L1kpwwhkZR8&amp;list=PLFjq8z-aGyQ7elzRbDAaW49gyYSwKwEEp&amp;index=16&amp;pp=iAQB)

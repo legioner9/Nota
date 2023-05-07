@@ -1,0 +1,3 @@
+# [freeCodeCamp.org](https://www.youtube.com/@freecodecamp/playlists)
+## [React Project 5 - Live Coding with Jesse](https://www.youtube.com/playlist?list=PLWKjhJtqVAbkOoQw0jDWn-pzN3nFVjhbH)
+### [NextJS Custom Server and Routing (P5D6) - Live Coding with Jesse](https://www.youtube.com/watch?v=-KPg3JHibbA&amp;list=PLWKjhJtqVAbkOoQw0jDWn-pzN3nFVjhbH&amp;index=6&amp;pp=iAQB)

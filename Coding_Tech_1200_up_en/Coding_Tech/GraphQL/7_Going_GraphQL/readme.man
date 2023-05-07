@@ -1,0 +1,3 @@
+# [Coding Tech](https://www.youtube.com/@CodingTech/playlists)
+## [GraphQL](https://www.youtube.com/playlist?list=PLFjq8z-aGyQ6vtpRRKHtJB7D8kvoJW19X)
+### [Going GraphQL](https://www.youtube.com/watch?v=640sSD-1CJQ&amp;list=PLFjq8z-aGyQ6vtpRRKHtJB7D8kvoJW19X&amp;index=7&amp;pp=iAQB)

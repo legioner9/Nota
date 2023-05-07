@@ -1,0 +1,3 @@
+# [Coding Tech](https://www.youtube.com/@CodingTech/playlists)
+## [Web Design: CSS / SVG](https://www.youtube.com/playlist?list=PLFjq8z-aGyQ6UpssdSYOtSreZuisB2iLU)
+### [Hacking HTML Emails With CSS](https://www.youtube.com/watch?v=tVQcfghzwJI&amp;list=PLFjq8z-aGyQ6UpssdSYOtSreZuisB2iLU&amp;index=14&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [Coding Tech](https://www.youtube.com/@CodingTech/playlists)
+## [JavaScript](https://www.youtube.com/playlist?list=PLFjq8z-aGyQ49hmlhMZgYAoXb3NBiee4R)
+### [Realistic AI Options For NodeJS Developers](https://www.youtube.com/watch?v=9gwrUttcoYo&amp;list=PLFjq8z-aGyQ49hmlhMZgYAoXb3NBiee4R&amp;index=36&amp;pp=iAQB)

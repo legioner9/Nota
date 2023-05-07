@@ -1,0 +1,3 @@
+# [Просто о Laravel. CutCode](https://www.youtube.com/@CutCodeRu/playlists)
+## [Полезное видео](https://www.youtube.com/playlist?list=PLTucyHptHtTmq4HFKZVmwwzcac2kgfaEZ)
+### [Создание собственных глобальных helpers в Laravel](https://www.youtube.com/watch?v=oRKFrCimovM&amp;list=PLTucyHptHtTmq4HFKZVmwwzcac2kgfaEZ&amp;index=4&amp;pp=iAQB)

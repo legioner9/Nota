@@ -1,0 +1,3 @@
+# [Андрей Иванов | Python](https://www.youtube.com/@PythononPapyrusRU/playlists)
+## [Концепты в IT](https://www.youtube.com/playlist?list=PLF4MWzDJPFSb2M7gjv_r5lHGhqz19D-Sh)
+### [ЧТО ТАКОЕ API? КАК РАБОТАЮТ АПИ И ЗАЧЕМ ОНИ НУЖНЫ](https://www.youtube.com/watch?v=60zqfWmi63g&amp;list=PLF4MWzDJPFSb2M7gjv_r5lHGhqz19D-Sh&amp;index=6&amp;pp=iAQB)

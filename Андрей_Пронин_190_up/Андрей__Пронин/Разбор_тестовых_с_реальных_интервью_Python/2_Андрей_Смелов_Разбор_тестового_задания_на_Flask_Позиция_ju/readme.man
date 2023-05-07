@@ -1,0 +1,3 @@
+# [Андрей += Пронин](https://www.youtube.com/@AndyPronin/playlists)
+## [Разбор тестовых с реальных интервью Python](https://www.youtube.com/playlist?list=PLgENP2X2Wt57gZiBBJTwJsKvMB7504Gev)
+### [Андрей Смелов. Разбор тестового задания на Flask. Позиция: junior python developer. Компания Acronis](https://www.youtube.com/watch?v=3ZVClZHPRig&amp;list=PLgENP2X2Wt57gZiBBJTwJsKvMB7504Gev&amp;index=2&amp;pp=iAQB)

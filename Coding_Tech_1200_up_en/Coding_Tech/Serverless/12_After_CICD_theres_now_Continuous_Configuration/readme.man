@@ -1,0 +1,3 @@
+# [Coding Tech](https://www.youtube.com/@CodingTech/playlists)
+## [Serverless](https://www.youtube.com/playlist?list=PLFjq8z-aGyQ5rHd-z7f6uLLFCscVkRCbf)
+### [After CI/CD, there's now Continuous Configuration](https://www.youtube.com/watch?v=S50OFBgG0GM&amp;list=PLFjq8z-aGyQ5rHd-z7f6uLLFCscVkRCbf&amp;index=12&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [web - с нуля до профи](https://www.youtube.com/@webQ/playlists)
+## [Интернет магазин с нуля php](https://www.youtube.com/playlist?list=PLfWxkvC096mJzCJr7yQHCBM7IsM-pniPD)
+### [Интернет магазин с нуля на php Выпуск №91 Определение браузера Internet Explorer](https://www.youtube.com/watch?v=3c6cMrkhKWs&amp;list=PLfWxkvC096mJzCJr7yQHCBM7IsM-pniPD&amp;index=92&amp;pp=iAQB)

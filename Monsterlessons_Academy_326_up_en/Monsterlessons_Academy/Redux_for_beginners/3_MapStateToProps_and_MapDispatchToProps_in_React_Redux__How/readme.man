@@ -1,0 +1,3 @@
+# [Monsterlessons Academy](https://www.youtube.com/@MonsterlessonsAcademy/playlists)
+## [Redux for beginners](https://www.youtube.com/playlist?list=PLEjh-YiSBCDJZAcJgKMkead-Wjw8rB1LC)
+### [MapStateToProps and MapDispatchToProps in React Redux - How To Use](https://www.youtube.com/watch?v=VrKiQikkMXI&amp;list=PLEjh-YiSBCDJZAcJgKMkead-Wjw8rB1LC&amp;index=3&amp;pp=iAQB)

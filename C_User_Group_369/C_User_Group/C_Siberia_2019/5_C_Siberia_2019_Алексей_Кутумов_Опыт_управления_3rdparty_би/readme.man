@@ -1,0 +1,3 @@
+# [C++ User Group](https://www.youtube.com/@CUserGroupRussia/playlists)
+## [C++ Siberia 2019](https://www.youtube.com/playlist?list=PLZN9ZGiWZoZof_AvWub4hAk6Yg4U5rTpT)
+### [C++ Siberia 2019: Алексей Кутумов, Опыт управления 3rd-party библиотеками](https://www.youtube.com/watch?v=TcukGes8ViA&amp;list=PLZN9ZGiWZoZof_AvWub4hAk6Yg4U5rTpT&amp;index=5&amp;pp=iAQB)

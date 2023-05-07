@@ -1,0 +1,3 @@
+# [В. Бовсуновский Python Django](https://www.youtube.com/@bov/playlists?view=1)
+## [ООП Python глубоко.](https://www.youtube.com/playlist?list=PLuZJ9n46uMzXkD4T4F54FJNTGSZho90GB)
+### [(Python и Kotlin). Трудно ли изучать два языка программирования и зачем?](https://www.youtube.com/watch?v=Mt5PcyT_YOc&amp;list=PLuZJ9n46uMzXkD4T4F54FJNTGSZho90GB&amp;index=26&amp;pp=iAQB)

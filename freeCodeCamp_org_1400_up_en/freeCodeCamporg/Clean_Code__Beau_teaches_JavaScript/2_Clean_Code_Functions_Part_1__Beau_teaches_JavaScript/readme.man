@@ -1,0 +1,3 @@
+# [freeCodeCamp.org](https://www.youtube.com/@freecodecamp/playlists)
+## [Clean Code - Beau teaches JavaScript](https://www.youtube.com/playlist?list=PLWKjhJtqVAbkK24EaPurzMq0-kw5U9pJh)
+### [Clean Code: Functions (Part 1) - Beau teaches JavaScript](https://www.youtube.com/watch?v=RR_dQ4sBSBM&amp;list=PLWKjhJtqVAbkK24EaPurzMq0-kw5U9pJh&amp;index=2&amp;pp=iAQB)

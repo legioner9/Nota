@@ -1,3 +1,0 @@
-# [blacktrub channel](https://www.youtube.com/@blacktrub/playlists)
-## [A Tour of Go](https://www.youtube.com/playlist?list=PLqJ-vFLoJOaFxvnAgs1ap-QmeEhOGLwGT)
-### [A Tour of Go #1: Вкатываемся в Golang, начинаем туториал](https://www.youtube.com/watch?v=5akBipDKDaY&amp;list=PLqJ-vFLoJOaFxvnAgs1ap-QmeEhOGLwGT&amp;index=1&amp;pp=iAQB)

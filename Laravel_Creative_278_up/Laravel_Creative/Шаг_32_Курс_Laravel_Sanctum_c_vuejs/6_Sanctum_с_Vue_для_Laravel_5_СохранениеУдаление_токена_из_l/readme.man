@@ -1,0 +1,3 @@
+# [Laravel Creative](https://www.youtube.com/@laravelcreative/playlists)
+## [Шаг 3.2. Курс Laravel Sanctum c vuejs](https://www.youtube.com/playlist?list=PLd2_Os8Cj3t9g9HYi_MyogUfuGeHMjFqF)
+### [Sanctum с Vue для Laravel 5. Сохранение/Удаление токена из localStorage, прописываем редиректы](https://www.youtube.com/watch?v=5W7pZqd4n44&amp;list=PLd2_Os8Cj3t9g9HYi_MyogUfuGeHMjFqF&amp;index=6&amp;pp=iAQB)

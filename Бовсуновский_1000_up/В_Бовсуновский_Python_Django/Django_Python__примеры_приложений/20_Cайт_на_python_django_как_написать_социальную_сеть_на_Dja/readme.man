@@ -1,0 +1,3 @@
+# [В. Бовсуновский Python Django](https://www.youtube.com/@bov/playlists?view=1)
+## [Django (Python) - примеры приложений.](https://www.youtube.com/playlist?list=PLuZJ9n46uMzWGzluFgeUC6XPKzsv6IUOT)
+### [Cайт на python django (как написать социальную сеть на Django)](https://www.youtube.com/watch?v=Rul-0WlXDtk&amp;list=PLuZJ9n46uMzWGzluFgeUC6XPKzsv6IUOT&amp;index=20&amp;pp=iAQB)

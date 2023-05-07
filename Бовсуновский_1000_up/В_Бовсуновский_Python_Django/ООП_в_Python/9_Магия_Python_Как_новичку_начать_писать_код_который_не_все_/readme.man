@@ -1,0 +1,3 @@
+# [В. Бовсуновский Python Django](https://www.youtube.com/@bov/playlists?view=1)
+## [ООП в Python.](https://www.youtube.com/playlist?list=PLuZJ9n46uMzX3s7iUotQE0MH6Tii5BpUT)
+### [Магия Python. Как новичку начать писать код, который не все старички могут писать?](https://www.youtube.com/watch?v=M-Fb5Rj7GEo&amp;list=PLuZJ9n46uMzX3s7iUotQE0MH6Tii5BpUT&amp;index=9&amp;pp=iAQB)

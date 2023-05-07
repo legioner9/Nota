@@ -1,0 +1,5 @@
+### [Python Flask From Scratch - [Part 1] - Getting Started](https://www.youtube.com/watch?v=zRwy8gtgJ1A&amp;list=PLillGF-RfqbbbPz6GSEM9hLQObuQjNoj_&amp;index=1&amp;pp=iAQB)
+### [Python Flask From Scratch [Part 2] - User Registration](https://www.youtube.com/watch?v=addnlzdSQs4&amp;list=PLillGF-RfqbbbPz6GSEM9hLQObuQjNoj_&amp;index=2&amp;pp=iAQB)
+### [Python Flask From Scratch [Part 3] - Login &amp; Access Control](https://www.youtube.com/watch?v=QEMtSUxtUDY&amp;list=PLillGF-RfqbbbPz6GSEM9hLQObuQjNoj_&amp;index=3&amp;pp=iAQB)
+### [Python Flask From Scratch [Part 4] - Dashboard &amp; Articles](https://www.youtube.com/watch?v=EgnyWxKFwjs&amp;list=PLillGF-RfqbbbPz6GSEM9hLQObuQjNoj_&amp;index=4&amp;pp=iAQB)
+### [Python Flask From Scratch [Part 5] - Edit &amp; Delete Articles](https://www.youtube.com/watch?v=Us9DuF4KWUE&amp;list=PLillGF-RfqbbbPz6GSEM9hLQObuQjNoj_&amp;index=5&amp;pp=iAQB)

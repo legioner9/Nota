@@ -1,0 +1,2 @@
+### [Администрирование 1С. Установка и обновление платформы 1С через групповые политики](https://www.youtube.com/watch?v=ODs4vlg37LU&amp;list=PLvGOckMhKg75YPC7UQomJ42ja7cNP4NPK&amp;index=1&amp;pp=iAQB)
+### [Администрирование 1С. Добавление пользователей и назначение прав в 1С](https://www.youtube.com/watch?v=hMmCi8X1Lks&amp;list=PLvGOckMhKg75YPC7UQomJ42ja7cNP4NPK&amp;index=2&amp;pp=iAQB)

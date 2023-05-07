@@ -1,0 +1,3 @@
+# [Андрей += Пронин](https://www.youtube.com/@AndyPronin/playlists)
+## [Вебинары](https://www.youtube.com/playlist?list=PLgENP2X2Wt55ZyZdsMu3DcSlzM-fBI2DT)
+### [ООП и структурное программирование в Python. Итерационная разработка в стиле Waaagh!!!](https://www.youtube.com/watch?v=cuk6uToZltg&amp;list=PLgENP2X2Wt55ZyZdsMu3DcSlzM-fBI2DT&amp;index=7&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [Dmitry Afanasyev](https://www.youtube.com/@DmitryAfanasyev/playlists)
+## [Видеокурс - Zend Framework 2. Для профессионалов (48 видео)](https://www.youtube.com/playlist?list=PLoonZ8wII66j76OU66nzKdKy1kYp0fWK0)
+### [#17. Zend Framework 2: Управление статьями](https://www.youtube.com/watch?v=DmLc_PSu8kQ&amp;list=PLoonZ8wII66j76OU66nzKdKy1kYp0fWK0&amp;index=22&amp;pp=iAQB)

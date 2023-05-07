@@ -1,0 +1,3 @@
+# [Traversy Media](https://www.youtube.com/@TraversyMedia/playlists)
+## [NodeJS & Express4 With Cassandra](https://www.youtube.com/playlist?list=PLillGF-RfqbZ4aTrhgDerxss_BOgs2Q8h)
+### [NodeJS &amp; Express 4 With Cassandra - Part 1](https://www.youtube.com/watch?v=ivstVNUKAW8&amp;list=PLillGF-RfqbZ4aTrhgDerxss_BOgs2Q8h&amp;index=3&amp;pp=iAQB)

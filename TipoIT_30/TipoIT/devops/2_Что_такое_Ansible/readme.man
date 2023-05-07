@@ -1,0 +1,3 @@
+# [TipoIT](https://www.youtube.com/@tipoit/playlists)
+## [devops](https://www.youtube.com/playlist?list=PLTuGAOACdyjUpCIQOwRFUGX1T6ckrqaZs)
+### [Что такое Ansible?](https://www.youtube.com/watch?v=8Piv0Maa228&amp;list=PLTuGAOACdyjUpCIQOwRFUGX1T6ckrqaZs&amp;index=2&amp;pp=iAQB)

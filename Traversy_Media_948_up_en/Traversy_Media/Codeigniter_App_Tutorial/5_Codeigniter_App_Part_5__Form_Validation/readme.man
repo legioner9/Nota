@@ -1,0 +1,3 @@
+# [Traversy Media](https://www.youtube.com/@TraversyMedia/playlists)
+## [Codeigniter App Tutorial](https://www.youtube.com/playlist?list=PLillGF-RfqbZQw-pSO62ha_imR_848j_X)
+### [Codeigniter App Part 5 - Form Validation](https://www.youtube.com/watch?v=70dRQ9XJrCo&amp;list=PLillGF-RfqbZQw-pSO62ha_imR_848j_X&amp;index=5&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [freeCodeCamp.org](https://www.youtube.com/@freecodecamp/playlists)
+## [Live Coding with Jesse](https://www.youtube.com/playlist?list=PLWKjhJtqVAbknyJ7hSrf1WKh_Xnv9RL1r)
+### [Basic CSS Styling (P5D53) - Live Coding with Jesse](https://www.youtube.com/watch?v=ZRa7DAEZMRA&amp;list=PLWKjhJtqVAbknyJ7hSrf1WKh_Xnv9RL1r&amp;index=66&amp;pp=iAQB)

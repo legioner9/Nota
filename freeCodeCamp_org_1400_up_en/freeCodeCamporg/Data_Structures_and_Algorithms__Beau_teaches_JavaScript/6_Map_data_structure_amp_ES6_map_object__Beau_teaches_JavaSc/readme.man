@@ -1,0 +1,3 @@
+# [freeCodeCamp.org](https://www.youtube.com/@freecodecamp/playlists)
+## [Data Structures and Algorithms - Beau teaches JavaScript](https://www.youtube.com/playlist?list=PLWKjhJtqVAbkso-IbgiiP48n-O-JQA9PJ)
+### [Map data structure &amp; ES6 map object - Beau teaches JavaScript](https://www.youtube.com/watch?v=_1BPrCHcjhs&amp;list=PLWKjhJtqVAbkso-IbgiiP48n-O-JQA9PJ&amp;index=6&amp;pp=iAQB)

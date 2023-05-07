@@ -1,0 +1,3 @@
+# [В. Бовсуновский Python Django](https://www.youtube.com/@bov/playlists?view=1)
+## [Python for Andoid](https://www.youtube.com/playlist?list=PLuZJ9n46uMzUhN970OOvoxm8pmECgAqLn)
+### [Динамическое рисование в Kivy (Python) более 10-ти часов видео.](https://www.youtube.com/watch?v=BtmfuL8sppI&amp;list=PLuZJ9n46uMzUhN970OOvoxm8pmECgAqLn&amp;index=18&amp;pp=iAQB)

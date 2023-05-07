@@ -1,0 +1,3 @@
+# [C++ User Group](https://www.youtube.com/@CUserGroupRussia/playlists)
+## [C++ Russia 2019: лучшее](https://www.youtube.com/playlist?list=PLZN9ZGiWZoZo3hYXXOn6NZAi3YzUETzy2)
+### [Vittorio Romeo — Higher-order functions and function_ref](https://www.youtube.com/watch?v=HYENjkZvsrM&amp;list=PLZN9ZGiWZoZo3hYXXOn6NZAi3YzUETzy2&amp;index=14&amp;pp=iAQB)

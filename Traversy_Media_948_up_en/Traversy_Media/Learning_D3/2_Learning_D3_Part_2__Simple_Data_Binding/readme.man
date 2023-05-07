@@ -1,0 +1,3 @@
+# [Traversy Media](https://www.youtube.com/@TraversyMedia/playlists)
+## [Learning D3](https://www.youtube.com/playlist?list=PLillGF-RfqbY8Vy_G5WxXwhZx4eXI6Oea)
+### [Learning D3 Part 2 - Simple Data Binding](https://www.youtube.com/watch?v=FxGmi7z2rZc&amp;list=PLillGF-RfqbY8Vy_G5WxXwhZx4eXI6Oea&amp;index=2&amp;pp=iAQB)

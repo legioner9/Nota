@@ -1,0 +1,8 @@
+### [Progressive Web Apps and the Internet of Things](https://www.youtube.com/watch?v=I1Tvl0bc2Lk&amp;list=PLFjq8z-aGyQ43VotEl7DEwEBKKjG52Szv&amp;index=1&amp;pp=iAQB)
+### [PWA and Offline Development](https://www.youtube.com/watch?v=dlvevNPxHd8&amp;list=PLFjq8z-aGyQ43VotEl7DEwEBKKjG52Szv&amp;index=2&amp;pp=iAQB)
+### [Build A WebApp and Turn It Into a PWA Using Browser API](https://www.youtube.com/watch?v=b4rpUeVPe8I&amp;list=PLFjq8z-aGyQ43VotEl7DEwEBKKjG52Szv&amp;index=3&amp;pp=iAQB)
+### [Building Progressive Web Apps With React](https://www.youtube.com/watch?v=C6S-SOqAX-k&amp;list=PLFjq8z-aGyQ43VotEl7DEwEBKKjG52Szv&amp;index=4&amp;pp=iAQB)
+### [Going Big: PWAs Come to Desktop and Chrome OS](https://www.youtube.com/watch?v=ei7WD3jBiRU&amp;list=PLFjq8z-aGyQ43VotEl7DEwEBKKjG52Szv&amp;index=5&amp;pp=iAQB)
+### [PWA and the Installable Web](https://www.youtube.com/watch?v=Is00_FhpVAM&amp;list=PLFjq8z-aGyQ43VotEl7DEwEBKKjG52Szv&amp;index=6&amp;pp=iAQB)
+### [Progressive Web Apps are the Future](https://www.youtube.com/watch?v=Ht7uvrEA1pg&amp;list=PLFjq8z-aGyQ43VotEl7DEwEBKKjG52Szv&amp;index=7&amp;pp=iAQB)
+### [Progressive Web Apps: Tips and Tricks to Level Up Your PWA](https://www.youtube.com/watch?v=Xbo3uZ5Ge10&amp;list=PLFjq8z-aGyQ43VotEl7DEwEBKKjG52Szv&amp;index=8&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [Максим В](https://www.youtube.com/@cpp/playlists)
+## [Уроки по С++](https://www.youtube.com/playlist?list=PLlxYwLnXeoE2_edxAb1Le1VYFf2Eq-FOc)
+### [Программирование на С++. Урок 27. Новые возможности вывода в консоли](https://www.youtube.com/watch?v=F0-j_SxIaJo&amp;list=PLlxYwLnXeoE2_edxAb1Le1VYFf2Eq-FOc&amp;index=27&amp;pp=iAQB)

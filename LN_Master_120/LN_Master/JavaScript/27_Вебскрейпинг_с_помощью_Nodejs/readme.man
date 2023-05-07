@@ -1,0 +1,3 @@
+# [LN Master](https://www.youtube.com/@ToBeCloser007/playlists)
+## [JavaScript](https://www.youtube.com/playlist?list=PL3PZFGlHBUn0ybP6TnbbEgLZQurx0AklH)
+### [Веб-скрейпинг с помощью Node.js](https://www.youtube.com/watch?v=dfqdPbBvugc&amp;list=PL3PZFGlHBUn0ybP6TnbbEgLZQurx0AklH&amp;index=27&amp;pp=iAQB)

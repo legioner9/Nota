@@ -1,0 +1,3 @@
+# [В. Бовсуновский Python Django](https://www.youtube.com/@bov/playlists?view=1)
+## [Django 4 пишем сайт с нуля.](https://www.youtube.com/playlist?list=PLuZJ9n46uMzXVj9JEjULImuBKRVKKS9To)
+### [Застряли в Python  в процессе изучения. Исправляем BUG в подходе и изучаем в разы быстрее.](https://www.youtube.com/watch?v=O4w9q2HHjGE&amp;list=PLuZJ9n46uMzXVj9JEjULImuBKRVKKS9To&amp;index=89&amp;pp=iAQB)

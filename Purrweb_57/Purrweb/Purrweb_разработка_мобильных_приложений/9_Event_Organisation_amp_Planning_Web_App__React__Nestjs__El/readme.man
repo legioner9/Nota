@@ -1,0 +1,3 @@
+# [Purrweb](https://www.youtube.com/@purrweb/playlists)
+## [Purrweb: разработка мобильных приложений](https://www.youtube.com/playlist?list=PLOSxDSAH6EKp0aK-uOfpmhQveli1jhm0l)
+### [Event Organisation &amp; Planning Web App | React + Nest.js + Electron](https://www.youtube.com/watch?v=VT7jCFCMiig&amp;list=PLOSxDSAH6EKp0aK-uOfpmhQveli1jhm0l&amp;index=9&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [freeCodeCamp.org](https://www.youtube.com/@freecodecamp/playlists)
+## [React Live Coding (Project 4) - Live Coding with Jesse](https://www.youtube.com/playlist?list=PLWKjhJtqVAbmcla_n9Haxp8PfTGYXIBwP)
+### [React 16 Setup with Create React App (P4D1) - Live Coding with Jesse](https://www.youtube.com/watch?v=SlMQkhN0Vdg&amp;list=PLWKjhJtqVAbmcla_n9Haxp8PfTGYXIBwP&amp;index=16&amp;pp=iAQB)

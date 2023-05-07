@@ -1,0 +1,3 @@
+# [Иван Глазков](https://www.youtube.com/@vanohaker/playlists)
+## [Linux](https://www.youtube.com/playlist?list=PL2BaVmpX7hX-3BFL4ndGi4LuF4NCCp6tM)
+### [⚒⚒Fail2ban для защиты от брута всего что есть на сервере Linux Debian 9.1⚒⚒](https://www.youtube.com/watch?v=MUHvZM7P57k&amp;list=PL2BaVmpX7hX-3BFL4ndGi4LuF4NCCp6tM&amp;index=11&amp;pp=iAQB)

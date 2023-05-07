@@ -1,0 +1,3 @@
+# [Monsterlessons Academy](https://www.youtube.com/@MonsterlessonsAcademy/playlists)
+## [Vue Tutorial for Beginners Step By Step - Full Course](https://www.youtube.com/playlist?list=PLEjh-YiSBCDLXVhTilIGHmTGzKGzQyjf9)
+### [Vue CSS &amp; vue style scoped](https://www.youtube.com/watch?v=zxKRZLP0oPM&amp;list=PLEjh-YiSBCDLXVhTilIGHmTGzKGzQyjf9&amp;index=4&amp;pp=iAQB)

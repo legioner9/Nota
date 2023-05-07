@@ -1,0 +1,3 @@
+# [В. Бовсуновский Python Django](https://www.youtube.com/@bov/playlists?view=1)
+## [Python  подробно.](https://www.youtube.com/playlist?list=PLuZJ9n46uMzUrsewLlB0zRc_vsIMNEqJA)
+### [Python с чего начать? Онлайн подробное руководство.](https://www.youtube.com/watch?v=w6yojt9GO9M&amp;list=PLuZJ9n46uMzUrsewLlB0zRc_vsIMNEqJA&amp;index=14&amp;pp=iAQB)

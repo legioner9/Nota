@@ -1,0 +1,3 @@
+# [freeCodeCamp.org](https://www.youtube.com/@freecodecamp/playlists)
+## [DevOps Courses](https://www.youtube.com/playlist?list=PLWKjhJtqVAbkzvvpY12KkfiIGso9A_Ixs)
+### [Infrastructure as Code - Crash Course](https://www.youtube.com/watch?v=EtEb40LE5zQ&amp;list=PLWKjhJtqVAbkzvvpY12KkfiIGso9A_Ixs&amp;index=16&amp;pp=iAQB)

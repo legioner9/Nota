@@ -1,0 +1,3 @@
+# [Андрей Иванов | Python](https://www.youtube.com/@PythononPapyrusRU/playlists)
+## [Рефакторинг](https://www.youtube.com/playlist?list=PLF4MWzDJPFSZDrGVymctlWMmzKXPOJN8N)
+### [САМАЯ БОЛЬШАЯ ПРОБЛЕМА СЛОВАРЕЙ. ПОЧИНКА ЧЕРЕЗ DATACLASS В ПИТОНЕ](https://www.youtube.com/watch?v=JvTeRI1aGOc&amp;list=PLF4MWzDJPFSZDrGVymctlWMmzKXPOJN8N&amp;index=6&amp;pp=iAQB)

@@ -1,3 +1,0 @@
-# [Exploring the IT World / Oleg Shpagin / WISEPLAT](https://www.youtube.com/@wiseplat/playlists)
-## [Делаем мобильное приложение на Python под Android и iOS/Apple iPhone](https://www.youtube.com/playlist?list=PLxiU3nwEQ4PG0ME9ffwT-tq78Vnn7csIc)
-### [Как сделать навигацию меню в мобильном приложении Python на KivyMD](https://www.youtube.com/watch?v=KLcHMJETg4A&amp;list=PLxiU3nwEQ4PG0ME9ffwT-tq78Vnn7csIc&amp;index=8)

@@ -1,0 +1,3 @@
+# [LN Master](https://www.youtube.com/@ToBeCloser007/playlists)
+## [Гайды](https://www.youtube.com/playlist?list=PL3PZFGlHBUn3zgw9T0wtJuzN9sKXmccN4)
+### [Отладка React приложения в Visual Studio Code](https://www.youtube.com/watch?v=Sg4uSUPHvPo&amp;list=PL3PZFGlHBUn3zgw9T0wtJuzN9sKXmccN4&amp;index=3&amp;pp=iAQB)

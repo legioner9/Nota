@@ -1,0 +1,2 @@
+### [Роли, Права, Авторизация в Laravel. Знания для понимания Gates и Policies. Часть 2. Политики](https://www.youtube.com/watch?v=fQBSzXP1Q0E&amp;list=PLTucyHptHtTna44XF7xGsPUrHJKImvqup&amp;index=1&amp;pp=iAQB)
+### [Роли, Права, Авторизация в Laravel. Необходимые знания для понимания Gates и Policies. Часть 1](https://www.youtube.com/watch?v=05cLEkAZjyE&amp;list=PLTucyHptHtTna44XF7xGsPUrHJKImvqup&amp;index=2&amp;pp=iAQB)

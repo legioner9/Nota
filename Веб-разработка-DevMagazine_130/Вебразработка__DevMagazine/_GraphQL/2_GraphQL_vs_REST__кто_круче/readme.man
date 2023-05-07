@@ -1,0 +1,3 @@
+# [Веб-разработка - DevMagazine](https://www.youtube.com/@DevMagazineChannel/playlists)
+## [💪 GraphQL](https://www.youtube.com/playlist?list=PLmfIBo6rTVR7qfgmVHBsgOoiBAx5Guwfp)
+### [GraphQL vs REST - кто круче?](https://www.youtube.com/watch?v=7fPcRouBVqo&amp;list=PLmfIBo6rTVR7qfgmVHBsgOoiBAx5Guwfp&amp;index=2&amp;pp=iAQB)

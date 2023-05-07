@@ -1,0 +1,3 @@
+# [Coding Tech](https://www.youtube.com/@CodingTech/playlists)
+## [Python](https://www.youtube.com/playlist?list=PLFjq8z-aGyQ4Y3mSWGBptr7SArEsfdWQA)
+### [Python as C++’s Limiting Case](https://www.youtube.com/watch?v=DoWY7qQ9doA&amp;list=PLFjq8z-aGyQ4Y3mSWGBptr7SArEsfdWQA&amp;index=25&amp;pp=iAQB)

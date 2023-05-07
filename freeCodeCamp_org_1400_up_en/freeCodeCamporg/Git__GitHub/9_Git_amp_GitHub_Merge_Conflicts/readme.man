@@ -1,0 +1,3 @@
+# [freeCodeCamp.org](https://www.youtube.com/@freecodecamp/playlists)
+## [Git & GitHub](https://www.youtube.com/playlist?list=PLWKjhJtqVAbkFiqHnNaxpOPhh9tSWMXIF)
+### [Git &amp; GitHub: Merge Conflicts](https://www.youtube.com/watch?v=sfT0WrChMrM&amp;list=PLWKjhJtqVAbkFiqHnNaxpOPhh9tSWMXIF&amp;index=9&amp;pp=iAQB)

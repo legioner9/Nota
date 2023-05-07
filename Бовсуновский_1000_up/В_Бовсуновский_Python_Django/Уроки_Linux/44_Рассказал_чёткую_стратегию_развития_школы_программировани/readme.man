@@ -1,0 +1,3 @@
+# [В. Бовсуновский Python Django](https://www.youtube.com/@bov/playlists?view=1)
+## [Уроки Linux](https://www.youtube.com/playlist?list=PLuZJ9n46uMzVwOZeH3dfra62lSqIVkmv9)
+### [Рассказал чёткую стратегию развития школы программирования Python, Django, Kotlin на 2019-2020 годы.](https://www.youtube.com/watch?v=sD5eWCWHX38&amp;list=PLuZJ9n46uMzVwOZeH3dfra62lSqIVkmv9&amp;index=44&amp;pp=iAQB)

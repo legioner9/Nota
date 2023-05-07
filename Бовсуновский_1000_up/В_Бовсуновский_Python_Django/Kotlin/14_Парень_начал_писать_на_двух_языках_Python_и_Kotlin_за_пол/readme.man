@@ -1,0 +1,3 @@
+# [В. Бовсуновский Python Django](https://www.youtube.com/@bov/playlists?view=1)
+## [Kotlin](https://www.youtube.com/playlist?list=PLuZJ9n46uMzVVHB82xLSBpKlGyVb7H7fp)
+### [Парень начал писать на двух языках Python и Kotlin за полгода. Как и зачем такое достигается?](https://www.youtube.com/watch?v=1yo-yx2_EEQ&amp;list=PLuZJ9n46uMzVVHB82xLSBpKlGyVb7H7fp&amp;index=14&amp;pp=iAQB)

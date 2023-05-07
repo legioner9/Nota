@@ -1,0 +1,3 @@
+# [Eugene Suleimanov](https://www.youtube.com/@EugeneSuleimanov/playlists)
+## [Шаблоны  проектирования на языке Java](https://www.youtube.com/playlist?list=PLlsMRoVt5sTPgGbinwOVnaF1mxNeLAD7P)
+### [Шаблоны Java. Interpreter (Интерпретатор).](https://www.youtube.com/watch?v=8fRHz7_9pGI&amp;list=PLlsMRoVt5sTPgGbinwOVnaF1mxNeLAD7P&amp;index=20&amp;pp=iAQB)

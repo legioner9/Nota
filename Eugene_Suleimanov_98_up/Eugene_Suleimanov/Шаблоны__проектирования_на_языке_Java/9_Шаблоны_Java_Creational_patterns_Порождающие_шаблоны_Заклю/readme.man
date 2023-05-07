@@ -1,0 +1,3 @@
+# [Eugene Suleimanov](https://www.youtube.com/@EugeneSuleimanov/playlists)
+## [Шаблоны  проектирования на языке Java](https://www.youtube.com/playlist?list=PLlsMRoVt5sTPgGbinwOVnaF1mxNeLAD7P)
+### [Шаблоны Java. Creational patterns (Порождающие шаблоны. Заключение).](https://www.youtube.com/watch?v=xtrqw734lKs&amp;list=PLlsMRoVt5sTPgGbinwOVnaF1mxNeLAD7P&amp;index=9&amp;pp=iAQB)

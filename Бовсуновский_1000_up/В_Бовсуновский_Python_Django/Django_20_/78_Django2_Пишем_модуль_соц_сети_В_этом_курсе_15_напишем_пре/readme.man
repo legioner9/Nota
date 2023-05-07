@@ -1,0 +1,3 @@
+# [В. Бовсуновский Python Django](https://www.youtube.com/@bov/playlists?view=1)
+## [Django 2.0 +](https://www.youtube.com/playlist?list=PLuZJ9n46uMzX_fLNv-OLXjJorYUGqLlYP)
+### [Django2. Пишем модуль соц. сети. В этом курсе 15 напишем представление редактирование записи.](https://www.youtube.com/watch?v=18Ldomxv0hM&amp;list=PLuZJ9n46uMzX_fLNv-OLXjJorYUGqLlYP&amp;index=78&amp;pp=iAQB)

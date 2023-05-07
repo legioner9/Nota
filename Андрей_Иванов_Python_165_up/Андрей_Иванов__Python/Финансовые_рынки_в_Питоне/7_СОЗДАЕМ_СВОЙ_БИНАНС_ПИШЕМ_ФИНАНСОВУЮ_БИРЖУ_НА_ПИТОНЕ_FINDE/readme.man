@@ -1,0 +1,3 @@
+# [Андрей Иванов | Python](https://www.youtube.com/@PythononPapyrusRU/playlists)
+## [Финансовые рынки в Питоне](https://www.youtube.com/playlist?list=PLF4MWzDJPFSb8VagHQNFIUwIXSGAgquj-)
+### [СОЗДАЕМ СВОЙ БИНАНС. ПИШЕМ ФИНАНСОВУЮ БИРЖУ НА ПИТОНЕ. FINDEV 1](https://www.youtube.com/watch?v=8N3bNdmoFFo&amp;list=PLF4MWzDJPFSb8VagHQNFIUwIXSGAgquj-&amp;index=7&amp;pp=iAQB)

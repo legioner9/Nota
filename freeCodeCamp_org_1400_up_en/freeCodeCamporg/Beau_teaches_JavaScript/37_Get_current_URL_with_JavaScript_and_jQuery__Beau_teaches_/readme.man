@@ -1,0 +1,3 @@
+# [freeCodeCamp.org](https://www.youtube.com/@freecodecamp/playlists)
+## [Beau teaches JavaScript](https://www.youtube.com/playlist?list=PLWKjhJtqVAbmoiNlqLJg1gxEjEuKHHcn_)
+### [Get current URL with JavaScript (and jQuery) - Beau teaches JavaScript](https://www.youtube.com/watch?v=w5whn4iJCLc&amp;list=PLWKjhJtqVAbmoiNlqLJg1gxEjEuKHHcn_&amp;index=37&amp;pp=iAQB)

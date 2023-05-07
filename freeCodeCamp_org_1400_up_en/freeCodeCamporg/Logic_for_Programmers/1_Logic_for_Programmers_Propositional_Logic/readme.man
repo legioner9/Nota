@@ -1,0 +1,3 @@
+# [freeCodeCamp.org](https://www.youtube.com/@freecodecamp/playlists)
+## [Logic for Programmers](https://www.youtube.com/playlist?list=PLWKjhJtqVAbmqk3-E3MPFVoWMufdbR4qW)
+### [Logic for Programmers: Propositional Logic](https://www.youtube.com/watch?v=s16xd9XyDnY&amp;list=PLWKjhJtqVAbmqk3-E3MPFVoWMufdbR4qW&amp;index=1&amp;pp=iAQB)

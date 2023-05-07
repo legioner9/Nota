@@ -1,0 +1,3 @@
+# [Denis Batrankov](https://www.youtube.com/@BDVSecurity/playlists)
+## [Безопасность для экспертов](https://www.youtube.com/playlist?list=PLRAbJA74qU4D-2sTzHLh8fFe4_gtKnOnB)
+### [Чем отличается SSL-расшифрование от SSL-инспекции](https://www.youtube.com/watch?v=x_hdn8tfS2I&amp;list=PLRAbJA74qU4D-2sTzHLh8fFe4_gtKnOnB&amp;index=22&amp;pp=iAQB)

@@ -1,0 +1,6 @@
+### [Node.js и Backend Семинар #1 (2021-12-18): асинхронная очередь, бенчмарк фреймворков, Azos](https://www.youtube.com/watch?v=DFBm4cNYaAY&amp;list=PLHhi8ymDMrQahTzVRIUQLRDVFwC_PvGmw&amp;index=1&amp;pp=iAQB)
+### [Node.js и Backend Семинар #2 (2021-12-23): TypeScript, сокеты, ORM, SQL, схемы,](https://www.youtube.com/watch?v=85lOhAtj4Us&amp;list=PLHhi8ymDMrQahTzVRIUQLRDVFwC_PvGmw&amp;index=2&amp;pp=iAQB)
+### [🎧 Node.js and Backend Seminar #3 (2022-02-03)](https://www.youtube.com/watch?v=K7mKWyRgqN4&amp;list=PLHhi8ymDMrQahTzVRIUQLRDVFwC_PvGmw&amp;index=3&amp;pp=iAQB)
+### [LiveQA Node.js and Backend Seminar #5 (2022-04-07)](https://www.youtube.com/watch?v=WjNYyTdetLo&amp;list=PLHhi8ymDMrQahTzVRIUQLRDVFwC_PvGmw&amp;index=4&amp;pp=iAQB)
+### [💻 Node.js and Backend Seminar #12: ревью проектов на Node.js, JavaScript, React, Ramda, Express](https://www.youtube.com/watch?v=7zbEoKSQV6M&amp;list=PLHhi8ymDMrQahTzVRIUQLRDVFwC_PvGmw&amp;index=5&amp;pp=iAQB)
+### [🎧 Node JS 2022 - 2023 практический курс: API, DB, архитектура, DDD, GoF, DI, фреймворк-агностик](https://www.youtube.com/watch?v=UGGzSEfCjPU&amp;list=PLHhi8ymDMrQahTzVRIUQLRDVFwC_PvGmw&amp;index=6&amp;pp=iAQB)

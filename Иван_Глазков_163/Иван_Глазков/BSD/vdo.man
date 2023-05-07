@@ -1,0 +1,8 @@
+### [FreeBSD. Шифрование диска через GELI (AES256-XTS)](https://www.youtube.com/watch?v=C9nOK1pGGNo&amp;list=PL2BaVmpX7hX_hRZYNUQEfhmtVNo7i6O8t&amp;index=1&amp;pp=iAQB)
+### [Freebsd. Что такое UFSID и как сделать удобный FSTAB на сервере FreeBSD.](https://www.youtube.com/watch?v=oRllzYlxT6k&amp;list=PL2BaVmpX7hX_hRZYNUQEfhmtVNo7i6O8t&amp;index=2&amp;pp=iAQB)
+### [Использование портов в FreeBSD](https://www.youtube.com/watch?v=2_Ulujj1ZNU&amp;list=PL2BaVmpX7hX_hRZYNUQEfhmtVNo7i6O8t&amp;index=3&amp;pp=iAQB)
+### [Настройка сети на FreeBSD](https://www.youtube.com/watch?v=DUnPbX0Z3d4&amp;list=PL2BaVmpX7hX_hRZYNUQEfhmtVNo7i6O8t&amp;index=4&amp;pp=iAQB)
+### [Подключение к FreeBSD по SSH](https://www.youtube.com/watch?v=6DOrSpsy6iQ&amp;list=PL2BaVmpX7hX_hRZYNUQEfhmtVNo7i6O8t&amp;index=5&amp;pp=iAQB)
+### [Freebsd и FSCK. Проверка диска после сбоя.](https://www.youtube.com/watch?v=yoBBJ1Fv-6k&amp;list=PL2BaVmpX7hX_hRZYNUQEfhmtVNo7i6O8t&amp;index=6&amp;pp=iAQB)
+### [Установка FreeBSD 10.1](https://www.youtube.com/watch?v=AjYSnw1N1lo&amp;list=PL2BaVmpX7hX_hRZYNUQEfhmtVNo7i6O8t&amp;index=7&amp;pp=iAQB)
+### [BCD - PCBSD полная установка и обзор.](https://www.youtube.com/watch?v=fkWGEGYY-AE&amp;list=PL2BaVmpX7hX_hRZYNUQEfhmtVNo7i6O8t&amp;index=8&amp;pp=iAQB)

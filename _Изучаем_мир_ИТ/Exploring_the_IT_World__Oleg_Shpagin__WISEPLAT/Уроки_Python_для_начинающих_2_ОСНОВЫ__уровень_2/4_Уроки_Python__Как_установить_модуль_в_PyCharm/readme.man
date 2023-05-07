@@ -1,3 +1,0 @@
-# [Exploring the IT World / Oleg Shpagin / WISEPLAT](https://www.youtube.com/@wiseplat/playlists)
-## [Уроки Python для начинающих #2 [ОСНОВЫ / уровень 2]](https://www.youtube.com/playlist?list=PLxiU3nwEQ4PE3WJaU2iclTpRjZojskznl)
-### [Уроки Python / Как установить модуль в PyCharm](https://www.youtube.com/watch?v=Swe-2blw4Ro&amp;list=PLxiU3nwEQ4PE3WJaU2iclTpRjZojskznl&amp;index=4)

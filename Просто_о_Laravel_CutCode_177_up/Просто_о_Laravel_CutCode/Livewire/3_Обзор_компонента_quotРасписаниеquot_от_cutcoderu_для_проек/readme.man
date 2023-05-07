@@ -1,0 +1,3 @@
+# [Просто о Laravel. CutCode](https://www.youtube.com/@CutCodeRu/playlists)
+## [Livewire](https://www.youtube.com/playlist?list=PLTucyHptHtTmr5m18mxq-3QIRcaU9SyDF)
+### [Обзор компонента &quot;Расписание&quot; от cutcode.ru для проектов на laravel](https://www.youtube.com/watch?v=FTz4_2VTa54&amp;list=PLTucyHptHtTmr5m18mxq-3QIRcaU9SyDF&amp;index=3&amp;pp=iAQB)

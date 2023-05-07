@@ -1,0 +1,3 @@
+# [Андрей Андриевский](https://www.youtube.com/@andrievskii/playlists)
+## [Базовый курс PHP-7](https://www.youtube.com/playlist?list=PLMB6wLyKp7lWt6GpOEV1BrHiX7zJnVMDy)
+### [Функции для работы с символами в PHP | Базовый курс PHP-7](https://www.youtube.com/watch?v=46Sjxgtqf8I&amp;list=PLMB6wLyKp7lWt6GpOEV1BrHiX7zJnVMDy&amp;index=29&amp;pp=iAQB)

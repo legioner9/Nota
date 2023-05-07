@@ -1,0 +1,4 @@
+### [FuzzyTech, основы построения системы нечеткого вывода](https://www.youtube.com/watch?v=ADbfw5QZm84&amp;list=PL7CmqnO_QydglDpBhaNv7Gdgby-KyTzQk&amp;index=1&amp;pp=iAQB)
+### [Алгоритм Дейкстры. Поиск кратчайших маршрутов на графе](https://www.youtube.com/watch?v=FK5v3INkEuk&amp;list=PL7CmqnO_QydglDpBhaNv7Gdgby-KyTzQk&amp;index=2&amp;pp=iAQB)
+### [FuzzyTech, основы построения системы нечеткого вывода](https://www.youtube.com/watch?v=ADbfw5QZm84&amp;list=PL7CmqnO_QydglDpBhaNv7Gdgby-KyTzQk&amp;index=1&amp;pp=iAQB)
+### [Алгоритм Дейкстры. Поиск кратчайших маршрутов на графе](https://www.youtube.com/watch?v=FK5v3INkEuk&amp;list=PL7CmqnO_QydglDpBhaNv7Gdgby-KyTzQk&amp;index=2&amp;pp=iAQB)

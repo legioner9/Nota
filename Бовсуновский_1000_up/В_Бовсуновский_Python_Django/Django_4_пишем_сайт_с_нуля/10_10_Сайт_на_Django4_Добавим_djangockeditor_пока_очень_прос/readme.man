@@ -1,0 +1,3 @@
+# [В. Бовсуновский Python Django](https://www.youtube.com/@bov/playlists?view=1)
+## [Django 4 пишем сайт с нуля.](https://www.youtube.com/playlist?list=PLuZJ9n46uMzXVj9JEjULImuBKRVKKS9To)
+### [10. Сайт на Django4. Добавим django-ckeditor. (пока очень простой)](https://www.youtube.com/watch?v=EGa8fLQWIcI&amp;list=PLuZJ9n46uMzXVj9JEjULImuBKRVKKS9To&amp;index=10&amp;pp=iAQB)

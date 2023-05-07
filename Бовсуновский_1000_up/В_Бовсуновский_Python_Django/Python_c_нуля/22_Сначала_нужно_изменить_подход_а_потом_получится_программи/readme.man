@@ -1,0 +1,3 @@
+# [В. Бовсуновский Python Django](https://www.youtube.com/@bov/playlists?view=1)
+## [Python c нуля.](https://www.youtube.com/playlist?list=PLuZJ9n46uMzWIxKMcWI8ksJ6ST86fv0aq)
+### [Сначала нужно изменить подход, а потом получится программирование. Но не наоборот.](https://www.youtube.com/watch?v=a-X43-q3Sww&amp;list=PLuZJ9n46uMzWIxKMcWI8ksJ6ST86fv0aq&amp;index=22&amp;pp=iAQB)

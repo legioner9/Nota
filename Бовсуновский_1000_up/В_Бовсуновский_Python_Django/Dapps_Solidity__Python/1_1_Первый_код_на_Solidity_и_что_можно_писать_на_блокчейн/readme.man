@@ -1,0 +1,3 @@
+# [В. Бовсуновский Python Django](https://www.youtube.com/@bov/playlists?view=1)
+## [Dapps Solidity + Python.](https://www.youtube.com/playlist?list=PLuZJ9n46uMzX1SYAfC8AlBNJPu6fTFmI5)
+### [1. Первый код на Solidity и что можно писать на блокчейн.](https://www.youtube.com/watch?v=Tj2UnzArCM4&amp;list=PLuZJ9n46uMzX1SYAfC8AlBNJPu6fTFmI5&amp;index=1&amp;pp=iAQB)

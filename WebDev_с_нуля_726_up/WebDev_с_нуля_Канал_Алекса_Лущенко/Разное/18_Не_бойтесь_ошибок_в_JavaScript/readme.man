@@ -1,0 +1,3 @@
+# [WebDev с нуля. Канал Алекса Лущенко](https://www.youtube.com/@itgid/playlists)
+## [Разное](https://www.youtube.com/playlist?list=PLM7wFzahDYnFHL9iXtfpFHU_HAlt9UBgb)
+### [Не бойтесь ошибок в JavaScript](https://www.youtube.com/watch?v=rI_6I8L-n70&amp;list=PLM7wFzahDYnFHL9iXtfpFHU_HAlt9UBgb&amp;index=18&amp;pp=iAQB)

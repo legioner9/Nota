@@ -1,0 +1,3 @@
+# [Василий Муравьев](https://www.youtube.com/@stackdev/playlists)
+## [Уроки Javascript для Начинающих 2022](https://www.youtube.com/playlist?list=PLtL3lrXPn2rXYAkRYdTKOQLRUW1Gdp4v2)
+### [Уроки Javascript #4. Что такое замыкания в JS (простыми словами + 3 примера)](https://www.youtube.com/watch?v=YaGfHbT9xLY&amp;list=PLtL3lrXPn2rXYAkRYdTKOQLRUW1Gdp4v2&amp;index=4&amp;pp=iAQB)

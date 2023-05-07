@@ -1,0 +1,3 @@
+# [Андрей Иванов | Python](https://www.youtube.com/@PythononPapyrusRU/playlists)
+## [Безопасность](https://www.youtube.com/playlist?list=PLF4MWzDJPFSa83kKE7TaGKsSaq2g1dqwA)
+### [XSS АТАКИ | Python 3, Питон 3](https://www.youtube.com/watch?v=vyG7W7008zM&amp;list=PLF4MWzDJPFSa83kKE7TaGKsSaq2g1dqwA&amp;index=1&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [WebDev с нуля. Канал Алекса Лущенко](https://www.youtube.com/@itgid/playlists)
+## [Уроки JS](https://www.youtube.com/playlist?list=PLM7wFzahDYnFtINH_dCUW6-wLSauygif2)
+### [Просто о promise в JavaScript](https://www.youtube.com/watch?v=Sr0WT-XHwd0&amp;list=PLM7wFzahDYnFtINH_dCUW6-wLSauygif2&amp;index=99&amp;pp=iAQB)

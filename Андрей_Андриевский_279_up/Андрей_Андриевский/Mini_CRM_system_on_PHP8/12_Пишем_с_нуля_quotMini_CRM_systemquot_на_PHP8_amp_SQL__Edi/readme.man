@@ -1,0 +1,3 @@
+# [Андрей Андриевский](https://www.youtube.com/@andrievskii/playlists)
+## [Mini CRM system on PHP8](https://www.youtube.com/playlist?list=PLMB6wLyKp7lXH2UwgDNTbeGlLNFvX1QcV)
+### [Пишем с нуля &quot;Mini CRM system&quot; на PHP8 &amp; SQL | Edit page (code) | Часть - 12](https://www.youtube.com/watch?v=-OvyGS25hSE&amp;list=PLMB6wLyKp7lXH2UwgDNTbeGlLNFvX1QcV&amp;index=12&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [freeCodeCamp.org](https://www.youtube.com/@freecodecamp/playlists)
+## [Ethical Hacking](https://www.youtube.com/playlist?list=PLWKjhJtqVAbnklGh3FNRLECx_2D_vK3mu)
+### [Ethical Hacking 101: Web App Penetration Testing - a full course for beginners](https://www.youtube.com/watch?v=2_lswM1S264&amp;list=PLWKjhJtqVAbnklGh3FNRLECx_2D_vK3mu&amp;index=3&amp;pp=iAQB)

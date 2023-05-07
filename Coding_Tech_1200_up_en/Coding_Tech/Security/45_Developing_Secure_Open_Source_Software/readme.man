@@ -1,0 +1,3 @@
+# [Coding Tech](https://www.youtube.com/@CodingTech/playlists)
+## [Security](https://www.youtube.com/playlist?list=PLFjq8z-aGyQ6l4bjixx1aAzqRBB8On4_X)
+### [Developing Secure Open Source Software](https://www.youtube.com/watch?v=_1WHXh5ZHbc&amp;list=PLFjq8z-aGyQ6l4bjixx1aAzqRBB8On4_X&amp;index=45&amp;pp=iAQB)

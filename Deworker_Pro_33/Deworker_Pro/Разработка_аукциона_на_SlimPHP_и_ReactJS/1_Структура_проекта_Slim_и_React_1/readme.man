@@ -1,0 +1,3 @@
+# [Deworker Pro](https://www.youtube.com/@DeworkerPro/playlists)
+## [Разработка аукциона на SlimPHP и ReactJS](https://www.youtube.com/playlist?list=PLrmZ-W4yj5ERthQgVbOi5Xxk1wiXPI7wk)
+### [Структура проекта [Slim и React #1]](https://www.youtube.com/watch?v=kfPheDXWAV0&amp;list=PLrmZ-W4yj5ERthQgVbOi5Xxk1wiXPI7wk&amp;index=1&amp;pp=iAQB)

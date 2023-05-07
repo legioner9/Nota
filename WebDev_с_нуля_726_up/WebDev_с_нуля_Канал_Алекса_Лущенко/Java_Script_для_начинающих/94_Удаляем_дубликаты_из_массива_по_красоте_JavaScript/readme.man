@@ -1,0 +1,3 @@
+# [WebDev с нуля. Канал Алекса Лущенко](https://www.youtube.com/@itgid/playlists)
+## [Java Script для начинающих](https://www.youtube.com/playlist?list=PLM7wFzahDYnFjBTkfRTRlusyp_tlZ9rYz)
+### [Удаляем дубликаты из массива по красоте. JavaScript](https://www.youtube.com/watch?v=mCIRO7gCuEk&amp;list=PLM7wFzahDYnFjBTkfRTRlusyp_tlZ9rYz&amp;index=94&amp;pp=iAQB)

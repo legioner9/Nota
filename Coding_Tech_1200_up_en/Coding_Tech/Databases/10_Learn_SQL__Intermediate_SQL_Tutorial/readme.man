@@ -1,0 +1,3 @@
+# [Coding Tech](https://www.youtube.com/@CodingTech/playlists)
+## [Databases](https://www.youtube.com/playlist?list=PLFjq8z-aGyQ4Sd7-CI0ruUHaE4xVCYvXZ)
+### [Learn SQL | Intermediate SQL Tutorial](https://www.youtube.com/watch?v=d3l59EbgJ0w&amp;list=PLFjq8z-aGyQ4Sd7-CI0ruUHaE4xVCYvXZ&amp;index=10&amp;pp=iAQB)

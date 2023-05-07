@@ -1,0 +1,3 @@
+# [Просто о Laravel. CutCode](https://www.youtube.com/@CutCodeRu/playlists)
+## [MoonShine Screencasts](https://www.youtube.com/playlist?list=PLTucyHptHtTnfDI18bZnYEgvJIFmW8fGy)
+### [MoonShine гайд. 4. Кастомизация ресурса в панели администратора для Laravel](https://www.youtube.com/watch?v=jMsH8hTkPI4&amp;list=PLTucyHptHtTnfDI18bZnYEgvJIFmW8fGy&amp;index=4&amp;pp=iAQB)

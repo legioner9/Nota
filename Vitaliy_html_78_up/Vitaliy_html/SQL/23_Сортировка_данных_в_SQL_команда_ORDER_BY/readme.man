@@ -1,0 +1,3 @@
+# [Vitaliy html](https://www.youtube.com/@vitaliyhtml/playlists)
+## [SQL](https://www.youtube.com/playlist?list=PL97bu4ZDN_byFtn3cDo7dbURidAlg7ZSG)
+### [Сортировка данных в SQL (команда ORDER BY)](https://www.youtube.com/watch?v=KCOq3Yai3Qw&amp;list=PL97bu4ZDN_byFtn3cDo7dbURidAlg7ZSG&amp;index=23&amp;pp=iAQB)

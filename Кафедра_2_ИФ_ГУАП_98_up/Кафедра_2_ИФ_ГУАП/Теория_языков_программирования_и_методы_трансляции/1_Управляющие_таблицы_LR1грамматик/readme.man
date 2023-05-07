@@ -1,0 +1,3 @@
+# [Кафедра 2 ИФ ГУАП](https://www.youtube.com/@user-uf2tp3mk1w/playlists)
+## [Теория языков программирования и методы трансляции](https://www.youtube.com/playlist?list=PLkHuy0rsti_jmZtITyDma6TWFZUnH7u6H)
+### [Управляющие таблицы LR(1)-грамматик](https://www.youtube.com/watch?v=TLb19bZMO84&amp;list=PLkHuy0rsti_jmZtITyDma6TWFZUnH7u6H&amp;index=1&amp;pp=iAQB)

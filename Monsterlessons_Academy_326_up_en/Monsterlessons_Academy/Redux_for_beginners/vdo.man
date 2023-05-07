@@ -1,0 +1,8 @@
+### [Simple Redux Introduction in Vanilla Javascript - Understand Redux in 20 Minutes](https://www.youtube.com/watch?v=hMSTO4cpPaQ&amp;list=PLEjh-YiSBCDJZAcJgKMkead-Wjw8rB1LC&amp;index=1&amp;pp=iAQB)
+### [React Redux Tutorial  | Redux in React - How to Connect Redux to React](https://www.youtube.com/watch?v=aEmG9nc8eLg&amp;list=PLEjh-YiSBCDJZAcJgKMkead-Wjw8rB1LC&amp;index=2&amp;pp=iAQB)
+### [MapStateToProps and MapDispatchToProps in React Redux - How To Use](https://www.youtube.com/watch?v=VrKiQikkMXI&amp;list=PLEjh-YiSBCDJZAcJgKMkead-Wjw8rB1LC&amp;index=3&amp;pp=iAQB)
+### [Redux Devtools vs Redux Logger (With Redux Enhancer and Middleware)](https://www.youtube.com/watch?v=bpPrAo32uFk&amp;list=PLEjh-YiSBCDJZAcJgKMkead-Wjw8rB1LC&amp;index=4&amp;pp=iAQB)
+### [Redux Actions &amp; Redux Action Creators &amp; Redux Async Actions](https://www.youtube.com/watch?v=UuUMRPELoEY&amp;list=PLEjh-YiSBCDJZAcJgKMkead-Wjw8rB1LC&amp;index=5&amp;pp=iAQB)
+### [Redux Reducers Explained - How to Use Reducer React Correctly](https://www.youtube.com/watch?v=txnIO31Pyhg&amp;list=PLEjh-YiSBCDJZAcJgKMkead-Wjw8rB1LC&amp;index=6&amp;pp=iAQB)
+### [React Redux Performance Optimization - Selectors &amp; Reselect](https://www.youtube.com/watch?v=KZ6UOUCdyd4&amp;list=PLEjh-YiSBCDJZAcJgKMkead-Wjw8rB1LC&amp;index=7&amp;pp=iAQB)
+### [React Redux Hooks - Usedispatch, Useselector](https://www.youtube.com/watch?v=fS38MfVV5SY&amp;list=PLEjh-YiSBCDJZAcJgKMkead-Wjw8rB1LC&amp;index=8&amp;pp=iAQB)

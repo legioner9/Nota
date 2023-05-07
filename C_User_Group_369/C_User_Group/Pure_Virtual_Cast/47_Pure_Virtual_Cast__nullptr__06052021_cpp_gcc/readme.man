@@ -1,0 +1,3 @@
+# [C++ User Group](https://www.youtube.com/@CUserGroupRussia/playlists)
+## [Pure Virtual Cast](https://www.youtube.com/playlist?list=PLZN9ZGiWZoZoQk09P4BXy8r42I-hlCyBP)
+### [Pure Virtual Cast / nullptr // 06.05.2021 #cpp​​​ #gcc](https://www.youtube.com/watch?v=To6LCmaF98Q&amp;list=PLZN9ZGiWZoZoQk09P4BXy8r42I-hlCyBP&amp;index=47&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [LN Master](https://www.youtube.com/@ToBeCloser007/playlists)
+## [JavaScript](https://www.youtube.com/playlist?list=PL3PZFGlHBUn0ybP6TnbbEgLZQurx0AklH)
+### [JavaScript: Разбор методов Promise (all, allSettled, race, any), for await](https://www.youtube.com/watch?v=safmqpw9Q3c&amp;list=PL3PZFGlHBUn0ybP6TnbbEgLZQurx0AklH&amp;index=34&amp;pp=iAQB)

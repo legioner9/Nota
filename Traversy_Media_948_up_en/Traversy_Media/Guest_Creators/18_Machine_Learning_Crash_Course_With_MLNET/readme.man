@@ -1,0 +1,3 @@
+# [Traversy Media](https://www.youtube.com/@TraversyMedia/playlists)
+## [Guest Creators](https://www.youtube.com/playlist?list=PLillGF-RfqbbI5_XFuidhe3EE7bej5T_y)
+### [Machine Learning Crash Course With ML.NET](https://www.youtube.com/watch?v=XBSvp43EQhA&amp;list=PLillGF-RfqbbI5_XFuidhe3EE7bej5T_y&amp;index=18&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [C++ User Group](https://www.youtube.com/@CUserGroupRussia/playlists)
+## [C++ Russia 2021](https://www.youtube.com/playlist?list=PLZN9ZGiWZoZqIsJqUgmMznD68NSsyaAhy)
+### [Павел Новиков — Веселье с type erasure](https://www.youtube.com/watch?v=u4_JAn83FJQ&amp;list=PLZN9ZGiWZoZqIsJqUgmMznD68NSsyaAhy&amp;index=34&amp;pp=iAQB)

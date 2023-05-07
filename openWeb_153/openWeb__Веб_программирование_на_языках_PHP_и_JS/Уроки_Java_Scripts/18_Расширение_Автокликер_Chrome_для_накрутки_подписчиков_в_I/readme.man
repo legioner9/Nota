@@ -1,0 +1,3 @@
+# [openWeb - Веб программирование на языках PHP и JS](https://www.youtube.com/@openweb-php/playlists)
+## [Уроки Java Scripts](https://www.youtube.com/playlist?list=PL-leL2miqjEbQmAmLfe9GHiMYdnzBMVoU)
+### [Расширение Автокликер Chrome для накрутки подписчиков в Instagram](https://www.youtube.com/watch?v=G6paZ43rBFs&amp;list=PL-leL2miqjEbQmAmLfe9GHiMYdnzBMVoU&amp;index=18&amp;pp=iAQB)

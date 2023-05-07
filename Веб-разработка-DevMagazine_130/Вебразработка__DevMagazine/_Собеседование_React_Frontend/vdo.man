@@ -1,0 +1,3 @@
+### [Собеседование JUNIOR frontend REACT](https://www.youtube.com/watch?v=AgKCs4846Z0&amp;list=PLmfIBo6rTVR6jNZoTnNggWliFC7Cmco7p&amp;index=1&amp;pp=iAQB)
+### [ТОП 10 вопросов на собеседовании ReactJS](https://www.youtube.com/watch?v=A0Lp8TMCFhA&amp;list=PLmfIBo6rTVR6jNZoTnNggWliFC7Cmco7p&amp;index=2&amp;pp=iAQB)
+### [Собеседование ReactJS - вопросы и ответы](https://www.youtube.com/watch?v=-6EmxGeYGAw&amp;list=PLmfIBo6rTVR6jNZoTnNggWliFC7Cmco7p&amp;index=3&amp;pp=iAQB)

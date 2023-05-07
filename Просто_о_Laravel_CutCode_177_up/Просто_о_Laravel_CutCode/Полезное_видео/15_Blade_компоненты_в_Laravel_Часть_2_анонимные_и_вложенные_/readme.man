@@ -1,0 +1,3 @@
+# [Просто о Laravel. CutCode](https://www.youtube.com/@CutCodeRu/playlists)
+## [Полезное видео](https://www.youtube.com/playlist?list=PLTucyHptHtTmq4HFKZVmwwzcac2kgfaEZ)
+### [Blade компоненты в Laravel. Часть 2: анонимные и вложенные компоненты](https://www.youtube.com/watch?v=GgJfHPEFBRs&amp;list=PLTucyHptHtTmq4HFKZVmwwzcac2kgfaEZ&amp;index=15&amp;pp=iAQB)

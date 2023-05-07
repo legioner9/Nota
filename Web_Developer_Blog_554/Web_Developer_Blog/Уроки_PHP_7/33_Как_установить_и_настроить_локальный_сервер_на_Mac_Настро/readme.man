@@ -1,0 +1,3 @@
+# [Web Developer Blog](https://www.youtube.com/@SuprunAlexey/playlists)
+## [Уроки PHP 7](https://www.youtube.com/playlist?list=PLVfMKQXDAhGWCBTca7m-snWrZZkjX2jGB)
+### [Как установить и настроить локальный сервер на Mac. Настройка MAMP](https://www.youtube.com/watch?v=PJbwItuz0HI&amp;list=PLVfMKQXDAhGWCBTca7m-snWrZZkjX2jGB&amp;index=33&amp;pp=iAQB)

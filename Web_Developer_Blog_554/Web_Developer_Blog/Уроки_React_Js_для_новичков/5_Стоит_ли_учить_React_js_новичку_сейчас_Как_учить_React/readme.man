@@ -1,0 +1,3 @@
+# [Web Developer Blog](https://www.youtube.com/@SuprunAlexey/playlists)
+## [Уроки React Js для новичков](https://www.youtube.com/playlist?list=PLVfMKQXDAhGVCB401FJhb4HC6tAMe5YdL)
+### [Стоит ли учить React js новичку сейчас. Как учить React.](https://www.youtube.com/watch?v=Q2zCXBFlrgQ&amp;list=PLVfMKQXDAhGVCB401FJhb4HC6tAMe5YdL&amp;index=5&amp;pp=iAQB)

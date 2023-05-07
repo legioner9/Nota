@@ -1,0 +1,3 @@
+# [WebDev с нуля. Канал Алекса Лущенко](https://www.youtube.com/@itgid/playlists)
+## [HTML для JS разработчиков](https://www.youtube.com/playlist?list=PLM7wFzahDYnFm6iix7x5zYxqMTBe12vvj)
+### [Готовим Gulp для проекта](https://www.youtube.com/watch?v=8M_Nx7qG9ks&amp;list=PLM7wFzahDYnFm6iix7x5zYxqMTBe12vvj&amp;index=17&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [C++ User Group](https://www.youtube.com/@CUserGroupRussia/playlists)
+## [C++ Russia 2022: Community Day & активности из главной студии](https://www.youtube.com/playlist?list=PLZN9ZGiWZoZo4MvdepGdU-6HmGVCf46Eh)
+### [Кристина Михайленко, Михаил Лукин — Доклад про декомпилятор GPGPU](https://www.youtube.com/watch?v=SZx930kAKCg&amp;list=PLZN9ZGiWZoZo4MvdepGdU-6HmGVCf46Eh&amp;index=2&amp;pp=iAQB)

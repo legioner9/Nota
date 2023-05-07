@@ -1,0 +1,3 @@
+# [Laravel Creative](https://www.youtube.com/@laravelcreative/playlists)
+## [Мотивация и развитие](https://www.youtube.com/playlist?list=PLd2_Os8Cj3t__OzG61OT3YLaQG-nnz-IX)
+### [Структура папок и файлов в Laravel. И немного про Базовый курс по Laravel](https://www.youtube.com/watch?v=fywcqMqBL0s&amp;list=PLd2_Os8Cj3t__OzG61OT3YLaQG-nnz-IX&amp;index=8&amp;pp=iAQB)

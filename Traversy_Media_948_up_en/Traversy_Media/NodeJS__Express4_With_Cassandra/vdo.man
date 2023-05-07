@@ -1,0 +1,4 @@
+### [NodeJS &amp; Express 4 With Cassandra  - Part 4](https://www.youtube.com/watch?v=fLOR_7upQp0&amp;list=PLillGF-RfqbZ4aTrhgDerxss_BOgs2Q8h&amp;index=1&amp;pp=iAQB)
+### [NodeJS &amp; Express 4 With Cassandra  - Part 6](https://www.youtube.com/watch?v=akZI52ZUWbo&amp;list=PLillGF-RfqbZ4aTrhgDerxss_BOgs2Q8h&amp;index=2&amp;pp=iAQB)
+### [NodeJS &amp; Express 4 With Cassandra - Part 1](https://www.youtube.com/watch?v=ivstVNUKAW8&amp;list=PLillGF-RfqbZ4aTrhgDerxss_BOgs2Q8h&amp;index=3&amp;pp=iAQB)
+### [NodeJS &amp; Express 4 With Cassandra  - Part 7](https://www.youtube.com/watch?v=tll2lsVVWAo&amp;list=PLillGF-RfqbZ4aTrhgDerxss_BOgs2Q8h&amp;index=4&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [Просто о Laravel. CutCode](https://www.youtube.com/@CutCodeRu/playlists)
+## [Курс PHP с нуля. Уроки по изучению PHP (ПХП)](https://www.youtube.com/playlist?list=PLTucyHptHtTlPKuCdveqnaZE_Mi-F1LhE)
+### [Функции включений - include() и require() в PHP. Курс php обучение с нуля. Урок 9.](https://www.youtube.com/watch?v=xGWYaKeyZdw&amp;list=PLTucyHptHtTlPKuCdveqnaZE_Mi-F1LhE&amp;index=11&amp;pp=iAQB)

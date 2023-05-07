@@ -1,0 +1,3 @@
+# [Traversy Media](https://www.youtube.com/@TraversyMedia/playlists)
+## [jQuery Crash Course](https://www.youtube.com/playlist?list=PLillGF-RfqbYJVXBgZ_nA7FTAAEpp_IAc)
+### [jQuery Crash Course [1] - Intro &amp; Selectors](https://www.youtube.com/watch?v=3nrLc_JOF7k&amp;list=PLillGF-RfqbYJVXBgZ_nA7FTAAEpp_IAc&amp;index=1&amp;pp=iAQB)

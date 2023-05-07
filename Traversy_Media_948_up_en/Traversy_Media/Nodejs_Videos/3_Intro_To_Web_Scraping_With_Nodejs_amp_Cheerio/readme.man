@@ -1,0 +1,3 @@
+# [Traversy Media](https://www.youtube.com/@TraversyMedia/playlists)
+## [Node.js Videos](https://www.youtube.com/playlist?list=PLillGF-RfqbZ2ybcoD2OaabW2P7Ws8CWu)
+### [Intro To Web Scraping With Node.js &amp; Cheerio](https://www.youtube.com/watch?v=LoziivfAAjE&amp;list=PLillGF-RfqbZ2ybcoD2OaabW2P7Ws8CWu&amp;index=3&amp;pp=iAQB)

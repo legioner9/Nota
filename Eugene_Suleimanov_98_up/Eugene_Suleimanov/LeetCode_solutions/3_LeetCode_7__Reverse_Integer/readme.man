@@ -1,0 +1,3 @@
+# [Eugene Suleimanov](https://www.youtube.com/@EugeneSuleimanov/playlists)
+## [LeetCode solutions](https://www.youtube.com/playlist?list=PLlsMRoVt5sTPCbbIW2QZ-hRMW80lymEYR)
+### [LeetCode #7 - Reverse Integer](https://www.youtube.com/watch?v=EguIpZNAzNo&amp;list=PLlsMRoVt5sTPCbbIW2QZ-hRMW80lymEYR&amp;index=3&amp;pp=iAQB)

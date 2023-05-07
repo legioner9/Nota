@@ -1,0 +1,2 @@
+### [Не запускается skype в Manjaro / Skypeforlinux does not start in Linux [Manjaro]](https://www.youtube.com/watch?v=24yFtsHYPdA&amp;list=PLu_3HTYo7X1YO27obhpTs4pj9stG83atj&amp;index=1&amp;pp=iAQB)
+### [Артефакты intel i915 Linux kernel 4.19+ [Решение]](https://www.youtube.com/watch?v=9oDyzP_F5oM&amp;list=PLu_3HTYo7X1YO27obhpTs4pj9stG83atj&amp;index=2&amp;pp=iAQB)

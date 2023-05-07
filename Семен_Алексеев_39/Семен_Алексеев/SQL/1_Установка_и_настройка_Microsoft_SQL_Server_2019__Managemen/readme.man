@@ -1,0 +1,3 @@
+# [Семен Алексеев](https://www.youtube.com/@alekseev74/playlists)
+## [SQL](https://www.youtube.com/playlist?list=PLUTrDHuvZc4HlB40f9vAEx_HRqtfIrinR)
+### [Установка и настройка Microsoft SQL Server 2019 + Management Studio](https://www.youtube.com/watch?v=dP_ZmYhNFlg&amp;list=PLUTrDHuvZc4HlB40f9vAEx_HRqtfIrinR&amp;index=1&amp;pp=iAQB)

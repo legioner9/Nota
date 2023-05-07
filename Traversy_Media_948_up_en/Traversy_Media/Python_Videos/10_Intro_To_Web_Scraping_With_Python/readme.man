@@ -1,0 +1,3 @@
+# [Traversy Media](https://www.youtube.com/@TraversyMedia/playlists)
+## [Python Videos](https://www.youtube.com/playlist?list=PLillGF-RfqbbJYRaNqeUzAb7QY-IqBKRx)
+### [Intro To Web Scraping With Python](https://www.youtube.com/watch?v=4UcqECQe5Kc&amp;list=PLillGF-RfqbbJYRaNqeUzAb7QY-IqBKRx&amp;index=10&amp;pp=iAQB)

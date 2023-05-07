@@ -1,0 +1,3 @@
+# [Степан](https://www.youtube.com/@Shift63770/playlists)
+## [[PHP] Пишем простой MVC инвестиционный сайт (HYIP)](https://www.youtube.com/playlist?list=PLB8wmVoWIIx5MoAp5xARw8c2hhoNSNhuM)
+### [[PHP] Пишем инвестиционный сайт (HYIP). Структура. Валидация данных пользователей. Часть #1](https://www.youtube.com/watch?v=Ni2YIxs65YQ&amp;list=PLB8wmVoWIIx5MoAp5xARw8c2hhoNSNhuM&amp;index=1&amp;pp=iAQB)

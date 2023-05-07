@@ -1,0 +1,4 @@
+### [Создание первой программы в Qt Creator](https://www.youtube.com/watch?v=NlBlcAWAtAg&amp;list=PLYQhNajy-JUHMXJ_7TR4zW19vnU78CFPb&amp;index=1&amp;pp=iAQB)
+### [Урок 2 Классы и объекты](https://www.youtube.com/watch?v=BfOhQiMKqTo&amp;list=PLYQhNajy-JUHMXJ_7TR4zW19vnU78CFPb&amp;index=2&amp;pp=iAQB)
+### [Сигналы и слоты](https://www.youtube.com/watch?v=xmfxTXXYOkc&amp;list=PLYQhNajy-JUHMXJ_7TR4zW19vnU78CFPb&amp;index=3&amp;pp=iAQB)
+### [Сохранение текстового файла с помощью класса QFile](https://www.youtube.com/watch?v=DbPTcY-V9gQ&amp;list=PLYQhNajy-JUHMXJ_7TR4zW19vnU78CFPb&amp;index=4&amp;pp=iAQB)

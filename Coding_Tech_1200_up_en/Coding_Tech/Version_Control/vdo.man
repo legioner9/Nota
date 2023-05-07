@@ -1,0 +1,3 @@
+### [Github For The Rest Of Us](https://www.youtube.com/watch?v=8_mHSdCkv3s&amp;list=PLFjq8z-aGyQ44Uslf_hJfbqeI1dcMIYPQ&amp;index=1&amp;pp=iAQB)
+### [Rules to Git By](https://www.youtube.com/watch?v=yI0BtEzdGtw&amp;list=PLFjq8z-aGyQ44Uslf_hJfbqeI1dcMIYPQ&amp;index=2&amp;pp=iAQB)
+### [GitHub Actions (CI/CD Flow)](https://www.youtube.com/watch?v=0tMkRSdp-Go&amp;list=PLFjq8z-aGyQ44Uslf_hJfbqeI1dcMIYPQ&amp;index=3&amp;pp=iAQB)

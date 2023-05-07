@@ -1,0 +1,3 @@
+# [VIMP dev — верстка сайтов](https://www.youtube.com/@VIMPdev/playlists)
+## [CSS](https://www.youtube.com/playlist?list=PLBfQgL-XzhF26hSwvDq1V1XPlhf_yEt82)
+### [CSS Columns. Мультиколонки в CSS.](https://www.youtube.com/watch?v=vFuyhoSRV-A&amp;list=PLBfQgL-XzhF26hSwvDq1V1XPlhf_yEt82&amp;index=1&amp;pp=iAQB)

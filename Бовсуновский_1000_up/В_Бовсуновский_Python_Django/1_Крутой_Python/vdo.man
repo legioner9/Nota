@@ -1,0 +1,7 @@
+### [1. Пишите такой крутой код Python и будете крутым программистом.](https://www.youtube.com/watch?v=YHj8S4IYXgU&amp;list=PLuZJ9n46uMzVQLs2u4hwjfcQkZ8QVKea1&amp;index=1&amp;pp=iAQB)
+### [2.  C чего начать ООП, что бы писать крутой код Python.](https://www.youtube.com/watch?v=hCgC1-rWQL0&amp;list=PLuZJ9n46uMzVQLs2u4hwjfcQkZ8QVKea1&amp;index=2&amp;pp=iAQB)
+### [3. Самый короткий путь от новичка программиста Python до профессионала, причём легко.](https://www.youtube.com/watch?v=NPRRkxVeKA0&amp;list=PLuZJ9n46uMzVQLs2u4hwjfcQkZ8QVKea1&amp;index=3&amp;pp=iAQB)
+### [Как применять документацию и исходный код на практике на примере, toga Python.](https://www.youtube.com/watch?v=DmXR3K4E6v4&amp;list=PLuZJ9n46uMzVQLs2u4hwjfcQkZ8QVKea1&amp;index=4&amp;pp=iAQB)
+### [1. Python 3 ООП крутой курс. Без этого не станешь профи. Разбираемся.](https://www.youtube.com/watch?v=J7TVQ9FXhAw&amp;list=PLuZJ9n46uMzVQLs2u4hwjfcQkZ8QVKea1&amp;index=5&amp;pp=iAQB)
+### [4. От новичка до профи Python. Учимся профессионально работать с профессиональным исходным кодом.](https://www.youtube.com/watch?v=P5EMV6YjYak&amp;list=PLuZJ9n46uMzVQLs2u4hwjfcQkZ8QVKea1&amp;index=6&amp;pp=iAQB)
+### [Разработка кода Python попёрла, код начал прилипать к голове. Где такому учат?](https://www.youtube.com/watch?v=06egvOQm9PM&amp;list=PLuZJ9n46uMzVQLs2u4hwjfcQkZ8QVKea1&amp;index=7&amp;pp=iAQB)

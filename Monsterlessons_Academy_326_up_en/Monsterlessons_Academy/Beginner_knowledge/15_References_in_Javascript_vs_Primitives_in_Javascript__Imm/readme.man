@@ -1,0 +1,3 @@
+# [Monsterlessons Academy](https://www.youtube.com/@MonsterlessonsAcademy/playlists)
+## [Beginner knowledge](https://www.youtube.com/playlist?list=PLEjh-YiSBCDL65QCBTFhEPaKPKQsBBbGz)
+### [References in Javascript vs Primitives in Javascript | Immutable Javascript](https://www.youtube.com/watch?v=vRBnqf2RfZE&amp;list=PLEjh-YiSBCDL65QCBTFhEPaKPKQsBBbGz&amp;index=15&amp;pp=iAQB)

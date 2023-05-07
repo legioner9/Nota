@@ -1,0 +1,3 @@
+# [freeCodeCamp.org](https://www.youtube.com/@freecodecamp/playlists)
+## [React Live Coding (Project 4) - Live Coding with Jesse](https://www.youtube.com/playlist?list=PLWKjhJtqVAbmcla_n9Haxp8PfTGYXIBwP)
+### [NodeJS User Auth with PassportJS (P4D12) - Live Coding with Jesse](https://www.youtube.com/watch?v=Xv8FtSTSMwc&amp;list=PLWKjhJtqVAbmcla_n9Haxp8PfTGYXIBwP&amp;index=5&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [В. Бовсуновский Python Django](https://www.youtube.com/@bov/playlists?view=1)
+## [Искусственный интеллект](https://www.youtube.com/playlist?list=PLuZJ9n46uMzUM76FLR97dXc0YM76hU94v)
+### [Matplotlib шаг 4. Добавление label (метка), title (заголовок), legend (легенды).](https://www.youtube.com/watch?v=d6vP8cnB7ZQ&amp;list=PLuZJ9n46uMzUM76FLR97dXc0YM76hU94v&amp;index=11&amp;pp=iAQB)

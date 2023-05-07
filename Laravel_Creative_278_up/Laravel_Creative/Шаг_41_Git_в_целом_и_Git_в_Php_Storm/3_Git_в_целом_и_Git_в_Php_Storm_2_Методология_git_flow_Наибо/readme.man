@@ -1,0 +1,3 @@
+# [Laravel Creative](https://www.youtube.com/@laravelcreative/playlists)
+## [Шаг 4.1. Git в целом и Git в Php Storm](https://www.youtube.com/playlist?list=PLd2_Os8Cj3t_NscvtE9xd0QATeYy-kNCU)
+### [Git в целом и Git в Php Storm 2. Методология git flow. Наиболее популярный вариант разработки с Git](https://www.youtube.com/watch?v=-P0tCyeTJYM&amp;list=PLd2_Os8Cj3t_NscvtE9xd0QATeYy-kNCU&amp;index=3&amp;pp=iAQB)

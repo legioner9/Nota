@@ -1,0 +1,3 @@
+# [WebDev с нуля. Канал Алекса Лущенко](https://www.youtube.com/@itgid/playlists)
+## [Курс ReactJS (Redux, deploy)](https://www.youtube.com/playlist?list=PLM7wFzahDYnHVWnTz-OMi0pXSLdAlAHte)
+### [React-router-dom 6 - новый синтаксис роутинга. Routes вместо Switch, elements. SPA и MPSa на RRD6](https://www.youtube.com/watch?v=kzhS1a2VkIo&amp;list=PLM7wFzahDYnHVWnTz-OMi0pXSLdAlAHte&amp;index=19&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [Traversy Media](https://www.youtube.com/@TraversyMedia/playlists)
+## [PHP Front To Back](https://www.youtube.com/playlist?list=PLillGF-Rfqbap2IB6ZS4BBBcYPagAjpjn)
+### [PHP Front To Back [Part 22] - MySQLi Insert, Update &amp; Delete](https://www.youtube.com/watch?v=9t7AH7lOlL0&amp;list=PLillGF-Rfqbap2IB6ZS4BBBcYPagAjpjn&amp;index=22&amp;pp=iAQB)

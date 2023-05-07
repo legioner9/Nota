@@ -1,0 +1,3 @@
+# [Laravel Creative](https://www.youtube.com/@laravelcreative/playlists)
+## [Шаг 4.1. Git в целом и Git в Php Storm](https://www.youtube.com/playlist?list=PLd2_Os8Cj3t_NscvtE9xd0QATeYy-kNCU)
+### [Git в целом и Git в Php Storm 10. Создание задачи(issue) в github и gitlab  с веткой и fetch](https://www.youtube.com/watch?v=AmhjDk92MtM&amp;list=PLd2_Os8Cj3t_NscvtE9xd0QATeYy-kNCU&amp;index=11&amp;pp=iAQB)

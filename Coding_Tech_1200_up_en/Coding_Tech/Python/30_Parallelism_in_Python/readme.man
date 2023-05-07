@@ -1,0 +1,3 @@
+# [Coding Tech](https://www.youtube.com/@CodingTech/playlists)
+## [Python](https://www.youtube.com/playlist?list=PLFjq8z-aGyQ4Y3mSWGBptr7SArEsfdWQA)
+### [Parallelism in Python](https://www.youtube.com/watch?v=QRF1637j6NU&amp;list=PLFjq8z-aGyQ4Y3mSWGBptr7SArEsfdWQA&amp;index=30&amp;pp=iAQB)

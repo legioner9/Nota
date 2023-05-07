@@ -1,0 +1,3 @@
+# [openWeb - Веб программирование на языках PHP и JS](https://www.youtube.com/@openweb-php/playlists)
+## [Уроки PHP](https://www.youtube.com/playlist?list=PL-leL2miqjEavs9nx7pXolf0NBNwhs4H_)
+### [Скачать видео с YouTube, пишем скрипт на PHP](https://www.youtube.com/watch?v=FHuD1SpO5xk&amp;list=PL-leL2miqjEavs9nx7pXolf0NBNwhs4H_&amp;index=22&amp;pp=iAQB)

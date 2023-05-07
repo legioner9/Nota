@@ -1,0 +1,5 @@
+### [ЧТО ТАКОЕ ТРАНЗАКЦИИ В БАЗЕ ДАННЫХ? ACID ТРАНЗАКЦИИ И ДРУГОЕ](https://www.youtube.com/watch?v=aCnZQ9pju0s&amp;list=PLF4MWzDJPFSb3JWtwlSMplmvjyqfW7zK6&amp;index=1&amp;pp=iAQB)
+### [ЧТО ТАКОЕ ELASTICSEARCH? ВВОДНЫЙ УРОК](https://www.youtube.com/watch?v=nMaDw6Dk14k&amp;list=PLF4MWzDJPFSb3JWtwlSMplmvjyqfW7zK6&amp;index=2&amp;pp=iAQB)
+### [ТРАНЗАКЦИИ В ПИТОНЕ. КАК ИХ ОБРАБАТЫВАТЬ?](https://www.youtube.com/watch?v=9Fpq6V0by5c&amp;list=PLF4MWzDJPFSb3JWtwlSMplmvjyqfW7zK6&amp;index=3&amp;pp=iAQB)
+### [Главный секрет SQL! Как ускорить запросы в 1000 раз???](https://www.youtube.com/watch?v=jqSUnt0EVV8&amp;list=PLF4MWzDJPFSb3JWtwlSMplmvjyqfW7zK6&amp;index=4&amp;pp=iAQB)
+### [Как написать ЛУЧШИЙ CRUD в Питоне за 5 минут?](https://www.youtube.com/watch?v=MTe443ya7B4&amp;list=PLF4MWzDJPFSb3JWtwlSMplmvjyqfW7zK6&amp;index=5&amp;pp=iAQB)

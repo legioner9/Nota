@@ -1,0 +1,3 @@
+# [Василий Муравьев](https://www.youtube.com/@stackdev/playlists)
+## [Javascript Практика](https://www.youtube.com/playlist?list=PLtL3lrXPn2rX3eDIQ4QzLEr7NZjtocwGQ)
+### [Javascript Практика 01. HTML5 Canvas и Javascript Классы для создания анимации (1000 окружностей).](https://www.youtube.com/watch?v=50cdak-NxQg&amp;list=PLtL3lrXPn2rX3eDIQ4QzLEr7NZjtocwGQ&amp;index=2&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [Traversy Media](https://www.youtube.com/@TraversyMedia/playlists)
+## [Angular 2 Spotify App](https://www.youtube.com/playlist?list=PLillGF-RfqbYmJsLiPDVoDea3lfy7-E8O)
+### [Build An Angular 2 Spotify App - Part 5](https://www.youtube.com/watch?v=LJJvYcioMAY&amp;list=PLillGF-RfqbYmJsLiPDVoDea3lfy7-E8O&amp;index=5&amp;pp=iAQB)

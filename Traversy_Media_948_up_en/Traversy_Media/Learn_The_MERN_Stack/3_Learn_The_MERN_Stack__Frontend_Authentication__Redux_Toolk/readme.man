@@ -1,0 +1,3 @@
+# [Traversy Media](https://www.youtube.com/@TraversyMedia/playlists)
+## [Learn The MERN Stack](https://www.youtube.com/playlist?list=PLillGF-RfqbbQeVSccR9PGKHzPJSWqcsm)
+### [Learn The MERN Stack - Frontend Authentication | Redux Toolkit](https://www.youtube.com/watch?v=mvfsC66xqj0&amp;list=PLillGF-RfqbbQeVSccR9PGKHzPJSWqcsm&amp;index=3&amp;pp=iAQB)

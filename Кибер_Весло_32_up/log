@@ -1,0 +1,54 @@
+ 05.05.2023 18:22:18 done Применение практик CI/CD с использованием Github Actions на проекте Django
+ 05.05.2023 18:22:21 done Применение практик CI/CD с использованием Github Actions на проекте Django, ч. 2. Измерение coverage
+ 05.05.2023 18:22:21 done CI/CD
+ 05.05.2023 18:22:49 done sync  v.s. async  - Скачиваем фотографии котов из интернета. Используем asyncio, aiohttp, aiofiles.
+ 05.05.2023 18:22:49 done async
+ 05.05.2023 18:23:20 done Как работает декоратор в python. Пошаговое объяснение того, как работает декоратор
+ 05.05.2023 18:23:22 done Сетевой мультиплеер - Крестики нолики на python, websockets и FastAPI!
+ 05.05.2023 18:23:24 done sync v.s. async - Асинхронное программирование с использованием библиотеки Python AsyncIO.
+ 05.05.2023 18:23:27 done sync  v.s. async  - Скачиваем фотографии котов из интернета. Используем asyncio, aiohttp, aiofiles.
+ 05.05.2023 18:23:29 done Применение практик CI/CD с использованием Github Actions на проекте Django
+ 05.05.2023 18:23:31 done Применение практик CI/CD с использованием Github Actions на проекте Django, ч. 2. Измерение coverage
+ 05.05.2023 18:23:31 done python - общий
+ 05.05.2023 18:24:04 done Telegram Bot на Python. Часть 1 - backend. Python, Django, Django Rest Framework.
+ 05.05.2023 18:24:06 done Telegram Bot на Python. Часть 2 - aiogram bot. Python, Django, Django Rest Framework.
+ 05.05.2023 18:24:07 done telegram-bot
+ 05.05.2023 18:24:38 done Celery + Django + Docker = Cat Downloader - Demo-проект, демонстрирующий принципы работы Celery
+ 05.05.2023 18:24:40 done Celery Task State tracker - как в режиме онлайн получать статус выполнения задач?
+ 05.05.2023 18:24:43 done Celerybeat + Django + Docker = Cat Downloader с задачами по расписанию.
+ 05.05.2023 18:24:45 done ALBATROSS - 18 (Official Music Video)
+ 05.05.2023 18:24:47 done Flower: Celery monitoring - мониторинг очереди задач Celery с помощью Flower + Prometheus +@Grafana
+ 05.05.2023 18:24:48 done celery
+ 05.05.2023 18:25:18 done Kivy Python: Создание интерфейса с помощью *.py и *.kv файлов.
+ 05.05.2023 18:25:18 done kivy
+ 05.05.2023 18:25:49 done Установка Python/Django пpиложения SSL-cert на любой сервер/хостинг с использованием docker-compose.
+ 05.05.2023 18:25:51 done Как наполнить базу данных Django дефолтными данными? Django Data Migrations in action.
+ 05.05.2023 18:25:51 done Запуск на хостинге
+ 05.05.2023 18:26:22 done Deploying our Django project to hosting from zero in 25 minutes
+ 05.05.2023 18:26:24 done Установка Python/Django пpиложения SSL-cert на любой сервер/хостинг с использованием docker-compose.
+ 05.05.2023 18:26:26 done Как наполнить базу данных Django дефолтными данными? Django Data Migrations in action.
+ 05.05.2023 18:26:27 done app deploy - размещение проекта
+ 05.05.2023 18:26:57 done 01. Django REST Framework - установка и проверка
+ 05.05.2023 18:26:59 done 02. Django REST Framework - простой Serializer, (де)сериалилируем объекты, сохраняем, обновляем.
+ 05.05.2023 18:27:01 done 03. Django REST Framework - используем сериализатор в django view.
+ 05.05.2023 18:27:04 done 04. Django REST Framework - Generic Class Base Views.
+ 05.05.2023 18:27:06 done 05. Django REST Framework - ModelViewSet.
+ 05.05.2023 18:27:08 done Telegram Bot на Python. Часть 1 - backend. Python, Django, Django Rest Framework.
+ 05.05.2023 18:27:09 done Django REST framework
+ 05.05.2023 18:27:40 done Кроссплатформенное Kivy-приложение - Телефонная книга
+ 05.05.2023 18:27:42 done Как создать телефонную книжку на Python (SQLAlchemy, Jinja2, MVC)
+ 05.05.2023 18:27:44 done 01. Django 3.1. Web-приложение &quot;Телефонная книга&quot; - Установка и старт проекта
+ 05.05.2023 18:27:46 done 02. Django 3.1. Web-приложение &quot;Телефонная книга&quot; - Создание приложения, создание Моделей.
+ 05.05.2023 18:27:49 done 03. Django 3.1. Web-приложение &quot;Телефонная книга&quot; - Создание HomePageView и Template.
+ 05.05.2023 18:27:51 done 04. Django 3.1. Web-приложение &quot;Телефонная книга&quot; - Создание AddView(CreateView), ModelForm, NavBar.
+ 05.05.2023 18:27:53 done 05. Django 3.1. Web-приложение &quot;Телефонная книга&quot; - Создание ListView, CreateView
+ 05.05.2023 18:27:55 done 06. Django 3.1. Web-приложение &quot;Телефонная книга&quot; - Поиск/фильтрация данных (Search)
+ 05.05.2023 18:27:58 done 01. Django REST Framework - установка и проверка
+ 05.05.2023 18:28:00 done Как наполнить базу данных Django дефолтными данными? Django Data Migrations in action.
+ 05.05.2023 18:28:00 done Телефонная книга
+ 05.05.2023 18:28:30 done Как сложить двух собак на языке Python?
+ 05.05.2023 18:28:33 done Как сложить двух собак на языке Python?
+ 05.05.2023 18:28:35 done Telegram Bot на Python. Часть 2 - aiogram bot. Python, Django, Django Rest Framework.
+ 05.05.2023 18:28:35 done python oop
+ 05.05.2023 18:28:36 good end 
+ 05.05.2023 18:28:36 good end 

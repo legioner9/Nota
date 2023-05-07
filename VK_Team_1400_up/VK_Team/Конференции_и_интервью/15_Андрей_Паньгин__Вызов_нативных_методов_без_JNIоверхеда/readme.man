@@ -1,0 +1,3 @@
+# [VK Team](https://www.youtube.com/@vkteamchannel/playlists?view=1&sort=dd&shelf_id=0)
+## [Конференции и интервью](https://www.youtube.com/playlist?list=PLrCZzMib1e9o91aKLgcw3Kxt_9L-n8VkW)
+### [Андрей Паньгин — Вызов нативных методов без JNI-оверхеда](https://www.youtube.com/watch?v=ux1jWJgDRRs&amp;list=PLrCZzMib1e9o91aKLgcw3Kxt_9L-n8VkW&amp;index=15&amp;pp=iAQB)

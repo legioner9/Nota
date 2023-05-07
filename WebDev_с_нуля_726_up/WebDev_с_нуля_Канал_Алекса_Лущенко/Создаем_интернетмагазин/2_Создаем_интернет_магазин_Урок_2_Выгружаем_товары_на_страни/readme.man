@@ -1,0 +1,3 @@
+# [WebDev с нуля. Канал Алекса Лущенко](https://www.youtube.com/@itgid/playlists)
+## [Создаем интернет-магазин](https://www.youtube.com/playlist?list=PLM7wFzahDYnGt2tP9WHezqNCT56hMsc8I)
+### [Создаем интернет магазин. Урок 2. Выгружаем товары на страницу](https://www.youtube.com/watch?v=J8Bo8DhX05o&amp;list=PLM7wFzahDYnGt2tP9WHezqNCT56hMsc8I&amp;index=2&amp;pp=iAQB)

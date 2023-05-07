@@ -1,0 +1,2 @@
+### [Установка Python/Django пpиложения SSL-cert на любой сервер/хостинг с использованием docker-compose.](https://www.youtube.com/watch?v=9VYB58u664A&amp;list=PLIMYb25g876jnnwZAUVfVe6yqYab37iqx&amp;index=1&amp;pp=iAQB)
+### [Как наполнить базу данных Django дефолтными данными? Django Data Migrations in action.](https://www.youtube.com/watch?v=qCzODIPu1v0&amp;list=PLIMYb25g876jnnwZAUVfVe6yqYab37iqx&amp;index=2&amp;pp=iAQB)

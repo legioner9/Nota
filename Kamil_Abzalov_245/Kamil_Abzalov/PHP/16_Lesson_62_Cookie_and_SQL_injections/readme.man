@@ -1,0 +1,3 @@
+# [Kamil Abzalov](https://www.youtube.com/@Kamil-abzalovRu/playlists)
+## [PHP](https://www.youtube.com/playlist?list=PLOpdT8GIZ4XUQXDJDVRTz_g4UUmyweuxe)
+### [Lesson 62. Cookie and SQL injections](https://www.youtube.com/watch?v=_CUwLanUIRU&amp;list=PLOpdT8GIZ4XUQXDJDVRTz_g4UUmyweuxe&amp;index=16&amp;pp=iAQB)

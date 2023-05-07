@@ -1,0 +1,3 @@
+# [Web Developer Blog](https://www.youtube.com/@SuprunAlexey/playlists)
+## [Уроки Python](https://www.youtube.com/playlist?list=PLVfMKQXDAhGXkktAHT_z_vz-KGyy1RLX9)
+### [Уроки Python - Кортежи](https://www.youtube.com/watch?v=joxXOqIy0K4&amp;list=PLVfMKQXDAhGXkktAHT_z_vz-KGyy1RLX9&amp;index=7&amp;pp=iAQB)

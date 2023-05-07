@@ -1,7 +1,0 @@
-### [Как скачать и установить Microsoft SQL Server 2019](https://www.youtube.com/watch?v=FB8C8FVyXC8&amp;list=PLxiU3nwEQ4PGtNfwrLtABYwsQkNrQamTK&amp;index=1)
-### [Как установить FTP на Ubuntu сервер (настройка)](https://www.youtube.com/watch?v=h_qRBeBHtKE&amp;list=PLxiU3nwEQ4PGtNfwrLtABYwsQkNrQamTK&amp;index=2)
-### [Как установить базу данных MySql](https://www.youtube.com/watch?v=uU9zdjbqfa0&amp;list=PLxiU3nwEQ4PGtNfwrLtABYwsQkNrQamTK&amp;index=3)
-### [Как установить PhpMyAdmin для MySql](https://www.youtube.com/watch?v=O3M3dFgqT7I&amp;list=PLxiU3nwEQ4PGtNfwrLtABYwsQkNrQamTK&amp;index=4)
-### [Как скачать и установить SQL Server](https://www.youtube.com/watch?v=P7YJzn8I_yA&amp;list=PLxiU3nwEQ4PGtNfwrLtABYwsQkNrQamTK&amp;index=5)
-### [Как подключиться из Python к SQL Server 2019 используя Windows аутентификацию NTLM](https://www.youtube.com/watch?v=FQBUFg_E528&amp;list=PLxiU3nwEQ4PGtNfwrLtABYwsQkNrQamTK&amp;index=6)
-### [Как я изучаю новый язык программирования / Только для спонсоров ))](https://www.youtube.com/watch?v=xQ2-yRDV3gY&amp;list=PLxiU3nwEQ4PGtNfwrLtABYwsQkNrQamTK&amp;index=7)

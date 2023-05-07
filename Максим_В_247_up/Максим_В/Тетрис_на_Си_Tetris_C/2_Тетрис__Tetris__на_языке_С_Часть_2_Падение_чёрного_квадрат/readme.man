@@ -1,0 +1,3 @@
+# [Максим В](https://www.youtube.com/@cpp/playlists)
+## [Тетрис на Си++ Tetris C++](https://www.youtube.com/playlist?list=PLlxYwLnXeoE2I6lOskCjTet30MY6xf6k9)
+### [Тетрис / Tetris  на языке С++. Часть 2. Падение чёрного квадрата.](https://www.youtube.com/watch?v=zNKSjJwWRwc&amp;list=PLlxYwLnXeoE2I6lOskCjTet30MY6xf6k9&amp;index=2&amp;pp=iAQB)

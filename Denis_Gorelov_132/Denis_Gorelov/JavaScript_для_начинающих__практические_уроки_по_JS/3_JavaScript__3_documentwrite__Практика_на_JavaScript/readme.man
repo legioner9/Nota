@@ -1,0 +1,3 @@
+# [Denis Gorelov](https://www.youtube.com/@denisgorelov3236/playlists)
+## [JavaScript для начинающих / практические уроки по JS](https://www.youtube.com/playlist?list=PL8pp2EAvIK-KybxnPezLLiEEfLfle11_i)
+### [JavaScript - #3 document.write / Практика на JavaScript](https://www.youtube.com/watch?v=YkUBHGEVk7s&amp;list=PL8pp2EAvIK-KybxnPezLLiEEfLfle11_i&amp;index=3&amp;pp=iAQB)

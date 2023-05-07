@@ -1,0 +1,3 @@
+# [WebDev с нуля. Канал Алекса Лущенко](https://www.youtube.com/@itgid/playlists)
+## [Живая верстка](https://www.youtube.com/playlist?list=PLM7wFzahDYnFhgE-jYkO6ZLaEXXxdqs5g)
+### [Блок контактов,  скиллы, достижения - проект. HTML для будущих JS разработчиков](https://www.youtube.com/watch?v=l-Ut6w9L1Ss&amp;list=PLM7wFzahDYnFhgE-jYkO6ZLaEXXxdqs5g&amp;index=25&amp;pp=iAQB)

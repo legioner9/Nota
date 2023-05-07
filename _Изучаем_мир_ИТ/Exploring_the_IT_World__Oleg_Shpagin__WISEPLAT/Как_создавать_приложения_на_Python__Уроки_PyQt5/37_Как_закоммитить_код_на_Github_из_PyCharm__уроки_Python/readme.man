@@ -1,3 +1,0 @@
-# [Exploring the IT World / Oleg Shpagin / WISEPLAT](https://www.youtube.com/@wiseplat/playlists)
-## [Как создавать приложения на Python / Уроки PyQt5](https://www.youtube.com/playlist?list=PLxiU3nwEQ4PFYw-kaE5kAT17AtxhvLM71)
-### [Как закоммитить код на Github из PyCharm / уроки Python](https://www.youtube.com/watch?v=mbfxe4VLHu0&amp;list=PLxiU3nwEQ4PFYw-kaE5kAT17AtxhvLM71&amp;index=37)

@@ -1,0 +1,3 @@
+# [Traversy Media](https://www.youtube.com/@TraversyMedia/playlists)
+## [Ionic Mobile Framework](https://www.youtube.com/playlist?list=PLillGF-RfqbbtvHn2l1sOSzEJZ6lpcLci)
+### [Build a Mobile App With Ionic - Part 1](https://www.youtube.com/watch?v=gHPL_2IsZlI&amp;list=PLillGF-RfqbbtvHn2l1sOSzEJZ6lpcLci&amp;index=1&amp;pp=iAQB)

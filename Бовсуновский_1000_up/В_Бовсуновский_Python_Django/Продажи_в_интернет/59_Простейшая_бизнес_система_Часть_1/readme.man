@@ -1,0 +1,3 @@
+# [В. Бовсуновский Python Django](https://www.youtube.com/@bov/playlists?view=1)
+## [Продажи в интернет.](https://www.youtube.com/playlist?list=PLuZJ9n46uMzXs6FPzwFhJFKBiHZANwjKT)
+### [Простейшая бизнес система. Часть 1.](https://www.youtube.com/watch?v=7ufOnOEe7mE&amp;list=PLuZJ9n46uMzXs6FPzwFhJFKBiHZANwjKT&amp;index=59&amp;pp=iAQB)

@@ -1,0 +1,4 @@
+### [Мини-ликбез: почему реальная скорость WiFi ниже заявленной в характеристиках точки доступа / роутера](https://www.youtube.com/watch?v=GosT_zNi0FY&amp;list=PLsnyAzJu8C0C1bCrHhJxEtq7MI7RNlrsG&amp;index=1&amp;pp=iAQB)
+### [Предиктивное радиопланирование: что, зачем, на чем, почем?](https://www.youtube.com/watch?v=w3seowhjouQ&amp;list=PLsnyAzJu8C0C1bCrHhJxEtq7MI7RNlrsG&amp;index=2&amp;pp=iAQB)
+### [Мини-ликбез: &quot;бесшовный&quot; роуминг клиентов Wi-Fi](https://www.youtube.com/watch?v=AJ6IbR2xA8E&amp;list=PLsnyAzJu8C0C1bCrHhJxEtq7MI7RNlrsG&amp;index=3&amp;pp=iAQB)
+### [Мини-ликбез: почему (почти) всегда следует снижать мощность передатчика в точках доступа Wi-Fi](https://www.youtube.com/watch?v=ZEhSEtzYX7s&amp;list=PLsnyAzJu8C0C1bCrHhJxEtq7MI7RNlrsG&amp;index=4&amp;pp=iAQB)

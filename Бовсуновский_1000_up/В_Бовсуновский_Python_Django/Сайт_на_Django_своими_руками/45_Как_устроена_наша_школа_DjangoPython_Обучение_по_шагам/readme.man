@@ -1,0 +1,3 @@
+# [В. Бовсуновский Python Django](https://www.youtube.com/@bov/playlists?view=1)
+## [Сайт на Django своими руками.](https://www.youtube.com/playlist?list=PLuZJ9n46uMzWTWoE-Q23I_Ss0dOWlvDyv)
+### [Как устроена наша школа Django(Python)? Обучение по шагам.](https://www.youtube.com/watch?v=f5wnSN4Viv8&amp;list=PLuZJ9n46uMzWTWoE-Q23I_Ss0dOWlvDyv&amp;index=45&amp;pp=iAQB)

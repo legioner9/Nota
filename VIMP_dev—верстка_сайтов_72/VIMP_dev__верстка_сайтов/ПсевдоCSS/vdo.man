@@ -1,0 +1,5 @@
+### [Псевдоклассы :is и :where в CSS. Как работают и в чем разница?](https://www.youtube.com/watch?v=sKD4dCdXL5w&amp;list=PLBfQgL-XzhF1tIgI3CevADw3n2ytrll-f&amp;index=1&amp;pp=iAQB)
+### [Стилизация маркеров списка. Псевдоэлемент ::marker.](https://www.youtube.com/watch?v=XyJDqSmOpNw&amp;list=PLBfQgL-XzhF1tIgI3CevADw3n2ytrll-f&amp;index=2&amp;pp=iAQB)
+### [Псевдоклассы focus-within и focus-visible в CSS](https://www.youtube.com/watch?v=Qr1a5ieV1QQ&amp;list=PLBfQgL-XzhF1tIgI3CevADw3n2ytrll-f&amp;index=3&amp;pp=iAQB)
+### [Как работает nth-child в CSS. Выборка элементов по позиции](https://www.youtube.com/watch?v=7Ph0QeO0rFs&amp;list=PLBfQgL-XzhF1tIgI3CevADw3n2ytrll-f&amp;index=4&amp;pp=iAQB)
+### [Псевдокласс :has. Как обратиться к родительскому элементу в CSS](https://www.youtube.com/watch?v=xW_agHv2B3o&amp;list=PLBfQgL-XzhF1tIgI3CevADw3n2ytrll-f&amp;index=5&amp;pp=iAQB)

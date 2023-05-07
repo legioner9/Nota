@@ -1,0 +1,3 @@
+# [Traversy Media](https://www.youtube.com/@TraversyMedia/playlists)
+## [MEAN Stack Front To Back](https://www.youtube.com/playlist?list=PLillGF-RfqbZMNtaOXJQiDebNXjVapWPZ)
+### [MEAN Stack Front To Back [Part 7] - Auth Service &amp; User Registration](https://www.youtube.com/watch?v=dFftMN32jyQ&amp;list=PLillGF-RfqbZMNtaOXJQiDebNXjVapWPZ&amp;index=7&amp;pp=iAQB)

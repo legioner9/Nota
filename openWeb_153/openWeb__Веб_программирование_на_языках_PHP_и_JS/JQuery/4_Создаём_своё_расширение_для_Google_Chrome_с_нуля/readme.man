@@ -1,0 +1,3 @@
+# [openWeb - Веб программирование на языках PHP и JS](https://www.youtube.com/@openweb-php/playlists)
+## [JQuery](https://www.youtube.com/playlist?list=PL-leL2miqjEbGx1BcCYGVSMatFzdQkk9Q)
+### [Создаём своё расширение для Google Chrome с нуля](https://www.youtube.com/watch?v=1EHcl5qcbQY&amp;list=PL-leL2miqjEbGx1BcCYGVSMatFzdQkk9Q&amp;index=4&amp;pp=iAQB)

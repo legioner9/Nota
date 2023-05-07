@@ -1,0 +1,6 @@
+### [Решаем задачи на Python с Codewars | 8 kyu](https://www.youtube.com/watch?v=U1uvK-p1rNM&amp;list=PLs2IpQwiXpT3PDL-rfcz-BdeqT5sHt416&amp;index=1&amp;pp=iAQB)
+### [Решаем задачи на Python с Codewars | 7 kyu](https://www.youtube.com/watch?v=QdR84ruO0po&amp;list=PLs2IpQwiXpT3PDL-rfcz-BdeqT5sHt416&amp;index=2&amp;pp=iAQB)
+### [Решаем задачи на Python с Codewars | 6 kyu](https://www.youtube.com/watch?v=ELfhMwUwmUc&amp;list=PLs2IpQwiXpT3PDL-rfcz-BdeqT5sHt416&amp;index=3&amp;pp=iAQB)
+### [Решаем задачи на Python с Codewars | 5 kyu | Часть 1](https://www.youtube.com/watch?v=Ecvz2GR8tzw&amp;list=PLs2IpQwiXpT3PDL-rfcz-BdeqT5sHt416&amp;index=4&amp;pp=iAQB)
+### [Решаем задачи на Python с Codewars | 5 kyu | Часть 2](https://www.youtube.com/watch?v=QEenxDNyE5s&amp;list=PLs2IpQwiXpT3PDL-rfcz-BdeqT5sHt416&amp;index=5&amp;pp=iAQB)
+### [Решаем задачи на Python с Codewars | 5 kyu | Часть 3](https://www.youtube.com/watch?v=Mx4Y2WWfi2A&amp;list=PLs2IpQwiXpT3PDL-rfcz-BdeqT5sHt416&amp;index=6&amp;pp=iAQB)

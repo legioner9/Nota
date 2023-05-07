@@ -1,0 +1,3 @@
+# [Laravel Creative](https://www.youtube.com/@laravelcreative/playlists)
+## [Платные практические курсы](https://www.youtube.com/playlist?list=PLd2_Os8Cj3t9xFti7HJm8-hAM0XAjzQim)
+### [Новый платный курс Excel импорт SPA Laravel 9, с использованием Inertia, Vue3, Vite, Tailwind](https://www.youtube.com/watch?v=wTg1PK8-wWk&amp;list=PLd2_Os8Cj3t9xFti7HJm8-hAM0XAjzQim&amp;index=2&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [Tech Javascript](https://www.youtube.com/@techjavascript/playlists)
+## [Javascript От новичка до первой работы. Блок 2. Backend with Nestjs](https://www.youtube.com/playlist?list=PLco1IpJXladbmW9c5Ge1w6oXH2XBaE4XO)
+### [9. Api Swagger документация в  Nest js](https://www.youtube.com/watch?v=bqhTvTrsNsk&amp;list=PLco1IpJXladbmW9c5Ge1w6oXH2XBaE4XO&amp;index=9&amp;pp=iAQB)

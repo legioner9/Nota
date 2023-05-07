@@ -1,0 +1,3 @@
+# [C++ User Group](https://www.youtube.com/@CUserGroupRussia/playlists)
+## [C++ Russia 2019 Piter: открытый плейлист](https://www.youtube.com/playlist?list=PLZN9ZGiWZoZp8_XKK1WMcAt2Dr9-QkfU6)
+### [Ashot Vardanian — Dive into the general purpose GPU programming](https://www.youtube.com/watch?v=AA4RI6o0h1U&amp;list=PLZN9ZGiWZoZp8_XKK1WMcAt2Dr9-QkfU6&amp;index=16&amp;pp=iAQB)

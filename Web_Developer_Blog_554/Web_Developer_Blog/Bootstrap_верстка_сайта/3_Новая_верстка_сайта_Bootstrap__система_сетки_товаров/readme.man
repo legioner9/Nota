@@ -1,0 +1,3 @@
+# [Web Developer Blog](https://www.youtube.com/@SuprunAlexey/playlists)
+## [Bootstrap верстка сайта](https://www.youtube.com/playlist?list=PLVfMKQXDAhGUJ6djBTOt-Kevu4UrbPY3g)
+### [Новая верстка сайта Bootstrap - система сетки товаров](https://www.youtube.com/watch?v=cfBmzF57ZFs&amp;list=PLVfMKQXDAhGUJ6djBTOt-Kevu4UrbPY3g&amp;index=3&amp;pp=iAQB)

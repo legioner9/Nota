@@ -1,0 +1,3 @@
+# [VIMP dev — верстка сайтов](https://www.youtube.com/@VIMPdev/playlists)
+## [Практика верстки #5](https://www.youtube.com/playlist?list=PLBfQgL-XzhF3xmbENN1Hf03b95JcQ7mMg)
+### [Минимум CSS кода для адаптивной верстки](https://www.youtube.com/watch?v=G_PscnwtMms&amp;list=PLBfQgL-XzhF3xmbENN1Hf03b95JcQ7mMg&amp;index=1&amp;pp=iAQB)

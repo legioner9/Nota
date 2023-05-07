@@ -1,0 +1,7 @@
+### [Решение автономных систем дифференциальных уравнений Ланчестера и Лоттки-Вольтерра](https://www.youtube.com/watch?v=XR_hBc75Kak&amp;list=PLkHuy0rsti_g-HZ9tSdQN-43pN4CLZ01F&amp;index=1&amp;pp=iAQB)
+### [Динамическое программирование](https://www.youtube.com/watch?v=lLDoIOTjnNM&amp;list=PLkHuy0rsti_g-HZ9tSdQN-43pN4CLZ01F&amp;index=2&amp;pp=iAQB)
+### [Регрессионный анализ](https://www.youtube.com/watch?v=Nw7bxFwDpv8&amp;list=PLkHuy0rsti_g-HZ9tSdQN-43pN4CLZ01F&amp;index=3&amp;pp=iAQB)
+### [Регрессионный анализ](https://www.youtube.com/watch?v=Nw7bxFwDpv8&amp;list=PLkHuy0rsti_g-HZ9tSdQN-43pN4CLZ01F&amp;index=4&amp;pp=iAQB)
+### [Множественная регрессия](https://www.youtube.com/watch?v=9xbE59tT2KQ&amp;list=PLkHuy0rsti_g-HZ9tSdQN-43pN4CLZ01F&amp;index=5&amp;pp=iAQB)
+### [Дисперсионный анализ](https://www.youtube.com/watch?v=yQMq1V6l2E8&amp;list=PLkHuy0rsti_g-HZ9tSdQN-43pN4CLZ01F&amp;index=6&amp;pp=iAQB)
+### [Дисперсионный анализ](https://www.youtube.com/watch?v=yQMq1V6l2E8&amp;list=PLkHuy0rsti_g-HZ9tSdQN-43pN4CLZ01F&amp;index=7&amp;pp=iAQB)

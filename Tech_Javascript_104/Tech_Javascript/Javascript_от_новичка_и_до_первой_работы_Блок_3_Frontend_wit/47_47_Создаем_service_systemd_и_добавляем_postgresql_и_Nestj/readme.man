@@ -1,0 +1,3 @@
+# [Tech Javascript](https://www.youtube.com/@techjavascript/playlists)
+## [Javascript от новичка и до первой работы. Блок 3. Frontend with React js](https://www.youtube.com/playlist?list=PLco1IpJXladYKtXL9ppvHEMd8fQsTdCYm)
+### [47. Создаем service systemd и добавляем postgresql и Nestjs в сервисы](https://www.youtube.com/watch?v=-wM5dw5jxyk&amp;list=PLco1IpJXladYKtXL9ppvHEMd8fQsTdCYm&amp;index=47&amp;pp=iAQB)

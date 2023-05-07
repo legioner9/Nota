@@ -1,0 +1,6 @@
+### [Михаил Радионов. CI для бедных, или стоит ли писать свой CI для веб студии](https://www.youtube.com/watch?v=EIzjyevHiwA&amp;list=PLVdcV6tHcaCFNpGbqoKuRFtWJO_uLNAZF&amp;index=1&amp;pp=iAQB)
+### [ОБР 2018. ЗАЛ 1. Миша Радионов, студия Флаг](https://www.youtube.com/watch?v=j0BnNI4DmsY&amp;list=PLVdcV6tHcaCFNpGbqoKuRFtWJO_uLNAZF&amp;index=2&amp;pp=iAQB)
+### [Факапы при публикации сайта - Миша Радионов - Веб Завтрак 20.02.2018](https://www.youtube.com/watch?v=5_dkZmkPsC4&amp;list=PLVdcV6tHcaCFNpGbqoKuRFtWJO_uLNAZF&amp;index=3&amp;pp=iAQB)
+### [Как писать ТЗ для программистов (видео обновлено по новой ссылке)](https://www.youtube.com/watch?v=yvm3Lt29-kk&amp;list=PLVdcV6tHcaCFNpGbqoKuRFtWJO_uLNAZF&amp;index=4&amp;pp=iAQB)
+### [Docker 18+. Как мы создавали инфраструктуру разработки](https://www.youtube.com/watch?v=Pmna9ZBHTtY&amp;list=PLVdcV6tHcaCFNpGbqoKuRFtWJO_uLNAZF&amp;index=5&amp;pp=iAQB)
+### [Переход на Retainer. Как удвоить прибыль в заказной разработке // Михаил Радионов, Студия Флаг](https://www.youtube.com/watch?v=-QyibC3jLBs&amp;list=PLVdcV6tHcaCFNpGbqoKuRFtWJO_uLNAZF&amp;index=6&amp;pp=iAQB)

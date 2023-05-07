@@ -1,0 +1,3 @@
+# [freeCodeCamp.org](https://www.youtube.com/@freecodecamp/playlists)
+## [Live Coding with Jesse](https://www.youtube.com/playlist?list=PLWKjhJtqVAbknyJ7hSrf1WKh_Xnv9RL1r)
+### [React Component Dev with GraphQL Data Part 2  (P5D87) - Live Coding with Jesse](https://www.youtube.com/watch?v=oZ4qMdlPngY&amp;list=PLWKjhJtqVAbknyJ7hSrf1WKh_Xnv9RL1r&amp;index=31&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [Елена Литвинова — Искусство веб-разработки](https://www.youtube.com/@webelart/playlists)
+## [Анимация и физика в JS (выступления)](https://www.youtube.com/playlist?list=PLJpSkcgOK72CNa9oA8r4222hEaZpiRdhg)
+### [MoscowJS 23 —&nbsp;Анимируем объекты с использованием физики в JavaScript —&nbsp;Елена Иванова](https://www.youtube.com/watch?v=TAto6gXuDBM&amp;list=PLJpSkcgOK72CNa9oA8r4222hEaZpiRdhg&amp;index=2&amp;pp=iAQB)

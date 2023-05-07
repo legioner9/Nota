@@ -1,0 +1,3 @@
+# [Просто о Laravel. CutCode](https://www.youtube.com/@CutCodeRu/playlists)
+## [Roadmap Laravel](https://www.youtube.com/playlist?list=PLTucyHptHtTn2Fh7QnUPoW0Cm81ZcoEJk)
+### [Service container in Laravel - architectural concept and injection in Laravel](https://www.youtube.com/watch?v=FgBcwD1WeNc&amp;list=PLTucyHptHtTn2Fh7QnUPoW0Cm81ZcoEJk&amp;index=20&amp;pp=iAQB)

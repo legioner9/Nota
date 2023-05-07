@@ -1,0 +1,3 @@
+# [VK Team](https://www.youtube.com/@vkteamchannel/playlists?view=1&sort=dd&shelf_id=0)
+## [Конференции и интервью](https://www.youtube.com/playlist?list=PLrCZzMib1e9o91aKLgcw3Kxt_9L-n8VkW)
+### [Топ-5 провальных решений при разработке на Tarantool / Игорь Золотарев (VK, Tarantool)](https://www.youtube.com/watch?v=-FBKkyt1NJ0&amp;list=PLrCZzMib1e9o91aKLgcw3Kxt_9L-n8VkW&amp;index=29&amp;pp=iAQB)

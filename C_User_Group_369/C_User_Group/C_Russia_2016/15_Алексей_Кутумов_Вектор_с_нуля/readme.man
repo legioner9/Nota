@@ -1,0 +1,3 @@
+# [C++ User Group](https://www.youtube.com/@CUserGroupRussia/playlists)
+## [C++ Russia 2016](https://www.youtube.com/playlist?list=PLZN9ZGiWZoZp2olvWw-OysBHqIv2ufL3d)
+### [Алексей Кутумов, Вектор с нуля](https://www.youtube.com/watch?v=SfE_fi1BbhI&amp;list=PLZN9ZGiWZoZp2olvWw-OysBHqIv2ufL3d&amp;index=15&amp;pp=iAQB)

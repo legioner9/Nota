@@ -1,0 +1,3 @@
+# [Denis Batrankov](https://www.youtube.com/@BDVSecurity/playlists)
+## [Безопасность для всех](https://www.youtube.com/playlist?list=PLRAbJA74qU4DkZZg55PYRO25JjZ0GQkLj)
+### [Денис Батранков, Palo Alto Networks: о скепсисе аудитории к SASE, ценности этих сервисов для ИБ и ИТ](https://www.youtube.com/watch?v=hAV90NOdLFA&amp;list=PLRAbJA74qU4DkZZg55PYRO25JjZ0GQkLj&amp;index=14&amp;pp=iAQB)

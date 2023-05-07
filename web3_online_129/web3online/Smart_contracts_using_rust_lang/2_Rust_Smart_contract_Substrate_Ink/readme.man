@@ -1,0 +1,3 @@
+# [web3.online](https://www.youtube.com/@web3online/playlists)
+## [Smart contracts using rust lang](https://www.youtube.com/playlist?list=PLnalMG3z2RzEPuSdt_19xAWW4ErXv7M4C)
+### [Rust. Smart contract. Substrate. Ink!](https://www.youtube.com/watch?v=YP5nvYUllKE&amp;list=PLnalMG3z2RzEPuSdt_19xAWW4ErXv7M4C&amp;index=2&amp;pp=iAQB)

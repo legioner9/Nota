@@ -1,0 +1,3 @@
+# [Vitali Shulha](https://www.youtube.com/@vitalishulha8319/playlists)
+## [CI with Jenkins // Непрерывная интеграция с Jenkins](https://www.youtube.com/playlist?list=PLY2rNyjTWaM2nYFpfoW8cpBTLuekroVHp)
+### [Artifacts // Артефакты в Jenkins](https://www.youtube.com/watch?v=O3GGdH5n7E4&amp;list=PLY2rNyjTWaM2nYFpfoW8cpBTLuekroVHp&amp;index=10&amp;pp=iAQB)

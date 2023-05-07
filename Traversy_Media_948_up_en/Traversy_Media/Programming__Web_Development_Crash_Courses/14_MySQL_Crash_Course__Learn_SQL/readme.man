@@ -1,0 +1,3 @@
+# [Traversy Media](https://www.youtube.com/@TraversyMedia/playlists)
+## [Programming & Web Development Crash Courses](https://www.youtube.com/playlist?list=PLillGF-RfqbYeckUaD1z6nviTp31GLTH8)
+### [MySQL Crash Course | Learn SQL](https://www.youtube.com/watch?v=9ylj9NR0Lcg&amp;list=PLillGF-RfqbYeckUaD1z6nviTp31GLTH8&amp;index=14&amp;pp=iAQB)

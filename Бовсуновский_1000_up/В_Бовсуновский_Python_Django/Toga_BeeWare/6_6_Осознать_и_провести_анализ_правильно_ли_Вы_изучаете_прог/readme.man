@@ -1,0 +1,3 @@
+# [В. Бовсуновский Python Django](https://www.youtube.com/@bov/playlists?view=1)
+## [Toga BeeWare](https://www.youtube.com/playlist?list=PLuZJ9n46uMzV-r-Sy-_qpScUkaYAiQBnm)
+### [6. Осознать и провести анализ, правильно ли Вы изучаете программирование.](https://www.youtube.com/watch?v=tyn8cY657gE&amp;list=PLuZJ9n46uMzV-r-Sy-_qpScUkaYAiQBnm&amp;index=6&amp;pp=iAQB)

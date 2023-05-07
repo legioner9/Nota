@@ -1,0 +1,3 @@
+# [Просто о Laravel. CutCode](https://www.youtube.com/@CutCodeRu/playlists)
+## [Курс laravel+inertia+vue](https://www.youtube.com/playlist?list=PLTucyHptHtTljVToD6w4JXuNEIzEXskLe)
+### [Laravel + inertia + vue course Lesson 4. CRUD: adding, editing and deleting](https://www.youtube.com/watch?v=BInJBCWggAo&amp;list=PLTucyHptHtTljVToD6w4JXuNEIzEXskLe&amp;index=4&amp;pp=iAQB)

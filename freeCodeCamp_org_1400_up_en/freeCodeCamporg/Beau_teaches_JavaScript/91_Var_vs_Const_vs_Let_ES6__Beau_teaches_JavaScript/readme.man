@@ -1,0 +1,3 @@
+# [freeCodeCamp.org](https://www.youtube.com/@freecodecamp/playlists)
+## [Beau teaches JavaScript](https://www.youtube.com/playlist?list=PLWKjhJtqVAbmoiNlqLJg1gxEjEuKHHcn_)
+### [Var vs Const vs Let (ES6) - Beau teaches JavaScript](https://www.youtube.com/watch?v=1mgLWu69ijU&amp;list=PLWKjhJtqVAbmoiNlqLJg1gxEjEuKHHcn_&amp;index=91&amp;pp=iAQB)

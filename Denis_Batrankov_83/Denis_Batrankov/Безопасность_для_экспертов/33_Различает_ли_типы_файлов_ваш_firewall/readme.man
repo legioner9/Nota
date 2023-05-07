@@ -1,0 +1,3 @@
+# [Denis Batrankov](https://www.youtube.com/@BDVSecurity/playlists)
+## [Безопасность для экспертов](https://www.youtube.com/playlist?list=PLRAbJA74qU4D-2sTzHLh8fFe4_gtKnOnB)
+### [Различает ли типы файлов ваш firewall?](https://www.youtube.com/watch?v=YaPRQt1aaeA&amp;list=PLRAbJA74qU4D-2sTzHLh8fFe4_gtKnOnB&amp;index=33&amp;pp=iAQB)

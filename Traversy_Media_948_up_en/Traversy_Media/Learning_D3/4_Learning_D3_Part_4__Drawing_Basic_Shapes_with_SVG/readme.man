@@ -1,0 +1,3 @@
+# [Traversy Media](https://www.youtube.com/@TraversyMedia/playlists)
+## [Learning D3](https://www.youtube.com/playlist?list=PLillGF-RfqbY8Vy_G5WxXwhZx4eXI6Oea)
+### [Learning D3 Part 4 - Drawing Basic Shapes with SVG](https://www.youtube.com/watch?v=16BfEjrNzr4&amp;list=PLillGF-RfqbY8Vy_G5WxXwhZx4eXI6Oea&amp;index=4&amp;pp=iAQB)

@@ -1,3 +1,0 @@
-# [Exploring the IT World / Oleg Shpagin / WISEPLAT](https://www.youtube.com/@wiseplat/playlists)
-## [Как создавать веб сервера на python / Уроки](https://www.youtube.com/playlist?list=PLxiU3nwEQ4PGUKTMTAOGeMMVif71I9jce)
-### [Уроки Django (Создание сайта) / Урок #2 / Необходимая теория / (версия #2 без игры)](https://www.youtube.com/watch?v=wHgm6f3UcGQ&amp;list=PLxiU3nwEQ4PGUKTMTAOGeMMVif71I9jce&amp;index=11)

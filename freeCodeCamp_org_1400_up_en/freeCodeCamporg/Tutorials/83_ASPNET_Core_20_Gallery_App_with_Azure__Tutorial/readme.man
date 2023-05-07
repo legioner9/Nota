@@ -1,0 +1,3 @@
+# [freeCodeCamp.org](https://www.youtube.com/@freecodecamp/playlists)
+## [Tutorials](https://www.youtube.com/playlist?list=PLWKjhJtqVAbmDGFE_pZ-PDJ1GWe3KtT-M)
+### [ASP.NET Core 2.0 Gallery App with Azure - Tutorial](https://www.youtube.com/watch?v=QsmXlGCtjUk&amp;list=PLWKjhJtqVAbmDGFE_pZ-PDJ1GWe3KtT-M&amp;index=83&amp;pp=iAQB)

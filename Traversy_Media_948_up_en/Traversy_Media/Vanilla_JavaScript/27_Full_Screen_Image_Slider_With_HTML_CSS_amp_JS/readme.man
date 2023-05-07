@@ -1,0 +1,3 @@
+# [Traversy Media](https://www.youtube.com/@TraversyMedia/playlists)
+## [Vanilla JavaScript](https://www.youtube.com/playlist?list=PLillGF-RfqbbnEGy3ROiLWk7JMCuSyQtX)
+### [Full Screen Image Slider With HTML, CSS &amp; JS](https://www.youtube.com/watch?v=7ZO2RTMNSAY&amp;list=PLillGF-RfqbbnEGy3ROiLWk7JMCuSyQtX&amp;index=27&amp;pp=iAQB)

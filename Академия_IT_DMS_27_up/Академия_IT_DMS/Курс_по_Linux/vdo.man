@@ -1,0 +1,2 @@
+### [Курс по Linux. Процессы в Linux (новинка 2023)](https://www.youtube.com/watch?v=pm742DC_c0s&amp;list=PLvGOckMhKg742jjuomB1DzrVhPlEFfTyv&amp;index=1&amp;pp=iAQB)
+### [Курс по Linux. Работа с дисками. Файловая система. LVM. RAID (новинка 2023)](https://www.youtube.com/watch?v=2BwNV9IzQms&amp;list=PLvGOckMhKg742jjuomB1DzrVhPlEFfTyv&amp;index=2&amp;pp=iAQB)

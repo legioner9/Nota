@@ -1,0 +1,3 @@
+# [Семен Алексеев](https://www.youtube.com/@alekseev74/playlists)
+## [ASP.NET MVC](https://www.youtube.com/playlist?list=PLUTrDHuvZc4GiNPo7ZigwbY5v4j-6Irr7)
+### [HTTP cессия. Session. Состояние сеанса. Работа с сессиями в ASP.NET MVC](https://www.youtube.com/watch?v=HzuZYTgFIRs&amp;list=PLUTrDHuvZc4GiNPo7ZigwbY5v4j-6Irr7&amp;index=11&amp;pp=iAQB)

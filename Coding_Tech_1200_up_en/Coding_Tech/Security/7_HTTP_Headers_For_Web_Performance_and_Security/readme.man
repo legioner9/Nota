@@ -1,0 +1,3 @@
+# [Coding Tech](https://www.youtube.com/@CodingTech/playlists)
+## [Security](https://www.youtube.com/playlist?list=PLFjq8z-aGyQ6l4bjixx1aAzqRBB8On4_X)
+### [HTTP Headers For Web Performance and Security](https://www.youtube.com/watch?v=bDibI-dbZ8w&amp;list=PLFjq8z-aGyQ6l4bjixx1aAzqRBB8On4_X&amp;index=7&amp;pp=iAQB)

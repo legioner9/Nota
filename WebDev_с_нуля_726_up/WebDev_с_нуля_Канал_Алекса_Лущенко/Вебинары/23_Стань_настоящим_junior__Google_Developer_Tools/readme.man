@@ -1,0 +1,3 @@
+# [WebDev с нуля. Канал Алекса Лущенко](https://www.youtube.com/@itgid/playlists)
+## [Вебинары](https://www.youtube.com/playlist?list=PLM7wFzahDYnGiUxSZsNCJ4MzYTi7BmnWh)
+### [Стань настоящим junior - Google Developer Tools](https://www.youtube.com/watch?v=tsw1RtKEMng&amp;list=PLM7wFzahDYnGiUxSZsNCJ4MzYTi7BmnWh&amp;index=23&amp;pp=iAQB)

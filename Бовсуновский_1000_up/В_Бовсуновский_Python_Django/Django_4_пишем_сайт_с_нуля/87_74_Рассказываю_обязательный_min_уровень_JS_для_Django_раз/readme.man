@@ -1,0 +1,3 @@
+# [В. Бовсуновский Python Django](https://www.youtube.com/@bov/playlists?view=1)
+## [Django 4 пишем сайт с нуля.](https://www.youtube.com/playlist?list=PLuZJ9n46uMzXVj9JEjULImuBKRVKKS9To)
+### [74. Рассказываю, обязательный min уровень JS для Django разработчика.](https://www.youtube.com/watch?v=yljLmz1kOhk&amp;list=PLuZJ9n46uMzXVj9JEjULImuBKRVKKS9To&amp;index=87&amp;pp=iAQB)

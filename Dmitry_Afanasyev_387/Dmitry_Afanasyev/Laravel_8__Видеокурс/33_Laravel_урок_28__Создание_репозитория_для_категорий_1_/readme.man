@@ -1,0 +1,3 @@
+# [Dmitry Afanasyev](https://www.youtube.com/@DmitryAfanasyev/playlists)
+## [Laravel 8 - Видеокурс](https://www.youtube.com/playlist?list=PLoonZ8wII66iP0fJPHhkLXa3k7CMef9ak)
+### [Laravel урок №28: [ Создание репозитория для категорий #1 ]](https://www.youtube.com/watch?v=S5k0I9F4bO0&amp;list=PLoonZ8wII66iP0fJPHhkLXa3k7CMef9ak&amp;index=33&amp;pp=iAQB)

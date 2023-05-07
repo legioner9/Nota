@@ -1,0 +1,4 @@
+### [Building a Symfony 3 App - Part 1](https://www.youtube.com/watch?v=HchMW8EhWPU&amp;list=PLillGF-RfqbZg1_XTHyrn9kHVLy-3ZXLt&amp;index=1&amp;pp=iAQB)
+### [Building a Symfony 3 App - Part 2](https://www.youtube.com/watch?v=62hsXxjD4bY&amp;list=PLillGF-RfqbZg1_XTHyrn9kHVLy-3ZXLt&amp;index=2&amp;pp=iAQB)
+### [Building a Symfony 3 App - Part 3](https://www.youtube.com/watch?v=-xTmQ_iv5NI&amp;list=PLillGF-RfqbZg1_XTHyrn9kHVLy-3ZXLt&amp;index=3&amp;pp=iAQB)
+### [Building a Symfony 3 App - Part 4](https://www.youtube.com/watch?v=2UKOoqomJn8&amp;list=PLillGF-RfqbZg1_XTHyrn9kHVLy-3ZXLt&amp;index=4&amp;pp=iAQB)

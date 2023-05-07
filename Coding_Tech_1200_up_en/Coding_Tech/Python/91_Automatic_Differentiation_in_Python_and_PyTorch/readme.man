@@ -1,0 +1,3 @@
+# [Coding Tech](https://www.youtube.com/@CodingTech/playlists)
+## [Python](https://www.youtube.com/playlist?list=PLFjq8z-aGyQ4Y3mSWGBptr7SArEsfdWQA)
+### [Automatic Differentiation in Python and PyTorch](https://www.youtube.com/watch?v=9aBpF0-JH7A&amp;list=PLFjq8z-aGyQ4Y3mSWGBptr7SArEsfdWQA&amp;index=91&amp;pp=iAQB)

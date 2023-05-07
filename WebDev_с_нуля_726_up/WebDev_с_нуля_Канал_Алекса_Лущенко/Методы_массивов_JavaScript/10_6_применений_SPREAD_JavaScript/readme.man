@@ -1,0 +1,3 @@
+# [WebDev с нуля. Канал Алекса Лущенко](https://www.youtube.com/@itgid/playlists)
+## [Методы массивов JavaScript](https://www.youtube.com/playlist?list=PLM7wFzahDYnGtO5c0u71KBj6uwIwPvWKa)
+### [6 применений SPREAD JavaScript](https://www.youtube.com/watch?v=1WkcX_CNkqU&amp;list=PLM7wFzahDYnGtO5c0u71KBj6uwIwPvWKa&amp;index=10&amp;pp=iAQB)

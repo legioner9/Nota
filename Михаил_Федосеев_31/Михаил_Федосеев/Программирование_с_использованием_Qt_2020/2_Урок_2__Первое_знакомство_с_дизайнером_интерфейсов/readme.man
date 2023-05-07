@@ -1,0 +1,3 @@
+# [Михаил Федосеев](https://www.youtube.com/@fedoseevm/playlists)
+## [Программирование с использованием Qt 2020](https://www.youtube.com/playlist?list=PLYQhNajy-JUHqxt_MmjMrETFFvOYdguu7)
+### [Урок 2  Первое знакомство с дизайнером интерфейсов](https://www.youtube.com/watch?v=aFo7ZaTtgyc&amp;list=PLYQhNajy-JUHqxt_MmjMrETFFvOYdguu7&amp;index=2&amp;pp=iAQB)

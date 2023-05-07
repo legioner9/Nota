@@ -1,0 +1,3 @@
+# [freeCodeCamp.org](https://www.youtube.com/@freecodecamp/playlists)
+## [Talks](https://www.youtube.com/playlist?list=PLWKjhJtqVAbl9yptoxdSJDDoTVdcysyPo)
+### [Web Workers —  Outsource your JavaScript](https://www.youtube.com/watch?v=qTE48ByxZX4&amp;list=PLWKjhJtqVAbl9yptoxdSJDDoTVdcysyPo&amp;index=63&amp;pp=iAQB)

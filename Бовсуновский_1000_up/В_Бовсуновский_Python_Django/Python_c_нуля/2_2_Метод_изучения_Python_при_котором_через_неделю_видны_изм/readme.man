@@ -1,0 +1,3 @@
+# [В. Бовсуновский Python Django](https://www.youtube.com/@bov/playlists?view=1)
+## [Python c нуля.](https://www.youtube.com/playlist?list=PLuZJ9n46uMzWIxKMcWI8ksJ6ST86fv0aq)
+### [2. Метод изучения Python, при котором через неделю видны изменения.](https://www.youtube.com/watch?v=Y_QarK-Xlz4&amp;list=PLuZJ9n46uMzWIxKMcWI8ksJ6ST86fv0aq&amp;index=2&amp;pp=iAQB)

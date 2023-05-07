@@ -1,0 +1,3 @@
+# [Vyacheslav Chirkov - Programmer](https://www.youtube.com/@vcpro/playlists)
+## [arduino](https://www.youtube.com/playlist?list=PLEjhu-KP5eiA7dKULFiVXVi-rghtDSTox)
+### [Подключение МОТОРА к Arduino урок2](https://www.youtube.com/watch?v=DqE-xipFLzQ&amp;list=PLEjhu-KP5eiA7dKULFiVXVi-rghtDSTox&amp;index=2&amp;pp=iAQB)

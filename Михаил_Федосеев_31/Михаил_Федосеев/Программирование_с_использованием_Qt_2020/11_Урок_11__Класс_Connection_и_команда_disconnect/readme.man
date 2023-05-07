@@ -1,0 +1,3 @@
+# [Михаил Федосеев](https://www.youtube.com/@fedoseevm/playlists)
+## [Программирование с использованием Qt 2020](https://www.youtube.com/playlist?list=PLYQhNajy-JUHqxt_MmjMrETFFvOYdguu7)
+### [Урок 11  Класс Connection и команда disconnect](https://www.youtube.com/watch?v=xD4DjmfQjM4&amp;list=PLYQhNajy-JUHqxt_MmjMrETFFvOYdguu7&amp;index=11&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [Просто о Laravel. CutCode](https://www.youtube.com/@CutCodeRu/playlists)
+## [Roadmap Laravel](https://www.youtube.com/playlist?list=PLTucyHptHtTn2Fh7QnUPoW0Cm81ZcoEJk)
+### [Как использовать очереди (Queues/Jobs) в Laravel](https://www.youtube.com/watch?v=WLSgwJPEIeg&amp;list=PLTucyHptHtTn2Fh7QnUPoW0Cm81ZcoEJk&amp;index=2&amp;pp=iAQB)

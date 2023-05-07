@@ -1,0 +1,3 @@
+# [В. Бовсуновский Python Django](https://www.youtube.com/@bov/playlists?view=1)
+## [новый подход в программировании.](https://www.youtube.com/playlist?list=PLuZJ9n46uMzX-9LOTi_tnxnv6zn7Ysk6W)
+### [31 урок. **kwargs python развернутый урок. Вот это я называю немножко понимать.](https://www.youtube.com/watch?v=TESQElJ026Q&amp;list=PLuZJ9n46uMzX-9LOTi_tnxnv6zn7Ysk6W&amp;index=14&amp;pp=iAQB)

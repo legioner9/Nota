@@ -1,0 +1,3 @@
+# [webDev](https://www.youtube.com/@YauhenKavalchuk/playlists?view=1)
+## [Основы командной строки/Терминал](https://www.youtube.com/playlist?list=PLNkWIWHIRwMFJqtnggkX53Bsgq65CP1Rv)
+### [Основы командной строки/Терминал #1 GitBash и ConEmu](https://www.youtube.com/watch?v=P3r-XSNW3RQ&amp;list=PLNkWIWHIRwMFJqtnggkX53Bsgq65CP1Rv&amp;index=2)

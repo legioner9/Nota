@@ -1,0 +1,3 @@
+# [Monsterlessons Academy](https://www.youtube.com/@MonsterlessonsAcademy/playlists)
+## [React Hooks Crash Course - Tutorial for Beginners](https://www.youtube.com/playlist?list=PLEjh-YiSBCDLnqqXf_-x1hyLAz9UZ2pF1)
+### [How to Install React JS and Create React Project](https://www.youtube.com/watch?v=p8zKmDqfshA&amp;list=PLEjh-YiSBCDLnqqXf_-x1hyLAz9UZ2pF1&amp;index=2&amp;pp=iAQB)

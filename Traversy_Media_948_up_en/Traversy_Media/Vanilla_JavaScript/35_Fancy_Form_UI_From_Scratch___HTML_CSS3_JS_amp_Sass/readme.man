@@ -1,0 +1,3 @@
+# [Traversy Media](https://www.youtube.com/@TraversyMedia/playlists)
+## [Vanilla JavaScript](https://www.youtube.com/playlist?list=PLillGF-RfqbbnEGy3ROiLWk7JMCuSyQtX)
+### [Fancy Form UI From Scratch -  HTML, CSS3, JS &amp; Sass](https://www.youtube.com/watch?v=AiTdhLc8JCo&amp;list=PLillGF-RfqbbnEGy3ROiLWk7JMCuSyQtX&amp;index=35&amp;pp=iAQB)

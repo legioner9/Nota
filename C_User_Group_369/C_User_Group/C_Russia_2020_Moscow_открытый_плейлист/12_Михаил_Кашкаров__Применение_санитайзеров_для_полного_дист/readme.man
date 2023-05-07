@@ -1,0 +1,3 @@
+# [C++ User Group](https://www.youtube.com/@CUserGroupRussia/playlists)
+## [C++ Russia 2020 Moscow: открытый плейлист](https://www.youtube.com/playlist?list=PLZN9ZGiWZoZruMY-MlkAd-nHzdP9TfLRC)
+### [Михаил Кашкаров — Применение санитайзеров для полного дистрибутива Linux](https://www.youtube.com/watch?v=XzDPfw2W1OA&amp;list=PLZN9ZGiWZoZruMY-MlkAd-nHzdP9TfLRC&amp;index=12&amp;pp=iAQB)

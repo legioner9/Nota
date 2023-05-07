@@ -1,0 +1,3 @@
+# [В. Бовсуновский Python Django](https://www.youtube.com/@bov/playlists?view=1)
+## [Функции JavaScript](https://www.youtube.com/playlist?list=PLuZJ9n46uMzWnxpec__CZzq_8USy81Qtq)
+### [3. Продолжим выводить правила работы функций js.](https://www.youtube.com/watch?v=jdnChbMIo2U&amp;list=PLuZJ9n46uMzWnxpec__CZzq_8USy81Qtq&amp;index=3&amp;pp=iAQB)

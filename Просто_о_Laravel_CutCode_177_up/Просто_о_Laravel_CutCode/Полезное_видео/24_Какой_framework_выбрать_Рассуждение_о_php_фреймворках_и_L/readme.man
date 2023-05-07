@@ -1,0 +1,3 @@
+# [Просто о Laravel. CutCode](https://www.youtube.com/@CutCodeRu/playlists)
+## [Полезное видео](https://www.youtube.com/playlist?list=PLTucyHptHtTmq4HFKZVmwwzcac2kgfaEZ)
+### [Какой framework выбрать? Рассуждение о php фреймворках и Laravel](https://www.youtube.com/watch?v=UmgDc2W0i8U&amp;list=PLTucyHptHtTmq4HFKZVmwwzcac2kgfaEZ&amp;index=24&amp;pp=iAQB)

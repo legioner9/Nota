@@ -1,3 +1,0 @@
-# [FenixTV](https://www.youtube.com/@fenixtv28/playlists)
-## [Полный Курс Python 3 от Новичка до Мастера](https://www.youtube.com/playlist?list=PLPT0MYzqDBSnZ6Mu1lj_b_S9Uwwm96bmu)
-### [Python от новичка до Профи. #31.  Операторы Сравнения в Python](https://www.youtube.com/watch?v=cu5GORsNp7A&amp;list=PLPT0MYzqDBSnZ6Mu1lj_b_S9Uwwm96bmu&amp;index=31)

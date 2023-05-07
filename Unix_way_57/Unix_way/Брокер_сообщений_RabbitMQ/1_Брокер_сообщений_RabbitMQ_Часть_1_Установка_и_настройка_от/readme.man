@@ -1,0 +1,3 @@
+# [Unix way](https://www.youtube.com/@unixway4196/playlists)
+## [Брокер сообщений RabbitMQ](https://www.youtube.com/playlist?list=PLsMIccp52YRsVg9nVWhsqTixMLOrVovEU)
+### [Брокер сообщений RabbitMQ: Часть 1. Установка и настройка отказоустойчевого кластера](https://www.youtube.com/watch?v=XiyXOMYoXAw&amp;list=PLsMIccp52YRsVg9nVWhsqTixMLOrVovEU&amp;index=1&amp;pp=iAQB)

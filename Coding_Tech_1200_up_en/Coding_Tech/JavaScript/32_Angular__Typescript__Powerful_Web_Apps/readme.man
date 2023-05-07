@@ -1,0 +1,3 @@
+# [Coding Tech](https://www.youtube.com/@CodingTech/playlists)
+## [JavaScript](https://www.youtube.com/playlist?list=PLFjq8z-aGyQ49hmlhMZgYAoXb3NBiee4R)
+### [Angular + Typescript = Powerful Web Apps](https://www.youtube.com/watch?v=0akfix87OdE&amp;list=PLFjq8z-aGyQ49hmlhMZgYAoXb3NBiee4R&amp;index=32&amp;pp=iAQB)

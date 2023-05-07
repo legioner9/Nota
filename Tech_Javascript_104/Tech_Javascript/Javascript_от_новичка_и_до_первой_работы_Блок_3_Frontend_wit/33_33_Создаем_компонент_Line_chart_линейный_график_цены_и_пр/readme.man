@@ -1,0 +1,3 @@
+# [Tech Javascript](https://www.youtube.com/@techjavascript/playlists)
+## [Javascript от новичка и до первой работы. Блок 3. Frontend with React js](https://www.youtube.com/playlist?list=PLco1IpJXladYKtXL9ppvHEMd8fQsTdCYm)
+### [33. Создаем компонент Line chart линейный график цены и прокидываем в компонент реалиные данные цен](https://www.youtube.com/watch?v=6AsMhYt40mg&amp;list=PLco1IpJXladYKtXL9ppvHEMd8fQsTdCYm&amp;index=33&amp;pp=iAQB)

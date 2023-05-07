@@ -1,0 +1,3 @@
+# [Студия Флаг](https://www.youtube.com/@FlagStudio/playlists)
+## [Фронтенд](https://www.youtube.com/playlist?list=PLVdcV6tHcaCGQrTMSYdBgedHMhNtGNXWf)
+### [Архитектура React-приложения](https://www.youtube.com/watch?v=IelIg9kyNgs&amp;list=PLVdcV6tHcaCGQrTMSYdBgedHMhNtGNXWf&amp;index=10&amp;pp=iAQB)

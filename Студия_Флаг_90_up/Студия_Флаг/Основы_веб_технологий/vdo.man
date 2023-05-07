@@ -1,0 +1,7 @@
+### [Базы данных за 42 минуты. Теория](https://www.youtube.com/watch?v=YdCGGBUCoDQ&amp;list=PLVdcV6tHcaCHgVLbK7AW3KHavs88CP2w2&amp;index=1&amp;pp=iAQB)
+### [HTTP за 36 минут. Методы, статус-коды, заголовки, редиректы, SSL](https://www.youtube.com/watch?v=PpdQQjPS0MA&amp;list=PLVdcV6tHcaCHgVLbK7AW3KHavs88CP2w2&amp;index=2&amp;pp=iAQB)
+### [DNS за 27 минут. DNS- записи, IPv6, основы настройки и отладки](https://www.youtube.com/watch?v=bzqS7d0nOPg&amp;list=PLVdcV6tHcaCHgVLbK7AW3KHavs88CP2w2&amp;index=3&amp;pp=iAQB)
+### [4 способа отправки почты на сайте. Сервером, Яндекс.Почтой, транзакционные и маркетинговые сервисы](https://www.youtube.com/watch?v=DiVfoGA4bpY&amp;list=PLVdcV6tHcaCHgVLbK7AW3KHavs88CP2w2&amp;index=4&amp;pp=iAQB)
+### [Проектирование баз данных за 40 минут. Практика](https://www.youtube.com/watch?v=8cP6x9pTIy0&amp;list=PLVdcV6tHcaCHgVLbK7AW3KHavs88CP2w2&amp;index=5&amp;pp=iAQB)
+### [DevTools vs PageSpeed: измеряем скорость сайта](https://www.youtube.com/watch?v=6DjoH1vn3sQ&amp;list=PLVdcV6tHcaCHgVLbK7AW3KHavs88CP2w2&amp;index=6&amp;pp=iAQB)
+### [Основы DevOps // Как устроен PROD, CI/CD, Docker?](https://www.youtube.com/watch?v=E1f3-en5BPo&amp;list=PLVdcV6tHcaCHgVLbK7AW3KHavs88CP2w2&amp;index=7&amp;pp=iAQB)

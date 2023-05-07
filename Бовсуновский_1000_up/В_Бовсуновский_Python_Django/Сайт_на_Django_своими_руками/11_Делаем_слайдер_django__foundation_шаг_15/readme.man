@@ -1,0 +1,3 @@
+# [В. Бовсуновский Python Django](https://www.youtube.com/@bov/playlists?view=1)
+## [Сайт на Django своими руками.](https://www.youtube.com/playlist?list=PLuZJ9n46uMzWTWoE-Q23I_Ss0dOWlvDyv)
+### [Делаем слайдер django + foundation шаг 15.](https://www.youtube.com/watch?v=0hcp_jX7T_s&amp;list=PLuZJ9n46uMzWTWoE-Q23I_Ss0dOWlvDyv&amp;index=11&amp;pp=iAQB)

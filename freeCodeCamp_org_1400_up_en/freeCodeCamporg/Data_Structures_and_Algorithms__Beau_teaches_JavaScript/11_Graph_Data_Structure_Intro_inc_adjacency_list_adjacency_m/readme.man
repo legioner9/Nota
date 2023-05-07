@@ -1,0 +1,3 @@
+# [freeCodeCamp.org](https://www.youtube.com/@freecodecamp/playlists)
+## [Data Structures and Algorithms - Beau teaches JavaScript](https://www.youtube.com/playlist?list=PLWKjhJtqVAbkso-IbgiiP48n-O-JQA9PJ)
+### [Graph Data Structure Intro (inc. adjacency list, adjacency matrix, incidence matrix)](https://www.youtube.com/watch?v=DBRW8nwZV-g&amp;list=PLWKjhJtqVAbkso-IbgiiP48n-O-JQA9PJ&amp;index=11&amp;pp=iAQB)

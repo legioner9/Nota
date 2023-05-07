@@ -1,0 +1,3 @@
+# [Traversy Media](https://www.youtube.com/@TraversyMedia/playlists)
+## [Python Videos](https://www.youtube.com/playlist?list=PLillGF-RfqbbJYRaNqeUzAb7QY-IqBKRx)
+### [Python In The Browser! PyScript First Look](https://www.youtube.com/watch?v=vxqBm6_0vyk&amp;list=PLillGF-RfqbbJYRaNqeUzAb7QY-IqBKRx&amp;index=17&amp;pp=iAQB)

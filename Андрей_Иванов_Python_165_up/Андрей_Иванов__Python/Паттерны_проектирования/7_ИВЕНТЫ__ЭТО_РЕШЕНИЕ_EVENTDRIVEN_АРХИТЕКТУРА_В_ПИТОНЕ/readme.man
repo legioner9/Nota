@@ -1,0 +1,3 @@
+# [Андрей Иванов | Python](https://www.youtube.com/@PythononPapyrusRU/playlists)
+## [Паттерны проектирования](https://www.youtube.com/playlist?list=PLF4MWzDJPFSYeUtNQGDsS-XZDriJjFRL8)
+### [ИВЕНТЫ - ЭТО РЕШЕНИЕ! EVENT-DRIVEN АРХИТЕКТУРА В ПИТОНЕ](https://www.youtube.com/watch?v=xfL9jeDXMk0&amp;list=PLF4MWzDJPFSYeUtNQGDsS-XZDriJjFRL8&amp;index=7&amp;pp=iAQB)

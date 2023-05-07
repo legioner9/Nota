@@ -1,0 +1,5 @@
+### [LaraПрактика #1. Livewire. Data binding, Actions, Events, Lifecycle, Nesting](https://www.youtube.com/watch?v=sWRX3tmcaZ0&amp;list=PLVdcV6tHcaCFCI1FtvuY2TXWSGVV-LZT9&amp;index=1&amp;pp=iAQB)
+### [LaraПрактика #2. Pivot Model. Отношения в Pivot Model с другими таблицами](https://www.youtube.com/watch?v=HMB8DZ4PkjA&amp;list=PLVdcV6tHcaCFCI1FtvuY2TXWSGVV-LZT9&amp;index=2&amp;pp=iAQB)
+### [LaraПрактика #3. MeiliSearch. Полнотекстовый поиск. Фасетный поиск.](https://www.youtube.com/watch?v=Grq3jpetFeE&amp;list=PLVdcV6tHcaCFCI1FtvuY2TXWSGVV-LZT9&amp;index=3&amp;pp=iAQB)
+### [LaraПрактика #4. Action VS ViewModel. Разделение ответственности](https://www.youtube.com/watch?v=ezpfqy4UCQw&amp;list=PLVdcV6tHcaCFCI1FtvuY2TXWSGVV-LZT9&amp;index=4&amp;pp=iAQB)
+### [LaraПрактика #5. Документирование API. Swagger. Тестирование. Генерация клиента](https://www.youtube.com/watch?v=wx4_Qdws2fo&amp;list=PLVdcV6tHcaCFCI1FtvuY2TXWSGVV-LZT9&amp;index=5&amp;pp=iAQB)

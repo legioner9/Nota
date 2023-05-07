@@ -1,0 +1,8 @@
+### [1. Веб-разработка. Введение, сетевые протоколы | Технострим](https://www.youtube.com/watch?v=PsLzEAsphbM&amp;list=PLrCZzMib1e9pg7ZLIOhmGSlmkMf8yEOLZ&amp;index=1&amp;pp=iAQB)
+### [2. Веб-разработка. Web серверы | Технострим](https://www.youtube.com/watch?v=wV2WavaPNrU&amp;list=PLrCZzMib1e9pg7ZLIOhmGSlmkMf8yEOLZ&amp;index=2&amp;pp=iAQB)
+### [3. Веб-разработка. Серверная разработка ч.1 | Технострим](https://www.youtube.com/watch?v=4u0mIqf7_iM&amp;list=PLrCZzMib1e9pg7ZLIOhmGSlmkMf8yEOLZ&amp;index=3&amp;pp=iAQB)
+### [4. Веб-разработка. Обработка пользовательских данных | Технострим](https://www.youtube.com/watch?v=_cS6dlaj4IA&amp;list=PLrCZzMib1e9pg7ZLIOhmGSlmkMf8yEOLZ&amp;index=4&amp;pp=iAQB)
+### [5. Веб-разработка. HTML, CSS, JavaScript | Технострим](https://www.youtube.com/watch?v=2jRh8NnbXh0&amp;list=PLrCZzMib1e9pg7ZLIOhmGSlmkMf8yEOLZ&amp;index=5&amp;pp=iAQB)
+### [6. Веб-разработка. Серверная разработка | Технострим](https://www.youtube.com/watch?v=fvcXyEUHh2c&amp;list=PLrCZzMib1e9pg7ZLIOhmGSlmkMf8yEOLZ&amp;index=6&amp;pp=iAQB)
+### [7. Веб-разработка. В глубь Django | Технострим](https://www.youtube.com/watch?v=LX-Uyx1vfhI&amp;list=PLrCZzMib1e9pg7ZLIOhmGSlmkMf8yEOLZ&amp;index=7&amp;pp=iAQB)
+### [8. Веб-разработка. Выкатка сайта на продакшн | Технострим](https://www.youtube.com/watch?v=q3E-Gp9ehdo&amp;list=PLrCZzMib1e9pg7ZLIOhmGSlmkMf8yEOLZ&amp;index=8&amp;pp=iAQB)

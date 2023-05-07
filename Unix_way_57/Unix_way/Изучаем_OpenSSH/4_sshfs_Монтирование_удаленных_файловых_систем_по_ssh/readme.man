@@ -1,0 +1,3 @@
+# [Unix way](https://www.youtube.com/@unixway4196/playlists)
+## [Изучаем OpenSSH](https://www.youtube.com/playlist?list=PLsMIccp52YRttbGSr4KOyY3i6TSkJ_soO)
+### [sshfs: Монтирование удаленных файловых систем по ssh](https://www.youtube.com/watch?v=SrjEHG-f2R8&amp;list=PLsMIccp52YRttbGSr4KOyY3i6TSkJ_soO&amp;index=4&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [Kamil Abzalov](https://www.youtube.com/@Kamil-abzalovRu/playlists)
+## [Создание простого php mvc приложения](https://www.youtube.com/playlist?list=PLOpdT8GIZ4XU12DJ6RzN07CHIN0vDe2fl)
+### [Lesson 106. Create PHP MVC app. Update and delete user data](https://www.youtube.com/watch?v=ztXerUi3d-U&amp;list=PLOpdT8GIZ4XU12DJ6RzN07CHIN0vDe2fl&amp;index=16&amp;pp=iAQB)

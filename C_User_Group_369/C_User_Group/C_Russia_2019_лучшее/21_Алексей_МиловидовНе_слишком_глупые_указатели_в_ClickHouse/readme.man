@@ -1,0 +1,3 @@
+# [C++ User Group](https://www.youtube.com/@CUserGroupRussia/playlists)
+## [C++ Russia 2019: лучшее](https://www.youtube.com/playlist?list=PLZN9ZGiWZoZo3hYXXOn6NZAi3YzUETzy2)
+### [Алексей Миловидов—Не слишком глупые указатели в ClickHouse](https://www.youtube.com/watch?v=pCUfOExRM4I&amp;list=PLZN9ZGiWZoZo3hYXXOn6NZAi3YzUETzy2&amp;index=21&amp;pp=iAQB)

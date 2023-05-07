@@ -1,0 +1,3 @@
+# [C++ User Group](https://www.youtube.com/@CUserGroupRussia/playlists)
+## [C++ Russia 2015](https://www.youtube.com/playlist?list=PLZN9ZGiWZoZq3nObp2P8BJvsCc639tYSd)
+### [Антон Полухин | Библиотека Boost с нуля на примере Boost.DLL](https://www.youtube.com/watch?v=0GONPPWMODU&amp;list=PLZN9ZGiWZoZq3nObp2P8BJvsCc639tYSd&amp;index=5&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [Traversy Media](https://www.youtube.com/@TraversyMedia/playlists)
+## [React Projects](https://www.youtube.com/playlist?list=PLillGF-RfqbY3c2r0htQyVbDJJoBFE6Rb)
+### [Exploring The Wordpress REST API &amp; React Integration](https://www.youtube.com/watch?v=fFNXWinbgro&amp;list=PLillGF-RfqbY3c2r0htQyVbDJJoBFE6Rb&amp;index=14&amp;pp=iAQB)

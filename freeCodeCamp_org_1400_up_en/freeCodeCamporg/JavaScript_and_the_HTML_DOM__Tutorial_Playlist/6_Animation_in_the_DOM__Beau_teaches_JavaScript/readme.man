@@ -1,0 +1,3 @@
+# [freeCodeCamp.org](https://www.youtube.com/@freecodecamp/playlists)
+## [JavaScript and the HTML DOM - Tutorial Playlist](https://www.youtube.com/playlist?list=PLWKjhJtqVAbllLK6r2dnGjUVWB_cFNcuO)
+### [Animation in the DOM - Beau teaches JavaScript](https://www.youtube.com/watch?v=YXZX_6RfHjk&amp;list=PLWKjhJtqVAbllLK6r2dnGjUVWB_cFNcuO&amp;index=6&amp;pp=iAQB)

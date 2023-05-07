@@ -1,0 +1,3 @@
+# [C++ User Group](https://www.youtube.com/@CUserGroupRussia/playlists)
+## [C++ Siberia 2015](https://www.youtube.com/playlist?list=PLZN9ZGiWZoZooPvBI2c42jSCSPOa8tHcn)
+### [Алексей Кутумов, One definition rule - что это такое, и как с этим жить](https://www.youtube.com/watch?v=IG7k7St5sds&amp;list=PLZN9ZGiWZoZooPvBI2c42jSCSPOa8tHcn&amp;index=13&amp;pp=iAQB)

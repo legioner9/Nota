@@ -1,0 +1,3 @@
+# [Tech Javascript](https://www.youtube.com/@techjavascript/playlists)
+## [Основы Typescript](https://www.youtube.com/playlist?list=PLco1IpJXlada3EI5Pfsp7NZKrC_-oYDvY)
+### [6. Уроки typescript. Декораторы в typescript](https://www.youtube.com/watch?v=HU8W-oEi-EA&amp;list=PLco1IpJXlada3EI5Pfsp7NZKrC_-oYDvY&amp;index=6&amp;pp=iAQB)

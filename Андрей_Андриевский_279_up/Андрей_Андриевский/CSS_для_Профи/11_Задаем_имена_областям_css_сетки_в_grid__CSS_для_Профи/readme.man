@@ -1,0 +1,3 @@
+# [Андрей Андриевский](https://www.youtube.com/@andrievskii/playlists)
+## [CSS для Профи](https://www.youtube.com/playlist?list=PLMB6wLyKp7lW8plyS_VDlVOt0vphrMl0A)
+### [Задаем имена областям css сетки в grid | CSS для Профи](https://www.youtube.com/watch?v=0HWo6LOAa9w&amp;list=PLMB6wLyKp7lW8plyS_VDlVOt0vphrMl0A&amp;index=11&amp;pp=iAQB)

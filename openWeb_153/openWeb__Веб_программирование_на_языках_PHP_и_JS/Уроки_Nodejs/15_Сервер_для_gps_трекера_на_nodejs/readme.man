@@ -1,0 +1,3 @@
+# [openWeb - Веб программирование на языках PHP и JS](https://www.youtube.com/@openweb-php/playlists)
+## [Уроки Node.js](https://www.youtube.com/playlist?list=PL-leL2miqjEb-DXloee_b4PFBMkptbFiw)
+### [Сервер для gps трекера на nodejs](https://www.youtube.com/watch?v=0NjScEb_p04&amp;list=PL-leL2miqjEb-DXloee_b4PFBMkptbFiw&amp;index=15&amp;pp=iAQB)

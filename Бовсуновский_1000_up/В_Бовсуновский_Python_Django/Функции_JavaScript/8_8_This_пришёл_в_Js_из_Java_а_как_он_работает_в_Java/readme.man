@@ -1,0 +1,3 @@
+# [В. Бовсуновский Python Django](https://www.youtube.com/@bov/playlists?view=1)
+## [Функции JavaScript](https://www.youtube.com/playlist?list=PLuZJ9n46uMzWnxpec__CZzq_8USy81Qtq)
+### [8. This пришёл в Js из Java, а как он работает в Java?](https://www.youtube.com/watch?v=QXHJ3u8CWYg&amp;list=PLuZJ9n46uMzWnxpec__CZzq_8USy81Qtq&amp;index=8&amp;pp=iAQB)

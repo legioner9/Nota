@@ -1,0 +1,3 @@
+# [Елена Литвинова — Искусство веб-разработки](https://www.youtube.com/@webelart/playlists)
+## [Уроки JavaScript](https://www.youtube.com/playlist?list=PLJpSkcgOK72A7ky__8kHNckPpjHFQkC5m)
+### [Создаём и деплоим собственный FULL STACK блог | NextJs + Sanity](https://www.youtube.com/watch?v=4AP4BAX9BK8&amp;list=PLJpSkcgOK72A7ky__8kHNckPpjHFQkC5m&amp;index=21&amp;pp=iAQB)

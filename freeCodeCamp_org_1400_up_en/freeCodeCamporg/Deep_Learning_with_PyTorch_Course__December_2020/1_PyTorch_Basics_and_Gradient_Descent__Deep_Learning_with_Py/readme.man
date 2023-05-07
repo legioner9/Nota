@@ -1,0 +1,3 @@
+# [freeCodeCamp.org](https://www.youtube.com/@freecodecamp/playlists)
+## [Deep Learning with PyTorch Course - December 2020](https://www.youtube.com/playlist?list=PLWKjhJtqVAbm5dir5TLEy2aZQMG7cHEZp)
+### [PyTorch Basics and Gradient Descent | Deep Learning with PyTorch: Zero to GANs | Part 1 of 6](https://www.youtube.com/watch?v=5ioMqzMRFgM&amp;list=PLWKjhJtqVAbm5dir5TLEy2aZQMG7cHEZp&amp;index=1&amp;pp=iAQB)

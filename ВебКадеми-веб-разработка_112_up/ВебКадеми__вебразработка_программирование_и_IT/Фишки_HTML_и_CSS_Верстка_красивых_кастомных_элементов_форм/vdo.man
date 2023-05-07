@@ -1,0 +1,4 @@
+### [Кастомные радио кнопки на HTML и CSS. Урок](https://www.youtube.com/watch?v=Cw6wOZNeqk0&amp;list=PL1NBhQGGj46ZE7xn7z8363MAKHnac-TrC&amp;index=1&amp;pp=iAQB)
+### [Стилизуем кастомный чекбокс на сайте. HTML и CSS. Урок от ВебКадеми](https://www.youtube.com/watch?v=EotjsvTobso&amp;list=PL1NBhQGGj46ZE7xn7z8363MAKHnac-TrC&amp;index=2&amp;pp=iAQB)
+### [Стилизуем форму тег select на CSS. Видео урок](https://www.youtube.com/watch?v=FYLp706yv28&amp;list=PL1NBhQGGj46ZE7xn7z8363MAKHnac-TrC&amp;index=3&amp;pp=iAQB)
+### [Пишем свой select дропдаун на JS. Подробный урок](https://www.youtube.com/watch?v=JLm_bt9NwjM&amp;list=PL1NBhQGGj46ZE7xn7z8363MAKHnac-TrC&amp;index=4&amp;pp=iAQB)

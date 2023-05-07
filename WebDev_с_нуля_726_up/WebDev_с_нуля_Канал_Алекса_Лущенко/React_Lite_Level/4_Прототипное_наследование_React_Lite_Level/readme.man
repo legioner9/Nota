@@ -1,0 +1,3 @@
+# [WebDev с нуля. Канал Алекса Лущенко](https://www.youtube.com/@itgid/playlists)
+## [React. Lite Level](https://www.youtube.com/playlist?list=PLM7wFzahDYnGxyTXJwrlHZ25izs7zdzY5)
+### [Прототипное наследование. React. Lite Level](https://www.youtube.com/watch?v=hxPKcYIMeUk&amp;list=PLM7wFzahDYnGxyTXJwrlHZ25izs7zdzY5&amp;index=4&amp;pp=iAQB)

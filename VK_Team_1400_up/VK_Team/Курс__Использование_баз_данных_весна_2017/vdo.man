@@ -1,0 +1,6 @@
+### [1. Использование баз данных. Начало | Технострим](https://www.youtube.com/watch?v=34K8Vk2eyog&amp;list=PLrCZzMib1e9quWpe1VS-kpOsU6Cfj8Z0K&amp;index=1&amp;pp=iAQB)
+### [2. Использование баз данных. Модификация и выборка данных + СЕМИНАР | Технострим](https://www.youtube.com/watch?v=1SrfGmQKF28&amp;list=PLrCZzMib1e9quWpe1VS-kpOsU6Cfj8Z0K&amp;index=2&amp;pp=iAQB)
+### [3. Использование баз данных. Выборка данных, транзакции | Технострим](https://www.youtube.com/watch?v=s0Kmp24ZI1s&amp;list=PLrCZzMib1e9quWpe1VS-kpOsU6Cfj8Z0K&amp;index=3&amp;pp=iAQB)
+### [4. Использование баз данных. SQL и работа с базой данных | Технострим](https://www.youtube.com/watch?v=eFyb8ZA75Jw&amp;list=PLrCZzMib1e9quWpe1VS-kpOsU6Cfj8Z0K&amp;index=4&amp;pp=iAQB)
+### [5. Использование баз данных. Расширенные возможности работы с базой данных | Технострим](https://www.youtube.com/watch?v=w0-HhvKhMEY&amp;list=PLrCZzMib1e9quWpe1VS-kpOsU6Cfj8Z0K&amp;index=5&amp;pp=iAQB)
+### [6. Использование баз данных | Технострим](https://www.youtube.com/watch?v=xtpUlFjK6gM&amp;list=PLrCZzMib1e9quWpe1VS-kpOsU6Cfj8Z0K&amp;index=6&amp;pp=iAQB)

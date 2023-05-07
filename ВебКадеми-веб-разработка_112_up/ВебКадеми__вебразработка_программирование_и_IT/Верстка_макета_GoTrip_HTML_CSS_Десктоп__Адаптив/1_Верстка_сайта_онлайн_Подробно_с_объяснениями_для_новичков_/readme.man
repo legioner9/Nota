@@ -1,0 +1,3 @@
+# [ВебКадеми - веб-разработка, программирование и IT](https://www.youtube.com/@WebCademy/playlists?view=1&sort=dd&shelf_id=0)
+## [Верстка макета GoTrip. HTML CSS. Десктоп + Адаптив](https://www.youtube.com/playlist?list=PL1NBhQGGj46arKowyG-OBKSRSq7j1tO2v)
+### [Верстка сайта онлайн. Подробно с объяснениями для новичков. HTML, CSS, JS. Часть 1](https://www.youtube.com/watch?v=DPA9qzBJPaA&amp;list=PL1NBhQGGj46arKowyG-OBKSRSq7j1tO2v&amp;index=1&amp;pp=iAQB)

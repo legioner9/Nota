@@ -1,3 +1,0 @@
-# [Exploring the IT World / Oleg Shpagin / WISEPLAT](https://www.youtube.com/@wiseplat/playlists)
-## [Пайтон для начинающих](https://www.youtube.com/playlist?list=PLxiU3nwEQ4PHpI7lClbPX85jE6sAk1G4F)
-### [Уроки Python / Индексы и срезы в массивах, списках](https://www.youtube.com/watch?v=qub89v9LKjs&amp;list=PLxiU3nwEQ4PHpI7lClbPX85jE6sAk1G4F&amp;index=5)

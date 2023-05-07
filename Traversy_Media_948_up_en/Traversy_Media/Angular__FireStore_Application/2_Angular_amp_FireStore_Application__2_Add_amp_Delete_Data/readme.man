@@ -1,0 +1,3 @@
+# [Traversy Media](https://www.youtube.com/@TraversyMedia/playlists)
+## [Angular & FireStore Application](https://www.youtube.com/playlist?list=PLillGF-RfqbaISD5mxDCIjsSYk4jbiXi4)
+### [Angular &amp; FireStore Application - [2] Add &amp; Delete Data](https://www.youtube.com/watch?v=cwqeyOFcaoA&amp;list=PLillGF-RfqbaISD5mxDCIjsSYk4jbiXi4&amp;index=2&amp;pp=iAQB)

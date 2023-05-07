@@ -1,0 +1,3 @@
+# [Max Roslow](https://www.youtube.com/@maximroslow/playlists)
+## [Уроки React](https://www.youtube.com/playlist?list=PL1EApzIeyBXY4JOnYkusYnb1dM3mP3ojN)
+### [Магазин игр на React/Redux [2] - Добавление элементов в корзину](https://www.youtube.com/watch?v=q6qbBbFk4w4&amp;list=PL1EApzIeyBXY4JOnYkusYnb1dM3mP3ojN&amp;index=2&amp;pp=iAQB)

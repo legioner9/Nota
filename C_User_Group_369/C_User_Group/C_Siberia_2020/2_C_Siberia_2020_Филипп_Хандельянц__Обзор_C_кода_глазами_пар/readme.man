@@ -1,0 +1,3 @@
+# [C++ User Group](https://www.youtube.com/@CUserGroupRussia/playlists)
+## [C++ Siberia 2020](https://www.youtube.com/playlist?list=PLZN9ZGiWZoZpMJgDtlfMN6CUmL4ysT4G1)
+### [C++ Siberia 2020: Филипп Хандельянц - Обзор C++ кода глазами параноика](https://www.youtube.com/watch?v=Qfo_6AuOnWQ&amp;list=PLZN9ZGiWZoZpMJgDtlfMN6CUmL4ysT4G1&amp;index=2&amp;pp=iAQB)

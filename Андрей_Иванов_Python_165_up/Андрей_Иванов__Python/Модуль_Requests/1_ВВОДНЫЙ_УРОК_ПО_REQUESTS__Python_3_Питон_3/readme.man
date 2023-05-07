@@ -1,0 +1,3 @@
+# [Андрей Иванов | Python](https://www.youtube.com/@PythononPapyrusRU/playlists)
+## [Модуль Requests](https://www.youtube.com/playlist?list=PLF4MWzDJPFSZbFLkfLnmy3zKQeyckCdKI)
+### [ВВОДНЫЙ УРОК ПО REQUESTS | Python 3, Питон 3](https://www.youtube.com/watch?v=5_J2iQBArbQ&amp;list=PLF4MWzDJPFSZbFLkfLnmy3zKQeyckCdKI&amp;index=1&amp;pp=iAQB)

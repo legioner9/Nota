@@ -1,0 +1,7 @@
+### [Как создавать тултипы? Библиотека Tippy.js](https://www.youtube.com/watch?v=Q-AGMmVstIA&amp;list=PL3LQJkGQtzc5cnoKwbzAcEch3L0bdBovG&amp;index=1&amp;pp=iAQB)
+### [Плагин SFTP для Subllime Text 3](https://www.youtube.com/watch?v=vXaWSEyrysM&amp;list=PL3LQJkGQtzc5cnoKwbzAcEch3L0bdBovG&amp;index=2&amp;pp=iAQB)
+### [Редирект 301 - настройка переадресации через htaccess](https://www.youtube.com/watch?v=P9u0-o_yWwM&amp;list=PL3LQJkGQtzc5cnoKwbzAcEch3L0bdBovG&amp;index=3&amp;pp=iAQB)
+### [Как узнать шрифт на сайте?](https://www.youtube.com/watch?v=eKF-O0GcNtU&amp;list=PL3LQJkGQtzc5cnoKwbzAcEch3L0bdBovG&amp;index=4&amp;pp=iAQB)
+### [Отправка формы в сообщения вконтакте](https://www.youtube.com/watch?v=pNACt6MV9Nw&amp;list=PL3LQJkGQtzc5cnoKwbzAcEch3L0bdBovG&amp;index=5&amp;pp=iAQB)
+### [Wordpress: автоматическое обновление версии стилей и скриптов](https://www.youtube.com/watch?v=rkBw0PfcLkI&amp;list=PL3LQJkGQtzc5cnoKwbzAcEch3L0bdBovG&amp;index=6&amp;pp=iAQB)
+### [Библиотека DateDropper - поля ввода даты](https://www.youtube.com/watch?v=EGMD1pxsfaw&amp;list=PL3LQJkGQtzc5cnoKwbzAcEch3L0bdBovG&amp;index=7&amp;pp=iAQB)

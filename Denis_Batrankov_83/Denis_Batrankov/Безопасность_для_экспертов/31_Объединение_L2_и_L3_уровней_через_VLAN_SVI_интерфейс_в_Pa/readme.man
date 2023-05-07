@@ -1,0 +1,3 @@
+# [Denis Batrankov](https://www.youtube.com/@BDVSecurity/playlists)
+## [Безопасность для экспертов](https://www.youtube.com/playlist?list=PLRAbJA74qU4D-2sTzHLh8fFe4_gtKnOnB)
+### [Объединение L2 и L3 уровней через VLAN (SVI) интерфейс в Palo Alto Networks](https://www.youtube.com/watch?v=Etu4pQSrdc0&amp;list=PLRAbJA74qU4D-2sTzHLh8fFe4_gtKnOnB&amp;index=31&amp;pp=iAQB)

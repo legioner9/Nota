@@ -1,0 +1,3 @@
+# [Андрей Иванов | Python](https://www.youtube.com/@PythononPapyrusRU/playlists)
+## [Рефакторинг](https://www.youtube.com/playlist?list=PLF4MWzDJPFSZDrGVymctlWMmzKXPOJN8N)
+### [ЭТО НУЖНО ВСЕМ КЛАССАМ ПИТОНА! SINGLE RESPONSIBILITY  PRINCIPLE](https://www.youtube.com/watch?v=FMqqiItMmsE&amp;list=PLF4MWzDJPFSZDrGVymctlWMmzKXPOJN8N&amp;index=11&amp;pp=iAQB)

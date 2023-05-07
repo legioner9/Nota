@@ -1,0 +1,6 @@
+### [AJAX основы и в JQuery](https://www.youtube.com/watch?v=DTVJiuPKI1s&amp;list=PL-leL2miqjEbGx1BcCYGVSMatFzdQkk9Q&amp;index=1&amp;pp=iAQB)
+### [ТОП 10 плагинов для JQuery](https://www.youtube.com/watch?v=LI3hr1vxn-U&amp;list=PL-leL2miqjEbGx1BcCYGVSMatFzdQkk9Q&amp;index=2&amp;pp=iAQB)
+### [Пример AJAX Сайта](https://www.youtube.com/watch?v=RNVW1ZwGeHI&amp;list=PL-leL2miqjEbGx1BcCYGVSMatFzdQkk9Q&amp;index=3&amp;pp=iAQB)
+### [Создаём своё расширение для Google Chrome с нуля](https://www.youtube.com/watch?v=1EHcl5qcbQY&amp;list=PL-leL2miqjEbGx1BcCYGVSMatFzdQkk9Q&amp;index=4&amp;pp=iAQB)
+### [JQuery vs Vue.js, что учить в JavaScript](https://www.youtube.com/watch?v=o5y7uLWH05A&amp;list=PL-leL2miqjEbGx1BcCYGVSMatFzdQkk9Q&amp;index=5&amp;pp=iAQB)
+### [Стрим - Веб программирование на языках PHP и JS](https://www.youtube.com/watch?v=0dNSjgElkcs&amp;list=PL-leL2miqjEbGx1BcCYGVSMatFzdQkk9Q&amp;index=6&amp;pp=iAQB)

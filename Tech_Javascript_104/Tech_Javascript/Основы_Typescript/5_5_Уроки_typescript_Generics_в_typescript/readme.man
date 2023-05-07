@@ -1,0 +1,3 @@
+# [Tech Javascript](https://www.youtube.com/@techjavascript/playlists)
+## [Основы Typescript](https://www.youtube.com/playlist?list=PLco1IpJXlada3EI5Pfsp7NZKrC_-oYDvY)
+### [5. Уроки typescript. Generics в typescript](https://www.youtube.com/watch?v=MNzNToG7Y_k&amp;list=PLco1IpJXlada3EI5Pfsp7NZKrC_-oYDvY&amp;index=5&amp;pp=iAQB)

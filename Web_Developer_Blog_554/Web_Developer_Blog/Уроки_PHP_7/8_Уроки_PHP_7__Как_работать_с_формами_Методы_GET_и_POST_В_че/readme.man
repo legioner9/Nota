@@ -1,0 +1,3 @@
+# [Web Developer Blog](https://www.youtube.com/@SuprunAlexey/playlists)
+## [Уроки PHP 7](https://www.youtube.com/playlist?list=PLVfMKQXDAhGWCBTca7m-snWrZZkjX2jGB)
+### [Уроки PHP 7 | Как работать с формами. Методы GET и POST. В чем их отличие.](https://www.youtube.com/watch?v=r_ivKeBLZjE&amp;list=PLVfMKQXDAhGWCBTca7m-snWrZZkjX2jGB&amp;index=8&amp;pp=iAQB)

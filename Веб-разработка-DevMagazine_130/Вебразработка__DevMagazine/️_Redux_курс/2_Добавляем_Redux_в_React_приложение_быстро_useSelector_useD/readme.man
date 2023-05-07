@@ -1,0 +1,3 @@
+# [Веб-разработка - DevMagazine](https://www.youtube.com/@DevMagazineChannel/playlists)
+## [☕️ Redux курс](https://www.youtube.com/playlist?list=PLmfIBo6rTVR70B7skhP5BtczReJMZQ0Vd)
+### [Добавляем Redux в React приложение быстро: useSelector, useDispatch](https://www.youtube.com/watch?v=HwSqZsN0qc0&amp;list=PLmfIBo6rTVR70B7skhP5BtczReJMZQ0Vd&amp;index=2&amp;pp=iAQB)

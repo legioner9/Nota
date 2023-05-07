@@ -1,0 +1,7 @@
+### [Практика верстки. #3/1. Верстка макета на SCSS. Анимация AOS.](https://www.youtube.com/watch?v=fDIZDNkJkOI&amp;list=PLBfQgL-XzhF2vTQdFGWrEXsp9-3Ke5rPj&amp;index=1&amp;pp=iAQB)
+### [Практика верстки. #3/2. Верстка макета на SCSS.](https://www.youtube.com/watch?v=-RbXNosm24M&amp;list=PLBfQgL-XzhF2vTQdFGWrEXsp9-3Ke5rPj&amp;index=2&amp;pp=iAQB)
+### [Практика верстки. #3/3. Анимация svg. Подключение AOS. Адаптивная верстка. | VIMP dev](https://www.youtube.com/watch?v=0MXtmqe7RXA&amp;list=PLBfQgL-XzhF2vTQdFGWrEXsp9-3Ke5rPj&amp;index=3&amp;pp=iAQB)
+### [Практика верстки. #3/4. Верстка второго блока макета с использованием SCSS. Анимация AOS | VIMP dev](https://www.youtube.com/watch?v=8Uvl2Dp1so0&amp;list=PLBfQgL-XzhF2vTQdFGWrEXsp9-3Ke5rPj&amp;index=4&amp;pp=iAQB)
+### [Практика верстки. #3/5. Верстка секции 3 и 4 и адаптация под мобильные | VIMP dev](https://www.youtube.com/watch?v=3_CBdVt7szQ&amp;list=PLBfQgL-XzhF2vTQdFGWrEXsp9-3Ke5rPj&amp;index=5&amp;pp=iAQB)
+### [Практика верстки. #3/6. Декоративные элементы. Эффект заполнения  svg | VIMP dev](https://www.youtube.com/watch?v=ehYrLDk3pPI&amp;list=PLBfQgL-XzhF2vTQdFGWrEXsp9-3Ke5rPj&amp;index=6&amp;pp=iAQB)
+### [Практика верстки. #3/7. Финал. Верстка отзывов и футера на grid | VIMP dev](https://www.youtube.com/watch?v=wDmWpX5nBlQ&amp;list=PLBfQgL-XzhF2vTQdFGWrEXsp9-3Ke5rPj&amp;index=7&amp;pp=iAQB)

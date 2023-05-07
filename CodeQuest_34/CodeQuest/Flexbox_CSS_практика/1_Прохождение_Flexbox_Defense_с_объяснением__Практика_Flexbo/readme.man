@@ -1,0 +1,3 @@
+# [CodeQuest](https://www.youtube.com/@CodeQuestRu/playlists)
+## [Flexbox CSS практика](https://www.youtube.com/playlist?list=PLU0nVsJXPyy_kcE9UcIlu42_OaF8kMMkY)
+### [Прохождение Flexbox Defense с объяснением | Практика Flexbox CSS в формате игры](https://www.youtube.com/watch?v=r2Iew-cPFJw&amp;list=PLU0nVsJXPyy_kcE9UcIlu42_OaF8kMMkY&amp;index=1&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [Traversy Media](https://www.youtube.com/@TraversyMedia/playlists)
+## [Zend Framework 2](https://www.youtube.com/playlist?list=PLillGF-RfqbYl4mB0oZA1tSh7tJr78Zzh)
+### [Zend Framework 2 - Models &amp; Database](https://www.youtube.com/watch?v=tJ6r16ojIwY&amp;list=PLillGF-RfqbYl4mB0oZA1tSh7tJr78Zzh&amp;index=4&amp;pp=iAQB)

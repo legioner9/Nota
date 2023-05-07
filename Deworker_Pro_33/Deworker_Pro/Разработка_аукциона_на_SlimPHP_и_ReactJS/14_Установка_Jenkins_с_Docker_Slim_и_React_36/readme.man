@@ -1,0 +1,3 @@
+# [Deworker Pro](https://www.youtube.com/@DeworkerPro/playlists)
+## [Разработка аукциона на SlimPHP и ReactJS](https://www.youtube.com/playlist?list=PLrmZ-W4yj5ERthQgVbOi5Xxk1wiXPI7wk)
+### [Установка Jenkins с Docker [Slim и React #36]](https://www.youtube.com/watch?v=NDql7I_x0QQ&amp;list=PLrmZ-W4yj5ERthQgVbOi5Xxk1wiXPI7wk&amp;index=14&amp;pp=iAQB)

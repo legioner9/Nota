@@ -1,3 +1,0 @@
-# [Exploring the IT World / Oleg Shpagin / WISEPLAT](https://www.youtube.com/@wiseplat/playlists)
-## [Как создать свой веб сервер](https://www.youtube.com/playlist?list=PLxiU3nwEQ4PHT_mZUqwGiE-OaPGxNfwEa)
-### [Установка и настройка Open Server для Веб разработки / Как создать сайт](https://www.youtube.com/watch?v=VM7Z6rOOAdA&amp;list=PLxiU3nwEQ4PHT_mZUqwGiE-OaPGxNfwEa&amp;index=5)

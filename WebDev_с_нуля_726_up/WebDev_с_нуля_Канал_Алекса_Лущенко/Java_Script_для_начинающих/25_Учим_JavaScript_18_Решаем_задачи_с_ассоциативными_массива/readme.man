@@ -1,0 +1,3 @@
+# [WebDev с нуля. Канал Алекса Лущенко](https://www.youtube.com/@itgid/playlists)
+## [Java Script для начинающих](https://www.youtube.com/playlist?list=PLM7wFzahDYnFjBTkfRTRlusyp_tlZ9rYz)
+### [Учим JavaScript 18. Решаем задачи с ассоциативными массивами](https://www.youtube.com/watch?v=BI7gg4jwRZM&amp;list=PLM7wFzahDYnFjBTkfRTRlusyp_tlZ9rYz&amp;index=25&amp;pp=iAQB)

@@ -1,0 +1,4 @@
+### [Стоит ли учить Java новичку. Стажировка Java](https://www.youtube.com/watch?v=eGRuQIUoA1A&amp;list=PLVfMKQXDAhGVR5_gLTsBVEAfWdzajRa_n&amp;index=1&amp;pp=iAQB)
+### [Топ 5 причин учить Java начинающему прямо сейчас](https://www.youtube.com/watch?v=QJbG7ETwbM4&amp;list=PLVfMKQXDAhGVR5_gLTsBVEAfWdzajRa_n&amp;index=2&amp;pp=iAQB)
+### [За что Java программистам платят так много](https://www.youtube.com/watch?v=oe0IIpq2Ce8&amp;list=PLVfMKQXDAhGVR5_gLTsBVEAfWdzajRa_n&amp;index=3&amp;pp=iAQB)
+### [Как стать junior Java разработчиком](https://www.youtube.com/watch?v=aZOX9OYcjAw&amp;list=PLVfMKQXDAhGVR5_gLTsBVEAfWdzajRa_n&amp;index=4&amp;pp=iAQB)

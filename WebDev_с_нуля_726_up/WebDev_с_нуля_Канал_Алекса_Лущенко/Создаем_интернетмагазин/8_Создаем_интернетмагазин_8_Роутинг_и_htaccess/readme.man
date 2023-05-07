@@ -1,0 +1,3 @@
+# [WebDev с нуля. Канал Алекса Лущенко](https://www.youtube.com/@itgid/playlists)
+## [Создаем интернет-магазин](https://www.youtube.com/playlist?list=PLM7wFzahDYnGt2tP9WHezqNCT56hMsc8I)
+### [Создаем интернет-магазин 8. Роутинг и .htaccess](https://www.youtube.com/watch?v=H1SE5dIdQlk&amp;list=PLM7wFzahDYnGt2tP9WHezqNCT56hMsc8I&amp;index=8&amp;pp=iAQB)

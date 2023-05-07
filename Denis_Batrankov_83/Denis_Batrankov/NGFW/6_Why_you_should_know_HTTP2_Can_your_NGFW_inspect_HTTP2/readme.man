@@ -1,0 +1,3 @@
+# [Denis Batrankov](https://www.youtube.com/@BDVSecurity/playlists)
+## [NGFW](https://www.youtube.com/playlist?list=PLRAbJA74qU4BwrOpBkq3GWaq9lnwAWp5i)
+### [Why you should know HTTP/2? Can your NGFW inspect HTTP/2?](https://www.youtube.com/watch?v=hXSTbcn99FI&amp;list=PLRAbJA74qU4BwrOpBkq3GWaq9lnwAWp5i&amp;index=6&amp;pp=iAQB)

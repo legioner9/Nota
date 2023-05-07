@@ -1,0 +1,3 @@
+# [В. Бовсуновский Python Django](https://www.youtube.com/@bov/playlists?view=1)
+## [Django 4 пишем сайт с нуля.](https://www.youtube.com/playlist?list=PLuZJ9n46uMzXVj9JEjULImuBKRVKKS9To)
+### [55. Порог знаний для тестирования форм(pytest) в Django 4. Часть 1.](https://www.youtube.com/watch?v=zrmtjIGxSgU&amp;list=PLuZJ9n46uMzXVj9JEjULImuBKRVKKS9To&amp;index=55&amp;pp=iAQB)

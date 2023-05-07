@@ -1,0 +1,3 @@
+# [Coding Tech](https://www.youtube.com/@CodingTech/playlists)
+## [Machine Learning](https://www.youtube.com/playlist?list=PLFjq8z-aGyQ5pDM0CYpsqRswZCrb91sF-)
+### [The Flair Framework for Text Analytics and NLP Research || Alan Akbik](https://www.youtube.com/watch?v=5Hg18QxU6mA&amp;list=PLFjq8z-aGyQ5pDM0CYpsqRswZCrb91sF-&amp;index=46&amp;pp=iAQB)

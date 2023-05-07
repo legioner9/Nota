@@ -1,0 +1,3 @@
+# [Максим В](https://www.youtube.com/@cpp/playlists)
+## [Уроки по С++](https://www.youtube.com/playlist?list=PLlxYwLnXeoE2_edxAb1Le1VYFf2Eq-FOc)
+### [Программирование на С++. Урок 48. Си строки](https://www.youtube.com/watch?v=IVyeZ8Gc720&amp;list=PLlxYwLnXeoE2_edxAb1Le1VYFf2Eq-FOc&amp;index=48&amp;pp=iAQB)

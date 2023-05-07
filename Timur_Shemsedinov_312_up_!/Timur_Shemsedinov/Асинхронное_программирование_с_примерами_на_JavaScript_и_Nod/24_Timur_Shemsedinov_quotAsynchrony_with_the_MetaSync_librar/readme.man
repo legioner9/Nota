@@ -1,0 +1,3 @@
+# [Timur Shemsedinov](https://www.youtube.com/@TimurShemsedinov/playlists?view=1)
+## [Асинхронное программирование с примерами на JavaScript и Node.js](https://www.youtube.com/playlist?list=PLHhi8ymDMrQZ0MpTsmi54OkjTbo0cjU1T)
+### [Timur Shemsedinov &quot;Asynchrony with the MetaSync library&quot;](https://www.youtube.com/watch?v=XRSxsw0Kgms&amp;list=PLHhi8ymDMrQZ0MpTsmi54OkjTbo0cjU1T&amp;index=24&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [openWeb - Веб программирование на языках PHP и JS](https://www.youtube.com/@openweb-php/playlists)
+## [Node.js программирование](https://www.youtube.com/playlist?list=PL-leL2miqjEYADLEfKwTSMyfRYRrSzQtu)
+### [Node.js создаем облачное хранилище с блекджеком и шлюхами](https://www.youtube.com/watch?v=Fp6W82PJGPc&amp;list=PL-leL2miqjEYADLEfKwTSMyfRYRrSzQtu&amp;index=4&amp;pp=iAQB)

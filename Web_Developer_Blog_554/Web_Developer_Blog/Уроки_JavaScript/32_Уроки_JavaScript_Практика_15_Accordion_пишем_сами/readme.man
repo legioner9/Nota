@@ -1,0 +1,3 @@
+# [Web Developer Blog](https://www.youtube.com/@SuprunAlexey/playlists)
+## [Уроки JavaScript](https://www.youtube.com/playlist?list=PLVfMKQXDAhGUaEtJ_fOUz0F7TJtidE7Qw)
+### [Уроки JavaScript Практика #15 Accordion пишем сами](https://www.youtube.com/watch?v=zOE8VxgMZ2M&amp;list=PLVfMKQXDAhGUaEtJ_fOUz0F7TJtidE7Qw&amp;index=32&amp;pp=iAQB)

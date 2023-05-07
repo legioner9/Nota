@@ -1,0 +1,3 @@
+# [Eugene Suleimanov](https://www.youtube.com/@EugeneSuleimanov/playlists)
+## [Примеры приложений](https://www.youtube.com/playlist?list=PLlsMRoVt5sTNpihn4q4S4an2xpYkSA3RR)
+### [Создание REST приложения с использованием Spring](https://www.youtube.com/watch?v=GOtoXLvg_IQ&amp;list=PLlsMRoVt5sTNpihn4q4S4an2xpYkSA3RR&amp;index=3&amp;pp=iAQB)

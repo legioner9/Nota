@@ -1,3 +1,0 @@
-# [Exploring the IT World / Oleg Shpagin / WISEPLAT](https://www.youtube.com/@wiseplat/playlists)
-## [Нейросети на Python](https://www.youtube.com/playlist?list=PLxiU3nwEQ4PFFbQhddlom7ZgivN9OmFTc)
-### [Нейросети прогноз акций разные таймфреймы Python #5](https://www.youtube.com/watch?v=UtQ09ho_IYg&amp;list=PLxiU3nwEQ4PFFbQhddlom7ZgivN9OmFTc&amp;index=5)

@@ -1,0 +1,6 @@
+### [Data Analysis with Python: Part 1 of 6 (Live Course)](https://www.youtube.com/watch?v=EsDFiZPljYo&amp;list=PLWKjhJtqVAblvI1i46ScbKV2jH1gdL7VQ&amp;index=1&amp;pp=iAQB)
+### [Data Analysis with Python: Part 2 of 6 - Python Functions and Working with Files (Live Course)](https://www.youtube.com/watch?v=JOKJ6g3gUFE&amp;list=PLWKjhJtqVAblvI1i46ScbKV2jH1gdL7VQ&amp;index=2&amp;pp=iAQB)
+### [Data Analysis with Python: Part 3 of 6 Numerical Computing with Numpy (Live Course)](https://www.youtube.com/watch?v=NlZXAytUeeE&amp;list=PLWKjhJtqVAblvI1i46ScbKV2jH1gdL7VQ&amp;index=3&amp;pp=iAQB)
+### [Data Analysis with Python: Part 4 of 6 - Analyzing tabular data with Pandas](https://www.youtube.com/watch?v=b2mLDkMSyn4&amp;list=PLWKjhJtqVAblvI1i46ScbKV2jH1gdL7VQ&amp;index=4&amp;pp=iAQB)
+### [Data Analysis with Python: Part 5 of 6 - Visualization with Matplotlib and Seaborn (Live Course)](https://www.youtube.com/watch?v=bybjFBOBJlg&amp;list=PLWKjhJtqVAblvI1i46ScbKV2jH1gdL7VQ&amp;index=5&amp;pp=iAQB)
+### [Data Analysis with Python: Part 6 of 6 - Exploratory Data Analysis - A Case Study [Live Course]](https://www.youtube.com/watch?v=XRKIa4k0h2E&amp;list=PLWKjhJtqVAblvI1i46ScbKV2jH1gdL7VQ&amp;index=6&amp;pp=iAQB)

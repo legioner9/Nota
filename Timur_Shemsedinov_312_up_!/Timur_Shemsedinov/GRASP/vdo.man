@@ -1,0 +1,5 @@
+### [🎧 GRASP принципы с адаптацией для JavaScript и Node.js](https://www.youtube.com/watch?v=ExauFjYV_lQ&amp;list=PLHhi8ymDMrQby8kXxsz2-J6-lsv0ilEg2&amp;index=1&amp;pp=iAQB)
+### [💻 GRASP: принцип информационный эксперт с адаптацией для JavaScript и Node.js](https://www.youtube.com/watch?v=cCHL329_As0&amp;list=PLHhi8ymDMrQby8kXxsz2-J6-lsv0ilEg2&amp;index=2&amp;pp=iAQB)
+### [💻 GRASP: Зацепление и связность в JavaScript и Node.js - coupling and cohesion](https://www.youtube.com/watch?v=IGXdPOZ3Fyk&amp;list=PLHhi8ymDMrQby8kXxsz2-J6-lsv0ilEg2&amp;index=3&amp;pp=iAQB)
+### [💻 GRASP: Чистая выдумка для JavaScript и Node.js - Pure Fabrication](https://www.youtube.com/watch?v=CV577a0RHBM&amp;list=PLHhi8ymDMrQby8kXxsz2-J6-lsv0ilEg2&amp;index=4&amp;pp=iAQB)
+### [💻 GRASP: Декомпозиция класса Application из библиотеки impress технологического стека Metarhia](https://www.youtube.com/watch?v=4AMVQ2-2DcM&amp;list=PLHhi8ymDMrQby8kXxsz2-J6-lsv0ilEg2&amp;index=5&amp;pp=iAQB)

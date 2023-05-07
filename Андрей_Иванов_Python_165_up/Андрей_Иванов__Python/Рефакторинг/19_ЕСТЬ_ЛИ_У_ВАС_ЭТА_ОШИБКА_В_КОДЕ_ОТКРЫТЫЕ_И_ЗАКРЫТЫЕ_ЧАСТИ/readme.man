@@ -1,0 +1,3 @@
+# [Андрей Иванов | Python](https://www.youtube.com/@PythononPapyrusRU/playlists)
+## [Рефакторинг](https://www.youtube.com/playlist?list=PLF4MWzDJPFSZDrGVymctlWMmzKXPOJN8N)
+### [ЕСТЬ ЛИ У ВАС ЭТА ОШИБКА В КОДЕ? ОТКРЫТЫЕ И ЗАКРЫТЫЕ ЧАСТИ СИСТЕМ В IT. ПРИМЕР В PYTHON](https://www.youtube.com/watch?v=Ws_do1IGPWU&amp;list=PLF4MWzDJPFSZDrGVymctlWMmzKXPOJN8N&amp;index=19&amp;pp=iAQB)

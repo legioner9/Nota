@@ -1,0 +1,3 @@
+# [Василий Муравьев](https://www.youtube.com/@stackdev/playlists)
+## [Уроки Javascript для Начинающих 2022](https://www.youtube.com/playlist?list=PLtL3lrXPn2rXYAkRYdTKOQLRUW1Gdp4v2)
+### [Урок Javascript #8. Методы массивов JS #1 (map, filter, sort, reduce, forEach + примеры)](https://www.youtube.com/watch?v=vYuXuHQu2eo&amp;list=PLtL3lrXPn2rXYAkRYdTKOQLRUW1Gdp4v2&amp;index=9&amp;pp=iAQB)

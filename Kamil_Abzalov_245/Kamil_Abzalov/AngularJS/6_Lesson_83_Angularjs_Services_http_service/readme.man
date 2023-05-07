@@ -1,0 +1,3 @@
+# [Kamil Abzalov](https://www.youtube.com/@Kamil-abzalovRu/playlists)
+## [AngularJS](https://www.youtube.com/playlist?list=PLOpdT8GIZ4XXCTI-GGObOko6NkZrQjuJd)
+### [Lesson 83. Angularjs. Services. $http service](https://www.youtube.com/watch?v=LC9xzLYYS4s&amp;list=PLOpdT8GIZ4XXCTI-GGObOko6NkZrQjuJd&amp;index=6&amp;pp=iAQB)

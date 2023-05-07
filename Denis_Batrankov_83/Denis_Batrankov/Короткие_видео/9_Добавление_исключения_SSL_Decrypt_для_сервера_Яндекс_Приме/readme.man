@@ -1,0 +1,3 @@
+# [Denis Batrankov](https://www.youtube.com/@BDVSecurity/playlists)
+## [Короткие видео](https://www.youtube.com/playlist?list=PLRAbJA74qU4DnvN1A0eZ-WYgTycZGn0O9)
+### [Добавление исключения SSL Decrypt для сервера Яндекс. Пример настройки для Яндекс.Станции](https://www.youtube.com/watch?v=x6OjO4Pqxlo&amp;list=PLRAbJA74qU4DnvN1A0eZ-WYgTycZGn0O9&amp;index=9&amp;pp=iAQB)

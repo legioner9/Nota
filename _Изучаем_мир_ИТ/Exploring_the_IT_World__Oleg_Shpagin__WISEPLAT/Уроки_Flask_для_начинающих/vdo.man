@@ -1,2 +1,0 @@
-### [Уроки Flask для начинающих #1 | Как установить Flask и сделать первое веб приложение](https://www.youtube.com/watch?v=UxEgcps_yLI&amp;list=PLxiU3nwEQ4PGS5rrHtL2hzf4mbfuDJg2C&amp;index=1)
-### [Как я изучаю новый язык программирования / Только для спонсоров ))](https://www.youtube.com/watch?v=xQ2-yRDV3gY&amp;list=PLxiU3nwEQ4PGS5rrHtL2hzf4mbfuDJg2C&amp;index=2)

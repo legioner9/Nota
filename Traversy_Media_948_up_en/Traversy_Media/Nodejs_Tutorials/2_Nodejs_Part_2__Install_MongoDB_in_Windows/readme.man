@@ -1,0 +1,3 @@
+# [Traversy Media](https://www.youtube.com/@TraversyMedia/playlists)
+## [Node.js Tutorials](https://www.youtube.com/playlist?list=PLillGF-Rfqbb786uDGaO8r9atpx1kt3iP)
+### [Node.js Part 2 - Install MongoDB in Windows](https://www.youtube.com/watch?v=1yZj_9VWMdE&amp;list=PLillGF-Rfqbb786uDGaO8r9atpx1kt3iP&amp;index=2&amp;pp=iAQB)

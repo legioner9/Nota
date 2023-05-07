@@ -1,0 +1,3 @@
+# [Web Developer Blog](https://www.youtube.com/@SuprunAlexey/playlists)
+## [Flexbox верстка практика](https://www.youtube.com/playlist?list=PLVfMKQXDAhGVkBdjLJmb4TwLAnEhtiQf-)
+### [Уроки Flexbox Практика - Делаем header и навигацию сайта](https://www.youtube.com/watch?v=fecXcorm6Ms&amp;list=PLVfMKQXDAhGVkBdjLJmb4TwLAnEhtiQf-&amp;index=4&amp;pp=iAQB)

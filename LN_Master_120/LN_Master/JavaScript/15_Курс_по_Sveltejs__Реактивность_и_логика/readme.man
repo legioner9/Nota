@@ -1,0 +1,3 @@
+# [LN Master](https://www.youtube.com/@ToBeCloser007/playlists)
+## [JavaScript](https://www.youtube.com/playlist?list=PL3PZFGlHBUn0ybP6TnbbEgLZQurx0AklH)
+### [Курс по Svelte.js - Реактивность и логика](https://www.youtube.com/watch?v=m3G2-JW4BwM&amp;list=PL3PZFGlHBUn0ybP6TnbbEgLZQurx0AklH&amp;index=15&amp;pp=iAQB)

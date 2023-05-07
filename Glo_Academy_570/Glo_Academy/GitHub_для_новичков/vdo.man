@@ -1,0 +1,3 @@
+### [GitHub для самых маленьких #1 | Основы](https://www.youtube.com/watch?v=Rke_Z1-nvUM&amp;list=PL3LQJkGQtzc5rDeb7FjACNb6sOW300yA0&amp;index=1&amp;pp=iAQB)
+### [Github для самых маленьких #2 | Практика – GitHub Desktop | Приложение Гитхаб для компьютера](https://www.youtube.com/watch?v=hyUBMmL0WtA&amp;list=PL3LQJkGQtzc5rDeb7FjACNb6sOW300yA0&amp;index=2&amp;pp=iAQB)
+### [Github для самых маленьких #3 | Практика – GitHub terminal | Работа с Git в терминале](https://www.youtube.com/watch?v=fYFiQ7lpfiE&amp;list=PL3LQJkGQtzc5rDeb7FjACNb6sOW300yA0&amp;index=3&amp;pp=iAQB)

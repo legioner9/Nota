@@ -1,0 +1,3 @@
+# [Web Developer Blog](https://www.youtube.com/@SuprunAlexey/playlists)
+## [Уроки HTML](https://www.youtube.com/playlist?list=PLVfMKQXDAhGWUc3NEYT2De304hn290FdI)
+### [Уроки HTML: Валидация формы на чистом Html и Css](https://www.youtube.com/watch?v=OKZ52o0qHLM&amp;list=PLVfMKQXDAhGWUc3NEYT2De304hn290FdI&amp;index=1&amp;pp=iAQB)

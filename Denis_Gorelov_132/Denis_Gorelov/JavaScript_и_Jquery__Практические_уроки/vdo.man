@@ -1,0 +1,7 @@
+### [Прелоадер / Progress Bar на JS и CSS](https://www.youtube.com/watch?v=FofBtCPEZo4&amp;list=PL8pp2EAvIK-LkkQwz_oR-SQTUuAR4kNhg&amp;index=1&amp;pp=iAQB)
+### [Прелоадер с процентной загрузкой / Практика по JavaScript](https://www.youtube.com/watch?v=rSjYDeWYz0w&amp;list=PL8pp2EAvIK-LkkQwz_oR-SQTUuAR4kNhg&amp;index=2&amp;pp=iAQB)
+### [ПУЛЬСИРУЮЩИЙ клик / Анимация кнопки на JavaScript](https://www.youtube.com/watch?v=JqLi3e5CC8A&amp;list=PL8pp2EAvIK-LkkQwz_oR-SQTUuAR4kNhg&amp;index=3&amp;pp=iAQB)
+### [Эффект плавающего текста в фокусе | Contact Form на CSS и jquery](https://www.youtube.com/watch?v=Ykhb6jvGirU&amp;list=PL8pp2EAvIK-LkkQwz_oR-SQTUuAR4kNhg&amp;index=4&amp;pp=iAQB)
+### [Аккордеон вкладки (табы) на jQuery](https://www.youtube.com/watch?v=RIKFFcQaOro&amp;list=PL8pp2EAvIK-LkkQwz_oR-SQTUuAR4kNhg&amp;index=5&amp;pp=iAQB)
+### [#2 FORM / Вкладки на CSS и JS](https://www.youtube.com/watch?v=q3129D45cMs&amp;list=PL8pp2EAvIK-LkkQwz_oR-SQTUuAR4kNhg&amp;index=6&amp;pp=iAQB)
+### [#3 FORM / Переключение tabs на CSS и JS](https://www.youtube.com/watch?v=h0hkCEoS0R4&amp;list=PL8pp2EAvIK-LkkQwz_oR-SQTUuAR4kNhg&amp;index=7&amp;pp=iAQB)

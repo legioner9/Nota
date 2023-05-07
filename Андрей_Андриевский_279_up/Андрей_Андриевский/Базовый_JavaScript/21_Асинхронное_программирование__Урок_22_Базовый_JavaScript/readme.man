@@ -1,0 +1,3 @@
+# [Андрей Андриевский](https://www.youtube.com/@andrievskii/playlists)
+## [Базовый JavaScript](https://www.youtube.com/playlist?list=PLMB6wLyKp7lWhGCKhJVII3ag-KfH1qz6U)
+### [Асинхронное программирование – Урок #22| Базовый JavaScript](https://www.youtube.com/watch?v=5Vw50A7Jq8Q&amp;list=PLMB6wLyKp7lWhGCKhJVII3ag-KfH1qz6U&amp;index=21&amp;pp=iAQB)

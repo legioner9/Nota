@@ -1,0 +1,3 @@
+# [CodexWeb (бывший Master-CSS)](https://www.youtube.com/@CodexWeb/playlists)
+## [Видеокурс по редактору Sublime Text 3](https://www.youtube.com/playlist?list=PLPpaecEYRC8ZjBQ1OsGOKmxBF8lTTO4BZ)
+### [Урок 3. Элементы окна программы Sublime Text 3](https://www.youtube.com/watch?v=Y91XMBIjtsY&amp;list=PLPpaecEYRC8ZjBQ1OsGOKmxBF8lTTO4BZ&amp;index=3&amp;pp=iAQB)

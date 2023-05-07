@@ -1,0 +1,8 @@
+### [1. Базы данных. Лаборатория Tarantool. Введение в современные СУБД | Технострим](https://www.youtube.com/watch?v=ejS2DE-ar3A&amp;list=PLrCZzMib1e9o-2km1HniylB-ZZteznvLb&amp;index=1&amp;pp=iAQB)
+### [2. Базы данных. Лаборатория Tarantool. Современные алгоритмы для двухуровневой памяти | Технострим](https://www.youtube.com/watch?v=0A4_SdNEH8c&amp;list=PLrCZzMib1e9o-2km1HniylB-ZZteznvLb&amp;index=2&amp;pp=iAQB)
+### [3. Базы данных. Лаборатория Tarantool. Кэширование | Технострим](https://www.youtube.com/watch?v=jhAOFFUVSjk&amp;list=PLrCZzMib1e9o-2km1HniylB-ZZteznvLb&amp;index=3&amp;pp=iAQB)
+### [4. Базы данных. Лаборатория Tarantool. Архитектура СУБД | Технострим](https://www.youtube.com/watch?v=SeD0yv_2Fa8&amp;list=PLrCZzMib1e9o-2km1HniylB-ZZteznvLb&amp;index=4&amp;pp=iAQB)
+### [5. Базы данных. Лаборатория Tarantool. | Технострим](https://www.youtube.com/watch?v=ANHOCZrRrpg&amp;list=PLrCZzMib1e9o-2km1HniylB-ZZteznvLb&amp;index=5&amp;pp=iAQB)
+### [6. Базы данных. Лаборатория Tarantool. Транзакции | Технострим](https://www.youtube.com/watch?v=a4yuDnJkiQc&amp;list=PLrCZzMib1e9o-2km1HniylB-ZZteznvLb&amp;index=6&amp;pp=iAQB)
+### [6.2 Базы данных. Лаборатория Tarantool. Изоляция транзакций | Технострим](https://www.youtube.com/watch?v=kPozMb1mBS8&amp;list=PLrCZzMib1e9o-2km1HniylB-ZZteznvLb&amp;index=7&amp;pp=iAQB)
+### [7. Базы данных. Локи, транзакции | Технострим](https://www.youtube.com/watch?v=hzKFhRfnZWk&amp;list=PLrCZzMib1e9o-2km1HniylB-ZZteznvLb&amp;index=8&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [Traversy Media](https://www.youtube.com/@TraversyMedia/playlists)
+## [Laravel From Scratch](https://www.youtube.com/playlist?list=PLillGF-RfqbYhQsN5WMXy6VsDMKGadrJ-)
+### [Laravel From Scratch [Part 6] - Fetching Data With Eloquent](https://www.youtube.com/watch?v=emyIlJPxZr4&amp;list=PLillGF-RfqbYhQsN5WMXy6VsDMKGadrJ-&amp;index=6&amp;pp=iAQB)

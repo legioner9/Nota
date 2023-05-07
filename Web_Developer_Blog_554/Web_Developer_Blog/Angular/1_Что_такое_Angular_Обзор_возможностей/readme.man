@@ -1,0 +1,3 @@
+# [Web Developer Blog](https://www.youtube.com/@SuprunAlexey/playlists)
+## [Angular](https://www.youtube.com/playlist?list=PLVfMKQXDAhGUuYa7AnXsgMqG8Pwz8ZRlW)
+### [Что такое Angular. Обзор возможностей](https://www.youtube.com/watch?v=m0yGx2MGZWg&amp;list=PLVfMKQXDAhGUuYa7AnXsgMqG8Pwz8ZRlW&amp;index=1&amp;pp=iAQB)

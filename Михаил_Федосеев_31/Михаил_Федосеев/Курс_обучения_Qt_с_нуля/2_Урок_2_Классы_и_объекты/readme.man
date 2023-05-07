@@ -1,0 +1,3 @@
+# [Михаил Федосеев](https://www.youtube.com/@fedoseevm/playlists)
+## [Курс обучения Qt с нуля](https://www.youtube.com/playlist?list=PLYQhNajy-JUHMXJ_7TR4zW19vnU78CFPb)
+### [Урок 2 Классы и объекты](https://www.youtube.com/watch?v=BfOhQiMKqTo&amp;list=PLYQhNajy-JUHMXJ_7TR4zW19vnU78CFPb&amp;index=2&amp;pp=iAQB)

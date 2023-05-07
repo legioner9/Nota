@@ -1,3 +1,0 @@
-# [Exploring the IT World / Oleg Shpagin / WISEPLAT](https://www.youtube.com/@wiseplat/playlists)
-## [Уроки по основам Java с нуля](https://www.youtube.com/playlist?list=PLxiU3nwEQ4PEXgJrE2-2ufamZ_o5XZ2Sn)
-### [Уроки Java для начинающих #1 | Установка среды разработки и редактора](https://www.youtube.com/watch?v=w5KcrjS6-dc&amp;list=PLxiU3nwEQ4PEXgJrE2-2ufamZ_o5XZ2Sn&amp;index=1)

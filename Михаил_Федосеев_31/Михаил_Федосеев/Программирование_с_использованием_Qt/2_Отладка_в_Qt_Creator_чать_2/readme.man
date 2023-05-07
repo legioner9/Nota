@@ -1,0 +1,3 @@
+# [Михаил Федосеев](https://www.youtube.com/@fedoseevm/playlists)
+## [Программирование с использованием Qt](https://www.youtube.com/playlist?list=PLYQhNajy-JUF8qMrNAx5AzRU1L76cq01r)
+### [Отладка в Qt Creator чать 2](https://www.youtube.com/watch?v=NiaJK4QP39g&amp;list=PLYQhNajy-JUF8qMrNAx5AzRU1L76cq01r&amp;index=2&amp;pp=iAQB)

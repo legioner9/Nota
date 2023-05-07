@@ -1,0 +1,3 @@
+# [Dmitry Afanasyev](https://www.youtube.com/@DmitryAfanasyev/playlists)
+## [Laravel 8 - Видеокурс](https://www.youtube.com/playlist?list=PLoonZ8wII66iP0fJPHhkLXa3k7CMef9ak)
+### [Laravel урок №6: [ Seeds - заполнение БД тестовыми данными ]](https://www.youtube.com/watch?v=RjztD_1kQwc&amp;list=PLoonZ8wII66iP0fJPHhkLXa3k7CMef9ak&amp;index=10&amp;pp=iAQB)

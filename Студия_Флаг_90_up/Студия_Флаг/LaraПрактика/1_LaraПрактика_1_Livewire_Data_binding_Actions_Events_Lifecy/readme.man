@@ -1,0 +1,3 @@
+# [Студия Флаг](https://www.youtube.com/@FlagStudio/playlists)
+## [LaraПрактика](https://www.youtube.com/playlist?list=PLVdcV6tHcaCFCI1FtvuY2TXWSGVV-LZT9)
+### [LaraПрактика #1. Livewire. Data binding, Actions, Events, Lifecycle, Nesting](https://www.youtube.com/watch?v=sWRX3tmcaZ0&amp;list=PLVdcV6tHcaCFCI1FtvuY2TXWSGVV-LZT9&amp;index=1&amp;pp=iAQB)

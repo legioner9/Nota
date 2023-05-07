@@ -1,0 +1,3 @@
+# [Denis Batrankov](https://www.youtube.com/@BDVSecurity/playlists)
+## [Безопасность для экспертов](https://www.youtube.com/playlist?list=PLRAbJA74qU4D-2sTzHLh8fFe4_gtKnOnB)
+### [Почему нельзя сравнивать числа в datasheet разных производителей NGFW](https://www.youtube.com/watch?v=Lr5DpVfSW1s&amp;list=PLRAbJA74qU4D-2sTzHLh8fFe4_gtKnOnB&amp;index=42&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [WebDev с нуля. Канал Алекса Лущенко](https://www.youtube.com/@itgid/playlists)
+## [TrueJS](https://www.youtube.com/playlist?list=PLM7wFzahDYnEcQh1G_fxFXBZ4O1tlVsDG)
+### [TrueJS 19. Метод reduce и reduceRight](https://www.youtube.com/watch?v=VMGfVMCdEE4&amp;list=PLM7wFzahDYnEcQh1G_fxFXBZ4O1tlVsDG&amp;index=19&amp;pp=iAQB)

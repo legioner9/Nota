@@ -1,0 +1,5 @@
+### [Верстка сайта с нуля. Svg маска на css. Свойство clip-path | VIMP dev](https://www.youtube.com/watch?v=FzLSHPGisfU&amp;list=PLBfQgL-XzhF09-nveLOiFinvSlz4zpEn4&amp;index=1&amp;pp=iAQB)
+### [Верстка сайта с нуля ч.2. Изогнутый фон на CSS. Свойство pointer-events. | VIMP dev](https://www.youtube.com/watch?v=XhN16moktVc&amp;list=PLBfQgL-XzhF09-nveLOiFinvSlz4zpEn4&amp;index=2&amp;pp=iAQB)
+### [Верстка сайта с нуля ч.3. Адаптивная верстка. Свойство clamp | VIMP dev](https://www.youtube.com/watch?v=rrftlHlomV8&amp;list=PLBfQgL-XzhF09-nveLOiFinvSlz4zpEn4&amp;index=3&amp;pp=iAQB)
+### [Верстка сайта с нуля. ч.4. Множественный фон](https://www.youtube.com/watch?v=rHPHnUG_z2c&amp;list=PLBfQgL-XzhF09-nveLOiFinvSlz4zpEn4&amp;index=4&amp;pp=iAQB)
+### [Верстка сайта с нуля. ч.5. Адаптация и плавная прокрутка](https://www.youtube.com/watch?v=RJrLmmOHDoE&amp;list=PLBfQgL-XzhF09-nveLOiFinvSlz4zpEn4&amp;index=5&amp;pp=iAQB)

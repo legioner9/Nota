@@ -1,0 +1,3 @@
+# [Eugene Suleimanov](https://www.youtube.com/@EugeneSuleimanov/playlists)
+## [Шаблоны  проектирования на языке Java](https://www.youtube.com/playlist?list=PLlsMRoVt5sTPgGbinwOVnaF1mxNeLAD7P)
+### [Шаблоны Java. Proxy (Прокси)](https://www.youtube.com/watch?v=EzDkgArMO3U&amp;list=PLlsMRoVt5sTPgGbinwOVnaF1mxNeLAD7P&amp;index=16&amp;pp=iAQB)

@@ -1,0 +1,2 @@
+### [Жизненный цикл HTTP-запроса [HTTP Basics #1]](https://www.youtube.com/watch?v=8ZKlOD4fRT0&amp;list=PLrmZ-W4yj5ERy756feVGzyyiAYeBIUNtF&amp;index=1&amp;pp=iAQB)
+### [Структура HTTP-запроса и ответа [HTTP Basics #2]](https://www.youtube.com/watch?v=WBYhURKtfSc&amp;list=PLrmZ-W4yj5ERy756feVGzyyiAYeBIUNtF&amp;index=2&amp;pp=iAQB)

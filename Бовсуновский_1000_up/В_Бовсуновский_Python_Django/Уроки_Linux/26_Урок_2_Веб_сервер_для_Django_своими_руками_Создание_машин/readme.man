@@ -1,0 +1,3 @@
+# [В. Бовсуновский Python Django](https://www.youtube.com/@bov/playlists?view=1)
+## [Уроки Linux](https://www.youtube.com/playlist?list=PLuZJ9n46uMzVwOZeH3dfra62lSqIVkmv9)
+### [Урок 2. Веб сервер для Django своими руками. Создание машины на Vbox.](https://www.youtube.com/watch?v=QV__ROyUV4Q&amp;list=PLuZJ9n46uMzVwOZeH3dfra62lSqIVkmv9&amp;index=26&amp;pp=iAQB)

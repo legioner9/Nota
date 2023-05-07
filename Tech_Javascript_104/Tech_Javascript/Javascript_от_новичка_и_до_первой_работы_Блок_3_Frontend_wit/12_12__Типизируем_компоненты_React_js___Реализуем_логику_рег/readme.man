@@ -1,0 +1,3 @@
+# [Tech Javascript](https://www.youtube.com/@techjavascript/playlists)
+## [Javascript от новичка и до первой работы. Блок 3. Frontend with React js](https://www.youtube.com/playlist?list=PLco1IpJXladYKtXL9ppvHEMd8fQsTdCYm)
+### [12  Типизируем компоненты React js   Реализуем логику регистрации в нашем проекте React js](https://www.youtube.com/watch?v=YtVMgO6UYuo&amp;list=PLco1IpJXladYKtXL9ppvHEMd8fQsTdCYm&amp;index=12&amp;pp=iAQB)

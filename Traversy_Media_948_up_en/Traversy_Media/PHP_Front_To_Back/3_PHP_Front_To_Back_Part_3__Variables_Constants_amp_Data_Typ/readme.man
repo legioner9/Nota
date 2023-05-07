@@ -1,0 +1,3 @@
+# [Traversy Media](https://www.youtube.com/@TraversyMedia/playlists)
+## [PHP Front To Back](https://www.youtube.com/playlist?list=PLillGF-Rfqbap2IB6ZS4BBBcYPagAjpjn)
+### [PHP Front To Back [Part 3] - Variables, Constants &amp; Data Types](https://www.youtube.com/watch?v=0Dp7Lt7iT3A&amp;list=PLillGF-Rfqbap2IB6ZS4BBBcYPagAjpjn&amp;index=3&amp;pp=iAQB)

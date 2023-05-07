@@ -1,0 +1,3 @@
+# [Веб-разработка - DevMagazine](https://www.youtube.com/@DevMagazineChannel/playlists)
+## [🐠 React хуки](https://www.youtube.com/playlist?list=PLmfIBo6rTVR50EVDaRz0HuImZ6iLDs40N)
+### [Пишем хук для работы с Web Worker в ReactJS](https://www.youtube.com/watch?v=vxtRIswyO3Y&amp;list=PLmfIBo6rTVR50EVDaRz0HuImZ6iLDs40N&amp;index=4&amp;pp=iAQB)

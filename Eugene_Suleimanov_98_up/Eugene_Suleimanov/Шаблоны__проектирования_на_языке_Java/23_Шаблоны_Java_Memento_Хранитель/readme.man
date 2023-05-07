@@ -1,0 +1,3 @@
+# [Eugene Suleimanov](https://www.youtube.com/@EugeneSuleimanov/playlists)
+## [Шаблоны  проектирования на языке Java](https://www.youtube.com/playlist?list=PLlsMRoVt5sTPgGbinwOVnaF1mxNeLAD7P)
+### [Шаблоны Java. Memento (Хранитель)](https://www.youtube.com/watch?v=nu2CN3r4Jp0&amp;list=PLlsMRoVt5sTPgGbinwOVnaF1mxNeLAD7P&amp;index=23&amp;pp=iAQB)

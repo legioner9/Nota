@@ -1,0 +1,3 @@
+# [okiseleva](https://www.youtube.com/@okiseleva/playlists)
+## [SQL](https://www.youtube.com/playlist?list=PLzy4cPXOwbY6jUGFazbDTzE9dxQGi0eyC)
+### [Select —&nbsp;оператор в SQL-запросе](https://www.youtube.com/watch?v=lQEVUR3kdPc&amp;list=PLzy4cPXOwbY6jUGFazbDTzE9dxQGi0eyC&amp;index=2&amp;pp=iAQB)

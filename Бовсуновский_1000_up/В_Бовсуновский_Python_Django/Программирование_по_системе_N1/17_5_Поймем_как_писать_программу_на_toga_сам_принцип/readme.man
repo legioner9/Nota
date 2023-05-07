@@ -1,0 +1,3 @@
+# [В. Бовсуновский Python Django](https://www.youtube.com/@bov/playlists?view=1)
+## [Программирование по системе N1](https://www.youtube.com/playlist?list=PLuZJ9n46uMzW1oBDysdzhnRVaAF4xdjJd)
+### [5. Поймем, как писать программу на toga, сам принцип.](https://www.youtube.com/watch?v=VQ-O9za3K-0&amp;list=PLuZJ9n46uMzW1oBDysdzhnRVaAF4xdjJd&amp;index=17&amp;pp=iAQB)

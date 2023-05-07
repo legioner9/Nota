@@ -1,3 +1,0 @@
-# [Exploring the IT World / Oleg Shpagin / WISEPLAT](https://www.youtube.com/@wiseplat/playlists)
-## [Делаем мобильное приложение на Python под Android и iOS/Apple iPhone](https://www.youtube.com/playlist?list=PLxiU3nwEQ4PG0ME9ffwT-tq78Vnn7csIc)
-### [Making the interface of a mobile application in Python #7](https://www.youtube.com/watch?v=D9fNtcq7eXc&amp;list=PLxiU3nwEQ4PG0ME9ffwT-tq78Vnn7csIc&amp;index=10)

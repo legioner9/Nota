@@ -1,0 +1,3 @@
+# [Timur Shemsedinov](https://www.youtube.com/@TimurShemsedinov/playlists?view=1)
+## [Функциональное программирование с примерами на JavaScript и Node.js](https://www.youtube.com/playlist?list=PLHhi8ymDMrQZGa7hYnwBQufg9XXoJr5LP)
+### [Примеси, обертки, декораторы, мемоизация](https://www.youtube.com/watch?v=2h9syXN5wO0&amp;list=PLHhi8ymDMrQZGa7hYnwBQufg9XXoJr5LP&amp;index=12&amp;pp=iAQB)

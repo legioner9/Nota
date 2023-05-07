@@ -1,0 +1,3 @@
+# [Kamil Abzalov](https://www.youtube.com/@Kamil-abzalovRu/playlists)
+## [Создание простого php mvc приложения](https://www.youtube.com/playlist?list=PLOpdT8GIZ4XU12DJ6RzN07CHIN0vDe2fl)
+### [Lesson 98. Create php mvc app. Routing refactoring](https://www.youtube.com/watch?v=I1psSX6tdus&amp;list=PLOpdT8GIZ4XU12DJ6RzN07CHIN0vDe2fl&amp;index=8&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [C++ User Group](https://www.youtube.com/@CUserGroupRussia/playlists)
+## [C++ Siberia 2015](https://www.youtube.com/playlist?list=PLZN9ZGiWZoZooPvBI2c42jSCSPOa8tHcn)
+### [Антон Бикинеев, HPX: C++11 runtime система для параллельных и распределённых вычислений](https://www.youtube.com/watch?v=wM7kAYug7EQ&amp;list=PLZN9ZGiWZoZooPvBI2c42jSCSPOa8tHcn&amp;index=6&amp;pp=iAQB)

@@ -1,3 +1,0 @@
-# [Exploring the IT World / Oleg Shpagin / WISEPLAT](https://www.youtube.com/@wiseplat/playlists)
-## [Искусственный интеллект на Python](https://www.youtube.com/playlist?list=PLxiU3nwEQ4PFp9tZnpqu2kNEkuphRzdW0)
-### [Уроки Python / Установка модуля Pillow для работы с изображениями](https://www.youtube.com/watch?v=wVcrieOv-Yw&amp;list=PLxiU3nwEQ4PFp9tZnpqu2kNEkuphRzdW0&amp;index=14)

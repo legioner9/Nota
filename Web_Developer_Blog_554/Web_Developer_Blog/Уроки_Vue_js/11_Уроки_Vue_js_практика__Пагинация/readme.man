@@ -1,0 +1,3 @@
+# [Web Developer Blog](https://www.youtube.com/@SuprunAlexey/playlists)
+## [Уроки Vue js](https://www.youtube.com/playlist?list=PLVfMKQXDAhGWFP61AzOs_PowY7OAaFRHU)
+### [Уроки Vue js практика - Пагинация](https://www.youtube.com/watch?v=hpJd2Cn7m3M&amp;list=PLVfMKQXDAhGWFP61AzOs_PowY7OAaFRHU&amp;index=11&amp;pp=iAQB)

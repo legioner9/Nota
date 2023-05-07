@@ -1,0 +1,3 @@
+# [WebDev с нуля. Канал Алекса Лущенко](https://www.youtube.com/@itgid/playlists)
+## [JavaScript](https://www.youtube.com/playlist?list=PLM7wFzahDYnFgidfuPh_-XAv06YDwQVBs)
+### [Закладка в JavaScript коде. Прячем информацию и выводим по кодовому слову](https://www.youtube.com/watch?v=_WXyOUqT4CM&amp;list=PLM7wFzahDYnFgidfuPh_-XAv06YDwQVBs&amp;index=65&amp;pp=iAQB)

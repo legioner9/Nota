@@ -1,0 +1,3 @@
+# [ZennoLab](https://www.youtube.com/@ZennoLabcom/playlists)
+## [Видео наших пользователей](https://www.youtube.com/playlist?list=PLU9NTYia8FliRzskVqM5SnRUEhO0lAY7k)
+### [.NET MAUI - создаём свой собственный ZennoPoster и кнопку &quot;Бабло&quot;](https://www.youtube.com/watch?v=z8Kz6CHVDnI&amp;list=PLU9NTYia8FliRzskVqM5SnRUEhO0lAY7k&amp;index=76&amp;pp=iAQB)

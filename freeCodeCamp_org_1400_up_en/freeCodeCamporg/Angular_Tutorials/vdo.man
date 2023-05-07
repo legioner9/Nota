@@ -1,0 +1,8 @@
+### [Learn Angular - Full Tutorial Course](https://www.youtube.com/watch?v=2OHbjep_WjQ&amp;list=PLWKjhJtqVAblNvGKk6aQVPAJHxrRXxHTs&amp;index=1&amp;pp=iAQB)
+### [MEAN Stack CRUD Operations - Beginners Tutorial](https://www.youtube.com/watch?v=fhRdqbEXp9Y&amp;list=PLWKjhJtqVAblNvGKk6aQVPAJHxrRXxHTs&amp;index=2&amp;pp=iAQB)
+### [Intro to Angular 5 Tutorial](https://www.youtube.com/watch?v=GbivbPy00FU&amp;list=PLWKjhJtqVAblNvGKk6aQVPAJHxrRXxHTs&amp;index=3&amp;pp=iAQB)
+### [Angular 4 Project Setup with Webpack](https://www.youtube.com/watch?v=7b-1qWvQdqY&amp;list=PLWKjhJtqVAblNvGKk6aQVPAJHxrRXxHTs&amp;index=4&amp;pp=iAQB)
+### [AngularJS tutorial: Game of Life](https://www.youtube.com/watch?v=8X_Nmmvobb0&amp;list=PLWKjhJtqVAblNvGKk6aQVPAJHxrRXxHTs&amp;index=5&amp;pp=iAQB)
+### [Todo List Tutorial - Angular 4 and Redux](https://www.youtube.com/watch?v=Qd_V5hpYk_A&amp;list=PLWKjhJtqVAblNvGKk6aQVPAJHxrRXxHTs&amp;index=6&amp;pp=iAQB)
+### [AngularJS tutorial: recipe box](https://www.youtube.com/watch?v=P8BtVISDdt8&amp;list=PLWKjhJtqVAblNvGKk6aQVPAJHxrRXxHTs&amp;index=7&amp;pp=iAQB)
+### [Learn Angular Material - Full Tutorial](https://www.youtube.com/watch?v=jUfEn032IL8&amp;list=PLWKjhJtqVAblNvGKk6aQVPAJHxrRXxHTs&amp;index=8&amp;pp=iAQB)

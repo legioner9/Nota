@@ -1,0 +1,8 @@
+### [Функциональное программирование в Delphi](https://www.youtube.com/watch?v=Z1zxLaQiehk&amp;list=PLkHuy0rsti_hwQkwvbC40A_xgtXYy5v8l&amp;index=1&amp;pp=iAQB)
+### [Азы Lisp](https://www.youtube.com/watch?v=W8ejSZlkQIk&amp;list=PLkHuy0rsti_hwQkwvbC40A_xgtXYy5v8l&amp;index=2&amp;pp=iAQB)
+### [Решение задач на языке LISP (раскраска плоской карты)](https://www.youtube.com/watch?v=NjHVeLBKKs4&amp;list=PLkHuy0rsti_hwQkwvbC40A_xgtXYy5v8l&amp;index=3&amp;pp=iAQB)
+### [Принципы решения логических задач на языке PROLOG](https://www.youtube.com/watch?v=8vFcNNeglXM&amp;list=PLkHuy0rsti_hwQkwvbC40A_xgtXYy5v8l&amp;index=4&amp;pp=iAQB)
+### [Решение задач на языке PROLOG (раскраска плоской карты)](https://www.youtube.com/watch?v=6KgvU1Evr78&amp;list=PLkHuy0rsti_hwQkwvbC40A_xgtXYy5v8l&amp;index=5&amp;pp=iAQB)
+### [Функциональное программирование в Delphi](https://www.youtube.com/watch?v=Ib-SW9qShZ4&amp;list=PLkHuy0rsti_hwQkwvbC40A_xgtXYy5v8l&amp;index=6&amp;pp=iAQB)
+### [Работа с LISP из программы на Delphi](https://www.youtube.com/watch?v=4vE2B2Cn7wA&amp;list=PLkHuy0rsti_hwQkwvbC40A_xgtXYy5v8l&amp;index=7&amp;pp=iAQB)
+### [LISP. Раскраска плоской карты / вершин графа: функциональный и процедурный подход](https://www.youtube.com/watch?v=YzxygoRlUic&amp;list=PLkHuy0rsti_hwQkwvbC40A_xgtXYy5v8l&amp;index=8&amp;pp=iAQB)

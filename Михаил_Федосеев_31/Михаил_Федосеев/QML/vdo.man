@@ -1,0 +1,2 @@
+### [Эпизод 1. Знакомство с проектом QML по умолчанию.](https://www.youtube.com/watch?v=w8qSB3iqifE&amp;list=PLYQhNajy-JUGESLZkUIdgpiZLX6UR9n9O&amp;index=1&amp;pp=iAQB)
+### [Эпизод 3. Действия над интерфейсом. Элемент MouseArea.](https://www.youtube.com/watch?v=jpMNDv09rK4&amp;list=PLYQhNajy-JUGESLZkUIdgpiZLX6UR9n9O&amp;index=2&amp;pp=iAQB)

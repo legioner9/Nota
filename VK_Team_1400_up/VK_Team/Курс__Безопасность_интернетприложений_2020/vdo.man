@@ -1,0 +1,5 @@
+### [Безопасность интернет-приложений #1 / Риски и угрозы [Технострим]](https://www.youtube.com/watch?v=c9k3WUdDMpo&amp;list=PLrCZzMib1e9oopXP4-aumUxkbz_56Czon&amp;index=1&amp;pp=iAQB)
+### [Безопасность интернет-приложений #2 / Риски и угрозы [Технострим]](https://www.youtube.com/watch?v=0zIgTtXkMWk&amp;list=PLrCZzMib1e9oopXP4-aumUxkbz_56Czon&amp;index=2&amp;pp=iAQB)
+### [Безопасность интернет-приложений #3 / Семинар [Технострим]](https://www.youtube.com/watch?v=8I9fDF-r0E0&amp;list=PLrCZzMib1e9oopXP4-aumUxkbz_56Czon&amp;index=3&amp;pp=iAQB)
+### [Безопасность интернет-приложений #4 / Криптографические средства [Технострим]](https://www.youtube.com/watch?v=B8ID_t7q4Uc&amp;list=PLrCZzMib1e9oopXP4-aumUxkbz_56Czon&amp;index=4&amp;pp=iAQB)
+### [Безопасность интернет-приложений #5 / Моделирование угроз. SDLC [Технострим]](https://www.youtube.com/watch?v=Rq_eAWbCqUc&amp;list=PLrCZzMib1e9oopXP4-aumUxkbz_56Czon&amp;index=5&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+### [Windows   храним пароли в скриптах безопасно](https://www.youtube.com/watch?v=MMHUC7P_bPA&amp;list=PLTuGAOACdyjXgreFfiI3iV4au9nfASV_1&amp;index=1&amp;pp=iAQB)
+### [PostgreSQL - Блокировка при неудачных попытках входа Fail2ban](https://www.youtube.com/watch?v=lfm_tE1DC2g&amp;list=PLTuGAOACdyjXgreFfiI3iV4au9nfASV_1&amp;index=2&amp;pp=iAQB)
+### [Храним seed phrase в игре SeedQuest](https://www.youtube.com/watch?v=zxmB9L4OfwY&amp;list=PLTuGAOACdyjXgreFfiI3iV4au9nfASV_1&amp;index=3&amp;pp=iAQB)

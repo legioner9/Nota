@@ -1,0 +1,3 @@
+# [Coding Tech](https://www.youtube.com/@CodingTech/playlists)
+## [NodeJS](https://www.youtube.com/playlist?list=PLFjq8z-aGyQ46ZLj2hCPsnRmXS78PTcgg)
+### [Post-Mortem NodeJS Debugging || Thomas Watson](https://www.youtube.com/watch?v=r1WsosD1ZsU&amp;list=PLFjq8z-aGyQ46ZLj2hCPsnRmXS78PTcgg&amp;index=10&amp;pp=iAQB)

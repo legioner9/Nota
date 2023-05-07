@@ -1,0 +1,3 @@
+# [Студия Флаг](https://www.youtube.com/@FlagStudio/playlists)
+## [LaraКурс. Практические уроки](https://www.youtube.com/playlist?list=PLVdcV6tHcaCFyJmZHFmXeKu95wPCSskrb)
+### [LaraКурс #2. Возможности раутинга в Laravel](https://www.youtube.com/watch?v=-BkXG29xt2k&amp;list=PLVdcV6tHcaCFyJmZHFmXeKu95wPCSskrb&amp;index=2&amp;pp=iAQB)

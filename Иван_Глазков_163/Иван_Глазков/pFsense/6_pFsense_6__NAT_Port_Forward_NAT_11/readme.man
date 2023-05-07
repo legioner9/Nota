@@ -1,0 +1,3 @@
+# [Иван Глазков](https://www.youtube.com/@vanohaker/playlists)
+## [pFsense](https://www.youtube.com/playlist?list=PL2BaVmpX7hX8fJtOkTD7M_pUHryQzVl8v)
+### [pFsense #6 - NAT Port Forward, NAT 1:1](https://www.youtube.com/watch?v=4C4XPvrvOIc&amp;list=PL2BaVmpX7hX8fJtOkTD7M_pUHryQzVl8v&amp;index=6&amp;pp=iAQB)

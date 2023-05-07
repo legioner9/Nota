@@ -1,0 +1,3 @@
+# [Vyacheslav Chirkov - Programmer](https://www.youtube.com/@vcpro/playlists)
+## [assembler (уроки, обучение)](https://www.youtube.com/playlist?list=PLEjhu-KP5eiARTIYLKesV03RG2CKHWg5I)
+### [Nasm ввод и вывод текста на экран input output assembler 13 урок](https://www.youtube.com/watch?v=LXiud0Rs2pQ&amp;list=PLEjhu-KP5eiARTIYLKesV03RG2CKHWg5I&amp;index=19&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [В. Бовсуновский Python Django](https://www.youtube.com/@bov/playlists?view=1)
+## [Python c нуля.](https://www.youtube.com/playlist?list=PLuZJ9n46uMzWIxKMcWI8ksJ6ST86fv0aq)
+### [Быстрая трансформация в профессионального программиста  Python Django с любого уровня.](https://www.youtube.com/watch?v=4Q7JH2RYmF8&amp;list=PLuZJ9n46uMzWIxKMcWI8ksJ6ST86fv0aq&amp;index=11&amp;pp=iAQB)

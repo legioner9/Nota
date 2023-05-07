@@ -1,0 +1,1 @@
+### [Обновление реального проекта на Symfony(с 3.4 на 5.2). Symfony upgrade](https://www.youtube.com/watch?v=1lR2TFAGnKQ&amp;list=PLTucyHptHtTk8OD7zsvdXVfNgdSjZbL-M&amp;index=1&amp;pp=iAQB)

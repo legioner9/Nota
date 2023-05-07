@@ -1,3 +1,0 @@
-# [Exploring the IT World / Oleg Shpagin / WISEPLAT](https://www.youtube.com/@wiseplat/playlists)
-## [Уроки Django для начинающих](https://www.youtube.com/playlist?list=PLxiU3nwEQ4PEqj5l0rsKMJ_WPbr_Xrj87)
-### [Как создать сайт на Django на хостинге / Уроки Django](https://www.youtube.com/watch?v=n8If3gqWztM&amp;list=PLxiU3nwEQ4PEqj5l0rsKMJ_WPbr_Xrj87&amp;index=4)

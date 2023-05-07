@@ -1,0 +1,3 @@
+# [Denis Gorelov](https://www.youtube.com/@denisgorelov3236/playlists)
+## [JavaScript и Jquery / Практические уроки](https://www.youtube.com/playlist?list=PL8pp2EAvIK-LkkQwz_oR-SQTUuAR4kNhg)
+### [Аккордеон вкладки (табы) на jQuery](https://www.youtube.com/watch?v=RIKFFcQaOro&amp;list=PL8pp2EAvIK-LkkQwz_oR-SQTUuAR4kNhg&amp;index=5&amp;pp=iAQB)

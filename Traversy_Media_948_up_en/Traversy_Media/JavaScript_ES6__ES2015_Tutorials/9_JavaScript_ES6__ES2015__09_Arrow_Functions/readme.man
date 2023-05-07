@@ -1,0 +1,3 @@
+# [Traversy Media](https://www.youtube.com/@TraversyMedia/playlists)
+## [JavaScript ES6 / ES2015 Tutorials](https://www.youtube.com/playlist?list=PLillGF-RfqbZ7s3t6ZInY3NjEOOX7hsBv)
+### [JavaScript ES6 / ES2015 - [09] Arrow Functions](https://www.youtube.com/watch?v=u4URamXstM0&amp;list=PLillGF-RfqbZ7s3t6ZInY3NjEOOX7hsBv&amp;index=9&amp;pp=iAQB)

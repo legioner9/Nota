@@ -1,0 +1,3 @@
+# [Просто о Laravel. CutCode](https://www.youtube.com/@CutCodeRu/playlists)
+## [Курсы от CutCode](https://www.youtube.com/playlist?list=PLTucyHptHtTknpi2Hg2PAZUctEAU2gP8n)
+### [Курс по Laravel+inertia+vue. Урок 6. Аутентификация](https://www.youtube.com/watch?v=o_RqvflmCYY&amp;list=PLTucyHptHtTknpi2Hg2PAZUctEAU2gP8n&amp;index=13&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [freeCodeCamp.org](https://www.youtube.com/@freecodecamp/playlists)
+## [React Project 5 - Live Coding with Jesse](https://www.youtube.com/playlist?list=PLWKjhJtqVAbkOoQw0jDWn-pzN3nFVjhbH)
+### [Live Search with React and the WordPress API (P5D39) - Live Coding with Jesse](https://www.youtube.com/watch?v=gq1HbnyUTkE&amp;list=PLWKjhJtqVAbkOoQw0jDWn-pzN3nFVjhbH&amp;index=41&amp;pp=iAQB)

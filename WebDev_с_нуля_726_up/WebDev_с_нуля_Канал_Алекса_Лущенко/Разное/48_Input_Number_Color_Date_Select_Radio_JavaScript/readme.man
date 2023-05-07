@@ -1,0 +1,3 @@
+# [WebDev с нуля. Канал Алекса Лущенко](https://www.youtube.com/@itgid/playlists)
+## [Разное](https://www.youtube.com/playlist?list=PLM7wFzahDYnFHL9iXtfpFHU_HAlt9UBgb)
+### [Input, Number, Color, Date, Select, Radio JavaScript](https://www.youtube.com/watch?v=Rq4Wo7Xn8Wc&amp;list=PLM7wFzahDYnFHL9iXtfpFHU_HAlt9UBgb&amp;index=48&amp;pp=iAQB)

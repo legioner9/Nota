@@ -1,3 +1,0 @@
-# [Exploring the IT World / Oleg Shpagin / WISEPLAT](https://www.youtube.com/@wiseplat/playlists)
-## [Уроки по Python для детей 10+](https://www.youtube.com/playlist?list=PLxiU3nwEQ4PE7AYceUE6gZrsylpfRxTvm)
-### [Уроки Python / Экспорт Canvas в JPG, PNG (tkinter)](https://www.youtube.com/watch?v=R4bu1R2LE8k&amp;list=PLxiU3nwEQ4PE7AYceUE6gZrsylpfRxTvm&amp;index=20)

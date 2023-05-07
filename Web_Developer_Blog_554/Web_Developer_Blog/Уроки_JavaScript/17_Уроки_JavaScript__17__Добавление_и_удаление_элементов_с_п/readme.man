@@ -1,0 +1,3 @@
+# [Web Developer Blog](https://www.youtube.com/@SuprunAlexey/playlists)
+## [Уроки JavaScript](https://www.youtube.com/playlist?list=PLVfMKQXDAhGUaEtJ_fOUz0F7TJtidE7Qw)
+### [Уроки JavaScript | #17 - Добавление и удаление элементов с помощью DOM](https://www.youtube.com/watch?v=2wOJFMZvvYM&amp;list=PLVfMKQXDAhGUaEtJ_fOUz0F7TJtidE7Qw&amp;index=17&amp;pp=iAQB)

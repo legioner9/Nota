@@ -1,0 +1,3 @@
+# [C++ User Group](https://www.youtube.com/@CUserGroupRussia/playlists)
+## [C++ Siberia 2020](https://www.youtube.com/playlist?list=PLZN9ZGiWZoZpMJgDtlfMN6CUmL4ysT4G1)
+### [C++ Siberia 2020: Александр Боргардт - Конкурентность в современных web-service](https://www.youtube.com/watch?v=Ofjx5pv3bo4&amp;list=PLZN9ZGiWZoZpMJgDtlfMN6CUmL4ysT4G1&amp;index=8&amp;pp=iAQB)

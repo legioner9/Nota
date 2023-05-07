@@ -1,0 +1,3 @@
+# [В. Бовсуновский Python Django](https://www.youtube.com/@bov/playlists?view=1)
+## [DjangoCMS](https://www.youtube.com/playlist?list=PLuZJ9n46uMzWXqR2IxasBA3ncWHWmK4mf)
+### [Установка DjangoCMS в Windows. Запуск в PyCharm.](https://www.youtube.com/watch?v=s2nY9oEakYA&amp;list=PLuZJ9n46uMzWXqR2IxasBA3ncWHWmK4mf&amp;index=1&amp;pp=iAQB)

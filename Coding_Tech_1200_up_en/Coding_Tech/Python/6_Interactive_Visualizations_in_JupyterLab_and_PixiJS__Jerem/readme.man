@@ -1,0 +1,3 @@
+# [Coding Tech](https://www.youtube.com/@CodingTech/playlists)
+## [Python](https://www.youtube.com/playlist?list=PLFjq8z-aGyQ4Y3mSWGBptr7SArEsfdWQA)
+### [Interactive Visualizations in JupyterLab and PixiJS || Jeremy Tuloup](https://www.youtube.com/watch?v=B5_7ps-JdxY&amp;list=PLFjq8z-aGyQ4Y3mSWGBptr7SArEsfdWQA&amp;index=6&amp;pp=iAQB)

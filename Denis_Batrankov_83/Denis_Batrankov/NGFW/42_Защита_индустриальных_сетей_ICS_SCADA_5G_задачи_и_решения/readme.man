@@ -1,0 +1,3 @@
+# [Denis Batrankov](https://www.youtube.com/@BDVSecurity/playlists)
+## [NGFW](https://www.youtube.com/playlist?list=PLRAbJA74qU4BwrOpBkq3GWaq9lnwAWp5i)
+### [Защита индустриальных сетей ICS, SCADA, 5G: задачи и решения. Вебинар №8](https://www.youtube.com/watch?v=7jKaGZb4U5U&amp;list=PLRAbJA74qU4BwrOpBkq3GWaq9lnwAWp5i&amp;index=42&amp;pp=iAQB)

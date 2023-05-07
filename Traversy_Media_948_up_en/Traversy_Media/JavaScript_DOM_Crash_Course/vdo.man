@@ -1,0 +1,4 @@
+### [JavaScript DOM Crash Course - Part 1](https://www.youtube.com/watch?v=0ik6X4DJKCc&amp;list=PLillGF-RfqbYE6Ik_EuXA2iZFcE082B3s&amp;index=1&amp;pp=iAQB)
+### [JavaScript DOM Crash Course - Part 2](https://www.youtube.com/watch?v=mPd2aJXCZ2g&amp;list=PLillGF-RfqbYE6Ik_EuXA2iZFcE082B3s&amp;index=2&amp;pp=iAQB)
+### [JavaScript DOM Crash Course - Part 3](https://www.youtube.com/watch?v=wK2cBMcDTss&amp;list=PLillGF-RfqbYE6Ik_EuXA2iZFcE082B3s&amp;index=3&amp;pp=iAQB)
+### [JavaScript DOM Crash Course - Part 4 [Final Project]](https://www.youtube.com/watch?v=i37KVt_IcXw&amp;list=PLillGF-RfqbYE6Ik_EuXA2iZFcE082B3s&amp;index=4&amp;pp=iAQB)

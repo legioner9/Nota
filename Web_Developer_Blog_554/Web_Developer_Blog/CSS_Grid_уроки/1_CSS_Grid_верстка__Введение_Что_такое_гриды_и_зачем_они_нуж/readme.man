@@ -1,0 +1,3 @@
+# [Web Developer Blog](https://www.youtube.com/@SuprunAlexey/playlists)
+## [CSS Grid уроки](https://www.youtube.com/playlist?list=PLVfMKQXDAhGVZdDQA_rMkoGvJTdvYqCjA)
+### [CSS Grid верстка - Введение. Что такое гриды и зачем они нужны.](https://www.youtube.com/watch?v=IPZbSM-Wpos&amp;list=PLVfMKQXDAhGVZdDQA_rMkoGvJTdvYqCjA&amp;index=1&amp;pp=iAQB)

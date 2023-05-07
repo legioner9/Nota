@@ -1,0 +1,3 @@
+# [Просто о Laravel. CutCode](https://www.youtube.com/@CutCodeRu/playlists)
+## [Полезное видео](https://www.youtube.com/playlist?list=PLTucyHptHtTmq4HFKZVmwwzcac2kgfaEZ)
+### [Laravel Component menu. Active menu item - creating a dynamic menu](https://www.youtube.com/watch?v=D2eS3QqLSk0&amp;list=PLTucyHptHtTmq4HFKZVmwwzcac2kgfaEZ&amp;index=6&amp;pp=iAQB)

@@ -1,0 +1,784 @@
+ 23.04.2023 13:16:51 done Обзор PoE-аккумулятора AccelTex The Accelerator Site Survey Battery Pack V2
+ 23.04.2023 13:16:52 done AccelTex
+ 23.04.2023 13:17:21 done Обзор точки доступа Zyxel NebulaFlex WAX510D
+ 23.04.2023 13:17:24 done Обзор точки доступа Zyxel Nebula NWA1123ACv3
+ 23.04.2023 13:17:24 done Zyxel Nebula
+ 23.04.2023 13:17:55 done Обзор точки доступа Zyxel NebulaFlex WAX510D
+ 23.04.2023 13:17:57 done Обзор точки доступа Zyxel Nebula NWA1123ACv3
+ 23.04.2023 13:17:58 done Zyxel
+ 23.04.2023 13:18:29 done Тестирование бесшовного роуминга беспроводных клиентов на точках доступа TP-Link Omada EAP230-Wall
+ 23.04.2023 13:18:32 done Тест: насколько Ubiquiti UniFi AC LR AP на самом деле Long Range
+ 23.04.2023 13:18:32 done Тест-драйв
+ 23.04.2023 13:19:03 done Обзор mesh-системы TP-LINK Deco P9 3-pack
+ 23.04.2023 13:19:03 done TP-LINK Deco
+ 23.04.2023 13:19:34 done Мини-ликбез: почему реальная скорость WiFi ниже заявленной в характеристиках точки доступа / роутера
+ 23.04.2023 13:19:36 done Предиктивное радиопланирование: что, зачем, на чем, почем?
+ 23.04.2023 13:19:39 done Мини-ликбез: &quot;бесшовный&quot; роуминг клиентов Wi-Fi
+ 23.04.2023 13:19:41 done Мини-ликбез: почему (почти) всегда следует снижать мощность передатчика в точках доступа Wi-Fi
+ 23.04.2023 13:19:41 done Мини-ликбез
+ 23.04.2023 13:20:13 done В двух словах: Wi-Fi 6 (802.11ax)
+ 23.04.2023 13:20:15 done В двух словах: как покрыть большую площадь WiFi и почему для этого нельзя использовать одну AP
+ 23.04.2023 13:20:17 done В двух словах: Wi-Fi 6E
+ 23.04.2023 13:20:18 done В двух словах
+ 23.04.2023 13:20:48 done Обзор: IP-камера Ubiquiti UniFi Video Camera G3 Bullet
+ 23.04.2023 13:20:49 done UniFi Protect
+ 23.04.2023 13:21:20 done VLOG: собираем интерактивную панель Clevertouch 75&quot; Plus на мобильной стойке
+ 23.04.2023 13:21:20 done Clevertouch
+ 23.04.2023 13:21:51 done VLOG: собираем интерактивную панель Clevertouch 75&quot; Plus на мобильной стойке
+ 23.04.2023 13:21:51 done VLOG
+ 23.04.2023 13:22:21 done How-to: Обновление прошивки на точках доступа Ubiquiti UniFi через интерфейс командной строки
+ 23.04.2023 13:22:22 done Troubleshooting
+ 23.04.2023 13:22:52 done Обзор: микросотовая система IP-DECT Gigaset N870IP Pro, DECT-трубки S650H Pro, R650H Pro, SL750H Pro
+ 23.04.2023 13:22:53 done IP-DECT
+ 23.04.2023 13:23:23 done Обзор: микросотовая система IP-DECT Gigaset N870IP Pro, DECT-трубки S650H Pro, R650H Pro, SL750H Pro
+ 23.04.2023 13:23:24 done Gigaset
+ 23.04.2023 13:23:54 done Обзор: микросотовая система IP-DECT Gigaset N870IP Pro, DECT-трубки S650H Pro, R650H Pro, SL750H Pro
+ 23.04.2023 13:23:56 done Обзор оборудования для колл-центров компании VT
+ 23.04.2023 13:23:57 done Телефония
+ 23.04.2023 13:24:27 done Обзор экосистемы Ubiquiti UniFi: плюсы и минусы
+ 23.04.2023 13:24:29 done Обзор решений Ruckus Wireless: плюсы и минусы
+ 23.04.2023 13:24:30 done Мнение без прикрас
+ 23.04.2023 13:25:00 done Обзор: LTE-маршрутизатор Mikrotik SXT LTE kit
+ 23.04.2023 13:25:02 done Обзор: LTE-маршрутизатор Mikrotik LHG LTE kit (RBLHGR&amp;R11e-LTE)
+ 23.04.2023 13:25:05 done Обзор: маршрутизатор Mikrotik Audience LTE6 kit
+ 23.04.2023 13:25:07 done Обзор LTE-маршрутизатора Mikrotik SXT LTE6 kit
+ 23.04.2023 13:25:07 done 3G/4G/5G
+ 23.04.2023 13:25:38 done Обзор: Точки доступа TP-LINK серии Omada - EAP225 v3, EAP245 v3 и EAP225-Outdoor
+ 23.04.2023 13:25:40 done Обзор: WiFi-контроллер TP-LINK Omada Controller OC200
+ 23.04.2023 13:25:42 done Обзор: Точка доступа TP-LINK Omada EAP115 v4
+ 23.04.2023 13:25:45 done How-to: Монтаж точек доступа TP-LINK Omada
+ 23.04.2023 13:25:47 done Настройка WiFi-контроллера TP-LINK Omada Controller OC200
+ 23.04.2023 13:25:49 done Тест роуминга беспроводных клиентов в сети TP-LINK Omada
+ 23.04.2023 13:25:51 done Review: access point TP-LINK Omada EAP225-Wall
+ 23.04.2023 13:25:54 done Анонс новых продуктов TP-LINK: расширение линейки Omada, новые точки доступа WiFi
+ 23.04.2023 13:25:56 done Обзор точки доступа TP-Link Omada EAP230-Wall
+ 23.04.2023 13:25:58 done Тестирование бесшовного роуминга беспроводных клиентов на точках доступа TP-Link Omada EAP230-Wall
+ 23.04.2023 13:26:01 done Обзор точки доступа TP-Link Omada EAP265 HD
+ 23.04.2023 13:26:03 done Обзор маршрутизатора TP-Link Omada TL-R605
+ 23.04.2023 13:26:05 done Обзор точки доступа TP-Link Omada EAP235-Wall
+ 23.04.2023 13:26:07 done Обзор экосистемы TP Link Omada: плюсы и минусы
+ 23.04.2023 13:26:08 done TP-LINK OMADA
+ 23.04.2023 13:26:38 done Мини-обзор: IP-видеорегистратор Hikvision DS-7716NI-K4/16P
+ 23.04.2023 13:26:38 done Hikvision
+ 23.04.2023 13:27:10 done Обзор маршрутизатора MikroTik hAP ac²
+ 23.04.2023 13:27:12 done Обзор точки доступа Mikrotik cAP ac
+ 23.04.2023 13:27:15 done Обзор: Точка доступа Mikrotik cAP lite
+ 23.04.2023 13:27:17 done Обзор: Точка доступа Ubiquiti UniFi nanoHD AP + Ubiquiti nanoHD Black Skin Cover
+ 23.04.2023 13:27:19 done Обзор: Межсетевой экран Fortinet FortiGate 60E
+ 23.04.2023 13:27:22 done Обзор: Точка доступа Ruckus ZoneFlex R610
+ 23.04.2023 13:27:24 done Обзор: Точки доступа TP-LINK серии Omada - EAP225 v3, EAP245 v3 и EAP225-Outdoor
+ 23.04.2023 13:27:26 done Обзор: WiFi-контроллер TP-LINK Omada Controller OC200
+ 23.04.2023 13:27:29 done Обзор: Точка доступа TP-LINK Omada EAP115 v4
+ 23.04.2023 13:27:31 done Обзор: Контроллер WiFi Ubiquiti UniFi Cloud Key Gen2 Plus
+ 23.04.2023 13:27:33 done Настройка WiFi-контроллера Ubiquiti UniFi Cloud Key Gen2 Plus
+ 23.04.2023 13:27:36 done Review: Router Mikrotik hEX (RB750Gr3)
+ 23.04.2023 13:27:38 done Обзор: маршрутизаторы Mikrotik RB4011iGS+RM и RB4011iGS+5HacQ2HnD-IN
+ 23.04.2023 13:27:40 done Review: access point TP-LINK Omada EAP225-Wall
+ 23.04.2023 13:27:42 done Обзор: LTE-маршрутизатор Mikrotik SXT LTE kit
+ 23.04.2023 13:27:45 done Обзор: Ubiquiti UniFi Cloud Key Gen2 и Ubiquiti Cloud Key Gen2 Rackmount Accessory
+ 23.04.2023 13:27:47 done Обзор: Ubiquiti UniFi Security Gateway (USG)
+ 23.04.2023 13:27:49 done Обзор: WiFi-система Ubiquiti AmpliFi Gamer's Edition (AFi-G)
+ 23.04.2023 13:27:52 done Обзор: LTE-маршрутизатор Mikrotik LHG LTE kit (RBLHGR&amp;R11e-LTE)
+ 23.04.2023 13:27:54 done Обзор: точка доступа Ubiquiti UniFi AC PRO AP (UAP-AC-PRO)
+ 23.04.2023 13:27:57 done Обзор: микросотовая система IP-DECT Gigaset N870IP Pro, DECT-трубки S650H Pro, R650H Pro, SL750H Pro
+ 23.04.2023 13:27:59 done Обзор: точка доступа Cambium cnPilot E410
+ 23.04.2023 13:28:01 done Обзор: IP-камера Ubiquiti UniFi Video Camera G3 Bullet
+ 23.04.2023 13:28:04 done Обзор: роутер Ubiquiti AmpliFi Router HD
+ 23.04.2023 13:28:06 done Обзор: точка доступа Ubiquiti NanoStation 5AC Loco
+ 23.04.2023 13:28:08 done Обзор: точка доступа Cambium cnPilot E600
+ 23.04.2023 13:28:11 done Обзор: роутер Mikrotik hAP lite (RB941-2nD)
+ 23.04.2023 13:28:13 done Обзор: сервер Ubiquiti UniFi Dream Machine (UDM)
+ 23.04.2023 13:28:15 done Обзор: сервер Ubiquiti UniFi Dream Machine (UDM)
+ 23.04.2023 13:28:18 done Обзор: маршрутизатор Mikrotik Audience LTE6 kit
+ 23.04.2023 13:28:20 done Обзор: маршрутизатор Mikrotik Audience LTE6 kit
+ 23.04.2023 13:28:22 done Обзор LTE-маршрутизатора Mikrotik SXT LTE6 kit
+ 23.04.2023 13:28:24 done Обзор LTE-маршрутизатора Mikrotik SXT LTE6 kit
+ 23.04.2023 13:28:27 done Обзор mesh-системы TP-LINK Deco P9 3-pack
+ 23.04.2023 13:28:29 done Обзор mesh-системы TP-LINK Deco P9 3-pack
+ 23.04.2023 13:28:31 done Обзор экосистемы Mikrotik: плюсы и минусы
+ 23.04.2023 13:28:34 done Обзор WiFi-роутера MikroTik hAP ac² (ремейк, 2020 г.)
+ 23.04.2023 13:28:36 done Обзор WiFi-роутера TP-LINK Archer C6
+ 23.04.2023 13:28:38 done Обзор WiFi-роутера TP-Link Archer AX6000
+ 23.04.2023 13:28:41 done Обзор точки доступа TP-Link Omada EAP230-Wall
+ 23.04.2023 13:28:43 done Обзор точки доступа Zyxel Nebula NWA1123ACv3
+ 23.04.2023 13:28:46 done Обзор WiFi-маршрутизатора Mikrotik hAP ac³
+ 23.04.2023 13:28:48 done Обзор экосистемы TP Link Omada: плюсы и минусы
+ 23.04.2023 13:28:50 done Обзор точки доступа Ubiquiti UniFi 6 Long Range Access Point (U6-LR)
+ 23.04.2023 13:28:52 done Обзор PoE-аккумулятора AccelTex The Accelerator Site Survey Battery Pack V2
+ 23.04.2023 13:28:53 done Обзоры
+ 23.04.2023 13:29:24 done Мини-обзор: Межсетевой экран Fortinet FortiGate 60E
+ 23.04.2023 13:29:26 done Обзор: Межсетевой экран Fortinet FortiGate 60E
+ 23.04.2023 13:29:27 done Fortinet
+ 23.04.2023 13:29:57 done Тест роуминга беспроводных клиентов в сети TP-LINK Omada
+ 23.04.2023 13:29:59 done Тестирование бесшовного роуминга беспроводных клиентов на точках доступа TP-Link Omada EAP230-Wall
+ 23.04.2023 13:30:00 done Тестирование сети
+ 23.04.2023 13:30:30 done Мини-обзор: Точка доступа Cambium ePMP 1000 2.4 GHz Force 200AR2-25 High Gain Radio
+ 23.04.2023 13:30:33 done Распаковка: Крепление Ubiquiti Precision Alignment Kit
+ 23.04.2023 13:30:35 done Обзор: точка доступа Ubiquiti NanoStation 5AC Loco
+ 23.04.2023 13:30:36 done Беспроводные мосты
+ 23.04.2023 13:31:06 done Мини-обзор: Гарнитура Yealink YHS33
+ 23.04.2023 13:31:08 done Мини-обзор: Конференц-телефон Yealink CP920
+ 23.04.2023 13:31:10 done Мини-обзор: IP-телефон Yealink SIP-T48S Skype for Business Edition
+ 23.04.2023 13:31:13 done Мини-обзор: IP-DECT телефон Yealink W52P
+ 23.04.2023 13:31:15 done Мини-обзор: IP-DECT телефон Yealink W60P
+ 23.04.2023 13:31:16 done Yealink
+ 23.04.2023 13:31:46 done Мини-обзор: IP-АТС Yeastar S20
+ 23.04.2023 13:31:48 done Мини-обзор: IP-АТС Yeastar S50
+ 23.04.2023 13:31:49 done IP-АТС
+ 23.04.2023 13:32:20 done Мини-обзор: IP-АТС Yeastar S20
+ 23.04.2023 13:32:23 done Мини-обзор: IP-АТС Yeastar S50
+ 23.04.2023 13:32:23 done Yeastar
+ 23.04.2023 13:32:55 done Мини-обзор: Конференц-телефон Snom C520-WiMi
+ 23.04.2023 13:32:57 done Мини-обзор: Конференц-телефон Snom MeetingPoint
+ 23.04.2023 13:32:59 done Мини-обзор: Спикерфон Snom C52-SP
+ 23.04.2023 13:33:02 done Мини-обзор: IP-телефон Snom 760
+ 23.04.2023 13:33:04 done Мини-обзор: Конференц-телефон Yealink CP920
+ 23.04.2023 13:33:07 done Мини-обзор: IP-телефон Yealink SIP-T48S Skype for Business Edition
+ 23.04.2023 13:33:09 done Мини-обзор: IP-телефон Snom D375
+ 23.04.2023 13:33:11 done Мини-обзор: IP-телефон Snom 821
+ 23.04.2023 13:33:12 done Конференцсвязь
+ 23.04.2023 13:33:43 done Мини-обзор: Ubiquiti UniFi AC Lite AP
+ 23.04.2023 13:33:45 done Мини-обзор: Точка доступа Ubiquiti UniFi nanoHD AP
+ 23.04.2023 13:33:48 done Мини-обзор: Комплект точек доступа Ubiquiti UniFi AC In-Wall AP 5-pack
+ 23.04.2023 13:33:50 done Мини-обзор: Точка доступа Ubiquiti UniFi AC LR AP
+ 23.04.2023 13:33:52 done Мини-обзор: Маршрутизатор Ubiquiti UniFi Security Gateway Pro 4
+ 23.04.2023 13:33:55 done Обзор: Точка доступа Ubiquiti UniFi nanoHD AP + Ubiquiti nanoHD Black Skin Cover
+ 23.04.2023 13:33:57 done Обзор: Контроллер WiFi Ubiquiti UniFi Cloud Key Gen2 Plus
+ 23.04.2023 13:33:59 done Настройка WiFi-контроллера Ubiquiti UniFi Cloud Key Gen2 Plus
+ 23.04.2023 13:34:02 done Обзор экосистемы Ubiquiti UniFi: плюсы и минусы
+ 23.04.2023 13:34:04 done Обзор: Ubiquiti UniFi Cloud Key Gen2 и Ubiquiti Cloud Key Gen2 Rackmount Accessory
+ 23.04.2023 13:34:06 done Обзор: Ubiquiti UniFi Security Gateway (USG)
+ 23.04.2023 13:34:09 done Обзор: точка доступа Ubiquiti UniFi AC PRO AP (UAP-AC-PRO)
+ 23.04.2023 13:34:11 done How-to: Обновление прошивки на точках доступа Ubiquiti UniFi через интерфейс командной строки
+ 23.04.2023 13:34:13 done Обзор: сервер Ubiquiti UniFi Dream Machine (UDM)
+ 23.04.2023 13:34:16 done Обзор коммутатора Ubiquiti UniFi Switch Flex Mini
+ 23.04.2023 13:34:18 done Обзор коммутатора Ubiquiti UniFi Switch Flex
+ 23.04.2023 13:34:20 done Обзор монтажного бокса Ubiquiti UniFi Switch Flex Utility
+ 23.04.2023 13:34:23 done Тест: насколько Ubiquiti UniFi AC LR AP на самом деле Long Range
+ 23.04.2023 13:34:25 done Обзор точки доступа Ubiquiti UniFi 6 Long Range Access Point (U6-LR)
+ 23.04.2023 13:34:26 done UniFi
+ 23.04.2023 13:34:56 done Мини-обзор: Гарнитура Jabra Motion UC
+ 23.04.2023 13:34:59 done Мини-обзор: Спикерфон Jabra Speak 810 UC
+ 23.04.2023 13:35:01 done Мини-обзор: Гарнитура Yealink YHS33
+ 23.04.2023 13:35:04 done Мини-обзор: Гарнитура Jabra Evolve 75e UC &amp; Link 370
+ 23.04.2023 13:35:06 done Мини-обзор: Гарнитура Jabra Pro 930 Duo UC
+ 23.04.2023 13:35:08 done Мини-обзор: Гарнитура Snom A100D
+ 23.04.2023 13:35:10 done Мини-обзор: Гарнитура Snom A100M
+ 23.04.2023 13:35:11 done Гарнитуры
+ 23.04.2023 13:35:41 done Мини-обзор: Гарнитура Jabra Motion UC
+ 23.04.2023 13:35:43 done Мини-обзор: Спикерфон Jabra Speak 810 UC
+ 23.04.2023 13:35:45 done Мини-обзор: Гарнитура Jabra Evolve 75e UC &amp; Link 370
+ 23.04.2023 13:35:48 done Мини-обзор: Гарнитура Jabra Pro 930 Duo UC
+ 23.04.2023 13:35:48 done Jabra
+ 23.04.2023 13:36:19 done Мини-обзор: SIP-домофон Fanvil i20T
+ 23.04.2023 13:36:21 done Мини-обзор: IP-телефон Fanvil X3SP
+ 23.04.2023 13:36:23 done Мини-обзор: IP-телефон Fanvil X3S
+ 23.04.2023 13:36:26 done Мини-обзор: Гостиничный IP-телефон Fanvil H1
+ 23.04.2023 13:36:28 done Мини-обзор: IP-телефон Fanvil C01
+ 23.04.2023 13:36:30 done Мини-обзор: SIP-домофон Fanvil i20S
+ 23.04.2023 13:36:33 done Мини-обзор: IP-телефон Fanvil H5
+ 23.04.2023 13:36:33 done Fanvil
+ 23.04.2023 13:37:03 done Мини-обзор: IP-телефон Grandstream GXP1610
+ 23.04.2023 13:37:06 done Мини-обзор: WiFi-телефон Grandstream WP820
+ 23.04.2023 13:37:06 done Grandstream
+ 23.04.2023 13:37:39 done Мини-обзор: Snom D725
+ 23.04.2023 13:37:41 done Мини-обзор: Snom D710
+ 23.04.2023 13:37:43 done Мини-обзор: Базовая станция IP-DECT Snom M700
+ 23.04.2023 13:37:46 done Мини-обзор: IP-телефон Grandstream GXP1610
+ 23.04.2023 13:37:48 done Мини-обзор: DECT-трубка Snom M65
+ 23.04.2023 13:37:50 done Мини-обзор: Конференц-телефон Snom C520-WiMi
+ 23.04.2023 13:37:53 done Мини-обзор: Конференц-телефон Snom MeetingPoint
+ 23.04.2023 13:37:55 done Мини-обзор: IP-АТС Yeastar S20
+ 23.04.2023 13:37:57 done Мини-обзор: IP-телефон Snom D765
+ 23.04.2023 13:38:00 done Мини-обзор: Гарнитура Yealink YHS33
+ 23.04.2023 13:38:02 done Мини-обзор: Спикерфон Snom C52-SP
+ 23.04.2023 13:38:04 done Мини-обзор: IP-телефон Fanvil X3SP
+ 23.04.2023 13:38:07 done Мини-обзор: IP-телефон Snom D715
+ 23.04.2023 13:38:09 done Мини-обзор: IP-телефон Fanvil X3S
+ 23.04.2023 13:38:11 done Мини-обзор: IP-телефон Snom 760
+ 23.04.2023 13:38:14 done Мини-обзор: Модуль расширения Snom D3 Expansion Module
+ 23.04.2023 13:38:16 done Мини-обзор: Конференц-телефон Yealink CP920
+ 23.04.2023 13:38:19 done Мини-обзор: IP-телефон Yealink SIP-T48S Skype for Business Edition
+ 23.04.2023 13:38:21 done Мини-обзор: Гарнитура Jabra Pro 930 Duo UC
+ 23.04.2023 13:38:23 done Мини-обзор: IP-телефон Snom D375
+ 23.04.2023 13:38:26 done Мини-обзор: Гостиничный IP-телефон Fanvil H1
+ 23.04.2023 13:38:28 done Мини-обзор: IP-телефон Fanvil C01
+ 23.04.2023 13:38:30 done Мини-обзор: IP-телефон Snom 821
+ 23.04.2023 13:38:33 done Мини-обзор: IP-АТС Yeastar S50
+ 23.04.2023 13:38:35 done Мини-обзор: IP-телефон Snom D745
+ 23.04.2023 13:38:38 done Мини-обзор: IP-DECT телефон Yealink W52P
+ 23.04.2023 13:38:40 done Мини-обзор: WiFi-телефон Grandstream WP820
+ 23.04.2023 13:38:43 done Мини-обзор: IP-DECT телефон Snom M325
+ 23.04.2023 13:38:45 done Мини-обзор: DECT-трубка Snom M25
+ 23.04.2023 13:38:47 done Мини-обзор: IP-телефон Panasonic KX-HDV100RUW
+ 23.04.2023 13:38:50 done Мини-обзор: Гарнитура Snom A100D
+ 23.04.2023 13:38:52 done Мини-обзор: Гарнитура Snom A100M
+ 23.04.2023 13:38:54 done Мини-обзор: IP-телефон Snom D785
+ 23.04.2023 13:38:57 done Мини-обзор: Модуль расширения Snom D7 Expansion Module (black)
+ 23.04.2023 13:38:59 done Мини-обзор: IP-телефон Snom D120
+ 23.04.2023 13:39:01 done Мини-обзор: IP-телефон Snom D305
+ 23.04.2023 13:39:04 done Мини-обзор: IP-телефон Snom D315
+ 23.04.2023 13:39:06 done Мини-обзор: IP-телефон Snom D345
+ 23.04.2023 13:39:09 done Мини-обзор: IP-DECT телефон Snom M215 SC
+ 23.04.2023 13:39:11 done Мини-обзор: IP-телефон Fanvil H5
+ 23.04.2023 13:39:14 done Мини-обзор: IP-DECT телефон Yealink W60P
+ 23.04.2023 13:39:16 done Обзор: микросотовая система IP-DECT Gigaset N870IP Pro, DECT-трубки S650H Pro, R650H Pro, SL750H Pro
+ 23.04.2023 13:39:19 done Обзор оборудования для колл-центров компании VT
+ 23.04.2023 13:39:19 done SIP-телефония
+ 23.04.2023 13:39:51 done Мини-обзор: Snom D725
+ 23.04.2023 13:39:54 done Мини-обзор: Snom D710
+ 23.04.2023 13:39:56 done Мини-обзор: Базовая станция IP-DECT Snom M700
+ 23.04.2023 13:39:58 done Мини-обзор: DECT-трубка Snom M65
+ 23.04.2023 13:40:01 done Мини-обзор: Конференц-телефон Snom C520-WiMi
+ 23.04.2023 13:40:03 done Мини-обзор: Конференц-телефон Snom MeetingPoint
+ 23.04.2023 13:40:05 done Мини-обзор: IP-телефон Snom D765
+ 23.04.2023 13:40:08 done Мини-обзор: Спикерфон Snom C52-SP
+ 23.04.2023 13:40:10 done Мини-обзор: IP-телефон Snom D715
+ 23.04.2023 13:40:12 done Мини-обзор: IP-телефон Snom 760
+ 23.04.2023 13:40:15 done Мини-обзор: Модуль расширения Snom D3 Expansion Module
+ 23.04.2023 13:40:17 done Мини-обзор: IP-телефон Snom D375
+ 23.04.2023 13:40:20 done Мини-обзор: IP-телефон Snom 821
+ 23.04.2023 13:40:22 done Мини-обзор: IP-телефон Snom D745
+ 23.04.2023 13:40:24 done Мини-обзор: IP-DECT телефон Snom M325
+ 23.04.2023 13:40:27 done Мини-обзор: DECT-трубка Snom M25
+ 23.04.2023 13:40:29 done Мини-обзор: Гарнитура Snom A100M
+ 23.04.2023 13:40:31 done Мини-обзор: IP-телефон Snom D785
+ 23.04.2023 13:40:34 done Мини-обзор: Модуль расширения Snom D7 Expansion Module (black)
+ 23.04.2023 13:40:36 done Мини-обзор: IP-телефон Snom D120
+ 23.04.2023 13:40:38 done Мини-обзор: IP-телефон Snom D305
+ 23.04.2023 13:40:40 done Мини-обзор: IP-телефон Snom D315
+ 23.04.2023 13:40:43 done Мини-обзор: IP-телефон Snom D345
+ 23.04.2023 13:40:45 done Мини-обзор: IP-DECT телефон Snom M215 SC
+ 23.04.2023 13:40:46 done Snom
+ 23.04.2023 13:41:16 done Мини-обзор: Cambium cnPilot E501S
+ 23.04.2023 13:41:19 done Мини-обзор: Cambium cnPilot E400
+ 23.04.2023 13:41:21 done Мини-обзор: Точка доступа Cambium cnPilot E410
+ 23.04.2023 13:41:23 done Мини-обзор: Точка доступа Cambium ePMP 1000 2.4 GHz Force 200AR2-25 High Gain Radio
+ 23.04.2023 13:41:26 done Обзор: точка доступа Cambium cnPilot E410
+ 23.04.2023 13:41:28 done Обзор: точка доступа Cambium cnPilot E600
+ 23.04.2023 13:41:29 done Cambium
+ 23.04.2023 13:42:00 done Настройка гостевой сети WiFi на Mikrotik
+ 23.04.2023 13:42:02 done Настройка VPN на роутерах Mikrotik на примере сервиса HideMyName
+ 23.04.2023 13:42:04 done Переустановка RouterOS на устройствах Mikrotik с помощью netinstall
+ 23.04.2023 13:42:07 done How-to: Монтаж точек доступа TP-LINK Omada
+ 23.04.2023 13:42:09 done Настройка WiFi-контроллера TP-LINK Omada Controller OC200
+ 23.04.2023 13:42:12 done Настройка WiFi-контроллера Ubiquiti UniFi Cloud Key Gen2 Plus
+ 23.04.2023 13:42:14 done Базовая настройка роутеров Mikrotik
+ 23.04.2023 13:42:17 done How-to: Обновление прошивки на точках доступа Ubiquiti UniFi через интерфейс командной строки
+ 23.04.2023 13:42:19 done How-To: Базовая настройка Mikrotik CAPsMAN
+ 23.04.2023 13:42:21 done How-To: Настройка гостевых сетей WiFi в Mikrotik CAPsMAN
+ 23.04.2023 13:42:24 done Установка Winbox на MacOS
+ 23.04.2023 13:42:24 done How-To
+ 23.04.2023 13:42:56 done Настройка гостевой сети WiFi на Mikrotik
+ 23.04.2023 13:42:58 done Настройка VPN на роутерах Mikrotik на примере сервиса HideMyName
+ 23.04.2023 13:43:00 done Мини-обзор: Точка доступа Mikrotik cAP ac
+ 23.04.2023 13:43:02 done Мини-обзор: Маршрутизатор MikroTik hAP lite Classic
+ 23.04.2023 13:43:05 done Мини-обзор: LTE-маршрутизатор Mikrotik wAP LTE kit
+ 23.04.2023 13:43:07 done Мини-обзор: Маршрутизатор MikroTik hAP ac²
+ 23.04.2023 13:43:10 done Мини-обзор: Маршрутизатор MikroTik hAP
+ 23.04.2023 13:43:12 done Мини-обзор: Точка доступа Mikrotik DISC Lite5 ac
+ 23.04.2023 13:43:14 done Мини-обзор: Маршрутизатор MikroTik RB951G-2HnD
+ 23.04.2023 13:43:17 done Мини-обзор: Маршрутизатор MikroTik RB4011iGS+RM
+ 23.04.2023 13:43:19 done Мини-обзор: Точка доступа Mikrotik wsAP ac lite
+ 23.04.2023 13:43:21 done Мини-обзор: Маршрутизатор MikroTik hAP AC Lite
+ 23.04.2023 13:43:24 done Мини-обзор: Маршрутизатор MikroTik hAP AC Lite Tower
+ 23.04.2023 13:43:26 done Маршрутизатор Mikrotik LtAP mini LTE kit
+ 23.04.2023 13:43:28 done Мини-обзор: Маршрутизатор MikroTik RB4011iGS+5HacQ2HnD-IN
+ 23.04.2023 13:43:31 done Мини-обзор: Маршрутизатор MikroTik CCR1036-8G-2S+
+ 23.04.2023 13:43:33 done Мини-обзор: Точка доступа Mikrotik GrooveA 52 ac
+ 23.04.2023 13:43:35 done Мини-обзор: Маршрутизатор MikroTik CCR1009-7G-1C-1S+
+ 23.04.2023 13:43:38 done Переустановка RouterOS на устройствах Mikrotik с помощью netinstall
+ 23.04.2023 13:43:40 done Обзор маршрутизатора MikroTik hAP ac²
+ 23.04.2023 13:43:42 done Мини-обзор: LTE-маршрутизатор Mikrotik LHG LTE kit
+ 23.04.2023 13:43:45 done Мини-обзор: Точка доступа Mikrotik Metal 2SHPn
+ 23.04.2023 13:43:47 done Мини-обзор: Маршрутизатор MikroTik RB951Ui-2HnD
+ 23.04.2023 13:43:50 done Мини-обзор: Маршрутизатор MikroTik RB1100AHx4
+ 23.04.2023 13:43:52 done Обзор точки доступа Mikrotik cAP ac
+ 23.04.2023 13:43:54 done Обзор: Точка доступа Mikrotik cAP lite
+ 23.04.2023 13:43:57 done Мини-обзор: Маршрутизатор MikroTik hAP ac
+ 23.04.2023 13:43:59 done Базовая настройка роутеров Mikrotik
+ 23.04.2023 13:44:01 done Review: Router Mikrotik hEX (RB750Gr3)
+ 23.04.2023 13:44:04 done Обзор: маршрутизаторы Mikrotik RB4011iGS+RM и RB4011iGS+5HacQ2HnD-IN
+ 23.04.2023 13:44:06 done Обзор: LTE-маршрутизатор Mikrotik SXT LTE kit
+ 23.04.2023 13:44:08 done Обзор: LTE-маршрутизатор Mikrotik LHG LTE kit (RBLHGR&amp;R11e-LTE)
+ 23.04.2023 13:44:10 done Обзор: роутер Mikrotik hAP lite (RB941-2nD)
+ 23.04.2023 13:44:13 done How-To: Базовая настройка Mikrotik CAPsMAN
+ 23.04.2023 13:44:15 done How-To: Настройка гостевых сетей WiFi в Mikrotik CAPsMAN
+ 23.04.2023 13:44:17 done Обзор: маршрутизатор Mikrotik Audience LTE6 kit
+ 23.04.2023 13:44:20 done Обзор: маршрутизатор Mikrotik Audience LTE6 kit
+ 23.04.2023 13:44:22 done Обзор LTE-маршрутизатора Mikrotik SXT LTE6 kit
+ 23.04.2023 13:44:25 done Обзор экосистемы Mikrotik: плюсы и минусы
+ 23.04.2023 13:44:27 done Обзор WiFi-роутера MikroTik hAP ac² (ремейк, 2020 г.)
+ 23.04.2023 13:44:29 done Обзор WiFi-маршрутизатора Mikrotik hAP ac³
+ 23.04.2023 13:44:32 done Установка Winbox на MacOS
+ 23.04.2023 13:44:32 done Mikrotik
+ 23.04.2023 13:45:05 done Мини-обзор: Ubiquiti Nanostation 5AC Loco
+ 23.04.2023 13:45:08 done Мини-обзор: Ruckus ZoneFlex H510
+ 23.04.2023 13:45:10 done Мини-обзор: TP-LINK Deco M5 3-pack
+ 23.04.2023 13:45:13 done Мини-обзор: Cambium cnPilot E501S
+ 23.04.2023 13:45:15 done Мини-обзор: Snom D725
+ 23.04.2023 13:45:17 done Мини-обзор: Snom D710
+ 23.04.2023 13:45:20 done Мини-обзор: Ruckus R510
+ 23.04.2023 13:45:22 done Мини-обзор: Базовая станция IP-DECT Snom M700
+ 23.04.2023 13:45:25 done Мини-обзор: Мультисервисный шлюз Eltex TAU-1M.IP
+ 23.04.2023 13:45:27 done Мини-обзор: IP-телефон Grandstream GXP1610
+ 23.04.2023 13:45:30 done Мини-обзор: Точка доступа Mikrotik cAP ac
+ 23.04.2023 13:45:32 done Мини-обзор: Cambium cnPilot E400
+ 23.04.2023 13:45:34 done Мини-обзор: DECT-трубка Snom M65
+ 23.04.2023 13:45:37 done Мини-обзор: Гарнитура Jabra Motion UC
+ 23.04.2023 13:45:39 done Мини-обзор: Ubiquiti UniFi AC Lite AP
+ 23.04.2023 13:45:41 done Мини-обзор: Точка доступа Ubiquiti UniFi nanoHD AP
+ 23.04.2023 13:45:44 done Мини-обзор: Конференц-телефон Snom C520-WiMi
+ 23.04.2023 13:45:46 done Мини-обзор: Точка доступа Cambium cnPilot E410
+ 23.04.2023 13:45:48 done Мини-обзор: Конференц-телефон Snom MeetingPoint
+ 23.04.2023 13:45:51 done Мини-обзор: IP-АТС Yeastar S20
+ 23.04.2023 13:45:53 done Мини-обзор: Маршрутизатор MikroTik hAP lite Classic
+ 23.04.2023 13:45:55 done Мини-обзор: Спикерфон Jabra Speak 810 UC
+ 23.04.2023 13:45:58 done Мини-обзор: IP-телефон Snom D765
+ 23.04.2023 13:46:00 done Мини-обзор: Комплект точек доступа Ubiquiti UniFi AC In-Wall AP 5-pack
+ 23.04.2023 13:46:03 done Мини-обзор: Гарнитура Yealink YHS33
+ 23.04.2023 13:46:05 done Мини-обзор: Спикерфон Snom C52-SP
+ 23.04.2023 13:46:07 done Мини-обзор: LTE-маршрутизатор Mikrotik wAP LTE kit
+ 23.04.2023 13:46:10 done Мини-обзор: IP-телефон Fanvil X3SP
+ 23.04.2023 13:46:12 done Мини-обзор: Точка доступа TP-LINK CPE610
+ 23.04.2023 13:46:14 done Мини-обзор: Маршрутизатор MikroTik hAP ac²
+ 23.04.2023 13:46:17 done Мини-обзор: IP-телефон Snom D715
+ 23.04.2023 13:46:19 done Мини-обзор: Маршрутизатор Ubiquiti EdgeRouter 4
+ 23.04.2023 13:46:22 done Мини-обзор: Маршрутизатор MikroTik hAP
+ 23.04.2023 13:46:24 done Мини-обзор: IP-телефон Fanvil X3S
+ 23.04.2023 13:46:27 done Мини-обзор: Маршрутизатор Ubiquiti airCube AC
+ 23.04.2023 13:46:29 done Мини-обзор: IP-телефон Snom 760
+ 23.04.2023 13:46:31 done Мини-обзор: Точка доступа TP-LINK CAP300-Outdoor
+ 23.04.2023 13:46:34 done Мини-обзор: Маршрутизатор Ubiquiti UniFi Security Gateway Pro 4
+ 23.04.2023 13:46:36 done Мини-обзор: Комплект видеонаблюдения Falcon Eye FE-1104WIFI KIT
+ 23.04.2023 13:46:38 done Мини-обзор: Антенна Ubiquiti Directional Dual-Band Antenna for UAP-AC-M
+ 23.04.2023 13:46:41 done Мини-обзор: Маршрутизатор Ubiquiti EdgeRouter 6P
+ 23.04.2023 13:46:43 done Мини-обзор: Точка доступа Mikrotik DISC Lite5 ac
+ 23.04.2023 13:46:46 done Мини-обзор: Модуль расширения Snom D3 Expansion Module
+ 23.04.2023 13:46:49 done Мини-обзор: Конференц-телефон Yealink CP920
+ 23.04.2023 13:46:51 done Мини-обзор: Гарнитура Jabra Evolve 75e UC &amp; Link 370
+ 23.04.2023 13:46:54 done Мини-обзор: Маршрутизатор MikroTik RB951G-2HnD
+ 23.04.2023 13:46:56 done Мини-обзор: IP-телефон Yealink SIP-T48S Skype for Business Edition
+ 23.04.2023 13:46:59 done Мини-обзор: Контроллер WiFi TP-LINK Omada Controller OC200
+ 23.04.2023 13:47:02 done Мини-обзор: Маршрутизатор MikroTik RB4011iGS+RM
+ 23.04.2023 13:47:04 done Мини-обзор: Точка доступа TP-LINK Omada EAP245 v3
+ 23.04.2023 13:47:06 done Мини-обзор: Точка доступа Ruckus ZoneFlex T300
+ 23.04.2023 13:47:09 done Мини-обзор: Гарнитура Jabra Pro 930 Duo UC
+ 23.04.2023 13:47:11 done Мини-обзор: IP-телефон Snom D375
+ 23.04.2023 13:47:13 done Мини-обзор: Точка доступа Mikrotik wsAP ac lite
+ 23.04.2023 13:47:16 done Мини-обзор: Маршрутизатор MikroTik hAP AC Lite
+ 23.04.2023 13:47:18 done Мини-обзор: Маршрутизатор MikroTik hAP AC Lite Tower
+ 23.04.2023 13:47:20 done Мини-обзор: Гостиничный IP-телефон Fanvil H1
+ 23.04.2023 13:47:23 done Мини-обзор: IP-телефон Fanvil C01
+ 23.04.2023 13:47:25 done Маршрутизатор Mikrotik LtAP mini LTE kit
+ 23.04.2023 13:47:28 done Мини-обзор: IP-камера Falcon Eye FE-IPC-DPL100P
+ 23.04.2023 13:47:30 done Мини-обзор: Точка доступа Ruckus ZoneFlex T710
+ 23.04.2023 13:47:32 done Мини-обзор: Маршрутизатор MikroTik RB4011iGS+5HacQ2HnD-IN
+ 23.04.2023 13:47:35 done Мини-обзор: IP-телефон Snom 821
+ 23.04.2023 13:47:37 done Мини-обзор: Контроллер WiFi TP-LINK AC50
+ 23.04.2023 13:47:40 done Мини-обзор: IP-камера Falcon Eye FE-IPC-BL300PVA
+ 23.04.2023 13:47:42 done Мини-обзор: Точка доступа Ruckus ZoneFlex R610
+ 23.04.2023 13:47:45 done Мини-обзор: IP-АТС Yeastar S50
+ 23.04.2023 13:47:47 done Мини-обзор: IP-телефон Snom D745
+ 23.04.2023 13:47:49 done Мини-обзор: Точка доступа Ubiquiti UniFi AC Mesh Pro AP
+ 23.04.2023 13:47:52 done Мини-обзор: Точка доступа TP-LINK CAP1750
+ 23.04.2023 13:47:54 done Мини-обзор: Коммутатор Ubiquiti EdgeSwitch 8XP
+ 23.04.2023 13:47:56 done Мини-обзор: IP-DECT телефон Yealink W52P
+ 23.04.2023 13:47:59 done Мини-обзор: Тестер WiFi NETSCOUT AirCheck G2 KIT
+ 23.04.2023 13:48:01 done Мини-обзор: Точка доступа Ubiquiti UniFi AC Mesh AP
+ 23.04.2023 13:48:03 done Мини-обзор: WiFi-телефон Grandstream WP820
+ 23.04.2023 13:48:06 done Мини-обзор: Маршрутизатор MikroTik CCR1036-8G-2S+
+ 23.04.2023 13:48:08 done Мини-обзор: Точка доступа Mikrotik GrooveA 52 ac
+ 23.04.2023 13:48:11 done Мини-обзор: Точка доступа Ubiquiti Rocket 2AC Prism
+ 23.04.2023 13:48:13 done Мини-обзор: IP-DECT телефон Snom M325
+ 23.04.2023 13:48:16 done Мини-обзор: Межсетевой экран Fortinet FortiGate 60E
+ 23.04.2023 13:48:18 done Мини-обзор: DECT-трубка Snom M25
+ 23.04.2023 13:48:20 done Мини-обзор: Точка доступа Ruckus T310d
+ 23.04.2023 13:48:23 done Мини-обзор: Маршрутизатор MikroTik CCR1009-7G-1C-1S+
+ 23.04.2023 13:48:25 done Мини-обзор: Коммутатор Ubiquiti US-16-XG
+ 23.04.2023 13:48:27 done Мини-обзор: LTE-маршрутизатор Mikrotik LHG LTE kit
+ 23.04.2023 13:48:30 done Мини-обзор: Точка доступа Mikrotik Metal 2SHPn
+ 23.04.2023 13:48:33 done Мини-обзор: Маршрутизатор MikroTik RB951Ui-2HnD
+ 23.04.2023 13:48:35 done Мини-обзор: Точка доступа Ruckus ZoneFlex H320
+ 23.04.2023 13:48:37 done Мини-обзор: IP-телефон Panasonic KX-HDV100RUW
+ 23.04.2023 13:48:39 done Мини-обзор: Гарнитура Snom A100D
+ 23.04.2023 13:48:42 done Мини-обзор: Гарнитура Snom A100M
+ 23.04.2023 13:48:44 done Мини-обзор: SIP-домофон Fanvil i20S
+ 23.04.2023 13:48:47 done Мини-обзор: IP-телефон Snom D785
+ 23.04.2023 13:48:49 done Мини-обзор: Маршрутизатор MikroTik RB1100AHx4
+ 23.04.2023 13:48:51 done Мини-обзор: Коммутатор Ubiquiti EdgeSwitch 5XP
+ 23.04.2023 13:48:54 done Мини-обзор: Дисплей Raspberry Pi 7&quot; Touch Screen Display
+ 23.04.2023 13:48:56 done Мини-обзор: Модуль расширения Snom D7 Expansion Module (black)
+ 23.04.2023 13:48:59 done Мини-обзор: IP-телефон Snom D120
+ 23.04.2023 13:49:01 done Мини-обзор: IP-телефон Snom D305
+ 23.04.2023 13:49:04 done Мини-обзор: IP-телефон Snom D315
+ 23.04.2023 13:49:04 done Распаковка
+ 23.04.2023 13:49:34 done Презентация Ubiquiti AmpliFi Teleport
+ 23.04.2023 13:49:37 done Презентация Ubiquiti AmpliFi Teleport
+ 23.04.2023 13:49:39 done Обзор: WiFi-система Ubiquiti AmpliFi Gamer's Edition (AFi-G)
+ 23.04.2023 13:49:42 done Обзор: роутер Ubiquiti AmpliFi Router HD
+ 23.04.2023 13:49:42 done AmpliFi
+ 23.04.2023 13:50:12 done IP-камера Falcon Eye FE-IPC-BL100P - демонстрация работы
+ 23.04.2023 13:50:15 done IP-камера Falcon Eye FE-IPC-DL200PV - демонстрация работы
+ 23.04.2023 13:50:17 done Мини-обзор: Комплект видеонаблюдения Falcon Eye FE-1104WIFI KIT
+ 23.04.2023 13:50:19 done Мини-обзор: IP-камера Falcon Eye FE-IPC-DPL100P
+ 23.04.2023 13:50:22 done Мини-обзор: IP-камера Falcon Eye FE-IPC-BL300PVA
+ 23.04.2023 13:50:22 done Falcon Eye
+ 23.04.2023 13:50:55 done Презентация Ubiquiti AmpliFi Teleport
+ 23.04.2023 13:50:58 done Презентация Ubiquiti AmpliFi Teleport
+ 23.04.2023 13:51:00 done Мини-обзор: Ruckus ZoneFlex H510
+ 23.04.2023 13:51:02 done Настройка гостевой сети WiFi на Mikrotik
+ 23.04.2023 13:51:05 done Мини-обзор: Cambium cnPilot E501S
+ 23.04.2023 13:51:07 done Мини-обзор: TP-LINK Deco M5 3-pack
+ 23.04.2023 13:51:09 done Мини-обзор: Ubiquiti Nanostation 5AC Loco
+ 23.04.2023 13:51:12 done Настройка VPN на роутерах Mikrotik на примере сервиса HideMyName
+ 23.04.2023 13:51:14 done Мини-обзор: Ruckus R510
+ 23.04.2023 13:51:17 done Мини-обзор: Точка доступа Mikrotik cAP ac
+ 23.04.2023 13:51:19 done Мини-обзор: Cambium cnPilot E400
+ 23.04.2023 13:51:21 done Мини-обзор: Ubiquiti UniFi AC Lite AP
+ 23.04.2023 13:51:24 done Мини-обзор: Точка доступа Ubiquiti UniFi nanoHD AP
+ 23.04.2023 13:51:26 done Мини-обзор: Точка доступа Cambium cnPilot E410
+ 23.04.2023 13:51:28 done Мини-обзор: Маршрутизатор MikroTik hAP lite Classic
+ 23.04.2023 13:51:31 done Мини-обзор: Комплект точек доступа Ubiquiti UniFi AC In-Wall AP 5-pack
+ 23.04.2023 13:51:33 done Мини-обзор: LTE-маршрутизатор Mikrotik wAP LTE kit
+ 23.04.2023 13:51:35 done Мини-обзор: Точка доступа TP-LINK CPE610
+ 23.04.2023 13:51:38 done Мини-обзор: Маршрутизатор MikroTik hAP ac²
+ 23.04.2023 13:51:41 done Мини-обзор: Маршрутизатор Ubiquiti EdgeRouter 4
+ 23.04.2023 13:51:43 done Мини-обзор: Маршрутизатор MikroTik hAP
+ 23.04.2023 13:51:45 done Мини-обзор: Маршрутизатор Ubiquiti airCube AC
+ 23.04.2023 13:51:47 done Мини-обзор: Точка доступа TP-LINK CAP300-Outdoor
+ 23.04.2023 13:51:50 done Мини-обзор: Точка доступа Ubiquiti UniFi AC LR AP
+ 23.04.2023 13:51:52 done Мини-обзор: Маршрутизатор Ubiquiti UniFi Security Gateway Pro 4
+ 23.04.2023 13:51:54 done Мини-обзор: Антенна Ubiquiti Directional Dual-Band Antenna for UAP-AC-M
+ 23.04.2023 13:51:57 done Мини-обзор: Точка доступа Mikrotik DISC Lite5 ac
+ 23.04.2023 13:51:59 done Мини-обзор: Маршрутизатор MikroTik RB951G-2HnD
+ 23.04.2023 13:52:01 done Мини-обзор: Контроллер WiFi TP-LINK Omada Controller OC200
+ 23.04.2023 13:52:04 done Мини-обзор: Маршрутизатор MikroTik RB4011iGS+RM
+ 23.04.2023 13:52:06 done Мини-обзор: Точка доступа TP-LINK Omada EAP245 v3
+ 23.04.2023 13:52:08 done Мини-обзор: Точка доступа Ruckus ZoneFlex T300
+ 23.04.2023 13:52:11 done Мини-обзор: Точка доступа Mikrotik wsAP ac lite
+ 23.04.2023 13:52:13 done Мини-обзор: Маршрутизатор MikroTik hAP AC Lite
+ 23.04.2023 13:52:15 done Мини-обзор: Маршрутизатор MikroTik hAP AC Lite Tower
+ 23.04.2023 13:52:18 done Маршрутизатор Mikrotik LtAP mini LTE kit
+ 23.04.2023 13:52:20 done Мини-обзор: Точка доступа Ruckus ZoneFlex T710
+ 23.04.2023 13:52:22 done Мини-обзор: Маршрутизатор MikroTik RB4011iGS+5HacQ2HnD-IN
+ 23.04.2023 13:52:25 done Мини-обзор: Контроллер WiFi TP-LINK AC50
+ 23.04.2023 13:52:27 done Мини-обзор: Точка доступа Ruckus ZoneFlex R610
+ 23.04.2023 13:52:29 done Мини-обзор: Точка доступа Ubiquiti UniFi AC Mesh Pro AP
+ 23.04.2023 13:52:32 done Мини-обзор: Точка доступа TP-LINK CAP1750
+ 23.04.2023 13:52:34 done Мини-обзор: Точка доступа Ubiquiti Rocket 2AC Prism
+ 23.04.2023 13:52:36 done Мини-обзор: Точка доступа Ruckus T310d
+ 23.04.2023 13:52:39 done Обзор точки доступа Mikrotik cAP ac
+ 23.04.2023 13:52:41 done Обзор: Точка доступа Mikrotik cAP lite
+ 23.04.2023 13:52:43 done Мини-обзор: Точка доступа Cambium ePMP 1000 2.4 GHz Force 200AR2-25 High Gain Radio
+ 23.04.2023 13:52:46 done Обзор LTE-маршрутизаторов Teltonika RUT950 и Teltonika RUT955
+ 23.04.2023 13:52:48 done Обзор: Точка доступа Ubiquiti UniFi nanoHD AP + Ubiquiti nanoHD Black Skin Cover
+ 23.04.2023 13:52:50 done Мини-обзор: Точка доступа Zyxel NebulaFlex NWA1123-ACv2
+ 23.04.2023 13:52:53 done Мини-обзор: Маршрутизатор MikroTik hAP ac
+ 23.04.2023 13:52:55 done Обзор: Точка доступа Ruckus ZoneFlex R610
+ 23.04.2023 13:52:57 done Обзор: Точки доступа TP-LINK серии Omada - EAP225 v3, EAP245 v3 и EAP225-Outdoor
+ 23.04.2023 13:53:00 done Обзор: WiFi-контроллер TP-LINK Omada Controller OC200
+ 23.04.2023 13:53:02 done Настройка WiFi-контроллера TP-LINK Omada Controller OC200
+ 23.04.2023 13:53:05 done Обзор: Точка доступа TP-LINK Omada EAP115 v4
+ 23.04.2023 13:53:07 done How-to: Монтаж точек доступа TP-LINK Omada
+ 23.04.2023 13:53:09 done Тест роуминга беспроводных клиентов в сети TP-LINK Omada
+ 23.04.2023 13:53:12 done Базовая настройка роутеров Mikrotik
+ 23.04.2023 13:53:14 done Review: access point TP-LINK Omada EAP225-Wall
+ 23.04.2023 13:53:17 done Обзор экосистемы Ubiquiti UniFi: плюсы и минусы
+ 23.04.2023 13:53:19 done Обзор: Ubiquiti UniFi Cloud Key Gen2 и Ubiquiti Cloud Key Gen2 Rackmount Accessory
+ 23.04.2023 13:53:22 done Обзор: WiFi-система Ubiquiti AmpliFi Gamer's Edition (AFi-G)
+ 23.04.2023 13:53:24 done Обзор решений Ruckus Wireless: плюсы и минусы
+ 23.04.2023 13:53:27 done Обзор: точка доступа Cambium cnPilot E410
+ 23.04.2023 13:53:29 done How-to: Обновление прошивки на точках доступа Ubiquiti UniFi через интерфейс командной строки
+ 23.04.2023 13:53:32 done Обзор: точка доступа Ubiquiti NanoStation 5AC Loco
+ 23.04.2023 13:53:34 done Обзор: точка доступа Cambium cnPilot E600
+ 23.04.2023 13:53:37 done Обзор: точка доступа Cambium cnPilot E600
+ 23.04.2023 13:53:39 done Обзор: роутер Mikrotik hAP lite (RB941-2nD)
+ 23.04.2023 13:53:41 done How-To: Базовая настройка Mikrotik CAPsMAN
+ 23.04.2023 13:53:44 done How-To: Настройка гостевых сетей WiFi в Mikrotik CAPsMAN
+ 23.04.2023 13:53:46 done В двух словах: Wi-Fi 6 (802.11ax)
+ 23.04.2023 13:53:48 done В двух словах: как покрыть большую площадь WiFi и почему для этого нельзя использовать одну AP
+ 23.04.2023 13:53:51 done В двух словах: Wi-Fi 6E
+ 23.04.2023 13:53:53 done Мини-ликбез: почему реальная скорость WiFi ниже заявленной в характеристиках точки доступа / роутера
+ 23.04.2023 13:53:55 done Предиктивное радиопланирование: что, зачем, на чем, почем?
+ 23.04.2023 13:53:58 done Обзор: сервер Ubiquiti UniFi Dream Machine (UDM)
+ 23.04.2023 13:54:00 done Обзор: сервер Ubiquiti UniFi Dream Machine (UDM)
+ 23.04.2023 13:54:02 done Обзор: маршрутизатор Mikrotik Audience LTE6 kit
+ 23.04.2023 13:54:05 done Обзор: маршрутизатор Mikrotik Audience LTE6 kit
+ 23.04.2023 13:54:07 done Обзор mesh-системы TP-LINK Deco P9 3-pack
+ 23.04.2023 13:54:09 done Обзор mesh-системы TP-LINK Deco P9 3-pack
+ 23.04.2023 13:54:11 done Анонс новых продуктов TP-LINK: расширение линейки Omada, новые точки доступа WiFi
+ 23.04.2023 13:54:14 done Обзор точки доступа TP-Link Omada EAP230-Wall
+ 23.04.2023 13:54:16 done Тестирование бесшовного роуминга беспроводных клиентов на точках доступа TP-Link Omada EAP230-Wall
+ 23.04.2023 13:54:18 done Обзор точки доступа TP-Link Omada EAP265 HD
+ 23.04.2023 13:54:21 done Обзор точки доступа Zyxel NebulaFlex WAX510D
+ 23.04.2023 13:54:23 done Обзор точки доступа TP-Link Omada EAP235-Wall
+ 23.04.2023 13:54:25 done Тест: насколько Ubiquiti UniFi AC LR AP на самом деле Long Range
+ 23.04.2023 13:54:28 done Обзор точки доступа Zyxel Nebula NWA1123ACv3
+ 23.04.2023 13:54:30 done Обзор экосистемы TP Link Omada: плюсы и минусы
+ 23.04.2023 13:54:33 done Мини-ликбез: &quot;бесшовный&quot; роуминг клиентов Wi-Fi
+ 23.04.2023 13:54:35 done Мини-ликбез: почему (почти) всегда следует снижать мощность передатчика в точках доступа Wi-Fi
+ 23.04.2023 13:54:37 done Обзор точки доступа Ubiquiti UniFi 6 Long Range Access Point (U6-LR)
+ 23.04.2023 13:54:38 done WiFi
+ 23.04.2023 13:55:08 done Prestigio MultiBoard - промо
+ 23.04.2023 13:55:10 done Prestigio MultiBoard как инструмент для обучения
+ 23.04.2023 13:55:13 done Приложение для Prestigio MultiBoard - EasiNote
+ 23.04.2023 13:55:15 done Приложение для Prestigio MultiBoard - EasiCapture
+ 23.04.2023 13:55:18 done Приложение для Prestigio MultiBoard - EasiMeeting
+ 23.04.2023 13:55:20 done Приложения для Prestigio MultiBoard - mClass, Mirroring360
+ 23.04.2023 13:55:23 done Приложение для Prestigio MultiBoard - EasiConnect
+ 23.04.2023 13:55:23 done Интерактивные технологии
+ 23.04.2023 13:55:54 done Prestigio MultiBoard - промо
+ 23.04.2023 13:55:56 done Prestigio MultiBoard как инструмент для обучения
+ 23.04.2023 13:55:59 done Приложение для Prestigio MultiBoard - EasiNote
+ 23.04.2023 13:56:01 done Приложение для Prestigio MultiBoard - EasiCapture
+ 23.04.2023 13:56:03 done Приложение для Prestigio MultiBoard - EasiMeeting
+ 23.04.2023 13:56:06 done Приложения для Prestigio MultiBoard - mClass, Mirroring360
+ 23.04.2023 13:56:08 done Приложение для Prestigio MultiBoard - EasiConnect
+ 23.04.2023 13:56:09 done Prestigio
+ 23.04.2023 13:56:40 done Обзор коммутатора TFortis SWD-1
+ 23.04.2023 13:56:40 done TFortis
+ 23.04.2023 13:57:12 done Обзор коммутатора TFortis SWD-1
+ 23.04.2023 13:57:14 done Мини-обзор: Маршрутизатор Ubiquiti UniFi Security Gateway Pro 4
+ 23.04.2023 13:57:17 done Мини-обзор: Комплект видеонаблюдения Falcon Eye FE-1104WIFI KIT
+ 23.04.2023 13:57:19 done Мини-обзор: Маршрутизатор Ubiquiti EdgeRouter 6P
+ 23.04.2023 13:57:21 done Мини-обзор: Коммутатор Ubiquiti EdgeSwitch 8XP
+ 23.04.2023 13:57:23 done Мини-обзор: Тестер WiFi NETSCOUT AirCheck G2 KIT
+ 23.04.2023 13:57:26 done Мини-обзор: Маршрутизатор MikroTik CCR1036-8G-2S+
+ 23.04.2023 13:57:28 done Мини-обзор: Межсетевой экран Fortinet FortiGate 60E
+ 23.04.2023 13:57:31 done Мини-обзор: Маршрутизатор MikroTik CCR1009-7G-1C-1S+
+ 23.04.2023 13:57:33 done Мини-обзор: Коммутатор Ubiquiti US-16-XG
+ 23.04.2023 13:57:36 done Мини-обзор: Маршрутизатор MikroTik RB951Ui-2HnD
+ 23.04.2023 13:57:38 done Мини-обзор: Маршрутизатор MikroTik RB1100AHx4
+ 23.04.2023 13:57:40 done Мини-обзор: Коммутатор Ubiquiti EdgeSwitch 5XP
+ 23.04.2023 13:57:43 done Быстрый обжим коннекторов RJ45 (кримпер Hyperline HL-3H00010 и коннекторы Hyperline серии PLEZ)
+ 23.04.2023 13:57:45 done Мини-обзор: Комплект PowerLine-адаптеров TP-LINK TL-PA8010P KIT
+ 23.04.2023 13:57:47 done Мини-обзор: IP-видеодомофон Hikvision DS-KH8301-WT
+ 23.04.2023 13:57:50 done Мини-обзор: IP-видеорегистратор Hikvision DS-7716NI-K4/16P
+ 23.04.2023 13:57:52 done Обзор: Межсетевой экран Fortinet FortiGate 60E
+ 23.04.2023 13:57:54 done Обзор: Контроллер WiFi Ubiquiti UniFi Cloud Key Gen2 Plus
+ 23.04.2023 13:57:57 done Настройка WiFi-контроллера Ubiquiti UniFi Cloud Key Gen2 Plus
+ 23.04.2023 13:57:59 done Обзор: Ubiquiti UniFi Security Gateway (USG)
+ 23.04.2023 13:58:01 done Обзор решений Ruckus Wireless: плюсы и минусы
+ 23.04.2023 13:58:04 done Обзор коммутатора Ubiquiti UniFi Switch Flex Mini
+ 23.04.2023 13:58:06 done Обзор маршрутизатора TP-Link Omada TL-R605
+ 23.04.2023 13:58:08 done Обзор коммутатора Ubiquiti UniFi Switch Flex
+ 23.04.2023 13:58:09 done Проводные сети
+ 23.04.2023 13:58:39 done Ubiquiti FrontRow Story Mode - пример видео
+ 23.04.2023 13:58:40 done FrontRow
+ 23.04.2023 13:59:13 done Ruckus ZoneFlex R710 - точка доступа WiFi
+ 23.04.2023 13:59:15 done Мини-обзор: Ruckus ZoneFlex H510
+ 23.04.2023 13:59:18 done Мини-обзор: Ruckus R510
+ 23.04.2023 13:59:20 done Мини-обзор: Точка доступа Ruckus ZoneFlex T300
+ 23.04.2023 13:59:23 done Мини-обзор: Точка доступа Ruckus ZoneFlex T710
+ 23.04.2023 13:59:25 done Мини-обзор: Точка доступа Ruckus ZoneFlex R610
+ 23.04.2023 13:59:27 done Мини-обзор: Точка доступа Ruckus T310d
+ 23.04.2023 13:59:30 done Мини-обзор: Точка доступа Ruckus ZoneFlex H320
+ 23.04.2023 13:59:32 done Мини-обзор: Контроллер WiFi Ruckus ZoneDirector 1205
+ 23.04.2023 13:59:35 done Мини-обзор: Точка доступа Ruckus ZoneFlex R720
+ 23.04.2023 13:59:37 done Обзор: Точка доступа Ruckus ZoneFlex R610
+ 23.04.2023 13:59:39 done Обзор решений Ruckus Wireless: плюсы и минусы
+ 23.04.2023 13:59:41 done Предиктивное радиопланирование: что, зачем, на чем, почем?
+ 23.04.2023 13:59:42 done Ruckus
+ 23.04.2023 14:00:15 done Ruckus ZoneFlex R710 - точка доступа WiFi
+ 23.04.2023 14:00:17 done TP-LINK Omada EAP - установка и настройка точек доступа
+ 23.04.2023 14:00:19 done Тест бесшовного роуминга на базе TP-LINK CAP1200
+ 23.04.2023 14:00:22 done Презентация Ubiquiti AmpliFi Teleport
+ 23.04.2023 14:00:24 done Презентация Ubiquiti AmpliFi Teleport
+ 23.04.2023 14:00:26 done Настройка гостевой сети WiFi на Mikrotik
+ 23.04.2023 14:00:28 done Мини-обзор: Cambium cnPilot E501S
+ 23.04.2023 14:00:30 done Мини-обзор: TP-LINK Deco M5 3-pack
+ 23.04.2023 14:00:33 done Настройка VPN на роутерах Mikrotik на примере сервиса HideMyName
+ 23.04.2023 14:00:35 done Мини-обзор: Ruckus R510
+ 23.04.2023 14:00:37 done Мини-обзор: Точка доступа Mikrotik cAP ac
+ 23.04.2023 14:00:39 done Мини-обзор: Cambium cnPilot E400
+ 23.04.2023 14:00:41 done Мини-обзор: Ubiquiti UniFi AC Lite AP
+ 23.04.2023 14:00:44 done Мини-обзор: Точка доступа Ubiquiti UniFi nanoHD AP
+ 23.04.2023 14:00:46 done Мини-обзор: Точка доступа Cambium cnPilot E410
+ 23.04.2023 14:00:48 done Мини-обзор: Маршрутизатор MikroTik hAP lite Classic
+ 23.04.2023 14:00:50 done Мини-обзор: Комплект точек доступа Ubiquiti UniFi AC In-Wall AP 5-pack
+ 23.04.2023 14:00:52 done Мини-обзор: LTE-маршрутизатор Mikrotik wAP LTE kit
+ 23.04.2023 14:00:55 done Мини-обзор: Точка доступа TP-LINK CPE610
+ 23.04.2023 14:00:57 done Мини-обзор: Маршрутизатор MikroTik hAP ac²
+ 23.04.2023 14:00:59 done Мини-обзор: Маршрутизатор Ubiquiti EdgeRouter 4
+ 23.04.2023 14:01:01 done Мини-обзор: Маршрутизатор MikroTik hAP
+ 23.04.2023 14:01:03 done Мини-обзор: Маршрутизатор Ubiquiti airCube AC
+ 23.04.2023 14:01:06 done Мини-обзор: Точка доступа TP-LINK CAP300-Outdoor
+ 23.04.2023 14:01:08 done Мини-обзор: Точка доступа Ubiquiti UniFi AC LR AP
+ 23.04.2023 14:01:10 done Мини-обзор: Маршрутизатор Ubiquiti UniFi Security Gateway Pro 4
+ 23.04.2023 14:01:12 done Мини-обзор: Антенна Ubiquiti Directional Dual-Band Antenna for UAP-AC-M
+ 23.04.2023 14:01:14 done Мини-обзор: Точка доступа Mikrotik DISC Lite5 ac
+ 23.04.2023 14:01:17 done Мини-обзор: Маршрутизатор MikroTik RB951G-2HnD
+ 23.04.2023 14:01:19 done Мини-обзор: Контроллер WiFi TP-LINK Omada Controller OC200
+ 23.04.2023 14:01:21 done Мини-обзор: Маршрутизатор MikroTik RB4011iGS+RM
+ 23.04.2023 14:01:23 done Мини-обзор: Точка доступа TP-LINK Omada EAP245 v3
+ 23.04.2023 14:01:26 done Мини-обзор: Точка доступа Ruckus ZoneFlex T300
+ 23.04.2023 14:01:28 done Мини-обзор: Точка доступа Mikrotik wsAP ac lite
+ 23.04.2023 14:01:30 done Мини-обзор: Маршрутизатор MikroTik hAP AC Lite
+ 23.04.2023 14:01:32 done Мини-обзор: Маршрутизатор MikroTik hAP AC Lite Tower
+ 23.04.2023 14:01:34 done Маршрутизатор Mikrotik LtAP mini LTE kit
+ 23.04.2023 14:01:37 done Мини-обзор: Точка доступа Ruckus ZoneFlex T710
+ 23.04.2023 14:01:39 done Мини-обзор: Маршрутизатор MikroTik RB4011iGS+5HacQ2HnD-IN
+ 23.04.2023 14:01:41 done Мини-обзор: Точка доступа Ubiquiti UniFi AC Mesh Pro AP
+ 23.04.2023 14:01:43 done Мини-обзор: Точка доступа TP-LINK CAP1750
+ 23.04.2023 14:01:45 done Мини-обзор: Тестер WiFi NETSCOUT AirCheck G2 KIT
+ 23.04.2023 14:01:48 done Мини-обзор: Точка доступа Ubiquiti UniFi AC Mesh AP
+ 23.04.2023 14:01:50 done Мини-обзор: WiFi-телефон Grandstream WP820
+ 23.04.2023 14:01:52 done Мини-обзор: Точка доступа Mikrotik GrooveA 52 ac
+ 23.04.2023 14:01:54 done Мини-обзор: Точка доступа Ubiquiti Rocket 2AC Prism
+ 23.04.2023 14:01:56 done Мини-обзор: Точка доступа Ruckus T310d
+ 23.04.2023 14:01:59 done Мини-обзор: LTE-маршрутизатор Mikrotik LHG LTE kit
+ 23.04.2023 14:02:01 done Мини-обзор: Точка доступа Mikrotik Metal 2SHPn
+ 23.04.2023 14:02:03 done Мини-обзор: Маршрутизатор MikroTik RB951Ui-2HnD
+ 23.04.2023 14:02:06 done Мини-обзор: Точка доступа Ruckus ZoneFlex H320
+ 23.04.2023 14:02:08 done Мини-обзор: Контроллер WiFi Ruckus ZoneDirector 1205
+ 23.04.2023 14:02:10 done Мини-обзор: Точка доступа Ruckus ZoneFlex R720
+ 23.04.2023 14:02:12 done Распаковка: Крепление Ubiquiti Precision Alignment Kit
+ 23.04.2023 14:02:15 done Обзор LTE-маршрутизаторов Teltonika RUT950 и Teltonika RUT955
+ 23.04.2023 14:02:17 done Обзор: Точка доступа Ubiquiti UniFi nanoHD AP + Ubiquiti nanoHD Black Skin Cover
+ 23.04.2023 14:02:19 done Мини-обзор: Точка доступа Zyxel NebulaFlex NWA1123-ACv2
+ 23.04.2023 14:02:21 done Мини-обзор: Маршрутизатор MikroTik hAP ac
+ 23.04.2023 14:02:24 done Обзор: Точка доступа Ruckus ZoneFlex R610
+ 23.04.2023 14:02:26 done Обзор: WiFi-контроллер TP-LINK Omada Controller OC200
+ 23.04.2023 14:02:28 done Настройка WiFi-контроллера TP-LINK Omada Controller OC200
+ 23.04.2023 14:02:30 done Обзор: Точка доступа TP-LINK Omada EAP115 v4
+ 23.04.2023 14:02:33 done Обзор: Точки доступа TP-LINK серии Omada - EAP225 v3, EAP245 v3 и EAP225-Outdoor
+ 23.04.2023 14:02:35 done How-to: Монтаж точек доступа TP-LINK Omada
+ 23.04.2023 14:02:37 done Тест роуминга беспроводных клиентов в сети TP-LINK Omada
+ 23.04.2023 14:02:39 done Review: access point TP-LINK Omada EAP225-Wall
+ 23.04.2023 14:02:42 done Обзор экосистемы Ubiquiti UniFi: плюсы и минусы
+ 23.04.2023 14:02:44 done Обзор: Ubiquiti UniFi Cloud Key Gen2 и Ubiquiti Cloud Key Gen2 Rackmount Accessory
+ 23.04.2023 14:02:46 done Обзор: WiFi-система Ubiquiti AmpliFi Gamer's Edition (AFi-G)
+ 23.04.2023 14:02:48 done Обзор решений Ruckus Wireless: плюсы и минусы
+ 23.04.2023 14:02:50 done Обзор: точка доступа Ubiquiti UniFi AC PRO AP (UAP-AC-PRO)
+ 23.04.2023 14:02:53 done Обзор: точка доступа Cambium cnPilot E410
+ 23.04.2023 14:02:55 done How-to: Обновление прошивки на точках доступа Ubiquiti UniFi через интерфейс командной строки
+ 23.04.2023 14:02:57 done Обзор: точка доступа Ubiquiti NanoStation 5AC Loco
+ 23.04.2023 14:02:59 done Обзор: точка доступа Cambium cnPilot E600
+ 23.04.2023 14:03:02 done Обзор: точка доступа Cambium cnPilot E600
+ 23.04.2023 14:03:04 done Обзор: роутер Mikrotik hAP lite (RB941-2nD)
+ 23.04.2023 14:03:06 done How-To: Базовая настройка Mikrotik CAPsMAN
+ 23.04.2023 14:03:08 done How-To: Настройка гостевых сетей WiFi в Mikrotik CAPsMAN
+ 23.04.2023 14:03:11 done В двух словах: Wi-Fi 6 (802.11ax)
+ 23.04.2023 14:03:13 done В двух словах: как покрыть большую площадь WiFi и почему для этого нельзя использовать одну AP
+ 23.04.2023 14:03:15 done В двух словах: как покрыть большую площадь WiFi и почему для этого нельзя использовать одну AP
+ 23.04.2023 14:03:17 done В двух словах: Wi-Fi 6E
+ 23.04.2023 14:03:19 done Мини-ликбез: почему реальная скорость WiFi ниже заявленной в характеристиках точки доступа / роутера
+ 23.04.2023 14:03:22 done Предиктивное радиопланирование: что, зачем, на чем, почем?
+ 23.04.2023 14:03:24 done Обзор: сервер Ubiquiti UniFi Dream Machine (UDM)
+ 23.04.2023 14:03:26 done Обзор: сервер Ubiquiti UniFi Dream Machine (UDM)
+ 23.04.2023 14:03:28 done Обзор: маршрутизатор Mikrotik Audience LTE6 kit
+ 23.04.2023 14:03:30 done Обзор: маршрутизатор Mikrotik Audience LTE6 kit
+ 23.04.2023 14:03:33 done Обзор mesh-системы TP-LINK Deco P9 3-pack
+ 23.04.2023 14:03:35 done Обзор mesh-системы TP-LINK Deco P9 3-pack
+ 23.04.2023 14:03:37 done Обзор точки доступа TP-Link Omada EAP230-Wall
+ 23.04.2023 14:03:39 done Тестирование бесшовного роуминга беспроводных клиентов на точках доступа TP-Link Omada EAP230-Wall
+ 23.04.2023 14:03:42 done Обзор точки доступа TP-Link Omada EAP265 HD
+ 23.04.2023 14:03:44 done Обзор точки доступа Zyxel NebulaFlex WAX510D
+ 23.04.2023 14:03:46 done Обзор точки доступа TP-Link Omada EAP235-Wall
+ 23.04.2023 14:03:48 done Тест: насколько Ubiquiti UniFi AC LR AP на самом деле Long Range
+ 23.04.2023 14:03:50 done Обзор точки доступа Zyxel Nebula NWA1123ACv3
+ 23.04.2023 14:03:53 done Обзор экосистемы TP Link Omada: плюсы и минусы
+ 23.04.2023 14:03:55 done Мини-ликбез: &quot;бесшовный&quot; роуминг клиентов Wi-Fi
+ 23.04.2023 14:03:55 done Беспроводные сети
+ 23.04.2023 14:04:27 done TP-LINK NC200 - облачная WiFi камера видеонаблюдения
+ 23.04.2023 14:04:30 done TP-LINK NC220 - облачная WiFi камера с ИК-подсветкой
+ 23.04.2023 14:04:32 done TP-LINK NC250 - облачная WiFi камера с ИК-подсветкой
+ 23.04.2023 14:04:34 done IP-камера Falcon Eye FE-IPC-BL100P - демонстрация работы
+ 23.04.2023 14:04:36 done IP-камера Falcon Eye FE-IPC-DL200PV - демонстрация работы
+ 23.04.2023 14:04:38 done Мини-обзор: Комплект видеонаблюдения Falcon Eye FE-1104WIFI KIT
+ 23.04.2023 14:04:41 done Мини-обзор: IP-камера Falcon Eye FE-IPC-DPL100P
+ 23.04.2023 14:04:43 done Мини-обзор: IP-камера Falcon Eye FE-IPC-BL300PVA
+ 23.04.2023 14:04:45 done Мини-обзор: IP-видеодомофон Hikvision DS-KH8301-WT
+ 23.04.2023 14:04:47 done Мини-обзор: IP-видеорегистратор Hikvision DS-7716NI-K4/16P
+ 23.04.2023 14:04:50 done Обзор: IP-камера Ubiquiti UniFi Video Camera G3 Bullet
+ 23.04.2023 14:04:50 done Видеонаблюдение
+ 23.04.2023 14:05:22 done TP-LINK HS100 / HS110 - умные WiFi розетки
+ 23.04.2023 14:05:24 done Обзор коммутатора TFortis SWD-1
+ 23.04.2023 14:05:27 done Мини-обзор: IP-видеодомофон Hikvision DS-KH8301-WT
+ 23.04.2023 14:05:29 done Мини-обзор: IP-видеорегистратор Hikvision DS-7716NI-K4/16P
+ 23.04.2023 14:05:29 done Умный дом
+ 23.04.2023 14:06:01 done TP-LINK M7350 - презентация
+ 23.04.2023 14:06:03 done TP-LINK Archer MR200 - промо
+ 23.04.2023 14:06:06 done TP-LINK RE450 - промо
+ 23.04.2023 14:06:08 done TP-LINK HS100 / HS110 - умные WiFi розетки
+ 23.04.2023 14:06:10 done TP-LINK NC200 - облачная WiFi камера видеонаблюдения
+ 23.04.2023 14:06:12 done TP-LINK NC220 - облачная WiFi камера с ИК-подсветкой
+ 23.04.2023 14:06:14 done TP-LINK NC250 - облачная WiFi камера с ИК-подсветкой
+ 23.04.2023 14:06:17 done TP-LINK Omada EAP - установка и настройка точек доступа
+ 23.04.2023 14:06:19 done Тест бесшовного роуминга на базе TP-LINK CAP1200
+ 23.04.2023 14:06:21 done Мини-обзор: TP-LINK Deco M5 3-pack
+ 23.04.2023 14:06:23 done Мини-обзор: Точка доступа TP-LINK CPE610
+ 23.04.2023 14:06:26 done Мини-обзор: Точка доступа TP-LINK CAP300-Outdoor
+ 23.04.2023 14:06:28 done Мини-обзор: Контроллер WiFi TP-LINK Omada Controller OC200
+ 23.04.2023 14:06:30 done Мини-обзор: Точка доступа TP-LINK Omada EAP245 v3
+ 23.04.2023 14:06:32 done Мини-обзор: Контроллер WiFi TP-LINK AC50
+ 23.04.2023 14:06:35 done Мини-обзор: Точка доступа TP-LINK CAP1750
+ 23.04.2023 14:06:37 done Мини-обзор: Комплект PowerLine-адаптеров TP-LINK TL-PA8010P KIT
+ 23.04.2023 14:06:39 done Обзор: Точки доступа TP-LINK серии Omada - EAP225 v3, EAP245 v3 и EAP225-Outdoor
+ 23.04.2023 14:06:41 done How-to: Монтаж точек доступа TP-LINK Omada
+ 23.04.2023 14:06:44 done Настройка WiFi-контроллера TP-LINK Omada Controller OC200
+ 23.04.2023 14:06:46 done Обзор: WiFi-контроллер TP-LINK Omada Controller OC200
+ 23.04.2023 14:06:48 done Обзор: Точка доступа TP-LINK Omada EAP115 v4
+ 23.04.2023 14:06:50 done Тест роуминга беспроводных клиентов в сети TP-LINK Omada
+ 23.04.2023 14:06:53 done Review: access point TP-LINK Omada EAP225-Wall
+ 23.04.2023 14:06:55 done Обзор mesh-системы TP-LINK Deco P9 3-pack
+ 23.04.2023 14:06:57 done Анонс новых продуктов TP-LINK: расширение линейки Omada, новые точки доступа WiFi
+ 23.04.2023 14:06:59 done Обзор WiFi-роутера TP-LINK Archer C6
+ 23.04.2023 14:07:02 done Обзор WiFi-роутера TP-Link Archer AX6000
+ 23.04.2023 14:07:04 done Обзор точки доступа TP-Link Omada EAP230-Wall
+ 23.04.2023 14:07:06 done Тестирование бесшовного роуминга беспроводных клиентов на точках доступа TP-Link Omada EAP230-Wall
+ 23.04.2023 14:07:08 done Обзор точки доступа TP-Link Omada EAP265 HD
+ 23.04.2023 14:07:11 done Обзор маршрутизатора TP-Link Omada TL-R605
+ 23.04.2023 14:07:13 done Обзор точки доступа TP-Link Omada EAP235-Wall
+ 23.04.2023 14:07:15 done Обзор экосистемы TP Link Omada: плюсы и минусы
+ 23.04.2023 14:07:15 done TP-LINK
+ 23.04.2023 14:07:48 done Ubiquiti - презентация системы бытовых солнечных электростанций Ubiquiti sunMAX
+ 23.04.2023 14:07:50 done Ubiquiti FrontRow Story Mode - пример видео
+ 23.04.2023 14:07:52 done Презентация Ubiquiti AmpliFi Teleport
+ 23.04.2023 14:07:54 done Презентация Ubiquiti AmpliFi Teleport
+ 23.04.2023 14:07:57 done Мини-обзор: Ubiquiti Nanostation 5AC Loco
+ 23.04.2023 14:07:59 done Мини-обзор: Ubiquiti UniFi AC Lite AP
+ 23.04.2023 14:08:01 done Мини-обзор: Точка доступа Ubiquiti UniFi nanoHD AP
+ 23.04.2023 14:08:04 done Мини-обзор: Комплект точек доступа Ubiquiti UniFi AC In-Wall AP 5-pack
+ 23.04.2023 14:08:06 done Мини-обзор: Маршрутизатор Ubiquiti EdgeRouter 4
+ 23.04.2023 14:08:08 done Мини-обзор: Маршрутизатор Ubiquiti airCube AC
+ 23.04.2023 14:08:11 done Мини-обзор: Точка доступа Ubiquiti UniFi AC LR AP
+ 23.04.2023 14:08:13 done Мини-обзор: Маршрутизатор Ubiquiti UniFi Security Gateway Pro 4
+ 23.04.2023 14:08:15 done Мини-обзор: Антенна Ubiquiti Directional Dual-Band Antenna for UAP-AC-M
+ 23.04.2023 14:08:18 done Мини-обзор: Маршрутизатор Ubiquiti EdgeRouter 6P
+ 23.04.2023 14:08:20 done Мини-обзор: Точка доступа Ubiquiti UniFi AC Mesh Pro AP
+ 23.04.2023 14:08:22 done Мини-обзор: Коммутатор Ubiquiti EdgeSwitch 8XP
+ 23.04.2023 14:08:25 done Мини-обзор: Точка доступа Ubiquiti UniFi AC Mesh AP
+ 23.04.2023 14:08:27 done Мини-обзор: Точка доступа Ubiquiti Rocket 2AC Prism
+ 23.04.2023 14:08:29 done Мини-обзор: Коммутатор Ubiquiti US-16-XG
+ 23.04.2023 14:08:32 done Мини-обзор: Коммутатор Ubiquiti EdgeSwitch 5XP
+ 23.04.2023 14:08:34 done Распаковка: Крепление Ubiquiti Precision Alignment Kit
+ 23.04.2023 14:08:36 done Обзор: Точка доступа Ubiquiti UniFi nanoHD AP + Ubiquiti nanoHD Black Skin Cover
+ 23.04.2023 14:08:39 done Обзор: Контроллер WiFi Ubiquiti UniFi Cloud Key Gen2 Plus
+ 23.04.2023 14:08:41 done Настройка WiFi-контроллера Ubiquiti UniFi Cloud Key Gen2 Plus
+ 23.04.2023 14:08:43 done Обзор экосистемы Ubiquiti UniFi: плюсы и минусы
+ 23.04.2023 14:08:45 done Обзор: Ubiquiti UniFi Cloud Key Gen2 и Ubiquiti Cloud Key Gen2 Rackmount Accessory
+ 23.04.2023 14:08:48 done Обзор: Ubiquiti UniFi Security Gateway (USG)
+ 23.04.2023 14:08:50 done Обзор: WiFi-система Ubiquiti AmpliFi Gamer's Edition (AFi-G)
+ 23.04.2023 14:08:52 done Обзор: точка доступа Ubiquiti UniFi AC PRO AP (UAP-AC-PRO)
+ 23.04.2023 14:08:54 done How-to: Обновление прошивки на точках доступа Ubiquiti UniFi через интерфейс командной строки
+ 23.04.2023 14:08:57 done Обзор: IP-камера Ubiquiti UniFi Video Camera G3 Bullet
+ 23.04.2023 14:08:59 done Обзор: роутер Ubiquiti AmpliFi Router HD
+ 23.04.2023 14:09:02 done Обзор: точка доступа Ubiquiti NanoStation 5AC Loco
+ 23.04.2023 14:09:04 done Обзор: сервер Ubiquiti UniFi Dream Machine (UDM)
+ 23.04.2023 14:09:06 done Обзор коммутатора Ubiquiti UniFi Switch Flex Mini
+ 23.04.2023 14:09:08 done Обзор коммутатора Ubiquiti UniFi Switch Flex
+ 23.04.2023 14:09:11 done Обзор монтажного бокса Ubiquiti UniFi Switch Flex Utility
+ 23.04.2023 14:09:13 done Тест: насколько Ubiquiti UniFi AC LR AP на самом деле Long Range
+ 23.04.2023 14:09:15 done Обзор точки доступа Ubiquiti UniFi 6 Long Range Access Point (U6-LR)
+ 23.04.2023 14:09:16 done Ubiquiti
+ 23.04.2023 14:09:46 done Wisnetworks - монтаж секторных базовых станций
+ 23.04.2023 14:09:48 done Wisnetworks - монтаж панельных радиомостов и базовых станций
+ 23.04.2023 14:09:49 done Wisnetworks
+ 23.04.2023 14:10:19 done Eltex RG-34-WAC - видеообзор
+ 23.04.2023 14:10:21 done Eltex RG-5421G-WAC - видеообзор
+ 23.04.2023 14:10:24 done Мини-обзор: Мультисервисный шлюз Eltex TAU-1M.IP
+ 23.04.2023 14:10:24 done Eltex
+ 23.04.2023 14:10:25 good end 
+ 23.04.2023 14:10:25 good end 

@@ -1,0 +1,3 @@
+# [Timur Shemsedinov](https://www.youtube.com/@TimurShemsedinov/playlists?view=1)
+## [Паттерны / шаблоны](https://www.youtube.com/playlist?list=PLHhi8ymDMrQaJFrm02DoSnmvN5P-cVykm)
+### [Паттерн Команда (Command) действие и параметры как объект](https://www.youtube.com/watch?v=vER0vYL4hM4&amp;list=PLHhi8ymDMrQaJFrm02DoSnmvN5P-cVykm&amp;index=6&amp;pp=iAQB)

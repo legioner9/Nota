@@ -1,0 +1,3 @@
+# [Василий Муравьев](https://www.youtube.com/@stackdev/playlists)
+## [Javascript Практика](https://www.youtube.com/playlist?list=PLtL3lrXPn2rX3eDIQ4QzLEr7NZjtocwGQ)
+### [JavaScript - создаем динамический поиск (используем события js, fetch, map, filter, forEach, regex)](https://www.youtube.com/watch?v=mQ7RK_fe-0U&amp;list=PLtL3lrXPn2rX3eDIQ4QzLEr7NZjtocwGQ&amp;index=3&amp;pp=iAQB)

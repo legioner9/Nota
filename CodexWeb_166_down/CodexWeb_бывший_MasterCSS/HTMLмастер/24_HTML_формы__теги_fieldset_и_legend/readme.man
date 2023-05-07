@@ -1,0 +1,3 @@
+# [CodexWeb (бывший Master-CSS)](https://www.youtube.com/@CodexWeb/playlists)
+## [HTML-мастер](https://www.youtube.com/playlist?list=PLPpaecEYRC8ZUr9Avu3_BLAFa8tsAxAzr)
+### [HTML формы - теги fieldset и legend](https://www.youtube.com/watch?v=2wHfsKv9iwA&amp;list=PLPpaecEYRC8ZUr9Avu3_BLAFa8tsAxAzr&amp;index=24&amp;pp=iAQB)

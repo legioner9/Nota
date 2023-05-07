@@ -1,0 +1,3 @@
+# [freeCodeCamp.org](https://www.youtube.com/@freecodecamp/playlists)
+## [Data Science](https://www.youtube.com/playlist?list=PLWKjhJtqVAblQe2CCWqV4Zy3LY01Z8aF1)
+### [Intro to Data Science - Crash Course for Beginners](https://www.youtube.com/watch?v=N6BghzuFLIg&amp;list=PLWKjhJtqVAblQe2CCWqV4Zy3LY01Z8aF1&amp;index=12&amp;pp=iAQB)

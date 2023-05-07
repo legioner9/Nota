@@ -1,0 +1,3 @@
+# [Coding Tech](https://www.youtube.com/@CodingTech/playlists)
+## [NodeJS](https://www.youtube.com/playlist?list=PLFjq8z-aGyQ46ZLj2hCPsnRmXS78PTcgg)
+### [NodeJS: Let It Crash!](https://www.youtube.com/watch?v=62ZRPJkHOX0&amp;list=PLFjq8z-aGyQ46ZLj2hCPsnRmXS78PTcgg&amp;index=12&amp;pp=iAQB)

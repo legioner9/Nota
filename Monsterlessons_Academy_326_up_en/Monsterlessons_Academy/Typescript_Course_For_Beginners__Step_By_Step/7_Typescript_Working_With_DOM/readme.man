@@ -1,0 +1,3 @@
+# [Monsterlessons Academy](https://www.youtube.com/@MonsterlessonsAcademy/playlists)
+## [Typescript Course For Beginners - Step By Step](https://www.youtube.com/playlist?list=PLEjh-YiSBCDJcayJNll1NjCOKMcIO4L0T)
+### [Typescript Working With DOM](https://www.youtube.com/watch?v=PjzCcSI_DDk&amp;list=PLEjh-YiSBCDJcayJNll1NjCOKMcIO4L0T&amp;index=7&amp;pp=iAQB)

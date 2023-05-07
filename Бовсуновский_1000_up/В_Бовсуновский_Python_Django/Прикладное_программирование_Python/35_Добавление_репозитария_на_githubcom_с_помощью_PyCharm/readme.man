@@ -1,0 +1,3 @@
+# [В. Бовсуновский Python Django](https://www.youtube.com/@bov/playlists?view=1)
+## [Прикладное программирование Python.](https://www.youtube.com/playlist?list=PLuZJ9n46uMzX---cfRMYZgEDePohvo8dp)
+### [Добавление репозитария на github.com с помощью PyCharm.](https://www.youtube.com/watch?v=aksRmPBP0Ps&amp;list=PLuZJ9n46uMzX---cfRMYZgEDePohvo8dp&amp;index=35&amp;pp=iAQB)

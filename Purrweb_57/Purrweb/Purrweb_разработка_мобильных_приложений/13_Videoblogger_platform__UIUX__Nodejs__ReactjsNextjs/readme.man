@@ -1,0 +1,3 @@
+# [Purrweb](https://www.youtube.com/@purrweb/playlists)
+## [Purrweb: разработка мобильных приложений](https://www.youtube.com/playlist?list=PLOSxDSAH6EKp0aK-uOfpmhQveli1jhm0l)
+### [Videoblogger platform | UI/UX + Node.js + React.js/Next.js](https://www.youtube.com/watch?v=ubDGB_jZ5PQ&amp;list=PLOSxDSAH6EKp0aK-uOfpmhQveli1jhm0l&amp;index=13&amp;pp=iAQB)

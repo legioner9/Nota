@@ -1,0 +1,6 @@
+### [Git для старта. Создаем репозиторий, push](https://www.youtube.com/watch?v=VXxQkKYdcyk&amp;list=PLM7wFzahDYnGyD9i2f2-uqlV2idiGvEJD&amp;index=1&amp;pp=iAQB)
+### [Git для старта. Качаем репозиторий](https://www.youtube.com/watch?v=7TT4l3P10B0&amp;list=PLM7wFzahDYnGyD9i2f2-uqlV2idiGvEJD&amp;index=2&amp;pp=iAQB)
+### [Git для старта. Сведение изменений. Merge](https://www.youtube.com/watch?v=fVu07TqThuk&amp;list=PLM7wFzahDYnGyD9i2f2-uqlV2idiGvEJD&amp;index=3&amp;pp=iAQB)
+### [Получи курс по JavaScript бесплатно](https://www.youtube.com/watch?v=eZhoFLra3w8&amp;list=PLM7wFzahDYnGyD9i2f2-uqlV2idiGvEJD&amp;index=4&amp;pp=iAQB)
+### [Результаты &quot;3 курса Практический JavaScript бесплатно&quot;](https://www.youtube.com/watch?v=LbqUZtyCN00&amp;list=PLM7wFzahDYnGyD9i2f2-uqlV2idiGvEJD&amp;index=5&amp;pp=iAQB)
+### [5 самых тупых вопросов на собеседовании](https://www.youtube.com/watch?v=2Y1NrP_IOg8&amp;list=PLM7wFzahDYnGyD9i2f2-uqlV2idiGvEJD&amp;index=6&amp;pp=iAQB)

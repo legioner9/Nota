@@ -1,0 +1,3 @@
+# [WebDev с нуля. Канал Алекса Лущенко](https://www.youtube.com/@itgid/playlists)
+## [Java Script для начинающих](https://www.youtube.com/playlist?list=PLM7wFzahDYnFjBTkfRTRlusyp_tlZ9rYz)
+### [Учим JavaScript 22. Кошка гоняется за мышкой](https://www.youtube.com/watch?v=jcwHHbw5Hl8&amp;list=PLM7wFzahDYnFjBTkfRTRlusyp_tlZ9rYz&amp;index=21&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [openWeb - Веб программирование на языках PHP и JS](https://www.youtube.com/@openweb-php/playlists)
+## [Laravel фреймворк](https://www.youtube.com/playlist?list=PL-leL2miqjEa1oaZWwTQAqoC5NUYk9WOX)
+### [Laravel Cache - Пример работы с кэшем](https://www.youtube.com/watch?v=10Xjk8HyRnc&amp;list=PL-leL2miqjEa1oaZWwTQAqoC5NUYk9WOX&amp;index=8&amp;pp=iAQB)

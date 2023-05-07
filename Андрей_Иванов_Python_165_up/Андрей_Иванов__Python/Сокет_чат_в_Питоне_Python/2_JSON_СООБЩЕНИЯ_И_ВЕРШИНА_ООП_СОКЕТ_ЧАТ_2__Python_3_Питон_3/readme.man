@@ -1,0 +1,3 @@
+# [Андрей Иванов | Python](https://www.youtube.com/@PythononPapyrusRU/playlists)
+## [Сокет чат в Питоне, Python](https://www.youtube.com/playlist?list=PLF4MWzDJPFSbs2wV9SpdWLS4sTuEbsPtc)
+### [JSON СООБЩЕНИЯ И ВЕРШИНА ООП. СОКЕТ ЧАТ #2 | Python 3, Питон 3](https://www.youtube.com/watch?v=AKoGpOmMHwA&amp;list=PLF4MWzDJPFSbs2wV9SpdWLS4sTuEbsPtc&amp;index=2&amp;pp=iAQB)

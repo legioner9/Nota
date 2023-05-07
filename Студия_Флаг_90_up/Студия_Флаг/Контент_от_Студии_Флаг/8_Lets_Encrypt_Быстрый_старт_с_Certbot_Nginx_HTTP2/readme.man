@@ -1,0 +1,3 @@
+# [Студия Флаг](https://www.youtube.com/@FlagStudio/playlists)
+## [Контент от Студии Флаг](https://www.youtube.com/playlist?list=PLVdcV6tHcaCGjD1_X71NAl2ak2yVA_tv2)
+### [Let's Encrypt. Быстрый старт с Certbot, Nginx, HTTP/2](https://www.youtube.com/watch?v=HaLy92BTALI&amp;list=PLVdcV6tHcaCGjD1_X71NAl2ak2yVA_tv2&amp;index=8&amp;pp=iAQB)

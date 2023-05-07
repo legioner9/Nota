@@ -1,0 +1,5 @@
+### [005. В книжках о разработке всё не так, Rust заменяет Node.js и новый отладчик в Chrome DevTools](https://www.youtube.com/watch?v=3Ucq3oMA_xc&amp;list=PLQJNT2fdCJnhzcfnl_WpmMzYwSM6H0HJw&amp;index=1&amp;pp=iAQB)
+### [004. Наконец-то Node.js 20, новые (и старые) критерии WCAG и почти ничего интересного в TS 5.1](https://www.youtube.com/watch?v=C4pEHd7rTIU&amp;list=PLQJNT2fdCJnhzcfnl_WpmMzYwSM6H0HJw&amp;index=2&amp;pp=iAQB)
+### [002. ES2023, React и как include исправит проблемы доступности в Figma](https://www.youtube.com/watch?v=v7JnldBSH94&amp;list=PLQJNT2fdCJnhzcfnl_WpmMzYwSM6H0HJw&amp;index=3&amp;pp=iAQB)
+### [003. Почта без таблиц, вездесущий React](https://www.youtube.com/watch?v=gUKjhy5rYZs&amp;list=PLQJNT2fdCJnhzcfnl_WpmMzYwSM6H0HJw&amp;index=4&amp;pp=iAQB)
+### [001. Конец фронтенда, одинаковые фреймворки и логические свойства](https://www.youtube.com/watch?v=5txIBI_NVko&amp;list=PLQJNT2fdCJnhzcfnl_WpmMzYwSM6H0HJw&amp;index=5&amp;pp=iAQB)

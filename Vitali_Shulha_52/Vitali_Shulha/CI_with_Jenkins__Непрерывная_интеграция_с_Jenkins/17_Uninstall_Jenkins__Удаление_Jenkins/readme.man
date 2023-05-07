@@ -1,0 +1,3 @@
+# [Vitali Shulha](https://www.youtube.com/@vitalishulha8319/playlists)
+## [CI with Jenkins // Непрерывная интеграция с Jenkins](https://www.youtube.com/playlist?list=PLY2rNyjTWaM2nYFpfoW8cpBTLuekroVHp)
+### [Uninstall Jenkins // Удаление Jenkins](https://www.youtube.com/watch?v=teS6tDvp_qE&amp;list=PLY2rNyjTWaM2nYFpfoW8cpBTLuekroVHp&amp;index=17&amp;pp=iAQB)

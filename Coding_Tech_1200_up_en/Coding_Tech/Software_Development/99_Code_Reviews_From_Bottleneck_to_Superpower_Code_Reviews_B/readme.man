@@ -1,0 +1,3 @@
+# [Coding Tech](https://www.youtube.com/@CodingTech/playlists)
+## [Software Development](https://www.youtube.com/playlist?list=PLFjq8z-aGyQ4WBzLzIq-rjMtujrGbDgh_)
+### [Code Reviews: From Bottleneck to Superpower (Code Reviews Best Practices)](https://www.youtube.com/watch?v=8XsBX-V_fgI&amp;list=PLFjq8z-aGyQ4WBzLzIq-rjMtujrGbDgh_&amp;index=99&amp;pp=iAQB)

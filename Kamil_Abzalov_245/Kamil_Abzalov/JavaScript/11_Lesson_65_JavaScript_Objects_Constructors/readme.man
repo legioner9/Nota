@@ -1,0 +1,3 @@
+# [Kamil Abzalov](https://www.youtube.com/@Kamil-abzalovRu/playlists)
+## [JavaScript](https://www.youtube.com/playlist?list=PLOpdT8GIZ4XV1VGM7f_-FIHjYo5Nc8-NN)
+### [Lesson 65. JavaScript. Objects. Constructors](https://www.youtube.com/watch?v=w6E4jwX0aE0&amp;list=PLOpdT8GIZ4XV1VGM7f_-FIHjYo5Nc8-NN&amp;index=11&amp;pp=iAQB)

@@ -1,0 +1,4 @@
+### [WebGL + GPU = Amazing Results!](https://www.youtube.com/watch?v=qkDg-Y9iHBA&amp;list=PLFjq8z-aGyQ4u__clIlQMmaTzZwp4r2Dc&amp;index=1&amp;pp=iAQB)
+### [WebGL In Action!](https://www.youtube.com/watch?v=l2z3UvzXTf4&amp;list=PLFjq8z-aGyQ4u__clIlQMmaTzZwp4r2Dc&amp;index=2&amp;pp=iAQB)
+### [Next Generation 3D Graphics on the Web](https://www.youtube.com/watch?v=CI7FOg7BXwo&amp;list=PLFjq8z-aGyQ4u__clIlQMmaTzZwp4r2Dc&amp;index=3&amp;pp=iAQB)
+### [Building WebGPU with Rust](https://www.youtube.com/watch?v=OdbVCvPjRGg&amp;list=PLFjq8z-aGyQ4u__clIlQMmaTzZwp4r2Dc&amp;index=4&amp;pp=iAQB)

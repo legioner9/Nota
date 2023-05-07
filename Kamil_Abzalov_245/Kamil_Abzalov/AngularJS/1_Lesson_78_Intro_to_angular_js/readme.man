@@ -1,0 +1,3 @@
+# [Kamil Abzalov](https://www.youtube.com/@Kamil-abzalovRu/playlists)
+## [AngularJS](https://www.youtube.com/playlist?list=PLOpdT8GIZ4XXCTI-GGObOko6NkZrQjuJd)
+### [Lesson 78. Intro to angular js](https://www.youtube.com/watch?v=uGMMf4gb03A&amp;list=PLOpdT8GIZ4XXCTI-GGObOko6NkZrQjuJd&amp;index=1&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [WebDev с нуля. Канал Алекса Лущенко](https://www.youtube.com/@itgid/playlists)
+## [TrueJS](https://www.youtube.com/playlist?list=PLM7wFzahDYnEcQh1G_fxFXBZ4O1tlVsDG)
+### [TrueJS 14. Метод map для массивов](https://www.youtube.com/watch?v=IFEH8YxIwTM&amp;list=PLM7wFzahDYnEcQh1G_fxFXBZ4O1tlVsDG&amp;index=14&amp;pp=iAQB)

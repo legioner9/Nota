@@ -1,0 +1,3 @@
+# [WebDev с нуля. Канал Алекса Лущенко](https://www.youtube.com/@itgid/playlists)
+## [Курс NodeJS](https://www.youtube.com/playlist?list=PLM7wFzahDYnHYn81-oqavYIp6vaEd5gdH)
+### [Загрузка файла на сервер на чистой Node.js ( часть 2)](https://www.youtube.com/watch?v=OGiePuJqq2M&amp;list=PLM7wFzahDYnHYn81-oqavYIp6vaEd5gdH&amp;index=16&amp;pp=iAQB)

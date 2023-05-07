@@ -1,0 +1,3 @@
+# [LN Master](https://www.youtube.com/@ToBeCloser007/playlists)
+## [Recoil](https://www.youtube.com/playlist?list=PL3PZFGlHBUn1mHP-TK4kmwIDKauhSaAEm)
+### [Введение в Recoil. Пишем CRUD. Атомы и селекторы.](https://www.youtube.com/watch?v=xrM_kLtQtpY&amp;list=PL3PZFGlHBUn1mHP-TK4kmwIDKauhSaAEm&amp;index=1&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [Web Developer Blog](https://www.youtube.com/@SuprunAlexey/playlists)
+## [Уроки jQuery](https://www.youtube.com/playlist?list=PLVfMKQXDAhGXQcouhIblV910Rv7lRscH3)
+### [Уроки jQuery #2 | Выбор селекторов. Оптимизация выборки](https://www.youtube.com/watch?v=pfsef_VWFR8&amp;list=PLVfMKQXDAhGXQcouhIblV910Rv7lRscH3&amp;index=2&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [Кибер Весло](https://www.youtube.com/@cyber-paddle/playlists)
+## [CI/CD](https://www.youtube.com/playlist?list=PLIMYb25g876gxivZDijQfR4kmy_8-xNN0)
+### [Применение практик CI/CD с использованием Github Actions на проекте Django](https://www.youtube.com/watch?v=0vYJbLEa_fs&amp;list=PLIMYb25g876gxivZDijQfR4kmy_8-xNN0&amp;index=1&amp;pp=iAQB)

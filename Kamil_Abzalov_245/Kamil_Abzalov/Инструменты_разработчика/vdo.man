@@ -1,0 +1,7 @@
+### [Lesson 33. Sublime Text. Installation. Snippets](https://www.youtube.com/watch?v=bjs7g-bI7X8&amp;list=PLOpdT8GIZ4XV1cnoOldTfUasOIanrZ397&amp;index=1&amp;pp=iAQB)
+### [Lesson 34. Sublime text. Package manager](https://www.youtube.com/watch?v=oUbNmt6KZfc&amp;list=PLOpdT8GIZ4XV1cnoOldTfUasOIanrZ397&amp;index=2&amp;pp=iAQB)
+### [Lesson 185. Gulp introduction](https://www.youtube.com/watch?v=VmUXEpH3mI4&amp;list=PLOpdT8GIZ4XV1cnoOldTfUasOIanrZ397&amp;index=3&amp;pp=iAQB)
+### [Lesson 186. Gulp. Plugins. Compile SCSS to CSS](https://www.youtube.com/watch?v=sKIEhy2-jPw&amp;list=PLOpdT8GIZ4XV1cnoOldTfUasOIanrZ397&amp;index=4&amp;pp=iAQB)
+### [Lesson 187. Gulp. Minify CSS. Watch mode](https://www.youtube.com/watch?v=Y-GFpTwPIsA&amp;list=PLOpdT8GIZ4XV1cnoOldTfUasOIanrZ397&amp;index=5&amp;pp=iAQB)
+### [Lesson 188. Gulp. Compile typescript and minify js](https://www.youtube.com/watch?v=PGBG95d4Zek&amp;list=PLOpdT8GIZ4XV1cnoOldTfUasOIanrZ397&amp;index=6&amp;pp=iAQB)
+### [Lesson 189. Gulp. Browsersync](https://www.youtube.com/watch?v=jkW_qHN1INQ&amp;list=PLOpdT8GIZ4XV1cnoOldTfUasOIanrZ397&amp;index=7&amp;pp=iAQB)

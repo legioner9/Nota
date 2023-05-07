@@ -1,0 +1,3 @@
+# [Елена Литвинова — Искусство веб-разработки](https://www.youtube.com/@webelart/playlists)
+## [Уроки JavaScript](https://www.youtube.com/playlist?list=PLJpSkcgOK72A7ky__8kHNckPpjHFQkC5m)
+### [Регулярные выражения в JavaScript за 1 час | Уроки JavaScript](https://www.youtube.com/watch?v=2CW1wVtnzi4&amp;list=PLJpSkcgOK72A7ky__8kHNckPpjHFQkC5m&amp;index=1&amp;pp=iAQB)

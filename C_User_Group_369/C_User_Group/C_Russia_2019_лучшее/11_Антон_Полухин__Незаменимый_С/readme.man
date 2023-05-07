@@ -1,0 +1,3 @@
+# [C++ User Group](https://www.youtube.com/@CUserGroupRussia/playlists)
+## [C++ Russia 2019: лучшее](https://www.youtube.com/playlist?list=PLZN9ZGiWZoZo3hYXXOn6NZAi3YzUETzy2)
+### [Антон Полухин — Незаменимый С++](https://www.youtube.com/watch?v=LZflL44SVVY&amp;list=PLZN9ZGiWZoZo3hYXXOn6NZAi3YzUETzy2&amp;index=11&amp;pp=iAQB)

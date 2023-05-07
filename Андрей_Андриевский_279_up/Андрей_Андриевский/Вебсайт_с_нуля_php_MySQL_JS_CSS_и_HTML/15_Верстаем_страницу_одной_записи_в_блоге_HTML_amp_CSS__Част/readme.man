@@ -1,0 +1,3 @@
+# [Андрей Андриевский](https://www.youtube.com/@andrievskii/playlists)
+## [Веб-сайт с нуля (php, MySQL, JS, CSS и HTML)](https://www.youtube.com/playlist?list=PLMB6wLyKp7lVtihXKn-D3yHSLCjaIxliH)
+### [Верстаем страницу одной записи в блоге, HTML &amp; CSS - Часть 4 | Динамический веб-сайт](https://www.youtube.com/watch?v=1vGNmtMN62k&amp;list=PLMB6wLyKp7lVtihXKn-D3yHSLCjaIxliH&amp;index=15&amp;pp=iAQB)

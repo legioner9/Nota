@@ -1,0 +1,3 @@
+# [Coding Tech](https://www.youtube.com/@CodingTech/playlists)
+## [Software Development](https://www.youtube.com/playlist?list=PLFjq8z-aGyQ4WBzLzIq-rjMtujrGbDgh_)
+### [Because You Cant Run, You Cant Hide: Some Musings on API Design || James Powell](https://www.youtube.com/watch?v=xxus5XY_l3w&amp;list=PLFjq8z-aGyQ4WBzLzIq-rjMtujrGbDgh_&amp;index=42&amp;pp=iAQB)

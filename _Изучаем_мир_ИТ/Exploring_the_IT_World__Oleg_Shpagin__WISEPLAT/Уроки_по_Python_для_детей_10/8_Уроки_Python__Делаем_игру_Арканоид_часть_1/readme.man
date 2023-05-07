@@ -1,3 +1,0 @@
-# [Exploring the IT World / Oleg Shpagin / WISEPLAT](https://www.youtube.com/@wiseplat/playlists)
-## [Уроки по Python для детей 10+](https://www.youtube.com/playlist?list=PLxiU3nwEQ4PE7AYceUE6gZrsylpfRxTvm)
-### [Уроки Python / Делаем игру Арканоид (часть 1)](https://www.youtube.com/watch?v=JWQHeQoF4X8&amp;list=PLxiU3nwEQ4PE7AYceUE6gZrsylpfRxTvm&amp;index=8)

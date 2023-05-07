@@ -1,0 +1,3 @@
+# [Андрей Андриевский](https://www.youtube.com/@andrievskii/playlists)
+## [Веб-сайт с нуля (php, MySQL, JS, CSS и HTML)](https://www.youtube.com/playlist?list=PLMB6wLyKp7lVtihXKn-D3yHSLCjaIxliH)
+### [Пишем на php обработчик формы регистрации | Динамический веб-сайт](https://www.youtube.com/watch?v=wPcuwJZ28Xw&amp;list=PLMB6wLyKp7lVtihXKn-D3yHSLCjaIxliH&amp;index=24&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [freeCodeCamp.org](https://www.youtube.com/@freecodecamp/playlists)
+## [Serverless](https://www.youtube.com/playlist?list=PLWKjhJtqVAbkXQS12WiLsH1oaNZBSoWuV)
+### [Create a secure free AWS account](https://www.youtube.com/watch?v=WMT6-pnOD8Q&amp;list=PLWKjhJtqVAbkXQS12WiLsH1oaNZBSoWuV&amp;index=2&amp;pp=iAQB)

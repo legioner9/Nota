@@ -1,0 +1,3 @@
+# [C++ User Group](https://www.youtube.com/@CUserGroupRussia/playlists)
+## [C++ Russia 2020 Moscow: открытый плейлист](https://www.youtube.com/playlist?list=PLZN9ZGiWZoZruMY-MlkAd-nHzdP9TfLRC)
+### [Evgeny Pats — Effective continuous fuzzing — C++](https://www.youtube.com/watch?v=2yIGCKHGPOE&amp;list=PLZN9ZGiWZoZruMY-MlkAd-nHzdP9TfLRC&amp;index=28&amp;pp=iAQB)

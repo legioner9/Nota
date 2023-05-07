@@ -1,0 +1,5 @@
+### [Эволюция JavaScript - история развития Web. HTML-JS-Angular JS-React JS-React Native](https://www.youtube.com/watch?v=-m6cGxCdJrI&amp;list=PLTucyHptHtTkgTkNhlATdvAbe8pBPzrsd&amp;index=1&amp;pp=iAQB)
+### [Курс обучение javascript с нуля. Браузеры и консоль разработчика при работе с JS](https://www.youtube.com/watch?v=EItiofpSg50&amp;list=PLTucyHptHtTkgTkNhlATdvAbe8pBPzrsd&amp;index=2&amp;pp=iAQB)
+### [Лучшие практики по работе с переменными в JavaScript. Курс обучение js с нуля](https://www.youtube.com/watch?v=w38V1lhjpOk&amp;list=PLTucyHptHtTkgTkNhlATdvAbe8pBPzrsd&amp;index=3&amp;pp=iAQB)
+### [Типы данных в JavaScript. Разбор примитивных типов в js. Курс обучение js с нуля](https://www.youtube.com/watch?v=vt-BC9kPU34&amp;list=PLTucyHptHtTkgTkNhlATdvAbe8pBPzrsd&amp;index=4&amp;pp=iAQB)
+### [Редакторы для работы с javascript. Обзор IDE WebStorm. Курс обучение js с нуля](https://www.youtube.com/watch?v=jSvRst5MGrY&amp;list=PLTucyHptHtTkgTkNhlATdvAbe8pBPzrsd&amp;index=5&amp;pp=iAQB)

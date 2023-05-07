@@ -1,0 +1,2 @@
+### [Репликация в MySQL 8](https://www.youtube.com/watch?v=46ALKaAL1tM&amp;list=PLkHuy0rsti_iKHFJhSpt48CTs7OM6ih4Q&amp;index=1&amp;pp=iAQB)
+### [Партиционирование в MySQL](https://www.youtube.com/watch?v=oWbBUJNWRFU&amp;list=PLkHuy0rsti_iKHFJhSpt48CTs7OM6ih4Q&amp;index=2&amp;pp=iAQB)

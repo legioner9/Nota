@@ -1,0 +1,4 @@
+### [Тетрис на чистом JavaScript | Урок 1 | Академия вёрстки](https://www.youtube.com/watch?v=DjPShw9V66k&amp;list=PL3LQJkGQtzc5LV6zPpPZJp1kMJGGBRrdw&amp;index=1&amp;pp=iAQB)
+### [Пишем тетрис на чистом JavaScript | Урок 2 | Академия вёрстки](https://www.youtube.com/watch?v=adO1inVqwwA&amp;list=PL3LQJkGQtzc5LV6zPpPZJp1kMJGGBRrdw&amp;index=2&amp;pp=iAQB)
+### [Пишем тетрис на чистом JavaScript | Урок 3 | Академия вёрстки](https://www.youtube.com/watch?v=W8U_4SCfe2A&amp;list=PL3LQJkGQtzc5LV6zPpPZJp1kMJGGBRrdw&amp;index=3&amp;pp=iAQB)
+### [Пишем тетрис на чистом JavaScript | Урок 4 | Академия вёрстки](https://www.youtube.com/watch?v=pUN__xmMNdc&amp;list=PL3LQJkGQtzc5LV6zPpPZJp1kMJGGBRrdw&amp;index=4&amp;pp=iAQB)

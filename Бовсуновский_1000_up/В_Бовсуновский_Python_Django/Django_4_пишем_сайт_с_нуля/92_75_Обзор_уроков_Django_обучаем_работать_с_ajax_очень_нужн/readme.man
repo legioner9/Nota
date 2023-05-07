@@ -1,0 +1,3 @@
+# [В. Бовсуновский Python Django](https://www.youtube.com/@bov/playlists?view=1)
+## [Django 4 пишем сайт с нуля.](https://www.youtube.com/playlist?list=PLuZJ9n46uMzXVj9JEjULImuBKRVKKS9To)
+### [75. Обзор уроков. Django обучаем работать с ajax, очень нужный функционал для каждого сайта пишем.](https://www.youtube.com/watch?v=wJ5psEHN3IQ&amp;list=PLuZJ9n46uMzXVj9JEjULImuBKRVKKS9To&amp;index=92&amp;pp=iAQB)

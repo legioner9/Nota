@@ -1,0 +1,3 @@
+# [Vyacheslav Chirkov - Programmer](https://www.youtube.com/@vcpro/playlists)
+## [linux](https://www.youtube.com/playlist?list=PLEjhu-KP5eiAOAflLU1_QDXqNyH5hVG6U)
+### [vcProgrammer nginx директивы](https://www.youtube.com/watch?v=aNA6T4STV4A&amp;list=PLEjhu-KP5eiAOAflLU1_QDXqNyH5hVG6U&amp;index=6&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [C++ User Group](https://www.youtube.com/@CUserGroupRussia/playlists)
+## [C++ Siberia 2015](https://www.youtube.com/playlist?list=PLZN9ZGiWZoZooPvBI2c42jSCSPOa8tHcn)
+### [Александр Фокин, От Concepts к Concepts Lite](https://www.youtube.com/watch?v=482JCDghZ8s&amp;list=PLZN9ZGiWZoZooPvBI2c42jSCSPOa8tHcn&amp;index=2&amp;pp=iAQB)

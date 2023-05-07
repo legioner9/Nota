@@ -1,0 +1,3 @@
+# [webDev](https://www.youtube.com/@YauhenKavalchuk/playlists?view=1)
+## [TypeScript + React](https://www.youtube.com/playlist?list=PLNkWIWHIRwMFQBDhZ6HfwO9NL09X3N3Gq)
+### [TypeScript + React #4 Типизация событий (Typing of Events)](https://www.youtube.com/watch?v=HKHVWBCp9v0&amp;list=PLNkWIWHIRwMFQBDhZ6HfwO9NL09X3N3Gq&amp;index=5)

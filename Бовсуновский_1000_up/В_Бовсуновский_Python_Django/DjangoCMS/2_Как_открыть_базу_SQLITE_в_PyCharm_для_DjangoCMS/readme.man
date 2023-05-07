@@ -1,0 +1,3 @@
+# [В. Бовсуновский Python Django](https://www.youtube.com/@bov/playlists?view=1)
+## [DjangoCMS](https://www.youtube.com/playlist?list=PLuZJ9n46uMzWXqR2IxasBA3ncWHWmK4mf)
+### [Как открыть базу SQLITE в PyCharm для DjangoCMS.](https://www.youtube.com/watch?v=vonnkY6mi44&amp;list=PLuZJ9n46uMzWXqR2IxasBA3ncWHWmK4mf&amp;index=2&amp;pp=iAQB)

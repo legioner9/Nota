@@ -1,0 +1,3 @@
+# [Просто о Laravel. CutCode](https://www.youtube.com/@CutCodeRu/playlists)
+## [Полезное видео](https://www.youtube.com/playlist?list=PLTucyHptHtTmq4HFKZVmwwzcac2kgfaEZ)
+### [Роли, Права, Авторизация в Laravel. Знания для понимания Gates и Policies. Часть 2. Политики](https://www.youtube.com/watch?v=fQBSzXP1Q0E&amp;list=PLTucyHptHtTmq4HFKZVmwwzcac2kgfaEZ&amp;index=12&amp;pp=iAQB)

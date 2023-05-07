@@ -1,0 +1,3 @@
+# [Просто о Laravel. CutCode](https://www.youtube.com/@CutCodeRu/playlists)
+## [Laravel updates](https://www.youtube.com/playlist?list=PLTucyHptHtTltQAJTseNL2xCIoX0RWb6r)
+### [Vite - новый король assets в Laravel. Обновление ларавел 9.19.](https://www.youtube.com/watch?v=Rhd2dA8w4Gg&amp;list=PLTucyHptHtTltQAJTseNL2xCIoX0RWb6r&amp;index=17&amp;pp=iAQB)

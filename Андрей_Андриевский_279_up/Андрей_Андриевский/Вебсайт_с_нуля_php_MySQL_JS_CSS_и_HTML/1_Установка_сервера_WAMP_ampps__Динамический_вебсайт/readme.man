@@ -1,0 +1,3 @@
+# [Андрей Андриевский](https://www.youtube.com/@andrievskii/playlists)
+## [Веб-сайт с нуля (php, MySQL, JS, CSS и HTML)](https://www.youtube.com/playlist?list=PLMB6wLyKp7lVtihXKn-D3yHSLCjaIxliH)
+### [Установка сервера WAMP (ampps) | Динамический веб-сайт](https://www.youtube.com/watch?v=yEJJlbjT1uk&amp;list=PLMB6wLyKp7lVtihXKn-D3yHSLCjaIxliH&amp;index=1&amp;pp=iAQB)

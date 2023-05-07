@@ -1,0 +1,3 @@
+# [WebDev с нуля. Канал Алекса Лущенко](https://www.youtube.com/@itgid/playlists)
+## [Курс практической верстки](https://www.youtube.com/playlist?list=PLM7wFzahDYnF6V3FOkFMzwAwyJDlVP_kL)
+### [Практическая верстка. Unit 11. Адаптивная верстка](https://www.youtube.com/watch?v=Bw3uZyFYMu0&amp;list=PLM7wFzahDYnF6V3FOkFMzwAwyJDlVP_kL&amp;index=7&amp;pp=iAQB)

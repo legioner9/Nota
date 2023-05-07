@@ -1,0 +1,5 @@
+### [Всегда ли надо писать рекурсии в ФП?](https://www.youtube.com/watch?v=hjlOJvuTD74&amp;list=PLLVOmKOaszbIypxz956KtYvGOStx6ocaN&amp;index=1&amp;pp=iAQB)
+### [Монада - простое объяснение](https://www.youtube.com/watch?v=X6UdSS5bjV4&amp;list=PLLVOmKOaszbIypxz956KtYvGOStx6ocaN&amp;index=2&amp;pp=iAQB)
+### [Понятие ссылочной прозрачности или почему переменные это плохо?](https://www.youtube.com/watch?v=CEJbwmHkKP0&amp;list=PLLVOmKOaszbIypxz956KtYvGOStx6ocaN&amp;index=3&amp;pp=iAQB)
+### [Программируем без мутабельных переменных](https://www.youtube.com/watch?v=52Btj2S7tbU&amp;list=PLLVOmKOaszbIypxz956KtYvGOStx6ocaN&amp;index=4&amp;pp=iAQB)
+### [Как превратить грязный код в чистый](https://www.youtube.com/watch?v=88vmHh-ADJo&amp;list=PLLVOmKOaszbIypxz956KtYvGOStx6ocaN&amp;index=5&amp;pp=iAQB)

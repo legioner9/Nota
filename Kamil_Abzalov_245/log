@@ -1,0 +1,225 @@
+ 05.05.2023 16:55:12 done Lesson 190. Angular Intro
+ 05.05.2023 16:55:14 done Lesson 191. Angular. Project structure
+ 05.05.2023 16:55:17 done Lesson 192.  Angular CLI
+ 05.05.2023 16:55:19 done Lesson 193. Angular. Introduction to components
+ 05.05.2023 16:55:21 done Lesson 194. Angular. Introduction to services
+ 05.05.2023 16:55:24 done Lesson 195. Angular. Pipes
+ 05.05.2023 16:55:26 done Lesson 196. Angular. Modules
+ 05.05.2023 16:55:28 done Lesson 197. Angular. Structural directives *ngFor and *ngIf
+ 05.05.2023 16:55:31 done Lesson 198. Angular. Built-in directives. Dynamic element attributes
+ 05.05.2023 16:55:33 done Lesson 199. Angular. Components interaction
+ 05.05.2023 16:55:35 done Lesson 200. Angular. Change detection
+ 05.05.2023 16:55:37 done Lesson 201. Angular. Component lifecycle
+ 05.05.2023 16:55:40 done Lesson 202. Angular. Component Lifecylce. Part two
+ 05.05.2023 16:55:40 done Angular
+ 05.05.2023 16:56:12 done Lesson 116. Install Wordpress
+ 05.05.2023 16:56:14 done Lesson 117. Wordpress administration panel
+ 05.05.2023 16:56:17 done Lesson 118. Summary of plugins for e-commerce on Wordpress
+ 05.05.2023 16:56:19 done Lesson 119. Wordpress. Create theme
+ 05.05.2023 16:56:21 done Lesson 120. WordPress. Create theme. Header and footer
+ 05.05.2023 16:56:23 done Lesson 121. Wordpress. Create theme. Print menu in template
+ 05.05.2023 16:56:26 done Lesson 122. Wordpress. Create theme. Posts loop
+ 05.05.2023 16:56:28 done Lesson 123. Wordpress. Create theme. Search form
+ 05.05.2023 16:56:30 done Lesson 124. Wordpress. Create theme. Widgets
+ 05.05.2023 16:56:33 done Lesson 125. Wordpress. Create theme. Comments and comment form output
+ 05.05.2023 16:56:35 done Lesson 126. Wordpress. Create theme. Options API. Create custom options
+ 05.05.2023 16:56:37 done Lesson 127. Opencart. Short review
+ 05.05.2023 16:56:39 done Lesson 128. Joomla. Setup and localization
+ 05.05.2023 16:56:42 done Lesson 129. Joomla. Materials, components and modules
+ 05.05.2023 16:56:44 done Lesson 130. Joomla. Create template. Files and folder structure
+ 05.05.2023 16:56:46 done Lesson 131. Joomla. Create template. Main template file
+ 05.05.2023 16:56:49 done Lesson 132. Joomla. Create template. Define menu and search module template
+ 05.05.2023 16:56:51 done Lesson 133. Joomla. Create template. Override component template and K2 category listing component
+ 05.05.2023 16:56:53 done Lesson 134. Joomla. Custom template. Language constants. Install virtuemart
+ 05.05.2023 16:56:56 done Lesson 135. Joomla. Create e-commerce web site. Virtuemart overview
+ 05.05.2023 16:56:58 done Lesson 136. MODX revolution. Setup
+ 05.05.2023 16:57:00 done Lesson 137. Create site template. Code header
+ 05.05.2023 16:57:02 done Lesson 138. MODx. Create template. Main page
+ 05.05.2023 16:57:05 done Lesson 139. MODx. Resources, templates, installing packages
+ 05.05.2023 16:57:07 done Lesson 140. MODx. Chunks. Create main menu
+ 05.05.2023 16:57:09 done Lesson 141. MODx. Create contact form
+ 05.05.2023 16:57:11 done Lesson 142. MODX. TV fields
+ 05.05.2023 16:57:14 done Lesson 143. MODX. getResources snippet
+ 05.05.2023 16:57:16 done Lesson 144. MODX. Simple snippet. Minishop2
+ 05.05.2023 16:57:18 done Drupal 7. How to install
+ 05.05.2023 16:57:20 done Lesson 146. Drupal 7. Admin panel overview
+ 05.05.2023 16:57:23 done Lesson 147. Drupal 7. Create view and contact form
+ 05.05.2023 16:57:25 done Lesson 148. Drupal 7. Create theme
+ 05.05.2023 16:57:27 done Lesson 149. Drupal. Create theme. Output main menu and page main content
+ 05.05.2023 16:57:30 done Lesson 150. Drupal 7. Output node fields
+ 05.05.2023 16:57:32 done Lesson 151. Drupal 7. Create theme. Node template
+ 05.05.2023 16:57:34 done Lesson 151. Drupal 7. Create theme. Node template
+ 05.05.2023 16:57:36 done Lesson 152. Drupal 7. Create theme. Main page template
+ 05.05.2023 16:57:39 done Lesson 153. Drupal 7. Create theme. The template for concrete node type
+ 05.05.2023 16:57:41 done Lesson 157. Wordpress. Create child theme
+ 05.05.2023 16:57:43 done Lesson 158. Wordpress. Authorization with wordpress API
+ 05.05.2023 16:57:44 done CMS
+ 05.05.2023 16:58:15 done Lesson 91. Create simple php mvc app. Work plan
+ 05.05.2023 16:58:17 done Lesson 92. Create php MVC app. Create database
+ 05.05.2023 16:58:19 done Lesson 93. Create php mvc app. Files and folders structure
+ 05.05.2023 16:58:22 done Lesson 94. Create php MVC application. Configuration files and creating routing file
+ 05.05.2023 16:58:24 done Lesson 95. Create php mvc app. Make authorization in application
+ 05.05.2023 16:58:26 done Lesson 96. Create php MVC application. Cabinet main page
+ 05.05.2023 16:58:28 done Lesson 97. Create PHP MVC application. Sessions. Get all orders
+ 05.05.2023 16:58:31 done Lesson 98. Create php mvc app. Routing refactoring
+ 05.05.2023 16:58:33 done Lesson 99. Create php MVC application. Upload CSV file
+ 05.05.2023 16:58:35 done Lesson 100. Create php MVC application. Use angularjs
+ 05.05.2023 16:58:37 done Lesson 101. Create php MVC app. Angular js - edit and delete product from app
+ 05.05.2023 16:58:40 done Lesson 102. Create php MVC application. Edit profile
+ 05.05.2023 16:58:42 done Lesson 103. Create php MVC app. Get all users
+ 05.05.2023 16:58:44 done Lesson 104. Create php MVC app. Create custom directive in angularjs
+ 05.05.2023 16:58:47 done Lesson 105. Create PHP MVC app. Edit use info with angular js custom directive
+ 05.05.2023 16:58:49 done Lesson 106. Create PHP MVC app. Update and delete user data
+ 05.05.2023 16:58:51 done Lesson 107. Create php MVC app. Add user and send email via php
+ 05.05.2023 16:58:53 done Lesson 108. Create PHP MVC app. Get order detail information
+ 05.05.2023 16:58:56 done Lesson 109. Create PHP MVC app. Check and delete order
+ 05.05.2023 16:58:58 done Lesson 110. Create php MVC app. Registration
+ 05.05.2023 16:59:00 done Lesson 111. Create PHP MVC app. Edit data through modal window
+ 05.05.2023 16:59:02 done Lesson 112. Create PHP MVC app. Create pagination
+ 05.05.2023 16:59:05 done Lesson 113. Create PHP MVC app. Resume
+ 05.05.2023 16:59:05 done Создание простого php mvc приложения
+ 05.05.2023 16:59:36 done Lesson 86. PHP. Intro to OOP. Classes. Objects. Constructors
+ 05.05.2023 16:59:38 done Lesson 87. PHP. OOP. Classes inheritance
+ 05.05.2023 16:59:40 done Lesson 89. PHP. OOP. Static properties and methods
+ 05.05.2023 16:59:43 done Lesson 90. PHP. OOP. Abstract classes and interfaces
+ 05.05.2023 16:59:45 done Lesson 36. Intro to php. Install local environment
+ 05.05.2023 16:59:47 done Lesson 36. PHP. Hosting. Variables. Print data.
+ 05.05.2023 16:59:49 done Lesson 37. PHP. Passing
+ 05.05.2023 16:59:52 done Lesson 38.
+ 05.05.2023 16:59:54 done Lesson 45. PHP loops
+ 05.05.2023 16:59:56 done Lesson 46. Arrays in php
+ 05.05.2023 16:59:58 done Lesson 47. PHP array sorting
+ 05.05.2023 17:00:00 done Lesson 48. User-Defined PHP Functions
+ 05.05.2023 17:00:03 done Lesson 49. Submit form to php
+ 05.05.2023 17:00:05 done Lesson 50. Form validation server side
+ 05.05.2023 17:00:07 done Lesson 61. PHP sessions
+ 05.05.2023 17:00:09 done Lesson 62. Cookie and SQL injections
+ 05.05.2023 17:00:10 done PHP
+ 05.05.2023 17:00:42 done Lesson 78. Intro to angular js
+ 05.05.2023 17:00:44 done Lesson 79. Angular js. Modules, directives, controllers, expressions, MVC
+ 05.05.2023 17:00:46 done Lesson 80. Angular js. Pass data from form to model
+ 05.05.2023 17:00:49 done Lesson 81. Angular js. Form validation
+ 05.05.2023 17:00:51 done Lesson 82. Angular filters. Create your own filters
+ 05.05.2023 17:00:53 done Lesson 83. Angularjs. Services. $http service
+ 05.05.2023 17:00:55 done Lesson 84. Routing in angularjs
+ 05.05.2023 17:00:57 done Lesson 169. AngularJS + AngularJS Material + WooCommerce API. Edit product
+ 05.05.2023 17:01:00 done Lesson 170. AngularJS + AngularJS Material + WooCommerce API. Add and update product
+ 05.05.2023 17:01:02 done Lesson 171. AngularJS + AngularJS Material + WooCommerce API. Load more products
+ 05.05.2023 17:01:02 done AngularJS
+ 05.05.2023 17:01:34 done Lesson 69. JavaScript. Intro to JSON
+ 05.05.2023 17:01:36 done Lesson 70. JavaScript. Intro to XML
+ 05.05.2023 17:01:38 done Lesson 71. JavaScript. Intro to AJAX. XMLHttpRequest
+ 05.05.2023 17:01:40 done Lesson 72. JavaScript. XMLHttpRequest. POST requests. Make simple comment form with ajax
+ 05.05.2023 17:01:43 done Lesson 73. Intro to jquery ajax
+ 05.05.2023 17:01:45 done Lesson 74. JQuery. Ajax example with recaptcha
+ 05.05.2023 17:01:47 done Lesson 75. Intro to API VKontakte
+ 05.05.2023 17:01:49 done Lesson 76. API VKontakte. Requests to API and getting data
+ 05.05.2023 17:01:52 done Lesson 77. API VKontakte. Get access token
+ 05.05.2023 17:01:52 done AJAX
+ 05.05.2023 17:02:23 done Lesson 55. Build CRUD Application PHP &amp; Mysql
+ 05.05.2023 17:02:25 done Lesson 56. Build CRUD Application PHP &amp; Mysql. Intro to PDO
+ 05.05.2023 17:02:27 done Lesson 57. Build CRUD Application PHP &amp; Mysql. Getting data from several table
+ 05.05.2023 17:02:30 done Lesson 58. Build CRUD Application PHP &amp; Mysql. Edit and sava data
+ 05.05.2023 17:02:32 done Lesson 59. Build CRUD Application PHP &amp; Mysql. Add information to database
+ 05.05.2023 17:02:34 done Lesson 60. Build CRUD Application PHP &amp; Mysql. Remove information from application
+ 05.05.2023 17:02:35 done Создание простейшего php+mysql веб приложения
+ 05.05.2023 17:03:02 done Lesson 51. Intro to MySQL
+ 05.05.2023 17:03:04 done Lesson 52. MySQL. Add and modify table and data
+ 05.05.2023 17:03:06 done Lesson 53. MySQL. Links between tables. Foreign keys
+ 05.05.2023 17:03:08 done Lesson 54. MySQL. Links between tables. JOIN operator
+ 05.05.2023 17:03:09 done MySQL
+ 05.05.2023 17:03:40 done Lesson 33. Sublime Text. Installation. Snippets
+ 05.05.2023 17:03:42 done Lesson 34. Sublime text. Package manager
+ 05.05.2023 17:03:45 done Lesson 185. Gulp introduction
+ 05.05.2023 17:03:47 done Lesson 186. Gulp. Plugins. Compile SCSS to CSS
+ 05.05.2023 17:03:49 done Lesson 187. Gulp. Minify CSS. Watch mode
+ 05.05.2023 17:03:51 done Lesson 188. Gulp. Compile typescript and minify js
+ 05.05.2023 17:03:53 done Lesson 189. Gulp. Browsersync
+ 05.05.2023 17:03:54 done Инструменты разработчика
+ 05.05.2023 17:04:25 done Lesson 29. Intro to jquery
+ 05.05.2023 17:04:27 done Lesson 30. Intro to jquery. Part two
+ 05.05.2023 17:04:30 done Lesson 31. Jquery plugins
+ 05.05.2023 17:04:32 done Lesson 32. Form validation with jquery
+ 05.05.2023 17:04:34 done Анимация на JavaScript за 30 минут
+ 05.05.2023 17:04:36 done Веб-анимация средствами Javascipt и CSS
+ 05.05.2023 17:04:37 done Jquery
+ 05.05.2023 17:05:09 done Lesson 22. Intro to javascript
+ 05.05.2023 17:05:12 done Lesson 23. Javascript. Variables. Dialogs, alerts
+ 05.05.2023 17:05:14 done Lesson 24. JavaScript. Loops, conditions.
+ 05.05.2023 17:05:16 done Lesson 25. JavaScript - свойства и функции
+ 05.05.2023 17:05:18 done Lesson 26. JavaScript events
+ 05.05.2023 17:05:20 done Lesson 27. JavaScript. Window and document objects
+ 05.05.2023 17:05:23 done Lesson 28. Form validation with javascript
+ 05.05.2023 17:05:25 done Lesson 39. Closures in javasctipt
+ 05.05.2023 17:05:27 done Lesson 63. JavaScript. Include script in document
+ 05.05.2023 17:05:30 done Lesson 64. JavaScript. Intro to objects
+ 05.05.2023 17:05:32 done Lesson 65. JavaScript. Objects. Constructors
+ 05.05.2023 17:05:34 done Lesson 67. JavaScript. Standard objects prototypes
+ 05.05.2023 17:05:36 done Lesson 66. JavaScript. Prototypes
+ 05.05.2023 17:05:39 done Lesson 40. Javascript. Regular expressions. Part one
+ 05.05.2023 17:05:41 done Lesson 41. Javascript. Regular expressions. Part two
+ 05.05.2023 17:05:43 done Lesson 42. Javascript. Regular expressions. Part three
+ 05.05.2023 17:05:45 done Lesson 43. Javascript. Regular expressions. Part four
+ 05.05.2023 17:05:48 done Основы программирования на JavaScript и PHP
+ 05.05.2023 17:05:50 done Lesson 159. New javascript features overview. Part one
+ 05.05.2023 17:05:52 done Lesson 160. New javascript features overview. Part two
+ 05.05.2023 17:05:54 done Lesson 161. New javascript features overview. Part three
+ 05.05.2023 17:05:57 done Lesson 162. AngularJS + AngluaJS Material + WooCommerce API. Project file structure
+ 05.05.2023 17:05:59 done Lesson 163. AngularJS + AngularJS Material + WooCommerce API. App routing
+ 05.05.2023 17:06:01 done Lesson 164. AngularJS + AngularJS Material + WooCommerce API. Request example
+ 05.05.2023 17:06:03 done Lesson 165. AngularJS + AngularJS Material + WooCommerce API. Orders list page template
+ 05.05.2023 17:06:06 done Lesson 166. AngularJS + AngularJS Material + WooCommerce API. Create filter and delete order
+ 05.05.2023 17:06:08 done Lesson 167. AngularJS + AngularJS Material + WooCommerce API. Products list
+ 05.05.2023 17:06:10 done Lesson 168. AngularJS + AngularJS Material + WooCommerce API. Remove products
+ 05.05.2023 17:06:13 done Lesson 169. AngularJS + AngularJS Material + WooCommerce API. Edit product
+ 05.05.2023 17:06:15 done Lesson 171. AngularJS + AngularJS Material + WooCommerce API. Load more products
+ 05.05.2023 17:06:17 done Lesson 173. Node.js. Install packages
+ 05.05.2023 17:06:19 done Lesson 176. TypeScript. Types
+ 05.05.2023 17:06:22 done Lesson 177. TypeScript. Interfaces
+ 05.05.2023 17:06:24 done Lesson 178. TypeScript. Classes
+ 05.05.2023 17:06:26 done Lesson 179. TypeScript. Functions
+ 05.05.2023 17:06:28 done Lesson 180. TypeScript. Generics
+ 05.05.2023 17:06:31 done Lesson 181. TypeScript. Modules and namespaces
+ 05.05.2023 17:06:33 done Lesson 183. TypeScript. Decorators
+ 05.05.2023 17:06:35 done Lesson 183. TypeScript. Decorators
+ 05.05.2023 17:06:38 done Lesson 184. TypeScript. Compile options. Tsconfig.json file
+ 05.05.2023 17:06:40 done Lesson 184. TypeScript. Compile options. Tsconfig.json file
+ 05.05.2023 17:06:40 done JavaScript
+ 05.05.2023 17:07:11 done Lesson 11. Creating simple web site. Including fonts to web site
+ 05.05.2023 17:07:13 done Lesson 12. Create first web site. Create dropdown menu
+ 05.05.2023 17:07:15 done Lesson 13. Create your first web site. Grid system
+ 05.05.2023 17:07:17 done Lesson 14. Create your first web site. Icon font
+ 05.05.2023 17:07:20 done Lesson 15. Create your first web site. Adding maps, forms and videos
+ 05.05.2023 17:07:20 done Создание простейшего сайта-визитки
+ 05.05.2023 17:07:51 done Lesson 0 (pilot). What is the web site
+ 05.05.2023 17:07:54 done Lesson 1. Intro to HTML
+ 05.05.2023 17:07:56 done Lesson 2. Key HTML tags
+ 05.05.2023 17:07:58 done Lesson 3. Intro to CSS
+ 05.05.2023 17:08:00 done Lesson 4. ID and classes in CSS
+ 05.05.2023 17:08:03 done Lesson 5. HTML block layout
+ 05.05.2023 17:08:05 done Lesson 6. CSS floats
+ 05.05.2023 17:08:07 done Lesson 7. CSS position
+ 05.05.2023 17:08:09 done Lesson 8. CSS relative and absolute position
+ 05.05.2023 17:08:12 done Homework
+ 05.05.2023 17:08:14 done Homework discussion
+ 05.05.2023 17:08:17 done Lesson 16. HTML code validation
+ 05.05.2023 17:08:19 done Lesson 44. HTML web page background
+ 05.05.2023 17:08:21 done Lesson 85. CSS. Flexbox
+ 05.05.2023 17:08:24 done Lesson 137. Create site template. Code header
+ 05.05.2023 17:08:26 done Lesson 18. Skeleton CSS framework
+ 05.05.2023 17:08:28 done Lesson 19. Twitter bootstrap
+ 05.05.2023 17:08:31 done Lesson 20. Twitter bootstrap. CSS
+ 05.05.2023 17:08:33 done Lesson 21. Twitter bootstrap components
+ 05.05.2023 17:08:35 done Lesson 115. Twitter bootstrap 4
+ 05.05.2023 17:08:37 done Вход в профессию веб-разработчика. Технологии HTML/CSS
+ 05.05.2023 17:08:40 done CSS анимации
+ 05.05.2023 17:08:42 done Lesson 155. Zurb foundation CSS framework overview
+ 05.05.2023 17:08:45 done Lesson 156. Zurb Foundation. Code html email
+ 05.05.2023 17:08:47 done Современные решения для адаптивной верстки сайтов
+ 05.05.2023 17:08:49 done Веб-разработка: создаём первый сайт с нуля
+ 05.05.2023 17:08:51 done Lesson 174. Sass intro
+ 05.05.2023 17:08:54 done Lesson 175. Sass intro. Part two
+ 05.05.2023 17:08:56 done Lesson 182. PureCSS framework
+ 05.05.2023 17:08:56 done HTML&CSS
+ 05.05.2023 17:08:57 good end 
+ 05.05.2023 17:08:57 good end 

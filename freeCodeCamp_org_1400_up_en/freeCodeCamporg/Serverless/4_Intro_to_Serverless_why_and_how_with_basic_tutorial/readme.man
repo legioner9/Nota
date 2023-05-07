@@ -1,0 +1,3 @@
+# [freeCodeCamp.org](https://www.youtube.com/@freecodecamp/playlists)
+## [Serverless](https://www.youtube.com/playlist?list=PLWKjhJtqVAbkXQS12WiLsH1oaNZBSoWuV)
+### [Intro to Serverless: why and how (with basic tutorial)](https://www.youtube.com/watch?v=un8-zGFXEfU&amp;list=PLWKjhJtqVAbkXQS12WiLsH1oaNZBSoWuV&amp;index=4&amp;pp=iAQB)

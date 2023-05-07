@@ -1,0 +1,3 @@
+# [В. Бовсуновский Python Django](https://www.youtube.com/@bov/playlists?view=1)
+## [Уроки Linux](https://www.youtube.com/playlist?list=PLuZJ9n46uMzVwOZeH3dfra62lSqIVkmv9)
+### [В Linux главное не отступать, тогда освоите.](https://www.youtube.com/watch?v=mXmOUNimRNU&amp;list=PLuZJ9n46uMzVwOZeH3dfra62lSqIVkmv9&amp;index=34&amp;pp=iAQB)

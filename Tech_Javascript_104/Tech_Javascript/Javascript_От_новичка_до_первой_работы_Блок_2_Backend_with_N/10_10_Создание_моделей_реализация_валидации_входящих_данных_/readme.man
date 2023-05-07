@@ -1,0 +1,3 @@
+# [Tech Javascript](https://www.youtube.com/@techjavascript/playlists)
+## [Javascript От новичка до первой работы. Блок 2. Backend with Nestjs](https://www.youtube.com/playlist?list=PLco1IpJXladbmW9c5Ge1w6oXH2XBaE4XO)
+### [10. Создание моделей, реализация валидации входящих данных Data Transfer Obgect DTO](https://www.youtube.com/watch?v=kSAYJhGNiUI&amp;list=PLco1IpJXladbmW9c5Ge1w6oXH2XBaE4XO&amp;index=10&amp;pp=iAQB)

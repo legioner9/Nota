@@ -1,0 +1,3 @@
+# [Traversy Media](https://www.youtube.com/@TraversyMedia/playlists)
+## [Codeigniter App Tutorial](https://www.youtube.com/playlist?list=PLillGF-RfqbZQw-pSO62ha_imR_848j_X)
+### [Codeigniter App Part 3 - Home Controller and View](https://www.youtube.com/watch?v=MAmRC6ZaodI&amp;list=PLillGF-RfqbZQw-pSO62ha_imR_848j_X&amp;index=3&amp;pp=iAQB)

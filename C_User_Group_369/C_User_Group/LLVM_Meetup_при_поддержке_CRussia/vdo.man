@@ -1,0 +1,2 @@
+### [Павел Степанов — Разработка портабельного ассемблера для новой инфраструктуры JIT](https://www.youtube.com/watch?v=vw6pZd8wamw&amp;list=PLZN9ZGiWZoZpdqvVdRYjp3YXX-Z-f0liP&amp;index=1&amp;pp=iAQB)
+### [Круглый стол: Проблемы портирования тулчейна LLVM на новую платформу](https://www.youtube.com/watch?v=LgxD-Kcasy8&amp;list=PLZN9ZGiWZoZpdqvVdRYjp3YXX-Z-f0liP&amp;index=2&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [Андрей Андриевский](https://www.youtube.com/@andrievskii/playlists)
+## [Базовый JavaScript](https://www.youtube.com/playlist?list=PLMB6wLyKp7lWhGCKhJVII3ag-KfH1qz6U)
+### [Знакомство с функциями в JS – Урок #7 | Базовый JavaScript](https://www.youtube.com/watch?v=bXzuVy6bcG8&amp;list=PLMB6wLyKp7lWhGCKhJVII3ag-KfH1qz6U&amp;index=7&amp;pp=iAQB)

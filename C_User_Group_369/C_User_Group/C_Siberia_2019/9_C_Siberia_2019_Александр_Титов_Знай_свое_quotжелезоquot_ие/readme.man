@@ -1,0 +1,3 @@
+# [C++ User Group](https://www.youtube.com/@CUserGroupRussia/playlists)
+## [C++ Siberia 2019](https://www.youtube.com/playlist?list=PLZN9ZGiWZoZof_AvWub4hAk6Yg4U5rTpT)
+### [C++ Siberia 2019: Александр Титов, Знай свое &quot;железо&quot;: иерархия памяти](https://www.youtube.com/watch?v=ugBE79lcuP8&amp;list=PLZN9ZGiWZoZof_AvWub4hAk6Yg4U5rTpT&amp;index=9&amp;pp=iAQB)

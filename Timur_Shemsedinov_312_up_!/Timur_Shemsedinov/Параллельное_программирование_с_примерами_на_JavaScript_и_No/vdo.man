@@ -1,0 +1,4 @@
+### [Семафоры и мьютексы в JavaScript и Node.js](https://www.youtube.com/watch?v=JNLrITevhRI&amp;list=PLHhi8ymDMrQZDYtU8ioC5raX6hxPyWjhx&amp;index=1&amp;pp=iAQB)
+### [Atomics, SharedArrayBuffer, worker_threads в Node.js](https://www.youtube.com/watch?v=zLm8pnbxSII&amp;list=PLHhi8ymDMrQZDYtU8ioC5raX6hxPyWjhx&amp;index=2&amp;pp=iAQB)
+### [Модель акторов для параллельных вычислений](https://www.youtube.com/watch?v=xp5MVKEqxY4&amp;list=PLHhi8ymDMrQZDYtU8ioC5raX6hxPyWjhx&amp;index=3&amp;pp=iAQB)
+### [Разделяемая память в многопоточном Node.js. Тимур Шемсединов. JS Fest 2019 Spring](https://www.youtube.com/watch?v=KNsm_iIQt7U&amp;list=PLHhi8ymDMrQZDYtU8ioC5raX6hxPyWjhx&amp;index=4&amp;pp=iAQB)

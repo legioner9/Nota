@@ -1,0 +1,3 @@
+# [okiseleva](https://www.youtube.com/@okiseleva/playlists)
+## [Автоматизация в Postman](https://www.youtube.com/playlist?list=PLzy4cPXOwbY5jBrEKajDA3-jzzvJgW6n8)
+### [Цикл for в автотестах Postman-a](https://www.youtube.com/watch?v=JdRq6gUcr5Q&amp;list=PLzy4cPXOwbY5jBrEKajDA3-jzzvJgW6n8&amp;index=13&amp;pp=iAQB)

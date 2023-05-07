@@ -1,0 +1,3 @@
+# [Dmitry Afanasyev](https://www.youtube.com/@DmitryAfanasyev/playlists)
+## [PHP-Tips](https://www.youtube.com/playlist?list=PLoonZ8wII66jVNtDG-2b1KipT1cpSK57O)
+### [#4 [PHP - ключевое слово finally]](https://www.youtube.com/watch?v=NpXuwv303b4&amp;list=PLoonZ8wII66jVNtDG-2b1KipT1cpSK57O&amp;index=4&amp;pp=iAQB)

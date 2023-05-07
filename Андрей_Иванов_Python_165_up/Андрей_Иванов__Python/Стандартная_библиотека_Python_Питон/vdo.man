@@ -1,0 +1,7 @@
+### [JSON В ПИТОНЕ. ЧТО ЭТО И КАК ИСПОЛЬЗОВАТЬ | Python 3, Питон 3](https://www.youtube.com/watch?v=nDG78A8aKOo&amp;list=PLF4MWzDJPFSaJT3wxrf_xxOl_jv3zYPmS&amp;index=1&amp;pp=iAQB)
+### [СООБЩЕНИЕ НА 10 ЛЕТ ВПЕРЕД | Python 3, Питон 3](https://www.youtube.com/watch?v=JqOS77eov5U&amp;list=PLF4MWzDJPFSaJT3wxrf_xxOl_jv3zYPmS&amp;index=2&amp;pp=iAQB)
+### [Asyncio и асинхронное программирование | Python 3, Питон 3](https://www.youtube.com/watch?v=17opMYWZ7ws&amp;list=PLF4MWzDJPFSaJT3wxrf_xxOl_jv3zYPmS&amp;index=3&amp;pp=iAQB)
+### [JSON ФАЙЛ В НАСТРОЙКИ ПИТОН ПРОЕКТА | Python 3, Питон 3](https://www.youtube.com/watch?v=DEpy77z6img&amp;list=PLF4MWzDJPFSaJT3wxrf_xxOl_jv3zYPmS&amp;index=4&amp;pp=iAQB)
+### [ХВАТИТЬ ИСПОЛЬЗОВАТЬ LAMBDA ФУНКЦИИ | Python 3, Питон 3](https://www.youtube.com/watch?v=PbX2Dae3RGE&amp;list=PLF4MWzDJPFSaJT3wxrf_xxOl_jv3zYPmS&amp;index=5&amp;pp=iAQB)
+### [ASYNCIO CALLBACKS | Python 3, Питон 3](https://www.youtube.com/watch?v=pE82NZ2Zl-o&amp;list=PLF4MWzDJPFSaJT3wxrf_xxOl_jv3zYPmS&amp;index=6&amp;pp=iAQB)
+### [КАК ИСПОЛЬЗОВАТЬ ИВЕНТЫ В АСИНХРОННОСТИ ПИТОНА. EVENTS В ASYNCIO](https://www.youtube.com/watch?v=PZCymurJEa0&amp;list=PLF4MWzDJPFSaJT3wxrf_xxOl_jv3zYPmS&amp;index=7&amp;pp=iAQB)

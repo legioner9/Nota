@@ -1,0 +1,3 @@
+# [freeCodeCamp.org](https://www.youtube.com/@freecodecamp/playlists)
+## [DevOps Courses](https://www.youtube.com/playlist?list=PLWKjhJtqVAbkzvvpY12KkfiIGso9A_Ixs)
+### [Learn Terraform (and AWS)](https://www.youtube.com/watch?v=iRaai1IBlB0&amp;list=PLWKjhJtqVAbkzvvpY12KkfiIGso9A_Ixs&amp;index=10&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [Vitaliy html](https://www.youtube.com/@vitaliyhtml/playlists)
+## [SQL](https://www.youtube.com/playlist?list=PL97bu4ZDN_byFtn3cDo7dbURidAlg7ZSG)
+### [Команды для удаления данных в SQL (delete, truncate table, drop table, drop database)](https://www.youtube.com/watch?v=SOisiGAvjd4&amp;list=PL97bu4ZDN_byFtn3cDo7dbURidAlg7ZSG&amp;index=3&amp;pp=iAQB)

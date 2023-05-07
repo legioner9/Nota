@@ -1,0 +1,5 @@
+### [SOLID, 1.1 SRP - Single Responsibility Principle, Принцип Единственной ответственности, С#, Unity](https://www.youtube.com/watch?v=ZA-1BZPj3_U&amp;list=PL7GaNwuzA5StUNiOJFulHSD1SKkLdQYIx&amp;index=1&amp;pp=iAQB)
+### [SOLID, 1.2 OCP - Open Closed Principle, Принцип открытости закрытости, С#, Unity](https://www.youtube.com/watch?v=qOdf5CqEx-k&amp;list=PL7GaNwuzA5StUNiOJFulHSD1SKkLdQYIx&amp;index=2&amp;pp=iAQB)
+### [SOLID, 1.3 LSP - Liskov Substitution Principle Принцип подстановки Лисков - С#, Unity](https://www.youtube.com/watch?v=Ii3pa1ef9yQ&amp;list=PL7GaNwuzA5StUNiOJFulHSD1SKkLdQYIx&amp;index=3&amp;pp=iAQB)
+### [SOLID, 1.4 ISP - Interface Segregation Principle, Принцип разделения интерфейса , С#, Unity](https://www.youtube.com/watch?v=i8Rle4DB5WU&amp;list=PL7GaNwuzA5StUNiOJFulHSD1SKkLdQYIx&amp;index=4&amp;pp=iAQB)
+### [SOLID, 1.5 DIP - Dependency Inversion Principle, Принцип инверсии зависимости, С#, Unity](https://www.youtube.com/watch?v=Uq10IqZhf7U&amp;list=PL7GaNwuzA5StUNiOJFulHSD1SKkLdQYIx&amp;index=5&amp;pp=iAQB)

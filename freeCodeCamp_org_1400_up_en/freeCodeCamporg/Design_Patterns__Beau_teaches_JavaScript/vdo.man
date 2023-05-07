@@ -1,0 +1,4 @@
+### [Singleton Design Pattern - Beau teaches JavaScript](https://www.youtube.com/watch?v=bgU7FeiWKzc&amp;list=PLWKjhJtqVAbnZtkAI3BqcYxKnfWn_C704&amp;index=1&amp;pp=iAQB)
+### [Observer Design Pattern - Beau teaches JavaScript](https://www.youtube.com/watch?v=3PUVr8jFMGg&amp;list=PLWKjhJtqVAbnZtkAI3BqcYxKnfWn_C704&amp;index=2&amp;pp=iAQB)
+### [Module Design Pattern - Beau teaches JavaScript](https://www.youtube.com/watch?v=3pXVHRT-amw&amp;list=PLWKjhJtqVAbnZtkAI3BqcYxKnfWn_C704&amp;index=3&amp;pp=iAQB)
+### [Mediator Design Pattern - Beau teaches JavaScript](https://www.youtube.com/watch?v=KOVc5o5kURE&amp;list=PLWKjhJtqVAbnZtkAI3BqcYxKnfWn_C704&amp;index=4&amp;pp=iAQB)

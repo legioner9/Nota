@@ -1,0 +1,3 @@
+# [Елена Литвинова — Искусство веб-разработки](https://www.youtube.com/@webelart/playlists)
+## [Программируем вместе](https://www.youtube.com/playlist?list=PLJpSkcgOK72D84l0Y1GLT5mNzuzpWzTf1)
+### [Пишем полифилы на JavaScript (map, reduce, flat) | Уроки JS](https://www.youtube.com/watch?v=ti6vnn3NypQ&amp;list=PLJpSkcgOK72D84l0Y1GLT5mNzuzpWzTf1&amp;index=17&amp;pp=iAQB)

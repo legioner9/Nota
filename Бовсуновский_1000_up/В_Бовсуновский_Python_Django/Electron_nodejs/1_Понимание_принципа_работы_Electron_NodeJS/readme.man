@@ -1,0 +1,3 @@
+# [В. Бовсуновский Python Django](https://www.youtube.com/@bov/playlists?view=1)
+## [Electron nodejs](https://www.youtube.com/playlist?list=PLuZJ9n46uMzU0eG9XSWdu2weGJNUq2E61)
+### [Понимание принципа работы Electron NodeJS.](https://www.youtube.com/watch?v=wRns-JcbtTQ&amp;list=PLuZJ9n46uMzU0eG9XSWdu2weGJNUq2E61&amp;index=1&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [Просто о Laravel. CutCode](https://www.youtube.com/@CutCodeRu/playlists)
+## [Для тех, кто не знал](https://www.youtube.com/playlist?list=PLTucyHptHtTk_WWbgolZzCxl2nxWLBfjc)
+### [Новые методы FormRequests - boolean и string в Laravel. Для тех кто не знал](https://www.youtube.com/watch?v=g_-5iCoPiMo&amp;list=PLTucyHptHtTk_WWbgolZzCxl2nxWLBfjc&amp;index=12&amp;pp=iAQB)

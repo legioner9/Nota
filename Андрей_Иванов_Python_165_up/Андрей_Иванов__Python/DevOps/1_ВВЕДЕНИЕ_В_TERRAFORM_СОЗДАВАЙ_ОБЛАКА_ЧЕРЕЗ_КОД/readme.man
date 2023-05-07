@@ -1,0 +1,3 @@
+# [Андрей Иванов | Python](https://www.youtube.com/@PythononPapyrusRU/playlists)
+## [DevOps](https://www.youtube.com/playlist?list=PLF4MWzDJPFSaLnUpFQtfedtPYHWSnE8sx)
+### [ВВЕДЕНИЕ В TERRAFORM. СОЗДАВАЙ ОБЛАКА ЧЕРЕЗ КОД](https://www.youtube.com/watch?v=mZKPniRkNkw&amp;list=PLF4MWzDJPFSaLnUpFQtfedtPYHWSnE8sx&amp;index=1&amp;pp=iAQB)

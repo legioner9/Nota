@@ -1,3 +1,0 @@
-# [Exploring the IT World / Oleg Shpagin / WISEPLAT](https://www.youtube.com/@wiseplat/playlists)
-## [Уроки Пайтон с нуля](https://www.youtube.com/playlist?list=PLxiU3nwEQ4PGWsSmALCysmjl2CLO0La30)
-### [Уроки Python / Модуль tkinter (выбираем цвет picker)](https://www.youtube.com/watch?v=cHpyMwRCs30&amp;list=PLxiU3nwEQ4PGWsSmALCysmjl2CLO0La30&amp;index=82)

@@ -1,3 +1,0 @@
-# [Exploring the IT World / Oleg Shpagin / WISEPLAT](https://www.youtube.com/@wiseplat/playlists)
-## [Пайтон для начинающих](https://www.youtube.com/playlist?list=PLxiU3nwEQ4PHpI7lClbPX85jE6sAk1G4F)
-### [Уроки Python / Логические операторы И, ИЛИ, НЕ (AND, OR, NOT)](https://www.youtube.com/watch?v=Ruk0DoQpzvQ&amp;list=PLxiU3nwEQ4PHpI7lClbPX85jE6sAk1G4F&amp;index=45)

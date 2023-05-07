@@ -1,0 +1,3 @@
+# [Unix way](https://www.youtube.com/@unixway4196/playlists)
+## [Распределенная файловая система GlusterFS](https://www.youtube.com/playlist?list=PLsMIccp52YRsEEiTqop0Q7OnagsEW8i7p)
+### [Распределенная файловая система GlusterFS. Часть 2](https://www.youtube.com/watch?v=1PD6hkheRrk&amp;list=PLsMIccp52YRsEEiTqop0Q7OnagsEW8i7p&amp;index=2&amp;pp=iAQB)

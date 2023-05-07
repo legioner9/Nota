@@ -1,0 +1,3 @@
+# [freeCodeCamp.org](https://www.youtube.com/@freecodecamp/playlists)
+## [Serverless](https://www.youtube.com/playlist?list=PLWKjhJtqVAbkXQS12WiLsH1oaNZBSoWuV)
+### [Setting up Severless Framework from Scratch](https://www.youtube.com/watch?v=iNZUaye8lXk&amp;list=PLWKjhJtqVAbkXQS12WiLsH1oaNZBSoWuV&amp;index=3&amp;pp=iAQB)

@@ -1,0 +1,4 @@
+### [Уроки HTML: Валидация формы на чистом Html и Css](https://www.youtube.com/watch?v=OKZ52o0qHLM&amp;list=PLVfMKQXDAhGWUc3NEYT2De304hn290FdI&amp;index=1&amp;pp=iAQB)
+### [Уроки по HTML #1 Введение в Html, первый файл](https://www.youtube.com/watch?v=8MEJdXJvCUY&amp;list=PLVfMKQXDAhGWUc3NEYT2De304hn290FdI&amp;index=2&amp;pp=iAQB)
+### [Уроки по HTML #2 Работа с текстом в HTML](https://www.youtube.com/watch?v=4jxmSBSaFgE&amp;list=PLVfMKQXDAhGWUc3NEYT2De304hn290FdI&amp;index=3&amp;pp=iAQB)
+### [Уроки по HTML #8 Структуризация нашего сайта Header,nav,section,aside,footer](https://www.youtube.com/watch?v=Jkgd2CSfUDU&amp;list=PLVfMKQXDAhGWUc3NEYT2De304hn290FdI&amp;index=4&amp;pp=iAQB)

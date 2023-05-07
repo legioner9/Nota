@@ -1,0 +1,3 @@
+# [WebDev с нуля. Канал Алекса Лущенко](https://www.youtube.com/@itgid/playlists)
+## [JavaScript Решает](https://www.youtube.com/playlist?list=PLM7wFzahDYnG-oMkclNX0FIcLZR18hFDM)
+### [JavaScript Решает 12. Решаем задачи про надбавки](https://www.youtube.com/watch?v=BYFFiSM6OVM&amp;list=PLM7wFzahDYnG-oMkclNX0FIcLZR18hFDM&amp;index=12&amp;pp=iAQB)

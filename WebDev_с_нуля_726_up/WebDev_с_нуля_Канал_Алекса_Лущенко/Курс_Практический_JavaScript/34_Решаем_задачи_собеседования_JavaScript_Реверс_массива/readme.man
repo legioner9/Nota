@@ -1,0 +1,3 @@
+# [WebDev с нуля. Канал Алекса Лущенко](https://www.youtube.com/@itgid/playlists)
+## [Курс Практический JavaScript](https://www.youtube.com/playlist?list=PLM7wFzahDYnFxysA3eKw3yj3exkw-qFMR)
+### [Решаем задачи собеседования JavaScript. Реверс массива](https://www.youtube.com/watch?v=JiX2RGaW5I4&amp;list=PLM7wFzahDYnFxysA3eKw3yj3exkw-qFMR&amp;index=34&amp;pp=iAQB)

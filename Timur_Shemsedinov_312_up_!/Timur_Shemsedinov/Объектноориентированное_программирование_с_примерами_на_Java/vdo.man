@@ -1,0 +1,6 @@
+### [🎧 Объектно-ориентированное программирование](https://www.youtube.com/watch?v=r4ReQlVtfgQ&amp;list=PLHhi8ymDMrQZsPQhqTlK3cw5fsIXJX6C-&amp;index=1&amp;pp=iAQB)
+### [💻 Структуры (struct) или записи (record)](https://www.youtube.com/watch?v=Wb7o_kK4aH4&amp;list=PLHhi8ymDMrQZsPQhqTlK3cw5fsIXJX6C-&amp;index=2&amp;pp=iAQB)
+### [💻 ООП: построение абстракций, инкапсуляция и сокрытие](https://www.youtube.com/watch?v=sQwF6-bYeDM&amp;list=PLHhi8ymDMrQZsPQhqTlK3cw5fsIXJX6C-&amp;index=3&amp;pp=iAQB)
+### [💻 ООП: наследование и полиморфизм (в JavaScript)](https://www.youtube.com/watch?v=8OuzIAuMfjw&amp;list=PLHhi8ymDMrQZsPQhqTlK3cw5fsIXJX6C-&amp;index=4&amp;pp=iAQB)
+### [🎧 GRASP принципы с адаптацией для JavaScript и Node.js](https://www.youtube.com/watch?v=ExauFjYV_lQ&amp;list=PLHhi8ymDMrQZsPQhqTlK3cw5fsIXJX6C-&amp;index=5&amp;pp=iAQB)
+### [💻 GRASP: принцип информационный эксперт с адаптацией для JavaScript и Node.js](https://www.youtube.com/watch?v=cCHL329_As0&amp;list=PLHhi8ymDMrQZsPQhqTlK3cw5fsIXJX6C-&amp;index=6&amp;pp=iAQB)

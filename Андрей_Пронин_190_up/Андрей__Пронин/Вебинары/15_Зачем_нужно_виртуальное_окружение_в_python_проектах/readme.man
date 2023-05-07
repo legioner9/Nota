@@ -1,0 +1,3 @@
+# [Андрей += Пронин](https://www.youtube.com/@AndyPronin/playlists)
+## [Вебинары](https://www.youtube.com/playlist?list=PLgENP2X2Wt55ZyZdsMu3DcSlzM-fBI2DT)
+### [Зачем нужно виртуальное окружение в python проектах](https://www.youtube.com/watch?v=qabBOWb5cVM&amp;list=PLgENP2X2Wt55ZyZdsMu3DcSlzM-fBI2DT&amp;index=15&amp;pp=iAQB)

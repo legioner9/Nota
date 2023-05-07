@@ -1,0 +1,3 @@
+# [web3.online](https://www.youtube.com/@web3online/playlists)
+## [Rust Lang Уроки](https://www.youtube.com/playlist?list=PLnalMG3z2RzF39Hg-PG-x_rH8Yr2ztYbV)
+### [Копирование вместо передачи владения. Язык Rust](https://www.youtube.com/watch?v=cRTZyuhSiek&amp;list=PLnalMG3z2RzF39Hg-PG-x_rH8Yr2ztYbV&amp;index=16&amp;pp=iAQB)

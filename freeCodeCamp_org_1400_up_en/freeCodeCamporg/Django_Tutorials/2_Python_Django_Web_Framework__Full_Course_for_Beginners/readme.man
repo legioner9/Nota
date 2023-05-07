@@ -1,0 +1,3 @@
+# [freeCodeCamp.org](https://www.youtube.com/@freecodecamp/playlists)
+## [Django Tutorials](https://www.youtube.com/playlist?list=PLWKjhJtqVAblFnET3DbnAik--u4CBz62G)
+### [Python Django Web Framework - Full Course for Beginners](https://www.youtube.com/watch?v=F5mRW0jo-U4&amp;list=PLWKjhJtqVAblFnET3DbnAik--u4CBz62G&amp;index=2&amp;pp=iAQB)

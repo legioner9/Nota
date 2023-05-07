@@ -1,0 +1,3 @@
+# [Tech Javascript](https://www.youtube.com/@techjavascript/playlists)
+## [Javascript от новичка и до первой работы. Блок 3. Frontend with React js](https://www.youtube.com/playlist?list=PLco1IpJXladYKtXL9ppvHEMd8fQsTdCYm)
+### [19. Добавление навигации в sidebar  Рендерим наше меню динамически в проекте React js](https://www.youtube.com/watch?v=a8sKiD5oDkM&amp;list=PLco1IpJXladYKtXL9ppvHEMd8fQsTdCYm&amp;index=19&amp;pp=iAQB)

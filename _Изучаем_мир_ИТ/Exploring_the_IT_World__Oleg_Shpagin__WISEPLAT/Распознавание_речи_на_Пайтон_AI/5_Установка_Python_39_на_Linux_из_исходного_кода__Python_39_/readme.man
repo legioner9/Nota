@@ -1,3 +1,0 @@
-# [Exploring the IT World / Oleg Shpagin / WISEPLAT](https://www.youtube.com/@wiseplat/playlists)
-## [Распознавание речи на Пайтон AI](https://www.youtube.com/playlist?list=PLxiU3nwEQ4PHLCwPFUdr3u2oScfIhUohe)
-### [Установка Python 3.9 на Linux из исходного кода / Python 3.9 Install](https://www.youtube.com/watch?v=1mAFa_aQEGQ&amp;list=PLxiU3nwEQ4PHLCwPFUdr3u2oScfIhUohe&amp;index=5)

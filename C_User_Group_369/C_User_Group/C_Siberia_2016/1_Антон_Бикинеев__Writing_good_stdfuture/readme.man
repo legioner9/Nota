@@ -1,0 +1,3 @@
+# [C++ User Group](https://www.youtube.com/@CUserGroupRussia/playlists)
+## [C++ Siberia 2016](https://www.youtube.com/playlist?list=PLZN9ZGiWZoZoM3Dp0yg36SYcDMH2-h8pU)
+### [Антон Бикинеев | Writing good std::future](https://www.youtube.com/watch?v=XFpg7puOqfc&amp;list=PLZN9ZGiWZoZoM3Dp0yg36SYcDMH2-h8pU&amp;index=1&amp;pp=iAQB)

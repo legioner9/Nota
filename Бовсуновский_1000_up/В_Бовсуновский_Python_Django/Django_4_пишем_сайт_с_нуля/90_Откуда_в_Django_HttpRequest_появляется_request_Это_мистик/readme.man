@@ -1,0 +1,3 @@
+# [В. Бовсуновский Python Django](https://www.youtube.com/@bov/playlists?view=1)
+## [Django 4 пишем сайт с нуля.](https://www.youtube.com/playlist?list=PLuZJ9n46uMzXVj9JEjULImuBKRVKKS9To)
+### [Откуда в Django HttpRequest появляется request. Это мистика и магия. А может нет?](https://www.youtube.com/watch?v=UtUcrvT0AAg&amp;list=PLuZJ9n46uMzXVj9JEjULImuBKRVKKS9To&amp;index=90&amp;pp=iAQB)

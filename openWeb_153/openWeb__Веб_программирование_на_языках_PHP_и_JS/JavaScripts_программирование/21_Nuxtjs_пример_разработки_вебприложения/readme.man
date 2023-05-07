@@ -1,0 +1,3 @@
+# [openWeb - Веб программирование на языках PHP и JS](https://www.youtube.com/@openweb-php/playlists)
+## [JavaScripts программирование](https://www.youtube.com/playlist?list=PL-leL2miqjEZUx00lK6FRYNc1ZRakEyEJ)
+### [Nuxt.js пример разработки веб-приложения](https://www.youtube.com/watch?v=ES2tJFpaHPA&amp;list=PL-leL2miqjEZUx00lK6FRYNc1ZRakEyEJ&amp;index=21&amp;pp=iAQB)

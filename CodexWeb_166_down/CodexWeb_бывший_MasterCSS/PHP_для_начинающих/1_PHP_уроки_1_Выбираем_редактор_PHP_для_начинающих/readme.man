@@ -1,0 +1,3 @@
+# [CodexWeb (бывший Master-CSS)](https://www.youtube.com/@CodexWeb/playlists)
+## [PHP для начинающих](https://www.youtube.com/playlist?list=PLPpaecEYRC8Z7WLNSxiuJKeA0fsFC-AIQ)
+### [PHP уроки. 1: Выбираем редактор (PHP для начинающих)](https://www.youtube.com/watch?v=xYhVZMWj588&amp;list=PLPpaecEYRC8Z7WLNSxiuJKeA0fsFC-AIQ&amp;index=1&amp;pp=iAQB)

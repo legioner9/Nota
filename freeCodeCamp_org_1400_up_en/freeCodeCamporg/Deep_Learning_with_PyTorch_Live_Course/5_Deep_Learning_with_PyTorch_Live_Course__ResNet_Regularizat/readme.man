@@ -1,0 +1,3 @@
+# [freeCodeCamp.org](https://www.youtube.com/@freecodecamp/playlists)
+## [Deep Learning with PyTorch Live Course](https://www.youtube.com/playlist?list=PLWKjhJtqVAbm3T2Eq1_KgloC7ogdXxdRa)
+### [Deep Learning with PyTorch Live Course - ResNet, Regularization and Data Augmentation (Part 5 of 6)](https://www.youtube.com/watch?v=sJF6PiAjE1M&amp;list=PLWKjhJtqVAbm3T2Eq1_KgloC7ogdXxdRa&amp;index=5&amp;pp=iAQB)

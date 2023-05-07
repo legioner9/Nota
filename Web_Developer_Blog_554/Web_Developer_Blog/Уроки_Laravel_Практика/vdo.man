@@ -1,0 +1,2 @@
+### [Уроки Laravel практика - Первое приложение](https://www.youtube.com/watch?v=4sER5Ao_6NI&amp;list=PLVfMKQXDAhGVwzXKpfGk67AeXZQzgI9Bk&amp;index=1&amp;pp=iAQB)
+### [Уроки Laravel практика - Заканчиваем первое приложение](https://www.youtube.com/watch?v=ym5p6Wgx0jM&amp;list=PLVfMKQXDAhGVwzXKpfGk67AeXZQzgI9Bk&amp;index=2&amp;pp=iAQB)

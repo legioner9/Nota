@@ -1,0 +1,3 @@
+# [Monsterlessons Academy](https://www.youtube.com/@MonsterlessonsAcademy/playlists)
+## [Redux for beginners](https://www.youtube.com/playlist?list=PLEjh-YiSBCDJZAcJgKMkead-Wjw8rB1LC)
+### [React Redux Hooks - Usedispatch, Useselector](https://www.youtube.com/watch?v=fS38MfVV5SY&amp;list=PLEjh-YiSBCDJZAcJgKMkead-Wjw8rB1LC&amp;index=8&amp;pp=iAQB)

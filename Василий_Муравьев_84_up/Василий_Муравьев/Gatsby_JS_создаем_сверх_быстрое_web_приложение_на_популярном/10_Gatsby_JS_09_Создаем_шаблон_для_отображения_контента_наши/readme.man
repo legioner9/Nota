@@ -1,0 +1,3 @@
+# [Василий Муравьев](https://www.youtube.com/@stackdev/playlists)
+## [Gatsby JS: создаем сверх быстрое web приложение на популярном React фрэймворке](https://www.youtube.com/playlist?list=PLtL3lrXPn2rVMcj6AqXntvxOajp94Cogk)
+### [Gatsby JS #09. Создаем шаблон для отображения контента наших постов на каждой странице.](https://www.youtube.com/watch?v=_5LtXPx_HM0&amp;list=PLtL3lrXPn2rVMcj6AqXntvxOajp94Cogk&amp;index=10&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [Traversy Media](https://www.youtube.com/@TraversyMedia/playlists)
+## [JavaScript Cardio Sessions](https://www.youtube.com/playlist?list=PLillGF-Rfqbb4ZOnsNCIB-DnLuUrQjS_G)
+### [JavaScript Cardio [Session 1] - Reversals, FizzBuzz, MaxChar](https://www.youtube.com/watch?v=M2bJBuaOeOQ&amp;list=PLillGF-Rfqbb4ZOnsNCIB-DnLuUrQjS_G&amp;index=1&amp;pp=iAQB)

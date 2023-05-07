@@ -1,0 +1,3 @@
+# [Андрей Иванов | Python](https://www.youtube.com/@PythononPapyrusRU/playlists)
+## [Прямые трансляции](https://www.youtube.com/playlist?list=PLF4MWzDJPFSZrXHrUFb8cS6XuNCRfZKVQ)
+### [ПРЯМОЙ ЭФИР - СОЗДАЕМ SQLACLHEMY СТРУКТУРУ В PYTHON](https://www.youtube.com/watch?v=fvS_gtkdaXA&amp;list=PLF4MWzDJPFSZrXHrUFb8cS6XuNCRfZKVQ&amp;index=2&amp;pp=iAQB)

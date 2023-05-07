@@ -1,0 +1,3 @@
+# [Андрей Иванов | Python](https://www.youtube.com/@PythononPapyrusRU/playlists)
+## [Объекты и классы в Питоне](https://www.youtube.com/playlist?list=PLF4MWzDJPFSZeovRnxvorr4HwwTQi15-Q)
+### [СТАТИЧЕСКИЕ МЕТОДЫ(STATICMETHOD) И ПЕРЕМЕННЫЕ В ООП ПИТОНА](https://www.youtube.com/watch?v=F1NeNYOoTzo&amp;list=PLF4MWzDJPFSZeovRnxvorr4HwwTQi15-Q&amp;index=3&amp;pp=iAQB)

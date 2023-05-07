@@ -1,0 +1,3 @@
+# [freeCodeCamp.org](https://www.youtube.com/@freecodecamp/playlists)
+## [HTML and CSS Tutorials](https://www.youtube.com/playlist?list=PLWKjhJtqVAbnSe1qUNMG7AbPmjIG54u88)
+### [HTML / CSS Tutorial – Create an Order Summary Component](https://www.youtube.com/watch?v=SR5GxoFhIAU&amp;list=PLWKjhJtqVAbnSe1qUNMG7AbPmjIG54u88&amp;index=4&amp;pp=iAQB)

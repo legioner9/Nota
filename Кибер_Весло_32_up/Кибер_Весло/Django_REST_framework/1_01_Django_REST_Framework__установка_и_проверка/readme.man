@@ -1,0 +1,3 @@
+# [Кибер Весло](https://www.youtube.com/@cyber-paddle/playlists)
+## [Django REST framework](https://www.youtube.com/playlist?list=PLIMYb25g876j-K7PdfP24E-a4Bn-lDoGz)
+### [01. Django REST Framework - установка и проверка](https://www.youtube.com/watch?v=qljrhf6hz04&amp;list=PLIMYb25g876j-K7PdfP24E-a4Bn-lDoGz&amp;index=1&amp;pp=iAQB)

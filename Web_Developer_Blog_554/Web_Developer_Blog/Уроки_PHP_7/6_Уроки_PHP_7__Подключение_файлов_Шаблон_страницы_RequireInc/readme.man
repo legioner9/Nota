@@ -1,0 +1,3 @@
+# [Web Developer Blog](https://www.youtube.com/@SuprunAlexey/playlists)
+## [Уроки PHP 7](https://www.youtube.com/playlist?list=PLVfMKQXDAhGWCBTca7m-snWrZZkjX2jGB)
+### [Уроки PHP 7 | Подключение файлов. Шаблон страницы. Require.Include](https://www.youtube.com/watch?v=1VTdOF6RA-o&amp;list=PLVfMKQXDAhGWCBTca7m-snWrZZkjX2jGB&amp;index=6&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [В. Бовсуновский Python Django](https://www.youtube.com/@bov/playlists?view=1)
+## [Обучение Разработке - понимание процесса.](https://www.youtube.com/playlist?list=PLuZJ9n46uMzUTU3RoiQu1GKMfsFQ3BL8o)
+### [Урок 1. Python/Kotlin. Обучение разработке на примере реальных ребят.](https://www.youtube.com/watch?v=4ZWiYCNV15o&amp;list=PLuZJ9n46uMzUTU3RoiQu1GKMfsFQ3BL8o&amp;index=2&amp;pp=iAQB)

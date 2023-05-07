@@ -1,0 +1,6 @@
+### [Zend Framework 2 - Installing in Windows](https://www.youtube.com/watch?v=NJVS5yt5fHw&amp;list=PLillGF-RfqbYl4mB0oZA1tSh7tJr78Zzh&amp;index=1&amp;pp=iAQB)
+### [Zend Framework 2 - Config &amp; Modules](https://www.youtube.com/watch?v=jxW2ES52_-E&amp;list=PLillGF-RfqbYl4mB0oZA1tSh7tJr78Zzh&amp;index=2&amp;pp=iAQB)
+### [Zend Framework 2 - Routes &amp; Controllers](https://www.youtube.com/watch?v=ZAMPGs5eVK8&amp;list=PLillGF-RfqbYl4mB0oZA1tSh7tJr78Zzh&amp;index=3&amp;pp=iAQB)
+### [Zend Framework 2 - Models &amp; Database](https://www.youtube.com/watch?v=tJ6r16ojIwY&amp;list=PLillGF-RfqbYl4mB0oZA1tSh7tJr78Zzh&amp;index=4&amp;pp=iAQB)
+### [Zend Framework 2 - Fetching and Inserting Data](https://www.youtube.com/watch?v=iNqsl_wmu2I&amp;list=PLillGF-RfqbYl4mB0oZA1tSh7tJr78Zzh&amp;index=5&amp;pp=iAQB)
+### [Zend Framework 2 - Editing &amp; Deleting Data](https://www.youtube.com/watch?v=sLJPD2nkHYM&amp;list=PLillGF-RfqbYl4mB0oZA1tSh7tJr78Zzh&amp;index=6&amp;pp=iAQB)

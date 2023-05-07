@@ -1,0 +1,5 @@
+### [01. Курс React JS 2021 [Настраиваем все инструменты для начала работы]](https://www.youtube.com/watch?v=AcLeOeUbFd4&amp;list=PLtL3lrXPn2rUiIj46eozwWn9P2x8RoOiR&amp;index=1&amp;pp=iAQB)
+### [02. Курс React JS [Компоненты в React на примере нашего приложения] - react курсы бесплатно](https://www.youtube.com/watch?v=B6lCAqLZqAw&amp;list=PLtL3lrXPn2rUiIj46eozwWn9P2x8RoOiR&amp;index=2&amp;pp=iAQB)
+### [03. Курс по React JS [Создаем первый компонент - Landing]](https://www.youtube.com/watch?v=lBdJQttIorI&amp;list=PLtL3lrXPn2rUiIj46eozwWn9P2x8RoOiR&amp;index=3&amp;pp=iAQB)
+### [04. Курс React JS [Что такое JSX в React и как его использовать?]](https://www.youtube.com/watch?v=SxdzO_03i64&amp;list=PLtL3lrXPn2rUiIj46eozwWn9P2x8RoOiR&amp;index=4&amp;pp=iAQB)
+### [05. Курс по React JS [Используем препроцессор Stylus для добавления стилей CSS в React]](https://www.youtube.com/watch?v=17BUcqnk1Pw&amp;list=PLtL3lrXPn2rUiIj46eozwWn9P2x8RoOiR&amp;index=5&amp;pp=iAQB)

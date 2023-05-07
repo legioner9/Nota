@@ -1,0 +1,7 @@
+### [Многопоточный С++. Лекция №1](https://www.youtube.com/watch?v=DlVn9uh20Ec&amp;list=PLrCZzMib1e9oag2Qgg76foi0x88gFs0rh&amp;index=1&amp;pp=iAQB)
+### [Многопоточный С++. Лекция №2](https://www.youtube.com/watch?v=EuSlYET_U0Y&amp;list=PLrCZzMib1e9oag2Qgg76foi0x88gFs0rh&amp;index=2&amp;pp=iAQB)
+### [Многопоточный С++. Лекция №3](https://www.youtube.com/watch?v=u6KsfqI-eNo&amp;list=PLrCZzMib1e9oag2Qgg76foi0x88gFs0rh&amp;index=3&amp;pp=iAQB)
+### [Многопоточный С++. Лекция №4](https://www.youtube.com/watch?v=GR_yAU-WRZA&amp;list=PLrCZzMib1e9oag2Qgg76foi0x88gFs0rh&amp;index=4&amp;pp=iAQB)
+### [Многопоточный С++. Лекция №5](https://www.youtube.com/watch?v=wp8EuaGMBFQ&amp;list=PLrCZzMib1e9oag2Qgg76foi0x88gFs0rh&amp;index=5&amp;pp=iAQB)
+### [Многопоточный С++. Лекция №6](https://www.youtube.com/watch?v=z8UtW4odlaA&amp;list=PLrCZzMib1e9oag2Qgg76foi0x88gFs0rh&amp;index=6&amp;pp=iAQB)
+### [Многопоточный С++. Лекция №7](https://www.youtube.com/watch?v=9o54dOlYElA&amp;list=PLrCZzMib1e9oag2Qgg76foi0x88gFs0rh&amp;index=7&amp;pp=iAQB)

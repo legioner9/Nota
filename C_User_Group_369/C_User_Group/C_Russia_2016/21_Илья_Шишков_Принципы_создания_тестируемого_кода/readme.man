@@ -1,0 +1,3 @@
+# [C++ User Group](https://www.youtube.com/@CUserGroupRussia/playlists)
+## [C++ Russia 2016](https://www.youtube.com/playlist?list=PLZN9ZGiWZoZp2olvWw-OysBHqIv2ufL3d)
+### [Илья Шишков, Принципы создания тестируемого кода](https://www.youtube.com/watch?v=Y76-u18NEKI&amp;list=PLZN9ZGiWZoZp2olvWw-OysBHqIv2ufL3d&amp;index=21&amp;pp=iAQB)

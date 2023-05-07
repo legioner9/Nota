@@ -1,0 +1,3 @@
+# [Traversy Media](https://www.youtube.com/@TraversyMedia/playlists)
+## [Freestyle Coding](https://www.youtube.com/playlist?list=PLillGF-RfqbYW0NKmGys-7IzluvxPixm9)
+### [Build A CodeIgniter PHP App - Part 1](https://www.youtube.com/watch?v=I752ofYu7ag&amp;list=PLillGF-RfqbYW0NKmGys-7IzluvxPixm9&amp;index=5&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [WebDev с нуля. Канал Алекса Лущенко](https://www.youtube.com/@itgid/playlists)
+## [Java Script для начинающих](https://www.youtube.com/playlist?list=PLM7wFzahDYnFjBTkfRTRlusyp_tlZ9rYz)
+### [Учим JavaScript 23. Классный эффект переключения между фото](https://www.youtube.com/watch?v=d5d4MWHi9XU&amp;list=PLM7wFzahDYnFjBTkfRTRlusyp_tlZ9rYz&amp;index=20&amp;pp=iAQB)

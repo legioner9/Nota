@@ -1,0 +1,3 @@
+# [Unified Communications from Cliffis](https://www.youtube.com/@uc_cliffis/playlists)
+## [Asterisk PBX](https://www.youtube.com/playlist?list=PLQkhRYZT7TCkm7db8HGDHxkkXXFJP-JVQ)
+### [Установка Asterisk на VMware - очень просто!!!](https://www.youtube.com/watch?v=E-V4CZC8Q7w&amp;list=PLQkhRYZT7TCkm7db8HGDHxkkXXFJP-JVQ&amp;index=1&amp;pp=iAQB)

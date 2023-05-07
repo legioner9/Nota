@@ -1,3 +1,0 @@
-# [Exploring the IT World / Oleg Shpagin / WISEPLAT](https://www.youtube.com/@wiseplat/playlists)
-## [Нейросети на Python](https://www.youtube.com/playlist?list=PLxiU3nwEQ4PFFbQhddlom7ZgivN9OmFTc)
-### [Загрузка котировок акций с Metatrader 5 для Нейросетей #2](https://www.youtube.com/watch?v=63ftg5Mlzps&amp;list=PLxiU3nwEQ4PFFbQhddlom7ZgivN9OmFTc&amp;index=2)

@@ -1,0 +1,3 @@
+# [freeCodeCamp.org](https://www.youtube.com/@freecodecamp/playlists)
+## [Brain Computer App with React Native - Live Coding with Jesse](https://www.youtube.com/playlist?list=PLWKjhJtqVAbmR4Wi1LxJsx0Tnx3qugnrU)
+### [Build a Brain Computer App with React Native (Part 5) - Live Coding with Jesse](https://www.youtube.com/watch?v=EUn-uAXAAF8&amp;list=PLWKjhJtqVAbmR4Wi1LxJsx0Tnx3qugnrU&amp;index=5&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [Dmitry Afanasyev](https://www.youtube.com/@DmitryAfanasyev/playlists)
+## [Основные (фундаментальные) шаблоны проектирования на PHP](https://www.youtube.com/playlist?list=PLoonZ8wII66jY9zYXsvTDj5thPpCpa58v)
+### [Контейнер свойств ► Паттерн проектирования ► Урок №1](https://www.youtube.com/watch?v=uVWPusUe3Aw&amp;list=PLoonZ8wII66jY9zYXsvTDj5thPpCpa58v&amp;index=1&amp;pp=iAQB)

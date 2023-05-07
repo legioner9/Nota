@@ -1,0 +1,3 @@
+# [Просто о Laravel. CutCode](https://www.youtube.com/@CutCodeRu/playlists)
+## [Broadcasting и web sockets в Laravel. Создание чата на Ларавел](https://www.youtube.com/playlist?list=PLTucyHptHtTkzDL1-GyuBB_wOgCvQKk9F)
+### [Создание чата на Laravel. Broadcasting и web sockets в Ларавел. Часть 1.](https://www.youtube.com/watch?v=HQ1qrYiV44I&amp;list=PLTucyHptHtTkzDL1-GyuBB_wOgCvQKk9F&amp;index=1&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [C++ User Group](https://www.youtube.com/@CUserGroupRussia/playlists)
+## [C++ Russia 2021](https://www.youtube.com/playlist?list=PLZN9ZGiWZoZqIsJqUgmMznD68NSsyaAhy)
+### [Александр Воронков — Почему vcpkg не Conan](https://www.youtube.com/watch?v=TUnonqlbZII&amp;list=PLZN9ZGiWZoZqIsJqUgmMznD68NSsyaAhy&amp;index=33&amp;pp=iAQB)

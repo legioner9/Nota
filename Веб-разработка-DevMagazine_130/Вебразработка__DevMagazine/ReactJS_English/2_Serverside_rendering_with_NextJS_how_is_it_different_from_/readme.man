@@ -1,0 +1,3 @@
+# [Веб-разработка - DevMagazine](https://www.youtube.com/@DevMagazineChannel/playlists)
+## [ReactJS [English]](https://www.youtube.com/playlist?list=PLmfIBo6rTVR51w01G9lZ9aEvK6rXokuWD)
+### [Server-side rendering with NextJS (how is it different from CSR, SSG, ISR?)](https://www.youtube.com/watch?v=PP5ncC9sUfg&amp;list=PLmfIBo6rTVR51w01G9lZ9aEvK6rXokuWD&amp;index=2&amp;pp=iAQB)

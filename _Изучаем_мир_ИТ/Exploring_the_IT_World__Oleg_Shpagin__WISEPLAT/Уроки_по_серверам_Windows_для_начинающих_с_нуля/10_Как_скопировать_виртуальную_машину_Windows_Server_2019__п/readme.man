@@ -1,3 +1,0 @@
-# [Exploring the IT World / Oleg Shpagin / WISEPLAT](https://www.youtube.com/@wiseplat/playlists)
-## [Уроки по серверам Windows для начинающих с нуля](https://www.youtube.com/playlist?list=PLxiU3nwEQ4PFXS8RB0mqF1DTyTR5LNK1B)
-### [Как скопировать виртуальную машину Windows Server 2019 / подготовка к парсингу Telegram](https://www.youtube.com/watch?v=XC8p5jwd10A&amp;list=PLxiU3nwEQ4PFXS8RB0mqF1DTyTR5LNK1B&amp;index=10)

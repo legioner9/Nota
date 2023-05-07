@@ -1,0 +1,3 @@
+# [Students Days (видеокурсы по IT и не только)](https://www.youtube.com/@studentsdaysit2002/playlists)
+## [Сети Cisco шаг за шагом(Cisco Networks, Step by step)](https://www.youtube.com/playlist?list=PL7CmqnO_Qydj_7pzgQB4AWdF-SAxssH4l)
+### [Курс Cisco, Routing and Switching. Шаг 2 Настройка пароля на портах Console и для доступа по telnet](https://www.youtube.com/watch?v=US0Pp2FekAI&amp;list=PL7CmqnO_Qydj_7pzgQB4AWdF-SAxssH4l&amp;index=2&amp;pp=iAQB)

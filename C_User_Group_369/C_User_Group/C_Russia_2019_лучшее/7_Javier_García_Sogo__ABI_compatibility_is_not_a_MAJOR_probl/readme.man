@@ -1,0 +1,3 @@
+# [C++ User Group](https://www.youtube.com/@CUserGroupRussia/playlists)
+## [C++ Russia 2019: лучшее](https://www.youtube.com/playlist?list=PLZN9ZGiWZoZo3hYXXOn6NZAi3YzUETzy2)
+### [Javier García Sogo — ABI compatibility is not a MAJOR problem](https://www.youtube.com/watch?v=aqQT3J16OxI&amp;list=PLZN9ZGiWZoZo3hYXXOn6NZAi3YzUETzy2&amp;index=7&amp;pp=iAQB)

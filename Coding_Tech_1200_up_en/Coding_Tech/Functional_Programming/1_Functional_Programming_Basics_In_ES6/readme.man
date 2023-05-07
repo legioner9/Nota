@@ -1,0 +1,3 @@
+# [Coding Tech](https://www.youtube.com/@CodingTech/playlists)
+## [Functional Programming](https://www.youtube.com/playlist?list=PLFjq8z-aGyQ4gTpuAhnPEQBOz7Xz7wn_m)
+### [Functional Programming Basics In ES6](https://www.youtube.com/watch?v=FYXpOjwYzcs&amp;list=PLFjq8z-aGyQ4gTpuAhnPEQBOz7Xz7wn_m&amp;index=1&amp;pp=iAQB)

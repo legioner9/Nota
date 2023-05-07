@@ -1,0 +1,4 @@
+### [Почему Rust? 5 Причин учить язык программирования rust](https://www.youtube.com/watch?v=2F1eMHtWkmk&amp;list=PLnalMG3z2RzGrBfcVYTVGvxXvpb297bIl&amp;index=1&amp;pp=iAQB)
+### [C++ vs Rust](https://www.youtube.com/watch?v=AIki37-p3c4&amp;list=PLnalMG3z2RzGrBfcVYTVGvxXvpb297bIl&amp;index=2&amp;pp=iAQB)
+### [Я — Никиборг. Язык Go. Go vs Rust. IO games.](https://www.youtube.com/watch?v=fV51pEpqS7g&amp;list=PLnalMG3z2RzGrBfcVYTVGvxXvpb297bIl&amp;index=3&amp;pp=iAQB)
+### [Язык Rust и C#. Сравнение](https://www.youtube.com/watch?v=r3mPLU1shT8&amp;list=PLnalMG3z2RzGrBfcVYTVGvxXvpb297bIl&amp;index=4&amp;pp=iAQB)

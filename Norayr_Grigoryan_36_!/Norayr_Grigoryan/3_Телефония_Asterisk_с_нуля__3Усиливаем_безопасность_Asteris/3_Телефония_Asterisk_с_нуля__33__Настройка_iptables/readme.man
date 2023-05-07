@@ -1,0 +1,3 @@
+# [Norayr Grigoryan](https://www.youtube.com/@NorayrGrigoryan/playlists?view=1&sort=dd&shelf_id=0)
+## [3. Телефония Asterisk с нуля - 3.Усиливаем безопасность Asterisk](https://www.youtube.com/playlist?list=PLT4btQkgy42s9Z9FbfsqJ4IibydML8eAr)
+### [Телефония Asterisk с нуля - 3.3 - Настройка iptables](https://www.youtube.com/watch?v=FHjTuT6Lm50&amp;list=PLT4btQkgy42s9Z9FbfsqJ4IibydML8eAr&amp;index=3&amp;pp=iAQB)

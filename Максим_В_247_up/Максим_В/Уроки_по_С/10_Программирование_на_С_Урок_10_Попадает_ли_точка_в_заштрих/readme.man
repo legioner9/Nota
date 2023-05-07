@@ -1,0 +1,3 @@
+# [Максим В](https://www.youtube.com/@cpp/playlists)
+## [Уроки по С++](https://www.youtube.com/playlist?list=PLlxYwLnXeoE2_edxAb1Le1VYFf2Eq-FOc)
+### [Программирование на С++. Урок 10. Попадает ли точка в заштрихованную область](https://www.youtube.com/watch?v=JJ1YObXZps4&amp;list=PLlxYwLnXeoE2_edxAb1Le1VYFf2Eq-FOc&amp;index=10&amp;pp=iAQB)

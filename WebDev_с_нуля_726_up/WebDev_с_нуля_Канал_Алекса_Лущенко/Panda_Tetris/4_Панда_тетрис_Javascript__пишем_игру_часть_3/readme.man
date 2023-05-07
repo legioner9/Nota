@@ -1,0 +1,3 @@
+# [WebDev с нуля. Канал Алекса Лущенко](https://www.youtube.com/@itgid/playlists)
+## [Panda Tetris](https://www.youtube.com/playlist?list=PLM7wFzahDYnE2Ws9SPFUNGtQGTyuWEVyH)
+### [Панда тетрис. Javascript - пишем игру (часть 3)](https://www.youtube.com/watch?v=vePlo-QZils&amp;list=PLM7wFzahDYnE2Ws9SPFUNGtQGTyuWEVyH&amp;index=4&amp;pp=iAQB)

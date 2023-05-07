@@ -1,0 +1,3 @@
+# [WebDev с нуля. Канал Алекса Лущенко](https://www.youtube.com/@itgid/playlists)
+## [JavaScript Мозголомки](https://www.youtube.com/playlist?list=PLM7wFzahDYnGmYXTzmw-vTE9tSm8qr5cY)
+### [Баг начинающего программиста JavaScript. Мозголомка #18](https://www.youtube.com/watch?v=MQGZEWfbjGA&amp;list=PLM7wFzahDYnGmYXTzmw-vTE9tSm8qr5cY&amp;index=5&amp;pp=iAQB)

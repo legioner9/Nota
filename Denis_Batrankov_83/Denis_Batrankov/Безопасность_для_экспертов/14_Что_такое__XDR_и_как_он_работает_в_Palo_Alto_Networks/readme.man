@@ -1,0 +1,3 @@
+# [Denis Batrankov](https://www.youtube.com/@BDVSecurity/playlists)
+## [Безопасность для экспертов](https://www.youtube.com/playlist?list=PLRAbJA74qU4D-2sTzHLh8fFe4_gtKnOnB)
+### [Что такое  XDR и как он работает в Palo Alto Networks](https://www.youtube.com/watch?v=6UJoaJcrKy4&amp;list=PLRAbJA74qU4D-2sTzHLh8fFe4_gtKnOnB&amp;index=14&amp;pp=iAQB)

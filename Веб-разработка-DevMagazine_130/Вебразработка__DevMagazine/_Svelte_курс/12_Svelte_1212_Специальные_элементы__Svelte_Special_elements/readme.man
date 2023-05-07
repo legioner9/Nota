@@ -1,0 +1,3 @@
+# [Веб-разработка - DevMagazine](https://www.youtube.com/@DevMagazineChannel/playlists)
+## [🌴 Svelte курс](https://www.youtube.com/playlist?list=PLmfIBo6rTVR5XNcJxu8TwzEvIDUCAhGc6)
+### [Svelte 12/12. Специальные элементы - Svelte Special elements (Уроки Svelte)](https://www.youtube.com/watch?v=axGxAHwbYYg&amp;list=PLmfIBo6rTVR5XNcJxu8TwzEvIDUCAhGc6&amp;index=12&amp;pp=iAQB)

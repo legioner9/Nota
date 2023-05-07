@@ -1,0 +1,3 @@
+### [Прохождение Flexbox Defense с объяснением | Практика Flexbox CSS в формате игры](https://www.youtube.com/watch?v=r2Iew-cPFJw&amp;list=PLU0nVsJXPyy_kcE9UcIlu42_OaF8kMMkY&amp;index=1&amp;pp=iAQB)
+### [Прохождение Flexbox Froggy, все 24 уровня с пояснениями | Практика Flexbox CSS](https://www.youtube.com/watch?v=oZgbqrgXjQE&amp;list=PLU0nVsJXPyy_kcE9UcIlu42_OaF8kMMkY&amp;index=2&amp;pp=iAQB)
+### [Практика Flexbox CSS для начинающих | Игральные кости на HTML и CSS](https://www.youtube.com/watch?v=Ds-AafI-b90&amp;list=PLU0nVsJXPyy_kcE9UcIlu42_OaF8kMMkY&amp;index=3&amp;pp=iAQB)

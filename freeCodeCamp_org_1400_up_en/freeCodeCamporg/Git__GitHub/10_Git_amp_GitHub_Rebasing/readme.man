@@ -1,0 +1,3 @@
+# [freeCodeCamp.org](https://www.youtube.com/@freecodecamp/playlists)
+## [Git & GitHub](https://www.youtube.com/playlist?list=PLWKjhJtqVAbkFiqHnNaxpOPhh9tSWMXIF)
+### [Git &amp; GitHub: Rebasing](https://www.youtube.com/watch?v=PBtApBmgc1M&amp;list=PLWKjhJtqVAbkFiqHnNaxpOPhh9tSWMXIF&amp;index=10&amp;pp=iAQB)

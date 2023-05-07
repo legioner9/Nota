@@ -1,0 +1,3 @@
+# [web - с нуля до профи](https://www.youtube.com/@webQ/playlists)
+## [Javascript с нуля. Новейший курс 2020](https://www.youtube.com/playlist?list=PLfWxkvC096mLbR35V3oy7qZfsdBPz8-d3)
+### [3. Основы Javascript.  Типы данных string, undefined, symbol](https://www.youtube.com/watch?v=xL1DwVwGJO4&amp;list=PLfWxkvC096mLbR35V3oy7qZfsdBPz8-d3&amp;index=3&amp;pp=iAQB)

@@ -1,0 +1,4 @@
+### [Подробный обзор панели управления BrainyCP](https://www.youtube.com/watch?v=-QkBD32K5js&amp;list=PLh1BaaL_XriO8nuxe5uIILCZIBa2YqY5S&amp;index=1&amp;pp=iAQB)
+### [BrainyCP - пошаговая установка сайта](https://www.youtube.com/watch?v=C4_uiMG6sCQ&amp;list=PLh1BaaL_XriO8nuxe5uIILCZIBa2YqY5S&amp;index=2&amp;pp=iAQB)
+### [BrainyCP - backup, recovery, transfer сайта](https://www.youtube.com/watch?v=fuL9-gT7Ezw&amp;list=PLh1BaaL_XriO8nuxe5uIILCZIBa2YqY5S&amp;index=3&amp;pp=iAQB)
+### [BrainyCP - почтовый сервер и ящики](https://www.youtube.com/watch?v=tHahRL1Odlw&amp;list=PLh1BaaL_XriO8nuxe5uIILCZIBa2YqY5S&amp;index=4&amp;pp=iAQB)

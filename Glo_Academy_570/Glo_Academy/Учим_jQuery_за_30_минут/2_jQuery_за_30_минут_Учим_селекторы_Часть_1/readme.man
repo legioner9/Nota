@@ -1,0 +1,3 @@
+# [Glo Academy](https://www.youtube.com/@Glo_Academy/playlists?view=1)
+## [Учим jQuery за 30 минут](https://www.youtube.com/playlist?list=PL3LQJkGQtzc5MFh51ACgwl8HXL3Hrqh5-)
+### [jQuery за 30 минут. Учим селекторы. Часть 1.](https://www.youtube.com/watch?v=pk2SvIKB5zs&amp;list=PL3LQJkGQtzc5MFh51ACgwl8HXL3Hrqh5-&amp;index=2&amp;pp=iAQB)

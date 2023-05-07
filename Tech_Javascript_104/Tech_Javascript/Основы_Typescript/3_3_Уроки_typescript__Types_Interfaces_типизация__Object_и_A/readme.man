@@ -1,0 +1,3 @@
+# [Tech Javascript](https://www.youtube.com/@techjavascript/playlists)
+## [Основы Typescript](https://www.youtube.com/playlist?list=PLco1IpJXlada3EI5Pfsp7NZKrC_-oYDvY)
+### [3. Уроки typescript.  Types, Interfaces, типизация  Object и Array](https://www.youtube.com/watch?v=A0MLS12Winc&amp;list=PLco1IpJXlada3EI5Pfsp7NZKrC_-oYDvY&amp;index=3&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [Web Developer Blog](https://www.youtube.com/@SuprunAlexey/playlists)
+## [Основы за 10 минут](https://www.youtube.com/playlist?list=PLVfMKQXDAhGWPy1tHOw34uBbwViK8qrxh)
+### [Как установить и настроить локальный сервер на Mac. Настройка MAMP](https://www.youtube.com/watch?v=PJbwItuz0HI&amp;list=PLVfMKQXDAhGWPy1tHOw34uBbwViK8qrxh&amp;index=7&amp;pp=iAQB)

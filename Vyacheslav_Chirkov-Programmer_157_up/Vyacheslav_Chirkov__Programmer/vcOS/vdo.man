@@ -1,0 +1,4 @@
+### [vcOS первая информация](https://www.youtube.com/watch?v=azekLTlspLo&amp;list=PLEjhu-KP5eiAOg8UuJaxFvvPUxPz64Kvn&amp;index=1&amp;pp=iAQB)
+### [vcOSvsWindows](https://www.youtube.com/watch?v=43FRH2Plumw&amp;list=PLEjhu-KP5eiAOg8UuJaxFvvPUxPz64Kvn&amp;index=2&amp;pp=iAQB)
+### [Basic Hello World](https://www.youtube.com/watch?v=2KX5KtpbVY4&amp;list=PLEjhu-KP5eiAOg8UuJaxFvvPUxPz64Kvn&amp;index=3&amp;pp=iAQB)
+### [VIM replace + vcOS](https://www.youtube.com/watch?v=BSR0h0Ho224&amp;list=PLEjhu-KP5eiAOg8UuJaxFvvPUxPz64Kvn&amp;index=4&amp;pp=iAQB)

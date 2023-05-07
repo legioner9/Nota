@@ -1,0 +1,3 @@
+# [Sergey Kazantsev](https://www.youtube.com/@sergeykazantsev1655/playlists)
+## [Паттерны проектирования](https://www.youtube.com/playlist?list=PL7GaNwuzA5StjPUhLzaegidzFr9JK9TXw)
+### [Паттерн Abstract Factory, Абстрактная фабрика, C#, Unity](https://www.youtube.com/watch?v=AqUjA-gnXik&amp;list=PL7GaNwuzA5StjPUhLzaegidzFr9JK9TXw&amp;index=4&amp;pp=iAQB)

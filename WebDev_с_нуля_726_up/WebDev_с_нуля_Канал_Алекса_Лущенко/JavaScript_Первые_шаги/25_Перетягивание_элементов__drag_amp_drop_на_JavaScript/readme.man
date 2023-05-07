@@ -1,0 +1,3 @@
+# [WebDev с нуля. Канал Алекса Лущенко](https://www.youtube.com/@itgid/playlists)
+## [JavaScript. Первые шаги](https://www.youtube.com/playlist?list=PLM7wFzahDYnGiAEISqw1Lal_T9heUvbar)
+### [Перетягивание элементов ( drag &amp; drop) на JavaScript](https://www.youtube.com/watch?v=m1ZWfOAwyxc&amp;list=PLM7wFzahDYnGiAEISqw1Lal_T9heUvbar&amp;index=25&amp;pp=iAQB)

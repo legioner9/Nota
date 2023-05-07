@@ -1,0 +1,3 @@
+# [Web Developer Blog](https://www.youtube.com/@SuprunAlexey/playlists)
+## [Уроки Python](https://www.youtube.com/playlist?list=PLVfMKQXDAhGXkktAHT_z_vz-KGyy1RLX9)
+### [Уроки Python - Строки, вся работа](https://www.youtube.com/watch?v=Bgg9KRSUxeE&amp;list=PLVfMKQXDAhGXkktAHT_z_vz-KGyy1RLX9&amp;index=10&amp;pp=iAQB)

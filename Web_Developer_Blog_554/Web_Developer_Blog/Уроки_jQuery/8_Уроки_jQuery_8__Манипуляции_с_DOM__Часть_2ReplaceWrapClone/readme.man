@@ -1,0 +1,3 @@
+# [Web Developer Blog](https://www.youtube.com/@SuprunAlexey/playlists)
+## [Уроки jQuery](https://www.youtube.com/playlist?list=PLVfMKQXDAhGXQcouhIblV910Rv7lRscH3)
+### [Уроки jQuery #8 | Манипуляции с DOM . Часть 2.Replace.Wrap.Clone.Detach](https://www.youtube.com/watch?v=xE0tNP2SEDg&amp;list=PLVfMKQXDAhGXQcouhIblV910Rv7lRscH3&amp;index=8&amp;pp=iAQB)

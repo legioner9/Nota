@@ -1,0 +1,3 @@
+# [openWeb - Веб программирование на языках PHP и JS](https://www.youtube.com/@openweb-php/playlists)
+## [JavaScripts программирование](https://www.youtube.com/playlist?list=PL-leL2miqjEZUx00lK6FRYNc1ZRakEyEJ)
+### [Node.js Socket.io - Основы работы Сервер - Клиент, на примере терминального чата](https://www.youtube.com/watch?v=zw_ZUfiJNDU&amp;list=PL-leL2miqjEZUx00lK6FRYNc1ZRakEyEJ&amp;index=24&amp;pp=iAQB)

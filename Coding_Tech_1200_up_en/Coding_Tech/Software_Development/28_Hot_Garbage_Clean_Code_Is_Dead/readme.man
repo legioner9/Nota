@@ -1,0 +1,3 @@
+# [Coding Tech](https://www.youtube.com/@CodingTech/playlists)
+## [Software Development](https://www.youtube.com/playlist?list=PLFjq8z-aGyQ4WBzLzIq-rjMtujrGbDgh_)
+### [Hot Garbage: Clean Code Is Dead](https://www.youtube.com/watch?v=s_fZFBgA11s&amp;list=PLFjq8z-aGyQ4WBzLzIq-rjMtujrGbDgh_&amp;index=28&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [okiseleva](https://www.youtube.com/@okiseleva/playlists)
+## [ШНАТ (школа для начинающих тестировщиков)](https://www.youtube.com/playlist?list=PLzy4cPXOwbY6bGOFj29LvzAjyFvbtUv3o)
+### [Баг-трекинг 3.3: Четыре типичные ошибки оформления бага новичком](https://www.youtube.com/watch?v=IZGf2APJTDQ&amp;list=PLzy4cPXOwbY6bGOFj29LvzAjyFvbtUv3o&amp;index=11&amp;pp=iAQB)

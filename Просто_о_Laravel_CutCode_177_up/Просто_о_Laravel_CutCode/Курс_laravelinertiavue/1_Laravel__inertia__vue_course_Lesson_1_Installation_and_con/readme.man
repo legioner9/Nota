@@ -1,0 +1,3 @@
+# [Просто о Laravel. CutCode](https://www.youtube.com/@CutCodeRu/playlists)
+## [Курс laravel+inertia+vue](https://www.youtube.com/playlist?list=PLTucyHptHtTljVToD6w4JXuNEIzEXskLe)
+### [Laravel + inertia + vue course Lesson 1. Installation and configuration](https://www.youtube.com/watch?v=Jjv5yDkmHos&amp;list=PLTucyHptHtTljVToD6w4JXuNEIzEXskLe&amp;index=1&amp;pp=iAQB)

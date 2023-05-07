@@ -1,0 +1,3 @@
+# [Академия IT DMS](https://www.youtube.com/@AcademyITDMS/playlists)
+## [Уроки из "телефония Asterisk с нуля" (примеры уроков)](https://www.youtube.com/playlist?list=PLvGOckMhKg77B0N62spLJPoK8OGYTMQDd)
+### [Перехват звонков Asterisk (Pickup)](https://www.youtube.com/watch?v=oFEJNFpjGI0&amp;list=PLvGOckMhKg77B0N62spLJPoK8OGYTMQDd&amp;index=5&amp;pp=iAQB)

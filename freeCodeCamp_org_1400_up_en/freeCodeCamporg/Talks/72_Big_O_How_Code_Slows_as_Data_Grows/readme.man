@@ -1,0 +1,3 @@
+# [freeCodeCamp.org](https://www.youtube.com/@freecodecamp/playlists)
+## [Talks](https://www.youtube.com/playlist?list=PLWKjhJtqVAbl9yptoxdSJDDoTVdcysyPo)
+### [Big O: How Code Slows as Data Grows](https://www.youtube.com/watch?v=Ee0HzlnIYWQ&amp;list=PLWKjhJtqVAbl9yptoxdSJDDoTVdcysyPo&amp;index=72&amp;pp=iAQB)

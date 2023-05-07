@@ -1,0 +1,3 @@
+# [Просто о Laravel. CutCode](https://www.youtube.com/@CutCodeRu/playlists)
+## [Roadmap Laravel](https://www.youtube.com/playlist?list=PLTucyHptHtTn2Fh7QnUPoW0Cm81ZcoEJk)
+### [Куда вынести логику из controllers, commands, jobs. Лучшие практики Laravel разработчиков](https://www.youtube.com/watch?v=0CUIG1JM4IA&amp;list=PLTucyHptHtTn2Fh7QnUPoW0Cm81ZcoEJk&amp;index=6&amp;pp=iAQB)

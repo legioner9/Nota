@@ -1,0 +1,3 @@
+# [Coding Tech](https://www.youtube.com/@CodingTech/playlists)
+## [JavaScript](https://www.youtube.com/playlist?list=PLFjq8z-aGyQ49hmlhMZgYAoXb3NBiee4R)
+### [JavaScript, TypeScript and PureScript](https://www.youtube.com/watch?v=JTEfpNtEoSA&amp;list=PLFjq8z-aGyQ49hmlhMZgYAoXb3NBiee4R&amp;index=13&amp;pp=iAQB)

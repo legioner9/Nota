@@ -1,0 +1,3 @@
+# [C++ User Group](https://www.youtube.com/@CUserGroupRussia/playlists)
+## [C++ Russia 2019: лучшее](https://www.youtube.com/playlist?list=PLZN9ZGiWZoZo3hYXXOn6NZAi3YzUETzy2)
+### [Кирилл Тихонов — Оптимизации времени компиляции. Даем больше информации компилятору](https://www.youtube.com/watch?v=k26IOUaz2es&amp;list=PLZN9ZGiWZoZo3hYXXOn6NZAi3YzUETzy2&amp;index=20&amp;pp=iAQB)

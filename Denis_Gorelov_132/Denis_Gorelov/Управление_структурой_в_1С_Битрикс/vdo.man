@@ -1,0 +1,8 @@
+### [МЕНЕДЖЕР ФАЙЛОВ в Битрикс. Урок 6 - Управление структурой](https://www.youtube.com/watch?v=qB3B9x_BbBM&amp;list=PL8pp2EAvIK-KkCn8IX9F0xTEOHbXDxVW9&amp;index=1&amp;pp=iAQB)
+### [Как настроить МЕНЮ в 1С Битрикс. Урок 6.1 - Управление структурой](https://www.youtube.com/watch?v=QNh-TuHQHsc&amp;list=PL8pp2EAvIK-KkCn8IX9F0xTEOHbXDxVW9&amp;index=2&amp;pp=iAQB)
+### [Навигационная ЦЕПОЧКА в 1С Битрикс. Урок 6.2 - Управление структурой](https://www.youtube.com/watch?v=n4jTWeqZ1Io&amp;list=PL8pp2EAvIK-KkCn8IX9F0xTEOHbXDxVW9&amp;index=3&amp;pp=iAQB)
+### [Настройка МЕДИОБИБЛИОТЕКИ и ее коллекций  в 1С Битрикс. Урок 6.3 - Управление структурой](https://www.youtube.com/watch?v=8dg0UQQi9LI&amp;list=PL8pp2EAvIK-KkCn8IX9F0xTEOHbXDxVW9&amp;index=4&amp;pp=iAQB)
+### [Обзор визуального РЕДАКТОРА  в 1С Битрикс. Урок 7 - Управление структурой](https://www.youtube.com/watch?v=O7Fx5aIzuY0&amp;list=PL8pp2EAvIK-KkCn8IX9F0xTEOHbXDxVW9&amp;index=5&amp;pp=iAQB)
+### [ИНФОБЛОКИ в 1С-Битрикс, их типы и основное понятие  / Урок 8 - Управление структурой](https://www.youtube.com/watch?v=hE7Ls3oDdCo&amp;list=PL8pp2EAvIK-KkCn8IX9F0xTEOHbXDxVW9&amp;index=6&amp;pp=iAQB)
+### [Настройка ФОРМ инфоблока в 1С Битрикс / Урок 8.1 - Инфоблоки](https://www.youtube.com/watch?v=mtO7edmrAg0&amp;list=PL8pp2EAvIK-KkCn8IX9F0xTEOHbXDxVW9&amp;index=7&amp;pp=iAQB)
+### [Настройка SEO свойств в 1С Битрикс / Урок 8.2 - инфоблоки](https://www.youtube.com/watch?v=a_xEDOyPHYc&amp;list=PL8pp2EAvIK-KkCn8IX9F0xTEOHbXDxVW9&amp;index=8&amp;pp=iAQB)

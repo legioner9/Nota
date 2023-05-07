@@ -1,3 +1,0 @@
-# [Exploring the IT World / Oleg Shpagin / WISEPLAT](https://www.youtube.com/@wiseplat/playlists)
-## [Программирование под Android](https://www.youtube.com/playlist?list=PLxiU3nwEQ4PHtA8keX6OPS_5boKeWKw0q)
-### [Уроки Java / Как установить Android Studio](https://www.youtube.com/watch?v=k534Nnw0Ayc&amp;list=PLxiU3nwEQ4PHtA8keX6OPS_5boKeWKw0q&amp;index=1)

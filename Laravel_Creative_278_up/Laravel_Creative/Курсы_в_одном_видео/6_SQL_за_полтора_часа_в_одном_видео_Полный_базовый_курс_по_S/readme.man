@@ -1,0 +1,3 @@
+# [Laravel Creative](https://www.youtube.com/@laravelcreative/playlists)
+## [Курсы в одном видео](https://www.youtube.com/playlist?list=PLd2_Os8Cj3t-4eYFN0q6FqiXfGQeoFZwj)
+### [SQL за полтора часа в одном видео! Полный базовый курс по SQL. Базы данных курс для начинающих!](https://www.youtube.com/watch?v=LYL1HkUDFUc&amp;list=PLd2_Os8Cj3t-4eYFN0q6FqiXfGQeoFZwj&amp;index=6&amp;pp=iAQB)

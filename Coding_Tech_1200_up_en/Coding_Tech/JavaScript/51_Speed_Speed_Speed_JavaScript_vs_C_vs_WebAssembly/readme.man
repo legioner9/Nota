@@ -1,0 +1,3 @@
+# [Coding Tech](https://www.youtube.com/@CodingTech/playlists)
+## [JavaScript](https://www.youtube.com/playlist?list=PLFjq8z-aGyQ49hmlhMZgYAoXb3NBiee4R)
+### [Speed, Speed, Speed: JavaScript vs C++ vs WebAssembly](https://www.youtube.com/watch?v=uMuYaES4W3o&amp;list=PLFjq8z-aGyQ49hmlhMZgYAoXb3NBiee4R&amp;index=51&amp;pp=iAQB)

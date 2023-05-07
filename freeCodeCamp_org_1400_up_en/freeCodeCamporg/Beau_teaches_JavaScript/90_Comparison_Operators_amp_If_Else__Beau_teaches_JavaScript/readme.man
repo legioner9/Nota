@@ -1,0 +1,3 @@
+# [freeCodeCamp.org](https://www.youtube.com/@freecodecamp/playlists)
+## [Beau teaches JavaScript](https://www.youtube.com/playlist?list=PLWKjhJtqVAbmoiNlqLJg1gxEjEuKHHcn_)
+### [Comparison Operators &amp; If Else - Beau teaches JavaScript](https://www.youtube.com/watch?v=7WkfzokHGqo&amp;list=PLWKjhJtqVAbmoiNlqLJg1gxEjEuKHHcn_&amp;index=90&amp;pp=iAQB)

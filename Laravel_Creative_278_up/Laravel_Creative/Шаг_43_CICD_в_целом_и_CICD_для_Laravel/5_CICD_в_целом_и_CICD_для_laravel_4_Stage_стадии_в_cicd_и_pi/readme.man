@@ -1,0 +1,3 @@
+# [Laravel Creative](https://www.youtube.com/@laravelcreative/playlists)
+## [Шаг 4.3. CI/CD в целом и CI/CD для Laravel](https://www.youtube.com/playlist?list=PLd2_Os8Cj3t8foG_gKb31q7xnAtaOCFBw)
+### [CI/CD в целом и CI/CD для laravel 4. Stage стадии в cicd и pipelines](https://www.youtube.com/watch?v=XSmFqR0rRtI&amp;list=PLd2_Os8Cj3t8foG_gKb31q7xnAtaOCFBw&amp;index=5&amp;pp=iAQB)

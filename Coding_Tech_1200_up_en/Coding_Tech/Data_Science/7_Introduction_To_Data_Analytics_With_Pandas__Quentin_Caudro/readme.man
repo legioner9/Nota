@@ -1,0 +1,3 @@
+# [Coding Tech](https://www.youtube.com/@CodingTech/playlists)
+## [Data Science](https://www.youtube.com/playlist?list=PLFjq8z-aGyQ5ijq6ZD2CEkqWoOBgHi9qG)
+### [Introduction To Data Analytics With Pandas || Quentin Caudron](https://www.youtube.com/watch?v=WrAkpobchUk&amp;list=PLFjq8z-aGyQ5ijq6ZD2CEkqWoOBgHi9qG&amp;index=7&amp;pp=iAQB)

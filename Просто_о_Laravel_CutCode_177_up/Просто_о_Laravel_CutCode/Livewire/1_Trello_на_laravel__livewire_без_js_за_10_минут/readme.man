@@ -1,0 +1,3 @@
+# [Просто о Laravel. CutCode](https://www.youtube.com/@CutCodeRu/playlists)
+## [Livewire](https://www.youtube.com/playlist?list=PLTucyHptHtTmr5m18mxq-3QIRcaU9SyDF)
+### [Trello на laravel + livewire без js за 10 минут!](https://www.youtube.com/watch?v=HAgB0qRuvqg&amp;list=PLTucyHptHtTmr5m18mxq-3QIRcaU9SyDF&amp;index=1&amp;pp=iAQB)

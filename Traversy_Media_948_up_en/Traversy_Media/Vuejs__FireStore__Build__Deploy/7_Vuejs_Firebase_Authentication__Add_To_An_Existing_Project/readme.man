@@ -1,0 +1,3 @@
+# [Traversy Media](https://www.youtube.com/@TraversyMedia/playlists)
+## [Vue.js & FireStore - Build & Deploy](https://www.youtube.com/playlist?list=PLillGF-RfqbYsOOycB67Raf9dwmL6Y31M)
+### [Vue.js Firebase Authentication - Add To An Existing Project](https://www.youtube.com/watch?v=MoBYBc1dkhE&amp;list=PLillGF-RfqbYsOOycB67Raf9dwmL6Y31M&amp;index=7&amp;pp=iAQB)

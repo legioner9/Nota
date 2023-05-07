@@ -1,0 +1,3 @@
+# [В. Бовсуновский Python Django](https://www.youtube.com/@bov/playlists?view=1)
+## [Python  подробно.](https://www.youtube.com/playlist?list=PLuZJ9n46uMzUrsewLlB0zRc_vsIMNEqJA)
+### [Более подробно, что будет из себя представлять курс django 2, который начинается август 2019.](https://www.youtube.com/watch?v=aFbY_zcQYT8&amp;list=PLuZJ9n46uMzUrsewLlB0zRc_vsIMNEqJA&amp;index=60&amp;pp=iAQB)

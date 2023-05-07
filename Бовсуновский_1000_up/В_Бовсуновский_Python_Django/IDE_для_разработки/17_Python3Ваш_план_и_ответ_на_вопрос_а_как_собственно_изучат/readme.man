@@ -1,0 +1,3 @@
+# [В. Бовсуновский Python Django](https://www.youtube.com/@bov/playlists?view=1)
+## [IDE для разработки](https://www.youtube.com/playlist?list=PLuZJ9n46uMzUFVX_1F87vfsyhq4CLu-gY)
+### [(Python3).Ваш план и ответ на вопрос, а как собственно изучать язык программирования.](https://www.youtube.com/watch?v=R6RO8UKspZY&amp;list=PLuZJ9n46uMzUFVX_1F87vfsyhq4CLu-gY&amp;index=17&amp;pp=iAQB)

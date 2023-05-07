@@ -1,0 +1,3 @@
+# [WebDev с нуля. Канал Алекса Лущенко](https://www.youtube.com/@itgid/playlists)
+## [Тестирование ПО](https://www.youtube.com/playlist?list=PLM7wFzahDYnGTjmvnkHY40L4vy2VuAqVO)
+### [Введение в HTML для QA](https://www.youtube.com/watch?v=568kKmc0UFI&amp;list=PLM7wFzahDYnGTjmvnkHY40L4vy2VuAqVO&amp;index=5&amp;pp=iAQB)

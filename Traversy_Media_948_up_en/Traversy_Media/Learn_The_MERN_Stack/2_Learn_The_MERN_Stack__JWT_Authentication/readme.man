@@ -1,0 +1,3 @@
+# [Traversy Media](https://www.youtube.com/@TraversyMedia/playlists)
+## [Learn The MERN Stack](https://www.youtube.com/playlist?list=PLillGF-RfqbbQeVSccR9PGKHzPJSWqcsm)
+### [Learn The MERN Stack - JWT Authentication](https://www.youtube.com/watch?v=enopDSs3DRw&amp;list=PLillGF-RfqbbQeVSccR9PGKHzPJSWqcsm&amp;index=2&amp;pp=iAQB)

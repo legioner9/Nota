@@ -1,0 +1,6 @@
+### [Как подключить SweetAlert \ Красивые всплывающее уведомления на JS](https://www.youtube.com/watch?v=dzS4K-AcK-o&amp;list=PLB8wmVoWIIx566b6jZNOitlBEFYL4xzmF&amp;index=1&amp;pp=iAQB)
+### [Отправляем HTML формы через AJAX на JS/PHP](https://www.youtube.com/watch?v=gJLnuO0j1ho&amp;list=PLB8wmVoWIIx566b6jZNOitlBEFYL4xzmF&amp;index=2&amp;pp=iAQB)
+### [Как подключить 2FA на PHP \ Двухфакторная авторизация](https://www.youtube.com/watch?v=3_qHo_-01Zs&amp;list=PLB8wmVoWIIx566b6jZNOitlBEFYL4xzmF&amp;index=3&amp;pp=iAQB)
+### [Как подключить reCAPTCHA (капча от гугла)](https://www.youtube.com/watch?v=6M36tTLc-Eg&amp;list=PLB8wmVoWIIx566b6jZNOitlBEFYL4xzmF&amp;index=4&amp;pp=iAQB)
+### [Как подключить CloudFlare / Бесплатный SSL / Защита от DDOS атак](https://www.youtube.com/watch?v=l0q9FOKbUpU&amp;list=PLB8wmVoWIIx566b6jZNOitlBEFYL4xzmF&amp;index=5&amp;pp=iAQB)
+### [Бесплатные домены в зоне .tk, .ml, .ga, .cf, .gq](https://www.youtube.com/watch?v=ZVfeDafIl2o&amp;list=PLB8wmVoWIIx566b6jZNOitlBEFYL4xzmF&amp;index=6&amp;pp=iAQB)

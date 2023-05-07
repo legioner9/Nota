@@ -1,0 +1,3 @@
+# [ВебКадеми - веб-разработка, программирование и IT](https://www.youtube.com/@WebCademy/playlists?view=1&sort=dd&shelf_id=0)
+## [JavaScript для верстальщика. Основы. Теория и практика](https://www.youtube.com/playlist?list=PL1NBhQGGj46bU5rIaGApKPw4r8PZuCwDs)
+### [Основы JavaScript для начинающих и HTML верстальщиков](https://www.youtube.com/watch?v=UFmZaNj6wyA&amp;list=PL1NBhQGGj46bU5rIaGApKPw4r8PZuCwDs&amp;index=1&amp;pp=iAQB)

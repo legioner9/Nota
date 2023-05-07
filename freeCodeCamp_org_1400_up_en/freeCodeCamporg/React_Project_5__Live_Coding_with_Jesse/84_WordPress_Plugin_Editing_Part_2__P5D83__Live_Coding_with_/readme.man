@@ -1,0 +1,3 @@
+# [freeCodeCamp.org](https://www.youtube.com/@freecodecamp/playlists)
+## [React Project 5 - Live Coding with Jesse](https://www.youtube.com/playlist?list=PLWKjhJtqVAbkOoQw0jDWn-pzN3nFVjhbH)
+### [WordPress Plugin Editing Part 2  (P5D83) - Live Coding with Jesse](https://www.youtube.com/watch?v=sdD7cl2Y-2s&amp;list=PLWKjhJtqVAbkOoQw0jDWn-pzN3nFVjhbH&amp;index=84&amp;pp=iAQB)

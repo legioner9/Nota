@@ -1,0 +1,3 @@
+# [Студия Флаг](https://www.youtube.com/@FlagStudio/playlists)
+## [Laravel](https://www.youtube.com/playlist?list=PLVdcV6tHcaCEUw807UcoNwhVtjTiprZlt)
+### [20170726 Laracon US 2017 Day 2 Jeffrey Way](https://www.youtube.com/watch?v=Npm5LruYA7A&amp;list=PLVdcV6tHcaCEUw807UcoNwhVtjTiprZlt&amp;index=3&amp;pp=iAQB)

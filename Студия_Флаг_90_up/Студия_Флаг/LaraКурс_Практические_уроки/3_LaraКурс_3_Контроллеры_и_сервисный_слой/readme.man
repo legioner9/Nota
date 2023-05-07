@@ -1,0 +1,3 @@
+# [Студия Флаг](https://www.youtube.com/@FlagStudio/playlists)
+## [LaraКурс. Практические уроки](https://www.youtube.com/playlist?list=PLVdcV6tHcaCFyJmZHFmXeKu95wPCSskrb)
+### [LaraКурс #3. Контроллеры и сервисный слой](https://www.youtube.com/watch?v=SQH5y_ZV5L0&amp;list=PLVdcV6tHcaCFyJmZHFmXeKu95wPCSskrb&amp;index=3&amp;pp=iAQB)

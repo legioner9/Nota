@@ -1,0 +1,3 @@
+# [About IT](https://www.youtube.com/@aboutit6516/playlists)
+## [Теория графов JS](https://www.youtube.com/playlist?list=PLM43Ga_gVp8t6Obkqo_T5SADlj0bMJiR0)
+### [#3 Графы на JS. Пишем class для графа [ES6]](https://www.youtube.com/watch?v=rtiNKyn00Lo&amp;list=PLM43Ga_gVp8t6Obkqo_T5SADlj0bMJiR0&amp;index=3&amp;pp=iAQB)

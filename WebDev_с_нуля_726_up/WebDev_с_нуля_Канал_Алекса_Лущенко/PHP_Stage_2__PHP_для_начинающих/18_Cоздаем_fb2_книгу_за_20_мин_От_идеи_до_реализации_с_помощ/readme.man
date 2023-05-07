@@ -1,0 +1,3 @@
+# [WebDev с нуля. Канал Алекса Лущенко](https://www.youtube.com/@itgid/playlists)
+## [PHP Stage 2.  PHP для начинающих](https://www.youtube.com/playlist?list=PLM7wFzahDYnHdnEp8Nn_jD_jxYaWLnsyG)
+### [Cоздаем fb2 книгу за 20 мин. От идеи до реализации с помощью программирования](https://www.youtube.com/watch?v=AXw8_wALSio&amp;list=PLM7wFzahDYnHdnEp8Nn_jD_jxYaWLnsyG&amp;index=18&amp;pp=iAQB)

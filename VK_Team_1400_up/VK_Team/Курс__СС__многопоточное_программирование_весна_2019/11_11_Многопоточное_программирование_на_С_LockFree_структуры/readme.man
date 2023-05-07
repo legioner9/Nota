@@ -1,0 +1,3 @@
+# [VK Team](https://www.youtube.com/@vkteamchannel/playlists?view=1&sort=dd&shelf_id=0)
+## [Курс · С/С++ — многопоточное программирование (весна 2019)](https://www.youtube.com/playlist?list=PLrCZzMib1e9rOoJM9I8-NKBeuic-3A-xr)
+### [11. Многопоточное программирование на С++. Lock-Free структуры данных | Технострим](https://www.youtube.com/watch?v=ktgGmFDAz_Y&amp;list=PLrCZzMib1e9rOoJM9I8-NKBeuic-3A-xr&amp;index=11&amp;pp=iAQB)

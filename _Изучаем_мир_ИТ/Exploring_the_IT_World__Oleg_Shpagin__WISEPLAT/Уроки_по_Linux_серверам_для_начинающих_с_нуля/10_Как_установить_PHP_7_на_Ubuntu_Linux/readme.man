@@ -1,3 +1,0 @@
-# [Exploring the IT World / Oleg Shpagin / WISEPLAT](https://www.youtube.com/@wiseplat/playlists)
-## [Уроки по Linux серверам для начинающих с нуля](https://www.youtube.com/playlist?list=PLxiU3nwEQ4PEkfs5IpMvsLQTLw88DGnnU)
-### [Как установить PHP 7 на Ubuntu Linux](https://www.youtube.com/watch?v=iMyyFYvleAo&amp;list=PLxiU3nwEQ4PEkfs5IpMvsLQTLw88DGnnU&amp;index=10)

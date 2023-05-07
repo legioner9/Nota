@@ -1,0 +1,3 @@
+# [openWeb - Веб программирование на языках PHP и JS](https://www.youtube.com/@openweb-php/playlists)
+## [Уроки PHP](https://www.youtube.com/playlist?list=PL-leL2miqjEavs9nx7pXolf0NBNwhs4H_)
+### [MVC примеры в Yii2 Framework PHP](https://www.youtube.com/watch?v=uJRnub-VtlA&amp;list=PL-leL2miqjEavs9nx7pXolf0NBNwhs4H_&amp;index=8&amp;pp=iAQB)

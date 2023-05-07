@@ -1,0 +1,3 @@
+# [Web Developer Blog](https://www.youtube.com/@SuprunAlexey/playlists)
+## [Уроки PHP 7](https://www.youtube.com/playlist?list=PLVfMKQXDAhGWCBTca7m-snWrZZkjX2jGB)
+### [ООП для начинающих PHP. Конструкторы и деструкторы. Магические методы.](https://www.youtube.com/watch?v=ORF6R0eYfhs&amp;list=PLVfMKQXDAhGWCBTca7m-snWrZZkjX2jGB&amp;index=20&amp;pp=iAQB)

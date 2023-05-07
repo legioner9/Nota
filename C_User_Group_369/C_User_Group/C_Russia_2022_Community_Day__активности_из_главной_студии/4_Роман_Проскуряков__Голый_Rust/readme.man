@@ -1,0 +1,3 @@
+# [C++ User Group](https://www.youtube.com/@CUserGroupRussia/playlists)
+## [C++ Russia 2022: Community Day & активности из главной студии](https://www.youtube.com/playlist?list=PLZN9ZGiWZoZo4MvdepGdU-6HmGVCf46Eh)
+### [Роман Проскуряков — Голый Rust](https://www.youtube.com/watch?v=dIY8wxysIuI&amp;list=PLZN9ZGiWZoZo4MvdepGdU-6HmGVCf46Eh&amp;index=4&amp;pp=iAQB)

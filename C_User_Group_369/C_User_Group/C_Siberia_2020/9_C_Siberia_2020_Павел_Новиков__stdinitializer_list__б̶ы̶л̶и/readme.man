@@ -1,0 +1,3 @@
+# [C++ User Group](https://www.youtube.com/@CUserGroupRussia/playlists)
+## [C++ Siberia 2020](https://www.youtube.com/playlist?list=PLZN9ZGiWZoZpMJgDtlfMN6CUmL4ysT4G1)
+### [C++ Siberia 2020: Павел Новиков - std::initializer_list — б̶ы̶л̶и̶н̶н̶ы̶й̶ отказ проектирования](https://www.youtube.com/watch?v=tL44rnyLQ9Y&amp;list=PLZN9ZGiWZoZpMJgDtlfMN6CUmL4ysT4G1&amp;index=9&amp;pp=iAQB)

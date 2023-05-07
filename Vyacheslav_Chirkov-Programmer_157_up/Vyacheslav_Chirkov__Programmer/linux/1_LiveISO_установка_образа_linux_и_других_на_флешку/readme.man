@@ -1,0 +1,3 @@
+# [Vyacheslav Chirkov - Programmer](https://www.youtube.com/@vcpro/playlists)
+## [linux](https://www.youtube.com/playlist?list=PLEjhu-KP5eiAOAflLU1_QDXqNyH5hVG6U)
+### [LiveISO установка образа linux и других на флешку](https://www.youtube.com/watch?v=E0R_PJMx7R8&amp;list=PLEjhu-KP5eiAOAflLU1_QDXqNyH5hVG6U&amp;index=1&amp;pp=iAQB)

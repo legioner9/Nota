@@ -1,0 +1,6 @@
+### [Функции Kotlin, но принципы те же что и в питон. Так в чём же секрет?](https://www.youtube.com/watch?v=ge_QHwHupaE&amp;list=PLuZJ9n46uMzVhiEjKgj4008McoCA-lk5y&amp;index=1&amp;pp=iAQB)
+### [А я могу стать программистом, как Игорь Лисицин? Да!! Что нужно делать рассказал.](https://www.youtube.com/watch?v=byEwQYFFArE&amp;list=PLuZJ9n46uMzVhiEjKgj4008McoCA-lk5y&amp;index=2&amp;pp=iAQB)
+### [Kotlin работает в JupyterLab. Рассмотрим позиционные параметры.](https://www.youtube.com/watch?v=SUBdPALcHb8&amp;list=PLuZJ9n46uMzVhiEjKgj4008McoCA-lk5y&amp;index=3&amp;pp=iAQB)
+### [Гарантированное усвоение языков программирования (питон, котлин, js) на 100 процентов таким образом.](https://www.youtube.com/watch?v=9RsJnQ6QCCg&amp;list=PLuZJ9n46uMzVhiEjKgj4008McoCA-lk5y&amp;index=4&amp;pp=iAQB)
+### [1. Суть типа Unit в kotlin. (см. описание)](https://www.youtube.com/watch?v=2xxK64_lNi8&amp;list=PLuZJ9n46uMzVhiEjKgj4008McoCA-lk5y&amp;index=5&amp;pp=iAQB)
+### [2. Суть типа Unit в kotlin (часть 2). (см. описание)](https://www.youtube.com/watch?v=lErn7Hx-z9w&amp;list=PLuZJ9n46uMzVhiEjKgj4008McoCA-lk5y&amp;index=6&amp;pp=iAQB)

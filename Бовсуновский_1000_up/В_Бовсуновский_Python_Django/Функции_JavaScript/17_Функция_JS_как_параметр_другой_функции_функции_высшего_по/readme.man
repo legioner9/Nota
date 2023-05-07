@@ -1,0 +1,3 @@
+# [В. Бовсуновский Python Django](https://www.youtube.com/@bov/playlists?view=1)
+## [Функции JavaScript](https://www.youtube.com/playlist?list=PLuZJ9n46uMzWnxpec__CZzq_8USy81Qtq)
+### [Функция JS, как параметр другой функции. (функции высшего порядка)](https://www.youtube.com/watch?v=xE3aJoPUJSQ&amp;list=PLuZJ9n46uMzWnxpec__CZzq_8USy81Qtq&amp;index=17&amp;pp=iAQB)

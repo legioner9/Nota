@@ -1,0 +1,2 @@
+### [Как выгрузить нужные IoC из базы Autofocus, как использовать API и MineMeld.](https://www.youtube.com/watch?v=mhFAoqeKF1w&amp;list=PLRAbJA74qU4Di1nzWt7YgNfQ-4qFnnih-&amp;index=1&amp;pp=iAQB)
+### [Основы Threat Intelligence, обнаружение тактик хакеров и пример работы Autofocus](https://www.youtube.com/watch?v=AKDna8NTH8o&amp;list=PLRAbJA74qU4Di1nzWt7YgNfQ-4qFnnih-&amp;index=2&amp;pp=iAQB)

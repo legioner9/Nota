@@ -1,0 +1,3 @@
+# [WebDev с нуля. Канал Алекса Лущенко](https://www.youtube.com/@itgid/playlists)
+## [JavaScript. Первые шаги](https://www.youtube.com/playlist?list=PLM7wFzahDYnGiAEISqw1Lal_T9heUvbar)
+### [4 странных typeof JavaScript](https://www.youtube.com/watch?v=mcMI0Pnjqd4&amp;list=PLM7wFzahDYnGiAEISqw1Lal_T9heUvbar&amp;index=41&amp;pp=iAQB)

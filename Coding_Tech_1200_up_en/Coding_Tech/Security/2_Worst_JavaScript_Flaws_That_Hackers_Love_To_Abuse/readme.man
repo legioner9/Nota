@@ -1,0 +1,3 @@
+# [Coding Tech](https://www.youtube.com/@CodingTech/playlists)
+## [Security](https://www.youtube.com/playlist?list=PLFjq8z-aGyQ6l4bjixx1aAzqRBB8On4_X)
+### [Worst JavaScript Flaws That Hackers Love To Abuse](https://www.youtube.com/watch?v=0dgmeTy7X3I&amp;list=PLFjq8z-aGyQ6l4bjixx1aAzqRBB8On4_X&amp;index=2&amp;pp=iAQB)

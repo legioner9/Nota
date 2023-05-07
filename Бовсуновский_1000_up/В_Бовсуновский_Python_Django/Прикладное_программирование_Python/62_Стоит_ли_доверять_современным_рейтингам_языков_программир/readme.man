@@ -1,0 +1,3 @@
+# [В. Бовсуновский Python Django](https://www.youtube.com/@bov/playlists?view=1)
+## [Прикладное программирование Python.](https://www.youtube.com/playlist?list=PLuZJ9n46uMzX---cfRMYZgEDePohvo8dp)
+### [Стоит ли доверять современным рейтингам языков программирования, при выборе языка ????](https://www.youtube.com/watch?v=5DgDxtqJZlc&amp;list=PLuZJ9n46uMzX---cfRMYZgEDePohvo8dp&amp;index=62&amp;pp=iAQB)

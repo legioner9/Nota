@@ -1,0 +1,3 @@
+# [Просто о Laravel. CutCode](https://www.youtube.com/@CutCodeRu/playlists)
+## [Roadmap Laravel](https://www.youtube.com/playlist?list=PLTucyHptHtTn2Fh7QnUPoW0Cm81ZcoEJk)
+### [Laravel API. All you need! Json Resource, Resource Collection, Cache, Rate Limit](https://www.youtube.com/watch?v=FjhcY5GbwfE&amp;list=PLTucyHptHtTn2Fh7QnUPoW0Cm81ZcoEJk&amp;index=24&amp;pp=iAQB)

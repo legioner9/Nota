@@ -1,0 +1,3 @@
+# [Tech Javascript](https://www.youtube.com/@techjavascript/playlists)
+## [Javascript от новичка и до первой работы. Блок 3. Frontend with React js](https://www.youtube.com/playlist?list=PLco1IpJXladYKtXL9ppvHEMd8fQsTdCYm)
+### [23. Валидация логин формы с помощью React hook form](https://www.youtube.com/watch?v=wlRQ_AO6SoU&amp;list=PLco1IpJXladYKtXL9ppvHEMd8fQsTdCYm&amp;index=23&amp;pp=iAQB)

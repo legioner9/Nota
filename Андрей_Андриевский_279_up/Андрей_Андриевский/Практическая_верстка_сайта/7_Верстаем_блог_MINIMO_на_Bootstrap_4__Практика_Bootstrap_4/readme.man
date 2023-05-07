@@ -1,0 +1,3 @@
+# [Андрей Андриевский](https://www.youtube.com/@andrievskii/playlists)
+## [Практическая верстка сайта](https://www.youtube.com/playlist?list=PLMB6wLyKp7lVsxWZ1rMH1yeNrf9XAoS_S)
+### [Верстаем блог MINIMO на Bootstrap 4 | Практика Bootstrap 4](https://www.youtube.com/watch?v=tvcRe4gVwGE&amp;list=PLMB6wLyKp7lVsxWZ1rMH1yeNrf9XAoS_S&amp;index=7&amp;pp=iAQB)

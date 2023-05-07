@@ -1,0 +1,3 @@
+# [Denis Batrankov](https://www.youtube.com/@BDVSecurity/playlists)
+## [NGFW](https://www.youtube.com/playlist?list=PLRAbJA74qU4BwrOpBkq3GWaq9lnwAWp5i)
+### [NGFW for SOC and how to analyse the traffic and the threats](https://www.youtube.com/watch?v=YNg6zIn6ksg&amp;list=PLRAbJA74qU4BwrOpBkq3GWaq9lnwAWp5i&amp;index=34&amp;pp=iAQB)

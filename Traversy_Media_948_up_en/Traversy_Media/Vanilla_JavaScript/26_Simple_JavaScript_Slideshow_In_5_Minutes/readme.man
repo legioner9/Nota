@@ -1,0 +1,3 @@
+# [Traversy Media](https://www.youtube.com/@TraversyMedia/playlists)
+## [Vanilla JavaScript](https://www.youtube.com/playlist?list=PLillGF-RfqbbnEGy3ROiLWk7JMCuSyQtX)
+### [Simple JavaScript Slideshow In 5 Minutes](https://www.youtube.com/watch?v=4YQ4svkETS0&amp;list=PLillGF-RfqbbnEGy3ROiLWk7JMCuSyQtX&amp;index=26&amp;pp=iAQB)

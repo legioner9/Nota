@@ -1,0 +1,5 @@
+### [Профессионально верстаем макет с адаптивом, часть 1 | HTML, CSS](https://www.youtube.com/watch?v=msYRNYi8zvk&amp;list=PLJpSkcgOK72DeKfdFB27hq7STUoTs5QK1&amp;index=1&amp;pp=iAQB)
+### [Профессионально верстаем макет с адаптивом, часть 2 | HTML, CSS](https://www.youtube.com/watch?v=HEnAkbitnXw&amp;list=PLJpSkcgOK72DeKfdFB27hq7STUoTs5QK1&amp;index=2&amp;pp=iAQB)
+### [Вместе верстаем меню бургер | HTML, CSS, JS](https://www.youtube.com/watch?v=3QluySYvZu0&amp;list=PLJpSkcgOK72DeKfdFB27hq7STUoTs5QK1&amp;index=3&amp;pp=iAQB)
+### [Вместе адаптируем вёрстку под мобильные устройства | HTML + CSS](https://www.youtube.com/watch?v=jXbEysE1NsI&amp;list=PLJpSkcgOK72DeKfdFB27hq7STUoTs5QK1&amp;index=4&amp;pp=iAQB)
+### [Исправляем баги бургера,  создаём шапку sticky и анимированную кнопка scroll to | HTML, CSS, JS](https://www.youtube.com/watch?v=qhefz7CVsu8&amp;list=PLJpSkcgOK72DeKfdFB27hq7STUoTs5QK1&amp;index=5&amp;pp=iAQB)

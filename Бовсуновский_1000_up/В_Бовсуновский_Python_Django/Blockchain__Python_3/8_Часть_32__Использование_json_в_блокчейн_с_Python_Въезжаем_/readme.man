@@ -1,0 +1,3 @@
+# [В. Бовсуновский Python Django](https://www.youtube.com/@bov/playlists?view=1)
+## [Blockchain + Python 3](https://www.youtube.com/playlist?list=PLuZJ9n46uMzULqscdPft5PHGiuCFEksrt)
+### [Часть 3.2 - Использование json в блокчейн с Python. Въезжаем в json.](https://www.youtube.com/watch?v=hzM5cn3w8wc&amp;list=PLuZJ9n46uMzULqscdPft5PHGiuCFEksrt&amp;index=8&amp;pp=iAQB)

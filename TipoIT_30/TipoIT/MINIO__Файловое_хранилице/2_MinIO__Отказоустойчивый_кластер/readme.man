@@ -1,0 +1,3 @@
+# [TipoIT](https://www.youtube.com/@tipoit/playlists)
+## [MINIO - Файловое хранилице](https://www.youtube.com/playlist?list=PLTuGAOACdyjUpH9387MYDTQ3jaPjOI8Qm)
+### [MinIO - Отказоустойчивый кластер](https://www.youtube.com/watch?v=wFqJfM9A9ns&amp;list=PLTuGAOACdyjUpH9387MYDTQ3jaPjOI8Qm&amp;index=2&amp;pp=iAQB)

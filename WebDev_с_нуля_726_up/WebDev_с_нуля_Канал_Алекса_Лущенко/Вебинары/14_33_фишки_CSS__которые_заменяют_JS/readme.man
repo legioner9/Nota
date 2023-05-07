@@ -1,0 +1,3 @@
+# [WebDev с нуля. Канал Алекса Лущенко](https://www.youtube.com/@itgid/playlists)
+## [Вебинары](https://www.youtube.com/playlist?list=PLM7wFzahDYnGiUxSZsNCJ4MzYTi7BmnWh)
+### [33 фишки CSS  которые заменяют JS](https://www.youtube.com/watch?v=Ky6hZZUR9Wo&amp;list=PLM7wFzahDYnGiUxSZsNCJ4MzYTi7BmnWh&amp;index=14&amp;pp=iAQB)

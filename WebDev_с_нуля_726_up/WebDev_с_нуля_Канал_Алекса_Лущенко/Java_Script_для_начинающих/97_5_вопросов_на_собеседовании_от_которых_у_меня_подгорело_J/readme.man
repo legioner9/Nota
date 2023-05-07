@@ -1,0 +1,3 @@
+# [WebDev с нуля. Канал Алекса Лущенко](https://www.youtube.com/@itgid/playlists)
+## [Java Script для начинающих](https://www.youtube.com/playlist?list=PLM7wFzahDYnFjBTkfRTRlusyp_tlZ9rYz)
+### [5 вопросов на собеседовании, от которых у меня подгорело! JavaScript](https://www.youtube.com/watch?v=_TqxFmSTdAk&amp;list=PLM7wFzahDYnFjBTkfRTRlusyp_tlZ9rYz&amp;index=97&amp;pp=iAQB)

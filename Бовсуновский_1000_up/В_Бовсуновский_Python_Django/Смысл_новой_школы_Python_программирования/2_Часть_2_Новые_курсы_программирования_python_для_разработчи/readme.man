@@ -1,0 +1,3 @@
+# [В. Бовсуновский Python Django](https://www.youtube.com/@bov/playlists?view=1)
+## [Смысл новой школы Python программирования.](https://www.youtube.com/playlist?list=PLuZJ9n46uMzWUWg6Ahhy0WsjeixyG7_he)
+### [Часть 2. Новые курсы программирования python для разработчиков.](https://www.youtube.com/watch?v=JG4sPQCNkyY&amp;list=PLuZJ9n46uMzWUWg6Ahhy0WsjeixyG7_he&amp;index=2&amp;pp=iAQB)

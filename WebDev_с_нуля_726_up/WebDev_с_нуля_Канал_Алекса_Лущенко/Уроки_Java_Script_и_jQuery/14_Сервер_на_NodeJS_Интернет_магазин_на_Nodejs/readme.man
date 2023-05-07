@@ -1,0 +1,3 @@
+# [WebDev с нуля. Канал Алекса Лущенко](https://www.youtube.com/@itgid/playlists)
+## [Уроки Java Script и jQuery](https://www.youtube.com/playlist?list=PLM7wFzahDYnHVJJX2nMYnw2yD1Rnqd-lB)
+### [Сервер на NodeJS. Интернет магазин на Node.js](https://www.youtube.com/watch?v=teob7I0bW_M&amp;list=PLM7wFzahDYnHVJJX2nMYnw2yD1Rnqd-lB&amp;index=14&amp;pp=iAQB)

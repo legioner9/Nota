@@ -1,3 +1,0 @@
-# [Exploring the IT World / Oleg Shpagin / WISEPLAT](https://www.youtube.com/@wiseplat/playlists)
-## [Уроки Python для школьников [смотреть перед плейлистом  ОСНОВЫ Python]](https://www.youtube.com/playlist?list=PLxiU3nwEQ4PFTE6V1i0he71ArpjGseHKZ)
-### [Как сделать мобильное приложение на Python (Калькулятор)](https://www.youtube.com/watch?v=zAWu_ys3SzQ&amp;list=PLxiU3nwEQ4PFTE6V1i0he71ArpjGseHKZ&amp;index=9)

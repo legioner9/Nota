@@ -1,0 +1,3 @@
+# [Андрей Иванов | Python](https://www.youtube.com/@PythononPapyrusRU/playlists)
+## [Прямые трансляции](https://www.youtube.com/playlist?list=PLF4MWzDJPFSZrXHrUFb8cS6XuNCRfZKVQ)
+### [СОЗДАЕМ WEB3 ПРИЛОЖЕНИЕ НА SOLIDITY. PAYPAL В КРИТОВАЛЮТЕ](https://www.youtube.com/watch?v=8qG2Bcq-D_c&amp;list=PLF4MWzDJPFSZrXHrUFb8cS6XuNCRfZKVQ&amp;index=1&amp;pp=iAQB)

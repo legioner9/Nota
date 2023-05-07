@@ -1,0 +1,3 @@
+# [В. Бовсуновский Python Django](https://www.youtube.com/@bov/playlists?view=1)
+## [Фреймворк Django + Python](https://www.youtube.com/playlist?list=PLuZJ9n46uMzUTlpOt5EiuFdL3NADjS5EP)
+### [Django forms - как это работает?](https://www.youtube.com/watch?v=FgR62AmwFoI&amp;list=PLuZJ9n46uMzUTlpOt5EiuFdL3NADjS5EP&amp;index=60&amp;pp=iAQB)

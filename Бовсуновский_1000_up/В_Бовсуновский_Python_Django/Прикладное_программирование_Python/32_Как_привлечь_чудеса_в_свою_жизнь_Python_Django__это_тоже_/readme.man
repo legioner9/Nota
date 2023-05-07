@@ -1,0 +1,3 @@
+# [В. Бовсуновский Python Django](https://www.youtube.com/@bov/playlists?view=1)
+## [Прикладное программирование Python.](https://www.youtube.com/playlist?list=PLuZJ9n46uMzX---cfRMYZgEDePohvo8dp)
+### [Как привлечь чудеса в свою жизнь? (Python Django - это тоже чудо)](https://www.youtube.com/watch?v=zfZw7zuNtpI&amp;list=PLuZJ9n46uMzX---cfRMYZgEDePohvo8dp&amp;index=32&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [freeCodeCamp.org](https://www.youtube.com/@freecodecamp/playlists)
+## [Talks](https://www.youtube.com/playlist?list=PLWKjhJtqVAbl9yptoxdSJDDoTVdcysyPo)
+### [The All Powerful Front End Developer - Chris Coyier](https://www.youtube.com/watch?v=vXJpOHz3_sY&amp;list=PLWKjhJtqVAbl9yptoxdSJDDoTVdcysyPo&amp;index=4&amp;pp=iAQB)

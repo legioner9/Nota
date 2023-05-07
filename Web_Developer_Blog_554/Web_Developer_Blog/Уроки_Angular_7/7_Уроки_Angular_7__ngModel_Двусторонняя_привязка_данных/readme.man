@@ -1,0 +1,3 @@
+# [Web Developer Blog](https://www.youtube.com/@SuprunAlexey/playlists)
+## [Уроки Angular 7](https://www.youtube.com/playlist?list=PLVfMKQXDAhGW12JY3SfeDnEx7S5_tn11j)
+### [Уроки Angular 7 - ngModel. Двусторонняя привязка данных](https://www.youtube.com/watch?v=eCwSJ5PzjJ4&amp;list=PLVfMKQXDAhGW12JY3SfeDnEx7S5_tn11j&amp;index=7&amp;pp=iAQB)

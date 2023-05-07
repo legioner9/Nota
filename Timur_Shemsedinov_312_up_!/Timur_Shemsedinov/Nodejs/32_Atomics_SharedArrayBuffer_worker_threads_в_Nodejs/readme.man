@@ -1,0 +1,3 @@
+# [Timur Shemsedinov](https://www.youtube.com/@TimurShemsedinov/playlists?view=1)
+## [Node.js](https://www.youtube.com/playlist?list=PLHhi8ymDMrQZmXEqIIlq2S9-Ibh9b_-rQ)
+### [Atomics, SharedArrayBuffer, worker_threads в Node.js](https://www.youtube.com/watch?v=zLm8pnbxSII&amp;list=PLHhi8ymDMrQZmXEqIIlq2S9-Ibh9b_-rQ&amp;index=32&amp;pp=iAQB)

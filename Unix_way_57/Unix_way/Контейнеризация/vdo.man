@@ -1,0 +1,8 @@
+### [От Docker до Kubernetes: историческая ретроспектива](https://www.youtube.com/watch?v=18oEvs-ONSw&amp;list=PLsMIccp52YRtEr4EallcVRlCaEt61oRzl&amp;index=1&amp;pp=iAQB)
+### [Введение в Docker](https://www.youtube.com/watch?v=yrmty10Q7NQ&amp;list=PLsMIccp52YRtEr4EallcVRlCaEt61oRzl&amp;index=2&amp;pp=iAQB)
+### [Введение в Kubernetes. Часть 1. Установка кластера](https://www.youtube.com/watch?v=yyBFNcPyAk0&amp;list=PLsMIccp52YRtEr4EallcVRlCaEt61oRzl&amp;index=3&amp;pp=iAQB)
+### [Введение в Kubernetes. Часть 2. Поды и сервисы](https://www.youtube.com/watch?v=yeVQj7GuKkE&amp;list=PLsMIccp52YRtEr4EallcVRlCaEt61oRzl&amp;index=4&amp;pp=iAQB)
+### [Введение в Kubernetes. Часть 3. Горизонтальное маштабирование.](https://www.youtube.com/watch?v=igx0WPgkyWo&amp;list=PLsMIccp52YRtEr4EallcVRlCaEt61oRzl&amp;index=5&amp;pp=iAQB)
+### [Введение в Kubernetes. Часть 4. Отказоустойчивость для клиентов](https://www.youtube.com/watch?v=YQ24hZyG4YI&amp;list=PLsMIccp52YRtEr4EallcVRlCaEt61oRzl&amp;index=6&amp;pp=iAQB)
+### [Введение в Kubernetes. Часть 5. Интеграция с NFS](https://www.youtube.com/watch?v=2W7j93Vy0YQ&amp;list=PLsMIccp52YRtEr4EallcVRlCaEt61oRzl&amp;index=7&amp;pp=iAQB)
+### [Что такое операторы в Kubernetes?](https://www.youtube.com/watch?v=iVTW99Lubhw&amp;list=PLsMIccp52YRtEr4EallcVRlCaEt61oRzl&amp;index=8&amp;pp=iAQB)

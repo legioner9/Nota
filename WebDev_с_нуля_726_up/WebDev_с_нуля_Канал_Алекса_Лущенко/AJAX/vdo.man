@@ -1,0 +1,6 @@
+### [AJAX. Unit 1-3](https://www.youtube.com/watch?v=UExUfpIpAEo&amp;list=PLM7wFzahDYnEIJadIGpBVm1yaPJPlFaeS&amp;index=1&amp;pp=iAQB)
+### [AJAX. Unit 1-4](https://www.youtube.com/watch?v=tiDDdiFcAS0&amp;list=PLM7wFzahDYnEIJadIGpBVm1yaPJPlFaeS&amp;index=2&amp;pp=iAQB)
+### [AJAX. Unit 2-1](https://www.youtube.com/watch?v=eY7i1G4BPkY&amp;list=PLM7wFzahDYnEIJadIGpBVm1yaPJPlFaeS&amp;index=3&amp;pp=iAQB)
+### [AJAX. Unit 2-2](https://www.youtube.com/watch?v=wsZCMhYozqc&amp;list=PLM7wFzahDYnEIJadIGpBVm1yaPJPlFaeS&amp;index=4&amp;pp=iAQB)
+### [Практический JavaScript. AJAX практика](https://www.youtube.com/watch?v=cIGFBY3VEro&amp;list=PLM7wFzahDYnEIJadIGpBVm1yaPJPlFaeS&amp;index=5&amp;pp=iAQB)
+### [JavaScript v. 2.0. Стартуем и пишем первую программу](https://www.youtube.com/watch?v=eQ9phTsL5Wo&amp;list=PLM7wFzahDYnEIJadIGpBVm1yaPJPlFaeS&amp;index=6&amp;pp=iAQB)

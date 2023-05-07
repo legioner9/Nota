@@ -1,0 +1,3 @@
+# [LN Master](https://www.youtube.com/@ToBeCloser007/playlists)
+## [JavaScript: Калькулятор](https://www.youtube.com/playlist?list=PL3PZFGlHBUn3JpdBDGDs26N7Lc6o8rbxj)
+### [Пишем canvas-калькулятор. Часть 2. (Реализация логики) [JavaScript]](https://www.youtube.com/watch?v=cTdpvyJdxLw&amp;list=PL3PZFGlHBUn3JpdBDGDs26N7Lc6o8rbxj&amp;index=1&amp;pp=iAQB)

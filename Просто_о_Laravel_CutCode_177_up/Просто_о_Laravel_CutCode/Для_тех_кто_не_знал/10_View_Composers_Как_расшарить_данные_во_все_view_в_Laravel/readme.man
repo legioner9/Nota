@@ -1,0 +1,3 @@
+# [Просто о Laravel. CutCode](https://www.youtube.com/@CutCodeRu/playlists)
+## [Для тех, кто не знал](https://www.youtube.com/playlist?list=PLTucyHptHtTk_WWbgolZzCxl2nxWLBfjc)
+### [View Composers. Как расшарить данные во все view в Laravel](https://www.youtube.com/watch?v=sf3lX-rZu98&amp;list=PLTucyHptHtTk_WWbgolZzCxl2nxWLBfjc&amp;index=10&amp;pp=iAQB)

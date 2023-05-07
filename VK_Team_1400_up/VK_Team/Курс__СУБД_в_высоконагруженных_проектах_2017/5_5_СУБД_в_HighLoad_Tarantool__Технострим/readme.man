@@ -1,0 +1,3 @@
+# [VK Team](https://www.youtube.com/@vkteamchannel/playlists?view=1&sort=dd&shelf_id=0)
+## [Курс · СУБД в высоконагруженных проектах (2017)](https://www.youtube.com/playlist?list=PLrCZzMib1e9oZMYOjhvDbh_Y3VW7mQnEW)
+### [5. СУБД в HighLoad. Tarantool | Технострим](https://www.youtube.com/watch?v=lTOIVEntrTQ&amp;list=PLrCZzMib1e9oZMYOjhvDbh_Y3VW7mQnEW&amp;index=5&amp;pp=iAQB)

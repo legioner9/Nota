@@ -1,0 +1,3 @@
+# [Просто о Laravel. CutCode](https://www.youtube.com/@CutCodeRu/playlists)
+## [Курсы от CutCode](https://www.youtube.com/playlist?list=PLTucyHptHtTknpi2Hg2PAZUctEAU2gP8n)
+### [Laravel с нуля. Урок 7. Админ.панель](https://www.youtube.com/watch?v=3Nh0RESxAr4&amp;list=PLTucyHptHtTknpi2Hg2PAZUctEAU2gP8n&amp;index=7&amp;pp=iAQB)

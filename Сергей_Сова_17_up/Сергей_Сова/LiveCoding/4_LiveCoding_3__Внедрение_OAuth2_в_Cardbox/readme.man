@@ -1,0 +1,3 @@
+# [Сергей Сова](https://www.youtube.com/@sova/playlists)
+## [LiveCoding](https://www.youtube.com/playlist?list=PLRXfqpDVC48YYQ5r-J3_OdmUFUF5erBQP)
+### [[LiveCoding] #3 — Внедрение OAuth2 в Cardbox](https://www.youtube.com/watch?v=ffRthDqp1sI&amp;list=PLRXfqpDVC48YYQ5r-J3_OdmUFUF5erBQP&amp;index=4&amp;pp=iAQB)

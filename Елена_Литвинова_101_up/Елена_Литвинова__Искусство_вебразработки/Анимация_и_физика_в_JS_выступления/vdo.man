@@ -1,0 +1,2 @@
+### [Анимируем объекты с использованием физики в JavaScript](https://www.youtube.com/watch?v=UH3tKb7B5xA&amp;list=PLJpSkcgOK72CNa9oA8r4222hEaZpiRdhg&amp;index=1&amp;pp=iAQB)
+### [MoscowJS 23 —&nbsp;Анимируем объекты с использованием физики в JavaScript —&nbsp;Елена Иванова](https://www.youtube.com/watch?v=TAto6gXuDBM&amp;list=PLJpSkcgOK72CNa9oA8r4222hEaZpiRdhg&amp;index=2&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [Web Developer Blog](https://www.youtube.com/@SuprunAlexey/playlists)
+## [Flexbox уроки](https://www.youtube.com/playlist?list=PLVfMKQXDAhGUfYoL11n_cnM7yE1aW1x4E)
+### [Все о flexbox в одном уроке. Основы flexbox.](https://www.youtube.com/watch?v=CDWMSF0nI2A&amp;list=PLVfMKQXDAhGUfYoL11n_cnM7yE1aW1x4E&amp;index=1&amp;pp=iAQB)

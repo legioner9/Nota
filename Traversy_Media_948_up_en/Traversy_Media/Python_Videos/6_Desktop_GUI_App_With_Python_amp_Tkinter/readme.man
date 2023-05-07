@@ -1,0 +1,3 @@
+# [Traversy Media](https://www.youtube.com/@TraversyMedia/playlists)
+## [Python Videos](https://www.youtube.com/playlist?list=PLillGF-RfqbbJYRaNqeUzAb7QY-IqBKRx)
+### [Desktop GUI App With Python &amp; Tkinter](https://www.youtube.com/watch?v=ELkaEpN29PU&amp;list=PLillGF-RfqbbJYRaNqeUzAb7QY-IqBKRx&amp;index=6&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [Unix way](https://www.youtube.com/@unixway4196/playlists)
+## [Контейнеризация](https://www.youtube.com/playlist?list=PLsMIccp52YRtEr4EallcVRlCaEt61oRzl)
+### [Введение в Kubernetes. Часть 5. Интеграция с NFS](https://www.youtube.com/watch?v=2W7j93Vy0YQ&amp;list=PLsMIccp52YRtEr4EallcVRlCaEt61oRzl&amp;index=7&amp;pp=iAQB)

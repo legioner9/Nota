@@ -1,0 +1,3 @@
+# [Веб-разработка - DevMagazine](https://www.youtube.com/@DevMagazineChannel/playlists)
+## [📔 Sass курс](https://www.youtube.com/playlist?list=PLmfIBo6rTVR7YkcR_26vgH37l3GS2pYBa)
+### [О типе map в Sass](https://www.youtube.com/watch?v=3x4jyIMuFTE&amp;list=PLmfIBo6rTVR7YkcR_26vgH37l3GS2pYBa&amp;index=16&amp;pp=iAQB)

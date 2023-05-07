@@ -1,0 +1,3 @@
+# [Василий Муравьев](https://www.youtube.com/@stackdev/playlists)
+## [Уроки Javascript для Начинающих 2022](https://www.youtube.com/playlist?list=PLtL3lrXPn2rXYAkRYdTKOQLRUW1Gdp4v2)
+### [#13. JavaScript. Как работает Async, Await, чем отличается от Promise (+ 3 асинхронных примера)](https://www.youtube.com/watch?v=SLQAVVziUzg&amp;list=PLtL3lrXPn2rXYAkRYdTKOQLRUW1Gdp4v2&amp;index=13&amp;pp=iAQB)

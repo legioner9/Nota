@@ -1,0 +1,3 @@
+# [Web Developer Blog](https://www.youtube.com/@SuprunAlexey/playlists)
+## [Основы за 10 минут](https://www.youtube.com/playlist?list=PLVfMKQXDAhGWPy1tHOw34uBbwViK8qrxh)
+### [Делаем крутящийся Спиннер на чистом CSS Анимации](https://www.youtube.com/watch?v=iuhs2Q8cA_4&amp;list=PLVfMKQXDAhGWPy1tHOw34uBbwViK8qrxh&amp;index=9&amp;pp=iAQB)

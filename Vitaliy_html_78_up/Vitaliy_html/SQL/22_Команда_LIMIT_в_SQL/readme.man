@@ -1,0 +1,3 @@
+# [Vitaliy html](https://www.youtube.com/@vitaliyhtml/playlists)
+## [SQL](https://www.youtube.com/playlist?list=PL97bu4ZDN_byFtn3cDo7dbURidAlg7ZSG)
+### [Команда LIMIT в SQL](https://www.youtube.com/watch?v=aZ5e6XccWa8&amp;list=PL97bu4ZDN_byFtn3cDo7dbURidAlg7ZSG&amp;index=22&amp;pp=iAQB)

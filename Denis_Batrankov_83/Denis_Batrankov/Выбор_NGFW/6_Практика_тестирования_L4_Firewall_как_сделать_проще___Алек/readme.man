@@ -1,0 +1,3 @@
+# [Denis Batrankov](https://www.youtube.com/@BDVSecurity/playlists)
+## [Выбор NGFW](https://www.youtube.com/playlist?list=PLRAbJA74qU4Dfqvd98foJernnF0dAy0yV)
+### [Практика тестирования L4 Firewall: как сделать проще —  Александр Земсков](https://www.youtube.com/watch?v=GibRXgWbaR8&amp;list=PLRAbJA74qU4Dfqvd98foJernnF0dAy0yV&amp;index=6&amp;pp=iAQB)

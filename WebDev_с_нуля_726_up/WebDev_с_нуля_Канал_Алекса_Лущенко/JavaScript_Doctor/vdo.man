@@ -1,0 +1,4 @@
+### [JavaScript Doctor. Хитрый includes](https://www.youtube.com/watch?v=j-yCTcf5T8Q&amp;list=PLM7wFzahDYnH7M8UIoXRCbIO1i2ngcgqf&amp;index=1&amp;pp=iAQB)
+### [JavaScript Doctor. 3 ошибки SWITCH](https://www.youtube.com/watch?v=QDCBr4NfB0o&amp;list=PLM7wFzahDYnH7M8UIoXRCbIO1i2ngcgqf&amp;index=2&amp;pp=iAQB)
+### [JavaScript Doctor. 3. Бесконечный массив](https://www.youtube.com/watch?v=uVXjXtJ4RrI&amp;list=PLM7wFzahDYnH7M8UIoXRCbIO1i2ngcgqf&amp;index=3&amp;pp=iAQB)
+### [9 способов клонировать массив JavaScript](https://www.youtube.com/watch?v=9fpxuvIQ_nA&amp;list=PLM7wFzahDYnH7M8UIoXRCbIO1i2ngcgqf&amp;index=4&amp;pp=iAQB)

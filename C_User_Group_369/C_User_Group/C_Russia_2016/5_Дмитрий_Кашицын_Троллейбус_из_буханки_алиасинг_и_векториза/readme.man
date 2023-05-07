@@ -1,0 +1,3 @@
+# [C++ User Group](https://www.youtube.com/@CUserGroupRussia/playlists)
+## [C++ Russia 2016](https://www.youtube.com/playlist?list=PLZN9ZGiWZoZp2olvWw-OysBHqIv2ufL3d)
+### [Дмитрий Кашицын, Троллейбус из буханки: алиасинг и векторизация в LLVM](https://www.youtube.com/watch?v=ACW-7dktyDk&amp;list=PLZN9ZGiWZoZp2olvWw-OysBHqIv2ufL3d&amp;index=5&amp;pp=iAQB)

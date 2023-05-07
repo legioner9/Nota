@@ -1,0 +1,3 @@
+# [openWeb - Веб программирование на языках PHP и JS](https://www.youtube.com/@openweb-php/playlists)
+## [Уроки PHP](https://www.youtube.com/playlist?list=PL-leL2miqjEavs9nx7pXolf0NBNwhs4H_)
+### [ВЛАДИМИР СУРДИН: Удивительный Марс. | Лекция. Состав планеты и ее спутники. Пейзажи Марса. Сурдин В.](https://www.youtube.com/watch?v=gDk4o9DgYfg&amp;list=PL-leL2miqjEavs9nx7pXolf0NBNwhs4H_&amp;index=48&amp;pp=iAQB)

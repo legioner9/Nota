@@ -1,0 +1,3 @@
+# [WebDev с нуля. Канал Алекса Лущенко](https://www.youtube.com/@itgid/playlists)
+## [Уроки верстки](https://www.youtube.com/playlist?list=PLM7wFzahDYnEKa28bWIJ9vpcqWcRtIqR7)
+### [Розетка VS Amazon. Как они верстают товары?](https://www.youtube.com/watch?v=JUlY5F9TN8A&amp;list=PLM7wFzahDYnEKa28bWIJ9vpcqWcRtIqR7&amp;index=27&amp;pp=iAQB)

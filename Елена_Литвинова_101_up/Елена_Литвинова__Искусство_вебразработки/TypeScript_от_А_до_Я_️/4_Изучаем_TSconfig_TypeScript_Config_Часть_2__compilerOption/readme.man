@@ -1,0 +1,3 @@
+# [Елена Литвинова — Искусство веб-разработки](https://www.youtube.com/@webelart/playlists)
+## [TypeScript от А до Я ❤️‍🔥](https://www.youtube.com/playlist?list=PLJpSkcgOK72Ci351HDS-RcLvH7YGGucbQ)
+### [Изучаем TSconfig, TypeScript Config. Часть 2. — compilerOptions — modules](https://www.youtube.com/watch?v=NOiiYgzlJxU&amp;list=PLJpSkcgOK72Ci351HDS-RcLvH7YGGucbQ&amp;index=4&amp;pp=iAQB)

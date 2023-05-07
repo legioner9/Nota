@@ -1,0 +1,3 @@
+# [webDev](https://www.youtube.com/@YauhenKavalchuk/playlists?view=1)
+## [TypeScript](https://www.youtube.com/playlist?list=PLNkWIWHIRwMEm1FgiLjHqSky27x5rXvQa)
+### [TypeScript #10 Общие типы (Generic)](https://www.youtube.com/watch?v=ysQb60CQB8U&amp;list=PLNkWIWHIRwMEm1FgiLjHqSky27x5rXvQa&amp;index=11)

@@ -1,0 +1,3 @@
+# [В. Бовсуновский Python Django](https://www.youtube.com/@bov/playlists?view=1)
+## [Django 2.0 +](https://www.youtube.com/playlist?list=PLuZJ9n46uMzX_fLNv-OLXjJorYUGqLlYP)
+### [Django 2. Лайки как в контакте. Но сначала сделаем профиль пользователя.](https://www.youtube.com/watch?v=HqUIyu8hU4o&amp;list=PLuZJ9n46uMzX_fLNv-OLXjJorYUGqLlYP&amp;index=76&amp;pp=iAQB)

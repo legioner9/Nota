@@ -1,0 +1,3 @@
+# [Coding Tech](https://www.youtube.com/@CodingTech/playlists)
+## [Rust](https://www.youtube.com/playlist?list=PLFjq8z-aGyQ6t_LGp7wqHsHTYO-pDDx84)
+### [Rust in the Browser for JavaScripters: New Frontiers, New Possibilities](https://www.youtube.com/watch?v=ohuTy8MmbLc&amp;list=PLFjq8z-aGyQ6t_LGp7wqHsHTYO-pDDx84&amp;index=9&amp;pp=iAQB)

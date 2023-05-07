@@ -1,0 +1,3 @@
+# [freeCodeCamp.org](https://www.youtube.com/@freecodecamp/playlists)
+## [Data Analysis with Python Course](https://www.youtube.com/playlist?list=PLWKjhJtqVAblvI1i46ScbKV2jH1gdL7VQ)
+### [Data Analysis with Python: Part 4 of 6 - Analyzing tabular data with Pandas](https://www.youtube.com/watch?v=b2mLDkMSyn4&amp;list=PLWKjhJtqVAblvI1i46ScbKV2jH1gdL7VQ&amp;index=4&amp;pp=iAQB)

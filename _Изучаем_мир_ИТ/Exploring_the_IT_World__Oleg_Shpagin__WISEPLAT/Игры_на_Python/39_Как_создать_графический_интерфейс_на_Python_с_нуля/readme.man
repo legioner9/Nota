@@ -1,3 +1,0 @@
-# [Exploring the IT World / Oleg Shpagin / WISEPLAT](https://www.youtube.com/@wiseplat/playlists)
-## [Игры на Python](https://www.youtube.com/playlist?list=PLxiU3nwEQ4PHpljQv27PJvC9HNc2UhHvl)
-### [Как создать графический интерфейс на Python с нуля](https://www.youtube.com/watch?v=DTvhDutqQIY&amp;list=PLxiU3nwEQ4PHpljQv27PJvC9HNc2UhHvl&amp;index=39)

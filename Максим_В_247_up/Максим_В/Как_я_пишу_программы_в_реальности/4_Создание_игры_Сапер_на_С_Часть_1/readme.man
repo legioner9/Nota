@@ -1,0 +1,3 @@
+# [Максим В](https://www.youtube.com/@cpp/playlists)
+## [Как я пишу программы в реальности](https://www.youtube.com/playlist?list=PLlxYwLnXeoE38x9ijIhTuw2XsRyLHsIKo)
+### [Создание игры Сапер на С++. Часть 1.](https://www.youtube.com/watch?v=hR7q5hRER2U&amp;list=PLlxYwLnXeoE38x9ijIhTuw2XsRyLHsIKo&amp;index=4&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [web3.online](https://www.youtube.com/@web3online/playlists)
+## [Rust Lang Уроки](https://www.youtube.com/playlist?list=PLnalMG3z2RzF39Hg-PG-x_rH8Yr2ztYbV)
+### [Enum. Язык Rust 💪 Перечисление](https://www.youtube.com/watch?v=qCBsUinLk-c&amp;list=PLnalMG3z2RzF39Hg-PG-x_rH8Yr2ztYbV&amp;index=14&amp;pp=iAQB)

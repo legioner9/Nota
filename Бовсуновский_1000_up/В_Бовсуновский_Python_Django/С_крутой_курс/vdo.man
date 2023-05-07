@@ -1,0 +1,3 @@
+### [1. Так зачем же нужно программисту понимать С++? Для кого этот курс? Какова цель?](https://www.youtube.com/watch?v=_K-d5AazvF0&amp;list=PLuZJ9n46uMzVXl6GARnuDRl-mGypczjcx&amp;index=1&amp;pp=iAQB)
+### [2. Наши первые шаги в С++ будут иными. Принцип -  в основе, документация и исходный код.](https://www.youtube.com/watch?v=Cmt4ldP8aXI&amp;list=PLuZJ9n46uMzVXl6GARnuDRl-mGypczjcx&amp;index=2&amp;pp=iAQB)
+### [3. Гарантированно успешный вход в С++ с гарантией результата профессионального кода. Указатели С++.](https://www.youtube.com/watch?v=Jvshy-HZY18&amp;list=PLuZJ9n46uMzVXl6GARnuDRl-mGypczjcx&amp;index=3&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+### [Просто Angular. 01. Подключаем AngularJS](https://www.youtube.com/watch?v=FbS8ZJcB_ow&amp;list=PLM7wFzahDYnER4rGsj9ER2H_yPYAnBbzh&amp;index=1&amp;pp=iAQB)
+### [Просто Angular. 02. Первая программа](https://www.youtube.com/watch?v=yal8zQb4lbo&amp;list=PLM7wFzahDYnER4rGsj9ER2H_yPYAnBbzh&amp;index=2&amp;pp=iAQB)
+### [5 самых тупых вопросов на собеседовании](https://www.youtube.com/watch?v=2Y1NrP_IOg8&amp;list=PLM7wFzahDYnER4rGsj9ER2H_yPYAnBbzh&amp;index=3&amp;pp=iAQB)

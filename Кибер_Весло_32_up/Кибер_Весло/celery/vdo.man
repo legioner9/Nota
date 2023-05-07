@@ -1,0 +1,5 @@
+### [Celery + Django + Docker = Cat Downloader - Demo-проект, демонстрирующий принципы работы Celery](https://www.youtube.com/watch?v=EUZJcy_dfCs&amp;list=PLIMYb25g876g6muopNjnGtDrOnDVqPCz6&amp;index=1&amp;pp=iAQB)
+### [Celery Task State tracker - как в режиме онлайн получать статус выполнения задач?](https://www.youtube.com/watch?v=VcK8q9H9owo&amp;list=PLIMYb25g876g6muopNjnGtDrOnDVqPCz6&amp;index=2&amp;pp=iAQB)
+### [Celerybeat + Django + Docker = Cat Downloader с задачами по расписанию.](https://www.youtube.com/watch?v=cojaefzhChI&amp;list=PLIMYb25g876g6muopNjnGtDrOnDVqPCz6&amp;index=3&amp;pp=iAQB)
+### [ALBATROSS - 18 (Official Music Video)](https://www.youtube.com/watch?v=1HiILVzcbE8&amp;list=PLIMYb25g876g6muopNjnGtDrOnDVqPCz6&amp;index=4&amp;pp=iAQB)
+### [Flower: Celery monitoring - мониторинг очереди задач Celery с помощью Flower + Prometheus +@Grafana](https://www.youtube.com/watch?v=akHTV-ZfxtM&amp;list=PLIMYb25g876g6muopNjnGtDrOnDVqPCz6&amp;index=5&amp;pp=iAQB)

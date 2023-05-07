@@ -1,0 +1,3 @@
+# [Traversy Media](https://www.youtube.com/@TraversyMedia/playlists)
+## [JavaScript ES6 / ES2015 Tutorials](https://www.youtube.com/playlist?list=PLillGF-RfqbZ7s3t6ZInY3NjEOOX7hsBv)
+### [JavaScript ES6 / ES2015 - [11] Generators](https://www.youtube.com/watch?v=dcP039DYzmE&amp;list=PLillGF-RfqbZ7s3t6ZInY3NjEOOX7hsBv&amp;index=11&amp;pp=iAQB)

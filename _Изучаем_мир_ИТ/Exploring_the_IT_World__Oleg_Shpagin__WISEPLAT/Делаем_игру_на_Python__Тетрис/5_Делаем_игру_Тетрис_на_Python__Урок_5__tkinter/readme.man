@@ -1,3 +1,0 @@
-# [Exploring the IT World / Oleg Shpagin / WISEPLAT](https://www.youtube.com/@wiseplat/playlists)
-## [Делаем игру на Python - Тетрис](https://www.youtube.com/playlist?list=PLxiU3nwEQ4PGI5EFN6zx4UoqC07aArtuB)
-### [Делаем игру Тетрис на Python / Урок #5 / tkinter](https://www.youtube.com/watch?v=lkt_RVlATVg&amp;list=PLxiU3nwEQ4PGI5EFN6zx4UoqC07aArtuB&amp;index=5)

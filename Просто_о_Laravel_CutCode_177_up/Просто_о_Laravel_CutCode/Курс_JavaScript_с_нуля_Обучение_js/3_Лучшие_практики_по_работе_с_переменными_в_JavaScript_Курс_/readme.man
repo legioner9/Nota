@@ -1,0 +1,3 @@
+# [Просто о Laravel. CutCode](https://www.youtube.com/@CutCodeRu/playlists)
+## [Курс JavaScript с нуля. Обучение js](https://www.youtube.com/playlist?list=PLTucyHptHtTkgTkNhlATdvAbe8pBPzrsd)
+### [Лучшие практики по работе с переменными в JavaScript. Курс обучение js с нуля](https://www.youtube.com/watch?v=w38V1lhjpOk&amp;list=PLTucyHptHtTkgTkNhlATdvAbe8pBPzrsd&amp;index=3&amp;pp=iAQB)

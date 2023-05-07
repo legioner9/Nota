@@ -1,0 +1,3 @@
+# [Елена Литвинова — Искусство веб-разработки](https://www.youtube.com/@webelart/playlists)
+## [Веб-разработка](https://www.youtube.com/playlist?list=PLJpSkcgOK72A4dTtU52OOH7MyskB8o9sz)
+### [Lesson 9. What semantics in HTML is.](https://www.youtube.com/watch?v=CYjPlDiERZM&amp;list=PLJpSkcgOK72A4dTtU52OOH7MyskB8o9sz&amp;index=9&amp;pp=iAQB)

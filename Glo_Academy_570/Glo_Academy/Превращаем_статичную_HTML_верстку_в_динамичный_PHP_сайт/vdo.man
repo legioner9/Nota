@@ -1,0 +1,6 @@
+### [Превращаем HTML верстку в динамичный PHP сайт | Урок 1](https://www.youtube.com/watch?v=VOq_D8wWlRk&amp;list=PL3LQJkGQtzc6mnBlbr2J59VQ-aKIkarYw&amp;index=1&amp;pp=iAQB)
+### [Создаём и подключаем базу данных MySQL + PHP | Урок 2](https://www.youtube.com/watch?v=x0tPa_GcMs4&amp;list=PL3LQJkGQtzc6mnBlbr2J59VQ-aKIkarYw&amp;index=2&amp;pp=iAQB)
+### [Создаем структуру таблиц базы данных MySQL | Урок 3](https://www.youtube.com/watch?v=FoRp9KCO-ks&amp;list=PL3LQJkGQtzc6mnBlbr2J59VQ-aKIkarYw&amp;index=3&amp;pp=iAQB)
+### [Выводим анонсы статей на главную PHP + MySQL | Урок 4](https://www.youtube.com/watch?v=8euDBLC-UCA&amp;list=PL3LQJkGQtzc6mnBlbr2J59VQ-aKIkarYw&amp;index=4&amp;pp=iAQB)
+### [Создаем шаблон для страницы статьи php + MySQL | Урок 5](https://www.youtube.com/watch?v=4renUk7OyoQ&amp;list=PL3LQJkGQtzc6mnBlbr2J59VQ-aKIkarYw&amp;index=5&amp;pp=iAQB)
+### [Создаем счетчик просмотров страниц сайта php + MySQL  | Урок 6](https://www.youtube.com/watch?v=Fh1NFYfaW2w&amp;list=PL3LQJkGQtzc6mnBlbr2J59VQ-aKIkarYw&amp;index=6&amp;pp=iAQB)

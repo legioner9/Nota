@@ -1,0 +1,3 @@
+# [В. Бовсуновский Python Django](https://www.youtube.com/@bov/playlists?view=1)
+## [Django 2.0 +](https://www.youtube.com/playlist?list=PLuZJ9n46uMzX_fLNv-OLXjJorYUGqLlYP)
+### [Методика обучения должа позволять стать самостоятельным программистом.](https://www.youtube.com/watch?v=8s3GyPNuqEo&amp;list=PLuZJ9n46uMzX_fLNv-OLXjJorYUGqLlYP&amp;index=34&amp;pp=iAQB)

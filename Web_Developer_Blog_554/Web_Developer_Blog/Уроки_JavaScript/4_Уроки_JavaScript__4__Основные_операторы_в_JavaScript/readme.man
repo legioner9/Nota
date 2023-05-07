@@ -1,0 +1,3 @@
+# [Web Developer Blog](https://www.youtube.com/@SuprunAlexey/playlists)
+## [Уроки JavaScript](https://www.youtube.com/playlist?list=PLVfMKQXDAhGUaEtJ_fOUz0F7TJtidE7Qw)
+### [Уроки JavaScript | #4 - Основные операторы в JavaScript](https://www.youtube.com/watch?v=VGb7PY8t3Qw&amp;list=PLVfMKQXDAhGUaEtJ_fOUz0F7TJtidE7Qw&amp;index=4&amp;pp=iAQB)

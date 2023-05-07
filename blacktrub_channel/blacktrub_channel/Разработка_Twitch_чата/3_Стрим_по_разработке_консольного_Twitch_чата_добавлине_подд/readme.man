@@ -1,3 +1,0 @@
-# [blacktrub channel](https://www.youtube.com/@blacktrub/playlists)
-## [Разработка Twitch чата](https://www.youtube.com/playlist?list=PLqJ-vFLoJOaH25rpUfnHQ0Q9lCbnDyn7U)
-### [Стрим по разработке консольного Twitch чата, добавлине поддержки BetterTTV](https://www.youtube.com/watch?v=xvAXjXa-eIk&amp;list=PLqJ-vFLoJOaH25rpUfnHQ0Q9lCbnDyn7U&amp;index=3&amp;pp=iAQB)

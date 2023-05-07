@@ -1,0 +1,3 @@
+# [WebDev с нуля. Канал Алекса Лущенко](https://www.youtube.com/@itgid/playlists)
+## [Методы массивов JavaScript](https://www.youtube.com/playlist?list=PLM7wFzahDYnGtO5c0u71KBj6uwIwPvWKa)
+### [JavaScript Filter, практика - помогаем коллекторам](https://www.youtube.com/watch?v=sfIMbe4RLug&amp;list=PLM7wFzahDYnGtO5c0u71KBj6uwIwPvWKa&amp;index=6&amp;pp=iAQB)

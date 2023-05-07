@@ -1,0 +1,3 @@
+# [C++ User Group](https://www.youtube.com/@CUserGroupRussia/playlists)
+## [C++ Russia 2020 Piter](https://www.youtube.com/playlist?list=PLZN9ZGiWZoZpzXS_y_1tZJW0OaL-HrU1F)
+### [Константин Серебряный — Ищем баги в продакшене всем миром: GWP-ASan и что дальше](https://www.youtube.com/watch?v=-RlxhU-W8dY&amp;list=PLZN9ZGiWZoZpzXS_y_1tZJW0OaL-HrU1F&amp;index=16&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [Denis Batrankov](https://www.youtube.com/@BDVSecurity/playlists)
+## [NGFW](https://www.youtube.com/playlist?list=PLRAbJA74qU4BwrOpBkq3GWaq9lnwAWp5i)
+### [Приложения изменились. Изменился ли ваш FW: APP-ID, IPS, SSL Decrypt](https://www.youtube.com/watch?v=rAWAxSyMXHc&amp;list=PLRAbJA74qU4BwrOpBkq3GWaq9lnwAWp5i&amp;index=31&amp;pp=iAQB)

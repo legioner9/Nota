@@ -1,0 +1,3 @@
+# [Unix way](https://www.youtube.com/@unixway4196/playlists)
+## [Файловая система ZFS](https://www.youtube.com/playlist?list=PLsMIccp52YRvsLuZ6ed-Ytjv1HfpEC30k)
+### [Файловая система ZFS: Часть 1. Отказоустойчивость](https://www.youtube.com/watch?v=ZR6Hvk0H5SA&amp;list=PLsMIccp52YRvsLuZ6ed-Ytjv1HfpEC30k&amp;index=1&amp;pp=iAQB)

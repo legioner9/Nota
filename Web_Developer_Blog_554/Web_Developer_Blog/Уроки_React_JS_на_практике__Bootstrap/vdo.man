@@ -1,0 +1,6 @@
+### [Уроки React JS + Bootstrap на практике - Адаптивное меню, роутинг](https://www.youtube.com/watch?v=VyeZSerAoh4&amp;list=PLVfMKQXDAhGURizWJ7EGvJfvYO0rGap_z&amp;index=1&amp;pp=iAQB)
+### [Уроки React JS + Bootstrap на практике - Слайдер, styled-components](https://www.youtube.com/watch?v=QC_8-CgIOxE&amp;list=PLVfMKQXDAhGURizWJ7EGvJfvYO0rGap_z&amp;index=2&amp;pp=iAQB)
+### [Уроки React JS + Bootstrap на практике - Форма регистрации, модальное окно](https://www.youtube.com/watch?v=Y6dbXXOMJ8I&amp;list=PLVfMKQXDAhGURizWJ7EGvJfvYO0rGap_z&amp;index=3&amp;pp=iAQB)
+### [Уроки React JS + Bootstrap на практике - Паралакс эффект, Grid](https://www.youtube.com/watch?v=3K347USUIm8&amp;list=PLVfMKQXDAhGURizWJ7EGvJfvYO0rGap_z&amp;index=4&amp;pp=iAQB)
+### [Уроки React JS + Bootstrap на практике - Футер и остальные страницы](https://www.youtube.com/watch?v=iQMwKKSNtU8&amp;list=PLVfMKQXDAhGURizWJ7EGvJfvYO0rGap_z&amp;index=5&amp;pp=iAQB)
+### [Урок React Js Bootsrap практика - пишем сайт с нуля для начинающих](https://www.youtube.com/watch?v=d3nTC_BrkXw&amp;list=PLVfMKQXDAhGURizWJ7EGvJfvYO0rGap_z&amp;index=6&amp;pp=iAQB)

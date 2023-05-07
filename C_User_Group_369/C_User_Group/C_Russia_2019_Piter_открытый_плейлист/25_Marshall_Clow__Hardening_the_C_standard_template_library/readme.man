@@ -1,0 +1,3 @@
+# [C++ User Group](https://www.youtube.com/@CUserGroupRussia/playlists)
+## [C++ Russia 2019 Piter: открытый плейлист](https://www.youtube.com/playlist?list=PLZN9ZGiWZoZp8_XKK1WMcAt2Dr9-QkfU6)
+### [Marshall Clow — Hardening the C++ standard template library](https://www.youtube.com/watch?v=1iHs_K2HpGo&amp;list=PLZN9ZGiWZoZp8_XKK1WMcAt2Dr9-QkfU6&amp;index=25&amp;pp=iAQB)

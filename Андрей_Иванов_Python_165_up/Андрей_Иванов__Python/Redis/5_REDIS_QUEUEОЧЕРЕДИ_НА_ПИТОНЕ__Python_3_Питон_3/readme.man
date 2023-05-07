@@ -1,0 +1,3 @@
+# [Андрей Иванов | Python](https://www.youtube.com/@PythononPapyrusRU/playlists)
+## [Redis](https://www.youtube.com/playlist?list=PLF4MWzDJPFSbY5TxSdq3DMPSL7ke51u93)
+### [REDIS QUEUE(ОЧЕРЕДИ) НА ПИТОНЕ | Python 3, Питон 3](https://www.youtube.com/watch?v=Sw59349X4QA&amp;list=PLF4MWzDJPFSbY5TxSdq3DMPSL7ke51u93&amp;index=5&amp;pp=iAQB)

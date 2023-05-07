@@ -1,0 +1,3 @@
+# [ВебКадеми - веб-разработка, программирование и IT](https://www.youtube.com/@WebCademy/playlists?view=1&sort=dd&shelf_id=0)
+## [Мастер-классы по веб-разработке](https://www.youtube.com/playlist?list=PL1NBhQGGj46b-Qivs6jSmtXqpieAJLjev)
+### [VS Code – установка и настройка. ТОП 5 плагинов. Редактор кода Visual Studio Code](https://www.youtube.com/watch?v=942oq0_v95E&amp;list=PL1NBhQGGj46b-Qivs6jSmtXqpieAJLjev&amp;index=5&amp;pp=iAQB)

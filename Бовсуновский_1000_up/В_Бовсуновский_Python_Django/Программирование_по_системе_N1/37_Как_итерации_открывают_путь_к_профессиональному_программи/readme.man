@@ -1,0 +1,3 @@
+# [В. Бовсуновский Python Django](https://www.youtube.com/@bov/playlists?view=1)
+## [Программирование по системе N1](https://www.youtube.com/playlist?list=PLuZJ9n46uMzW1oBDysdzhnRVaAF4xdjJd)
+### [Как итерации открывают путь к профессиональному программированию на Python. Новичкам не смотреть.](https://www.youtube.com/watch?v=AFmzNp2ejS4&amp;list=PLuZJ9n46uMzW1oBDysdzhnRVaAF4xdjJd&amp;index=37&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [Кибер Весло](https://www.youtube.com/@cyber-paddle/playlists)
+## [app deploy - размещение проекта](https://www.youtube.com/playlist?list=PLIMYb25g876iCiP_WZ3OvM8Tl2kBb8DsG)
+### [Установка Python/Django пpиложения SSL-cert на любой сервер/хостинг с использованием docker-compose.](https://www.youtube.com/watch?v=9VYB58u664A&amp;list=PLIMYb25g876iCiP_WZ3OvM8Tl2kBb8DsG&amp;index=2&amp;pp=iAQB)

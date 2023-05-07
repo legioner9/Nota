@@ -1,0 +1,3 @@
+# [Vitaliy html](https://www.youtube.com/@vitaliyhtml/playlists)
+## [SQL](https://www.youtube.com/playlist?list=PL97bu4ZDN_byFtn3cDo7dbURidAlg7ZSG)
+### [Группы команд SQL (DDL, DML, DCL, TCL)](https://www.youtube.com/watch?v=m7nJsbo1P8w&amp;list=PL97bu4ZDN_byFtn3cDo7dbURidAlg7ZSG&amp;index=17&amp;pp=iAQB)

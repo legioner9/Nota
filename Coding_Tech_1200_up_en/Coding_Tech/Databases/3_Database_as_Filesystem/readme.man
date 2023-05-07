@@ -1,0 +1,3 @@
+# [Coding Tech](https://www.youtube.com/@CodingTech/playlists)
+## [Databases](https://www.youtube.com/playlist?list=PLFjq8z-aGyQ4Sd7-CI0ruUHaE4xVCYvXZ)
+### [Database as Filesystem](https://www.youtube.com/watch?v=jMzpGzGXoLw&amp;list=PLFjq8z-aGyQ4Sd7-CI0ruUHaE4xVCYvXZ&amp;index=3&amp;pp=iAQB)

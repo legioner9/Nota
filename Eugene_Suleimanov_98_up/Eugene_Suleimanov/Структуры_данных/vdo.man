@@ -1,0 +1,3 @@
+### [Структуры данных - Stack](https://www.youtube.com/watch?v=uANOTa_00bM&amp;list=PLlsMRoVt5sTOKU87z9NhHHRH9nvE5chfH&amp;index=1&amp;pp=iAQB)
+### [Структуры данных - Queue](https://www.youtube.com/watch?v=mmNPKDtKnMg&amp;list=PLlsMRoVt5sTOKU87z9NhHHRH9nvE5chfH&amp;index=2&amp;pp=iAQB)
+### [Структуры данных - Linked List](https://www.youtube.com/watch?v=BDoiuI5Yl9A&amp;list=PLlsMRoVt5sTOKU87z9NhHHRH9nvE5chfH&amp;index=3&amp;pp=iAQB)

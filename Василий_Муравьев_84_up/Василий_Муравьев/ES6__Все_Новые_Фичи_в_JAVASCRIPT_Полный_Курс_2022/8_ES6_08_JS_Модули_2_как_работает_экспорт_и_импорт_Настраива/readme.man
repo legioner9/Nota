@@ -1,0 +1,3 @@
+# [Василий Муравьев](https://www.youtube.com/@stackdev/playlists)
+## [ES6 - Все Новые Фичи в JAVASCRIPT (Полный Курс 2022)](https://www.youtube.com/playlist?list=PLtL3lrXPn2rVW98_5Rx0SzPPLXPqGXIWp)
+### [ES6 #08. JS Модули 2: как работает экспорт и импорт (Настраиваем Webpack 4 и Babel)](https://www.youtube.com/watch?v=yG-NTy2WyQE&amp;list=PLtL3lrXPn2rVW98_5Rx0SzPPLXPqGXIWp&amp;index=8&amp;pp=iAQB)

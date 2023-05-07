@@ -1,0 +1,3 @@
+# [Web Developer Blog](https://www.youtube.com/@SuprunAlexey/playlists)
+## [Уроки Angular 7](https://www.youtube.com/playlist?list=PLVfMKQXDAhGW12JY3SfeDnEx7S5_tn11j)
+### [Уроки Angular 7 - Click. Отслеживание событий](https://www.youtube.com/watch?v=nC_flGQ9waE&amp;list=PLVfMKQXDAhGW12JY3SfeDnEx7S5_tn11j&amp;index=6&amp;pp=iAQB)

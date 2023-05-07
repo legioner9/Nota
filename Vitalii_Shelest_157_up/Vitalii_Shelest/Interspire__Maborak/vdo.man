@@ -1,0 +1,6 @@
+### [Interspire + Maborak Technologies](https://www.youtube.com/watch?v=0yTFWV5y4Ig&amp;list=PLZ6UzVez62RqFmiLTOx_ET00VO0b0mOQW&amp;index=1&amp;pp=iAQB)
+### [Работа со списками, пользовательские поля, сегментация](https://www.youtube.com/watch?v=ave1Pc8sXDc&amp;list=PLZ6UzVez62RqFmiLTOx_ET00VO0b0mOQW&amp;index=2&amp;pp=iAQB)
+### [Черные списки в Interspire](https://www.youtube.com/watch?v=qcGoNWp5xTs&amp;list=PLZ6UzVez62RqFmiLTOx_ET00VO0b0mOQW&amp;index=3&amp;pp=iAQB)
+### [Создание сообщений, рандомизация через SPINS](https://www.youtube.com/watch?v=nferdfq-LkY&amp;list=PLZ6UzVez62RqFmiLTOx_ET00VO0b0mOQW&amp;index=4&amp;pp=iAQB)
+### [Блоки динамического контента в Interspire](https://www.youtube.com/watch?v=ElPo9jRJgTM&amp;list=PLZ6UzVez62RqFmiLTOx_ET00VO0b0mOQW&amp;index=5&amp;pp=iAQB)
+### [Отправка, работа с MTA Manager](https://www.youtube.com/watch?v=hYYyQqWybjo&amp;list=PLZ6UzVez62RqFmiLTOx_ET00VO0b0mOQW&amp;index=6&amp;pp=iAQB)

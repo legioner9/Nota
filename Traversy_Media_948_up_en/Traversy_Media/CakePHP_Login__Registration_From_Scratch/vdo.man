@@ -1,0 +1,2 @@
+### [CakePHP 3.1 Login &amp; Registration From Scratch - Part 1](https://www.youtube.com/watch?v=747K6W40ur0&amp;list=PLillGF-RfqbbObywQ2KOugFDL9F_k4yLr&amp;index=1&amp;pp=iAQB)
+### [CakePHP 3.1 Login &amp; Registration From Scratch - Part 2](https://www.youtube.com/watch?v=Yi3eqAjK_po&amp;list=PLillGF-RfqbbObywQ2KOugFDL9F_k4yLr&amp;index=2&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [WebDev с нуля. Канал Алекса Лущенко](https://www.youtube.com/@itgid/playlists)
+## [JavaScript](https://www.youtube.com/playlist?list=PLM7wFzahDYnFgidfuPh_-XAv06YDwQVBs)
+### [Можно ли сделать сайт Пари Ма*ч на основе знаний курсов?](https://www.youtube.com/watch?v=UrKqWq2NKoQ&amp;list=PLM7wFzahDYnFgidfuPh_-XAv06YDwQVBs&amp;index=68&amp;pp=iAQB)

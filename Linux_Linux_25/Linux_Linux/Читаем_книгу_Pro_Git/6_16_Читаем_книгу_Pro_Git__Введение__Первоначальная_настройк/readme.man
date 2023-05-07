@@ -1,0 +1,3 @@
+# [Linux Linux](https://www.youtube.com/@linuxlinux7961/playlists)
+## [Читаем книгу Pro Git](https://www.youtube.com/playlist?list=PLx50iqBtw_6r-lhs1xUwodk9XAAtmIYt9)
+### [1.6 Читаем книгу Pro Git - Введение - Первоначальная настройка Git](https://www.youtube.com/watch?v=eq1w_L4nr4I&amp;list=PLx50iqBtw_6r-lhs1xUwodk9XAAtmIYt9&amp;index=6&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [Coding Tech](https://www.youtube.com/@CodingTech/playlists)
+## [Performance and Testing](https://www.youtube.com/playlist?list=PLFjq8z-aGyQ41wnNZ7Lzogyvmx7lERRDi)
+### [Love Your Cache: Optimize for the Second Load](https://www.youtube.com/watch?v=wwH48lshcoY&amp;list=PLFjq8z-aGyQ41wnNZ7Lzogyvmx7lERRDi&amp;index=18&amp;pp=iAQB)

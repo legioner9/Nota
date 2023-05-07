@@ -1,0 +1,3 @@
+# [WebDev с нуля. Канал Алекса Лущенко](https://www.youtube.com/@itgid/playlists)
+## [Вебинары](https://www.youtube.com/playlist?list=PLM7wFzahDYnGiUxSZsNCJ4MzYTi7BmnWh)
+### [Стартую курс React. Lite Level](https://www.youtube.com/watch?v=_U6gM3V0Fz8&amp;list=PLM7wFzahDYnGiUxSZsNCJ4MzYTi7BmnWh&amp;index=7&amp;pp=iAQB)

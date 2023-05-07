@@ -1,0 +1,3 @@
+# [C++ User Group](https://www.youtube.com/@CUserGroupRussia/playlists)
+## [C++ Russia 2021: Community Day & активности из главной студии](https://www.youtube.com/playlist?list=PLZN9ZGiWZoZq6RXvLRlA8kQpU45RxSVtX)
+### [Greg Law, Mark Williamson — Getting the most out of GDB](https://www.youtube.com/watch?v=HH_kDjN-7yI&amp;list=PLZN9ZGiWZoZq6RXvLRlA8kQpU45RxSVtX&amp;index=2&amp;pp=iAQB)

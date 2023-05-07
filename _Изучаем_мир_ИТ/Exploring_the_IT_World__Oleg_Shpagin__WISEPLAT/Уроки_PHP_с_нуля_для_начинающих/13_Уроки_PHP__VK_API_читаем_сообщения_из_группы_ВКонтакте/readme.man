@@ -1,3 +1,0 @@
-# [Exploring the IT World / Oleg Shpagin / WISEPLAT](https://www.youtube.com/@wiseplat/playlists)
-## [Уроки PHP с нуля для начинающих](https://www.youtube.com/playlist?list=PLxiU3nwEQ4PFvGkF-KPwPOCeKbU5zHumj)
-### [Уроки PHP / VK API читаем сообщения из группы ВКонтакте](https://www.youtube.com/watch?v=xzodDsu210U&amp;list=PLxiU3nwEQ4PFvGkF-KPwPOCeKbU5zHumj&amp;index=13)

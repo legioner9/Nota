@@ -1,0 +1,5 @@
+### [Bootstrap верстка админ панели сайта - структура](https://www.youtube.com/watch?v=euKScIZqQC8&amp;list=PLVfMKQXDAhGV-Uwwdc37HbLfjC4gfYEaw&amp;index=1&amp;pp=iAQB)
+### [Bootstrap верстка админ панели сайта - графики](https://www.youtube.com/watch?v=mqSi68zEVgI&amp;list=PLVfMKQXDAhGV-Uwwdc37HbLfjC4gfYEaw&amp;index=2&amp;pp=iAQB)
+### [Bootstrap верстка админ панели сайта - адаптивные графики](https://www.youtube.com/watch?v=onuYV5nCO5s&amp;list=PLVfMKQXDAhGV-Uwwdc37HbLfjC4gfYEaw&amp;index=3&amp;pp=iAQB)
+### [Bootstrap верстка админ панели сайта - javascript код](https://www.youtube.com/watch?v=P4DI13gtPRM&amp;list=PLVfMKQXDAhGV-Uwwdc37HbLfjC4gfYEaw&amp;index=4&amp;pp=iAQB)
+### [Bootstrap верстка админ панели сайта - Анимации для сайта. Закончили проект](https://www.youtube.com/watch?v=O_xfWJj2ljo&amp;list=PLVfMKQXDAhGV-Uwwdc37HbLfjC4gfYEaw&amp;index=5&amp;pp=iAQB)

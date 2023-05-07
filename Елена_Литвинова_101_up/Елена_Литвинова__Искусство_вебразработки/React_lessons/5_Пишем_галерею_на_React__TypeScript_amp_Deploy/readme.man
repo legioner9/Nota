@@ -1,0 +1,3 @@
+# [Елена Литвинова — Искусство веб-разработки](https://www.youtube.com/@webelart/playlists)
+## [React lessons](https://www.youtube.com/playlist?list=PLJpSkcgOK72AlXcS2iOU5gGy98fzvJ2FC)
+### [Пишем галерею на React + TypeScript &amp; Deploy](https://www.youtube.com/watch?v=kXiLmTvGIdU&amp;list=PLJpSkcgOK72AlXcS2iOU5gGy98fzvJ2FC&amp;index=5&amp;pp=iAQB)

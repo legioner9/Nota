@@ -1,0 +1,3 @@
+# [Traversy Media](https://www.youtube.com/@TraversyMedia/playlists)
+## [Laravel From Scratch](https://www.youtube.com/playlist?list=PLillGF-RfqbYhQsN5WMXy6VsDMKGadrJ-)
+### [Deploy Laravel To Shared Hosting The Easy Way](https://www.youtube.com/watch?v=6g8G3YQtQt4&amp;list=PLillGF-RfqbYhQsN5WMXy6VsDMKGadrJ-&amp;index=13&amp;pp=iAQB)

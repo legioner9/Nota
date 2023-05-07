@@ -1,0 +1,3 @@
+# [Denis Batrankov](https://www.youtube.com/@BDVSecurity/playlists)
+## [Palo Alto Networks Russia](https://www.youtube.com/playlist?list=PLRAbJA74qU4D0_eAp3ibdqDCiFPfNYChF)
+### [Как в 20 раз быстрее анализировать события в сети](https://www.youtube.com/watch?v=WGyQrlJTL5Q&amp;list=PLRAbJA74qU4D0_eAp3ibdqDCiFPfNYChF&amp;index=59&amp;pp=iAQB)

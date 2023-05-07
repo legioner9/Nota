@@ -1,0 +1,2 @@
+### [Тест роуминга беспроводных клиентов в сети TP-LINK Omada](https://www.youtube.com/watch?v=0nhkgDGxJ2Y&amp;list=PLsnyAzJu8C0DGB9Enc7ZXUz-bP5H53Guo&amp;index=1&amp;pp=iAQB)
+### [Тестирование бесшовного роуминга беспроводных клиентов на точках доступа TP-Link Omada EAP230-Wall](https://www.youtube.com/watch?v=dU5lDW4al5c&amp;list=PLsnyAzJu8C0DGB9Enc7ZXUz-bP5H53Guo&amp;index=2&amp;pp=iAQB)

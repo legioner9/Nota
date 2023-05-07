@@ -1,0 +1,3 @@
+# [freeCodeCamp.org](https://www.youtube.com/@freecodecamp/playlists)
+## [Talks](https://www.youtube.com/playlist?list=PLWKjhJtqVAbl9yptoxdSJDDoTVdcysyPo)
+### [How to Speak the Language of Application Architecture](https://www.youtube.com/watch?v=kGYGEcdPE2U&amp;list=PLWKjhJtqVAbl9yptoxdSJDDoTVdcysyPo&amp;index=17&amp;pp=iAQB)

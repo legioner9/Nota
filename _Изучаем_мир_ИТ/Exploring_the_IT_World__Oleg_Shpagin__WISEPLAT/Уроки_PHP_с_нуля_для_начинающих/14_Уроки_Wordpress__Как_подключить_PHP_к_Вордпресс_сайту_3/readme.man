@@ -1,3 +1,0 @@
-# [Exploring the IT World / Oleg Shpagin / WISEPLAT](https://www.youtube.com/@wiseplat/playlists)
-## [Уроки PHP с нуля для начинающих](https://www.youtube.com/playlist?list=PLxiU3nwEQ4PFvGkF-KPwPOCeKbU5zHumj)
-### [Уроки Wordpress / Как подключить PHP к Вордпресс сайту #3](https://www.youtube.com/watch?v=PTJ4QT3sC9E&amp;list=PLxiU3nwEQ4PFvGkF-KPwPOCeKbU5zHumj&amp;index=14)

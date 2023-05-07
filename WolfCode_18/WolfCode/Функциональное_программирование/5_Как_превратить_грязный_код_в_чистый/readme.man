@@ -1,0 +1,3 @@
+# [WolfCode](https://www.youtube.com/@wolf_code/playlists)
+## [Функциональное программирование](https://www.youtube.com/playlist?list=PLLVOmKOaszbIypxz956KtYvGOStx6ocaN)
+### [Как превратить грязный код в чистый](https://www.youtube.com/watch?v=88vmHh-ADJo&amp;list=PLLVOmKOaszbIypxz956KtYvGOStx6ocaN&amp;index=5&amp;pp=iAQB)

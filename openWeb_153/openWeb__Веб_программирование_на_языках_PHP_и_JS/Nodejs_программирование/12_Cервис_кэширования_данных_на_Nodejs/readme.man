@@ -1,0 +1,3 @@
+# [openWeb - Веб программирование на языках PHP и JS](https://www.youtube.com/@openweb-php/playlists)
+## [Node.js программирование](https://www.youtube.com/playlist?list=PL-leL2miqjEYADLEfKwTSMyfRYRrSzQtu)
+### [Cервис кэширования данных на Node.js](https://www.youtube.com/watch?v=ItixT1gmGXY&amp;list=PL-leL2miqjEYADLEfKwTSMyfRYRrSzQtu&amp;index=12&amp;pp=iAQB)

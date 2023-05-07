@@ -1,0 +1,3 @@
+# [freeCodeCamp.org](https://www.youtube.com/@freecodecamp/playlists)
+## [Git & GitHub](https://www.youtube.com/playlist?list=PLWKjhJtqVAbkFiqHnNaxpOPhh9tSWMXIF)
+### [Git &amp; GitHub: Cloning &amp; Working Locally](https://www.youtube.com/watch?v=09wR8kYT3t8&amp;list=PLWKjhJtqVAbkFiqHnNaxpOPhh9tSWMXIF&amp;index=4&amp;pp=iAQB)

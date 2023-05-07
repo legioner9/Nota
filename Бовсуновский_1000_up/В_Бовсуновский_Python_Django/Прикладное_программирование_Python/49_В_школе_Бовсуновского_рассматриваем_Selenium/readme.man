@@ -1,0 +1,3 @@
+# [В. Бовсуновский Python Django](https://www.youtube.com/@bov/playlists?view=1)
+## [Прикладное программирование Python.](https://www.youtube.com/playlist?list=PLuZJ9n46uMzX---cfRMYZgEDePohvo8dp)
+### [В школе Бовсуновского рассматриваем Selenium.](https://www.youtube.com/watch?v=AItH6eofM-M&amp;list=PLuZJ9n46uMzX---cfRMYZgEDePohvo8dp&amp;index=49&amp;pp=iAQB)

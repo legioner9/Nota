@@ -1,0 +1,3 @@
+# [Denis Batrankov](https://www.youtube.com/@BDVSecurity/playlists)
+## [Короткие видео](https://www.youtube.com/playlist?list=PLRAbJA74qU4DnvN1A0eZ-WYgTycZGn0O9)
+### [Технологии Machine Learning в Palo Alto Networks Next Generation Firewall](https://www.youtube.com/watch?v=Qbmp5DOU7ls&amp;list=PLRAbJA74qU4DnvN1A0eZ-WYgTycZGn0O9&amp;index=26&amp;pp=iAQB)

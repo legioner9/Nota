@@ -1,0 +1,3 @@
+# [В. Бовсуновский Python Django](https://www.youtube.com/@bov/playlists?view=1)
+## [новый подход в программировании.](https://www.youtube.com/playlist?list=PLuZJ9n46uMzX-9LOTi_tnxnv6zn7Ysk6W)
+### [Код понимаю, но писать не могу. Как не попасть в такую ситуацию.](https://www.youtube.com/watch?v=JFQPqzxJMlI&amp;list=PLuZJ9n46uMzX-9LOTi_tnxnv6zn7Ysk6W&amp;index=23&amp;pp=iAQB)

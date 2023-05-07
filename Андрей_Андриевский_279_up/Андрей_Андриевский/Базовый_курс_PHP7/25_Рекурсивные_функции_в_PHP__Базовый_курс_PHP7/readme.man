@@ -1,0 +1,3 @@
+# [Андрей Андриевский](https://www.youtube.com/@andrievskii/playlists)
+## [Базовый курс PHP-7](https://www.youtube.com/playlist?list=PLMB6wLyKp7lWt6GpOEV1BrHiX7zJnVMDy)
+### [Рекурсивные функции в PHP | Базовый курс PHP-7](https://www.youtube.com/watch?v=QGE96P7MPl0&amp;list=PLMB6wLyKp7lWt6GpOEV1BrHiX7zJnVMDy&amp;index=25&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [Просто о Laravel. CutCode](https://www.youtube.com/@CutCodeRu/playlists)
+## ["Под капотом" Laravel](https://www.youtube.com/playlist?list=PLTucyHptHtTnkmEwK0Yxxl-L9Z_8XOK6c)
+### [Разбор Query Builder, Collections, Model в Laravel. Под капотом Laravel](https://www.youtube.com/watch?v=o94CesRFMuY&amp;list=PLTucyHptHtTnkmEwK0Yxxl-L9Z_8XOK6c&amp;index=3&amp;pp=iAQB)

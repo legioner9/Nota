@@ -1,0 +1,3 @@
+# [Студия Флаг](https://www.youtube.com/@FlagStudio/playlists)
+## [Laravel митап 11.11.21](https://www.youtube.com/playlist?list=PLVdcV6tHcaCFs8ZzIfJ-PGF2-qFXeL0SH)
+### [ElasticSearch vs Meilisearch. Полнотекстовый поиск на небольших проектах](https://www.youtube.com/watch?v=hk-NRG-vmb8&amp;list=PLVdcV6tHcaCFs8ZzIfJ-PGF2-qFXeL0SH&amp;index=2&amp;pp=iAQB)

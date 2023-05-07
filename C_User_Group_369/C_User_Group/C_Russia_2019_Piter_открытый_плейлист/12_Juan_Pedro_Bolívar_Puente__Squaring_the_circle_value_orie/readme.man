@@ -1,0 +1,3 @@
+# [C++ User Group](https://www.youtube.com/@CUserGroupRussia/playlists)
+## [C++ Russia 2019 Piter: открытый плейлист](https://www.youtube.com/playlist?list=PLZN9ZGiWZoZp8_XKK1WMcAt2Dr9-QkfU6)
+### [Juan Pedro Bolívar Puente — Squaring the circle: value oriented design in an object oriented system](https://www.youtube.com/watch?v=e2-FRFEx8CA&amp;list=PLZN9ZGiWZoZp8_XKK1WMcAt2Dr9-QkfU6&amp;index=12&amp;pp=iAQB)

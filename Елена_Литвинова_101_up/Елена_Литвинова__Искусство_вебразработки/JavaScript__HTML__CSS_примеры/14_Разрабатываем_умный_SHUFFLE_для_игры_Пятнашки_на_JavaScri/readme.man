@@ -1,0 +1,3 @@
+# [Елена Литвинова — Искусство веб-разработки](https://www.youtube.com/@webelart/playlists)
+## [JavaScript + HTML + CSS примеры](https://www.youtube.com/playlist?list=PLJpSkcgOK72Cpz-JJkHwXVWFvFkmYZqyh)
+### [Разрабатываем умный SHUFFLE для игры «Пятнашки» на JavaScript](https://www.youtube.com/watch?v=ey7I6MgWxAw&amp;list=PLJpSkcgOK72Cpz-JJkHwXVWFvFkmYZqyh&amp;index=14&amp;pp=iAQB)

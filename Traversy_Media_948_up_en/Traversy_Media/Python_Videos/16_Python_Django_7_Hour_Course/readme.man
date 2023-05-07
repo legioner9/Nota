@@ -1,0 +1,3 @@
+# [Traversy Media](https://www.youtube.com/@TraversyMedia/playlists)
+## [Python Videos](https://www.youtube.com/playlist?list=PLillGF-RfqbbJYRaNqeUzAb7QY-IqBKRx)
+### [Python Django 7 Hour Course](https://www.youtube.com/watch?v=PtQiiknWUcI&amp;list=PLillGF-RfqbbJYRaNqeUzAb7QY-IqBKRx&amp;index=16&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [Web Developer Blog](https://www.youtube.com/@SuprunAlexey/playlists)
+## [Уроки MySQL + PHP](https://www.youtube.com/playlist?list=PLVfMKQXDAhGV6OnuUM5QTfmAQqRDCskmT)
+### [Уроки MySQL | Выборка данных.SELECT. Условия в SQL.](https://www.youtube.com/watch?v=QRkQ9m-BB8k&amp;list=PLVfMKQXDAhGV6OnuUM5QTfmAQqRDCskmT&amp;index=7&amp;pp=iAQB)

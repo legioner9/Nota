@@ -1,0 +1,3 @@
+# [Coding Tech](https://www.youtube.com/@CodingTech/playlists)
+## [Performance and Testing](https://www.youtube.com/playlist?list=PLFjq8z-aGyQ41wnNZ7Lzogyvmx7lERRDi)
+### [How To Test Your React App (unit / functional testing and CI pipeline tutorial)](https://www.youtube.com/watch?v=13HIqdtfxrM&amp;list=PLFjq8z-aGyQ41wnNZ7Lzogyvmx7lERRDi&amp;index=19&amp;pp=iAQB)

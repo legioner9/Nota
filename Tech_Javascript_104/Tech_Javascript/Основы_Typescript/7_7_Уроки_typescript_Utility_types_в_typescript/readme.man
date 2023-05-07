@@ -1,0 +1,3 @@
+# [Tech Javascript](https://www.youtube.com/@techjavascript/playlists)
+## [Основы Typescript](https://www.youtube.com/playlist?list=PLco1IpJXlada3EI5Pfsp7NZKrC_-oYDvY)
+### [7. Уроки typescript. Utility types в typescript](https://www.youtube.com/watch?v=fDjLldwMhVU&amp;list=PLco1IpJXlada3EI5Pfsp7NZKrC_-oYDvY&amp;index=7&amp;pp=iAQB)

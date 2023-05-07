@@ -1,0 +1,3 @@
+# [freeCodeCamp.org](https://www.youtube.com/@freecodecamp/playlists)
+## [Talks](https://www.youtube.com/playlist?list=PLWKjhJtqVAbl9yptoxdSJDDoTVdcysyPo)
+### [Taking Javascript to the Edge Devices](https://www.youtube.com/watch?v=2e5p7LT3eaE&amp;list=PLWKjhJtqVAbl9yptoxdSJDDoTVdcysyPo&amp;index=33&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [freeCodeCamp.org](https://www.youtube.com/@freecodecamp/playlists)
+## [Computer Science Concepts](https://www.youtube.com/playlist?list=PLWKjhJtqVAbn5emQ3RRG8gEBqkhf_5vxD)
+### [How To Write User Stories, Epics, &amp; Personas - Dev Life](https://www.youtube.com/watch?v=Fw98L-kcRpc&amp;list=PLWKjhJtqVAbn5emQ3RRG8gEBqkhf_5vxD&amp;index=9&amp;pp=iAQB)

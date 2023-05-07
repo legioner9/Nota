@@ -1,0 +1,3 @@
+# [WebDev с нуля. Канал Алекса Лущенко](https://www.youtube.com/@itgid/playlists)
+## [Уроки верстки](https://www.youtube.com/playlist?list=PLM7wFzahDYnEKa28bWIJ9vpcqWcRtIqR7)
+### [Наложение одной командой в CSS (mix-blend-mode)](https://www.youtube.com/watch?v=dhFpSiooT0A&amp;list=PLM7wFzahDYnEKa28bWIJ9vpcqWcRtIqR7&amp;index=14&amp;pp=iAQB)

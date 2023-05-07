@@ -1,0 +1,7 @@
+### [1. Настройка редактора, знакомство с версткой. Уроки по верстке сайта Портфолио HTML CSS](https://www.youtube.com/watch?v=7J2gZTTC-N0&amp;list=PL1NBhQGGj46Y1AgV05YZz_-_zdKALLNvW&amp;index=1&amp;pp=iAQB)
+### [2. Верстка Шапки сайта. Уроки по верстке сайта Портфолио HTML CSS](https://www.youtube.com/watch?v=th698XASCaU&amp;list=PL1NBhQGGj46Y1AgV05YZz_-_zdKALLNvW&amp;index=2&amp;pp=iAQB)
+### [3. Верстка секции Портфолио. Уроки по верстке сайта Портфолио HTML CSS](https://www.youtube.com/watch?v=5lzceH_ofAM&amp;list=PL1NBhQGGj46Y1AgV05YZz_-_zdKALLNvW&amp;index=3&amp;pp=iAQB)
+### [4. Верстка Подвала. Уроки по верстке сайта Портфолио HTML CSS](https://www.youtube.com/watch?v=hy0wata4ayk&amp;list=PL1NBhQGGj46Y1AgV05YZz_-_zdKALLNvW&amp;index=4&amp;pp=iAQB)
+### [5. Внутренняя страница для сайта. Уроки по верстке сайта Портфолио HTML CSS](https://www.youtube.com/watch?v=jcDzZm-daOQ&amp;list=PL1NBhQGGj46Y1AgV05YZz_-_zdKALLNvW&amp;index=5&amp;pp=iAQB)
+### [6. Мобильная адаптация сайта. Уроки по верстке сайта Портфолио HTML CSS](https://www.youtube.com/watch?v=5h3HytSvKMg&amp;list=PL1NBhQGGj46Y1AgV05YZz_-_zdKALLNvW&amp;index=6&amp;pp=iAQB)
+### [7. Видео обложка для сайта  Плавная прокрутка. Уроки по верстке сайта Портфолио HTML CSS](https://www.youtube.com/watch?v=vW5_u9UuwGo&amp;list=PL1NBhQGGj46Y1AgV05YZz_-_zdKALLNvW&amp;index=7&amp;pp=iAQB)

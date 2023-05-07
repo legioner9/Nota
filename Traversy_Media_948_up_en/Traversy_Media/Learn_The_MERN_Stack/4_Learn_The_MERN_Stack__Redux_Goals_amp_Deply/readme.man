@@ -1,0 +1,3 @@
+# [Traversy Media](https://www.youtube.com/@TraversyMedia/playlists)
+## [Learn The MERN Stack](https://www.youtube.com/playlist?list=PLillGF-RfqbbQeVSccR9PGKHzPJSWqcsm)
+### [Learn The MERN Stack - Redux Goals &amp; Deply](https://www.youtube.com/watch?v=UXjMo25Nnvc&amp;list=PLillGF-RfqbbQeVSccR9PGKHzPJSWqcsm&amp;index=4&amp;pp=iAQB)

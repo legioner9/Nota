@@ -1,0 +1,3 @@
+# [В. Бовсуновский Python Django](https://www.youtube.com/@bov/playlists?view=1)
+## [Django 2.0 +](https://www.youtube.com/playlist?list=PLuZJ9n46uMzX_fLNv-OLXjJorYUGqLlYP)
+### [PyCharm + Django + Jupyter. Убойно понятно!](https://www.youtube.com/watch?v=W2M8rDc9f8o&amp;list=PLuZJ9n46uMzX_fLNv-OLXjJorYUGqLlYP&amp;index=2&amp;pp=iAQB)

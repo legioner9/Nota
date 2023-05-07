@@ -1,0 +1,3 @@
+# [WebDev с нуля. Канал Алекса Лущенко](https://www.youtube.com/@itgid/playlists)
+## [TrueJS](https://www.youtube.com/playlist?list=PLM7wFzahDYnEcQh1G_fxFXBZ4O1tlVsDG)
+### [True JS 6. Типы данных](https://www.youtube.com/watch?v=FBp0Hk_z_No&amp;list=PLM7wFzahDYnEcQh1G_fxFXBZ4O1tlVsDG&amp;index=6&amp;pp=iAQB)

@@ -1,4 +1,0 @@
-### [Стрим по разработке консольного Twitch чата: добавляем поддержку Twitch Badges](https://www.youtube.com/watch?v=YFgsBhQ9UDo&amp;list=PLqJ-vFLoJOaH25rpUfnHQ0Q9lCbnDyn7U&amp;index=1&amp;pp=iAQB)
-### [Стрим по разработке консольного Twitch чата, рефакторим работу со стикерами](https://www.youtube.com/watch?v=-idApxEJfQU&amp;list=PLqJ-vFLoJOaH25rpUfnHQ0Q9lCbnDyn7U&amp;index=2&amp;pp=iAQB)
-### [Стрим по разработке консольного Twitch чата, добавлине поддержки BetterTTV](https://www.youtube.com/watch?v=xvAXjXa-eIk&amp;list=PLqJ-vFLoJOaH25rpUfnHQ0Q9lCbnDyn7U&amp;index=3&amp;pp=iAQB)
-### [Стрим по разработке консольного Twitch чата, добавляем больше цветов](https://www.youtube.com/watch?v=B8mtVZGADJc&amp;list=PLqJ-vFLoJOaH25rpUfnHQ0Q9lCbnDyn7U&amp;index=4&amp;pp=iAQB)

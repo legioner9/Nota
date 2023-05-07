@@ -1,0 +1,3 @@
+# [Max Roslow](https://www.youtube.com/@maximroslow/playlists)
+## [Уроки React](https://www.youtube.com/playlist?list=PL1EApzIeyBXY4JOnYkusYnb1dM3mP3ojN)
+### [Магазин Самолетов на React/Redux [2] - Express и MongoDB Rest API](https://www.youtube.com/watch?v=WiBcmRTuOes&amp;list=PL1EApzIeyBXY4JOnYkusYnb1dM3mP3ojN&amp;index=10&amp;pp=iAQB)

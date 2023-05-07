@@ -1,0 +1,3 @@
+# [WebDev с нуля. Канал Алекса Лущенко](https://www.youtube.com/@itgid/playlists)
+## [30 вопросов JavaScript собеседования - бесплатный курс](https://www.youtube.com/playlist?list=PLM7wFzahDYnGF4WqYaSuwnItYDEBakTDS)
+### [Собеседование - задача с map и filter, допиши строку. 30 вопросов собеседования JavaScript](https://www.youtube.com/watch?v=2j6M8SweiAg&amp;list=PLM7wFzahDYnGF4WqYaSuwnItYDEBakTDS&amp;index=3&amp;pp=iAQB)

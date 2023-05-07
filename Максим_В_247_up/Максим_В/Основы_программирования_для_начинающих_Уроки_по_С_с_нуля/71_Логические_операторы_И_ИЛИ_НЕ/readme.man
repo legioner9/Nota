@@ -1,0 +1,3 @@
+# [Максим В](https://www.youtube.com/@cpp/playlists)
+## [Основы программирования для начинающих. Уроки по С++ с нуля.](https://www.youtube.com/playlist?list=PLlxYwLnXeoE0qsuXwsUi3zSU6FKOS8YCB)
+### [Логические операторы И ИЛИ НЕ](https://www.youtube.com/watch?v=cKoDdnZSdDQ&amp;list=PLlxYwLnXeoE0qsuXwsUi3zSU6FKOS8YCB&amp;index=71&amp;pp=iAQB)

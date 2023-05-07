@@ -1,0 +1,3 @@
+# [webDev](https://www.youtube.com/@YauhenKavalchuk/playlists?view=1)
+## [JavaScript](https://www.youtube.com/playlist?list=PLNkWIWHIRwMHKLotIS_d-wyj00pg0AnUg)
+### [JavaScript #2 Массив  перебирающие методы – map](https://www.youtube.com/watch?v=W5vpClM_VDw&amp;list=PLNkWIWHIRwMHKLotIS_d-wyj00pg0AnUg&amp;index=3)

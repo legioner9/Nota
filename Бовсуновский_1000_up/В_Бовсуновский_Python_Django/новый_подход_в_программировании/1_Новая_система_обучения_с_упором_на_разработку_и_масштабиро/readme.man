@@ -1,0 +1,3 @@
+# [В. Бовсуновский Python Django](https://www.youtube.com/@bov/playlists?view=1)
+## [новый подход в программировании.](https://www.youtube.com/playlist?list=PLuZJ9n46uMzX-9LOTi_tnxnv6zn7Ysk6W)
+### [Новая система обучения с упором на разработку и масштабирование.](https://www.youtube.com/watch?v=K1LNkdWyXKU&amp;list=PLuZJ9n46uMzX-9LOTi_tnxnv6zn7Ysk6W&amp;index=1&amp;pp=iAQB)

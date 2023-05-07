@@ -1,0 +1,3 @@
+# [openWeb - Веб программирование на языках PHP и JS](https://www.youtube.com/@openweb-php/playlists)
+## [Framework Yii2 Уроки и примеры](https://www.youtube.com/playlist?list=PL-leL2miqjEaHR1_-VSMmhVAcGRuRgNuK)
+### [Yii2 Уроки - связь с базой данных MySQL](https://www.youtube.com/watch?v=-_bot4oMqx4&amp;list=PL-leL2miqjEaHR1_-VSMmhVAcGRuRgNuK&amp;index=4&amp;pp=iAQB)

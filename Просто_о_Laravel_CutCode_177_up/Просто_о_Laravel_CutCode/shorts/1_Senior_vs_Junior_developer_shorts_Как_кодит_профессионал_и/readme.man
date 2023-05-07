@@ -1,0 +1,3 @@
+# [Просто о Laravel. CutCode](https://www.youtube.com/@CutCodeRu/playlists)
+## [shorts](https://www.youtube.com/playlist?list=PLTucyHptHtTkhGn-OvzJxLJKb5uptBzPz)
+### [👉Senior vs Junior developer #shorts. Как кодит профессионал и новичок в Laravel](https://www.youtube.com/watch?v=pXluhKle9dI&amp;list=PLTucyHptHtTkhGn-OvzJxLJKb5uptBzPz&amp;index=1&amp;pp=iAQB)

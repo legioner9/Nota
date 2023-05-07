@@ -1,0 +1,3 @@
+### [Как комментировать в Python #1](https://www.youtube.com/watch?v=OTj3L8NM6gY&amp;list=PLEjhu-KP5eiA3XhXfn6_y3yrP9j7aIOUz&amp;index=1&amp;pp=iAQB)
+### [Что такое python №2](https://www.youtube.com/watch?v=7jOCKXAI4LI&amp;list=PLEjhu-KP5eiA3XhXfn6_y3yrP9j7aIOUz&amp;index=2&amp;pp=iAQB)
+### [python pyCharm, установка библиотек урок 3](https://www.youtube.com/watch?v=HY-03HD2vR4&amp;list=PLEjhu-KP5eiA3XhXfn6_y3yrP9j7aIOUz&amp;index=3&amp;pp=iAQB)

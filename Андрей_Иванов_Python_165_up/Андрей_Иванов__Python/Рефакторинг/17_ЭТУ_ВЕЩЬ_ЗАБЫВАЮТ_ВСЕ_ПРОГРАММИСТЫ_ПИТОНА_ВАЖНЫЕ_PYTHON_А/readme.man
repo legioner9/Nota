@@ -1,0 +1,3 @@
+# [Андрей Иванов | Python](https://www.youtube.com/@PythononPapyrusRU/playlists)
+## [Рефакторинг](https://www.youtube.com/playlist?list=PLF4MWzDJPFSZDrGVymctlWMmzKXPOJN8N)
+### [ЭТУ ВЕЩЬ ЗАБЫВАЮТ ВСЕ ПРОГРАММИСТЫ ПИТОНА! ВАЖНЫЕ PYTHON АБСТРАКЦИИ](https://www.youtube.com/watch?v=UT-ra2BeyUM&amp;list=PLF4MWzDJPFSZDrGVymctlWMmzKXPOJN8N&amp;index=17&amp;pp=iAQB)

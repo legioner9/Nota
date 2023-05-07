@@ -1,0 +1,3 @@
+### [Что такое YubiKey](https://www.youtube.com/watch?v=In8I6P0U40o&amp;list=PLTuGAOACdyjWZxTQt6FCyo8kNBMQt-tJ8&amp;index=1&amp;pp=iAQB)
+### [YubiKey   Используем FIDO2](https://www.youtube.com/watch?v=R5GvVE81s-U&amp;list=PLTuGAOACdyjWZxTQt6FCyo8kNBMQt-tJ8&amp;index=2&amp;pp=iAQB)
+### [YubiKey   Включаем двухфакторную аутентификацию в Linux](https://www.youtube.com/watch?v=bX6XdZ_jYsc&amp;list=PLTuGAOACdyjWZxTQt6FCyo8kNBMQt-tJ8&amp;index=3&amp;pp=iAQB)

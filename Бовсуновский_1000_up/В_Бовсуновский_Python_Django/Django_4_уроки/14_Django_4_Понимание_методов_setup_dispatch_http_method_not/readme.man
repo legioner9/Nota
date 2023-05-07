@@ -1,0 +1,3 @@
+# [В. Бовсуновский Python Django](https://www.youtube.com/@bov/playlists?view=1)
+## [Django 4 уроки.](https://www.youtube.com/playlist?list=PLuZJ9n46uMzUYYonzdbZ7nj3uSSocESFG)
+### [Django 4. Понимание методов setup(), dispatch(), http_method_not_allowed() в ListView.](https://www.youtube.com/watch?v=jZrGRn7PCFw&amp;list=PLuZJ9n46uMzUYYonzdbZ7nj3uSSocESFG&amp;index=14&amp;pp=iAQB)

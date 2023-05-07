@@ -1,0 +1,3 @@
+# [Dmitry Afanasyev](https://www.youtube.com/@DmitryAfanasyev/playlists)
+## [Laravel Sockets. Работа с сокетами в Laravel](https://www.youtube.com/playlist?list=PLoonZ8wII66je1zXdGrrHgExx6J0WQYKd)
+### [#2 Laravel: Ratchet - WebSocket. Делаем PUSH](https://www.youtube.com/watch?v=wXCORk5xXPs&amp;list=PLoonZ8wII66je1zXdGrrHgExx6J0WQYKd&amp;index=2&amp;pp=iAQB)

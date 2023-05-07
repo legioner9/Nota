@@ -1,0 +1,3 @@
+# [Андрей Иванов | Python](https://www.youtube.com/@PythononPapyrusRU/playlists)
+## [Паттерны проектирования](https://www.youtube.com/playlist?list=PLF4MWzDJPFSYeUtNQGDsS-XZDriJjFRL8)
+### [Как быстро писать хороший код на Питоне? PyAssimilator](https://www.youtube.com/watch?v=qMEzpeI-F7g&amp;list=PLF4MWzDJPFSYeUtNQGDsS-XZDriJjFRL8&amp;index=14&amp;pp=iAQB)

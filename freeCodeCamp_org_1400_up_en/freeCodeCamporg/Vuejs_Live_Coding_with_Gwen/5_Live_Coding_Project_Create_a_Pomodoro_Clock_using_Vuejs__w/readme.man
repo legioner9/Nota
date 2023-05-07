@@ -1,0 +1,3 @@
+# [freeCodeCamp.org](https://www.youtube.com/@freecodecamp/playlists)
+## [Vue.js Live Coding with Gwen](https://www.youtube.com/playlist?list=PLWKjhJtqVAbkPX-lJHxjXdsw19vbXIZpz)
+### [Live Coding Project: Create a Pomodoro Clock using Vue.js - with Gwen Faraday](https://www.youtube.com/watch?v=Fvw8YBtdzqA&amp;list=PLWKjhJtqVAbkPX-lJHxjXdsw19vbXIZpz&amp;index=5&amp;pp=iAQB)

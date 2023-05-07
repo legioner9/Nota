@@ -1,0 +1,3 @@
+# [Monsterlessons Academy](https://www.youtube.com/@MonsterlessonsAcademy/playlists)
+## [React Hooks Crash Course - Tutorial for Beginners](https://www.youtube.com/playlist?list=PLEjh-YiSBCDLnqqXf_-x1hyLAz9UZ2pF1)
+### [Custom Hooks React - React Fetch Hook With  useEffect Fetch](https://www.youtube.com/watch?v=nJxpJ3wks90&amp;list=PLEjh-YiSBCDLnqqXf_-x1hyLAz9UZ2pF1&amp;index=10&amp;pp=iAQB)

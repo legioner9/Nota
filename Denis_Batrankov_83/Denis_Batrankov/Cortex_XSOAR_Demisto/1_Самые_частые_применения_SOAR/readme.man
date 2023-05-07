@@ -1,0 +1,3 @@
+# [Denis Batrankov](https://www.youtube.com/@BDVSecurity/playlists)
+## [Cortex XSOAR (Demisto)](https://www.youtube.com/playlist?list=PLRAbJA74qU4DIVAyY3irumgjivHJrK5VE)
+### [Самые частые применения SOAR](https://www.youtube.com/watch?v=qrNWyDlkog0&amp;list=PLRAbJA74qU4DIVAyY3irumgjivHJrK5VE&amp;index=1&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [WebDev с нуля. Канал Алекса Лущенко](https://www.youtube.com/@itgid/playlists)
+## [Просто Angular](https://www.youtube.com/playlist?list=PLM7wFzahDYnER4rGsj9ER2H_yPYAnBbzh)
+### [5 самых тупых вопросов на собеседовании](https://www.youtube.com/watch?v=2Y1NrP_IOg8&amp;list=PLM7wFzahDYnER4rGsj9ER2H_yPYAnBbzh&amp;index=3&amp;pp=iAQB)

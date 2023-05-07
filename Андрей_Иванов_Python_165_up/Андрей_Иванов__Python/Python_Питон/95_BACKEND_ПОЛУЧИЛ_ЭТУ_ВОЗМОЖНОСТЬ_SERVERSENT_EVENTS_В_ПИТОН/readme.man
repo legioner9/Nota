@@ -1,0 +1,3 @@
+# [Андрей Иванов | Python](https://www.youtube.com/@PythononPapyrusRU/playlists)
+## [Python, Питон](https://www.youtube.com/playlist?list=PLF4MWzDJPFSZJeqc7u65mRAjR-1eFKUfd)
+### [BACKEND ПОЛУЧИЛ ЭТУ ВОЗМОЖНОСТЬ! SERVER-SENT EVENTS В ПИТОНЕ](https://www.youtube.com/watch?v=dMqxIR6DOhw&amp;list=PLF4MWzDJPFSZJeqc7u65mRAjR-1eFKUfd&amp;index=95&amp;pp=iAQB)

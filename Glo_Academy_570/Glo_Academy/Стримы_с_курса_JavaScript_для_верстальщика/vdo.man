@@ -1,0 +1,4 @@
+### [Подробно о курсе &quot;Java Script для верстальщика&quot;](https://www.youtube.com/watch?v=HYEpO_PQUjQ&amp;list=PL3LQJkGQtzc4_mcCPTTvPLoszP9XD2EPO&amp;index=1&amp;pp=iAQB)
+### [Первая встреча на курсе &quot;JavaScript для верстальщика&quot; | Академия верстки](https://www.youtube.com/watch?v=_wREwIi7c8g&amp;list=PL3LQJkGQtzc4_mcCPTTvPLoszP9XD2EPO&amp;index=2&amp;pp=iAQB)
+### [Презентация курса по JavaScript | Академия верстки | Иван Петриченко](https://www.youtube.com/watch?v=mXN6H6wJVz8&amp;list=PL3LQJkGQtzc4_mcCPTTvPLoszP9XD2EPO&amp;index=3&amp;pp=iAQB)
+### [Стрим с Иваном Петриченко. Ответы на вопросы](https://www.youtube.com/watch?v=3ONbmF0VAHQ&amp;list=PL3LQJkGQtzc4_mcCPTTvPLoszP9XD2EPO&amp;index=4&amp;pp=iAQB)

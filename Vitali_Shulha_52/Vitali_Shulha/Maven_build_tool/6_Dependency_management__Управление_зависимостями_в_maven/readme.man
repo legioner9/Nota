@@ -1,0 +1,3 @@
+# [Vitali Shulha](https://www.youtube.com/@vitalishulha8319/playlists)
+## [Maven build tool](https://www.youtube.com/playlist?list=PLY2rNyjTWaM2Xx5YGc6uYDDPRf4Zi_cQ1)
+### [Dependency management // Управление зависимостями в maven](https://www.youtube.com/watch?v=B8reaWZ32B8&amp;list=PLY2rNyjTWaM2Xx5YGc6uYDDPRf4Zi_cQ1&amp;index=6&amp;pp=iAQB)

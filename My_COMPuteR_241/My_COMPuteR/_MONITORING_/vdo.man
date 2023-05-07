@@ -1,0 +1,4 @@
+### [Zabbix 5 - установка в CentOS 7](https://www.youtube.com/watch?v=MdDMotkTJFc&amp;list=PLh1BaaL_XriOLqsVODhgbMi-75KThY6b9&amp;index=1&amp;pp=iAQB)
+### [Zabbix 5 - обзор панели управления](https://www.youtube.com/watch?v=0LpmK5-_YaU&amp;list=PLh1BaaL_XriOLqsVODhgbMi-75KThY6b9&amp;index=2&amp;pp=iAQB)
+### [Zabbix - настройка мониторинга сервера](https://www.youtube.com/watch?v=ZUXbpq4ubnk&amp;list=PLh1BaaL_XriOLqsVODhgbMi-75KThY6b9&amp;index=3&amp;pp=iAQB)
+### [Zabbix - оповещения через сторонний SMTP](https://www.youtube.com/watch?v=8HOriW-sEQs&amp;list=PLh1BaaL_XriOLqsVODhgbMi-75KThY6b9&amp;index=4&amp;pp=iAQB)

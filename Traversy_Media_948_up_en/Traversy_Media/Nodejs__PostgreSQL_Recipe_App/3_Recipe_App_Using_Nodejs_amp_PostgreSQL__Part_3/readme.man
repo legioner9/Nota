@@ -1,0 +1,3 @@
+# [Traversy Media](https://www.youtube.com/@TraversyMedia/playlists)
+## [Node.js & PostgreSQL Recipe App](https://www.youtube.com/playlist?list=PLillGF-RfqbaEmlPcX5e_ejaK7Y5MydkW)
+### [Recipe App Using Node.js &amp; PostgreSQL - Part 3](https://www.youtube.com/watch?v=ijSzX3S5Qco&amp;list=PLillGF-RfqbaEmlPcX5e_ejaK7Y5MydkW&amp;index=3&amp;pp=iAQB)

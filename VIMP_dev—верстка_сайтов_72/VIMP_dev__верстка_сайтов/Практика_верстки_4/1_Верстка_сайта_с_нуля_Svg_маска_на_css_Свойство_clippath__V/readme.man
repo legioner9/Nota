@@ -1,0 +1,3 @@
+# [VIMP dev — верстка сайтов](https://www.youtube.com/@VIMPdev/playlists)
+## [Практика верстки #4](https://www.youtube.com/playlist?list=PLBfQgL-XzhF09-nveLOiFinvSlz4zpEn4)
+### [Верстка сайта с нуля. Svg маска на css. Свойство clip-path | VIMP dev](https://www.youtube.com/watch?v=FzLSHPGisfU&amp;list=PLBfQgL-XzhF09-nveLOiFinvSlz4zpEn4&amp;index=1&amp;pp=iAQB)

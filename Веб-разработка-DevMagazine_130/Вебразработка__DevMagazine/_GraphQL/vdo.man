@@ -1,0 +1,3 @@
+### [Все о GraphQL за 30 минут](https://www.youtube.com/watch?v=7zEaHr_iJjA&amp;list=PLmfIBo6rTVR7qfgmVHBsgOoiBAx5Guwfp&amp;index=1&amp;pp=iAQB)
+### [GraphQL vs REST - кто круче?](https://www.youtube.com/watch?v=7fPcRouBVqo&amp;list=PLmfIBo6rTVR7qfgmVHBsgOoiBAx5Guwfp&amp;index=2&amp;pp=iAQB)
+### [Как сделать Пагинацию правильно в GraphQL?](https://www.youtube.com/watch?v=SNapYOj9IpA&amp;list=PLmfIBo6rTVR7qfgmVHBsgOoiBAx5Guwfp&amp;index=3&amp;pp=iAQB)

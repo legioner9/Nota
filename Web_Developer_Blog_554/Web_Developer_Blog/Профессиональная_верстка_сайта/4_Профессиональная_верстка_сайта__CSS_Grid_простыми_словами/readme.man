@@ -1,0 +1,3 @@
+# [Web Developer Blog](https://www.youtube.com/@SuprunAlexey/playlists)
+## [Профессиональная верстка сайта](https://www.youtube.com/playlist?list=PLVfMKQXDAhGUJVAhv95V_RUVW1Oa9vTSc)
+### [Профессиональная верстка сайта - CSS Grid простыми словами](https://www.youtube.com/watch?v=b1P5LK2oWW8&amp;list=PLVfMKQXDAhGUJVAhv95V_RUVW1Oa9vTSc&amp;index=4&amp;pp=iAQB)

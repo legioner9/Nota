@@ -1,0 +1,3 @@
+# [HTML Academy](https://www.youtube.com/@HTMLAcademyRUS/playlists)
+## [Наши выступления](https://www.youtube.com/playlist?list=PLQJNT2fdCJngx6cl4mEpsYiCwnsx_sX-s)
+### [Серёжа Попов — Grid Layout как основа современной раскладки Web-страницы](https://www.youtube.com/watch?v=zmFW-OJbQ_0&amp;list=PLQJNT2fdCJngx6cl4mEpsYiCwnsx_sX-s&amp;index=10&amp;pp=iAQB)

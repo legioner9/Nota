@@ -1,0 +1,3 @@
+# [Timur Shemsedinov](https://www.youtube.com/@TimurShemsedinov/playlists?view=1)
+## [Metarhia & Node.js](https://www.youtube.com/playlist?list=PLHhi8ymDMrQbvuNarh_vmWoY9BhNp9v6f)
+### [💻 Metarhia: metaschema - рефакторинг библиотеки описания типов и контрактов для Node.js и JavaScript](https://www.youtube.com/watch?v=JkvOlZo7lew&amp;list=PLHhi8ymDMrQbvuNarh_vmWoY9BhNp9v6f&amp;index=9&amp;pp=iAQB)

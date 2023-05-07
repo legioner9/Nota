@@ -1,0 +1,3 @@
+# [webDev](https://www.youtube.com/@YauhenKavalchuk/playlists?view=1)
+## [ES7-ES9](https://www.youtube.com/playlist?list=PLNkWIWHIRwMH_05WTvIX419odDtStynm3)
+### [ES7-ES9 #9 Function.toString() &amp; Symbol description &amp; JSON.stringify()](https://www.youtube.com/watch?v=gvxCKEtCJaM&amp;list=PLNkWIWHIRwMH_05WTvIX419odDtStynm3&amp;index=11)

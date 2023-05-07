@@ -1,0 +1,3 @@
+# [В. Бовсуновский Python Django](https://www.youtube.com/@bov/playlists?view=1)
+## [Python for Andoid](https://www.youtube.com/playlist?list=PLuZJ9n46uMzUhN970OOvoxm8pmECgAqLn)
+### [3 способа создания .apk для android для kivy.](https://www.youtube.com/watch?v=TqjswhTxMw8&amp;list=PLuZJ9n46uMzUhN970OOvoxm8pmECgAqLn&amp;index=9&amp;pp=iAQB)

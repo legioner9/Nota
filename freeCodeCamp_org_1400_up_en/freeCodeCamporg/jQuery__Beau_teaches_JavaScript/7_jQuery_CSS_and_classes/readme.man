@@ -1,0 +1,3 @@
+# [freeCodeCamp.org](https://www.youtube.com/@freecodecamp/playlists)
+## [jQuery - Beau teaches JavaScript](https://www.youtube.com/playlist?list=PLWKjhJtqVAbkyK9woUZUtunToLtNGoQHB)
+### [jQuery: CSS and classes](https://www.youtube.com/watch?v=MmtfrjLLjJ0&amp;list=PLWKjhJtqVAbkyK9woUZUtunToLtNGoQHB&amp;index=7&amp;pp=iAQB)

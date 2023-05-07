@@ -1,0 +1,3 @@
+# [В. Бовсуновский Python Django](https://www.youtube.com/@bov/playlists?view=1)
+## [Уроки Linux](https://www.youtube.com/playlist?list=PLuZJ9n46uMzVwOZeH3dfra62lSqIVkmv9)
+### [Урок 3. Настраиваем VS studio code для Django 2.. Повторяем, что должно быть уже сделано.](https://www.youtube.com/watch?v=px-xgjQLQh8&amp;list=PLuZJ9n46uMzVwOZeH3dfra62lSqIVkmv9&amp;index=52&amp;pp=iAQB)

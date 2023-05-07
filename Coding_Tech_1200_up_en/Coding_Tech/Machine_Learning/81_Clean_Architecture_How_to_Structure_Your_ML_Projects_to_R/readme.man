@@ -1,0 +1,3 @@
+# [Coding Tech](https://www.youtube.com/@CodingTech/playlists)
+## [Machine Learning](https://www.youtube.com/playlist?list=PLFjq8z-aGyQ5pDM0CYpsqRswZCrb91sF-)
+### [Clean Architecture: How to Structure Your ML Projects to Reduce Technical Debt || Laszlo Sragner](https://www.youtube.com/watch?v=zeubGVLH3Io&amp;list=PLFjq8z-aGyQ5pDM0CYpsqRswZCrb91sF-&amp;index=81&amp;pp=iAQB)

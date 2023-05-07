@@ -1,0 +1,3 @@
+# [WebDev с нуля. Канал Алекса Лущенко](https://www.youtube.com/@itgid/playlists)
+## [Node.JS](https://www.youtube.com/playlist?list=PLM7wFzahDYnH8375ttFD-490hskt2v8wt)
+### [Основы Node.JS. 6 NPM, Babel, ES6](https://www.youtube.com/watch?v=SIYuqToiMLY&amp;list=PLM7wFzahDYnH8375ttFD-490hskt2v8wt&amp;index=6&amp;pp=iAQB)

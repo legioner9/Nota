@@ -1,0 +1,3 @@
+# [Linux Linux](https://www.youtube.com/@linuxlinux7961/playlists)
+## [Занятия по виртуализации Hashicorp Vagrant](https://www.youtube.com/playlist?list=PLx50iqBtw_6qNYGEFnYzn5NXf4nMFmYPo)
+### [Vagrant. Подготовка 1.5 Установка VirtualBox](https://www.youtube.com/watch?v=cIofixc6q_M&amp;list=PLx50iqBtw_6qNYGEFnYzn5NXf4nMFmYPo&amp;index=5&amp;pp=iAQB)

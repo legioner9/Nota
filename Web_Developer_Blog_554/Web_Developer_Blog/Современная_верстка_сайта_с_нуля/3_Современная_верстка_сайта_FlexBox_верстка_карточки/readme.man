@@ -1,0 +1,3 @@
+# [Web Developer Blog](https://www.youtube.com/@SuprunAlexey/playlists)
+## [Современная верстка сайта с нуля](https://www.youtube.com/playlist?list=PLVfMKQXDAhGVcNuWQrw8w2ZINnfSZCUkt)
+### [Современная верстка сайта -FlexBox верстка карточки](https://www.youtube.com/watch?v=rIDr5TaRSes&amp;list=PLVfMKQXDAhGVcNuWQrw8w2ZINnfSZCUkt&amp;index=3&amp;pp=iAQB)

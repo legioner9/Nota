@@ -1,0 +1,3 @@
+# [TipoIT](https://www.youtube.com/@tipoit/playlists)
+## [ansible](https://www.youtube.com/playlist?list=PLTuGAOACdyjWvExPW9N6PmAPz9zJgeJoi)
+### [Ansible -  Playbbok and Play](https://www.youtube.com/watch?v=SzSbF6XwDNE&amp;list=PLTuGAOACdyjWvExPW9N6PmAPz9zJgeJoi&amp;index=2&amp;pp=iAQB)

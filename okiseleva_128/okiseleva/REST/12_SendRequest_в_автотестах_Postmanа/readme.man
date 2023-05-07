@@ -1,0 +1,3 @@
+# [okiseleva](https://www.youtube.com/@okiseleva/playlists)
+## [REST](https://www.youtube.com/playlist?list=PLzy4cPXOwbY6U51j0CSKFQ4EKzbe61_AI)
+### [SendRequest в автотестах Postman-а](https://www.youtube.com/watch?v=rnSwyw0ahU0&amp;list=PLzy4cPXOwbY6U51j0CSKFQ4EKzbe61_AI&amp;index=12&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [В. Бовсуновский Python Django](https://www.youtube.com/@bov/playlists?view=1)
+## [1. Крутой Python.](https://www.youtube.com/playlist?list=PLuZJ9n46uMzVQLs2u4hwjfcQkZ8QVKea1)
+### [2.  C чего начать ООП, что бы писать крутой код Python.](https://www.youtube.com/watch?v=hCgC1-rWQL0&amp;list=PLuZJ9n46uMzVQLs2u4hwjfcQkZ8QVKea1&amp;index=2&amp;pp=iAQB)

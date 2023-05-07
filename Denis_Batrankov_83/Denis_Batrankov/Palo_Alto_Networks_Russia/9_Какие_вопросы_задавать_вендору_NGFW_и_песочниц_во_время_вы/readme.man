@@ -1,0 +1,3 @@
+# [Denis Batrankov](https://www.youtube.com/@BDVSecurity/playlists)
+## [Palo Alto Networks Russia](https://www.youtube.com/playlist?list=PLRAbJA74qU4D0_eAp3ibdqDCiFPfNYChF)
+### [Какие вопросы задавать вендору NGFW и песочниц во время выбора решения](https://www.youtube.com/watch?v=XB8VhvF-SO4&amp;list=PLRAbJA74qU4D0_eAp3ibdqDCiFPfNYChF&amp;index=9&amp;pp=iAQB)

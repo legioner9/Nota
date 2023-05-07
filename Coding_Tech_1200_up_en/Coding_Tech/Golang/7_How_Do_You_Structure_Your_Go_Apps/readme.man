@@ -1,0 +1,3 @@
+# [Coding Tech](https://www.youtube.com/@CodingTech/playlists)
+## [Golang](https://www.youtube.com/playlist?list=PLFjq8z-aGyQ7elzRbDAaW49gyYSwKwEEp)
+### [How Do You Structure Your Go Apps?](https://www.youtube.com/watch?v=1rxDzs0zgcE&amp;list=PLFjq8z-aGyQ7elzRbDAaW49gyYSwKwEEp&amp;index=7&amp;pp=iAQB)

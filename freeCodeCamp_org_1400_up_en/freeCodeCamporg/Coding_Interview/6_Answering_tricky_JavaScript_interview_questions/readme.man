@@ -1,0 +1,3 @@
+# [freeCodeCamp.org](https://www.youtube.com/@freecodecamp/playlists)
+## [Coding Interview](https://www.youtube.com/playlist?list=PLWKjhJtqVAblv09G3sFgRMSeR0jnKQmJ9)
+### [Answering tricky JavaScript interview questions](https://www.youtube.com/watch?v=jh86NGG9jdE&amp;list=PLWKjhJtqVAblv09G3sFgRMSeR0jnKQmJ9&amp;index=6&amp;pp=iAQB)

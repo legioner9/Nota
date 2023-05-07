@@ -1,0 +1,3 @@
+# [Семен Алексеев](https://www.youtube.com/@alekseev74/playlists)
+## [ASP.NET Core MVC](https://www.youtube.com/playlist?list=PLUTrDHuvZc4F9wnGUWEPOmzq1YTXGViq3)
+### [async/await в ASP.NET Core. Асинхронный код](https://www.youtube.com/watch?v=hKU6vF00ShY&amp;list=PLUTrDHuvZc4F9wnGUWEPOmzq1YTXGViq3&amp;index=4&amp;pp=iAQB)

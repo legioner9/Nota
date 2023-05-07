@@ -1,0 +1,3 @@
+# [Vitali Shulha](https://www.youtube.com/@vitalishulha8319/playlists)
+## [Version control with Git // Версионный контроль с git](https://www.youtube.com/playlist?list=PLY2rNyjTWaM3P8fvZSMZMo2mg7uPAzliv)
+### [Git reset // Сброс c помощью git reset](https://www.youtube.com/watch?v=UpxYC7X5I1U&amp;list=PLY2rNyjTWaM3P8fvZSMZMo2mg7uPAzliv&amp;index=10&amp;pp=iAQB)

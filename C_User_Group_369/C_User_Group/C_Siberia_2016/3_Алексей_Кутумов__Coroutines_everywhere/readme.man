@@ -1,0 +1,3 @@
+# [C++ User Group](https://www.youtube.com/@CUserGroupRussia/playlists)
+## [C++ Siberia 2016](https://www.youtube.com/playlist?list=PLZN9ZGiWZoZoM3Dp0yg36SYcDMH2-h8pU)
+### [Алексей Кутумов | Coroutines everywhere](https://www.youtube.com/watch?v=U6n08FZqLQw&amp;list=PLZN9ZGiWZoZoM3Dp0yg36SYcDMH2-h8pU&amp;index=3&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [Coding Tech](https://www.youtube.com/@CodingTech/playlists)
+## [TypeScript](https://www.youtube.com/playlist?list=PLFjq8z-aGyQ6E0kmOeQ6E7Xqmv3Z-mJ6j)
+### [The Road to TypeScript](https://www.youtube.com/watch?v=S__L5U1xKwY&amp;list=PLFjq8z-aGyQ6E0kmOeQ6E7Xqmv3Z-mJ6j&amp;index=21&amp;pp=iAQB)

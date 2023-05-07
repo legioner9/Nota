@@ -1,0 +1,3 @@
+# [Web Developer Blog](https://www.youtube.com/@SuprunAlexey/playlists)
+## [Уроки jQuery](https://www.youtube.com/playlist?list=PLVfMKQXDAhGXQcouhIblV910Rv7lRscH3)
+### [Уроки jQuery практика- анимация счетчика чисел](https://www.youtube.com/watch?v=ykS16GArbTk&amp;list=PLVfMKQXDAhGXQcouhIblV910Rv7lRscH3&amp;index=14&amp;pp=iAQB)

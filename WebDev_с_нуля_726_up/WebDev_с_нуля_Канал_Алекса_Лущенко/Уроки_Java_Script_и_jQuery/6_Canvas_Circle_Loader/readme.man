@@ -1,0 +1,3 @@
+# [WebDev с нуля. Канал Алекса Лущенко](https://www.youtube.com/@itgid/playlists)
+## [Уроки Java Script и jQuery](https://www.youtube.com/playlist?list=PLM7wFzahDYnHVJJX2nMYnw2yD1Rnqd-lB)
+### [Canvas. Circle Loader](https://www.youtube.com/watch?v=JFdguwXoeuw&amp;list=PLM7wFzahDYnHVJJX2nMYnw2yD1Rnqd-lB&amp;index=6&amp;pp=iAQB)

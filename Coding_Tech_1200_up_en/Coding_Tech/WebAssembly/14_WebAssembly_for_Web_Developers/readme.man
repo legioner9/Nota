@@ -1,0 +1,3 @@
+# [Coding Tech](https://www.youtube.com/@CodingTech/playlists)
+## [WebAssembly](https://www.youtube.com/playlist?list=PLFjq8z-aGyQ78CQu1G3C5CT9ieiNpsnbJ)
+### [WebAssembly for Web Developers](https://www.youtube.com/watch?v=qjwWF6K-7uE&amp;list=PLFjq8z-aGyQ78CQu1G3C5CT9ieiNpsnbJ&amp;index=14&amp;pp=iAQB)

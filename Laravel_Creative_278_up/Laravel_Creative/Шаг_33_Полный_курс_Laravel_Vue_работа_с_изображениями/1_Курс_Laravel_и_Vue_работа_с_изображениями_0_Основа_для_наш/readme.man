@@ -1,0 +1,3 @@
+# [Laravel Creative](https://www.youtube.com/@laravelcreative/playlists)
+## [Шаг 3.3. Полный курс Laravel Vue работа с изображениями](https://www.youtube.com/playlist?list=PLd2_Os8Cj3t-Dy5nO8CnPEvH_ERwZzDSk)
+### [Курс Laravel и Vue работа с изображениями 0. Основа для нашего приложения, миграции, библиотеки](https://www.youtube.com/watch?v=QVf3p5KckcY&amp;list=PLd2_Os8Cj3t-Dy5nO8CnPEvH_ERwZzDSk&amp;index=1&amp;pp=iAQB)

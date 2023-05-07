@@ -1,0 +1,3 @@
+# [web3.online](https://www.youtube.com/@web3online/playlists)
+## [Rust Lang Уроки](https://www.youtube.com/playlist?list=PLnalMG3z2RzF39Hg-PG-x_rH8Yr2ztYbV)
+### [Обобщения для методов и функций. Generics. Язык Rust](https://www.youtube.com/watch?v=mznsjwafvec&amp;list=PLnalMG3z2RzF39Hg-PG-x_rH8Yr2ztYbV&amp;index=22&amp;pp=iAQB)

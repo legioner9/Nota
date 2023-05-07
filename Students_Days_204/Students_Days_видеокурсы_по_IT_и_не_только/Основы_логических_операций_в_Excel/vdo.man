@@ -1,0 +1,2 @@
+### [Операции И, ИЛИ,  ЕСЛИ в Excel](https://www.youtube.com/watch?v=4Jrr5WQREE8&amp;list=PL7CmqnO_QydgnjyaAsXOF33gibX3MJJhs&amp;index=1&amp;pp=iAQB)
+### [Шаг 2 Реализуем разветвленные вычислительные процессы средствами Excel](https://www.youtube.com/watch?v=F6jY4Z_5EyM&amp;list=PL7CmqnO_QydgnjyaAsXOF33gibX3MJJhs&amp;index=2&amp;pp=iAQB)

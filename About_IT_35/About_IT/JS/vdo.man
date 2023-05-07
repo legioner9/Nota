@@ -1,0 +1,5 @@
+### [Как не развалить проект плохими функциями? {Best practice}](https://www.youtube.com/watch?v=9dSWjBSPk7U&amp;list=PLM43Ga_gVp8uZrvv-3QgTtwWVCstl2E7X&amp;index=1&amp;pp=iAQB)
+### [5 советов по улучшению кода на Javascript! {Best practice}](https://www.youtube.com/watch?v=OhWPZvXmFVM&amp;list=PLM43Ga_gVp8uZrvv-3QgTtwWVCstl2E7X&amp;index=2&amp;pp=iAQB)
+### [Как писать РЕЮЗАБЕЛЬНЫЕ UI компоненты? | ReactJS](https://www.youtube.com/watch?v=ap7wZSCd_O4&amp;list=PLM43Ga_gVp8uZrvv-3QgTtwWVCstl2E7X&amp;index=3&amp;pp=iAQB)
+### [Как пройти собеседование на MIDDLE front end разработчика? + задачка на event loop(Promise js)](https://www.youtube.com/watch?v=KAt4U98UfPE&amp;list=PLM43Ga_gVp8uZrvv-3QgTtwWVCstl2E7X&amp;index=4&amp;pp=iAQB)
+### [КОГДА и КАК нужно писать HOC(Higher-Ordered Component) в ReactJS? | Front-End practice](https://www.youtube.com/watch?v=nDc-sKWaDfQ&amp;list=PLM43Ga_gVp8uZrvv-3QgTtwWVCstl2E7X&amp;index=5&amp;pp=iAQB)

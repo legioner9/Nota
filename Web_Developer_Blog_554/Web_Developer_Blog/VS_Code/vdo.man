@@ -1,0 +1,2 @@
+### [VS Code топ-10 плагины которые обязательно нужны. LiveServer, Html css support](https://www.youtube.com/watch?v=CMMWWt2JqtA&amp;list=PLVfMKQXDAhGWw2TB_ET-kot4emi_19OG9&amp;index=1&amp;pp=iAQB)
+### [Лучшие JavaScript плагины для VS Code](https://www.youtube.com/watch?v=R1tRDrTYoGA&amp;list=PLVfMKQXDAhGWw2TB_ET-kot4emi_19OG9&amp;index=2&amp;pp=iAQB)

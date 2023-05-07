@@ -1,0 +1,3 @@
+# [Андрей Андриевский](https://www.youtube.com/@andrievskii/playlists)
+## [Базовый курс PHP-7](https://www.youtube.com/playlist?list=PLMB6wLyKp7lWt6GpOEV1BrHiX7zJnVMDy)
+### [Глобальные и статические переменные в PHP | Базовый курс PHP-7](https://www.youtube.com/watch?v=KMJTfWeU8ps&amp;list=PLMB6wLyKp7lWt6GpOEV1BrHiX7zJnVMDy&amp;index=24&amp;pp=iAQB)

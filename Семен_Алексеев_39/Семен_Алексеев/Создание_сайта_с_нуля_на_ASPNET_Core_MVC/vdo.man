@@ -1,0 +1,7 @@
+### [Создание сайта с нуля на ASP.NET Core MVC. Часть 1.](https://www.youtube.com/watch?v=DKDCKFWNBbk&amp;list=PLUTrDHuvZc4EDn8K9czBDuaZ7bQfeQ-Am&amp;index=1&amp;pp=iAQB)
+### [Создание сайта с нуля на ASP.NET Core MVC. Часть 2.](https://www.youtube.com/watch?v=xkZL3uvlDGM&amp;list=PLUTrDHuvZc4EDn8K9czBDuaZ7bQfeQ-Am&amp;index=2&amp;pp=iAQB)
+### [Создание сайта с нуля на ASP.NET Core MVC. Часть 3.](https://www.youtube.com/watch?v=Yg4SARAl3SU&amp;list=PLUTrDHuvZc4EDn8K9czBDuaZ7bQfeQ-Am&amp;index=3&amp;pp=iAQB)
+### [Создание сайта с нуля на ASP.NET Core MVC. Часть 4.](https://www.youtube.com/watch?v=X__Yd6IOfVg&amp;list=PLUTrDHuvZc4EDn8K9czBDuaZ7bQfeQ-Am&amp;index=4&amp;pp=iAQB)
+### [Создание сайта с нуля на ASP.NET Core MVC. Часть 5.](https://www.youtube.com/watch?v=7zaKdNqGzk8&amp;list=PLUTrDHuvZc4EDn8K9czBDuaZ7bQfeQ-Am&amp;index=5&amp;pp=iAQB)
+### [Создание сайта с нуля на ASP.NET Core MVC. Часть 6.](https://www.youtube.com/watch?v=aoPWQzcBDU4&amp;list=PLUTrDHuvZc4EDn8K9czBDuaZ7bQfeQ-Am&amp;index=6&amp;pp=iAQB)
+### [Создание сайта с нуля на ASP.NET Core MVC. Часть 7.](https://www.youtube.com/watch?v=4-AbNM7O6ZQ&amp;list=PLUTrDHuvZc4EDn8K9czBDuaZ7bQfeQ-Am&amp;index=7&amp;pp=iAQB)

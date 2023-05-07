@@ -1,0 +1,3 @@
+# [C++ User Group](https://www.youtube.com/@CUserGroupRussia/playlists)
+## [C++ Siberia 2015](https://www.youtube.com/playlist?list=PLZN9ZGiWZoZooPvBI2c42jSCSPOa8tHcn)
+### [Дмитрий Кашицын, Дракон в мешке: от LLVM к C++ и проблемам неопределенного поведения](https://www.youtube.com/watch?v=dM2BfeppYcM&amp;list=PLZN9ZGiWZoZooPvBI2c42jSCSPOa8tHcn&amp;index=7&amp;pp=iAQB)

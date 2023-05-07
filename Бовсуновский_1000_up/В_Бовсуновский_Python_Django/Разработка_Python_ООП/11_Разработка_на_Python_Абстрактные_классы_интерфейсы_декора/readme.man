@@ -1,0 +1,3 @@
+# [В. Бовсуновский Python Django](https://www.youtube.com/@bov/playlists?view=1)
+## [Разработка Python ООП.](https://www.youtube.com/playlist?list=PLuZJ9n46uMzVDEIOH5PV9LM8tUqnwHf3H)
+### [Разработка на Python. Абстрактные классы, интерфейсы, декораторы и миксины.](https://www.youtube.com/watch?v=MQE3GRvrggM&amp;list=PLuZJ9n46uMzVDEIOH5PV9LM8tUqnwHf3H&amp;index=11&amp;pp=iAQB)

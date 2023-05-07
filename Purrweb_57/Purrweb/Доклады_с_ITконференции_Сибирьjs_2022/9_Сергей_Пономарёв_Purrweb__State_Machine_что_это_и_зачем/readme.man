@@ -1,0 +1,3 @@
+# [Purrweb](https://www.youtube.com/@purrweb/playlists)
+## [Доклады с IT-конференции Сибирь.js 2022](https://www.youtube.com/playlist?list=PLOSxDSAH6EKppEwM0T8I77OGvNJPiBjkZ)
+### [Сергей Пономарёв (Purrweb) — State Machine: что это и зачем?](https://www.youtube.com/watch?v=MUDeWRhTPb4&amp;list=PLOSxDSAH6EKppEwM0T8I77OGvNJPiBjkZ&amp;index=9&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [Coding Tech](https://www.youtube.com/@CodingTech/playlists)
+## [WebAssembly](https://www.youtube.com/playlist?list=PLFjq8z-aGyQ78CQu1G3C5CT9ieiNpsnbJ)
+### [BLAZOR: Modern Web Development with  .NET and WebAssembly](https://www.youtube.com/watch?v=L5wxqcPD9mI&amp;list=PLFjq8z-aGyQ78CQu1G3C5CT9ieiNpsnbJ&amp;index=6&amp;pp=iAQB)

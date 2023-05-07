@@ -1,0 +1,3 @@
+# [Coding Tech](https://www.youtube.com/@CodingTech/playlists)
+## [Mobile Development](https://www.youtube.com/playlist?list=PLFjq8z-aGyQ6i8uEtQM7FkHOiNVgvN8X9)
+### [The State of React Native Tooling (React Native CLI - The Ultimate Guide)](https://www.youtube.com/watch?v=LQezM8CAjCA&amp;list=PLFjq8z-aGyQ6i8uEtQM7FkHOiNVgvN8X9&amp;index=9&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [C++ User Group](https://www.youtube.com/@CUserGroupRussia/playlists)
+## [C++ Russia 2019: лучшее](https://www.youtube.com/playlist?list=PLZN9ZGiWZoZo3hYXXOn6NZAi3YzUETzy2)
+### [Андрей Карпов — На что нужно обратить внимание при обзоре кода разрабатываемой библиотеки](https://www.youtube.com/watch?v=_1Nuae9EvhY&amp;list=PLZN9ZGiWZoZo3hYXXOn6NZAi3YzUETzy2&amp;index=2&amp;pp=iAQB)

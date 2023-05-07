@@ -1,0 +1,8 @@
+### [Learning D3 Part 1 -  Basic Selections](https://www.youtube.com/watch?v=fFY3E0PmIxM&amp;list=PLillGF-RfqbY8Vy_G5WxXwhZx4eXI6Oea&amp;index=1&amp;pp=iAQB)
+### [Learning D3 Part 2 - Simple Data Binding](https://www.youtube.com/watch?v=FxGmi7z2rZc&amp;list=PLillGF-RfqbY8Vy_G5WxXwhZx4eXI6Oea&amp;index=2&amp;pp=iAQB)
+### [Learning D3 Part 3 - Basic Static Chart](https://www.youtube.com/watch?v=udVieI4c0iY&amp;list=PLillGF-RfqbY8Vy_G5WxXwhZx4eXI6Oea&amp;index=3&amp;pp=iAQB)
+### [Learning D3 Part 4 - Drawing Basic Shapes with SVG](https://www.youtube.com/watch?v=16BfEjrNzr4&amp;list=PLillGF-RfqbY8Vy_G5WxXwhZx4eXI6Oea&amp;index=4&amp;pp=iAQB)
+### [Learning D3 Part 5 - Simple Bar Chart Using SVG](https://www.youtube.com/watch?v=XbmG4Aycj5A&amp;list=PLillGF-RfqbY8Vy_G5WxXwhZx4eXI6Oea&amp;index=5&amp;pp=iAQB)
+### [Learning D3 Part 6 - Using Scales](https://www.youtube.com/watch?v=Xf2BHxPc5wM&amp;list=PLillGF-RfqbY8Vy_G5WxXwhZx4eXI6Oea&amp;index=6&amp;pp=iAQB)
+### [Learning D3 Part 7 - Transitions](https://www.youtube.com/watch?v=5pNz_Dyf9_c&amp;list=PLillGF-RfqbY8Vy_G5WxXwhZx4eXI6Oea&amp;index=7&amp;pp=iAQB)
+### [Learning D3 Part 8 - Axes and Guides](https://www.youtube.com/watch?v=11QMX7vA22Y&amp;list=PLillGF-RfqbY8Vy_G5WxXwhZx4eXI6Oea&amp;index=8&amp;pp=iAQB)

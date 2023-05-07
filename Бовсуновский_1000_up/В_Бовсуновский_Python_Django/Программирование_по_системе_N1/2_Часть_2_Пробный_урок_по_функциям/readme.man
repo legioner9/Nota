@@ -1,0 +1,3 @@
+# [В. Бовсуновский Python Django](https://www.youtube.com/@bov/playlists?view=1)
+## [Программирование по системе N1](https://www.youtube.com/playlist?list=PLuZJ9n46uMzW1oBDysdzhnRVaAF4xdjJd)
+### [Часть 2. Пробный урок по функциям.](https://www.youtube.com/watch?v=hSWwE9qGXK4&amp;list=PLuZJ9n46uMzW1oBDysdzhnRVaAF4xdjJd&amp;index=2&amp;pp=iAQB)

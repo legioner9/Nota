@@ -1,0 +1,3 @@
+# [WebDev с нуля. Канал Алекса Лущенко](https://www.youtube.com/@itgid/playlists)
+## [Живая верстка](https://www.youtube.com/playlist?list=PLM7wFzahDYnFhgE-jYkO6ZLaEXXxdqs5g)
+### [Переключаем части статьи на мобильном. JavaScript](https://www.youtube.com/watch?v=GR13-Kptw9s&amp;list=PLM7wFzahDYnFhgE-jYkO6ZLaEXXxdqs5g&amp;index=30&amp;pp=iAQB)

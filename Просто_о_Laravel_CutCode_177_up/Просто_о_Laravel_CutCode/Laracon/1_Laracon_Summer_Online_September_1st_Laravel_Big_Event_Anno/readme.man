@@ -1,0 +1,3 @@
+# [Просто о Laravel. CutCode](https://www.youtube.com/@CutCodeRu/playlists)
+## [Laracon](https://www.youtube.com/playlist?list=PLTucyHptHtTn29Y0kRSkIvwoSeKoYPjVU)
+### [Laracon Summer Online September 1st. Laravel Big Event Announcement](https://www.youtube.com/watch?v=1fBpyHk3KA0&amp;list=PLTucyHptHtTn29Y0kRSkIvwoSeKoYPjVU&amp;index=1&amp;pp=iAQB)

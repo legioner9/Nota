@@ -1,0 +1,3 @@
+# [Студия Флаг](https://www.youtube.com/@FlagStudio/playlists)
+## [LARAVEL MEETUP 2022 EKATERINBURG](https://www.youtube.com/playlist?list=PLVdcV6tHcaCE8jLoUUHRnxgPrKdFEua0l)
+### [Laravel Octane для ускорения работы приложения // Сергей Сахаров](https://www.youtube.com/watch?v=RRj6C8Y61AA&amp;list=PLVdcV6tHcaCE8jLoUUHRnxgPrKdFEua0l&amp;index=3&amp;pp=iAQB)

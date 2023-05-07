@@ -1,0 +1,3 @@
+# [webDev](https://www.youtube.com/@YauhenKavalchuk/playlists?view=1)
+## [TypeScript + React](https://www.youtube.com/playlist?list=PLNkWIWHIRwMFQBDhZ6HfwO9NL09X3N3Gq)
+### [TypeScript + React #12 Типизация Редакса (Typing of Redux. Part II)](https://www.youtube.com/watch?v=8wlMmp2M7MI&amp;list=PLNkWIWHIRwMFQBDhZ6HfwO9NL09X3N3Gq&amp;index=13)

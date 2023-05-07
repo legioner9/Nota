@@ -1,0 +1,3 @@
+# [Просто о Laravel. CutCode](https://www.youtube.com/@CutCodeRu/playlists)
+## [PHPstorm](https://www.youtube.com/playlist?list=PLTucyHptHtTmqI_JT2-w43sUMP7854RJe)
+### [Настройки phpStorm для удобного использования. Как работать с key map, file/live templates](https://www.youtube.com/watch?v=CL8ZXZa0gyo&amp;list=PLTucyHptHtTmqI_JT2-w43sUMP7854RJe&amp;index=1&amp;pp=iAQB)

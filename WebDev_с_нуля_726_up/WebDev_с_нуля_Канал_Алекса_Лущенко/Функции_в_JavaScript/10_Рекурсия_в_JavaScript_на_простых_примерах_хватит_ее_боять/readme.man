@@ -1,0 +1,3 @@
+# [WebDev с нуля. Канал Алекса Лущенко](https://www.youtube.com/@itgid/playlists)
+## [Функции в JavaScript](https://www.youtube.com/playlist?list=PLM7wFzahDYnF2VdVjew48HKA7E_pnItDi)
+### [Рекурсия в JavaScript на простых примерах, хватит ее бояться!](https://www.youtube.com/watch?v=bh5TKVync9M&amp;list=PLM7wFzahDYnF2VdVjew48HKA7E_pnItDi&amp;index=10&amp;pp=iAQB)

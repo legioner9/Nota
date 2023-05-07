@@ -1,0 +1,3 @@
+# [Dmitry Afanasyev](https://www.youtube.com/@DmitryAfanasyev/playlists)
+## [SOLID в PHP](https://www.youtube.com/playlist?list=PLoonZ8wII66jOXzIvQCtKosCstjGPL0lg)
+### [#5 SOLID в PHP - Принцип инверсии зависимостей](https://www.youtube.com/watch?v=a_SuioPabbg&amp;list=PLoonZ8wII66jOXzIvQCtKosCstjGPL0lg&amp;index=6&amp;pp=iAQB)

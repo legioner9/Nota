@@ -1,0 +1,3 @@
+# [Андрей Иванов | Python](https://www.youtube.com/@PythononPapyrusRU/playlists)
+## [Паттерны проектирования](https://www.youtube.com/playlist?list=PLF4MWzDJPFSYeUtNQGDsS-XZDriJjFRL8)
+### [ПАТТЕРН ПРОЕКТИРОВАНИЯ АДАПТЕР | Python 3, Питон 3](https://www.youtube.com/watch?v=leMwJT1zR0Q&amp;list=PLF4MWzDJPFSYeUtNQGDsS-XZDriJjFRL8&amp;index=1&amp;pp=iAQB)

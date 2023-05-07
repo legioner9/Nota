@@ -1,0 +1,3 @@
+# [WebDev с нуля. Канал Алекса Лущенко](https://www.youtube.com/@itgid/playlists)
+## [MySQL](https://www.youtube.com/playlist?list=PLM7wFzahDYnFRgw8G9UYOEdrS6SNSPhNW)
+### [MySQL. 14. MySQL Between](https://www.youtube.com/watch?v=wYIErFhin24&amp;list=PLM7wFzahDYnFRgw8G9UYOEdrS6SNSPhNW&amp;index=14&amp;pp=iAQB)

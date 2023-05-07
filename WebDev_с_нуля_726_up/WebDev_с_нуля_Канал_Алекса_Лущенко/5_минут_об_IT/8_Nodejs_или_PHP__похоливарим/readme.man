@@ -1,0 +1,3 @@
+# [WebDev с нуля. Канал Алекса Лущенко](https://www.youtube.com/@itgid/playlists)
+## [5 минут об IT](https://www.youtube.com/playlist?list=PLM7wFzahDYnFJ1m_FmzYWRMMfqcLnRqft)
+### [Node.js или PHP - похоливарим](https://www.youtube.com/watch?v=7rxWS8gNzB4&amp;list=PLM7wFzahDYnFJ1m_FmzYWRMMfqcLnRqft&amp;index=8&amp;pp=iAQB)

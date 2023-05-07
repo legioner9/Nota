@@ -1,0 +1,3 @@
+# [Максим В](https://www.youtube.com/@cpp/playlists)
+## [Основы программирования для начинающих. Уроки по С++ с нуля.](https://www.youtube.com/playlist?list=PLlxYwLnXeoE0qsuXwsUi3zSU6FKOS8YCB)
+### [Оператор присваивания C++. Программирование на С++ для начинающих.](https://www.youtube.com/watch?v=I1bHT2msVQc&amp;list=PLlxYwLnXeoE0qsuXwsUi3zSU6FKOS8YCB&amp;index=20&amp;pp=iAQB)

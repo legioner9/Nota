@@ -1,0 +1,3 @@
+# [В. Бовсуновский Python Django](https://www.youtube.com/@bov/playlists?view=1)
+## [Django 4 пишем сайт с нуля.](https://www.youtube.com/playlist?list=PLuZJ9n46uMzXVj9JEjULImuBKRVKKS9To)
+### [60. Может ли у меня не получится стать программистом Python? Нет, Не может.](https://www.youtube.com/watch?v=nUzaE4HSEDE&amp;list=PLuZJ9n46uMzXVj9JEjULImuBKRVKKS9To&amp;index=61&amp;pp=iAQB)

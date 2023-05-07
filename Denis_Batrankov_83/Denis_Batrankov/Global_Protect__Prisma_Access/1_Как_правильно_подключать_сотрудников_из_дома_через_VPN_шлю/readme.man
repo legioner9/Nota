@@ -1,0 +1,3 @@
+# [Denis Batrankov](https://www.youtube.com/@BDVSecurity/playlists)
+## [Global Protect / Prisma Access](https://www.youtube.com/playlist?list=PLRAbJA74qU4CcqmeOfXOIhloDKJcOblxL)
+### [Как правильно подключать сотрудников из дома через VPN шлюз на Palo Alto Networks NGFW](https://www.youtube.com/watch?v=MqrNZ1J-7oE&amp;list=PLRAbJA74qU4CcqmeOfXOIhloDKJcOblxL&amp;index=1&amp;pp=iAQB)

@@ -1,0 +1,4 @@
+### [Мастер-класс по Neural Excel](https://www.youtube.com/watch?v=YuB3qEnVHf4&amp;list=PLkHuy0rsti_iCFLZG_cm8lFqJ0k2lFD6K&amp;index=1&amp;pp=iAQB)
+### [Visual Studio Code для работы с C#. Часть 2](https://www.youtube.com/watch?v=cpdH0UaOdxo&amp;list=PLkHuy0rsti_iCFLZG_cm8lFqJ0k2lFD6K&amp;index=2&amp;pp=iAQB)
+### [Установка Unity + VS Code](https://www.youtube.com/watch?v=OtnTiHU5Ha4&amp;list=PLkHuy0rsti_iCFLZG_cm8lFqJ0k2lFD6K&amp;index=3&amp;pp=iAQB)
+### [Visual Studio Code для работы с C#](https://www.youtube.com/watch?v=H6P5qtGKXGI&amp;list=PLkHuy0rsti_iCFLZG_cm8lFqJ0k2lFD6K&amp;index=4&amp;pp=iAQB)

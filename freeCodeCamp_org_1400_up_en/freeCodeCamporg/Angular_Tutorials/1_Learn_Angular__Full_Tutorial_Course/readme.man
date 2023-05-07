@@ -1,0 +1,3 @@
+# [freeCodeCamp.org](https://www.youtube.com/@freecodecamp/playlists)
+## [Angular Tutorials](https://www.youtube.com/playlist?list=PLWKjhJtqVAblNvGKk6aQVPAJHxrRXxHTs)
+### [Learn Angular - Full Tutorial Course](https://www.youtube.com/watch?v=2OHbjep_WjQ&amp;list=PLWKjhJtqVAblNvGKk6aQVPAJHxrRXxHTs&amp;index=1&amp;pp=iAQB)

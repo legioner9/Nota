@@ -1,0 +1,5 @@
+### [jQuery Crash Course [1] - Intro &amp; Selectors](https://www.youtube.com/watch?v=3nrLc_JOF7k&amp;list=PLillGF-RfqbYJVXBgZ_nA7FTAAEpp_IAc&amp;index=1&amp;pp=iAQB)
+### [jQuery Crash Course [2] - Events](https://www.youtube.com/watch?v=VlWsJHsVb-E&amp;list=PLillGF-RfqbYJVXBgZ_nA7FTAAEpp_IAc&amp;index=2&amp;pp=iAQB)
+### [jQuery Crash Course [3] - DOM Manipulation](https://www.youtube.com/watch?v=q4FWSdX55ls&amp;list=PLillGF-RfqbYJVXBgZ_nA7FTAAEpp_IAc&amp;index=3&amp;pp=iAQB)
+### [jQuery Crash Course [4] - Effects and Animation](https://www.youtube.com/watch?v=kVc_XfZY0vI&amp;list=PLillGF-RfqbYJVXBgZ_nA7FTAAEpp_IAc&amp;index=4&amp;pp=iAQB)
+### [jQuery Crash Course [5] - Ajax](https://www.youtube.com/watch?v=eR3rcalj06Q&amp;list=PLillGF-RfqbYJVXBgZ_nA7FTAAEpp_IAc&amp;index=5&amp;pp=iAQB)

@@ -1,0 +1,6 @@
+### [Верстка сайта React JS Material-UI - Установка, адаптивное меню](https://www.youtube.com/watch?v=GMfAgHcPSqc&amp;list=PLVfMKQXDAhGU3NzGuD_l2f6zaJC8HeOZa&amp;index=1&amp;pp=iAQB)
+### [Верстка сайта React JS Material-UI - Grid система проект](https://www.youtube.com/watch?v=JGpUbhVLRwg&amp;list=PLVfMKQXDAhGU3NzGuD_l2f6zaJC8HeOZa&amp;index=2&amp;pp=iAQB)
+### [Верстка сайта React JS Material-UI - Практика адаптивности](https://www.youtube.com/watch?v=gQoTcJ-WZMc&amp;list=PLVfMKQXDAhGU3NzGuD_l2f6zaJC8HeOZa&amp;index=3&amp;pp=iAQB)
+### [Верстка сайта React JS Material-UI - Функции для сайта, футер](https://www.youtube.com/watch?v=CWRcJaPXmYE&amp;list=PLVfMKQXDAhGU3NzGuD_l2f6zaJC8HeOZa&amp;index=4&amp;pp=iAQB)
+### [Верстка сайта React JS Material-UI - Форма регистрации, модальное окно](https://www.youtube.com/watch?v=D_lM8HezoCY&amp;list=PLVfMKQXDAhGU3NzGuD_l2f6zaJC8HeOZa&amp;index=5&amp;pp=iAQB)
+### [Уроки React Js на практике верстка сайта для любого начинающего](https://www.youtube.com/watch?v=RVSR2p6vxi0&amp;list=PLVfMKQXDAhGU3NzGuD_l2f6zaJC8HeOZa&amp;index=6&amp;pp=iAQB)

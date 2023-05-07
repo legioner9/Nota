@@ -1,0 +1,3 @@
+# [Семен Алексеев](https://www.youtube.com/@alekseev74/playlists)
+## [.NET / Общее](https://www.youtube.com/playlist?list=PLUTrDHuvZc4G0ujK_zhIgXHhCYQQ0XR0F)
+### [Логирование. NLog Platform. Зачем нужны логи в приложении](https://www.youtube.com/watch?v=erwS9-iz7Cc&amp;list=PLUTrDHuvZc4G0ujK_zhIgXHhCYQQ0XR0F&amp;index=1&amp;pp=iAQB)

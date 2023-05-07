@@ -1,0 +1,3 @@
+# [Traversy Media](https://www.youtube.com/@TraversyMedia/playlists)
+## [Node.js Videos](https://www.youtube.com/playlist?list=PLillGF-RfqbZ2ybcoD2OaabW2P7Ws8CWu)
+### [HTTP Crash Course &amp; Exploration](https://www.youtube.com/watch?v=iYM2zFP3Zn0&amp;list=PLillGF-RfqbZ2ybcoD2OaabW2P7Ws8CWu&amp;index=24&amp;pp=iAQB)

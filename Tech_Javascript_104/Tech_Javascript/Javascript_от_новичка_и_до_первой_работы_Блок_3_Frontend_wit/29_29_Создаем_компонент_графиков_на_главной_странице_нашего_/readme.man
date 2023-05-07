@@ -1,0 +1,3 @@
+# [Tech Javascript](https://www.youtube.com/@techjavascript/playlists)
+## [Javascript от новичка и до первой работы. Блок 3. Frontend with React js](https://www.youtube.com/playlist?list=PLco1IpJXladYKtXL9ppvHEMd8fQsTdCYm)
+### [29. Создаем компонент графиков на главной странице нашего проекта нашего проекта на React js](https://www.youtube.com/watch?v=LWHyufQQFcc&amp;list=PLco1IpJXladYKtXL9ppvHEMd8fQsTdCYm&amp;index=29&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [Андрей Иванов | Python](https://www.youtube.com/@PythononPapyrusRU/playlists)
+## [Рефакторинг](https://www.youtube.com/playlist?list=PLF4MWzDJPFSZDrGVymctlWMmzKXPOJN8N)
+### [JAVA БЫЛА ПРАВА! DEPENDENCY INJECTION В ПИТОНЕ](https://www.youtube.com/watch?v=cXfu2Lgtwgo&amp;list=PLF4MWzDJPFSZDrGVymctlWMmzKXPOJN8N&amp;index=13&amp;pp=iAQB)

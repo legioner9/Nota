@@ -1,0 +1,3 @@
+# [C++ User Group](https://www.youtube.com/@CUserGroupRussia/playlists)
+## [C++ Siberia 2016](https://www.youtube.com/playlist?list=PLZN9ZGiWZoZoM3Dp0yg36SYcDMH2-h8pU)
+### [Лев Казаркин | Удивительные приключения регистров SSE или в поисках одного бага](https://www.youtube.com/watch?v=FctAtkj3yrs&amp;list=PLZN9ZGiWZoZoM3Dp0yg36SYcDMH2-h8pU&amp;index=9&amp;pp=iAQB)

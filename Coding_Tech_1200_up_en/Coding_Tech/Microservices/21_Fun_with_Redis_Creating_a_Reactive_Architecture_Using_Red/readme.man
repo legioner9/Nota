@@ -1,0 +1,3 @@
+# [Coding Tech](https://www.youtube.com/@CodingTech/playlists)
+## [Microservices](https://www.youtube.com/playlist?list=PLFjq8z-aGyQ5CbSulPntFAI-fVOPAs7OI)
+### [Fun with Redis: Creating a Reactive Architecture Using Redis and Microservices](https://www.youtube.com/watch?v=YEOoJZ13JtI&amp;list=PLFjq8z-aGyQ5CbSulPntFAI-fVOPAs7OI&amp;index=21&amp;pp=iAQB)

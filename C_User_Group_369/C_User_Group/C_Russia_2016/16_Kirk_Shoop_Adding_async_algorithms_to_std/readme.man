@@ -1,0 +1,3 @@
+# [C++ User Group](https://www.youtube.com/@CUserGroupRussia/playlists)
+## [C++ Russia 2016](https://www.youtube.com/playlist?list=PLZN9ZGiWZoZp2olvWw-OysBHqIv2ufL3d)
+### [Kirk Shoop, Adding async algorithms to std](https://www.youtube.com/watch?v=Re6DS5Ff0uE&amp;list=PLZN9ZGiWZoZp2olvWw-OysBHqIv2ufL3d&amp;index=16&amp;pp=iAQB)

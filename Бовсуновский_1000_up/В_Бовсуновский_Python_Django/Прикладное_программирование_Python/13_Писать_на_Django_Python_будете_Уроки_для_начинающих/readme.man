@@ -1,0 +1,3 @@
+# [В. Бовсуновский Python Django](https://www.youtube.com/@bov/playlists?view=1)
+## [Прикладное программирование Python.](https://www.youtube.com/playlist?list=PLuZJ9n46uMzX---cfRMYZgEDePohvo8dp)
+### [Писать на Django (Python) будете. Уроки для начинающих.](https://www.youtube.com/watch?v=TDAO29fEUnA&amp;list=PLuZJ9n46uMzX---cfRMYZgEDePohvo8dp&amp;index=13&amp;pp=iAQB)

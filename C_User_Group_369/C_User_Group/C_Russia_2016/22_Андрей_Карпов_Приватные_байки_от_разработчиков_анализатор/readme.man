@@ -1,0 +1,3 @@
+# [C++ User Group](https://www.youtube.com/@CUserGroupRussia/playlists)
+## [C++ Russia 2016](https://www.youtube.com/playlist?list=PLZN9ZGiWZoZp2olvWw-OysBHqIv2ufL3d)
+### [Андрей Карпов, Приватные байки от разработчиков анализатора кода](https://www.youtube.com/watch?v=dDm8odp8PnA&amp;list=PLZN9ZGiWZoZp2olvWw-OysBHqIv2ufL3d&amp;index=22&amp;pp=iAQB)

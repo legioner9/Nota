@@ -1,0 +1,3 @@
+# [WebDev с нуля. Канал Алекса Лущенко](https://www.youtube.com/@itgid/playlists)
+## [PHP Stage 2.  PHP для начинающих](https://www.youtube.com/playlist?list=PLM7wFzahDYnHdnEp8Nn_jD_jxYaWLnsyG)
+### [Функции в PHP: параметры, return (6 урок)](https://www.youtube.com/watch?v=uLY5B-K1zoU&amp;list=PLM7wFzahDYnHdnEp8Nn_jD_jxYaWLnsyG&amp;index=5&amp;pp=iAQB)

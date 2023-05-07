@@ -1,0 +1,3 @@
+# [Максим В](https://www.youtube.com/@cpp/playlists)
+## [Уроки по С++](https://www.youtube.com/playlist?list=PLlxYwLnXeoE2_edxAb1Le1VYFf2Eq-FOc)
+### [Программирование на С++. Урок 42. Столкновение с блоком](https://www.youtube.com/watch?v=VPHtg0m7fLs&amp;list=PLlxYwLnXeoE2_edxAb1Le1VYFf2Eq-FOc&amp;index=42&amp;pp=iAQB)

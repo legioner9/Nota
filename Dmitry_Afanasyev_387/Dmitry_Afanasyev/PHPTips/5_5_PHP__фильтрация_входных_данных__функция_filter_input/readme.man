@@ -1,0 +1,3 @@
+# [Dmitry Afanasyev](https://www.youtube.com/@DmitryAfanasyev/playlists)
+## [PHP-Tips](https://www.youtube.com/playlist?list=PLoonZ8wII66jVNtDG-2b1KipT1cpSK57O)
+### [#5 [PHP - фильтрация входных данных - функция filter_input()]](https://www.youtube.com/watch?v=WtiWIzYgRrA&amp;list=PLoonZ8wII66jVNtDG-2b1KipT1cpSK57O&amp;index=5&amp;pp=iAQB)

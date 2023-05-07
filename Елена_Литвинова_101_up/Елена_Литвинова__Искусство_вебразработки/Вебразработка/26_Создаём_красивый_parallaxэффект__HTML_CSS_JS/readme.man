@@ -1,0 +1,3 @@
+# [Елена Литвинова — Искусство веб-разработки](https://www.youtube.com/@webelart/playlists)
+## [Веб-разработка](https://www.youtube.com/playlist?list=PLJpSkcgOK72A4dTtU52OOH7MyskB8o9sz)
+### [Создаём красивый parallax-эффект | HTML, CSS, JS](https://www.youtube.com/watch?v=nijjyvifgKU&amp;list=PLJpSkcgOK72A4dTtU52OOH7MyskB8o9sz&amp;index=26&amp;pp=iAQB)

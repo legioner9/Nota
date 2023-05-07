@@ -1,0 +1,3 @@
+# [Василий Муравьев](https://www.youtube.com/@stackdev/playlists)
+## [Javascript Практика](https://www.youtube.com/playlist?list=PLtL3lrXPn2rX3eDIQ4QzLEr7NZjtocwGQ)
+### [JavaScript - отмечаем список чекбоксов, удерживая клавишу Shift.](https://www.youtube.com/watch?v=-CsEduHlo_E&amp;list=PLtL3lrXPn2rX3eDIQ4QzLEr7NZjtocwGQ&amp;index=4&amp;pp=iAQB)

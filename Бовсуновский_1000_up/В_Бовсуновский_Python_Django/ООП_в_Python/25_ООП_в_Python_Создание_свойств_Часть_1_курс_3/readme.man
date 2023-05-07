@@ -1,0 +1,3 @@
+# [В. Бовсуновский Python Django](https://www.youtube.com/@bov/playlists?view=1)
+## [ООП в Python.](https://www.youtube.com/playlist?list=PLuZJ9n46uMzX3s7iUotQE0MH6Tii5BpUT)
+### [ООП в Python. Создание свойств. Часть 1, курс 3.](https://www.youtube.com/watch?v=pxZ9wY6dFyY&amp;list=PLuZJ9n46uMzX3s7iUotQE0MH6Tii5BpUT&amp;index=25&amp;pp=iAQB)

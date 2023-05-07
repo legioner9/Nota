@@ -1,0 +1,3 @@
+# [Web Developer Blog](https://www.youtube.com/@SuprunAlexey/playlists)
+## [Уроки Python](https://www.youtube.com/playlist?list=PLVfMKQXDAhGXkktAHT_z_vz-KGyy1RLX9)
+### [Уроки Python - Множества (Set, Frozenset)](https://www.youtube.com/watch?v=vve6Am_xSYk&amp;list=PLVfMKQXDAhGXkktAHT_z_vz-KGyy1RLX9&amp;index=9&amp;pp=iAQB)

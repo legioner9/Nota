@@ -1,0 +1,3 @@
+# [Просто о Laravel. CutCode](https://www.youtube.com/@CutCodeRu/playlists)
+## [Обзор пакетов для Laravel](https://www.youtube.com/playlist?list=PLTucyHptHtTks-0wOBTrq419wv-HlvGul)
+### [Обзор пакета Fortify для Laravel. Быстрая настройка аутентификации для ваших проектов](https://www.youtube.com/watch?v=CoTPZeyqBQM&amp;list=PLTucyHptHtTks-0wOBTrq419wv-HlvGul&amp;index=2&amp;pp=iAQB)

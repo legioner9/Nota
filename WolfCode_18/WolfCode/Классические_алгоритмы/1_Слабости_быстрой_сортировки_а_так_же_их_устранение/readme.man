@@ -1,0 +1,3 @@
+# [WolfCode](https://www.youtube.com/@wolf_code/playlists)
+## [Классические алгоритмы](https://www.youtube.com/playlist?list=PLLVOmKOaszbLljoUO659KFBRD1wqW10uL)
+### [Слабости быстрой сортировки, а так же их устранение](https://www.youtube.com/watch?v=RTDrG4QAnAc&amp;list=PLLVOmKOaszbLljoUO659KFBRD1wqW10uL&amp;index=1&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [freeCodeCamp.org](https://www.youtube.com/@freecodecamp/playlists)
+## [Game Programming Tutorials](https://www.youtube.com/playlist?list=PLWKjhJtqVAbmqFs83T4W-FZQ9kK983tZC)
+### [How to make a 3d fight game in Unity - full tutorial](https://www.youtube.com/watch?v=1wn5Ur1_vKg&amp;list=PLWKjhJtqVAbmqFs83T4W-FZQ9kK983tZC&amp;index=8&amp;pp=iAQB)

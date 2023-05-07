@@ -1,0 +1,3 @@
+# [Веб-разработка - DevMagazine](https://www.youtube.com/@DevMagazineChannel/playlists)
+## [📔 Sass курс](https://www.youtube.com/playlist?list=PLmfIBo6rTVR7YkcR_26vgH37l3GS2pYBa)
+### [Встроенные модули Sass](https://www.youtube.com/watch?v=YM9XbHUIRLY&amp;list=PLmfIBo6rTVR7YkcR_26vgH37l3GS2pYBa&amp;index=14&amp;pp=iAQB)

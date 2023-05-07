@@ -1,0 +1,3 @@
+# [Степан](https://www.youtube.com/@Shift63770/playlists)
+## [[PHP] Пишем простой MVC блог](https://www.youtube.com/playlist?list=PLB8wmVoWIIx6erd0Bf2_Yf-FvFi3irqB8)
+### [[PHP] Пишем простой и красивый блог. Страница с новостью. Это последняя часть. Часть #7](https://www.youtube.com/watch?v=oBYcrxg9FIo&amp;list=PLB8wmVoWIIx6erd0Bf2_Yf-FvFi3irqB8&amp;index=7&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [Coding Tech](https://www.youtube.com/@CodingTech/playlists)
+## [Rust](https://www.youtube.com/playlist?list=PLFjq8z-aGyQ6t_LGp7wqHsHTYO-pDDx84)
+### [Allocating Less: Really Thin Rust Cloud Apps](https://www.youtube.com/watch?v=nO-BFKyWYgE&amp;list=PLFjq8z-aGyQ6t_LGp7wqHsHTYO-pDDx84&amp;index=30&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [WebDev с нуля. Канал Алекса Лущенко](https://www.youtube.com/@itgid/playlists)
+## [GIT для Старта](https://www.youtube.com/playlist?list=PLM7wFzahDYnGyD9i2f2-uqlV2idiGvEJD)
+### [Git для старта. Сведение изменений. Merge](https://www.youtube.com/watch?v=fVu07TqThuk&amp;list=PLM7wFzahDYnGyD9i2f2-uqlV2idiGvEJD&amp;index=3&amp;pp=iAQB)

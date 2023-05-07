@@ -1,0 +1,8 @@
+### [Новый платный курс по созданию социальной сети SPA Laravel 9, с использованием Vue3, Vite, Tailwind](https://www.youtube.com/watch?v=Oo5qAWWcCVk&amp;list=PLd2_Os8Cj3t9xFti7HJm8-hAM0XAjzQim&amp;index=1&amp;pp=iAQB)
+### [Новый платный курс Excel импорт SPA Laravel 9, с использованием Inertia, Vue3, Vite, Tailwind](https://www.youtube.com/watch?v=wTg1PK8-wWk&amp;list=PLd2_Os8Cj3t9xFti7HJm8-hAM0XAjzQim&amp;index=2&amp;pp=iAQB)
+### [Web socket чат на Laravel 10. Новый платный курс. Презентация.](https://www.youtube.com/watch?v=VzvWozZHdhY&amp;list=PLd2_Os8Cj3t9xFti7HJm8-hAM0XAjzQim&amp;index=3&amp;pp=iAQB)
+### [Web socket Форум на Laravel 10. Новый платный курс. Презентация.](https://www.youtube.com/watch?v=eyaTN1zLsTM&amp;list=PLd2_Os8Cj3t9xFti7HJm8-hAM0XAjzQim&amp;index=4&amp;pp=iAQB)
+### [Новый платный курс по созданию социальной сети SPA Laravel 9, с использованием Vue3, Vite, Tailwind](https://www.youtube.com/watch?v=Oo5qAWWcCVk&amp;list=PLd2_Os8Cj3t9xFti7HJm8-hAM0XAjzQim&amp;index=1&amp;pp=iAQB)
+### [Новый платный курс Excel импорт SPA Laravel 9, с использованием Inertia, Vue3, Vite, Tailwind](https://www.youtube.com/watch?v=wTg1PK8-wWk&amp;list=PLd2_Os8Cj3t9xFti7HJm8-hAM0XAjzQim&amp;index=2&amp;pp=iAQB)
+### [Web socket чат на Laravel 10. Новый платный курс. Презентация.](https://www.youtube.com/watch?v=VzvWozZHdhY&amp;list=PLd2_Os8Cj3t9xFti7HJm8-hAM0XAjzQim&amp;index=3&amp;pp=iAQB)
+### [Web socket Форум на Laravel 10. Новый платный курс. Презентация.](https://www.youtube.com/watch?v=eyaTN1zLsTM&amp;list=PLd2_Os8Cj3t9xFti7HJm8-hAM0XAjzQim&amp;index=4&amp;pp=iAQB)

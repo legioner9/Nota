@@ -1,0 +1,3 @@
+# [Timur Shemsedinov](https://www.youtube.com/@TimurShemsedinov/playlists?view=1)
+## [Асинхронное программирование с примерами на JavaScript и Node.js](https://www.youtube.com/playlist?list=PLHhi8ymDMrQZ0MpTsmi54OkjTbo0cjU1T)
+### [Асинхронные адаптеры: promisify, callbackify, asyncify...](https://www.youtube.com/watch?v=76k6_YkYRmU&amp;list=PLHhi8ymDMrQZ0MpTsmi54OkjTbo0cjU1T&amp;index=8&amp;pp=iAQB)

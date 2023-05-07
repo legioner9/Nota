@@ -1,0 +1,3 @@
+# [VIMP dev — верстка сайтов](https://www.youtube.com/@VIMPdev/playlists)
+## [Практика верстки #2](https://www.youtube.com/playlist?list=PLBfQgL-XzhF2b8F9_2rXoHojmn8SNGfsE)
+### [Практика верстки #2/1. Верстка макета HTML, SCSS, Parceljs. | VIMP dev](https://www.youtube.com/watch?v=KAnJZCOEXp8&amp;list=PLBfQgL-XzhF2b8F9_2rXoHojmn8SNGfsE&amp;index=1&amp;pp=iAQB)

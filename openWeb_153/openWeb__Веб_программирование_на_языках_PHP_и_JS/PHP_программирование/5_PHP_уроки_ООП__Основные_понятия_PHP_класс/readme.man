@@ -1,0 +1,3 @@
+# [openWeb - Веб программирование на языках PHP и JS](https://www.youtube.com/@openweb-php/playlists)
+## [PHP программирование](https://www.youtube.com/playlist?list=PL-leL2miqjEbmxgTzU5l2A8qNZdSU5yMZ)
+### [PHP уроки ООП - Основные понятия PHP класс](https://www.youtube.com/watch?v=FQA49tHjoDM&amp;list=PL-leL2miqjEbmxgTzU5l2A8qNZdSU5yMZ&amp;index=5&amp;pp=iAQB)

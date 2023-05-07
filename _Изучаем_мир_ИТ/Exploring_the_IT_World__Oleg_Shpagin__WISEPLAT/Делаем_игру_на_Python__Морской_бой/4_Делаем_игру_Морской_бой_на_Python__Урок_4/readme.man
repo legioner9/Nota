@@ -1,3 +1,0 @@
-# [Exploring the IT World / Oleg Shpagin / WISEPLAT](https://www.youtube.com/@wiseplat/playlists)
-## [Делаем игру на Python - Морской бой](https://www.youtube.com/playlist?list=PLxiU3nwEQ4PGrVqfHb4DhElHrIeJsFHah)
-### [Делаем игру Морской бой на Python / Урок #4](https://www.youtube.com/watch?v=Ce1UQlNofjE&amp;list=PLxiU3nwEQ4PGrVqfHb4DhElHrIeJsFHah&amp;index=4)

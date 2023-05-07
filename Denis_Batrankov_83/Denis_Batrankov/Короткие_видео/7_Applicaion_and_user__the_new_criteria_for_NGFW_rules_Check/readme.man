@@ -1,0 +1,3 @@
+# [Denis Batrankov](https://www.youtube.com/@BDVSecurity/playlists)
+## [Короткие видео](https://www.youtube.com/playlist?list=PLRAbJA74qU4DnvN1A0eZ-WYgTycZGn0O9)
+### [Applicaion and user - the new criteria for NGFW rules. Check how it works!](https://www.youtube.com/watch?v=gjt7PRO8I7A&amp;list=PLRAbJA74qU4DnvN1A0eZ-WYgTycZGn0O9&amp;index=7&amp;pp=iAQB)

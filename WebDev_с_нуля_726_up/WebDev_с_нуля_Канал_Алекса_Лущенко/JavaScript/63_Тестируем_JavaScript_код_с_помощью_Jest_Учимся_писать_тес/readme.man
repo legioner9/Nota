@@ -1,0 +1,3 @@
+# [WebDev с нуля. Канал Алекса Лущенко](https://www.youtube.com/@itgid/playlists)
+## [JavaScript](https://www.youtube.com/playlist?list=PLM7wFzahDYnFgidfuPh_-XAv06YDwQVBs)
+### [Тестируем JavaScript код с помощью Jest. Учимся писать тесты и тест кейсы на фреймворке Jest](https://www.youtube.com/watch?v=yLRVDM3_4_M&amp;list=PLM7wFzahDYnFgidfuPh_-XAv06YDwQVBs&amp;index=63&amp;pp=iAQB)

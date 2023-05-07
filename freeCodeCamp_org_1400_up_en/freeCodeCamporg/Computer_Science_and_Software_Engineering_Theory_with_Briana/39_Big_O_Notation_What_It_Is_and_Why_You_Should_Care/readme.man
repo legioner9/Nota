@@ -1,0 +1,3 @@
+# [freeCodeCamp.org](https://www.youtube.com/@freecodecamp/playlists)
+## [Computer Science and Software Engineering Theory with Briana](https://www.youtube.com/playlist?list=PLWKjhJtqVAbmfoj2Th9fvxhHIeqFO7wOy)
+### [Big O Notation: What It Is and Why You Should Care](https://www.youtube.com/watch?v=KSNx22U4uWE&amp;list=PLWKjhJtqVAbmfoj2Th9fvxhHIeqFO7wOy&amp;index=39&amp;pp=iAQB)

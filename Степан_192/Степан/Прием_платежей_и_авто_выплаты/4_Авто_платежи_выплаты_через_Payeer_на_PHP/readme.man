@@ -1,0 +1,3 @@
+# [Степан](https://www.youtube.com/@Shift63770/playlists)
+## [Прием платежей и авто выплаты](https://www.youtube.com/playlist?list=PLB8wmVoWIIx4yDM-bFmqnMlkxpw6CuIeh)
+### [Авто платежи (выплаты) через Payeer на PHP](https://www.youtube.com/watch?v=nYBtq2Uxw9w&amp;list=PLB8wmVoWIIx4yDM-bFmqnMlkxpw6CuIeh&amp;index=4&amp;pp=iAQB)

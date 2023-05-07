@@ -1,0 +1,3 @@
+# [Кибер Весло](https://www.youtube.com/@cyber-paddle/playlists)
+## [Телефонная книга](https://www.youtube.com/playlist?list=PLIMYb25g876h9hdwBa6asZfABu4vbLGNM)
+### [Как наполнить базу данных Django дефолтными данными? Django Data Migrations in action.](https://www.youtube.com/watch?v=qCzODIPu1v0&amp;list=PLIMYb25g876h9hdwBa6asZfABu4vbLGNM&amp;index=10&amp;pp=iAQB)

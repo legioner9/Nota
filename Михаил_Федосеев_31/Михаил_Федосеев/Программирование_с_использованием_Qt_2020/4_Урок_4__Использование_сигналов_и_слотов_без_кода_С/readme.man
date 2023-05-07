@@ -1,0 +1,3 @@
+# [Михаил Федосеев](https://www.youtube.com/@fedoseevm/playlists)
+## [Программирование с использованием Qt 2020](https://www.youtube.com/playlist?list=PLYQhNajy-JUHqxt_MmjMrETFFvOYdguu7)
+### [Урок 4  Использование сигналов и слотов без кода С++](https://www.youtube.com/watch?v=pyeUxVDFKc4&amp;list=PLYQhNajy-JUHqxt_MmjMrETFFvOYdguu7&amp;index=4&amp;pp=iAQB)

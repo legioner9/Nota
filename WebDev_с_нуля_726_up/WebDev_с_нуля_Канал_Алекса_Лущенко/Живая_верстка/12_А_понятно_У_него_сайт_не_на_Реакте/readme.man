@@ -1,0 +1,3 @@
+# [WebDev с нуля. Канал Алекса Лущенко](https://www.youtube.com/@itgid/playlists)
+## [Живая верстка](https://www.youtube.com/playlist?list=PLM7wFzahDYnFhgE-jYkO6ZLaEXXxdqs5g)
+### [А... понятно.... У него сайт не на Реакте](https://www.youtube.com/watch?v=_eNDO1PHFBM&amp;list=PLM7wFzahDYnFhgE-jYkO6ZLaEXXxdqs5g&amp;index=12&amp;pp=iAQB)

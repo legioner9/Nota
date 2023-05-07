@@ -1,0 +1,3 @@
+# [Артём Шумейко](https://www.youtube.com/@artemshumeiko/playlists?view=1&sort=dd&shelf_id=0)
+## [Pyautogui Уроки](https://www.youtube.com/playlist?list=PLeLN0qH0-mCXo1iJ9i8_4Y_0ceeMfWMOf)
+### [УПРАВЛЯЕМ МЫШЬЮ И КЛАВИАТУРОЙ ЧЕРЕЗ PYTHON | PYAUTOGUI ч.1](https://www.youtube.com/watch?v=iZzx1keKztY&amp;list=PLeLN0qH0-mCXo1iJ9i8_4Y_0ceeMfWMOf&amp;index=1&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [В. Бовсуновский Python Django](https://www.youtube.com/@bov/playlists?view=1)
+## [Kotlin функции](https://www.youtube.com/playlist?list=PLuZJ9n46uMzVhiEjKgj4008McoCA-lk5y)
+### [А я могу стать программистом, как Игорь Лисицин? Да!! Что нужно делать рассказал.](https://www.youtube.com/watch?v=byEwQYFFArE&amp;list=PLuZJ9n46uMzVhiEjKgj4008McoCA-lk5y&amp;index=2&amp;pp=iAQB)

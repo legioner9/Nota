@@ -1,0 +1,3 @@
+# [Laravel Creative](https://www.youtube.com/@laravelcreative/playlists)
+## [Шаг 4.3. CI/CD в целом и CI/CD для Laravel](https://www.youtube.com/playlist?list=PLd2_Os8Cj3t8foG_gKb31q7xnAtaOCFBw)
+### [CI/CD в целом и CI/CD для laravel 9. Деплой в prod среду по тегу вручную. Gitlab cicd tag manual](https://www.youtube.com/watch?v=WudF3uCUMSE&amp;list=PLd2_Os8Cj3t8foG_gKb31q7xnAtaOCFBw&amp;index=10&amp;pp=iAQB)

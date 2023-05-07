@@ -1,0 +1,3 @@
+# [Students Days (видеокурсы по IT и не только)](https://www.youtube.com/@studentsdaysit2002/playlists)
+## [Инженерные расчеты в Mathcad часть 1 «Упрощенный расчет радиорелейных линий связи и беспроводных мостов»](https://www.youtube.com/playlist?list=PL7CmqnO_QydiqzPOik3E1KBEpZlLMKHsI)
+### [Шаг 4 Mathcad Рассчитываем первую зону Френеля для беспроводного моста или РРЛ](https://www.youtube.com/watch?v=sebu2aNt49M&amp;list=PL7CmqnO_QydiqzPOik3E1KBEpZlLMKHsI&amp;index=4&amp;pp=iAQB)

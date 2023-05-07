@@ -1,0 +1,3 @@
+# [WebDev с нуля. Канал Алекса Лущенко](https://www.youtube.com/@itgid/playlists)
+## [30 вопросов JavaScript собеседования - бесплатный курс](https://www.youtube.com/playlist?list=PLM7wFzahDYnGF4WqYaSuwnItYDEBakTDS)
+### [Вопрос собеседования: Flex и психология ошибки](https://www.youtube.com/watch?v=_jN28svucXw&amp;list=PLM7wFzahDYnGF4WqYaSuwnItYDEBakTDS&amp;index=11&amp;pp=iAQB)

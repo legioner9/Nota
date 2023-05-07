@@ -1,0 +1,3 @@
+# [Coding Tech](https://www.youtube.com/@CodingTech/playlists)
+## [Serverless](https://www.youtube.com/playlist?list=PLFjq8z-aGyQ5rHd-z7f6uLLFCscVkRCbf)
+### [Full Stack Development in the Era of Serverless Computing](https://www.youtube.com/watch?v=QeNLdiTHy4M&amp;list=PLFjq8z-aGyQ5rHd-z7f6uLLFCscVkRCbf&amp;index=7&amp;pp=iAQB)

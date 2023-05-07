@@ -1,0 +1,3 @@
+# [C++ User Group](https://www.youtube.com/@CUserGroupRussia/playlists)
+## [C++ Russia 2021](https://www.youtube.com/playlist?list=PLZN9ZGiWZoZqIsJqUgmMznD68NSsyaAhy)
+### [Александр Воронков — CMake 2.x давно пора закапывать](https://www.youtube.com/watch?v=elmfioe8rSI&amp;list=PLZN9ZGiWZoZqIsJqUgmMznD68NSsyaAhy&amp;index=22&amp;pp=iAQB)

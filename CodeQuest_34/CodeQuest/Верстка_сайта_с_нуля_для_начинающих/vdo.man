@@ -1,0 +1,6 @@
+### [#1 Нарезка макета из PSD в Photoshop и Avacode | Верстка сайта для начинающих | JPEG, PNG, SVG](https://www.youtube.com/watch?v=I-q3lmOZ7Qw&amp;list=PLU0nVsJXPyy_BegP-rMnVeDnh9_pNHjNk&amp;index=1&amp;pp=iAQB)
+### [#2 Подготовка к верстке сайта | Подключение шрифтов, нормализация стилей, создание структуры проекта](https://www.youtube.com/watch?v=8qxp8v5VfEQ&amp;list=PLU0nVsJXPyy_BegP-rMnVeDnh9_pNHjNk&amp;index=2&amp;pp=iAQB)
+### [#3 Верстка сайта с нуля для начинающих | Верстаем первый блок на HTML и CSS](https://www.youtube.com/watch?v=jmJ8I4F9iaE&amp;list=PLU0nVsJXPyy_BegP-rMnVeDnh9_pNHjNk&amp;index=3&amp;pp=iAQB)
+### [#4 Верстка сайта с нуля для начинающих | Практика Flexbox CSS](https://www.youtube.com/watch?v=MtvwKt_Yjbg&amp;list=PLU0nVsJXPyy_BegP-rMnVeDnh9_pNHjNk&amp;index=4&amp;pp=iAQB)
+### [#5 Верстка сайта с нуля для начинающих | Верстаем 4 и 5 блоки сайта на HTML и CSS](https://www.youtube.com/watch?v=KAxtcFePO88&amp;list=PLU0nVsJXPyy_BegP-rMnVeDnh9_pNHjNk&amp;index=5&amp;pp=iAQB)
+### [#6 Верстка сайта с нуля для начинающих | Завершаем последние блоки нашего макета](https://www.youtube.com/watch?v=gSoK8AZ6umM&amp;list=PLU0nVsJXPyy_BegP-rMnVeDnh9_pNHjNk&amp;index=6&amp;pp=iAQB)

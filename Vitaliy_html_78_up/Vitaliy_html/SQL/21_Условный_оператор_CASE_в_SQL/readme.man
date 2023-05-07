@@ -1,0 +1,3 @@
+# [Vitaliy html](https://www.youtube.com/@vitaliyhtml/playlists)
+## [SQL](https://www.youtube.com/playlist?list=PL97bu4ZDN_byFtn3cDo7dbURidAlg7ZSG)
+### [Условный оператор CASE в SQL](https://www.youtube.com/watch?v=Xj-_GHgyiOA&amp;list=PL97bu4ZDN_byFtn3cDo7dbURidAlg7ZSG&amp;index=21&amp;pp=iAQB)

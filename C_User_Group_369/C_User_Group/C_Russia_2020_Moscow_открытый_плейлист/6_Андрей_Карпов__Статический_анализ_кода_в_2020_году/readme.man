@@ -1,0 +1,3 @@
+# [C++ User Group](https://www.youtube.com/@CUserGroupRussia/playlists)
+## [C++ Russia 2020 Moscow: открытый плейлист](https://www.youtube.com/playlist?list=PLZN9ZGiWZoZruMY-MlkAd-nHzdP9TfLRC)
+### [Андрей Карпов — Статический анализ кода в 2020 году](https://www.youtube.com/watch?v=Bq-GDDfCNB4&amp;list=PLZN9ZGiWZoZruMY-MlkAd-nHzdP9TfLRC&amp;index=6&amp;pp=iAQB)

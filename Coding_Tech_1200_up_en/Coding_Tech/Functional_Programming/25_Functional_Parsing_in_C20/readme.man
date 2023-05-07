@@ -1,0 +1,3 @@
+# [Coding Tech](https://www.youtube.com/@CodingTech/playlists)
+## [Functional Programming](https://www.youtube.com/playlist?list=PLFjq8z-aGyQ4gTpuAhnPEQBOz7Xz7wn_m)
+### [Functional Parsing in C++20](https://www.youtube.com/watch?v=QwaoOYkoqB0&amp;list=PLFjq8z-aGyQ4gTpuAhnPEQBOz7Xz7wn_m&amp;index=25&amp;pp=iAQB)

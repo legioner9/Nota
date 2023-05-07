@@ -1,0 +1,3 @@
+# [Студия Флаг](https://www.youtube.com/@FlagStudio/playlists)
+## [LaraПрактика](https://www.youtube.com/playlist?list=PLVdcV6tHcaCFCI1FtvuY2TXWSGVV-LZT9)
+### [LaraПрактика #4. Action VS ViewModel. Разделение ответственности](https://www.youtube.com/watch?v=ezpfqy4UCQw&amp;list=PLVdcV6tHcaCFCI1FtvuY2TXWSGVV-LZT9&amp;index=4&amp;pp=iAQB)

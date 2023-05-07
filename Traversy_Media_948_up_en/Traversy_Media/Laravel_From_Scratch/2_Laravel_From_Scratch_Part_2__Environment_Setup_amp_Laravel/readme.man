@@ -1,0 +1,3 @@
+# [Traversy Media](https://www.youtube.com/@TraversyMedia/playlists)
+## [Laravel From Scratch](https://www.youtube.com/playlist?list=PLillGF-RfqbYhQsN5WMXy6VsDMKGadrJ-)
+### [Laravel From Scratch [Part 2] - Environment Setup &amp; Laravel Installation](https://www.youtube.com/watch?v=H3uRXvwXz1o&amp;list=PLillGF-RfqbYhQsN5WMXy6VsDMKGadrJ-&amp;index=2&amp;pp=iAQB)

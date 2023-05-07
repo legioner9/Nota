@@ -1,0 +1,5 @@
+### [Уроки ReactJS для новичков - как установить React. Введение.](https://www.youtube.com/watch?v=riRrKFkbS-g&amp;list=PLVfMKQXDAhGVCB401FJhb4HC6tAMe5YdL&amp;index=1&amp;pp=iAQB)
+### [Уроки React JS для новичков - Все о JSX в React.](https://www.youtube.com/watch?v=FEoAEyHmJio&amp;list=PLVfMKQXDAhGVCB401FJhb4HC6tAMe5YdL&amp;index=2&amp;pp=iAQB)
+### [Уроки React JS для новичков - Рендер элементов примеры react js.](https://www.youtube.com/watch?v=IXXO2-xnI8U&amp;list=PLVfMKQXDAhGVCB401FJhb4HC6tAMe5YdL&amp;index=3&amp;pp=iAQB)
+### [Уроки ReactJS для новичков - Компоненты](https://www.youtube.com/watch?v=kctgAOqrdbg&amp;list=PLVfMKQXDAhGVCB401FJhb4HC6tAMe5YdL&amp;index=4&amp;pp=iAQB)
+### [Стоит ли учить React js новичку сейчас. Как учить React.](https://www.youtube.com/watch?v=Q2zCXBFlrgQ&amp;list=PLVfMKQXDAhGVCB401FJhb4HC6tAMe5YdL&amp;index=5&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [Laravel Creative](https://www.youtube.com/@laravelcreative/playlists)
+## [Шаг 4.2. Docker в целом и Docker для Laravel](https://www.youtube.com/playlist?list=PLd2_Os8Cj3t9Ert8mBlNl1UqwllyP1Tm_)
+### [Docker в целом и docker для laravel 8. Прописываем первый Dockerfile для php. Создаем проект Laravel](https://www.youtube.com/watch?v=h6qwp5ySNEE&amp;list=PLd2_Os8Cj3t9Ert8mBlNl1UqwllyP1Tm_&amp;index=9&amp;pp=iAQB)

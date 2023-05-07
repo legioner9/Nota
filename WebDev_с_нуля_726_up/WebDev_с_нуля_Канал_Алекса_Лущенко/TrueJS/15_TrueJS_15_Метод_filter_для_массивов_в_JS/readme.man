@@ -1,0 +1,3 @@
+# [WebDev с нуля. Канал Алекса Лущенко](https://www.youtube.com/@itgid/playlists)
+## [TrueJS](https://www.youtube.com/playlist?list=PLM7wFzahDYnEcQh1G_fxFXBZ4O1tlVsDG)
+### [TrueJS 15. Метод filter для массивов в JS](https://www.youtube.com/watch?v=E6V1KTCcYUA&amp;list=PLM7wFzahDYnEcQh1G_fxFXBZ4O1tlVsDG&amp;index=15&amp;pp=iAQB)

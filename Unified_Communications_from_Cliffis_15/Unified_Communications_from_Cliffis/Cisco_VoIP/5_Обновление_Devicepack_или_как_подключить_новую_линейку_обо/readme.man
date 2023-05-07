@@ -1,0 +1,3 @@
+# [Unified Communications from Cliffis](https://www.youtube.com/@uc_cliffis/playlists)
+## [Cisco VoIP](https://www.youtube.com/playlist?list=PLQkhRYZT7TCkSsxGb2V47CQq4g65j6nxW)
+### [Обновление Devicepack или как подключить новую линейку оборудования к старому CUCM - очень просто!!!](https://www.youtube.com/watch?v=IcCTuhmced4&amp;list=PLQkhRYZT7TCkSsxGb2V47CQq4g65j6nxW&amp;index=5&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [Web Developer Blog](https://www.youtube.com/@SuprunAlexey/playlists)
+## [Основы ООП - PHP](https://www.youtube.com/playlist?list=PLVfMKQXDAhGV1kj1gEGTgdzXt2jHwg-if)
+### [ООП для начинающих PHP. Магические методы get,set,clone](https://www.youtube.com/watch?v=d5P2ksSKxio&amp;list=PLVfMKQXDAhGV1kj1gEGTgdzXt2jHwg-if&amp;index=13&amp;pp=iAQB)

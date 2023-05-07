@@ -1,0 +1,8 @@
+### [Sublime text топ 10 плагины которые обязательно нужны. Emmet, LiveReload.](https://www.youtube.com/watch?v=HZ4BUcogWCQ&amp;list=PLVfMKQXDAhGXTtaRwrHzPLNQALkVhGWKj&amp;index=1&amp;pp=iAQB)
+### [#1. Установка Sublime text 2 / How to install Sublime text 2](https://www.youtube.com/watch?v=dAUBTfT2ITo&amp;list=PLVfMKQXDAhGXTtaRwrHzPLNQALkVhGWKj&amp;index=2&amp;pp=iAQB)
+### [#2. Создаем первый html файл Sublime text 2 / How to create html in Sublime text 2](https://www.youtube.com/watch?v=lt__7p0PMl8&amp;list=PLVfMKQXDAhGXTtaRwrHzPLNQALkVhGWKj&amp;index=3&amp;pp=iAQB)
+### [#3. Основные элементы Sublime Text 2 /  Main elements of Sublime Text 2](https://www.youtube.com/watch?v=waqqm0LSpTE&amp;list=PLVfMKQXDAhGXTtaRwrHzPLNQALkVhGWKj&amp;index=4&amp;pp=iAQB)
+### [#4. Выбор цветовой темы в Sublime Text 2 / Color Schemes in Sublime Text 2](https://www.youtube.com/watch?v=HKuTE3ykpsc&amp;list=PLVfMKQXDAhGXTtaRwrHzPLNQALkVhGWKj&amp;index=5&amp;pp=iAQB)
+### [#5. Установка Package Control Sublime Text 2](https://www.youtube.com/watch?v=UBFHe7_yzYs&amp;list=PLVfMKQXDAhGXTtaRwrHzPLNQALkVhGWKj&amp;index=6&amp;pp=iAQB)
+### [#6. Устанавливаем плагин Emmet, Sublime text 2](https://www.youtube.com/watch?v=yvle7xv8wJg&amp;list=PLVfMKQXDAhGXTtaRwrHzPLNQALkVhGWKj&amp;index=7&amp;pp=iAQB)
+### [#7. Как пользоваться плагином Emmet в Sublime text 2](https://www.youtube.com/watch?v=2xnPYRI_PxM&amp;list=PLVfMKQXDAhGXTtaRwrHzPLNQALkVhGWKj&amp;index=8&amp;pp=iAQB)

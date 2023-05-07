@@ -1,0 +1,4 @@
+### [Vue js для самых маленьких | Подключение vue js | Начало #1](https://www.youtube.com/watch?v=m1_JeHdGTWM&amp;list=PL3LQJkGQtzc4zTN5w_ApOxMpZWwE6gHhg&amp;index=1&amp;pp=iAQB)
+### [Conditions and methods js Vue | Vue js for the little ones #2](https://www.youtube.com/watch?v=wAdWJ9AHs2w&amp;list=PL3LQJkGQtzc4zTN5w_ApOxMpZWwE6gHhg&amp;index=2&amp;pp=iAQB)
+### [The parameters in the methods vue js | short entry | directives / Vue js for the little ones](https://www.youtube.com/watch?v=e80lZQYZrAU&amp;list=PL3LQJkGQtzc4zTN5w_ApOxMpZWwE6gHhg&amp;index=3&amp;pp=iAQB)
+### [😎 Vue js — Циклы v-for | Vue JS для самых маленьких](https://www.youtube.com/watch?v=yCwq7b-Xkwk&amp;list=PL3LQJkGQtzc4zTN5w_ApOxMpZWwE6gHhg&amp;index=4&amp;pp=iAQB)

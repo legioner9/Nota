@@ -1,0 +1,3 @@
+# [Traversy Media](https://www.youtube.com/@TraversyMedia/playlists)
+## [Vanilla JavaScript](https://www.youtube.com/playlist?list=PLillGF-RfqbbnEGy3ROiLWk7JMCuSyQtX)
+### [Facebook Login &amp; Graph API | JavaScript SDK](https://www.youtube.com/watch?v=gXux8b3wcYw&amp;list=PLillGF-RfqbbnEGy3ROiLWk7JMCuSyQtX&amp;index=25&amp;pp=iAQB)

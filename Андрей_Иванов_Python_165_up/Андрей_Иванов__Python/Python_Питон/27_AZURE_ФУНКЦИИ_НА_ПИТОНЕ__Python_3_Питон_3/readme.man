@@ -1,0 +1,3 @@
+# [Андрей Иванов | Python](https://www.youtube.com/@PythononPapyrusRU/playlists)
+## [Python, Питон](https://www.youtube.com/playlist?list=PLF4MWzDJPFSZJeqc7u65mRAjR-1eFKUfd)
+### [AZURE ФУНКЦИИ НА ПИТОНЕ | Python 3, Питон 3](https://www.youtube.com/watch?v=3Q2f5Df4k_s&amp;list=PLF4MWzDJPFSZJeqc7u65mRAjR-1eFKUfd&amp;index=27&amp;pp=iAQB)

@@ -1,0 +1,8 @@
+### [Установка Ubuntu Server 20.04](https://www.youtube.com/watch?v=EAphCykdjA0&amp;list=PLh1BaaL_XriNFKcBr811mNjj7FA-yG7Di&amp;index=1&amp;pp=iAQB)
+### [UFW - настройка Firewall в Ubuntu 20.04](https://www.youtube.com/watch?v=Cq9eWFSMEEY&amp;list=PLh1BaaL_XriNFKcBr811mNjj7FA-yG7Di&amp;index=2&amp;pp=iAQB)
+### [Iptables и Fail2ban в Ubuntu server 20.04](https://www.youtube.com/watch?v=f3Ognf1Fq58&amp;list=PLh1BaaL_XriNFKcBr811mNjj7FA-yG7Di&amp;index=3&amp;pp=iAQB)
+### [Установка DHCP-сервера в Ubuntu 20.04](https://www.youtube.com/watch?v=x7aIiWKvTYM&amp;list=PLh1BaaL_XriNFKcBr811mNjj7FA-yG7Di&amp;index=4&amp;pp=iAQB)
+### [Установка LAMP в Ubuntu Server 20.04](https://www.youtube.com/watch?v=Lqfj7ZHXbUk&amp;list=PLh1BaaL_XriNFKcBr811mNjj7FA-yG7Di&amp;index=5&amp;pp=iAQB)
+### [Установка LEMP в Ubuntu Server 20.04](https://www.youtube.com/watch?v=tV6p1HtC8kY&amp;list=PLh1BaaL_XriNFKcBr811mNjj7FA-yG7Di&amp;index=6&amp;pp=iAQB)
+### [OwnCloud и Nextcloud в Ubuntu 20.04](https://www.youtube.com/watch?v=ZMBy6clEwz4&amp;list=PLh1BaaL_XriNFKcBr811mNjj7FA-yG7Di&amp;index=7&amp;pp=iAQB)
+### [NAXSI и ModSecurity в Nginx Ubuntu 20.04](https://www.youtube.com/watch?v=gU5a4pxYLGI&amp;list=PLh1BaaL_XriNFKcBr811mNjj7FA-yG7Di&amp;index=8&amp;pp=iAQB)

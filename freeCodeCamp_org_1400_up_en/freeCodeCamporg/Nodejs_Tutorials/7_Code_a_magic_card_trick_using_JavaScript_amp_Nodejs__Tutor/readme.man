@@ -1,0 +1,3 @@
+# [freeCodeCamp.org](https://www.youtube.com/@freecodecamp/playlists)
+## [Node.js Tutorials](https://www.youtube.com/playlist?list=PLWKjhJtqVAbmGQoa3vFjeRbRADAOC9drk)
+### [Code a magic card trick using JavaScript &amp; Node.js - Tutorial](https://www.youtube.com/watch?v=h21pa3yeW08&amp;list=PLWKjhJtqVAbmGQoa3vFjeRbRADAOC9drk&amp;index=7&amp;pp=iAQB)

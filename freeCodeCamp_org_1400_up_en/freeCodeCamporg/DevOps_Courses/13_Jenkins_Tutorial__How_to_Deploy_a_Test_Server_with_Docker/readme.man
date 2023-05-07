@@ -1,0 +1,3 @@
+# [freeCodeCamp.org](https://www.youtube.com/@freecodecamp/playlists)
+## [DevOps Courses](https://www.youtube.com/playlist?list=PLWKjhJtqVAbkzvvpY12KkfiIGso9A_Ixs)
+### [Jenkins Tutorial – How to Deploy a Test Server with Docker + Linux (Full Course)](https://www.youtube.com/watch?v=f4idgaq2VqA&amp;list=PLWKjhJtqVAbkzvvpY12KkfiIGso9A_Ixs&amp;index=13&amp;pp=iAQB)

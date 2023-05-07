@@ -1,0 +1,3 @@
+# [freeCodeCamp.org](https://www.youtube.com/@freecodecamp/playlists)
+## [Live Coding with Jesse](https://www.youtube.com/playlist?list=PLWKjhJtqVAbknyJ7hSrf1WKh_Xnv9RL1r)
+### [Creating and Editing React Components Part 2 (P5D37) - Live Coding with Jesse](https://www.youtube.com/watch?v=d_o1kcXi0hc&amp;list=PLWKjhJtqVAbknyJ7hSrf1WKh_Xnv9RL1r&amp;index=82&amp;pp=iAQB)

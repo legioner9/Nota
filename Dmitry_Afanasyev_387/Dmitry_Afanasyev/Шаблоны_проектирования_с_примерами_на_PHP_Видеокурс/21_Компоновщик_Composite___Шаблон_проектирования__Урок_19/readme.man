@@ -1,0 +1,3 @@
+# [Dmitry Afanasyev](https://www.youtube.com/@DmitryAfanasyev/playlists)
+## [Шаблоны проектирования с примерами на PHP. Видеокурс.](https://www.youtube.com/playlist?list=PLoonZ8wII66hKbEvIVAZnp1h4CE-4Mtk4)
+### [Компоновщик (Composite)  ► Шаблон проектирования ► Урок №19](https://www.youtube.com/watch?v=Cg6tWd74f4E&amp;list=PLoonZ8wII66hKbEvIVAZnp1h4CE-4Mtk4&amp;index=21&amp;pp=iAQB)

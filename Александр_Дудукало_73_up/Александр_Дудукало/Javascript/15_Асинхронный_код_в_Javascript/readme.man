@@ -1,0 +1,3 @@
+# [Александр Дудукало](https://www.youtube.com/@alex_dudukalo/playlists)
+## [Javascript](https://www.youtube.com/playlist?list=PLFqGDhtb0WiKwpw5nx6DjhFGtihnbcOVe)
+### [Асинхронный код в Javascript](https://www.youtube.com/watch?v=T1apEAnJiu4&amp;list=PLFqGDhtb0WiKwpw5nx6DjhFGtihnbcOVe&amp;index=15&amp;pp=iAQB)

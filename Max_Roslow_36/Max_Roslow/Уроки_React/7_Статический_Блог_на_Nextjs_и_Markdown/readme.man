@@ -1,0 +1,3 @@
+# [Max Roslow](https://www.youtube.com/@maximroslow/playlists)
+## [Уроки React](https://www.youtube.com/playlist?list=PL1EApzIeyBXY4JOnYkusYnb1dM3mP3ojN)
+### [Статический Блог на Next.js и Markdown](https://www.youtube.com/watch?v=u91xt64gq_E&amp;list=PL1EApzIeyBXY4JOnYkusYnb1dM3mP3ojN&amp;index=7&amp;pp=iAQB)

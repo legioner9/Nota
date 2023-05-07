@@ -1,0 +1,3 @@
+# [Андрей Андриевский](https://www.youtube.com/@andrievskii/playlists)
+## [Django](https://www.youtube.com/playlist?list=PLMB6wLyKp7lU9gAGPaIIbLKQwMicNzlgv)
+### [Установка последней версии Python на Linux](https://www.youtube.com/watch?v=ox4joJFbfLM&amp;list=PLMB6wLyKp7lU9gAGPaIIbLKQwMicNzlgv&amp;index=2&amp;pp=iAQB)

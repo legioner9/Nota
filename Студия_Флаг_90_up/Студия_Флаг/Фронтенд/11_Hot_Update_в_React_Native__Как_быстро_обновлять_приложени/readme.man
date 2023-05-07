@@ -1,0 +1,3 @@
+# [Студия Флаг](https://www.youtube.com/@FlagStudio/playlists)
+## [Фронтенд](https://www.youtube.com/playlist?list=PLVdcV6tHcaCGQrTMSYdBgedHMhNtGNXWf)
+### [Hot Update в React Native / Как быстро обновлять приложение?](https://www.youtube.com/watch?v=Z1NA7O695Qg&amp;list=PLVdcV6tHcaCGQrTMSYdBgedHMhNtGNXWf&amp;index=11&amp;pp=iAQB)

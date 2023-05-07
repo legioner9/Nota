@@ -1,0 +1,3 @@
+# [В. Бовсуновский Python Django](https://www.youtube.com/@bov/playlists?view=1)
+## [Прикладное программирование Python.](https://www.youtube.com/playlist?list=PLuZJ9n46uMzX---cfRMYZgEDePohvo8dp)
+### [Промышленное программирование на Django. ForeignKey, ManyToManyField.](https://www.youtube.com/watch?v=ad-e94EPM_s&amp;list=PLuZJ9n46uMzX---cfRMYZgEDePohvo8dp&amp;index=33&amp;pp=iAQB)

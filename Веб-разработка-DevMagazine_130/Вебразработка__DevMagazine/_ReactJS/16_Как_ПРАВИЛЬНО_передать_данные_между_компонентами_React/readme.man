@@ -1,0 +1,3 @@
+# [Веб-разработка - DevMagazine](https://www.youtube.com/@DevMagazineChannel/playlists)
+## [📘 ReactJS](https://www.youtube.com/playlist?list=PLmfIBo6rTVR4OGBHkgPUst49WliEAkZDc)
+### [Как ПРАВИЛЬНО передать данные между компонентами React?](https://www.youtube.com/watch?v=Cc2n4EOUzW4&amp;list=PLmfIBo6rTVR4OGBHkgPUst49WliEAkZDc&amp;index=16&amp;pp=iAQB)

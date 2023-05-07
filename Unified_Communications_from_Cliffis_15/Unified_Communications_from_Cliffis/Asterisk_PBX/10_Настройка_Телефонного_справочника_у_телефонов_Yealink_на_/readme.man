@@ -1,0 +1,3 @@
+# [Unified Communications from Cliffis](https://www.youtube.com/@uc_cliffis/playlists)
+## [Asterisk PBX](https://www.youtube.com/playlist?list=PLQkhRYZT7TCkm7db8HGDHxkkXXFJP-JVQ)
+### [Настройка Телефонного справочника у телефонов Yealink, на основе LDAP - очень просто!!!](https://www.youtube.com/watch?v=BoyRrEHdGuU&amp;list=PLQkhRYZT7TCkm7db8HGDHxkkXXFJP-JVQ&amp;index=10&amp;pp=iAQB)

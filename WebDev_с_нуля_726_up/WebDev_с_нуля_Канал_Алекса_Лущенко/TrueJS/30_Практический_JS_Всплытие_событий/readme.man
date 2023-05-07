@@ -1,0 +1,3 @@
+# [WebDev с нуля. Канал Алекса Лущенко](https://www.youtube.com/@itgid/playlists)
+## [TrueJS](https://www.youtube.com/playlist?list=PLM7wFzahDYnEcQh1G_fxFXBZ4O1tlVsDG)
+### [Практический JS. Всплытие событий](https://www.youtube.com/watch?v=qXQ4XazFevM&amp;list=PLM7wFzahDYnEcQh1G_fxFXBZ4O1tlVsDG&amp;index=30&amp;pp=iAQB)

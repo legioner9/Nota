@@ -1,0 +1,3 @@
+# [freeCodeCamp.org](https://www.youtube.com/@freecodecamp/playlists)
+## [Tutorials](https://www.youtube.com/playlist?list=PLWKjhJtqVAbmDGFE_pZ-PDJ1GWe3KtT-M)
+### [MongoDB Full Tutorial w/ Node.js, Express, &amp; Mongoose](https://www.youtube.com/watch?v=4yqu8YF29cU&amp;list=PLWKjhJtqVAbmDGFE_pZ-PDJ1GWe3KtT-M&amp;index=64&amp;pp=iAQB)

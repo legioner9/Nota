@@ -1,0 +1,3 @@
+# [Андрей += Пронин](https://www.youtube.com/@AndyPronin/playlists)
+## [Разбор тестовых с реальных интервью Python](https://www.youtube.com/playlist?list=PLgENP2X2Wt57gZiBBJTwJsKvMB7504Gev)
+### [Иван Сафронов. Что спрашивают на собеседовании junior python developer в дочку СберБанка](https://www.youtube.com/watch?v=GHGnTb32bVY&amp;list=PLgENP2X2Wt57gZiBBJTwJsKvMB7504Gev&amp;index=1&amp;pp=iAQB)

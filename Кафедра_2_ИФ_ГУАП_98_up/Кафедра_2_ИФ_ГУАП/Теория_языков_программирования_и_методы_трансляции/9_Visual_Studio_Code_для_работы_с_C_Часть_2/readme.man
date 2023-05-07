@@ -1,0 +1,3 @@
+# [Кафедра 2 ИФ ГУАП](https://www.youtube.com/@user-uf2tp3mk1w/playlists)
+## [Теория языков программирования и методы трансляции](https://www.youtube.com/playlist?list=PLkHuy0rsti_jmZtITyDma6TWFZUnH7u6H)
+### [Visual Studio Code для работы с C#. Часть 2](https://www.youtube.com/watch?v=cpdH0UaOdxo&amp;list=PLkHuy0rsti_jmZtITyDma6TWFZUnH7u6H&amp;index=9&amp;pp=iAQB)

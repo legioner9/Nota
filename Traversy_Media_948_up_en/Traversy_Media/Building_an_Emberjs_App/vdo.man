@@ -1,0 +1,3 @@
+### [Building an Ember.js App - Part 1](https://www.youtube.com/watch?v=owDmPTSJkrg&amp;list=PLillGF-RfqbYlw550JoiJrHsy0BT0tCgU&amp;index=1&amp;pp=iAQB)
+### [Building an Ember.js App - Part 2](https://www.youtube.com/watch?v=-gd6LRt7Dcg&amp;list=PLillGF-RfqbYlw550JoiJrHsy0BT0tCgU&amp;index=2&amp;pp=iAQB)
+### [Building an Ember.js App - Part 3](https://www.youtube.com/watch?v=su1jfjD9TaU&amp;list=PLillGF-RfqbYlw550JoiJrHsy0BT0tCgU&amp;index=3&amp;pp=iAQB)

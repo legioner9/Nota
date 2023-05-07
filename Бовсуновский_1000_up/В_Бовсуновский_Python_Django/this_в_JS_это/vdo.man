@@ -1,0 +1,1 @@
+### [1. Вот здесь начинается понимание this в JS и поверь мне оно не то что ты думаешь, все хуже...](https://www.youtube.com/watch?v=ZLFPR4Is6bg&amp;list=PLuZJ9n46uMzUSv7qnr6MYRrmCuTPVN0sH&amp;index=1&amp;pp=iAQB)

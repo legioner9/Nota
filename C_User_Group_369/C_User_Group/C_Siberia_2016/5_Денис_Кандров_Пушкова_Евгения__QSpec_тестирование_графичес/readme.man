@@ -1,0 +1,3 @@
+# [C++ User Group](https://www.youtube.com/@CUserGroupRussia/playlists)
+## [C++ Siberia 2016](https://www.youtube.com/playlist?list=PLZN9ZGiWZoZoM3Dp0yg36SYcDMH2-h8pU)
+### [Денис Кандров, Пушкова Евгения | QSpec: тестирование графических приложений на Qt](https://www.youtube.com/watch?v=JkhiQ9_0BRY&amp;list=PLZN9ZGiWZoZoM3Dp0yg36SYcDMH2-h8pU&amp;index=5&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [C++ User Group](https://www.youtube.com/@CUserGroupRussia/playlists)
+## [Избранное с C++ Russia](https://www.youtube.com/playlist?list=PLZN9ZGiWZoZqQo9JKIEAPnS6yo6nf5mTf)
+### [C++ Russia 2018:  Илья Шишков,  Как научить языку C++: опыт создания курсов на Coursera](https://www.youtube.com/watch?v=mhiAXYprh34&amp;list=PLZN9ZGiWZoZqQo9JKIEAPnS6yo6nf5mTf&amp;index=3&amp;pp=iAQB)

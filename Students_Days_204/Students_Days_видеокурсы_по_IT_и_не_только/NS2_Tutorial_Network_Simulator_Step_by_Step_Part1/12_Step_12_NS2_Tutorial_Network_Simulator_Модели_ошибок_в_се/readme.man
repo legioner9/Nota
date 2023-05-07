@@ -1,0 +1,3 @@
+# [Students Days (видеокурсы по IT и не только)](https://www.youtube.com/@studentsdaysit2002/playlists)
+## [NS2 Tutorial (Network Simulator) Step by Step, Part1](https://www.youtube.com/playlist?list=PL7CmqnO_Qydh254K8hqQrkHv5I9ZgfvAC)
+### [Step 12 NS2 Tutorial (Network Simulator) Модели ошибок в сети при передаче Multicast трафика](https://www.youtube.com/watch?v=ukPxS1Q71yM&amp;list=PL7CmqnO_Qydh254K8hqQrkHv5I9ZgfvAC&amp;index=12&amp;pp=iAQB)

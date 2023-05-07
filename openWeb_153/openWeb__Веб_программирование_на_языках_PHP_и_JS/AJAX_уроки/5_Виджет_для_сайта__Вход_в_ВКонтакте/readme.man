@@ -1,0 +1,3 @@
+# [openWeb - Веб программирование на языках PHP и JS](https://www.youtube.com/@openweb-php/playlists)
+## [AJAX уроки](https://www.youtube.com/playlist?list=PL-leL2miqjEZ-4TEFgLQ2OaZ2F6fPmyjJ)
+### [Виджет для сайта - Вход в ВКонтакте](https://www.youtube.com/watch?v=xgSufUuBmGQ&amp;list=PL-leL2miqjEZ-4TEFgLQ2OaZ2F6fPmyjJ&amp;index=5&amp;pp=iAQB)

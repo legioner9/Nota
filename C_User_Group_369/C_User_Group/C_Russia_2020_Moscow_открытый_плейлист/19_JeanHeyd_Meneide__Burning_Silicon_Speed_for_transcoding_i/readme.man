@@ -1,0 +1,3 @@
+# [C++ User Group](https://www.youtube.com/@CUserGroupRussia/playlists)
+## [C++ Russia 2020 Moscow: открытый плейлист](https://www.youtube.com/playlist?list=PLZN9ZGiWZoZruMY-MlkAd-nHzdP9TfLRC)
+### [JeanHeyd Meneide — Burning Silicon: Speed for transcoding in C++23](https://www.youtube.com/watch?v=RnVWON7JmQ0&amp;list=PLZN9ZGiWZoZruMY-MlkAd-nHzdP9TfLRC&amp;index=19&amp;pp=iAQB)

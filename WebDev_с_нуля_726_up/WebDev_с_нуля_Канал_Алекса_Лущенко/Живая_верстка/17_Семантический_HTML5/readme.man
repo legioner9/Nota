@@ -1,0 +1,3 @@
+# [WebDev с нуля. Канал Алекса Лущенко](https://www.youtube.com/@itgid/playlists)
+## [Живая верстка](https://www.youtube.com/playlist?list=PLM7wFzahDYnFhgE-jYkO6ZLaEXXxdqs5g)
+### [Семантический HTML5.](https://www.youtube.com/watch?v=4IqQ-tFysak&amp;list=PLM7wFzahDYnFhgE-jYkO6ZLaEXXxdqs5g&amp;index=17&amp;pp=iAQB)

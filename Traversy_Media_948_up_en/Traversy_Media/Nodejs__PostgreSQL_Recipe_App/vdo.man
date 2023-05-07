@@ -1,0 +1,7 @@
+### [Recipe App Using Node.js &amp; PostgreSQL - Part 1](https://www.youtube.com/watch?v=AFiqctkoVJ4&amp;list=PLillGF-RfqbaEmlPcX5e_ejaK7Y5MydkW&amp;index=1&amp;pp=iAQB)
+### [Recipe App Using Node.js &amp; PostgreSQL - Part 2](https://www.youtube.com/watch?v=EBw5E5DzAvE&amp;list=PLillGF-RfqbaEmlPcX5e_ejaK7Y5MydkW&amp;index=2&amp;pp=iAQB)
+### [Recipe App Using Node.js &amp; PostgreSQL - Part 3](https://www.youtube.com/watch?v=ijSzX3S5Qco&amp;list=PLillGF-RfqbaEmlPcX5e_ejaK7Y5MydkW&amp;index=3&amp;pp=iAQB)
+### [Recipe App Using Node.js &amp; PostgreSQL - Part 4](https://www.youtube.com/watch?v=Xry9T0GiT9g&amp;list=PLillGF-RfqbaEmlPcX5e_ejaK7Y5MydkW&amp;index=4&amp;pp=iAQB)
+### [Recipe App Using Node.js &amp; PostgreSQL - Part 5](https://www.youtube.com/watch?v=XwinUaMmg-U&amp;list=PLillGF-RfqbaEmlPcX5e_ejaK7Y5MydkW&amp;index=5&amp;pp=iAQB)
+### [Recipe App Using Node.js &amp; PostgreSQL - Part 7](https://www.youtube.com/watch?v=RdM2XBEXNV8&amp;list=PLillGF-RfqbaEmlPcX5e_ejaK7Y5MydkW&amp;index=6&amp;pp=iAQB)
+### [Recipe App Using Node.js &amp; PostgreSQL - Part 6](https://www.youtube.com/watch?v=TueoFdaJV2g&amp;list=PLillGF-RfqbaEmlPcX5e_ejaK7Y5MydkW&amp;index=7&amp;pp=iAQB)

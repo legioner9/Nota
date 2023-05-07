@@ -1,0 +1,3 @@
+# [В. Бовсуновский Python Django](https://www.youtube.com/@bov/playlists?view=1)
+## [Уроки Linux](https://www.youtube.com/playlist?list=PLuZJ9n46uMzVwOZeH3dfra62lSqIVkmv9)
+### [Урок 1. Установка и настройка веб сервера Debian, для Django Python.](https://www.youtube.com/watch?v=MadhV8s4JeI&amp;list=PLuZJ9n46uMzVwOZeH3dfra62lSqIVkmv9&amp;index=25&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [openWeb - Веб программирование на языках PHP и JS](https://www.youtube.com/@openweb-php/playlists)
+## [Node.js программирование](https://www.youtube.com/playlist?list=PL-leL2miqjEYADLEfKwTSMyfRYRrSzQtu)
+### [VK API спам через node.js метод wall.post](https://www.youtube.com/watch?v=Hdy9xX6TfnU&amp;list=PL-leL2miqjEYADLEfKwTSMyfRYRrSzQtu&amp;index=3&amp;pp=iAQB)

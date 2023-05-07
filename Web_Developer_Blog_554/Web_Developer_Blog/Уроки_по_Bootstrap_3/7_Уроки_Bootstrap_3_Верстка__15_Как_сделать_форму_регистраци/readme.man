@@ -1,0 +1,3 @@
+# [Web Developer Blog](https://www.youtube.com/@SuprunAlexey/playlists)
+## [Уроки по Bootstrap 3](https://www.youtube.com/playlist?list=PLVfMKQXDAhGWqjumN9DPrWDO_HbmChuZt)
+### [Уроки Bootstrap 3 Верстка | #15. Как сделать форму регистрации или авторизации](https://www.youtube.com/watch?v=Q4oy7E7v07s&amp;list=PLVfMKQXDAhGWqjumN9DPrWDO_HbmChuZt&amp;index=7&amp;pp=iAQB)

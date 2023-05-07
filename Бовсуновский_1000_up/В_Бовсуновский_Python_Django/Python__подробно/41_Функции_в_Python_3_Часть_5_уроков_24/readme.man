@@ -1,0 +1,3 @@
+# [В. Бовсуновский Python Django](https://www.youtube.com/@bov/playlists?view=1)
+## [Python  подробно.](https://www.youtube.com/playlist?list=PLuZJ9n46uMzUrsewLlB0zRc_vsIMNEqJA)
+### [Функции в Python 3. Часть 5. (уроков 24)](https://www.youtube.com/watch?v=-ed4fjIr4ck&amp;list=PLuZJ9n46uMzUrsewLlB0zRc_vsIMNEqJA&amp;index=41&amp;pp=iAQB)

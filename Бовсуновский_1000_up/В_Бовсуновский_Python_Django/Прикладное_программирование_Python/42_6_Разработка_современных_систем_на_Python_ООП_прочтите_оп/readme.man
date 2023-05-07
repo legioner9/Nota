@@ -1,0 +1,3 @@
+# [В. Бовсуновский Python Django](https://www.youtube.com/@bov/playlists?view=1)
+## [Прикладное программирование Python.](https://www.youtube.com/playlist?list=PLuZJ9n46uMzX---cfRMYZgEDePohvo8dp)
+### [6. Разработка современных систем на Python ООП. (прочтите описание)](https://www.youtube.com/watch?v=4QKcIfgNy-s&amp;list=PLuZJ9n46uMzX---cfRMYZgEDePohvo8dp&amp;index=42&amp;pp=iAQB)

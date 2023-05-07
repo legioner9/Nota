@@ -1,0 +1,3 @@
+### [Lyric Search App With React &amp; Context API [1] - Top 10 Tracks](https://www.youtube.com/watch?v=NDEt0KdDbhk&amp;list=PLillGF-RfqbaxgxkKgKk1XlJAVCX31xRI&amp;index=1&amp;pp=iAQB)
+### [Lyric Search App With React &amp; Context API [2] - Lyrics Page](https://www.youtube.com/watch?v=jiM0wqQZMWg&amp;list=PLillGF-RfqbaxgxkKgKk1XlJAVCX31xRI&amp;index=2&amp;pp=iAQB)
+### [Lyric Search App With React &amp; Context API [3] - Search](https://www.youtube.com/watch?v=ktPocNL0qGg&amp;list=PLillGF-RfqbaxgxkKgKk1XlJAVCX31xRI&amp;index=3&amp;pp=iAQB)

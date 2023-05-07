@@ -1,0 +1,3 @@
+# [В. Бовсуновский Python Django](https://www.youtube.com/@bov/playlists?view=1)
+## [Blockchain c нуля](https://www.youtube.com/playlist?list=PLuZJ9n46uMzVFCtchjEhZ2TXHUiYjAXfd)
+### [10 миллионов умных контрактов blockchain в python. Ссылка на другие уроки в описании.](https://www.youtube.com/watch?v=QG1St7JVkLE&amp;list=PLuZJ9n46uMzVFCtchjEhZ2TXHUiYjAXfd&amp;index=9&amp;pp=iAQB)

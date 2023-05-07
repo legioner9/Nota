@@ -1,0 +1,3 @@
+# [freeCodeCamp.org](https://www.youtube.com/@freecodecamp/playlists)
+## [Popular Programming Courses](https://www.youtube.com/playlist?list=PLWKjhJtqVAblfum5WiQblKPwIbqYXkDoC)
+### [Learn JavaScript - Full Course for Beginners](https://www.youtube.com/watch?v=PkZNo7MFNFg&amp;list=PLWKjhJtqVAblfum5WiQblKPwIbqYXkDoC&amp;index=7&amp;pp=iAQB)

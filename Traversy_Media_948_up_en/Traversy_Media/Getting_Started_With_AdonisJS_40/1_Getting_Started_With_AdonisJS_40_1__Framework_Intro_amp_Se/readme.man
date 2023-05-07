@@ -1,0 +1,3 @@
+# [Traversy Media](https://www.youtube.com/@TraversyMedia/playlists)
+## [Getting Started With AdonisJS 4.0](https://www.youtube.com/playlist?list=PLillGF-RfqbY6wY9yZjCpSMzvhn-icuG6)
+### [Getting Started With AdonisJS 4.0 [1] - Framework Intro &amp; Setup](https://www.youtube.com/watch?v=2oXpBK2iNQU&amp;list=PLillGF-RfqbY6wY9yZjCpSMzvhn-icuG6&amp;index=1&amp;pp=iAQB)

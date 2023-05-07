@@ -1,0 +1,6 @@
+### [MASTER your coding interview](https://www.youtube.com/watch?v=iAHQopLuZ4Q&amp;list=PLWKjhJtqVAblv09G3sFgRMSeR0jnKQmJ9&amp;index=1&amp;pp=iAQB)
+### [How to ace the whiteboard coding interview](https://www.youtube.com/watch?v=51gc7-eskU8&amp;list=PLWKjhJtqVAblv09G3sFgRMSeR0jnKQmJ9&amp;index=2&amp;pp=iAQB)
+### [Python Algorithms for Interviews](https://www.youtube.com/watch?v=p65AHm9MX80&amp;list=PLWKjhJtqVAblv09G3sFgRMSeR0jnKQmJ9&amp;index=3&amp;pp=iAQB)
+### [Interview Tips from a Senior Software Engineer... and a 4 year old](https://www.youtube.com/watch?v=yrIvUFDPR0g&amp;list=PLWKjhJtqVAblv09G3sFgRMSeR0jnKQmJ9&amp;index=4&amp;pp=iAQB)
+### [Win your coding interview - The fearless interview](https://www.youtube.com/watch?v=i1gHZ6QPOoA&amp;list=PLWKjhJtqVAblv09G3sFgRMSeR0jnKQmJ9&amp;index=5&amp;pp=iAQB)
+### [Answering tricky JavaScript interview questions](https://www.youtube.com/watch?v=jh86NGG9jdE&amp;list=PLWKjhJtqVAblv09G3sFgRMSeR0jnKQmJ9&amp;index=6&amp;pp=iAQB)

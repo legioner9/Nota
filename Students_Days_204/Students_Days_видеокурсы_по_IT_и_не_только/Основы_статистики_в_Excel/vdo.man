@@ -1,0 +1,7 @@
+### [Excel Строим и настраиваем таблицу. Запускаем генератор случайных чисел. Шаг 1](https://www.youtube.com/watch?v=CRf8xkDs2bw&amp;list=PL7CmqnO_Qydg6Jbpnpefd2ZZ2iIV31l58&amp;index=1&amp;pp=iAQB)
+### [Excel. Определяем максимальное и минимальное значение,  среднюю и медианную величины. Шаг 2](https://www.youtube.com/watch?v=mvztLG8bY5c&amp;list=PL7CmqnO_Qydg6Jbpnpefd2ZZ2iIV31l58&amp;index=2&amp;pp=iAQB)
+### [Excel. Определяем абсолютную и относительные погрешности. Шаг 3](https://www.youtube.com/watch?v=Q7-dxe3Gy7w&amp;list=PL7CmqnO_Qydg6Jbpnpefd2ZZ2iIV31l58&amp;index=3&amp;pp=iAQB)
+### [Excel. Определяем дисперсию и среднеквадратическое отклонение. Шаг 4](https://www.youtube.com/watch?v=HAM3k2fIcOA&amp;list=PL7CmqnO_Qydg6Jbpnpefd2ZZ2iIV31l58&amp;index=4&amp;pp=iAQB)
+### [Excel. Как построить новый график, как добавить дополнительный график к существующему. Шаг 5](https://www.youtube.com/watch?v=8Cj-pwy_wuk&amp;list=PL7CmqnO_Qydg6Jbpnpefd2ZZ2iIV31l58&amp;index=5&amp;pp=iAQB)
+### [Excel. Настройка внешнего вида графика  функции. Шаг 6](https://www.youtube.com/watch?v=IPegZzdKeqY&amp;list=PL7CmqnO_Qydg6Jbpnpefd2ZZ2iIV31l58&amp;index=6&amp;pp=iAQB)
+### [Excel. Расчет коэффициента корреляции. Шаг 7](https://www.youtube.com/watch?v=oNPgRLd2Ds0&amp;list=PL7CmqnO_Qydg6Jbpnpefd2ZZ2iIV31l58&amp;index=7&amp;pp=iAQB)

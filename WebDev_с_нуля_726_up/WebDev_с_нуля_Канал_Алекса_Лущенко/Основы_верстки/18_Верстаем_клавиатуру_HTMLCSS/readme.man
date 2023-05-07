@@ -1,0 +1,3 @@
+# [WebDev с нуля. Канал Алекса Лущенко](https://www.youtube.com/@itgid/playlists)
+## [Основы верстки](https://www.youtube.com/playlist?list=PLM7wFzahDYnHKFV3AF8dtl6pBYgib1mMf)
+### [Верстаем клавиатуру HTML+CSS](https://www.youtube.com/watch?v=3fy6jUKO_ro&amp;list=PLM7wFzahDYnHKFV3AF8dtl6pBYgib1mMf&amp;index=18&amp;pp=iAQB)

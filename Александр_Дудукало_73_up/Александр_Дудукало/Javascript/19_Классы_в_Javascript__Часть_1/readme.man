@@ -1,0 +1,3 @@
+# [Александр Дудукало](https://www.youtube.com/@alex_dudukalo/playlists)
+## [Javascript](https://www.youtube.com/playlist?list=PLFqGDhtb0WiKwpw5nx6DjhFGtihnbcOVe)
+### [Классы в Javascript - Часть 1](https://www.youtube.com/watch?v=H8G9quGGjZM&amp;list=PLFqGDhtb0WiKwpw5nx6DjhFGtihnbcOVe&amp;index=19&amp;pp=iAQB)

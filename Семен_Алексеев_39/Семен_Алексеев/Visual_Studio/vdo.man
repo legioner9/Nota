@@ -1,0 +1,5 @@
+### [Visual Studio. Знакомство с NuGet Manager](https://www.youtube.com/watch?v=0OczR-zgZ1g&amp;list=PLUTrDHuvZc4HND4LlirvS9q_Vn05jrTd1&amp;index=1&amp;pp=iAQB)
+### [Установка и настройка Visual Studio Code для работы на языке C#](https://www.youtube.com/watch?v=n6WkO6l6-2M&amp;list=PLUTrDHuvZc4HND4LlirvS9q_Vn05jrTd1&amp;index=2&amp;pp=iAQB)
+### [Полезные плагины (расширения) для Visual Studio](https://www.youtube.com/watch?v=ioT4Vy5OlBU&amp;list=PLUTrDHuvZc4HND4LlirvS9q_Vn05jrTd1&amp;index=3&amp;pp=iAQB)
+### [Повышаем эффективность работы в Visual Studio. Создание Code Snippets для C# и HTML.](https://www.youtube.com/watch?v=xgcKi8pOXOw&amp;list=PLUTrDHuvZc4HND4LlirvS9q_Vn05jrTd1&amp;index=4&amp;pp=iAQB)
+### [Visual Studio Code или Visual Studio? Что выбрать, в чем отличия.](https://www.youtube.com/watch?v=4M-cPnu17_M&amp;list=PLUTrDHuvZc4HND4LlirvS9q_Vn05jrTd1&amp;index=5&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [Kamil Abzalov](https://www.youtube.com/@Kamil-abzalovRu/playlists)
+## [AngularJS](https://www.youtube.com/playlist?list=PLOpdT8GIZ4XXCTI-GGObOko6NkZrQjuJd)
+### [Lesson 170. AngularJS + AngularJS Material + WooCommerce API. Add and update product](https://www.youtube.com/watch?v=xWttSYh6DJY&amp;list=PLOpdT8GIZ4XXCTI-GGObOko6NkZrQjuJd&amp;index=9&amp;pp=iAQB)

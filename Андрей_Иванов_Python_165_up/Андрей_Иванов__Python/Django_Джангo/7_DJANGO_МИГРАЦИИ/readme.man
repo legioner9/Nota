@@ -1,0 +1,3 @@
+# [Андрей Иванов | Python](https://www.youtube.com/@PythononPapyrusRU/playlists)
+## [Django, Джангo](https://www.youtube.com/playlist?list=PLF4MWzDJPFSYvv-OXvFR7RsQrzgBjRPnW)
+### [DJANGO МИГРАЦИИ](https://www.youtube.com/watch?v=PHPz49rbsio&amp;list=PLF4MWzDJPFSYvv-OXvFR7RsQrzgBjRPnW&amp;index=7&amp;pp=iAQB)

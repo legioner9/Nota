@@ -1,0 +1,3 @@
+# [WebDev с нуля. Канал Алекса Лущенко](https://www.youtube.com/@itgid/playlists)
+## [React. Lite Level](https://www.youtube.com/playlist?list=PLM7wFzahDYnGxyTXJwrlHZ25izs7zdzY5)
+### [Firebase React Deploy. React Lite Level](https://www.youtube.com/watch?v=jReS_1P0VB0&amp;list=PLM7wFzahDYnGxyTXJwrlHZ25izs7zdzY5&amp;index=19&amp;pp=iAQB)

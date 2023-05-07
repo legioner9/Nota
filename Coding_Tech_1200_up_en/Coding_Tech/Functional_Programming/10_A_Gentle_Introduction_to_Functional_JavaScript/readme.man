@@ -1,0 +1,3 @@
+# [Coding Tech](https://www.youtube.com/@CodingTech/playlists)
+## [Functional Programming](https://www.youtube.com/playlist?list=PLFjq8z-aGyQ4gTpuAhnPEQBOz7Xz7wn_m)
+### [A Gentle Introduction to Functional JavaScript](https://www.youtube.com/watch?v=PyKZMY-_TI8&amp;list=PLFjq8z-aGyQ4gTpuAhnPEQBOz7Xz7wn_m&amp;index=10&amp;pp=iAQB)

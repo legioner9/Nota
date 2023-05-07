@@ -1,0 +1,3 @@
+# [В. Бовсуновский Python Django](https://www.youtube.com/@bov/playlists?view=1)
+## [новый подход в программировании.](https://www.youtube.com/playlist?list=PLuZJ9n46uMzX-9LOTi_tnxnv6zn7Ysk6W)
+### [Первое знакомство со встроенными объектами питон. Изучим некоторые понятия.](https://www.youtube.com/watch?v=scVPG78dNcs&amp;list=PLuZJ9n46uMzX-9LOTi_tnxnv6zn7Ysk6W&amp;index=13&amp;pp=iAQB)

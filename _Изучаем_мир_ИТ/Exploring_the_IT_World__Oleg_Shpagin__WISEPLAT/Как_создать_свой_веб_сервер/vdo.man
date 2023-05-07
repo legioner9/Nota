@@ -1,8 +1,0 @@
-### [Как установить LAMP веб сервер на Ubuntu](https://www.youtube.com/watch?v=ttFVKhSp1dw&amp;list=PLxiU3nwEQ4PHT_mZUqwGiE-OaPGxNfwEa&amp;index=1)
-### [Как скопировать виртуальную машину (сервер)](https://www.youtube.com/watch?v=ydUSbwS5B30&amp;list=PLxiU3nwEQ4PHT_mZUqwGiE-OaPGxNfwEa&amp;index=2)
-### [Как посмотреть сколько свободного места, ресурсов на Ubuntu Server](https://www.youtube.com/watch?v=ztjWrhVxo-E&amp;list=PLxiU3nwEQ4PHT_mZUqwGiE-OaPGxNfwEa&amp;index=3)
-### [Как установить FTP на Ubuntu сервер (настройка)](https://www.youtube.com/watch?v=h_qRBeBHtKE&amp;list=PLxiU3nwEQ4PHT_mZUqwGiE-OaPGxNfwEa&amp;index=4)
-### [Установка и настройка Open Server для Веб разработки / Как создать сайт](https://www.youtube.com/watch?v=VM7Z6rOOAdA&amp;list=PLxiU3nwEQ4PHT_mZUqwGiE-OaPGxNfwEa&amp;index=5)
-### [Какие гипервизоры использовать для виртуальных серверов и машин](https://www.youtube.com/watch?v=TSfjvmIAWOU&amp;list=PLxiU3nwEQ4PHT_mZUqwGiE-OaPGxNfwEa&amp;index=6)
-### [Как я изучаю новый язык программирования / Только для спонсоров ))](https://www.youtube.com/watch?v=xQ2-yRDV3gY&amp;list=PLxiU3nwEQ4PHT_mZUqwGiE-OaPGxNfwEa&amp;index=7)
-### [Создание сайта Wordpress на Open Server / Веб разработка](https://www.youtube.com/watch?v=AOaX47GEJZE&amp;list=PLxiU3nwEQ4PHT_mZUqwGiE-OaPGxNfwEa&amp;index=8)

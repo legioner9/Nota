@@ -1,0 +1,8 @@
+### [Уроки jQuery практика- как сделать адаптивное меню с Flexbox и jQuery](https://www.youtube.com/watch?v=tgVen6pc6i0&amp;list=PLVfMKQXDAhGV-wZwh_2uKTl3Ixk3v_Ptb&amp;index=1&amp;pp=iAQB)
+### [Уроки jQuery практика- как сделать слайдер](https://www.youtube.com/watch?v=u4qJcO5hLdQ&amp;list=PLVfMKQXDAhGV-wZwh_2uKTl3Ixk3v_Ptb&amp;index=2&amp;pp=iAQB)
+### [Уроки jQuery практика- как сделать кнопку наверх (back to top) как вконтакте](https://www.youtube.com/watch?v=d049Mr1WSFE&amp;list=PLVfMKQXDAhGV-wZwh_2uKTl3Ixk3v_Ptb&amp;index=3&amp;pp=iAQB)
+### [Уроки jQuery практика- анимация счетчика чисел](https://www.youtube.com/watch?v=ykS16GArbTk&amp;list=PLVfMKQXDAhGV-wZwh_2uKTl3Ixk3v_Ptb&amp;index=4&amp;pp=iAQB)
+### [Уроки jQuery практика- делаем To Do приложение](https://www.youtube.com/watch?v=BygJB_h5n2w&amp;list=PLVfMKQXDAhGV-wZwh_2uKTl3Ixk3v_Ptb&amp;index=5&amp;pp=iAQB)
+### [Уроки jQuery практика- делаем Skill bar для портфолио](https://www.youtube.com/watch?v=r_3FcNmYwL0&amp;list=PLVfMKQXDAhGV-wZwh_2uKTl3Ixk3v_Ptb&amp;index=6&amp;pp=iAQB)
+### [Уроки jQuery практика- делаем простой аккордеон](https://www.youtube.com/watch?v=nWmN_yn0IHI&amp;list=PLVfMKQXDAhGV-wZwh_2uKTl3Ixk3v_Ptb&amp;index=7&amp;pp=iAQB)
+### [Уроки jQuery практика- меняем фон страницы при скролле](https://www.youtube.com/watch?v=7eU48GpO2y8&amp;list=PLVfMKQXDAhGV-wZwh_2uKTl3Ixk3v_Ptb&amp;index=8&amp;pp=iAQB)

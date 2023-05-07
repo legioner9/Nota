@@ -1,0 +1,3 @@
+# [CodeQuest](https://www.youtube.com/@CodeQuestRu/playlists)
+## [Курсы](https://www.youtube.com/playlist?list=PLU0nVsJXPyy-R7Cf3_Q6An5SsiftwWmqa)
+### [Полный гайд по NPM для новичков | Как установить, обновить удалить пакеты - настройка NPM для работы](https://www.youtube.com/watch?v=FDfvuNbSs4U&amp;list=PLU0nVsJXPyy-R7Cf3_Q6An5SsiftwWmqa&amp;index=2&amp;pp=iAQB)

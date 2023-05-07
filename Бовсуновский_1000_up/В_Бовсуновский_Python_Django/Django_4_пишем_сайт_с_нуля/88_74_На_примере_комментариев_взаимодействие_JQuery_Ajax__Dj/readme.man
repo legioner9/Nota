@@ -1,0 +1,3 @@
+# [В. Бовсуновский Python Django](https://www.youtube.com/@bov/playlists?view=1)
+## [Django 4 пишем сайт с нуля.](https://www.youtube.com/playlist?list=PLuZJ9n46uMzXVj9JEjULImuBKRVKKS9To)
+### [74. На примере комментариев взаимодействие JQuery Ajax + Django 4 в IDE  Emacs.](https://www.youtube.com/watch?v=6-vvw0Tgxz8&amp;list=PLuZJ9n46uMzXVj9JEjULImuBKRVKKS9To&amp;index=88&amp;pp=iAQB)

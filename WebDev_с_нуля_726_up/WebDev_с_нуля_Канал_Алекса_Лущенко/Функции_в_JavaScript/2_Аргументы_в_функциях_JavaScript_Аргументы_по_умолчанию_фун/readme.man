@@ -1,0 +1,3 @@
+# [WebDev с нуля. Канал Алекса Лущенко](https://www.youtube.com/@itgid/playlists)
+## [Функции в JavaScript](https://www.youtube.com/playlist?list=PLM7wFzahDYnF2VdVjew48HKA7E_pnItDi)
+### [Аргументы в функциях JavaScript. Аргументы по умолчанию, функции как аргументы. Unit 02](https://www.youtube.com/watch?v=dhPHdmW55Qk&amp;list=PLM7wFzahDYnF2VdVjew48HKA7E_pnItDi&amp;index=2&amp;pp=iAQB)

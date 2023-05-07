@@ -1,0 +1,5 @@
+### [Учим jQuery за 30 минут. Начало.](https://www.youtube.com/watch?v=E8i9_8wPnKg&amp;list=PL3LQJkGQtzc5MFh51ACgwl8HXL3Hrqh5-&amp;index=1&amp;pp=iAQB)
+### [jQuery за 30 минут. Учим селекторы. Часть 1.](https://www.youtube.com/watch?v=pk2SvIKB5zs&amp;list=PL3LQJkGQtzc5MFh51ACgwl8HXL3Hrqh5-&amp;index=2&amp;pp=iAQB)
+### [jQuery за 30 минут. Учим события. Часть 2.](https://www.youtube.com/watch?v=S3kyIGoJFZ8&amp;list=PL3LQJkGQtzc5MFh51ACgwl8HXL3Hrqh5-&amp;index=3&amp;pp=iAQB)
+### [Изучаем jQuery за 30 минут. Изучаем Анимацию, атрибуты и др.](https://www.youtube.com/watch?v=mwS0oCoRWoU&amp;list=PL3LQJkGQtzc5MFh51ACgwl8HXL3Hrqh5-&amp;index=4&amp;pp=iAQB)
+### [Курс по jQuery готов!](https://www.youtube.com/watch?v=vb1cRw0slf0&amp;list=PL3LQJkGQtzc5MFh51ACgwl8HXL3Hrqh5-&amp;index=5&amp;pp=iAQB)

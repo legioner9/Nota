@@ -1,0 +1,3 @@
+# [web3.online](https://www.youtube.com/@web3online/playlists)
+## [Rust Lang Уроки](https://www.youtube.com/playlist?list=PLnalMG3z2RzF39Hg-PG-x_rH8Yr2ztYbV)
+### [Циклы loop | while | for.  Язык Rust](https://www.youtube.com/watch?v=Bpvj53VEAzg&amp;list=PLnalMG3z2RzF39Hg-PG-x_rH8Yr2ztYbV&amp;index=10&amp;pp=iAQB)

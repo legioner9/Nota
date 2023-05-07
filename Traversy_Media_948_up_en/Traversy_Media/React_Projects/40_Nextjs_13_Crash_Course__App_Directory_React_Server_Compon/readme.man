@@ -1,0 +1,3 @@
+# [Traversy Media](https://www.youtube.com/@TraversyMedia/playlists)
+## [React Projects](https://www.youtube.com/playlist?list=PLillGF-RfqbY3c2r0htQyVbDJJoBFE6Rb)
+### [Next.js 13 Crash Course | App Directory, React Server Components &amp; More](https://www.youtube.com/watch?v=Y6KDk5iyrYE&amp;list=PLillGF-RfqbY3c2r0htQyVbDJJoBFE6Rb&amp;index=40&amp;pp=iAQB)

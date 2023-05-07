@@ -1,0 +1,3 @@
+# [В. Бовсуновский Python Django](https://www.youtube.com/@bov/playlists?view=1)
+## [С++ крутой курс.](https://www.youtube.com/playlist?list=PLuZJ9n46uMzVXl6GARnuDRl-mGypczjcx)
+### [1. Так зачем же нужно программисту понимать С++? Для кого этот курс? Какова цель?](https://www.youtube.com/watch?v=_K-d5AazvF0&amp;list=PLuZJ9n46uMzVXl6GARnuDRl-mGypczjcx&amp;index=1&amp;pp=iAQB)

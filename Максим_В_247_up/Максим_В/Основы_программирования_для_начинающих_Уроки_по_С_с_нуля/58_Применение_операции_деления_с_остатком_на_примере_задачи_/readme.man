@@ -1,0 +1,3 @@
+# [Максим В](https://www.youtube.com/@cpp/playlists)
+## [Основы программирования для начинающих. Уроки по С++ с нуля.](https://www.youtube.com/playlist?list=PLlxYwLnXeoE0qsuXwsUi3zSU6FKOS8YCB)
+### [Применение операции деления с остатком на примере задачи.  Остаток от деления в C++](https://www.youtube.com/watch?v=M8bHoNgywXw&amp;list=PLlxYwLnXeoE0qsuXwsUi3zSU6FKOS8YCB&amp;index=58&amp;pp=iAQB)

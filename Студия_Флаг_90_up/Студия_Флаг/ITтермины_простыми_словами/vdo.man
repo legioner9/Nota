@@ -1,0 +1,3 @@
+### [Что такое DNS? О веб-разработке простыми словами.](https://www.youtube.com/watch?v=RZG86S4pQOo&amp;list=PLVdcV6tHcaCEbyT20nD3qup92ltKncMon&amp;index=1&amp;pp=iAQB)
+### [Что такое CI/CD?](https://www.youtube.com/watch?v=TZtdMhmAN0g&amp;list=PLVdcV6tHcaCEbyT20nD3qup92ltKncMon&amp;index=2&amp;pp=iAQB)
+### [Что такое front-end и back-end? О веб-разработке простыми словами.](https://www.youtube.com/watch?v=BOt3ASzwgtI&amp;list=PLVdcV6tHcaCEbyT20nD3qup92ltKncMon&amp;index=3&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [В. Бовсуновский Python Django](https://www.youtube.com/@bov/playlists?view=1)
+## [Уроки Linux](https://www.youtube.com/playlist?list=PLuZJ9n46uMzVwOZeH3dfra62lSqIVkmv9)
+### [Django 2 + сервер. Какие базы данных будем ставить. Как освоить линукс, тоже сказал.](https://www.youtube.com/watch?v=zoK-DUP5vdw&amp;list=PLuZJ9n46uMzVwOZeH3dfra62lSqIVkmv9&amp;index=38&amp;pp=iAQB)

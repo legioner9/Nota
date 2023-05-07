@@ -1,0 +1,3 @@
+# [Vyacheslav Chirkov - Programmer](https://www.youtube.com/@vcpro/playlists)
+## [assembler (уроки, обучение)](https://www.youtube.com/playlist?list=PLEjhu-KP5eiARTIYLKesV03RG2CKHWg5I)
+### [Скачать линкер для NASM 11](https://www.youtube.com/watch?v=VfR1DoDavzs&amp;list=PLEjhu-KP5eiARTIYLKesV03RG2CKHWg5I&amp;index=17&amp;pp=iAQB)

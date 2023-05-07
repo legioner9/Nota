@@ -1,0 +1,3 @@
+# [Vitaliy html](https://www.youtube.com/@vitaliyhtml/playlists)
+## [SQL](https://www.youtube.com/playlist?list=PL97bu4ZDN_byFtn3cDo7dbURidAlg7ZSG)
+### [Создание таблицы через CREATE TABLE](https://www.youtube.com/watch?v=Niafgb_5Q6c&amp;list=PL97bu4ZDN_byFtn3cDo7dbURidAlg7ZSG&amp;index=8&amp;pp=iAQB)

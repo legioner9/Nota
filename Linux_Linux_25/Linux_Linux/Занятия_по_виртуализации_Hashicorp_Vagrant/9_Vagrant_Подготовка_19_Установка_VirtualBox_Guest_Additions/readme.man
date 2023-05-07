@@ -1,0 +1,3 @@
+# [Linux Linux](https://www.youtube.com/@linuxlinux7961/playlists)
+## [Занятия по виртуализации Hashicorp Vagrant](https://www.youtube.com/playlist?list=PLx50iqBtw_6qNYGEFnYzn5NXf4nMFmYPo)
+### [Vagrant. Подготовка 1.9. Установка VirtualBox Guest Additions на Centos 7](https://www.youtube.com/watch?v=nlhNmIksx7g&amp;list=PLx50iqBtw_6qNYGEFnYzn5NXf4nMFmYPo&amp;index=9&amp;pp=iAQB)

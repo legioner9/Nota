@@ -1,0 +1,3 @@
+# [Monsterlessons Academy](https://www.youtube.com/@MonsterlessonsAcademy/playlists)
+## [Angular Course Online Free - Tutorial for Beginners](https://www.youtube.com/playlist?list=PLEjh-YiSBCDLC_zhXQ2J5SkHrLHdmV8qc)
+### [Angular Navigation, Angular Routerlink and Angular Router Outlet](https://www.youtube.com/watch?v=XqSNUXI4Hb0&amp;list=PLEjh-YiSBCDLC_zhXQ2J5SkHrLHdmV8qc&amp;index=13&amp;pp=iAQB)

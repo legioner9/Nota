@@ -1,0 +1,3 @@
+# [Просто о Laravel. CutCode](https://www.youtube.com/@CutCodeRu/playlists)
+## [Roadmap Laravel](https://www.youtube.com/playlist?list=PLTucyHptHtTn2Fh7QnUPoW0Cm81ZcoEJk)
+### [Тесты в проектах Laravel. Часть 2. Практика](https://www.youtube.com/watch?v=90_hBNcT9HA&amp;list=PLTucyHptHtTn2Fh7QnUPoW0Cm81ZcoEJk&amp;index=9&amp;pp=iAQB)

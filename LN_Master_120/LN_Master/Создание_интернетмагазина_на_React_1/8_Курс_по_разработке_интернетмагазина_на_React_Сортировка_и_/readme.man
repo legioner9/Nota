@@ -1,0 +1,3 @@
+# [LN Master](https://www.youtube.com/@ToBeCloser007/playlists)
+## [Создание интернет-магазина на React #1](https://www.youtube.com/playlist?list=PL3PZFGlHBUn21AJj-tdbDb2jTSC_FtqPZ)
+### [Курс по разработке интернет-магазина на React. Сортировка и смена валюты.](https://www.youtube.com/watch?v=admwK8EUsN8&amp;list=PL3PZFGlHBUn21AJj-tdbDb2jTSC_FtqPZ&amp;index=8&amp;pp=iAQB)

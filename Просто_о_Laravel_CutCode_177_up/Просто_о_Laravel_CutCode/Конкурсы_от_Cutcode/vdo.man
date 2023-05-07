@@ -1,0 +1,2 @@
+### [Competition from Cutcode! Test your Laravel knowledge](https://www.youtube.com/watch?v=TK8NJN3Op9o&amp;list=PLTucyHptHtTlxtj3K_LC3Rmq8Z-e4mGNS&amp;index=1&amp;pp=iAQB)
+### [Eloquent Оптимизация. Итоги челленджа №1 по Laravel от CutCode!](https://www.youtube.com/watch?v=sWquRs1akYI&amp;list=PLTucyHptHtTlxtj3K_LC3Rmq8Z-e4mGNS&amp;index=2&amp;pp=iAQB)

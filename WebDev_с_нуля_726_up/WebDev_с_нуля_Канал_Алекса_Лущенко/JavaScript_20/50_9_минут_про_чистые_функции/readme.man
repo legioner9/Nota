@@ -1,0 +1,3 @@
+# [WebDev с нуля. Канал Алекса Лущенко](https://www.youtube.com/@itgid/playlists)
+## [JavaScript 2.0](https://www.youtube.com/playlist?list=PLM7wFzahDYnEltE-aVGhRHYPwIJn0Xquu)
+### [9 минут про чистые функции](https://www.youtube.com/watch?v=wZnJtR5ICKw&amp;list=PLM7wFzahDYnEltE-aVGhRHYPwIJn0Xquu&amp;index=50&amp;pp=iAQB)

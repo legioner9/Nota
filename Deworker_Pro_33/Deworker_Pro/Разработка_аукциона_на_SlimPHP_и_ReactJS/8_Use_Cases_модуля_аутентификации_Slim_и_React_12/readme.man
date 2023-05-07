@@ -1,0 +1,3 @@
+# [Deworker Pro](https://www.youtube.com/@DeworkerPro/playlists)
+## [Разработка аукциона на SlimPHP и ReactJS](https://www.youtube.com/playlist?list=PLrmZ-W4yj5ERthQgVbOi5Xxk1wiXPI7wk)
+### [Use Cases модуля аутентификации [Slim и React #12]](https://www.youtube.com/watch?v=-Ww3-onmipk&amp;list=PLrmZ-W4yj5ERthQgVbOi5Xxk1wiXPI7wk&amp;index=8&amp;pp=iAQB)

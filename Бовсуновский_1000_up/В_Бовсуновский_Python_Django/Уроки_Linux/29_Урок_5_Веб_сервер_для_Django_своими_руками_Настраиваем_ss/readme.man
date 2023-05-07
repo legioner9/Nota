@@ -1,0 +1,3 @@
+# [В. Бовсуновский Python Django](https://www.youtube.com/@bov/playlists?view=1)
+## [Уроки Linux](https://www.youtube.com/playlist?list=PLuZJ9n46uMzVwOZeH3dfra62lSqIVkmv9)
+### [Урок 5. Веб сервер для Django своими руками. Настраиваем ssh.](https://www.youtube.com/watch?v=efRbEvEclZ8&amp;list=PLuZJ9n46uMzVwOZeH3dfra62lSqIVkmv9&amp;index=29&amp;pp=iAQB)

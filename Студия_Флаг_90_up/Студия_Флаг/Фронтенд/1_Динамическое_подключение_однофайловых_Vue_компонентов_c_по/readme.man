@@ -1,0 +1,3 @@
+# [Студия Флаг](https://www.youtube.com/@FlagStudio/playlists)
+## [Фронтенд](https://www.youtube.com/playlist?list=PLVdcV6tHcaCGQrTMSYdBgedHMhNtGNXWf)
+### [Динамическое подключение однофайловых Vue компонентов c помощью Webpack](https://www.youtube.com/watch?v=zp4npHjvYmk&amp;list=PLVdcV6tHcaCGQrTMSYdBgedHMhNtGNXWf&amp;index=1&amp;pp=iAQB)

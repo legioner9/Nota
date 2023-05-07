@@ -1,0 +1,3 @@
+# [Web Developer Blog](https://www.youtube.com/@SuprunAlexey/playlists)
+## [Уроки Laravel](https://www.youtube.com/playlist?list=PLVfMKQXDAhGUO-r2UPv3VszEwn_edFVC6)
+### [Уроки Laravel - Установка и введение в фреймворк](https://www.youtube.com/watch?v=cOIwxdffX4Y&amp;list=PLVfMKQXDAhGUO-r2UPv3VszEwn_edFVC6&amp;index=1&amp;pp=iAQB)

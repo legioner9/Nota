@@ -1,0 +1,3 @@
+# [Traversy Media](https://www.youtube.com/@TraversyMedia/playlists)
+## [Learning D3](https://www.youtube.com/playlist?list=PLillGF-RfqbY8Vy_G5WxXwhZx4eXI6Oea)
+### [Learning D3 Part 6 - Using Scales](https://www.youtube.com/watch?v=Xf2BHxPc5wM&amp;list=PLillGF-RfqbY8Vy_G5WxXwhZx4eXI6Oea&amp;index=6&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [Coding Tech](https://www.youtube.com/@CodingTech/playlists)
+## [C++](https://www.youtube.com/playlist?list=PLFjq8z-aGyQ77zA5OkzNETLca4ad864Da)
+### [Linear Algebra for the Standard C++ Library](https://www.youtube.com/watch?v=ynYJjn4uM8c&amp;list=PLFjq8z-aGyQ77zA5OkzNETLca4ad864Da&amp;index=6&amp;pp=iAQB)

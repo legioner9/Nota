@@ -1,0 +1,3 @@
+# [WebDev с нуля. Канал Алекса Лущенко](https://www.youtube.com/@itgid/playlists)
+## [Злой QA - учимся писать код](https://www.youtube.com/playlist?list=PLM7wFzahDYnGTubeO_o7DVAxqbMRvTqwO)
+### [Злой QA #2 -хейтим массивы в JS](https://www.youtube.com/watch?v=OXLa_72d9jk&amp;list=PLM7wFzahDYnGTubeO_o7DVAxqbMRvTqwO&amp;index=2&amp;pp=iAQB)

@@ -1,0 +1,5 @@
+### [Магазин игр на React/Redux [1] - Страница со списком игр](https://www.youtube.com/watch?v=2j_xaE91mNA&amp;list=PL1EApzIeyBXaH1Q__AWgPvxYy1tPjAS51&amp;index=1&amp;pp=iAQB)
+### [Магазин игр на React/Redux [2] - Добавление элементов в корзину](https://www.youtube.com/watch?v=q6qbBbFk4w4&amp;list=PL1EApzIeyBXaH1Q__AWgPvxYy1tPjAS51&amp;index=2&amp;pp=iAQB)
+### [Магазин игр на React/Redux [3] - Страница с Игрой и Оформление Заказа](https://www.youtube.com/watch?v=4BqaOb5bWjI&amp;list=PL1EApzIeyBXaH1Q__AWgPvxYy1tPjAS51&amp;index=3&amp;pp=iAQB)
+### [Магазин игр на React/Redux [4] - Переносим приложение на React Router v6](https://www.youtube.com/watch?v=KhU7GYumIa8&amp;list=PL1EApzIeyBXaH1Q__AWgPvxYy1tPjAS51&amp;index=4&amp;pp=iAQB)
+### [Магазин игр на React/Redux [5] - Деплой приложения](https://www.youtube.com/watch?v=XuxpQBqybJs&amp;list=PL1EApzIeyBXaH1Q__AWgPvxYy1tPjAS51&amp;index=5&amp;pp=iAQB)

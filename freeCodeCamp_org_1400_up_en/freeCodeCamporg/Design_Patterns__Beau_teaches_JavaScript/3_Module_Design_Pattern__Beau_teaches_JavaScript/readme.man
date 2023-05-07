@@ -1,0 +1,3 @@
+# [freeCodeCamp.org](https://www.youtube.com/@freecodecamp/playlists)
+## [Design Patterns - Beau teaches JavaScript](https://www.youtube.com/playlist?list=PLWKjhJtqVAbnZtkAI3BqcYxKnfWn_C704)
+### [Module Design Pattern - Beau teaches JavaScript](https://www.youtube.com/watch?v=3pXVHRT-amw&amp;list=PLWKjhJtqVAbnZtkAI3BqcYxKnfWn_C704&amp;index=3&amp;pp=iAQB)

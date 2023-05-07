@@ -1,0 +1,3 @@
+# [В. Бовсуновский Python Django](https://www.youtube.com/@bov/playlists?view=1)
+## [Python for Andoid](https://www.youtube.com/playlist?list=PLuZJ9n46uMzUhN970OOvoxm8pmECgAqLn)
+### [Kivy смысловая модель касания, перетаскивания, отпускания. (python for android)](https://www.youtube.com/watch?v=HE68vSn2I2w&amp;list=PLuZJ9n46uMzUhN970OOvoxm8pmECgAqLn&amp;index=41&amp;pp=iAQB)

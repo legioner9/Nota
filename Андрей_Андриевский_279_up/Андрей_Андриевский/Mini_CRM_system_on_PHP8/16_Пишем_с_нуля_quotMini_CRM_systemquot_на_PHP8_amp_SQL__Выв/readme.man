@@ -1,0 +1,3 @@
+# [Андрей Андриевский](https://www.youtube.com/@andrievskii/playlists)
+## [Mini CRM system on PHP8](https://www.youtube.com/playlist?list=PLMB6wLyKp7lXH2UwgDNTbeGlLNFvX1QcV)
+### [Пишем с нуля &quot;Mini CRM system&quot; на PHP8 &amp; SQL | Вывод задач в календарь на главную | Часть - 17](https://www.youtube.com/watch?v=PfzucYCl9wc&amp;list=PLMB6wLyKp7lXH2UwgDNTbeGlLNFvX1QcV&amp;index=16&amp;pp=iAQB)

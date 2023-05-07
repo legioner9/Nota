@@ -1,0 +1,5 @@
+### [Amazon Alexa Skill Development Live Stream - Day 1](https://www.youtube.com/watch?v=MhvQVROFUEw&amp;list=PLWKjhJtqVAblMiJPkJBny7WbfTYc6z27r&amp;index=1&amp;pp=iAQB)
+### [Amazon Alexa Skill Development Live Stream - Day 2](https://www.youtube.com/watch?v=1m7aFMyCYYw&amp;list=PLWKjhJtqVAblMiJPkJBny7WbfTYc6z27r&amp;index=2&amp;pp=iAQB)
+### [Amazon Alexa Skill Development Live Stream - Day 3](https://www.youtube.com/watch?v=M4bTcsOIPdo&amp;list=PLWKjhJtqVAblMiJPkJBny7WbfTYc6z27r&amp;index=3&amp;pp=iAQB)
+### [Amazon Alexa Skill Development Live Stream - Day 4](https://www.youtube.com/watch?v=Z60S9J7TCeU&amp;list=PLWKjhJtqVAblMiJPkJBny7WbfTYc6z27r&amp;index=4&amp;pp=iAQB)
+### [Amazon Alexa Development 101 (full tutorial course - June 2018 version)](https://www.youtube.com/watch?v=QkbXjknPoXc&amp;list=PLWKjhJtqVAblMiJPkJBny7WbfTYc6z27r&amp;index=5&amp;pp=iAQB)

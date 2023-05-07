@@ -1,0 +1,3 @@
+# [freeCodeCamp.org](https://www.youtube.com/@freecodecamp/playlists)
+## [Clean Code - Beau teaches JavaScript](https://www.youtube.com/playlist?list=PLWKjhJtqVAbkK24EaPurzMq0-kw5U9pJh)
+### [Clean Code: SOLID - Beau teaches JavaScript](https://www.youtube.com/watch?v=XzdhzyAukMM&amp;list=PLWKjhJtqVAbkK24EaPurzMq0-kw5U9pJh&amp;index=6&amp;pp=iAQB)

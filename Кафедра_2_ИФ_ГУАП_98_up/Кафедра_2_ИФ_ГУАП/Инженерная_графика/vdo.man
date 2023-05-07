@@ -1,0 +1,7 @@
+### [Основы работы с CAD. Правильные многоугольники](https://www.youtube.com/watch?v=fgTaKYdyP88&amp;list=PLkHuy0rsti_iB-FQjgxiYRX6XrtbjHqVQ&amp;index=1&amp;pp=iAQB)
+### [Основы работы с CAD. Правила оформления чертежей](https://www.youtube.com/watch?v=aZZ4gbzG8xg&amp;list=PLkHuy0rsti_iB-FQjgxiYRX6XrtbjHqVQ&amp;index=2&amp;pp=iAQB)
+### [Построение сопряжений и нанесение размеров](https://www.youtube.com/watch?v=Q7ri-hMwOOw&amp;list=PLkHuy0rsti_iB-FQjgxiYRX6XrtbjHqVQ&amp;index=3&amp;pp=iAQB)
+### [Построение третьего вида по двум имеющимся](https://www.youtube.com/watch?v=9KTRwtqxm5E&amp;list=PLkHuy0rsti_iB-FQjgxiYRX6XrtbjHqVQ&amp;index=4&amp;pp=iAQB)
+### [Разрезы и сечения](https://www.youtube.com/watch?v=_s2tcXvysPw&amp;list=PLkHuy0rsti_iB-FQjgxiYRX6XrtbjHqVQ&amp;index=5&amp;pp=iAQB)
+### [3D. Вспомогательные оси и плоскости](https://www.youtube.com/watch?v=dVRoDHF0Kyg&amp;list=PLkHuy0rsti_iB-FQjgxiYRX6XrtbjHqVQ&amp;index=6&amp;pp=iAQB)
+### [3D. Создание 3D-модели](https://www.youtube.com/watch?v=NziPtGk9Cpk&amp;list=PLkHuy0rsti_iB-FQjgxiYRX6XrtbjHqVQ&amp;index=7&amp;pp=iAQB)

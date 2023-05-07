@@ -1,0 +1,3 @@
+# [C++ User Group](https://www.youtube.com/@CUserGroupRussia/playlists)
+## [LLVM Meetup при поддержке C++Russia](https://www.youtube.com/playlist?list=PLZN9ZGiWZoZpdqvVdRYjp3YXX-Z-f0liP)
+### [Павел Степанов — Разработка портабельного ассемблера для новой инфраструктуры JIT](https://www.youtube.com/watch?v=vw6pZd8wamw&amp;list=PLZN9ZGiWZoZpdqvVdRYjp3YXX-Z-f0liP&amp;index=1&amp;pp=iAQB)

@@ -1,3 +1,0 @@
-# [Exploring the IT World / Oleg Shpagin / WISEPLAT](https://www.youtube.com/@wiseplat/playlists)
-## [Как написать программу под Андройд для телефона](https://www.youtube.com/playlist?list=PLxiU3nwEQ4PEmozFUTNYRW2wplYmsnh91)
-### [Уроки Java / Делаем первое приложение на Android Studio](https://www.youtube.com/watch?v=0H_BMUyHb1E&amp;list=PLxiU3nwEQ4PEmozFUTNYRW2wplYmsnh91&amp;index=2)

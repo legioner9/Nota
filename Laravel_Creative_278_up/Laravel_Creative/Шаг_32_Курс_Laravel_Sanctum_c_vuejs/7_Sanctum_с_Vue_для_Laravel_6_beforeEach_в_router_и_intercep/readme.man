@@ -1,0 +1,3 @@
+# [Laravel Creative](https://www.youtube.com/@laravelcreative/playlists)
+## [Шаг 3.2. Курс Laravel Sanctum c vuejs](https://www.youtube.com/playlist?list=PLd2_Os8Cj3t9g9HYi_MyogUfuGeHMjFqF)
+### [Sanctum с Vue для Laravel 6. beforeEach в router и interceptor response для редиректа при 401 и 419](https://www.youtube.com/watch?v=V-zPPPkO86Q&amp;list=PLd2_Os8Cj3t9g9HYi_MyogUfuGeHMjFqF&amp;index=7&amp;pp=iAQB)

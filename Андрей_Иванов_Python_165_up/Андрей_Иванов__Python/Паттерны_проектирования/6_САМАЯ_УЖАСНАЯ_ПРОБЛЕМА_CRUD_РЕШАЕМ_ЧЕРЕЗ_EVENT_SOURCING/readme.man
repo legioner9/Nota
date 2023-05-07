@@ -1,0 +1,3 @@
+# [Андрей Иванов | Python](https://www.youtube.com/@PythononPapyrusRU/playlists)
+## [Паттерны проектирования](https://www.youtube.com/playlist?list=PLF4MWzDJPFSYeUtNQGDsS-XZDriJjFRL8)
+### [САМАЯ УЖАСНАЯ ПРОБЛЕМА CRUD. РЕШАЕМ ЧЕРЕЗ EVENT SOURCING](https://www.youtube.com/watch?v=YRdEw484onU&amp;list=PLF4MWzDJPFSYeUtNQGDsS-XZDriJjFRL8&amp;index=6&amp;pp=iAQB)

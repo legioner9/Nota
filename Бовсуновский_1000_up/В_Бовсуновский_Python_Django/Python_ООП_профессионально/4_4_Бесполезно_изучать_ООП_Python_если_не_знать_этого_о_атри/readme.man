@@ -1,0 +1,3 @@
+# [В. Бовсуновский Python Django](https://www.youtube.com/@bov/playlists?view=1)
+## [Python ООП профессионально.](https://www.youtube.com/playlist?list=PLuZJ9n46uMzUiGAc8R98NCi_dtDbaDxmE)
+### [4. Бесполезно изучать ООП Python, если не знать этого о атрибутах.](https://www.youtube.com/watch?v=k3AIoSBGcts&amp;list=PLuZJ9n46uMzUiGAc8R98NCi_dtDbaDxmE&amp;index=4&amp;pp=iAQB)

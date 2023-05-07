@@ -1,0 +1,3 @@
+# [Михаил Федосеев](https://www.youtube.com/@fedoseevm/playlists)
+## [QML](https://www.youtube.com/playlist?list=PLYQhNajy-JUGESLZkUIdgpiZLX6UR9n9O)
+### [Эпизод 1. Знакомство с проектом QML по умолчанию.](https://www.youtube.com/watch?v=w8qSB3iqifE&amp;list=PLYQhNajy-JUGESLZkUIdgpiZLX6UR9n9O&amp;index=1&amp;pp=iAQB)

@@ -1,0 +1,8 @@
+### [[PHP] Пишем простой MVC фреймворк. Структура, автозагрузка классов, класс Router. Часть #1](https://www.youtube.com/watch?v=-kacVilgyEI&amp;list=PLB8wmVoWIIx6yflr2Pf3jcRi-DtWi3xmk&amp;index=1&amp;pp=iAQB)
+### [[PHP] Пишем простой MVC фреймворк. Продолжаем писать класс Router и добавили маршруты. Часть #2](https://www.youtube.com/watch?v=tH5QAGpJwxk&amp;list=PLB8wmVoWIIx6yflr2Pf3jcRi-DtWi3xmk&amp;index=2&amp;pp=iAQB)
+### [[PHP] Пишем простой MVC фреймворк. Завершили класс Router. Подключаем контроллеры. Часть #3](https://www.youtube.com/watch?v=holCJ3sESYs&amp;list=PLB8wmVoWIIx6yflr2Pf3jcRi-DtWi3xmk&amp;index=3&amp;pp=iAQB)
+### [[PHP] Пишем простой MVC фреймворк. Виды и шаблоны. Класс View. Часть #4](https://www.youtube.com/watch?v=NwB7L3EgzU0&amp;list=PLB8wmVoWIIx6yflr2Pf3jcRi-DtWi3xmk&amp;index=4&amp;pp=iAQB)
+### [[PHP] Пишем простой MVC фреймворк. Завершили класс View. Часть #5](https://www.youtube.com/watch?v=WOkKwHR5Lkk&amp;list=PLB8wmVoWIIx6yflr2Pf3jcRi-DtWi3xmk&amp;index=5&amp;pp=iAQB)
+### [[PHP] Пишем простой MVC фреймворк. Работа с БД. Класс Db. Пример SQL инъекции, защита. Часть #6](https://www.youtube.com/watch?v=BYvnHPt4tOc&amp;list=PLB8wmVoWIIx6yflr2Pf3jcRi-DtWi3xmk&amp;index=6&amp;pp=iAQB)
+### [[PHP] Пишем простой MVC фреймворк. Работа с моделями. Часть #7](https://www.youtube.com/watch?v=fQjbt4Nnso4&amp;list=PLB8wmVoWIIx6yflr2Pf3jcRi-DtWi3xmk&amp;index=7&amp;pp=iAQB)
+### [[PHP] Пишем простой MVC фреймворк. Контроль доступа. Часть #8](https://www.youtube.com/watch?v=6EaEyCVTEQU&amp;list=PLB8wmVoWIIx6yflr2Pf3jcRi-DtWi3xmk&amp;index=8&amp;pp=iAQB)

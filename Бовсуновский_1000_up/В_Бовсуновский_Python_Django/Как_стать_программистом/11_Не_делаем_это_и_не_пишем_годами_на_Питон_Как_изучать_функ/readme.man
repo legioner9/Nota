@@ -1,0 +1,3 @@
+# [В. Бовсуновский Python Django](https://www.youtube.com/@bov/playlists?view=1)
+## [Как стать программистом?](https://www.youtube.com/playlist?list=PLuZJ9n46uMzVRv_Ci_CmJRdj_p1fZ2fMX)
+### [Не делаем это и не пишем годами на Питон? Как изучать функции Python.](https://www.youtube.com/watch?v=V7Ck_kfeOYY&amp;list=PLuZJ9n46uMzVRv_Ci_CmJRdj_p1fZ2fMX&amp;index=11&amp;pp=iAQB)

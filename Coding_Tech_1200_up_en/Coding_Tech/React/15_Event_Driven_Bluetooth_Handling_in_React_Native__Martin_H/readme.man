@@ -1,0 +1,3 @@
+# [Coding Tech](https://www.youtube.com/@CodingTech/playlists)
+## [React](https://www.youtube.com/playlist?list=PLFjq8z-aGyQ6A_8o_n6O4thKpO5mPC9FM)
+### [Event Driven Bluetooth Handling in React Native || Martin Heller](https://www.youtube.com/watch?v=CpSr6zngoqo&amp;list=PLFjq8z-aGyQ6A_8o_n6O4thKpO5mPC9FM&amp;index=15&amp;pp=iAQB)

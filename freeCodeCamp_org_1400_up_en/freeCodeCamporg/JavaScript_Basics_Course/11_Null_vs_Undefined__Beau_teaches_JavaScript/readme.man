@@ -1,0 +1,3 @@
+# [freeCodeCamp.org](https://www.youtube.com/@freecodecamp/playlists)
+## [JavaScript Basics Course](https://www.youtube.com/playlist?list=PLWKjhJtqVAbk2qRZtWSzCIN38JC_NdhW5)
+### [Null vs Undefined - Beau teaches JavaScript](https://www.youtube.com/watch?v=VwaqJy_clnc&amp;list=PLWKjhJtqVAbk2qRZtWSzCIN38JC_NdhW5&amp;index=11&amp;pp=iAQB)

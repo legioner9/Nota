@@ -1,0 +1,2 @@
+### [Progressive Web Applications PWA и ServiceWorkers](https://www.youtube.com/watch?v=s7AIwZMTVPs&amp;list=PLHhi8ymDMrQaI1L1jB0-3FDEOaaCJchZP&amp;index=1&amp;pp=iAQB)
+### [JavaScript в браузере: Web API (часть 1)](https://www.youtube.com/watch?v=6O8SBJsNeNw&amp;list=PLHhi8ymDMrQaI1L1jB0-3FDEOaaCJchZP&amp;index=2&amp;pp=iAQB)

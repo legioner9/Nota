@@ -1,0 +1,3 @@
+# [WebDev с нуля. Канал Алекса Лущенко](https://www.youtube.com/@itgid/playlists)
+## [JavaScript Мозголомки](https://www.youtube.com/playlist?list=PLM7wFzahDYnGmYXTzmw-vTE9tSm8qr5cY)
+### [Мозголомка - разбираем переменная и функция с одним именем!](https://www.youtube.com/watch?v=itiKNECPqjo&amp;list=PLM7wFzahDYnGmYXTzmw-vTE9tSm8qr5cY&amp;index=6&amp;pp=iAQB)

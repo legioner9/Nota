@@ -1,0 +1,3 @@
+# [Андрей Андриевский](https://www.youtube.com/@andrievskii/playlists)
+## [Базовый курс PHP-7](https://www.youtube.com/playlist?list=PLMB6wLyKp7lWt6GpOEV1BrHiX7zJnVMDy)
+### [Наследование в PHP (ООП) | Базовый курс PHP-7](https://www.youtube.com/watch?v=Ef27EgHNjOk&amp;list=PLMB6wLyKp7lWt6GpOEV1BrHiX7zJnVMDy&amp;index=44&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [WebDev с нуля. Канал Алекса Лущенко](https://www.youtube.com/@itgid/playlists)
+## [HTML для JS разработчиков](https://www.youtube.com/playlist?list=PLM7wFzahDYnFm6iix7x5zYxqMTBe12vvj)
+### [6. Позиционирование - практика. HTML для JavaScript разработчиков](https://www.youtube.com/watch?v=pjDsYO5HgVU&amp;list=PLM7wFzahDYnFm6iix7x5zYxqMTBe12vvj&amp;index=6&amp;pp=iAQB)

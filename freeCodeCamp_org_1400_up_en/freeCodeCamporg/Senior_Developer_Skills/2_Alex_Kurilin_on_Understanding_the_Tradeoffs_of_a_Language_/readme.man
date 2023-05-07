@@ -1,0 +1,3 @@
+# [freeCodeCamp.org](https://www.youtube.com/@freecodecamp/playlists)
+## [Senior Developer Skills](https://www.youtube.com/playlist?list=PLWKjhJtqVAbko4Ob-wS8spASazBNlf4tT)
+### [Alex Kurilin on Understanding the Tradeoffs of a Language - Senior Developer Skills](https://www.youtube.com/watch?v=xe1yllE3mFE&amp;list=PLWKjhJtqVAbko4Ob-wS8spASazBNlf4tT&amp;index=2&amp;pp=iAQB)

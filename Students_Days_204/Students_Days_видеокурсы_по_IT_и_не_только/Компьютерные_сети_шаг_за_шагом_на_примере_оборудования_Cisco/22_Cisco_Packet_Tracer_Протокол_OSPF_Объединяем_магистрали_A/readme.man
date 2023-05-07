@@ -1,0 +1,3 @@
+# [Students Days (видеокурсы по IT и не только)](https://www.youtube.com/@studentsdaysit2002/playlists)
+## [Компьютерные сети шаг за шагом (на примере оборудования Cisco)](https://www.youtube.com/playlist?list=PL7CmqnO_QydgI7FyoWR6HVUZr-OOFxfXp)
+### [Cisco Packet Tracer. Протокол OSPF. Объединяем магистрали (Area 0) при помощи virtual-link  # 17](https://www.youtube.com/watch?v=-3S2Okr30vw&amp;list=PL7CmqnO_QydgI7FyoWR6HVUZr-OOFxfXp&amp;index=22&amp;pp=iAQB)

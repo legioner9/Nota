@@ -1,0 +1,3 @@
+# [Web Developer Blog](https://www.youtube.com/@SuprunAlexey/playlists)
+## [Уроки jQuery](https://www.youtube.com/playlist?list=PLVfMKQXDAhGXQcouhIblV910Rv7lRscH3)
+### [Уроки jQuery #4 | События в jquery](https://www.youtube.com/watch?v=p7ey_crD_UY&amp;list=PLVfMKQXDAhGXQcouhIblV910Rv7lRscH3&amp;index=4&amp;pp=iAQB)

@@ -1,0 +1,2 @@
+### [arduino 1ый урок](https://www.youtube.com/watch?v=6FM0RKMgRSo&amp;list=PLEjhu-KP5eiA7dKULFiVXVi-rghtDSTox&amp;index=1&amp;pp=iAQB)
+### [Подключение МОТОРА к Arduino урок2](https://www.youtube.com/watch?v=DqE-xipFLzQ&amp;list=PLEjhu-KP5eiA7dKULFiVXVi-rghtDSTox&amp;index=2&amp;pp=iAQB)

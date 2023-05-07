@@ -1,0 +1,3 @@
+# [C++ User Group](https://www.youtube.com/@CUserGroupRussia/playlists)
+## [C++ Russia 2020 Piter](https://www.youtube.com/playlist?list=PLZN9ZGiWZoZpzXS_y_1tZJW0OaL-HrU1F)
+### [Михаил Беляев — Проблемы embedded или как мы от SQLite ушли](https://www.youtube.com/watch?v=0BLB7CMrnZc&amp;list=PLZN9ZGiWZoZpzXS_y_1tZJW0OaL-HrU1F&amp;index=20&amp;pp=iAQB)

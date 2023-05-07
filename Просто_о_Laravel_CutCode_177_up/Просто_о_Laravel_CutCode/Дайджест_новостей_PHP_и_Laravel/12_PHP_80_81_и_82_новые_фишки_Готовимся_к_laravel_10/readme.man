@@ -1,0 +1,3 @@
+# [Просто о Laravel. CutCode](https://www.youtube.com/@CutCodeRu/playlists)
+## [Дайджест новостей PHP и Laravel](https://www.youtube.com/playlist?list=PLTucyHptHtTkYQipqnXrsNZSjZOjo1-wE)
+### [PHP 8.0, 8.1 и 8.2: новые фишки. Готовимся к laravel 10](https://www.youtube.com/watch?v=KjO3MnZ-hs8&amp;list=PLTucyHptHtTkYQipqnXrsNZSjZOjo1-wE&amp;index=12&amp;pp=iAQB)

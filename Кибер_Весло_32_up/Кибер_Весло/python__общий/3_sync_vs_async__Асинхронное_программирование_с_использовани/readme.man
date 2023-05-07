@@ -1,0 +1,3 @@
+# [Кибер Весло](https://www.youtube.com/@cyber-paddle/playlists)
+## [python - общий](https://www.youtube.com/playlist?list=PLIMYb25g876gHy7Ilxy8cPntUHs4WMAED)
+### [sync v.s. async - Асинхронное программирование с использованием библиотеки Python AsyncIO.](https://www.youtube.com/watch?v=fsOUCxBowD8&amp;list=PLIMYb25g876gHy7Ilxy8cPntUHs4WMAED&amp;index=3&amp;pp=iAQB)

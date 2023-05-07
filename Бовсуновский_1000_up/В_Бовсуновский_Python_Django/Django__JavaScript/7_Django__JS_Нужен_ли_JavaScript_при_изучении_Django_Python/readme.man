@@ -1,0 +1,3 @@
+# [В. Бовсуновский Python Django](https://www.youtube.com/@bov/playlists?view=1)
+## [Django + JavaScript](https://www.youtube.com/playlist?list=PLuZJ9n46uMzVrU0AP9_wUPmdzdr4MP4Wn)
+### [Django + JS. Нужен ли JavaScript, при изучении Django Python?](https://www.youtube.com/watch?v=2qMWBmkQt64&amp;list=PLuZJ9n46uMzVrU0AP9_wUPmdzdr4MP4Wn&amp;index=7&amp;pp=iAQB)

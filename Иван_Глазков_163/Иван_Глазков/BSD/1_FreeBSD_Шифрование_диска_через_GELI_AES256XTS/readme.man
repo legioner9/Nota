@@ -1,0 +1,3 @@
+# [Иван Глазков](https://www.youtube.com/@vanohaker/playlists)
+## [BSD](https://www.youtube.com/playlist?list=PL2BaVmpX7hX_hRZYNUQEfhmtVNo7i6O8t)
+### [FreeBSD. Шифрование диска через GELI (AES256-XTS)](https://www.youtube.com/watch?v=C9nOK1pGGNo&amp;list=PL2BaVmpX7hX_hRZYNUQEfhmtVNo7i6O8t&amp;index=1&amp;pp=iAQB)

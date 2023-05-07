@@ -1,0 +1,3 @@
+# [Андрей Иванов | Python](https://www.youtube.com/@PythononPapyrusRU/playlists)
+## [Django, Джангo](https://www.youtube.com/playlist?list=PLF4MWzDJPFSYvv-OXvFR7RsQrzgBjRPnW)
+### [ЛОГИРОВАНИЕ В DJANGO. НАСТРАИВАЕМ LOGGING](https://www.youtube.com/watch?v=nfml4BbBAbE&amp;list=PLF4MWzDJPFSYvv-OXvFR7RsQrzgBjRPnW&amp;index=9&amp;pp=iAQB)

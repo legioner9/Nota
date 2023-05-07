@@ -1,0 +1,4 @@
+### [JavaScript - многопоточный? Web Workers в JavaScript](https://www.youtube.com/watch?v=_wZiKIBzhTw&amp;list=PLmfIBo6rTVR5f9voEShrsEbCc7fA_7A8-&amp;index=1&amp;pp=iAQB)
+### [Что и где использовать? Web Worker / Service Worker / Promise](https://www.youtube.com/watch?v=G2hKEL5ocAI&amp;list=PLmfIBo6rTVR5f9voEShrsEbCc7fA_7A8-&amp;index=2&amp;pp=iAQB)
+### [Как промисифицировать Web Worker в JavaScript](https://www.youtube.com/watch?v=ezHWb0tKTaA&amp;list=PLmfIBo6rTVR5f9voEShrsEbCc7fA_7A8-&amp;index=3&amp;pp=iAQB)
+### [Пишем хук для работы с Web Worker в ReactJS](https://www.youtube.com/watch?v=vxtRIswyO3Y&amp;list=PLmfIBo6rTVR5f9voEShrsEbCc7fA_7A8-&amp;index=4&amp;pp=iAQB)

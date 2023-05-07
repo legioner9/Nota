@@ -1,0 +1,3 @@
+# [Степан](https://www.youtube.com/@Shift63770/playlists)
+## [[PHP] Пишем свой движок 2.0](https://www.youtube.com/playlist?list=PLB8wmVoWIIx5mjsys7htsaF030LEFIFw8)
+### [[PHP] Пишем свой движок 2.0. Подтверждение входа по E-mail #12](https://www.youtube.com/watch?v=FyAtWwwHtP8&amp;list=PLB8wmVoWIIx5mjsys7htsaF030LEFIFw8&amp;index=12&amp;pp=iAQB)

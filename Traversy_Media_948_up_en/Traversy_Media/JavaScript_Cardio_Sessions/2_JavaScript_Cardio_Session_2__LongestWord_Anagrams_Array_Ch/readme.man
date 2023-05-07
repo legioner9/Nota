@@ -1,0 +1,3 @@
+# [Traversy Media](https://www.youtube.com/@TraversyMedia/playlists)
+## [JavaScript Cardio Sessions](https://www.youtube.com/playlist?list=PLillGF-Rfqbb4ZOnsNCIB-DnLuUrQjS_G)
+### [JavaScript Cardio [Session 2] - LongestWord, Anagrams, Array Chunking](https://www.youtube.com/watch?v=FfchU1FS2IA&amp;list=PLillGF-Rfqbb4ZOnsNCIB-DnLuUrQjS_G&amp;index=2&amp;pp=iAQB)

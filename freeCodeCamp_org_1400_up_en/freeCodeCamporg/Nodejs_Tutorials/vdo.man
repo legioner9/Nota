@@ -1,0 +1,8 @@
+### [Learn Node.js - Full Tutorial for Beginners](https://www.youtube.com/watch?v=RLtyhwFtXQA&amp;list=PLWKjhJtqVAbmGQoa3vFjeRbRADAOC9drk&amp;index=1&amp;pp=iAQB)
+### [Express.js &amp; Node.js Course for Beginners - Full Tutorial](https://www.youtube.com/watch?v=G8uL0lFFoN0&amp;list=PLWKjhJtqVAbmGQoa3vFjeRbRADAOC9drk&amp;index=2&amp;pp=iAQB)
+### [Build a Node.js API - tutorial](https://www.youtube.com/watch?v=fsCjFHuMXj0&amp;list=PLWKjhJtqVAbmGQoa3vFjeRbRADAOC9drk&amp;index=3&amp;pp=iAQB)
+### [Web Scraping with Node.js](https://www.youtube.com/watch?v=eUYMiztBEdY&amp;list=PLWKjhJtqVAbmGQoa3vFjeRbRADAOC9drk&amp;index=4&amp;pp=iAQB)
+### [How to Build a RESTful API using Node, Express, and Mongo](https://www.youtube.com/watch?v=o3ka5fYysBM&amp;list=PLWKjhJtqVAbmGQoa3vFjeRbRADAOC9drk&amp;index=5&amp;pp=iAQB)
+### [Node.js and Chatkit JavaScript tutorial: Build a command-line chat app](https://www.youtube.com/watch?v=VT674-wB6-Q&amp;list=PLWKjhJtqVAbmGQoa3vFjeRbRADAOC9drk&amp;index=6&amp;pp=iAQB)
+### [Code a magic card trick using JavaScript &amp; Node.js - Tutorial](https://www.youtube.com/watch?v=h21pa3yeW08&amp;list=PLWKjhJtqVAbmGQoa3vFjeRbRADAOC9drk&amp;index=7&amp;pp=iAQB)
+### [Getting Started with Node.js - Full Tutorial](https://www.youtube.com/watch?v=gG3pytAY2MY&amp;list=PLWKjhJtqVAbmGQoa3vFjeRbRADAOC9drk&amp;index=8&amp;pp=iAQB)

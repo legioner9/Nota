@@ -1,0 +1,3 @@
+# [My COMPuteR](https://www.youtube.com/@mycomputer7943/playlists?view=1)
+## [✦ Debian ✦](https://www.youtube.com/playlist?list=PLh1BaaL_XriPFsr93J-m0OevrSs2s5j59)
+### [UFW - настройка Firewall в Debian 10](https://www.youtube.com/watch?v=61j_Ru4oiTQ&amp;list=PLh1BaaL_XriPFsr93J-m0OevrSs2s5j59&amp;index=3&amp;pp=iAQB)

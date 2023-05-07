@@ -1,0 +1,3 @@
+# [Просто о Laravel. CutCode](https://www.youtube.com/@CutCodeRu/playlists)
+## [Полезное видео](https://www.youtube.com/playlist?list=PLTucyHptHtTmq4HFKZVmwwzcac2kgfaEZ)
+### [Разработка собственных пакетов для Laravel. Часть 2: реализация](https://www.youtube.com/watch?v=-QCOvRVUoYM&amp;list=PLTucyHptHtTmq4HFKZVmwwzcac2kgfaEZ&amp;index=22&amp;pp=iAQB)

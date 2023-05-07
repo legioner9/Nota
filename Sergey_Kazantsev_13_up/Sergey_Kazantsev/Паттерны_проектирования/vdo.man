@@ -1,0 +1,7 @@
+### [Dependency Injection, С#, Внедрение зависимостей, unity, gamedev](https://www.youtube.com/watch?v=WJLns2wfNtE&amp;list=PL7GaNwuzA5StjPUhLzaegidzFr9JK9TXw&amp;index=1&amp;pp=iAQB)
+### [Паттерн Observer, С#, unity,  gamedev,](https://www.youtube.com/watch?v=O5T-gTlWxDU&amp;list=PL7GaNwuzA5StjPUhLzaegidzFr9JK9TXw&amp;index=2&amp;pp=iAQB)
+### [Паттерн Factory Method, Фабричный метод, С#, Unity](https://www.youtube.com/watch?v=5LIoa4jbAVg&amp;list=PL7GaNwuzA5StjPUhLzaegidzFr9JK9TXw&amp;index=3&amp;pp=iAQB)
+### [Паттерн Abstract Factory, Абстрактная фабрика, C#, Unity](https://www.youtube.com/watch?v=AqUjA-gnXik&amp;list=PL7GaNwuzA5StjPUhLzaegidzFr9JK9TXw&amp;index=4&amp;pp=iAQB)
+### [Model View Controller, MVC, Модель Вид Контроллер, C#, Unity](https://www.youtube.com/watch?v=UuS1sxphaFU&amp;list=PL7GaNwuzA5StjPUhLzaegidzFr9JK9TXw&amp;index=5&amp;pp=iAQB)
+### [Model View Presenter, MVP,  Модель Вид Представитель, С#, Unity](https://www.youtube.com/watch?v=mjR5zFLSlF0&amp;list=PL7GaNwuzA5StjPUhLzaegidzFr9JK9TXw&amp;index=6&amp;pp=iAQB)
+### [Model View ViewModel, Модель Вид Модель Вида, Unity, C#](https://www.youtube.com/watch?v=T2zovvglVZw&amp;list=PL7GaNwuzA5StjPUhLzaegidzFr9JK9TXw&amp;index=7&amp;pp=iAQB)

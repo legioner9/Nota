@@ -1,0 +1,4 @@
+### [Effector, тестирование, архитектура, уязвимости node-ipc](https://www.youtube.com/watch?v=WFfLlt6ekS4&amp;list=PLRXfqpDVC48YBxB71dx1YRKixd1_6AjmV&amp;index=1&amp;pp=iAQB)
+### [[TalkStream] #3 — Архитектура React-приложений](https://www.youtube.com/watch?v=h1YY7r9Uov8&amp;list=PLRXfqpDVC48YBxB71dx1YRKixd1_6AjmV&amp;index=2&amp;pp=iAQB)
+### [[TalkStream] #2 — Server-push, performance, загрузка данных и state manager](https://www.youtube.com/watch?v=iC_uJ2XYUdM&amp;list=PLRXfqpDVC48YBxB71dx1YRKixd1_6AjmV&amp;index=3&amp;pp=iAQB)
+### [[TalkStream] #1 — Frontend всё?!](https://www.youtube.com/watch?v=vMLLyWWd6So&amp;list=PLRXfqpDVC48YBxB71dx1YRKixd1_6AjmV&amp;index=4&amp;pp=iAQB)

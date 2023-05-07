@@ -1,0 +1,3 @@
+# [Просто о Laravel. CutCode](https://www.youtube.com/@CutCodeRu/playlists)
+## [Laravel updates](https://www.youtube.com/playlist?list=PLTucyHptHtTltQAJTseNL2xCIoX0RWb6r)
+### [Laravel update 8.37 дайджест обновления](https://www.youtube.com/watch?v=HC2npPlrvGU&amp;list=PLTucyHptHtTltQAJTseNL2xCIoX0RWb6r&amp;index=2&amp;pp=iAQB)

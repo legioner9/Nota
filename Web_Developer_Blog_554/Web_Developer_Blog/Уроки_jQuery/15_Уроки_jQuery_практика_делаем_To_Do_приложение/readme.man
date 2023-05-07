@@ -1,0 +1,3 @@
+# [Web Developer Blog](https://www.youtube.com/@SuprunAlexey/playlists)
+## [Уроки jQuery](https://www.youtube.com/playlist?list=PLVfMKQXDAhGXQcouhIblV910Rv7lRscH3)
+### [Уроки jQuery практика- делаем To Do приложение](https://www.youtube.com/watch?v=BygJB_h5n2w&amp;list=PLVfMKQXDAhGXQcouhIblV910Rv7lRscH3&amp;index=15&amp;pp=iAQB)

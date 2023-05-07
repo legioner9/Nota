@@ -1,0 +1,3 @@
+### [Рендер страницы в JavaScript [Что есть React #1]](https://www.youtube.com/watch?v=iRdWzGWCnNU&amp;list=PLrmZ-W4yj5ESLoHa4J26Pd-1w5_k09Nih&amp;index=1&amp;pp=iAQB)
+### [Динамика и иммутабельный flow [Что есть React #2]](https://www.youtube.com/watch?v=UCWD25UsXro&amp;list=PLrmZ-W4yj5ESLoHa4J26Pd-1w5_k09Nih&amp;index=2&amp;pp=iAQB)
+### [Виртуальный DOM и синхронизация UI [Что есть React #3]](https://www.youtube.com/watch?v=_fhXXaYbDOU&amp;list=PLrmZ-W4yj5ESLoHa4J26Pd-1w5_k09Nih&amp;index=3&amp;pp=iAQB)

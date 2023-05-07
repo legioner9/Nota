@@ -1,0 +1,3 @@
+# [Web Developer Blog](https://www.youtube.com/@SuprunAlexey/playlists)
+## [Современная верстка сайта с нуля](https://www.youtube.com/playlist?list=PLVfMKQXDAhGVcNuWQrw8w2ZINnfSZCUkt)
+### [Современная верстка сайта - Css Grid, grid-template-columns](https://www.youtube.com/watch?v=ze9qlsO8w_g&amp;list=PLVfMKQXDAhGVcNuWQrw8w2ZINnfSZCUkt&amp;index=7&amp;pp=iAQB)

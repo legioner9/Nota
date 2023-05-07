@@ -1,0 +1,4 @@
+### [Верстка сайта онлайн. Подробно с объяснениями для новичков. HTML, CSS, JS. Часть 1](https://www.youtube.com/watch?v=DPA9qzBJPaA&amp;list=PL1NBhQGGj46arKowyG-OBKSRSq7j1tO2v&amp;index=1&amp;pp=iAQB)
+### [Верстка сайта онлайн. Подробно с объяснениями для новичков. HTML, CSS, JS. Часть 2](https://www.youtube.com/watch?v=W-yCnNl8lyE&amp;list=PL1NBhQGGj46arKowyG-OBKSRSq7j1tO2v&amp;index=2&amp;pp=iAQB)
+### [Онлайн калькулятор для сайта. Мастер-класс по JavaScript](https://www.youtube.com/watch?v=GjYr9NY6M9U&amp;list=PL1NBhQGGj46arKowyG-OBKSRSq7j1tO2v&amp;index=3&amp;pp=iAQB)
+### [Верстка сайта онлайн. Подробно с объяснениями для новичков. HTML, CSS, JS](https://www.youtube.com/watch?v=3e6SaHDVcnk&amp;list=PL1NBhQGGj46arKowyG-OBKSRSq7j1tO2v&amp;index=4&amp;pp=iAQB)

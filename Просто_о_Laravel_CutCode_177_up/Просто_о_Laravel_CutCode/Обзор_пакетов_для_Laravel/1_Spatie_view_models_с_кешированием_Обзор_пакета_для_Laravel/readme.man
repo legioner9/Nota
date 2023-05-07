@@ -1,0 +1,3 @@
+# [Просто о Laravel. CutCode](https://www.youtube.com/@CutCodeRu/playlists)
+## [Обзор пакетов для Laravel](https://www.youtube.com/playlist?list=PLTucyHptHtTks-0wOBTrq419wv-HlvGul)
+### [Spatie view models с кешированием. Обзор пакета для Laravel](https://www.youtube.com/watch?v=KPdly10ZPrw&amp;list=PLTucyHptHtTks-0wOBTrq419wv-HlvGul&amp;index=1&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [Web Developer Blog](https://www.youtube.com/@SuprunAlexey/playlists)
+## [Уроки PHP 7](https://www.youtube.com/playlist?list=PLVfMKQXDAhGWCBTca7m-snWrZZkjX2jGB)
+### [Уроки MySQL | Введение. Как подключить базу данных](https://www.youtube.com/watch?v=pU2jXzPqqgk&amp;list=PLVfMKQXDAhGWCBTca7m-snWrZZkjX2jGB&amp;index=34&amp;pp=iAQB)

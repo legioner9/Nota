@@ -1,0 +1,5 @@
+### [Icecast - установка на CentOS 7](https://www.youtube.com/watch?v=6MCzmKgJ_Gs&amp;list=PLh1BaaL_XriNZsAzvamETzUv65QSvtvXn&amp;index=1&amp;pp=iAQB)
+### [Icecast - ретрансляция интернет-радио в локальную сеть](https://www.youtube.com/watch?v=UBYrA9oLRpg&amp;list=PLh1BaaL_XriNZsAzvamETzUv65QSvtvXn&amp;index=2&amp;pp=iAQB)
+### [Icecast+Ezstream - трансляция аудиопотока](https://www.youtube.com/watch?v=S2OB_24M33U&amp;list=PLh1BaaL_XriNZsAzvamETzUv65QSvtvXn&amp;index=3&amp;pp=iAQB)
+### [Icecast+Ezstream - трансляция видеопотока](https://www.youtube.com/watch?v=uWGo0aJa-vU&amp;list=PLh1BaaL_XriNZsAzvamETzUv65QSvtvXn&amp;index=4&amp;pp=iAQB)
+### [Icecast+ffmpeg2theora+ffmpeg - видеопоток](https://www.youtube.com/watch?v=5VnetAX8Sw0&amp;list=PLh1BaaL_XriNZsAzvamETzUv65QSvtvXn&amp;index=5&amp;pp=iAQB)

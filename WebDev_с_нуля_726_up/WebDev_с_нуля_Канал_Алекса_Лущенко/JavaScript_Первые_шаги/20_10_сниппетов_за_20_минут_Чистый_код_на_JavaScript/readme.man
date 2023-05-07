@@ -1,0 +1,3 @@
+# [WebDev с нуля. Канал Алекса Лущенко](https://www.youtube.com/@itgid/playlists)
+## [JavaScript. Первые шаги](https://www.youtube.com/playlist?list=PLM7wFzahDYnGiAEISqw1Lal_T9heUvbar)
+### [10 сниппетов за 20 минут. Чистый код на JavaScript](https://www.youtube.com/watch?v=sb2NIx1Rj8o&amp;list=PLM7wFzahDYnGiAEISqw1Lal_T9heUvbar&amp;index=20&amp;pp=iAQB)

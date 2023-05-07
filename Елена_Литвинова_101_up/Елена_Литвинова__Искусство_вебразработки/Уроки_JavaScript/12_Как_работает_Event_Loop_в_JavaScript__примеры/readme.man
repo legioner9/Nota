@@ -1,0 +1,3 @@
+# [Елена Литвинова — Искусство веб-разработки](https://www.youtube.com/@webelart/playlists)
+## [Уроки JavaScript](https://www.youtube.com/playlist?list=PLJpSkcgOK72A7ky__8kHNckPpjHFQkC5m)
+### [Как работает Event Loop в JavaScript + примеры](https://www.youtube.com/watch?v=3naT39judvQ&amp;list=PLJpSkcgOK72A7ky__8kHNckPpjHFQkC5m&amp;index=12&amp;pp=iAQB)

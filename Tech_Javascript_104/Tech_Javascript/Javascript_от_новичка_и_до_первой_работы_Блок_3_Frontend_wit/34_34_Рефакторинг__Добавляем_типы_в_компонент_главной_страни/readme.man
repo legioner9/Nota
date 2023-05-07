@@ -1,0 +1,3 @@
+# [Tech Javascript](https://www.youtube.com/@techjavascript/playlists)
+## [Javascript от новичка и до первой работы. Блок 3. Frontend with React js](https://www.youtube.com/playlist?list=PLco1IpJXladYKtXL9ppvHEMd8fQsTdCYm)
+### [34. Рефакторинг  Добавляем типы в компонент главной страницы](https://www.youtube.com/watch?v=KcQ7bYKZCXk&amp;list=PLco1IpJXladYKtXL9ppvHEMd8fQsTdCYm&amp;index=34&amp;pp=iAQB)

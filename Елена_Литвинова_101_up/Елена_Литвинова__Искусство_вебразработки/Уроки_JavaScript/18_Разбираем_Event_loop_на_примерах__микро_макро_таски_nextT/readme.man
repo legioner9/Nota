@@ -1,0 +1,3 @@
+# [Елена Литвинова — Искусство веб-разработки](https://www.youtube.com/@webelart/playlists)
+## [Уроки JavaScript](https://www.youtube.com/playlist?list=PLJpSkcgOK72A7ky__8kHNckPpjHFQkC5m)
+### [Разбираем Event loop на примерах | микро, макро таски, nextTick, setImmediate | Уроки JavaScript](https://www.youtube.com/watch?v=kZFLHCz2a30&amp;list=PLJpSkcgOK72A7ky__8kHNckPpjHFQkC5m&amp;index=18&amp;pp=iAQB)

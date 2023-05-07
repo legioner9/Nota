@@ -1,0 +1,3 @@
+# [WebDev с нуля. Канал Алекса Лущенко](https://www.youtube.com/@itgid/playlists)
+## [Курс NodeJS](https://www.youtube.com/playlist?list=PLM7wFzahDYnHYn81-oqavYIp6vaEd5gdH)
+### [NodeJS. 03. Установка и первая программа](https://www.youtube.com/watch?v=hMUotiiz_iw&amp;list=PLM7wFzahDYnHYn81-oqavYIp6vaEd5gdH&amp;index=3&amp;pp=iAQB)

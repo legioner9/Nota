@@ -1,0 +1,3 @@
+# [Traversy Media](https://www.youtube.com/@TraversyMedia/playlists)
+## [Restful API  - Node, Express and Angular](https://www.youtube.com/playlist?list=PLillGF-RfqbYLBAkywyB2cCy8y87GAket)
+### [RESTful API From Scratch  - Part 2  - Angular Frontend](https://www.youtube.com/watch?v=qrIvv6OTN2Y&amp;list=PLillGF-RfqbYLBAkywyB2cCy8y87GAket&amp;index=2&amp;pp=iAQB)

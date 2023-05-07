@@ -1,0 +1,3 @@
+# [Glo Academy](https://www.youtube.com/@Glo_Academy/playlists?view=1)
+## [Верстка на гридах | CSS Grid марафон верстки](https://www.youtube.com/playlist?list=PL3LQJkGQtzc55aqA3OXwN6sy-2CNvUy9u)
+### [Верстка на гридах #3 | Блок с преимуществами на CSS Grid layout](https://www.youtube.com/watch?v=G-H46jOpnvs&amp;list=PL3LQJkGQtzc55aqA3OXwN6sy-2CNvUy9u&amp;index=3&amp;pp=iAQB)

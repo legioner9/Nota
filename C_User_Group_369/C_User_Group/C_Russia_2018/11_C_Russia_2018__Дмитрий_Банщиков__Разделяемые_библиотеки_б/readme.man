@@ -1,0 +1,3 @@
+# [C++ User Group](https://www.youtube.com/@CUserGroupRussia/playlists)
+## [C++ Russia 2018](https://www.youtube.com/playlist?list=PLZN9ZGiWZoZoFa2q0NqD6metQxavT2JYP)
+### [C++ Russia 2018:  Дмитрий Банщиков,  Разделяемые библиотеки без внешних зависимостей](https://www.youtube.com/watch?v=aN2MBmR6B3g&amp;list=PLZN9ZGiWZoZoFa2q0NqD6metQxavT2JYP&amp;index=11&amp;pp=iAQB)

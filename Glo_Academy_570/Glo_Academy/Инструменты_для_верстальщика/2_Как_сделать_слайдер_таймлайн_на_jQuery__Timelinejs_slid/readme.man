@@ -1,0 +1,3 @@
+# [Glo Academy](https://www.youtube.com/@Glo_Academy/playlists?view=1)
+## [Инструменты для верстальщика](https://www.youtube.com/playlist?list=PL3LQJkGQtzc4y-OVy8mOxPJwF8FKaMFRD)
+### [Как сделать слайдер таймлайн на jQuery | Timeline.js slider jQuery](https://www.youtube.com/watch?v=Kscw78BAqJQ&amp;list=PL3LQJkGQtzc4y-OVy8mOxPJwF8FKaMFRD&amp;index=2&amp;pp=iAQB)

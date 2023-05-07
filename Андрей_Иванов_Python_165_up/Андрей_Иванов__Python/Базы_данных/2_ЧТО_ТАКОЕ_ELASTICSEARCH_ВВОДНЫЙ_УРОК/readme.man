@@ -1,0 +1,3 @@
+# [Андрей Иванов | Python](https://www.youtube.com/@PythononPapyrusRU/playlists)
+## [Базы данных](https://www.youtube.com/playlist?list=PLF4MWzDJPFSb3JWtwlSMplmvjyqfW7zK6)
+### [ЧТО ТАКОЕ ELASTICSEARCH? ВВОДНЫЙ УРОК](https://www.youtube.com/watch?v=nMaDw6Dk14k&amp;list=PLF4MWzDJPFSb3JWtwlSMplmvjyqfW7zK6&amp;index=2&amp;pp=iAQB)

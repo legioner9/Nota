@@ -1,0 +1,3 @@
+# [Студия Флаг](https://www.youtube.com/@FlagStudio/playlists)
+## [Фронтенд](https://www.youtube.com/playlist?list=PLVdcV6tHcaCGQrTMSYdBgedHMhNtGNXWf)
+### [Введение в TypeScript](https://www.youtube.com/watch?v=FWBSYjnE8VM&amp;list=PLVdcV6tHcaCGQrTMSYdBgedHMhNtGNXWf&amp;index=2&amp;pp=iAQB)

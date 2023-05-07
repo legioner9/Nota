@@ -1,0 +1,3 @@
+# [WebDev с нуля. Канал Алекса Лущенко](https://www.youtube.com/@itgid/playlists)
+## [React. Lite Level](https://www.youtube.com/playlist?list=PLM7wFzahDYnHIAc-WKuxWaGv4cLUfm5fT)
+### [Знакомимся с классами ES6. Часть 1](https://www.youtube.com/watch?v=RUtFvwYlowM&amp;list=PLM7wFzahDYnHIAc-WKuxWaGv4cLUfm5fT&amp;index=3&amp;pp=iAQB)

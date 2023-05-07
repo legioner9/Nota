@@ -1,0 +1,3 @@
+# [freeCodeCamp.org](https://www.youtube.com/@freecodecamp/playlists)
+## [Full Courses in One Video](https://www.youtube.com/playlist?list=PLWKjhJtqVAbnupwRFOq9zGOWjdvPRtCmO)
+### [CSS Variables / Custom Properties (full course)](https://www.youtube.com/watch?v=GF8aoDqebsQ&amp;list=PLWKjhJtqVAbnupwRFOq9zGOWjdvPRtCmO&amp;index=22&amp;pp=iAQB)

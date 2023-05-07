@@ -1,0 +1,3 @@
+# [В. Бовсуновский Python Django](https://www.youtube.com/@bov/playlists?view=1)
+## [Dapps Solidity + Python.](https://www.youtube.com/playlist?list=PLuZJ9n46uMzX1SYAfC8AlBNJPu6fTFmI5)
+### [8. Solidity + Python. Развернём смарт-контракт через ganache-cli.](https://www.youtube.com/watch?v=bNRPaiNdL1U&amp;list=PLuZJ9n46uMzX1SYAfC8AlBNJPu6fTFmI5&amp;index=8&amp;pp=iAQB)

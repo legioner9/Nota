@@ -1,0 +1,3 @@
+# [Max Roslow](https://www.youtube.com/@maximroslow/playlists)
+## [Магазин Самолетов React/Redux/Mongo/Express](https://www.youtube.com/playlist?list=PL1EApzIeyBXae-vmm5gxXGQEGrLzr-tIP)
+### [Магазин Самолетов на React/Redux [6] - Страница Добавления Самолёта и оформление заказа](https://www.youtube.com/watch?v=BQkNwErFpU8&amp;list=PL1EApzIeyBXae-vmm5gxXGQEGrLzr-tIP&amp;index=6&amp;pp=iAQB)

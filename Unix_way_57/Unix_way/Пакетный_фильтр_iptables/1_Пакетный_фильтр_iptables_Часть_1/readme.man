@@ -1,0 +1,3 @@
+# [Unix way](https://www.youtube.com/@unixway4196/playlists)
+## [Пакетный фильтр iptables](https://www.youtube.com/playlist?list=PLsMIccp52YRsuYa7QOZIy7OsnaIyQZB7_)
+### [Пакетный фильтр iptables. Часть 1](https://www.youtube.com/watch?v=YO5yT2PLiKw&amp;list=PLsMIccp52YRsuYa7QOZIy7OsnaIyQZB7_&amp;index=1&amp;pp=iAQB)

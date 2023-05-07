@@ -1,0 +1,3 @@
+# [Traversy Media](https://www.youtube.com/@TraversyMedia/playlists)
+## [Learning D3](https://www.youtube.com/playlist?list=PLillGF-RfqbY8Vy_G5WxXwhZx4eXI6Oea)
+### [Learning D3 Part 8 - Axes and Guides](https://www.youtube.com/watch?v=11QMX7vA22Y&amp;list=PLillGF-RfqbY8Vy_G5WxXwhZx4eXI6Oea&amp;index=8&amp;pp=iAQB)

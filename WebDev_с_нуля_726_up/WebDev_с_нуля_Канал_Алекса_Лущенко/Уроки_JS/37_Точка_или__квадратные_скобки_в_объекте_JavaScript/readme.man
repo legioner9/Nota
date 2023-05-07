@@ -1,0 +1,3 @@
+# [WebDev с нуля. Канал Алекса Лущенко](https://www.youtube.com/@itgid/playlists)
+## [Уроки JS](https://www.youtube.com/playlist?list=PLM7wFzahDYnFtINH_dCUW6-wLSauygif2)
+### [Точка или  квадратные скобки в объекте JavaScript](https://www.youtube.com/watch?v=lGW47VRW7rI&amp;list=PLM7wFzahDYnFtINH_dCUW6-wLSauygif2&amp;index=37&amp;pp=iAQB)

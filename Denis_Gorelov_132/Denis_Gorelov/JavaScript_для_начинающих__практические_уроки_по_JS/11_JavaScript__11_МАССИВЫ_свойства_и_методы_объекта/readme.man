@@ -1,0 +1,3 @@
+# [Denis Gorelov](https://www.youtube.com/@denisgorelov3236/playlists)
+## [JavaScript для начинающих / практические уроки по JS](https://www.youtube.com/playlist?list=PL8pp2EAvIK-KybxnPezLLiEEfLfle11_i)
+### [JavaScript - #11 МАССИВЫ (свойства и методы объекта)](https://www.youtube.com/watch?v=HxK2Tm1s0bo&amp;list=PL8pp2EAvIK-KybxnPezLLiEEfLfle11_i&amp;index=11&amp;pp=iAQB)

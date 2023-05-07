@@ -1,0 +1,3 @@
+# [WebDev с нуля. Канал Алекса Лущенко](https://www.youtube.com/@itgid/playlists)
+## [Уроки верстки](https://www.youtube.com/playlist?list=PLM7wFzahDYnEKa28bWIJ9vpcqWcRtIqR7)
+### [Видео на фоне сайта, вставка svg и CSS эффекты текста - верстаем сайт в живую](https://www.youtube.com/watch?v=_RpZi1SXhg4&amp;list=PLM7wFzahDYnEKa28bWIJ9vpcqWcRtIqR7&amp;index=30&amp;pp=iAQB)

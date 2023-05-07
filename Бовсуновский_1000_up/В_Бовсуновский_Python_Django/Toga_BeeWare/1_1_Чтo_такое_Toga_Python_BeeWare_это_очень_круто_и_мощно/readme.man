@@ -1,0 +1,3 @@
+# [В. Бовсуновский Python Django](https://www.youtube.com/@bov/playlists?view=1)
+## [Toga BeeWare](https://www.youtube.com/playlist?list=PLuZJ9n46uMzV-r-Sy-_qpScUkaYAiQBnm)
+### [1. Чтo такое Toga Python BeeWare. (это очень круто и мощно)](https://www.youtube.com/watch?v=-aepodaaV8g&amp;list=PLuZJ9n46uMzV-r-Sy-_qpScUkaYAiQBnm&amp;index=1&amp;pp=iAQB)

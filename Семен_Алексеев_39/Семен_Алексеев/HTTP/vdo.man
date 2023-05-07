@@ -1,0 +1,4 @@
+### [Протокол HTTP. Общие сведения](https://www.youtube.com/watch?v=Qq50zHT8jFE&amp;list=PLUTrDHuvZc4EmdrTctvd2UUZRJqqjXLWG&amp;index=1&amp;pp=iAQB)
+### [MIME-типы (типы медиа данных)](https://www.youtube.com/watch?v=ABOXpjFNnyg&amp;list=PLUTrDHuvZc4EmdrTctvd2UUZRJqqjXLWG&amp;index=2&amp;pp=iAQB)
+### [URI, URL, URN. Что это, чем отличаются](https://www.youtube.com/watch?v=7PCzX9Iq8_8&amp;list=PLUTrDHuvZc4EmdrTctvd2UUZRJqqjXLWG&amp;index=3&amp;pp=iAQB)
+### [URI, URL, URN. Что это, чем отличаются](https://www.youtube.com/watch?v=7PCzX9Iq8_8&amp;list=PLUTrDHuvZc4EmdrTctvd2UUZRJqqjXLWG&amp;index=4&amp;pp=iAQB)

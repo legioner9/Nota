@@ -1,0 +1,3 @@
+# [Coding Tech](https://www.youtube.com/@CodingTech/playlists)
+## [GDG Lviv Conference Talks](https://www.youtube.com/playlist?list=PLFjq8z-aGyQ5iNDfX_Tu97ykLhF6srsrv)
+### [How to hack a node app? – Asim Hussain](https://www.youtube.com/watch?v=iN92OsbtgGI&amp;list=PLFjq8z-aGyQ5iNDfX_Tu97ykLhF6srsrv&amp;index=1&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [В. Бовсуновский Python Django](https://www.youtube.com/@bov/playlists?view=1)
+## [Dapps Solidity + Python.](https://www.youtube.com/playlist?list=PLuZJ9n46uMzX1SYAfC8AlBNJPu6fTFmI5)
+### [Обучение Solidity. Будете делать так, сможете писать код легко.](https://www.youtube.com/watch?v=ShpgRYlhR74&amp;list=PLuZJ9n46uMzX1SYAfC8AlBNJPu6fTFmI5&amp;index=15&amp;pp=iAQB)

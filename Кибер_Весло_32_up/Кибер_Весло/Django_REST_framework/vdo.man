@@ -1,0 +1,6 @@
+### [01. Django REST Framework - установка и проверка](https://www.youtube.com/watch?v=qljrhf6hz04&amp;list=PLIMYb25g876j-K7PdfP24E-a4Bn-lDoGz&amp;index=1&amp;pp=iAQB)
+### [02. Django REST Framework - простой Serializer, (де)сериалилируем объекты, сохраняем, обновляем.](https://www.youtube.com/watch?v=dug2sqnqi9c&amp;list=PLIMYb25g876j-K7PdfP24E-a4Bn-lDoGz&amp;index=2&amp;pp=iAQB)
+### [03. Django REST Framework - используем сериализатор в django view.](https://www.youtube.com/watch?v=2EnpAu4-5Rs&amp;list=PLIMYb25g876j-K7PdfP24E-a4Bn-lDoGz&amp;index=3&amp;pp=iAQB)
+### [04. Django REST Framework - Generic Class Base Views.](https://www.youtube.com/watch?v=z7K2pvab94c&amp;list=PLIMYb25g876j-K7PdfP24E-a4Bn-lDoGz&amp;index=4&amp;pp=iAQB)
+### [05. Django REST Framework - ModelViewSet.](https://www.youtube.com/watch?v=ndU7ugNpnuQ&amp;list=PLIMYb25g876j-K7PdfP24E-a4Bn-lDoGz&amp;index=5&amp;pp=iAQB)
+### [Telegram Bot на Python. Часть 1 - backend. Python, Django, Django Rest Framework.](https://www.youtube.com/watch?v=fGXqTnWAFOo&amp;list=PLIMYb25g876j-K7PdfP24E-a4Bn-lDoGz&amp;index=6&amp;pp=iAQB)

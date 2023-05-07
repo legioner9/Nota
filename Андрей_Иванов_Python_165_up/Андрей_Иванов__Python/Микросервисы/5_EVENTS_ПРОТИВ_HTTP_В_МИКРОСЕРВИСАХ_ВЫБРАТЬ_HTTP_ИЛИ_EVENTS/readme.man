@@ -1,0 +1,3 @@
+# [Андрей Иванов | Python](https://www.youtube.com/@PythononPapyrusRU/playlists)
+## [Микросервисы](https://www.youtube.com/playlist?list=PLF4MWzDJPFSbQ9qQjCLLipSiruQsLVyIG)
+### [EVENTS ПРОТИВ HTTP В МИКРОСЕРВИСАХ. ВЫБРАТЬ HTTP ИЛИ EVENTS В MICROSERVICES PYTHON?](https://www.youtube.com/watch?v=qdiPlhXkE70&amp;list=PLF4MWzDJPFSbQ9qQjCLLipSiruQsLVyIG&amp;index=5&amp;pp=iAQB)

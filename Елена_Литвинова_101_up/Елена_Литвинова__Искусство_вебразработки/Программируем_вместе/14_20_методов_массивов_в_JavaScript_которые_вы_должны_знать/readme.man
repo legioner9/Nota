@@ -1,0 +1,3 @@
+# [Елена Литвинова — Искусство веб-разработки](https://www.youtube.com/@webelart/playlists)
+## [Программируем вместе](https://www.youtube.com/playlist?list=PLJpSkcgOK72D84l0Y1GLT5mNzuzpWzTf1)
+### [20 методов массивов в JavaScript, которые вы должны знать.](https://www.youtube.com/watch?v=ZcLGyy0YFwk&amp;list=PLJpSkcgOK72D84l0Y1GLT5mNzuzpWzTf1&amp;index=14&amp;pp=iAQB)

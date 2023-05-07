@@ -1,0 +1,2 @@
+### [Основы JavaScript для начинающих и HTML верстальщиков](https://www.youtube.com/watch?v=UFmZaNj6wyA&amp;list=PL1NBhQGGj46bU5rIaGApKPw4r8PZuCwDs&amp;index=1&amp;pp=iAQB)
+### [Практическое программирование на JavaScript для новичков и верстальщиков](https://www.youtube.com/watch?v=D8OIb5LZYYE&amp;list=PL1NBhQGGj46bU5rIaGApKPw4r8PZuCwDs&amp;index=2&amp;pp=iAQB)

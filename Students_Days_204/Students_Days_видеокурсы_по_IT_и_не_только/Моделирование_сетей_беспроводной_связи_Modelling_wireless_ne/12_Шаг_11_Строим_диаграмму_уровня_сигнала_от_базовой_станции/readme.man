@@ -1,0 +1,3 @@
+# [Students Days (видеокурсы по IT и не только)](https://www.youtube.com/@studentsdaysit2002/playlists)
+## [Моделирование сетей беспроводной связи (Modelling wireless networks)](https://www.youtube.com/playlist?list=PL7CmqnO_QydgJcvzslCZcJTjYeGmtf4u8)
+### [Шаг 11 Строим диаграмму уровня сигнала от базовой станции до абонента в программе RPS2](https://www.youtube.com/watch?v=y1HZ1VJIOBE&amp;list=PL7CmqnO_QydgJcvzslCZcJTjYeGmtf4u8&amp;index=12&amp;pp=iAQB)

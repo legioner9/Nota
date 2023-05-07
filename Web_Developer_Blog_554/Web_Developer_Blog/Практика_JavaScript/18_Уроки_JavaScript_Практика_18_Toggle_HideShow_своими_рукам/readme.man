@@ -1,0 +1,3 @@
+# [Web Developer Blog](https://www.youtube.com/@SuprunAlexey/playlists)
+## [Практика JavaScript](https://www.youtube.com/playlist?list=PLVfMKQXDAhGW0p_BEEe47UkCgNoS_dyki)
+### [Уроки JavaScript Практика #18 Toggle Hide/Show своими руками. Alert](https://www.youtube.com/watch?v=_h9FwLKvFl0&amp;list=PLVfMKQXDAhGW0p_BEEe47UkCgNoS_dyki&amp;index=18&amp;pp=iAQB)

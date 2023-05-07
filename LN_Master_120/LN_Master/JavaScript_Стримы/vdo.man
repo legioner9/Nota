@@ -1,0 +1,7 @@
+### [Решение задач на JavaScript #1](https://www.youtube.com/watch?v=sJf3-mHLfo4&amp;list=PL3PZFGlHBUn19WD45K1_EWsqjhC7RhC7k&amp;index=1&amp;pp=iAQB)
+### [Разработка списка задач на React](https://www.youtube.com/watch?v=0VWIuMu0Iuc&amp;list=PL3PZFGlHBUn19WD45K1_EWsqjhC7RhC7k&amp;index=2&amp;pp=iAQB)
+### [Веб-скрейпинг с помощью Node.js](https://www.youtube.com/watch?v=dfqdPbBvugc&amp;list=PL3PZFGlHBUn19WD45K1_EWsqjhC7RhC7k&amp;index=3&amp;pp=iAQB)
+### [Разработка игр на JS: Крестики-нолики с AI](https://www.youtube.com/watch?v=EtFalbAhhFM&amp;list=PL3PZFGlHBUn19WD45K1_EWsqjhC7RhC7k&amp;index=4&amp;pp=iAQB)
+### [Почему начинающие не понимают Javascript](https://www.youtube.com/watch?v=x1geYMVFfR0&amp;list=PL3PZFGlHBUn19WD45K1_EWsqjhC7RhC7k&amp;index=5&amp;pp=iAQB)
+### [Пишем JS - приложения. Bin2Dec](https://www.youtube.com/watch?v=ewt4KDb99X4&amp;list=PL3PZFGlHBUn19WD45K1_EWsqjhC7RhC7k&amp;index=6&amp;pp=iAQB)
+### [Что должен знать  Frontend разработчик в 2021 (Roadmap)](https://www.youtube.com/watch?v=6jvz8zHHcCI&amp;list=PL3PZFGlHBUn19WD45K1_EWsqjhC7RhC7k&amp;index=7&amp;pp=iAQB)

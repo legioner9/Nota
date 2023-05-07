@@ -1,0 +1,4 @@
+### [Как создать CAROUSEL/СЛАЙДЕР на ReactJS с нуля](https://www.youtube.com/watch?v=C5NjxM1dyxY&amp;list=PLmfIBo6rTVR4JBtaOfWLMNgjIeVC3_dl7&amp;index=1&amp;pp=iAQB)
+### [Компонент carousel и Составные компоненты ReactJS](https://www.youtube.com/watch?v=LmSH_Nr0ryE&amp;list=PLmfIBo6rTVR4JBtaOfWLMNgjIeVC3_dl7&amp;index=2&amp;pp=iAQB)
+### [Как сделать динамическую ширину СЛАЙДЕРА на ReactJS](https://www.youtube.com/watch?v=3dCCeagJgGU&amp;list=PLmfIBo6rTVR4JBtaOfWLMNgjIeVC3_dl7&amp;index=3&amp;pp=iAQB)
+### [Как сделать БЕСКОНЕЧНЫЙ скролл в слайдере ReactJS?](https://www.youtube.com/watch?v=a9nRm3Jer9A&amp;list=PLmfIBo6rTVR4JBtaOfWLMNgjIeVC3_dl7&amp;index=4&amp;pp=iAQB)

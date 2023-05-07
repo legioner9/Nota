@@ -1,0 +1,3 @@
+# [VIMP dev — верстка сайтов](https://www.youtube.com/@VIMPdev/playlists)
+## [CSS трюки](https://www.youtube.com/playlist?list=PLBfQgL-XzhF35TfreZzy3c7hKP5RzJ7Ig)
+### [CSS трюки #2 Изоляция в CSS, стили для пустого элемента, цвет каретки](https://www.youtube.com/watch?v=k-OzRCgR5Fs&amp;list=PLBfQgL-XzhF35TfreZzy3c7hKP5RzJ7Ig&amp;index=2&amp;pp=iAQB)

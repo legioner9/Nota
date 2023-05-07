@@ -1,0 +1,3 @@
+# [Василий Муравьев](https://www.youtube.com/@stackdev/playlists)
+## [Уроки Javascript для Начинающих 2022](https://www.youtube.com/playlist?list=PLtL3lrXPn2rXYAkRYdTKOQLRUW1Gdp4v2)
+### [Уроки Javascript #2. Объект Event (Событие), Всплытие и Погружение (Фазы Жизненного Цикла События).](https://www.youtube.com/watch?v=Qm-5u8e4Ct0&amp;list=PLtL3lrXPn2rXYAkRYdTKOQLRUW1Gdp4v2&amp;index=2&amp;pp=iAQB)

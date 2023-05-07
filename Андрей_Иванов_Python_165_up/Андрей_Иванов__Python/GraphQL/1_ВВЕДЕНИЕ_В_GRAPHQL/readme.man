@@ -1,0 +1,3 @@
+# [Андрей Иванов | Python](https://www.youtube.com/@PythononPapyrusRU/playlists)
+## [GraphQL](https://www.youtube.com/playlist?list=PLF4MWzDJPFSa5hopBsR7LeqzahFWH44Tc)
+### [ВВЕДЕНИЕ В GRAPHQL](https://www.youtube.com/watch?v=878N56Ew8fs&amp;list=PLF4MWzDJPFSa5hopBsR7LeqzahFWH44Tc&amp;index=1&amp;pp=iAQB)

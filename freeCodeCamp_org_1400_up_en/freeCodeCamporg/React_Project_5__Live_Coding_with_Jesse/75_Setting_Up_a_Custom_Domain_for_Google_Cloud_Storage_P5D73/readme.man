@@ -1,0 +1,3 @@
+# [freeCodeCamp.org](https://www.youtube.com/@freecodecamp/playlists)
+## [React Project 5 - Live Coding with Jesse](https://www.youtube.com/playlist?list=PLWKjhJtqVAbkOoQw0jDWn-pzN3nFVjhbH)
+### [Setting Up a Custom Domain for Google Cloud Storage (P5D73) - Live Coding with Jesse](https://www.youtube.com/watch?v=nxaMW8w6NUg&amp;list=PLWKjhJtqVAbkOoQw0jDWn-pzN3nFVjhbH&amp;index=75&amp;pp=iAQB)

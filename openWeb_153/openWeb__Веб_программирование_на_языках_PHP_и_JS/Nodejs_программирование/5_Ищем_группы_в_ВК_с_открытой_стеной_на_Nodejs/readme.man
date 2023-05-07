@@ -1,0 +1,3 @@
+# [openWeb - Веб программирование на языках PHP и JS](https://www.youtube.com/@openweb-php/playlists)
+## [Node.js программирование](https://www.youtube.com/playlist?list=PL-leL2miqjEYADLEfKwTSMyfRYRrSzQtu)
+### [Ищем группы в ВК с открытой стеной на Node.js](https://www.youtube.com/watch?v=YRbd_-qhzGg&amp;list=PL-leL2miqjEYADLEfKwTSMyfRYRrSzQtu&amp;index=5&amp;pp=iAQB)

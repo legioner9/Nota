@@ -1,0 +1,3 @@
+# [Traversy Media](https://www.youtube.com/@TraversyMedia/playlists)
+## [JavaScript: Under The Hood](https://www.youtube.com/playlist?list=PLillGF-Rfqbars4vKNtpcWVDUpVOVTlgB)
+### [JavaScript Under The Hood [2] - Execution Context](https://www.youtube.com/watch?v=Fd9VaW0M7K4&amp;list=PLillGF-Rfqbars4vKNtpcWVDUpVOVTlgB&amp;index=2&amp;pp=iAQB)

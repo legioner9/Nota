@@ -1,0 +1,2 @@
+### [Gulp сборка 2023 с нуля | Установка настройка и запуск — полный курс по Gulp для верстки сайтов](https://www.youtube.com/watch?v=qSZvGlIKGPg&amp;list=PLU0nVsJXPyy-R7Cf3_Q6An5SsiftwWmqa&amp;index=1&amp;pp=iAQB)
+### [Полный гайд по NPM для новичков | Как установить, обновить удалить пакеты - настройка NPM для работы](https://www.youtube.com/watch?v=FDfvuNbSs4U&amp;list=PLU0nVsJXPyy-R7Cf3_Q6An5SsiftwWmqa&amp;index=2&amp;pp=iAQB)

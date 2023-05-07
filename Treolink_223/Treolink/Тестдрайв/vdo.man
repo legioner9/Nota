@@ -1,0 +1,2 @@
+### [Тестирование бесшовного роуминга беспроводных клиентов на точках доступа TP-Link Omada EAP230-Wall](https://www.youtube.com/watch?v=dU5lDW4al5c&amp;list=PLsnyAzJu8C0DfO0HJerhtIuoGcrSEkE_3&amp;index=1&amp;pp=iAQB)
+### [Тест: насколько Ubiquiti UniFi AC LR AP на самом деле Long Range](https://www.youtube.com/watch?v=9yMfWV5JHk8&amp;list=PLsnyAzJu8C0DfO0HJerhtIuoGcrSEkE_3&amp;index=2&amp;pp=iAQB)

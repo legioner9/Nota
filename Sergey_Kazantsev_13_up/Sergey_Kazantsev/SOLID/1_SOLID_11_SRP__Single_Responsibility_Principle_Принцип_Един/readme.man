@@ -1,0 +1,3 @@
+# [Sergey Kazantsev](https://www.youtube.com/@sergeykazantsev1655/playlists)
+## [SOLID](https://www.youtube.com/playlist?list=PL7GaNwuzA5StUNiOJFulHSD1SKkLdQYIx)
+### [SOLID, 1.1 SRP - Single Responsibility Principle, Принцип Единственной ответственности, С#, Unity](https://www.youtube.com/watch?v=ZA-1BZPj3_U&amp;list=PL7GaNwuzA5StUNiOJFulHSD1SKkLdQYIx&amp;index=1&amp;pp=iAQB)

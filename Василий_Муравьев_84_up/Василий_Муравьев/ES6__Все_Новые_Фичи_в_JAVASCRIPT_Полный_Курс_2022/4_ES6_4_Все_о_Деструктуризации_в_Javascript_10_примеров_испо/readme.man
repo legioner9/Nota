@@ -1,0 +1,3 @@
+# [Василий Муравьев](https://www.youtube.com/@stackdev/playlists)
+## [ES6 - Все Новые Фичи в JAVASCRIPT (Полный Курс 2022)](https://www.youtube.com/playlist?list=PLtL3lrXPn2rVW98_5Rx0SzPPLXPqGXIWp)
+### [ES6 #4. Все о Деструктуризации в Javascript (10 примеров использования).](https://www.youtube.com/watch?v=q1WBrR_yWd0&amp;list=PLtL3lrXPn2rVW98_5Rx0SzPPLXPqGXIWp&amp;index=4&amp;pp=iAQB)

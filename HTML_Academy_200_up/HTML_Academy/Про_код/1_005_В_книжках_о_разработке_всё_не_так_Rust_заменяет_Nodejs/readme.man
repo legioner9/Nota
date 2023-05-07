@@ -1,0 +1,3 @@
+# [HTML Academy](https://www.youtube.com/@HTMLAcademyRUS/playlists)
+## [Про код](https://www.youtube.com/playlist?list=PLQJNT2fdCJnhzcfnl_WpmMzYwSM6H0HJw)
+### [005. В книжках о разработке всё не так, Rust заменяет Node.js и новый отладчик в Chrome DevTools](https://www.youtube.com/watch?v=3Ucq3oMA_xc&amp;list=PLQJNT2fdCJnhzcfnl_WpmMzYwSM6H0HJw&amp;index=1&amp;pp=iAQB)

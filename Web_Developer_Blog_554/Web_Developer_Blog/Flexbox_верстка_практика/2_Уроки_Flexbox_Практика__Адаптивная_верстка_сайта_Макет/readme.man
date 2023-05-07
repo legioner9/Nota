@@ -1,0 +1,3 @@
+# [Web Developer Blog](https://www.youtube.com/@SuprunAlexey/playlists)
+## [Flexbox верстка практика](https://www.youtube.com/playlist?list=PLVfMKQXDAhGVkBdjLJmb4TwLAnEhtiQf-)
+### [Уроки Flexbox Практика - Адаптивная верстка сайта. Макет.](https://www.youtube.com/watch?v=g8BmeTdMnAE&amp;list=PLVfMKQXDAhGVkBdjLJmb4TwLAnEhtiQf-&amp;index=2&amp;pp=iAQB)

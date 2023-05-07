@@ -1,0 +1,6 @@
+### [ПИТОН ДЛЯ СРЕДНЕГО УРОВНЯ - ПРАВИЛО 1](https://www.youtube.com/watch?v=IUewarCoFxk&amp;list=PLF4MWzDJPFSbRDqc00Mh8zp1BLgqZWDlh&amp;index=1&amp;pp=iAQB)
+### [ПИТОН СРЕДНЕГО УРОВНЯ - ПРАВИЛО 2](https://www.youtube.com/watch?v=EyI6onvxYJc&amp;list=PLF4MWzDJPFSbRDqc00Mh8zp1BLgqZWDlh&amp;index=2&amp;pp=iAQB)
+### [Как улучшить Питон код ОДНИМ словом? Как ускорить Python код легко?](https://www.youtube.com/watch?v=62EAM6xg_pM&amp;list=PLF4MWzDJPFSbRDqc00Mh8zp1BLgqZWDlh&amp;index=3&amp;pp=iAQB)
+### [Какие книги читать по Питону? Топ 5 Книг для Питон программистов](https://www.youtube.com/watch?v=V5-ac3Nfk7I&amp;list=PLF4MWzDJPFSbRDqc00Mh8zp1BLgqZWDlh&amp;index=4&amp;pp=iAQB)
+### [Django против FastAPI в 2023 году для Питон разработки. Что лучше для веб программистов?](https://www.youtube.com/watch?v=VNDqLkT2ARk&amp;list=PLF4MWzDJPFSbRDqc00Mh8zp1BLgqZWDlh&amp;index=5&amp;pp=iAQB)
+### [Искусство программирования в Питоне. Как написать хороший код при помощи PyAssimilator](https://www.youtube.com/watch?v=hCBLY2aHIow&amp;list=PLF4MWzDJPFSbRDqc00Mh8zp1BLgqZWDlh&amp;index=6&amp;pp=iAQB)

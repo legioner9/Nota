@@ -1,0 +1,3 @@
+# [Monsterlessons Academy](https://www.youtube.com/@MonsterlessonsAcademy/playlists)
+## [Building Real Project from Scratch](https://www.youtube.com/playlist?list=PLEjh-YiSBCDKGda3XaiRZ9iRxWSia6Z3h)
+### [Build a Todo App With Angular - Angular Todo List Tutorial](https://www.youtube.com/watch?v=uyTC0Skvvls&amp;list=PLEjh-YiSBCDKGda3XaiRZ9iRxWSia6Z3h&amp;index=1&amp;pp=iAQB)

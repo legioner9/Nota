@@ -1,0 +1,5 @@
+### [MoonShine гайд. 1. Установка и настройка панели администратора для Laravel](https://www.youtube.com/watch?v=GjW6vyBsuhc&amp;list=PLTucyHptHtTnfDI18bZnYEgvJIFmW8fGy&amp;index=1&amp;pp=iAQB)
+### [MoonShine гайд. 2. Ресурс и меню в панели администратора для Laravel](https://www.youtube.com/watch?v=pHSaMeBjVDk&amp;list=PLTucyHptHtTnfDI18bZnYEgvJIFmW8fGy&amp;index=2&amp;pp=iAQB)
+### [MoonShine гайд. 3. Поля и декорации в панели администратора для Laravel](https://www.youtube.com/watch?v=1WxCBvejwqw&amp;list=PLTucyHptHtTnfDI18bZnYEgvJIFmW8fGy&amp;index=3&amp;pp=iAQB)
+### [MoonShine гайд. 4. Кастомизация ресурса в панели администратора для Laravel](https://www.youtube.com/watch?v=jMsH8hTkPI4&amp;list=PLTucyHptHtTnfDI18bZnYEgvJIFmW8fGy&amp;index=4&amp;pp=iAQB)
+### [MoonShine гайд. 5. Реализация реальных задач в панели администратора для Laravel](https://www.youtube.com/watch?v=7HGaebxlcFM&amp;list=PLTucyHptHtTnfDI18bZnYEgvJIFmW8fGy&amp;index=5&amp;pp=iAQB)

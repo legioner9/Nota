@@ -1,0 +1,3 @@
+# [openWeb - Веб программирование на языках PHP и JS](https://www.youtube.com/@openweb-php/playlists)
+## [Уроки Java Scripts](https://www.youtube.com/playlist?list=PL-leL2miqjEbQmAmLfe9GHiMYdnzBMVoU)
+### [Async await javascript - Как работает](https://www.youtube.com/watch?v=2fYNP_ggcHc&amp;list=PL-leL2miqjEbQmAmLfe9GHiMYdnzBMVoU&amp;index=27&amp;pp=iAQB)

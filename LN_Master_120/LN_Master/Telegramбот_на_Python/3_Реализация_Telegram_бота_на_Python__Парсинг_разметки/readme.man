@@ -1,0 +1,3 @@
+# [LN Master](https://www.youtube.com/@ToBeCloser007/playlists)
+## [Telegram-бот на Python](https://www.youtube.com/playlist?list=PL3PZFGlHBUn2quCTtlF0KGjlmZl75Wpa8)
+### [Реализация Telegram бота на Python - Парсинг разметки](https://www.youtube.com/watch?v=097Pn2QE5hA&amp;list=PL3PZFGlHBUn2quCTtlF0KGjlmZl75Wpa8&amp;index=3&amp;pp=iAQB)

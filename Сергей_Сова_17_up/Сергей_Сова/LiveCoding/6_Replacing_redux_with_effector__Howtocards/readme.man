@@ -1,0 +1,3 @@
+# [Сергей Сова](https://www.youtube.com/@sova/playlists)
+## [LiveCoding](https://www.youtube.com/playlist?list=PLRXfqpDVC48YYQ5r-J3_OdmUFUF5erBQP)
+### [Replacing redux with effector | Howtocards](https://www.youtube.com/watch?v=IXicdkQchTk&amp;list=PLRXfqpDVC48YYQ5r-J3_OdmUFUF5erBQP&amp;index=6&amp;pp=iAQB)

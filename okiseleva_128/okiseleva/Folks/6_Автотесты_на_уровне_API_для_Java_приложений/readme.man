@@ -1,0 +1,3 @@
+# [okiseleva](https://www.youtube.com/@okiseleva/playlists)
+## [Folks](https://www.youtube.com/playlist?list=PLzy4cPXOwbY4yWW8TwJTJ2_DPCV8WYeXm)
+### [Автотесты на уровне API для Java приложений](https://www.youtube.com/watch?v=PSRrxrCPPDU&amp;list=PLzy4cPXOwbY4yWW8TwJTJ2_DPCV8WYeXm&amp;index=6&amp;pp=iAQB)

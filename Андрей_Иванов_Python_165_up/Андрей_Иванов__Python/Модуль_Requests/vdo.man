@@ -1,0 +1,2 @@
+### [ВВОДНЫЙ УРОК ПО REQUESTS | Python 3, Питон 3](https://www.youtube.com/watch?v=5_J2iQBArbQ&amp;list=PLF4MWzDJPFSZbFLkfLnmy3zKQeyckCdKI&amp;index=1&amp;pp=iAQB)
+### [POST И PUT В REQUESTS | Python 3, Питон 3](https://www.youtube.com/watch?v=tTnquxuOUxc&amp;list=PLF4MWzDJPFSZbFLkfLnmy3zKQeyckCdKI&amp;index=2&amp;pp=iAQB)

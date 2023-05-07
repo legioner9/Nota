@@ -1,0 +1,3 @@
+# [openWeb - Веб программирование на языках PHP и JS](https://www.youtube.com/@openweb-php/playlists)
+## [Уроки Java Scripts](https://www.youtube.com/playlist?list=PL-leL2miqjEbQmAmLfe9GHiMYdnzBMVoU)
+### [Nodemon - Скрипт для Hotreloading](https://www.youtube.com/watch?v=2pvWa5wRKAc&amp;list=PL-leL2miqjEbQmAmLfe9GHiMYdnzBMVoU&amp;index=23&amp;pp=iAQB)

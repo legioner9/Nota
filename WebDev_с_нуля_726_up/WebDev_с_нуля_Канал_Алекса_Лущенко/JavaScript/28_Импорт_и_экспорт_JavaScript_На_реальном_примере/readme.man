@@ -1,0 +1,3 @@
+# [WebDev с нуля. Канал Алекса Лущенко](https://www.youtube.com/@itgid/playlists)
+## [JavaScript](https://www.youtube.com/playlist?list=PLM7wFzahDYnFgidfuPh_-XAv06YDwQVBs)
+### [Импорт и экспорт JavaScript. На реальном примере](https://www.youtube.com/watch?v=SjxiP5r6mNg&amp;list=PLM7wFzahDYnFgidfuPh_-XAv06YDwQVBs&amp;index=28&amp;pp=iAQB)

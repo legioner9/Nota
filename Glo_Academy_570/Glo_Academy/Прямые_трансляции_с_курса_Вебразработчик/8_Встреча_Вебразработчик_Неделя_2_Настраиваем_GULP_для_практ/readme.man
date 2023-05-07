@@ -1,0 +1,3 @@
+# [Glo Academy](https://www.youtube.com/@Glo_Academy/playlists?view=1)
+## [Прямые трансляции с курса "Веб-разработчик"](https://www.youtube.com/playlist?list=PL3LQJkGQtzc7lxx7KPXKpV7xrOl6f2Ujs)
+### [Встреча Веб-разработчик. Неделя 2. Настраиваем GULP для практических уроков](https://www.youtube.com/watch?v=NsKZtq_oRLU&amp;list=PL3LQJkGQtzc7lxx7KPXKpV7xrOl6f2Ujs&amp;index=8&amp;pp=iAQB)

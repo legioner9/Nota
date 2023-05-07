@@ -1,0 +1,3 @@
+# [Андрей Иванов | Python](https://www.youtube.com/@PythononPapyrusRU/playlists)
+## [Redis](https://www.youtube.com/playlist?list=PLF4MWzDJPFSbY5TxSdq3DMPSL7ke51u93)
+### [СОЗДАЕМ REDIS CACHE | Python 3, Питон 3](https://www.youtube.com/watch?v=KMY7uZmpdwA&amp;list=PLF4MWzDJPFSbY5TxSdq3DMPSL7ke51u93&amp;index=4&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [freeCodeCamp.org](https://www.youtube.com/@freecodecamp/playlists)
+## [Live Coding with Jesse](https://www.youtube.com/playlist?list=PLWKjhJtqVAbknyJ7hSrf1WKh_Xnv9RL1r)
+### [Working with LocalStorage and React (P1D44) - Live Coding with Jesse](https://www.youtube.com/watch?v=ZhfJfvb9JlQ&amp;list=PLWKjhJtqVAbknyJ7hSrf1WKh_Xnv9RL1r&amp;index=97&amp;pp=iAQB)

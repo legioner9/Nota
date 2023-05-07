@@ -1,0 +1,3 @@
+# [ВебКадеми - веб-разработка, программирование и IT](https://www.youtube.com/@WebCademy/playlists?view=1&sort=dd&shelf_id=0)
+## [Мастер-классы по веб-разработке](https://www.youtube.com/playlist?list=PL1NBhQGGj46b-Qivs6jSmtXqpieAJLjev)
+### [1. Настройка редактора, знакомство с версткой. Уроки по верстке сайта Портфолио HTML CSS](https://www.youtube.com/watch?v=7J2gZTTC-N0&amp;list=PL1NBhQGGj46b-Qivs6jSmtXqpieAJLjev&amp;index=8&amp;pp=iAQB)

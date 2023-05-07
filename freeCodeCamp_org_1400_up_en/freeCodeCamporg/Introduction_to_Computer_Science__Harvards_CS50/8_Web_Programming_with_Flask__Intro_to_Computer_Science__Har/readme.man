@@ -1,0 +1,3 @@
+# [freeCodeCamp.org](https://www.youtube.com/@freecodecamp/playlists)
+## [Introduction to Computer Science - Harvard's CS50](https://www.youtube.com/playlist?list=PLWKjhJtqVAbmGw5fN5BQlwuug-8bDmabi)
+### [Web Programming with Flask - Intro to Computer Science - Harvard's CS50 (2018)](https://www.youtube.com/watch?v=zdgYw-3tzfI&amp;list=PLWKjhJtqVAbmGw5fN5BQlwuug-8bDmabi&amp;index=8&amp;pp=iAQB)

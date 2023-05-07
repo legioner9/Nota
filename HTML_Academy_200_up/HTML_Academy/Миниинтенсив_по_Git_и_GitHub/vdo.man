@@ -1,0 +1,2 @@
+### [Мини-интенсив по Git и GitHub. Урок 1: как работать с системой контроля версий Git](https://www.youtube.com/watch?v=AnOJP99dKQ4&amp;list=PLQJNT2fdCJnj4I3e7aVCuw2rDJXfqyW6P&amp;index=1&amp;pp=iAQB)
+### [Мини-интенсив по Git и GitHub. Урок 2: как работать с GitHub](https://www.youtube.com/watch?v=S8GvSgMaJlM&amp;list=PLQJNT2fdCJnj4I3e7aVCuw2rDJXfqyW6P&amp;index=2&amp;pp=iAQB)

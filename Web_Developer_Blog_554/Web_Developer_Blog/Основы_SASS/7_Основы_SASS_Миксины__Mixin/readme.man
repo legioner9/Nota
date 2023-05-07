@@ -1,0 +1,3 @@
+# [Web Developer Blog](https://www.youtube.com/@SuprunAlexey/playlists)
+## [Основы SASS](https://www.youtube.com/playlist?list=PLVfMKQXDAhGXMqOHEUVvn8WREVuXNfxZ-)
+### [Основы SASS. Миксины ( Mixin)](https://www.youtube.com/watch?v=atd7x0PKV14&amp;list=PLVfMKQXDAhGXMqOHEUVvn8WREVuXNfxZ-&amp;index=7&amp;pp=iAQB)

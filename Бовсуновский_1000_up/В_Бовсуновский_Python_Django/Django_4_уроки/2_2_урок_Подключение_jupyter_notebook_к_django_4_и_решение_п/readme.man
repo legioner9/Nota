@@ -1,0 +1,3 @@
+# [В. Бовсуновский Python Django](https://www.youtube.com/@bov/playlists?view=1)
+## [Django 4 уроки.](https://www.youtube.com/playlist?list=PLuZJ9n46uMzUYYonzdbZ7nj3uSSocESFG)
+### [2 урок. Подключение jupyter notebook к django 4 и решение проблем. (смотри описание)](https://www.youtube.com/watch?v=NoWHCcHyhbE&amp;list=PLuZJ9n46uMzUYYonzdbZ7nj3uSSocESFG&amp;index=2&amp;pp=iAQB)

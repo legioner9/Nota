@@ -1,0 +1,3 @@
+# [Kamil Abzalov](https://www.youtube.com/@Kamil-abzalovRu/playlists)
+## [AngularJS](https://www.youtube.com/playlist?list=PLOpdT8GIZ4XXCTI-GGObOko6NkZrQjuJd)
+### [Lesson 79. Angular js. Modules, directives, controllers, expressions, MVC](https://www.youtube.com/watch?v=ldDRfYdlaVg&amp;list=PLOpdT8GIZ4XXCTI-GGObOko6NkZrQjuJd&amp;index=2&amp;pp=iAQB)

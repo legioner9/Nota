@@ -1,0 +1,3 @@
+# [В. Бовсуновский Python Django](https://www.youtube.com/@bov/playlists?view=1)
+## [Фреймворк Django + Python](https://www.youtube.com/playlist?list=PLuZJ9n46uMzUTlpOt5EiuFdL3NADjS5EP)
+### [Django + Python. Ясные цели и мощь Джанго. Курс 1 (17 уроков)](https://www.youtube.com/watch?v=VzGtNwbLH6E&amp;list=PLuZJ9n46uMzUTlpOt5EiuFdL3NADjS5EP&amp;index=2&amp;pp=iAQB)

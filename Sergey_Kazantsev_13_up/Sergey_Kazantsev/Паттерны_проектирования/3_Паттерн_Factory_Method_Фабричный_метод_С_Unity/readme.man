@@ -1,0 +1,3 @@
+# [Sergey Kazantsev](https://www.youtube.com/@sergeykazantsev1655/playlists)
+## [Паттерны проектирования](https://www.youtube.com/playlist?list=PL7GaNwuzA5StjPUhLzaegidzFr9JK9TXw)
+### [Паттерн Factory Method, Фабричный метод, С#, Unity](https://www.youtube.com/watch?v=5LIoa4jbAVg&amp;list=PL7GaNwuzA5StjPUhLzaegidzFr9JK9TXw&amp;index=3&amp;pp=iAQB)

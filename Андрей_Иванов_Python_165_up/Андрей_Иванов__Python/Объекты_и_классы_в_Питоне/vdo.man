@@ -1,0 +1,6 @@
+### [ОБЪЕКТЫ И КЛАССЫ В ПИТОНЕ](https://www.youtube.com/watch?v=v65zdg49kmo&amp;list=PLF4MWzDJPFSZeovRnxvorr4HwwTQi15-Q&amp;index=1&amp;pp=iAQB)
+### [КОНСТРУКТОР И ДЕСТРУКТОР В ПИТОНЕ](https://www.youtube.com/watch?v=VBlLos0aYqA&amp;list=PLF4MWzDJPFSZeovRnxvorr4HwwTQi15-Q&amp;index=2&amp;pp=iAQB)
+### [СТАТИЧЕСКИЕ МЕТОДЫ(STATICMETHOD) И ПЕРЕМЕННЫЕ В ООП ПИТОНА](https://www.youtube.com/watch?v=F1NeNYOoTzo&amp;list=PLF4MWzDJPFSZeovRnxvorr4HwwTQi15-Q&amp;index=3&amp;pp=iAQB)
+### [НАСЛЕДОВАНИЕ В ПИТОНЕ](https://www.youtube.com/watch?v=dBrC7B_O42w&amp;list=PLF4MWzDJPFSZeovRnxvorr4HwwTQi15-Q&amp;index=4&amp;pp=iAQB)
+### [НАСЛЕДОВАНИЕ В ПИТОНЕ #2(ПЕРЕОПРЕДЕЛЕНИЕ ФУНКЦИЙ)](https://www.youtube.com/watch?v=voWNSYIRP00&amp;list=PLF4MWzDJPFSZeovRnxvorr4HwwTQi15-Q&amp;index=5&amp;pp=iAQB)
+### [ФУНКЦИИ ПРОТИВ КЛАССОВ В ПИТОНЕ](https://www.youtube.com/watch?v=-r8mt4Djc-A&amp;list=PLF4MWzDJPFSZeovRnxvorr4HwwTQi15-Q&amp;index=6&amp;pp=iAQB)

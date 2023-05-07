@@ -1,0 +1,3 @@
+# [WolfCode](https://www.youtube.com/@wolf_code/playlists)
+## [Задачи с собеседований](https://www.youtube.com/playlist?list=PLLVOmKOaszbKMv1emgwEmAQYdlU7YnUbw)
+### [Ломаем решение из собеседования в Яндекс - пишем хвостовую рекурсию](https://www.youtube.com/watch?v=0_4cgLGSmKA&amp;list=PLLVOmKOaszbKMv1emgwEmAQYdlU7YnUbw&amp;index=3&amp;pp=iAQB)

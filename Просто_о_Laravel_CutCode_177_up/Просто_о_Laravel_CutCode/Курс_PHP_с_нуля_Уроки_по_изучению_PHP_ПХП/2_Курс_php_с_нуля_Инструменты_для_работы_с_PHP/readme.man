@@ -1,0 +1,3 @@
+# [Просто о Laravel. CutCode](https://www.youtube.com/@CutCodeRu/playlists)
+## [Курс PHP с нуля. Уроки по изучению PHP (ПХП)](https://www.youtube.com/playlist?list=PLTucyHptHtTlPKuCdveqnaZE_Mi-F1LhE)
+### [Курс php с нуля. Инструменты для работы с PHP](https://www.youtube.com/watch?v=eeJYA6xdZws&amp;list=PLTucyHptHtTlPKuCdveqnaZE_Mi-F1LhE&amp;index=2&amp;pp=iAQB)

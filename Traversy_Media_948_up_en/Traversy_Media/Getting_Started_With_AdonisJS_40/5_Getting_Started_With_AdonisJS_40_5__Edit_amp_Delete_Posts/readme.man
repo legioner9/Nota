@@ -1,0 +1,3 @@
+# [Traversy Media](https://www.youtube.com/@TraversyMedia/playlists)
+## [Getting Started With AdonisJS 4.0](https://www.youtube.com/playlist?list=PLillGF-RfqbY6wY9yZjCpSMzvhn-icuG6)
+### [Getting Started With AdonisJS 4.0 [5] - Edit &amp; Delete Posts](https://www.youtube.com/watch?v=SpJqYS_67Iw&amp;list=PLillGF-RfqbY6wY9yZjCpSMzvhn-icuG6&amp;index=5&amp;pp=iAQB)

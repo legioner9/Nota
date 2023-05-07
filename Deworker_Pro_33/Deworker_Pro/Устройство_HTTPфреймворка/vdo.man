@@ -1,0 +1,2 @@
+### [Суть компонентного фреймворка [HTTP Framework #1]](https://www.youtube.com/watch?v=zS59BR-u5m8&amp;list=PLrmZ-W4yj5EREsdsw83nrSY0pSx1b8uNE&amp;index=1&amp;pp=iAQB)
+### [Работа сервера и заблуждения в PHP [HTTP Framework #3]](https://www.youtube.com/watch?v=yJ1C1ZLQa9A&amp;list=PLrmZ-W4yj5EREsdsw83nrSY0pSx1b8uNE&amp;index=2&amp;pp=iAQB)

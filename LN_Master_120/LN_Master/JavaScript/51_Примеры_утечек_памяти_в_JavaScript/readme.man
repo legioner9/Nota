@@ -1,0 +1,3 @@
+# [LN Master](https://www.youtube.com/@ToBeCloser007/playlists)
+## [JavaScript](https://www.youtube.com/playlist?list=PL3PZFGlHBUn0ybP6TnbbEgLZQurx0AklH)
+### [Примеры утечек памяти в JavaScript](https://www.youtube.com/watch?v=HJSnq0z_cOE&amp;list=PL3PZFGlHBUn0ybP6TnbbEgLZQurx0AklH&amp;index=51&amp;pp=iAQB)

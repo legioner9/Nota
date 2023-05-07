@@ -1,0 +1,3 @@
+# [Traversy Media](https://www.youtube.com/@TraversyMedia/playlists)
+## [Node.js & Express From Scratch](https://www.youtube.com/playlist?list=PLillGF-RfqbYRpji8t4SxUkMxfowG4Kqp)
+### [Node.js &amp; Express From Scratch [Part 8] - Messaging &amp; Validation](https://www.youtube.com/watch?v=rBzCvbA0Dls&amp;list=PLillGF-RfqbYRpji8t4SxUkMxfowG4Kqp&amp;index=8&amp;pp=iAQB)

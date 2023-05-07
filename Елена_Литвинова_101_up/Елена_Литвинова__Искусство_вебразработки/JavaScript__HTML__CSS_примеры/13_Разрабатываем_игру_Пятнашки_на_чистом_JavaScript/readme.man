@@ -1,0 +1,3 @@
+# [Елена Литвинова — Искусство веб-разработки](https://www.youtube.com/@webelart/playlists)
+## [JavaScript + HTML + CSS примеры](https://www.youtube.com/playlist?list=PLJpSkcgOK72Cpz-JJkHwXVWFvFkmYZqyh)
+### [Разрабатываем игру «Пятнашки» на чистом JavaScript](https://www.youtube.com/watch?v=U4E8ubLnGvI&amp;list=PLJpSkcgOK72Cpz-JJkHwXVWFvFkmYZqyh&amp;index=13&amp;pp=iAQB)

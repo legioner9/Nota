@@ -1,0 +1,3 @@
+# [Coding Tech](https://www.youtube.com/@CodingTech/playlists)
+## [Golang](https://www.youtube.com/playlist?list=PLFjq8z-aGyQ7elzRbDAaW49gyYSwKwEEp)
+### [Go for DevOps, Go for Microservices, and what Go is Actually Good For](https://www.youtube.com/watch?v=X-VsNa7kKHk&amp;list=PLFjq8z-aGyQ7elzRbDAaW49gyYSwKwEEp&amp;index=13&amp;pp=iAQB)

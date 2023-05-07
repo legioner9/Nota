@@ -1,0 +1,1 @@
+### [Обзор RecoilJS. Пишем приложение c ReactJS и Recoil](https://www.youtube.com/watch?v=XRdVv-Gn4Tg&amp;list=PLmfIBo6rTVR7eDsfbeM7dOXshOF0vmFCz&amp;index=1&amp;pp=iAQB)

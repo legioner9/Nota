@@ -1,0 +1,5 @@
+### [JavaScript Under The Hood [1] - Thread &amp; Call Stack](https://www.youtube.com/watch?v=-G9c4CMMUKc&amp;list=PLillGF-Rfqbars4vKNtpcWVDUpVOVTlgB&amp;index=1&amp;pp=iAQB)
+### [JavaScript Under The Hood [2] - Execution Context](https://www.youtube.com/watch?v=Fd9VaW0M7K4&amp;list=PLillGF-Rfqbars4vKNtpcWVDUpVOVTlgB&amp;index=2&amp;pp=iAQB)
+### [JavaScript Under The Hood [3} - Asynchronous JavaScript, Task Queue &amp; Event Loop](https://www.youtube.com/watch?v=28AXSTCpsyU&amp;list=PLillGF-Rfqbars4vKNtpcWVDUpVOVTlgB&amp;index=3&amp;pp=iAQB)
+### [JavaScript Under The Hood [4] - Memory Storage](https://www.youtube.com/watch?v=Hci9Bb4_fkA&amp;list=PLillGF-Rfqbars4vKNtpcWVDUpVOVTlgB&amp;index=4&amp;pp=iAQB)
+### [JavaScript Under The Hood [5] - JavaScript Engine Overview](https://www.youtube.com/watch?v=oc6faXVc54E&amp;list=PLillGF-Rfqbars4vKNtpcWVDUpVOVTlgB&amp;index=5&amp;pp=iAQB)

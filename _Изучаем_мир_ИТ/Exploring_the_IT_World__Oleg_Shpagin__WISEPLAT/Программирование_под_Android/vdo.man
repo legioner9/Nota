@@ -1,7 +1,0 @@
-### [Уроки Java / Как установить Android Studio](https://www.youtube.com/watch?v=k534Nnw0Ayc&amp;list=PLxiU3nwEQ4PHtA8keX6OPS_5boKeWKw0q&amp;index=1)
-### [Уроки Java / Делаем первое приложение на Android Studio](https://www.youtube.com/watch?v=0H_BMUyHb1E&amp;list=PLxiU3nwEQ4PHtA8keX6OPS_5boKeWKw0q&amp;index=2)
-### [Как создать мобильное приложение на Python #1](https://www.youtube.com/watch?v=tvyr2guZMKM&amp;list=PLxiU3nwEQ4PHtA8keX6OPS_5boKeWKw0q&amp;index=3)
-### [Как создать мобильное приложение на Python #2](https://www.youtube.com/watch?v=Vsn8LK5HsLo&amp;list=PLxiU3nwEQ4PHtA8keX6OPS_5boKeWKw0q&amp;index=4)
-### [Как создать мобильное приложение на Python #3](https://www.youtube.com/watch?v=h_GJmzvCLog&amp;list=PLxiU3nwEQ4PHtA8keX6OPS_5boKeWKw0q&amp;index=5)
-### [Как создать мобильное приложение на Python #4](https://www.youtube.com/watch?v=aRxQLiOL-EI&amp;list=PLxiU3nwEQ4PHtA8keX6OPS_5boKeWKw0q&amp;index=6)
-### [Как я изучаю новый язык программирования / Только для спонсоров ))](https://www.youtube.com/watch?v=xQ2-yRDV3gY&amp;list=PLxiU3nwEQ4PHtA8keX6OPS_5boKeWKw0q&amp;index=7)

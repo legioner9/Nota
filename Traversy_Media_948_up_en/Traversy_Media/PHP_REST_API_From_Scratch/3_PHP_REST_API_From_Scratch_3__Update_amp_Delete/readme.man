@@ -1,0 +1,3 @@
+# [Traversy Media](https://www.youtube.com/@TraversyMedia/playlists)
+## [PHP REST API From Scratch](https://www.youtube.com/playlist?list=PLillGF-RfqbZ3_Xr8do7Q2R752xYrDRAo)
+### [PHP REST API From Scratch [3] - Update &amp; Delete](https://www.youtube.com/watch?v=tG2U18EmIu4&amp;list=PLillGF-RfqbZ3_Xr8do7Q2R752xYrDRAo&amp;index=3&amp;pp=iAQB)

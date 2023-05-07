@@ -1,0 +1,3 @@
+# [В. Бовсуновский Python Django](https://www.youtube.com/@bov/playlists?view=1)
+## [новый подход в программировании.](https://www.youtube.com/playlist?list=PLuZJ9n46uMzX-9LOTi_tnxnv6zn7Ysk6W)
+### [250 строк кода  в Jupyter Lab в день и вы профессионал в Python, Kotlin, Js.](https://www.youtube.com/watch?v=pvUf_Qi3IK4&amp;list=PLuZJ9n46uMzX-9LOTi_tnxnv6zn7Ysk6W&amp;index=15&amp;pp=iAQB)

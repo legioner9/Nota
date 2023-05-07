@@ -1,0 +1,3 @@
+# [Vitali Shulha](https://www.youtube.com/@vitalishulha8319/playlists)
+## [Maven build tool](https://www.youtube.com/playlist?list=PLY2rNyjTWaM2Xx5YGc6uYDDPRf4Zi_cQ1)
+### [Create project import in IDE // Создание maven проекта и импорт в IDE](https://www.youtube.com/watch?v=E1kWj_O3o_c&amp;list=PLY2rNyjTWaM2Xx5YGc6uYDDPRf4Zi_cQ1&amp;index=4&amp;pp=iAQB)

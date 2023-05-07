@@ -1,0 +1,2 @@
+### [CSS трюки.Media hover, липкий список, плавная прокрутка без JS](https://www.youtube.com/watch?v=vyjGHpJa9bo&amp;list=PLBfQgL-XzhF35TfreZzy3c7hKP5RzJ7Ig&amp;index=1&amp;pp=iAQB)
+### [CSS трюки #2 Изоляция в CSS, стили для пустого элемента, цвет каретки](https://www.youtube.com/watch?v=k-OzRCgR5Fs&amp;list=PLBfQgL-XzhF35TfreZzy3c7hKP5RzJ7Ig&amp;index=2&amp;pp=iAQB)

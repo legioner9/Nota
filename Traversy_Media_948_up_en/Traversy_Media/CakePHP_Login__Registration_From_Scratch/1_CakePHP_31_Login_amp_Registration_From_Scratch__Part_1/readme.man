@@ -1,0 +1,3 @@
+# [Traversy Media](https://www.youtube.com/@TraversyMedia/playlists)
+## [CakePHP Login & Registration From Scratch](https://www.youtube.com/playlist?list=PLillGF-RfqbbObywQ2KOugFDL9F_k4yLr)
+### [CakePHP 3.1 Login &amp; Registration From Scratch - Part 1](https://www.youtube.com/watch?v=747K6W40ur0&amp;list=PLillGF-RfqbbObywQ2KOugFDL9F_k4yLr&amp;index=1&amp;pp=iAQB)

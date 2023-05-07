@@ -1,0 +1,3 @@
+# [Coding Tech](https://www.youtube.com/@CodingTech/playlists)
+## [Web Design: CSS / SVG](https://www.youtube.com/playlist?list=PLFjq8z-aGyQ6UpssdSYOtSreZuisB2iLU)
+### [Jedi Principles of UI Animation](https://www.youtube.com/watch?v=hPlYjrH6R_U&amp;list=PLFjq8z-aGyQ6UpssdSYOtSreZuisB2iLU&amp;index=22&amp;pp=iAQB)

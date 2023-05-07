@@ -1,0 +1,3 @@
+# [Просто о Laravel. CutCode](https://www.youtube.com/@CutCodeRu/playlists)
+## [Курс laravel+inertia+vue](https://www.youtube.com/playlist?list=PLTucyHptHtTljVToD6w4JXuNEIzEXskLe)
+### [Laravel + inertia + vue course Lesson 3. CRUD. List and pagination](https://www.youtube.com/watch?v=k9DW9T3-TgE&amp;list=PLTucyHptHtTljVToD6w4JXuNEIzEXskLe&amp;index=3&amp;pp=iAQB)

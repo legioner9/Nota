@@ -1,0 +1,3 @@
+# [Елена Литвинова — Искусство веб-разработки](https://www.youtube.com/@webelart/playlists)
+## [Уроки JavaScript](https://www.youtube.com/playlist?list=PLJpSkcgOK72A7ky__8kHNckPpjHFQkC5m)
+### [Подробно изучаем Zustand State Management (React, TypeScript)](https://www.youtube.com/watch?v=lf32_XjKxxo&amp;list=PLJpSkcgOK72A7ky__8kHNckPpjHFQkC5m&amp;index=17&amp;pp=iAQB)

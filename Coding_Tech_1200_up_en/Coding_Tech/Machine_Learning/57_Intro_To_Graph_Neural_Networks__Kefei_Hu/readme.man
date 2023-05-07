@@ -1,0 +1,3 @@
+# [Coding Tech](https://www.youtube.com/@CodingTech/playlists)
+## [Machine Learning](https://www.youtube.com/playlist?list=PLFjq8z-aGyQ5pDM0CYpsqRswZCrb91sF-)
+### [Intro To Graph Neural Networks || Kefei Hu](https://www.youtube.com/watch?v=L7-MkgS-ue4&amp;list=PLFjq8z-aGyQ5pDM0CYpsqRswZCrb91sF-&amp;index=57&amp;pp=iAQB)

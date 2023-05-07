@@ -1,0 +1,8 @@
+### [СОЗДАЕМ ГРАФИК БИТКОИНА ЧЕРЕЗ WEBSOCKETS | Python 3, Питон 3](https://www.youtube.com/watch?v=Na_8D9FpKtQ&amp;list=PLF4MWzDJPFSb8VagHQNFIUwIXSGAgquj-&amp;index=1&amp;pp=iAQB)
+### [ГРАФИК ДЛЯ ПОРТФЕЛЯ КРИПТОВАЛЮТ В ПИТОНЕ](https://www.youtube.com/watch?v=XS9tiOxxA0I&amp;list=PLF4MWzDJPFSb8VagHQNFIUwIXSGAgquj-&amp;index=2&amp;pp=iAQB)
+### [КРИПТОВАЛЮТНЫЙ ИНДЕКС В ПИТОНЕ](https://www.youtube.com/watch?v=wstFKuu2HVU&amp;list=PLF4MWzDJPFSb8VagHQNFIUwIXSGAgquj-&amp;index=3&amp;pp=iAQB)
+### [ИНКАПСУЛЯЦИЯ В ООП ПИТОНА](https://www.youtube.com/watch?v=_HoDL0LkZFI&amp;list=PLF4MWzDJPFSb8VagHQNFIUwIXSGAgquj-&amp;index=4&amp;pp=iAQB)
+### [СТРОИМ ГЛУБИНУ БИТКОИНА В ПИТОНЕ. ДОСТАЕМ И АНАЛИЗИРУЕМ СТЕНКИ ИЗ БИНАНСА](https://www.youtube.com/watch?v=Ar6DMcioBKg&amp;list=PLF4MWzDJPFSb8VagHQNFIUwIXSGAgquj-&amp;index=5&amp;pp=iAQB)
+### [КРИПТОВАЛЮТНЫЙ БОТ PYTHON В ТЕЛЕГРАМ](https://www.youtube.com/watch?v=bFYzxCTaT-A&amp;list=PLF4MWzDJPFSb8VagHQNFIUwIXSGAgquj-&amp;index=6&amp;pp=iAQB)
+### [СОЗДАЕМ СВОЙ БИНАНС. ПИШЕМ ФИНАНСОВУЮ БИРЖУ НА ПИТОНЕ. FINDEV 1](https://www.youtube.com/watch?v=8N3bNdmoFFo&amp;list=PLF4MWzDJPFSb8VagHQNFIUwIXSGAgquj-&amp;index=7&amp;pp=iAQB)
+### [ПОДКЛЮЧАЕМ БАЗУ ДАННЫХ В БИРЖУ. TORTOISE-ORM И AERICH FINDEV #2](https://www.youtube.com/watch?v=JUifw6XhqFU&amp;list=PLF4MWzDJPFSb8VagHQNFIUwIXSGAgquj-&amp;index=8&amp;pp=iAQB)

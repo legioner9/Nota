@@ -1,0 +1,8 @@
+### [Ivan Cukic, Keynote](https://www.youtube.com/watch?v=udifvhJ-3B0&amp;list=PLZN9ZGiWZoZoOoswTzuz8nqDwuxXwuThV&amp;index=1&amp;pp=iAQB)
+### [Кирилл Плешивцев, PGO: уход и кормление](https://www.youtube.com/watch?v=YCthpT3cF1U&amp;list=PLZN9ZGiWZoZoOoswTzuz8nqDwuxXwuThV&amp;index=2&amp;pp=iAQB)
+### [Алексей Малов, Как современные возможности C++ облегчают повседневную разработку](https://www.youtube.com/watch?v=QhwPSRiPmUA&amp;list=PLZN9ZGiWZoZoOoswTzuz8nqDwuxXwuThV&amp;index=3&amp;pp=iAQB)
+### [Денис Панин, C++14 консоль для сетевого оборудования](https://www.youtube.com/watch?v=fs6KV9iNi_U&amp;list=PLZN9ZGiWZoZoOoswTzuz8nqDwuxXwuThV&amp;index=4&amp;pp=iAQB)
+### [Виталий Минко, Автоматическая генерация исходных текстов](https://www.youtube.com/watch?v=fdt2zJpjk9Y&amp;list=PLZN9ZGiWZoZoOoswTzuz8nqDwuxXwuThV&amp;index=5&amp;pp=iAQB)
+### [Сергей Шамбир, Как построить сетевую подсистему для RESTful API на CURL](https://www.youtube.com/watch?v=8A0HKZ4cvMQ&amp;list=PLZN9ZGiWZoZoOoswTzuz8nqDwuxXwuThV&amp;index=6&amp;pp=iAQB)
+### [Алексей Миловидов, Как устроены хэш-таблицы в ClickHouse](https://www.youtube.com/watch?v=EoX82TEz2sQ&amp;list=PLZN9ZGiWZoZoOoswTzuz8nqDwuxXwuThV&amp;index=7&amp;pp=iAQB)
+### [Александр Фокин, C++17, который мы заслужили](https://www.youtube.com/watch?v=I0oerm0MYQY&amp;list=PLZN9ZGiWZoZoOoswTzuz8nqDwuxXwuThV&amp;index=8&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [Eugene Suleimanov](https://www.youtube.com/@EugeneSuleimanov/playlists)
+## [Docker](https://www.youtube.com/playlist?list=PLlsMRoVt5sTNLyTva_k4s3QRoIfIEPaQy)
+### [Основы работы c Docker](https://www.youtube.com/watch?v=tnKFTVX9AQI&amp;list=PLlsMRoVt5sTNLyTva_k4s3QRoIfIEPaQy&amp;index=1&amp;pp=iAQB)

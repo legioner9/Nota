@@ -1,0 +1,6 @@
+### [Все что нужно знать о Redux - action, dispatch, reducer, store](https://www.youtube.com/watch?v=KSgp8gn8v2I&amp;list=PLmfIBo6rTVR70B7skhP5BtczReJMZQ0Vd&amp;index=1&amp;pp=iAQB)
+### [Добавляем Redux в React приложение быстро: useSelector, useDispatch](https://www.youtube.com/watch?v=HwSqZsN0qc0&amp;list=PLmfIBo6rTVR70B7skhP5BtczReJMZQ0Vd&amp;index=2&amp;pp=iAQB)
+### [Обязательно используй Action Creator в своем проекте. Что такое Action Creator в Redux?](https://www.youtube.com/watch?v=iaUpsmw2xbo&amp;list=PLmfIBo6rTVR70B7skhP5BtczReJMZQ0Vd&amp;index=3&amp;pp=iAQB)
+### [Что такое Redux Middleware?](https://www.youtube.com/watch?v=Yfcxpon2oUU&amp;list=PLmfIBo6rTVR70B7skhP5BtczReJMZQ0Vd&amp;index=4&amp;pp=iAQB)
+### [Загадочная функция next в Redux Middleware](https://www.youtube.com/watch?v=bws9Zimpgoo&amp;list=PLmfIBo6rTVR70B7skhP5BtczReJMZQ0Vd&amp;index=5&amp;pp=iAQB)
+### [Иммутабельность в JavaScript, React и Redux (Как иммутабельность может быть быстрой?)](https://www.youtube.com/watch?v=DcnipZH3W6g&amp;list=PLmfIBo6rTVR70B7skhP5BtczReJMZQ0Vd&amp;index=6&amp;pp=iAQB)

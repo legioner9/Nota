@@ -1,0 +1,3 @@
+# [openWeb - Веб программирование на языках PHP и JS](https://www.youtube.com/@openweb-php/playlists)
+## [Framework Laravel Уроки и примеры](https://www.youtube.com/playlist?list=PL-leL2miqjEYkg7HP-q4q5cwf6JGs_ye6)
+### [Laravel + Vue.js - Fullstack веб приложение](https://www.youtube.com/watch?v=ViZEHq9rThQ&amp;list=PL-leL2miqjEYkg7HP-q4q5cwf6JGs_ye6&amp;index=1&amp;pp=iAQB)

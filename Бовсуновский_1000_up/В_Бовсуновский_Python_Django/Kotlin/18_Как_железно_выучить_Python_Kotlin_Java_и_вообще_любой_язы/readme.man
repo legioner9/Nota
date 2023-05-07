@@ -1,0 +1,3 @@
+# [В. Бовсуновский Python Django](https://www.youtube.com/@bov/playlists?view=1)
+## [Kotlin](https://www.youtube.com/playlist?list=PLuZJ9n46uMzVVHB82xLSBpKlGyVb7H7fp)
+### [Как железно выучить Python, Kotlin, Java и вообще любой язык? Суть.](https://www.youtube.com/watch?v=nBP0dpw1sI8&amp;list=PLuZJ9n46uMzVVHB82xLSBpKlGyVb7H7fp&amp;index=18&amp;pp=iAQB)

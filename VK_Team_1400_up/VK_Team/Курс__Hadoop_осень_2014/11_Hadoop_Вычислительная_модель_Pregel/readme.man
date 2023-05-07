@@ -1,0 +1,3 @@
+# [VK Team](https://www.youtube.com/@vkteamchannel/playlists?view=1&sort=dd&shelf_id=0)
+## [Курс · Hadoop (осень 2014)](https://www.youtube.com/playlist?list=PLrCZzMib1e9rPxMIgPri9YnOpvyDAL9HD)
+### [Hadoop. Вычислительная модель Pregel](https://www.youtube.com/watch?v=HLqX3K_Dk_o&amp;list=PLrCZzMib1e9rPxMIgPri9YnOpvyDAL9HD&amp;index=11&amp;pp=iAQB)

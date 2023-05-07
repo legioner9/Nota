@@ -1,0 +1,3 @@
+# [Web Developer Blog](https://www.youtube.com/@SuprunAlexey/playlists)
+## [Уроки Java с нуля](https://www.youtube.com/playlist?list=PLVfMKQXDAhGVWEKi2wKx4y-yNLk7QKam3)
+### [Уроки Java - Введение в ООП. Создание класса. Конструкторы. This](https://www.youtube.com/watch?v=v1SkadIiP2k&amp;list=PLVfMKQXDAhGVWEKi2wKx4y-yNLk7QKam3&amp;index=7&amp;pp=iAQB)

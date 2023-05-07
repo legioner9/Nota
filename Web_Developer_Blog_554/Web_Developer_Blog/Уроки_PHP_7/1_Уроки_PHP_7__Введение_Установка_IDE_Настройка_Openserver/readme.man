@@ -1,0 +1,3 @@
+# [Web Developer Blog](https://www.youtube.com/@SuprunAlexey/playlists)
+## [Уроки PHP 7](https://www.youtube.com/playlist?list=PLVfMKQXDAhGWCBTca7m-snWrZZkjX2jGB)
+### [Уроки PHP 7 | Введение. Установка IDE. Настройка Open-server.](https://www.youtube.com/watch?v=5CPTpFit3hg&amp;list=PLVfMKQXDAhGWCBTca7m-snWrZZkjX2jGB&amp;index=1&amp;pp=iAQB)

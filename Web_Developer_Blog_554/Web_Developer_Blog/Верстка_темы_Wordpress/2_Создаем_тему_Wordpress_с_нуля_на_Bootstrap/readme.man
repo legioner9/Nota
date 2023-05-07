@@ -1,0 +1,3 @@
+# [Web Developer Blog](https://www.youtube.com/@SuprunAlexey/playlists)
+## [Верстка темы Wordpress](https://www.youtube.com/playlist?list=PLVfMKQXDAhGVMy7d9lgIWBhbZYx6uVWPD)
+### [Создаем тему Wordpress с нуля на Bootstrap](https://www.youtube.com/watch?v=vV0Cf_l0CNo&amp;list=PLVfMKQXDAhGVMy7d9lgIWBhbZYx6uVWPD&amp;index=2&amp;pp=iAQB)

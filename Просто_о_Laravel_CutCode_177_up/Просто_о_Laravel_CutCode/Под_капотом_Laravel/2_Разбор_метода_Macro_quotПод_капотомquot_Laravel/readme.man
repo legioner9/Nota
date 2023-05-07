@@ -1,0 +1,3 @@
+# [Просто о Laravel. CutCode](https://www.youtube.com/@CutCodeRu/playlists)
+## ["Под капотом" Laravel](https://www.youtube.com/playlist?list=PLTucyHptHtTnkmEwK0Yxxl-L9Z_8XOK6c)
+### [Разбор метода Macro. &quot;Под капотом&quot; Laravel](https://www.youtube.com/watch?v=LIoV2kquKMw&amp;list=PLTucyHptHtTnkmEwK0Yxxl-L9Z_8XOK6c&amp;index=2&amp;pp=iAQB)

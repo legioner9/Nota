@@ -1,0 +1,2 @@
+### [Пишем canvas-калькулятор. Часть 2. (Реализация логики) [JavaScript]](https://www.youtube.com/watch?v=cTdpvyJdxLw&amp;list=PL3PZFGlHBUn3JpdBDGDs26N7Lc6o8rbxj&amp;index=1&amp;pp=iAQB)
+### [Пишем canvas-калькулятор. Часть 1. (Отрисовка элементов) [JavaScript]](https://www.youtube.com/watch?v=5MbYbjIanQs&amp;list=PL3PZFGlHBUn3JpdBDGDs26N7Lc6o8rbxj&amp;index=2&amp;pp=iAQB)

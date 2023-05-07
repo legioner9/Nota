@@ -1,0 +1,3 @@
+# [Андрей Иванов | Python](https://www.youtube.com/@PythononPapyrusRU/playlists)
+## [Телеграм боты Python](https://www.youtube.com/playlist?list=PLF4MWzDJPFSakWw3NzXcy3GDOPCTF1ltS)
+### [АСИНХРОННЫЙ ТЕЛЕГРАМ БОТ &quot;КОСТИ&quot; | Python 3, Питон 3](https://www.youtube.com/watch?v=QMUB8OKV7Po&amp;list=PLF4MWzDJPFSakWw3NzXcy3GDOPCTF1ltS&amp;index=1&amp;pp=iAQB)

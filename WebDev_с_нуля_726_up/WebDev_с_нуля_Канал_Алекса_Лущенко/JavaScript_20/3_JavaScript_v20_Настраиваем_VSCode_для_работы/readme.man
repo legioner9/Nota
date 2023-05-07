@@ -1,0 +1,3 @@
+# [WebDev с нуля. Канал Алекса Лущенко](https://www.youtube.com/@itgid/playlists)
+## [JavaScript 2.0](https://www.youtube.com/playlist?list=PLM7wFzahDYnEltE-aVGhRHYPwIJn0Xquu)
+### [JavaScript v2.0. Настраиваем VSCode для работы](https://www.youtube.com/watch?v=aogVqWGWaFk&amp;list=PLM7wFzahDYnEltE-aVGhRHYPwIJn0Xquu&amp;index=3&amp;pp=iAQB)

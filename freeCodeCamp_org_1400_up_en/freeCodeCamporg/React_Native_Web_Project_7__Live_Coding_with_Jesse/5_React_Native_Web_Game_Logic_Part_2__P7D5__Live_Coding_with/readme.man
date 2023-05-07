@@ -1,0 +1,3 @@
+# [freeCodeCamp.org](https://www.youtube.com/@freecodecamp/playlists)
+## [React Native Web (Project 7) - Live Coding with Jesse](https://www.youtube.com/playlist?list=PLWKjhJtqVAblh4QvUtzEq4qgs_bnvBrw2)
+### [React Native Web Game Logic Part 2  (P7D5) - Live Coding with Jesse](https://www.youtube.com/watch?v=Cu7z-L-UQhA&amp;list=PLWKjhJtqVAblh4QvUtzEq4qgs_bnvBrw2&amp;index=5&amp;pp=iAQB)

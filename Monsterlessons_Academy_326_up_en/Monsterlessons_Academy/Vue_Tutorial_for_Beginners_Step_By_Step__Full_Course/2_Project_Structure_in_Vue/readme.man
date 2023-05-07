@@ -1,0 +1,3 @@
+# [Monsterlessons Academy](https://www.youtube.com/@MonsterlessonsAcademy/playlists)
+## [Vue Tutorial for Beginners Step By Step - Full Course](https://www.youtube.com/playlist?list=PLEjh-YiSBCDLXVhTilIGHmTGzKGzQyjf9)
+### [Project Structure in Vue](https://www.youtube.com/watch?v=nmup1rjv8A8&amp;list=PLEjh-YiSBCDLXVhTilIGHmTGzKGzQyjf9&amp;index=2&amp;pp=iAQB)

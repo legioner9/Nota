@@ -1,0 +1,3 @@
+# [Denis Batrankov](https://www.youtube.com/@BDVSecurity/playlists)
+## [Безопасность для экспертов](https://www.youtube.com/playlist?list=PLRAbJA74qU4D-2sTzHLh8fFe4_gtKnOnB)
+### [Защита физического и виртуального ЦОД - вебинар Palo Alto Networks 2016 01 27](https://www.youtube.com/watch?v=HbI0AcUnFTw&amp;list=PLRAbJA74qU4D-2sTzHLh8fFe4_gtKnOnB&amp;index=35&amp;pp=iAQB)

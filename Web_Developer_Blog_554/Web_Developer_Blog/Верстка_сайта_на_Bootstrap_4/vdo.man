@@ -1,0 +1,5 @@
+### [Верстка сайта с нуля на Bootstrap 4 - Старт проекта](https://www.youtube.com/watch?v=H2xHzCWJRHg&amp;list=PLVfMKQXDAhGWJpvSJWxkrYeYJ1KU4QYEa&amp;index=1&amp;pp=iAQB)
+### [Верстка сайта с нуля на Bootstrap 4 - Адаптивный сайт](https://www.youtube.com/watch?v=tJw-P17gqCg&amp;list=PLVfMKQXDAhGWJpvSJWxkrYeYJ1KU4QYEa&amp;index=2&amp;pp=iAQB)
+### [Верстка сайта с нуля на Bootstrap 4 - Делаем слайдер](https://www.youtube.com/watch?v=h0zFT3mExq8&amp;list=PLVfMKQXDAhGWJpvSJWxkrYeYJ1KU4QYEa&amp;index=3&amp;pp=iAQB)
+### [Верстка сайта с нуля на Bootstrap 4 - Google map API](https://www.youtube.com/watch?v=irpFplZT7vw&amp;list=PLVfMKQXDAhGWJpvSJWxkrYeYJ1KU4QYEa&amp;index=4&amp;pp=iAQB)
+### [Верстка сайта с нуля на Bootstrap 4 - Закончили footer](https://www.youtube.com/watch?v=PfyYMKGUULQ&amp;list=PLVfMKQXDAhGWJpvSJWxkrYeYJ1KU4QYEa&amp;index=5&amp;pp=iAQB)

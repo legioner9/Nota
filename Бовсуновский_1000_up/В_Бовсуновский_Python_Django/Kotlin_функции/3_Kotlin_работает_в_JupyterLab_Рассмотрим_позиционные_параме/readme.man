@@ -1,0 +1,3 @@
+# [В. Бовсуновский Python Django](https://www.youtube.com/@bov/playlists?view=1)
+## [Kotlin функции](https://www.youtube.com/playlist?list=PLuZJ9n46uMzVhiEjKgj4008McoCA-lk5y)
+### [Kotlin работает в JupyterLab. Рассмотрим позиционные параметры.](https://www.youtube.com/watch?v=SUBdPALcHb8&amp;list=PLuZJ9n46uMzVhiEjKgj4008McoCA-lk5y&amp;index=3&amp;pp=iAQB)

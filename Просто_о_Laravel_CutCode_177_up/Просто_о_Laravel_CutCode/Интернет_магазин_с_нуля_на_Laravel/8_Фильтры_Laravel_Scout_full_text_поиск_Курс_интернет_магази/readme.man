@@ -1,0 +1,3 @@
+# [Просто о Laravel. CutCode](https://www.youtube.com/@CutCodeRu/playlists)
+## [Интернет магазин с нуля на Laravel](https://www.youtube.com/playlist?list=PLTucyHptHtTkveNJf17ypoZoG3pdnvs6v)
+### [Фильтры, Laravel Scout, full text поиск. Курс интернет магазин на Laravel. Этап 5.](https://www.youtube.com/watch?v=DX-nrNVhhWI&amp;list=PLTucyHptHtTkveNJf17ypoZoG3pdnvs6v&amp;index=8&amp;pp=iAQB)

@@ -1,0 +1,2 @@
+### [Распределенная файловая система GlusterFS. Часть 1](https://www.youtube.com/watch?v=4Kz5EkhPCfU&amp;list=PLsMIccp52YRsEEiTqop0Q7OnagsEW8i7p&amp;index=1&amp;pp=iAQB)
+### [Распределенная файловая система GlusterFS. Часть 2](https://www.youtube.com/watch?v=1PD6hkheRrk&amp;list=PLsMIccp52YRsEEiTqop0Q7OnagsEW8i7p&amp;index=2&amp;pp=iAQB)

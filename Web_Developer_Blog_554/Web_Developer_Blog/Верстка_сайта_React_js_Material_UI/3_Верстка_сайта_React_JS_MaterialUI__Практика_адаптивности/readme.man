@@ -1,0 +1,3 @@
+# [Web Developer Blog](https://www.youtube.com/@SuprunAlexey/playlists)
+## [Верстка сайта React js Material UI](https://www.youtube.com/playlist?list=PLVfMKQXDAhGU3NzGuD_l2f6zaJC8HeOZa)
+### [Верстка сайта React JS Material-UI - Практика адаптивности](https://www.youtube.com/watch?v=gQoTcJ-WZMc&amp;list=PLVfMKQXDAhGU3NzGuD_l2f6zaJC8HeOZa&amp;index=3&amp;pp=iAQB)

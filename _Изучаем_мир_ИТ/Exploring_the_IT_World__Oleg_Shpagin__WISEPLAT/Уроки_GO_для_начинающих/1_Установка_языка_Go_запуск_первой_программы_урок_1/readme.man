@@ -1,3 +1,0 @@
-# [Exploring the IT World / Oleg Shpagin / WISEPLAT](https://www.youtube.com/@wiseplat/playlists)
-## [Уроки GO для начинающих](https://www.youtube.com/playlist?list=PLxiU3nwEQ4PEoAbKn-_jXmnooUeoPlo1s)
-### [Установка языка Go, запуск первой программы (урок #1)](https://www.youtube.com/watch?v=_bt1bXWHo1g&amp;list=PLxiU3nwEQ4PEoAbKn-_jXmnooUeoPlo1s&amp;index=1)

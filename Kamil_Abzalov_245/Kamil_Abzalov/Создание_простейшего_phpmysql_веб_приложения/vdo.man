@@ -1,0 +1,6 @@
+### [Lesson 55. Build CRUD Application PHP &amp; Mysql](https://www.youtube.com/watch?v=9zEYWGbyV9I&amp;list=PLOpdT8GIZ4XUhOvTRdjZVnb7fTmws40GH&amp;index=1&amp;pp=iAQB)
+### [Lesson 56. Build CRUD Application PHP &amp; Mysql. Intro to PDO](https://www.youtube.com/watch?v=-WBq4l2VUZw&amp;list=PLOpdT8GIZ4XUhOvTRdjZVnb7fTmws40GH&amp;index=2&amp;pp=iAQB)
+### [Lesson 57. Build CRUD Application PHP &amp; Mysql. Getting data from several table](https://www.youtube.com/watch?v=n7l9qWSh7Gg&amp;list=PLOpdT8GIZ4XUhOvTRdjZVnb7fTmws40GH&amp;index=3&amp;pp=iAQB)
+### [Lesson 58. Build CRUD Application PHP &amp; Mysql. Edit and sava data](https://www.youtube.com/watch?v=BpA_QvQPVlE&amp;list=PLOpdT8GIZ4XUhOvTRdjZVnb7fTmws40GH&amp;index=4&amp;pp=iAQB)
+### [Lesson 59. Build CRUD Application PHP &amp; Mysql. Add information to database](https://www.youtube.com/watch?v=C7QXP051yys&amp;list=PLOpdT8GIZ4XUhOvTRdjZVnb7fTmws40GH&amp;index=5&amp;pp=iAQB)
+### [Lesson 60. Build CRUD Application PHP &amp; Mysql. Remove information from application](https://www.youtube.com/watch?v=GJVdXIZeQmY&amp;list=PLOpdT8GIZ4XUhOvTRdjZVnb7fTmws40GH&amp;index=6&amp;pp=iAQB)

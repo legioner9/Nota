@@ -1,0 +1,3 @@
+# [VK Team](https://www.youtube.com/@vkteamchannel/playlists?view=1&sort=dd&shelf_id=0)
+## [Курс · Разработка на Android (осень 2017)](https://www.youtube.com/playlist?list=PLrCZzMib1e9ptI7bPXFG8X5xEiCBt5qYE)
+### [10. Разработка на Android. Нотификации и Broadcast Receivers | Технострим](https://www.youtube.com/watch?v=TNfsYUIHll4&amp;list=PLrCZzMib1e9ptI7bPXFG8X5xEiCBt5qYE&amp;index=10&amp;pp=iAQB)

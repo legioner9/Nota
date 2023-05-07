@@ -1,0 +1,5 @@
+### [WHY ELM?](https://www.youtube.com/watch?v=rU-W6557Dos&amp;list=PLFjq8z-aGyQ6gxeemSynyvC2Y7ntnB8q8&amp;index=1&amp;pp=iAQB)
+### [Toward A Better Front End Architecture: ELM](https://www.youtube.com/watch?v=aNour03V98E&amp;list=PLFjq8z-aGyQ6gxeemSynyvC2Y7ntnB8q8&amp;index=2&amp;pp=iAQB)
+### [Building UIs in the Dark (aka Elm Programming)](https://www.youtube.com/watch?v=sKxEwjKQ5zg&amp;list=PLFjq8z-aGyQ6gxeemSynyvC2Y7ntnB8q8&amp;index=3&amp;pp=iAQB)
+### [Beyond JavaScript: The Languages for the Modern Web](https://www.youtube.com/watch?v=eUgoto7xWps&amp;list=PLFjq8z-aGyQ6gxeemSynyvC2Y7ntnB8q8&amp;index=4&amp;pp=iAQB)
+### [Millions of Users, Purely Functional Code](https://www.youtube.com/watch?v=bpBeRnyqaIQ&amp;list=PLFjq8z-aGyQ6gxeemSynyvC2Y7ntnB8q8&amp;index=5&amp;pp=iAQB)

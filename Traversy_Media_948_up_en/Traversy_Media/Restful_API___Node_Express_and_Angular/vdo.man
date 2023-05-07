@@ -1,0 +1,2 @@
+### [RESTful API From Scratch Using Node, Express and MongoDB](https://www.youtube.com/watch?v=eB9Fq9I5ocs&amp;list=PLillGF-RfqbYLBAkywyB2cCy8y87GAket&amp;index=1&amp;pp=iAQB)
+### [RESTful API From Scratch  - Part 2  - Angular Frontend](https://www.youtube.com/watch?v=qrIvv6OTN2Y&amp;list=PLillGF-RfqbYLBAkywyB2cCy8y87GAket&amp;index=2&amp;pp=iAQB)

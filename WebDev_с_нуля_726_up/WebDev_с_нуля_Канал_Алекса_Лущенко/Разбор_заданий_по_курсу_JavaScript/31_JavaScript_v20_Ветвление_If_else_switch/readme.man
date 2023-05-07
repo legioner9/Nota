@@ -1,0 +1,3 @@
+# [WebDev с нуля. Канал Алекса Лущенко](https://www.youtube.com/@itgid/playlists)
+## [Разбор заданий по курсу JavaScript](https://www.youtube.com/playlist?list=PLM7wFzahDYnHjDErBtLsLClUv0M1_c4ZZ)
+### [JavaScript v.2.0. Ветвление If, else, switch](https://www.youtube.com/watch?v=OIIBECEaYKI&amp;list=PLM7wFzahDYnHjDErBtLsLClUv0M1_c4ZZ&amp;index=31&amp;pp=iAQB)

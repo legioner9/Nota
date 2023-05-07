@@ -1,0 +1,3 @@
+# [В. Бовсуновский Python Django](https://www.youtube.com/@bov/playlists?view=1)
+## [Искусственный интеллект](https://www.youtube.com/playlist?list=PLuZJ9n46uMzUM76FLR97dXc0YM76hU94v)
+### [Что такое Pandas (Python)?](https://www.youtube.com/watch?v=qXCL4QAAHnU&amp;list=PLuZJ9n46uMzUM76FLR97dXc0YM76hU94v&amp;index=4&amp;pp=iAQB)

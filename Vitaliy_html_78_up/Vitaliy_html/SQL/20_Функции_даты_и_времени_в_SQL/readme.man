@@ -1,0 +1,3 @@
+# [Vitaliy html](https://www.youtube.com/@vitaliyhtml/playlists)
+## [SQL](https://www.youtube.com/playlist?list=PL97bu4ZDN_byFtn3cDo7dbURidAlg7ZSG)
+### [Функции даты и времени в SQL](https://www.youtube.com/watch?v=V6NLEmM4CXI&amp;list=PL97bu4ZDN_byFtn3cDo7dbURidAlg7ZSG&amp;index=20&amp;pp=iAQB)

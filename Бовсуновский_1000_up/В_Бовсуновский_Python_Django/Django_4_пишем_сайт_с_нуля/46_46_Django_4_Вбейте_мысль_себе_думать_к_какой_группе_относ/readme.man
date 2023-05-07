@@ -1,0 +1,3 @@
+# [В. Бовсуновский Python Django](https://www.youtube.com/@bov/playlists?view=1)
+## [Django 4 пишем сайт с нуля.](https://www.youtube.com/playlist?list=PLuZJ9n46uMzXVj9JEjULImuBKRVKKS9To)
+### [46. Django 4. Вбейте мысль себе думать к какой группе относится исключение (url, шаблон, views..)](https://www.youtube.com/watch?v=V3Tr8fx6-RI&amp;list=PLuZJ9n46uMzXVj9JEjULImuBKRVKKS9To&amp;index=46&amp;pp=iAQB)

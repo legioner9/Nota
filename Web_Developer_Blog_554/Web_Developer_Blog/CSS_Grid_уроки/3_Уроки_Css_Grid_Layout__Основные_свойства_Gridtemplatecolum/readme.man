@@ -1,0 +1,3 @@
+# [Web Developer Blog](https://www.youtube.com/@SuprunAlexey/playlists)
+## [CSS Grid уроки](https://www.youtube.com/playlist?list=PLVfMKQXDAhGVZdDQA_rMkoGvJTdvYqCjA)
+### [Уроки Css Grid Layout - Основные свойства. Grid-template-columns](https://www.youtube.com/watch?v=Bz0AYVEFv1U&amp;list=PLVfMKQXDAhGVZdDQA_rMkoGvJTdvYqCjA&amp;index=3&amp;pp=iAQB)

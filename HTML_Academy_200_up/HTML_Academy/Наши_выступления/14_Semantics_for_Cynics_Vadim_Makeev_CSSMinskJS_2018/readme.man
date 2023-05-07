@@ -1,0 +1,3 @@
+# [HTML Academy](https://www.youtube.com/@HTMLAcademyRUS/playlists)
+## [Наши выступления](https://www.youtube.com/playlist?list=PLQJNT2fdCJngx6cl4mEpsYiCwnsx_sX-s)
+### [Semantics for Cynics, Vadim Makeev [CSS-Minsk-JS 2018]](https://www.youtube.com/watch?v=ja9P40x2VZU&amp;list=PLQJNT2fdCJngx6cl4mEpsYiCwnsx_sX-s&amp;index=14&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [Максим В](https://www.youtube.com/@cpp/playlists)
+## [Тетрис на Си++ Tetris C++](https://www.youtube.com/playlist?list=PLlxYwLnXeoE2I6lOskCjTet30MY6xf6k9)
+### [Тетрис / Tetris на языке Си++.  Объединение кода. Отзывчивое управление фигурой. Часть 12](https://www.youtube.com/watch?v=34i89ZmmUII&amp;list=PLlxYwLnXeoE2I6lOskCjTet30MY6xf6k9&amp;index=12&amp;pp=iAQB)

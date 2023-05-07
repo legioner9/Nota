@@ -1,0 +1,3 @@
+# [Treolink](https://www.youtube.com/@Treolink/playlists)
+## [Беспроводные сети](https://www.youtube.com/playlist?list=PLsnyAzJu8C0BCmZw7LNZFitpBQvYQ1aKa)
+### [How-To: Настройка гостевых сетей WiFi в Mikrotik CAPsMAN](https://www.youtube.com/watch?v=Drum2SIClvM&amp;list=PLsnyAzJu8C0BCmZw7LNZFitpBQvYQ1aKa&amp;index=79&amp;pp=iAQB)

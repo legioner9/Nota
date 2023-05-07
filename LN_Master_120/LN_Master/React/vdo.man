@@ -1,0 +1,6 @@
+### [React: Методы жизненного цикла](https://www.youtube.com/watch?v=1ZlvVVNiWIc&amp;list=PL3PZFGlHBUn3m1vmo0Fm--9WwkYyulEVi&amp;index=1&amp;pp=iAQB)
+### [React: Методы жизненного цикла](https://www.youtube.com/watch?v=1ZlvVVNiWIc&amp;list=PL3PZFGlHBUn3m1vmo0Fm--9WwkYyulEVi&amp;index=2&amp;pp=iAQB)
+### [Отладка React приложения в Visual Studio Code](https://www.youtube.com/watch?v=Sg4uSUPHvPo&amp;list=PL3PZFGlHBUn3m1vmo0Fm--9WwkYyulEVi&amp;index=3&amp;pp=iAQB)
+### [React: Интеграция Stripe - платежей](https://www.youtube.com/watch?v=9yEmi1kDxV4&amp;list=PL3PZFGlHBUn3m1vmo0Fm--9WwkYyulEVi&amp;index=4&amp;pp=iAQB)
+### [Разработка приложения: Поиск Github пользователей на React](https://www.youtube.com/watch?v=fkNrJTLYcA0&amp;list=PL3PZFGlHBUn3m1vmo0Fm--9WwkYyulEVi&amp;index=5&amp;pp=iAQB)
+### [Простой менеджер состояний на Context API, useContext и useReducer](https://www.youtube.com/watch?v=DSDw9spxPfo&amp;list=PL3PZFGlHBUn3m1vmo0Fm--9WwkYyulEVi&amp;index=6&amp;pp=iAQB)

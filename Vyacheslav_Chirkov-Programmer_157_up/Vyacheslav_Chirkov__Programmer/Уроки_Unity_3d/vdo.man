@@ -1,0 +1,5 @@
+### [Как скачать UNITY 3D](https://www.youtube.com/watch?v=o8XOW86Vnbk&amp;list=PLEjhu-KP5eiCSO0HDpPn-NC_RQJRbCw0O&amp;index=1&amp;pp=iAQB)
+### [Как выбрать другой редактор кода в Unity 3D](https://www.youtube.com/watch?v=nwG2VL3eXLs&amp;list=PLEjhu-KP5eiCSO0HDpPn-NC_RQJRbCw0O&amp;index=2&amp;pp=iAQB)
+### [Интерфейс Unity 3D обучение.](https://www.youtube.com/watch?v=eLS4D4HzeNg&amp;list=PLEjhu-KP5eiCSO0HDpPn-NC_RQJRbCw0O&amp;index=3&amp;pp=iAQB)
+### [Unity 3D наполнение папки Assets](https://www.youtube.com/watch?v=XWbrC_0FT5A&amp;list=PLEjhu-KP5eiCSO0HDpPn-NC_RQJRbCw0O&amp;index=4&amp;pp=iAQB)
+### [Unity 3d Создание работающего светофора. vcBR](https://www.youtube.com/watch?v=8JdOOLch1II&amp;list=PLEjhu-KP5eiCSO0HDpPn-NC_RQJRbCw0O&amp;index=5&amp;pp=iAQB)

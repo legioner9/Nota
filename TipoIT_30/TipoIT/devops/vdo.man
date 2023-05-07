@@ -1,0 +1,5 @@
+### [Учим GIT играя в игру &quot;Oh my GIT&quot; - Часть 1](https://www.youtube.com/watch?v=ol2j7LubdVc&amp;list=PLTuGAOACdyjUpCIQOwRFUGX1T6ckrqaZs&amp;index=1&amp;pp=iAQB)
+### [Что такое Ansible?](https://www.youtube.com/watch?v=8Piv0Maa228&amp;list=PLTuGAOACdyjUpCIQOwRFUGX1T6ckrqaZs&amp;index=2&amp;pp=iAQB)
+### [Как работает Ansible](https://www.youtube.com/watch?v=s3yWtY6yCMU&amp;list=PLTuGAOACdyjUpCIQOwRFUGX1T6ckrqaZs&amp;index=3&amp;pp=iAQB)
+### [Ansible -  Playbbok and Play](https://www.youtube.com/watch?v=SzSbF6XwDNE&amp;list=PLTuGAOACdyjUpCIQOwRFUGX1T6ckrqaZs&amp;index=4&amp;pp=iAQB)
+### [Ansible - Типы аутентификаций](https://www.youtube.com/watch?v=2RWQ5aNctT4&amp;list=PLTuGAOACdyjUpCIQOwRFUGX1T6ckrqaZs&amp;index=5&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [Просто о Laravel. CutCode](https://www.youtube.com/@CutCodeRu/playlists)
+## [Livewire](https://www.youtube.com/playlist?list=PLTucyHptHtTmr5m18mxq-3QIRcaU9SyDF)
+### [LiveWire и Laravel. Влияние на производительность](https://www.youtube.com/watch?v=XD-X7gUzO9s&amp;list=PLTucyHptHtTmr5m18mxq-3QIRcaU9SyDF&amp;index=5&amp;pp=iAQB)

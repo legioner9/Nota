@@ -1,0 +1,7 @@
+### [Что делают Junior JavaScript программисты на работе. Типичные задачи Junior](https://www.youtube.com/watch?v=cd0xW9W8hqs&amp;list=PLVfMKQXDAhGUTQ2EYakfyUIqhFah1sBa0&amp;index=1&amp;pp=iAQB)
+### [Как стать Junior JavaScript разработчиком](https://www.youtube.com/watch?v=8tdCacx-mUg&amp;list=PLVfMKQXDAhGUTQ2EYakfyUIqhFah1sBa0&amp;index=2&amp;pp=iAQB)
+### [Junior Javascript программисты больше не нужны? Что делать начинающим?](https://www.youtube.com/watch?v=irNzlZTDiI8&amp;list=PLVfMKQXDAhGUTQ2EYakfyUIqhFah1sBa0&amp;index=3&amp;pp=iAQB)
+### [Javascript собеседование вопросы для начинающих junior](https://www.youtube.com/watch?v=n9E-6aBcyd8&amp;list=PLVfMKQXDAhGUTQ2EYakfyUIqhFah1sBa0&amp;index=4&amp;pp=iAQB)
+### [Какие Junior программисты сейчас нужны? JavaScript, Python.](https://www.youtube.com/watch?v=B23hQKYkqOg&amp;list=PLVfMKQXDAhGUTQ2EYakfyUIqhFah1sBa0&amp;index=5&amp;pp=iAQB)
+### [Как стать Junior Node JS разработчиком](https://www.youtube.com/watch?v=C0ublKNYw8w&amp;list=PLVfMKQXDAhGUTQ2EYakfyUIqhFah1sBa0&amp;index=6&amp;pp=iAQB)
+### [Проблемы начинающих до Junior JavaScript разработчиков](https://www.youtube.com/watch?v=ylSZuew0lVs&amp;list=PLVfMKQXDAhGUTQ2EYakfyUIqhFah1sBa0&amp;index=7&amp;pp=iAQB)

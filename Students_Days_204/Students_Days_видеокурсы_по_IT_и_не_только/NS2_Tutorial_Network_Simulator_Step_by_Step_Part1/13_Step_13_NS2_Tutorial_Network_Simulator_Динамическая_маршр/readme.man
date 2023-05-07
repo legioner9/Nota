@@ -1,0 +1,3 @@
+# [Students Days (видеокурсы по IT и не только)](https://www.youtube.com/@studentsdaysit2002/playlists)
+## [NS2 Tutorial (Network Simulator) Step by Step, Part1](https://www.youtube.com/playlist?list=PL7CmqnO_Qydh254K8hqQrkHv5I9ZgfvAC)
+### [Step 13 NS2 Tutorial (Network Simulator) Динамическая маршрутизация  при передаче Multicast трафика](https://www.youtube.com/watch?v=EMYbqxx4JdU&amp;list=PL7CmqnO_Qydh254K8hqQrkHv5I9ZgfvAC&amp;index=13&amp;pp=iAQB)

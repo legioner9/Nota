@@ -1,0 +1,2 @@
+### [React app structure (React folder structure, React Folder Best Structures)](https://www.youtube.com/watch?v=YW8qqKHNMkw&amp;list=PLmfIBo6rTVR51w01G9lZ9aEvK6rXokuWD&amp;index=1&amp;pp=iAQB)
+### [Server-side rendering with NextJS (how is it different from CSR, SSG, ISR?)](https://www.youtube.com/watch?v=PP5ncC9sUfg&amp;list=PLmfIBo6rTVR51w01G9lZ9aEvK6rXokuWD&amp;index=2&amp;pp=iAQB)

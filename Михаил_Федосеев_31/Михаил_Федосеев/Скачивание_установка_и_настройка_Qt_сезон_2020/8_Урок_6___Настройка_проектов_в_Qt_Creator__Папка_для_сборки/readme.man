@@ -1,0 +1,3 @@
+# [Михаил Федосеев](https://www.youtube.com/@fedoseevm/playlists)
+## [Скачивание, установка и настройка Qt (сезон 2020)](https://www.youtube.com/playlist?list=PLYQhNajy-JUGczfEmn6ibSzOa-iny_z-I)
+### [Урок 6   Настройка проектов в Qt Creator  Папка для сборки](https://www.youtube.com/watch?v=T6rhn1QREx4&amp;list=PLYQhNajy-JUGczfEmn6ibSzOa-iny_z-I&amp;index=8&amp;pp=iAQB)

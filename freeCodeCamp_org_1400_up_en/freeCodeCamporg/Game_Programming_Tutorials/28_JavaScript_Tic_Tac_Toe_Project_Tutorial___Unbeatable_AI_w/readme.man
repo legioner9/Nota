@@ -1,0 +1,3 @@
+# [freeCodeCamp.org](https://www.youtube.com/@freecodecamp/playlists)
+## [Game Programming Tutorials](https://www.youtube.com/playlist?list=PLWKjhJtqVAbmqFs83T4W-FZQ9kK983tZC)
+### [JavaScript Tic Tac Toe Project Tutorial  - Unbeatable AI w/ Minimax Algorithm](https://www.youtube.com/watch?v=P2TcQ3h0ipQ&amp;list=PLWKjhJtqVAbmqFs83T4W-FZQ9kK983tZC&amp;index=28&amp;pp=iAQB)

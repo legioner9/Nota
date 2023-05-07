@@ -1,0 +1,4 @@
+### [&quot;Изучаем Питон&quot; Марк Лутц 6-я глава. Бекстейдж с Яной Бубновой](https://www.youtube.com/watch?v=bPoSSgIUUIQ&amp;list=PLgENP2X2Wt56lT5LwtszivgQhD97Y5x9l&amp;index=1&amp;pp=iAQB)
+### [Собеседование стажёр python разработчик | Юлия Орлова. Обещает многое.](https://www.youtube.com/watch?v=WMxvAsOLzVk&amp;list=PLgENP2X2Wt56lT5LwtszivgQhD97Y5x9l&amp;index=2&amp;pp=iAQB)
+### [Собеседование стажёр python разработчик | Юлия Орлова. Сложные отношения с пеп8](https://www.youtube.com/watch?v=b7pQbYT-M7Q&amp;list=PLgENP2X2Wt56lT5LwtszivgQhD97Y5x9l&amp;index=3&amp;pp=iAQB)
+### [Cобеседование pyhton junior Дамир Шамсутдинов. Бэкстейдж](https://www.youtube.com/watch?v=MHjpVPcr4aM&amp;list=PLgENP2X2Wt56lT5LwtszivgQhD97Y5x9l&amp;index=4&amp;pp=iAQB)

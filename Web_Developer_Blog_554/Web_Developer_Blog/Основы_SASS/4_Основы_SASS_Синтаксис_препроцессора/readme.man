@@ -1,0 +1,3 @@
+# [Web Developer Blog](https://www.youtube.com/@SuprunAlexey/playlists)
+## [Основы SASS](https://www.youtube.com/playlist?list=PLVfMKQXDAhGXMqOHEUVvn8WREVuXNfxZ-)
+### [Основы SASS. Синтаксис препроцессора](https://www.youtube.com/watch?v=HJ-YO-cTsWQ&amp;list=PLVfMKQXDAhGXMqOHEUVvn8WREVuXNfxZ-&amp;index=4&amp;pp=iAQB)

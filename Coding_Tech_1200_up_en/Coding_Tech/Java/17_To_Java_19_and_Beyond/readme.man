@@ -1,0 +1,3 @@
+# [Coding Tech](https://www.youtube.com/@CodingTech/playlists)
+## [Java](https://www.youtube.com/playlist?list=PLFjq8z-aGyQ63wPiSrJ_b8NAh8X4EN5Nz)
+### [To Java 19 and Beyond](https://www.youtube.com/watch?v=Hd0WESDRRJw&amp;list=PLFjq8z-aGyQ63wPiSrJ_b8NAh8X4EN5Nz&amp;index=17&amp;pp=iAQB)

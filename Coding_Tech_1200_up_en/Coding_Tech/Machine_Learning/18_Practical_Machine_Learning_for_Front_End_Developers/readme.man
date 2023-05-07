@@ -1,0 +1,3 @@
+# [Coding Tech](https://www.youtube.com/@CodingTech/playlists)
+## [Machine Learning](https://www.youtube.com/playlist?list=PLFjq8z-aGyQ5pDM0CYpsqRswZCrb91sF-)
+### [Practical Machine Learning for Front End Developers](https://www.youtube.com/watch?v=SoeCsLE80o0&amp;list=PLFjq8z-aGyQ5pDM0CYpsqRswZCrb91sF-&amp;index=18&amp;pp=iAQB)

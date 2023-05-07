@@ -1,0 +1,3 @@
+# [freeCodeCamp.org](https://www.youtube.com/@freecodecamp/playlists)
+## [DevOps Courses](https://www.youtube.com/playlist?list=PLWKjhJtqVAbkzvvpY12KkfiIGso9A_Ixs)
+### [Azure Developer Associate (AZ-204) — Full Course Pass the Exam!](https://www.youtube.com/watch?v=jZx8PMQjobk&amp;list=PLWKjhJtqVAbkzvvpY12KkfiIGso9A_Ixs&amp;index=9&amp;pp=iAQB)

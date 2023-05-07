@@ -1,0 +1,4 @@
+### [Курс по Svelte.js - Введение](https://www.youtube.com/watch?v=MQoXzj3Bf0o&amp;list=PL3PZFGlHBUn3DmxT5Gb64_oLQ-yzkmuhg&amp;index=1&amp;pp=iAQB)
+### [Курс по Svelte.js - Реактивность и логика](https://www.youtube.com/watch?v=m3G2-JW4BwM&amp;list=PL3PZFGlHBUn3DmxT5Gb64_oLQ-yzkmuhg&amp;index=2&amp;pp=iAQB)
+### [Курс по Svelte.js - Методы жизненного цикла](https://www.youtube.com/watch?v=6AE9xMOB5iI&amp;list=PL3PZFGlHBUn3DmxT5Gb64_oLQ-yzkmuhg&amp;index=3&amp;pp=iAQB)
+### [Курс по Svelte.js - Хранилища](https://www.youtube.com/watch?v=oZ11lKNNZqs&amp;list=PL3PZFGlHBUn3DmxT5Gb64_oLQ-yzkmuhg&amp;index=4&amp;pp=iAQB)

@@ -1,0 +1,2 @@
+### [Виртуализация KVM. Часть 1](https://www.youtube.com/watch?v=5TT1C6prxrg&amp;list=PLsMIccp52YRtFVBXr0_oCkPLA0UiMPV5F&amp;index=1&amp;pp=iAQB)
+### [Виртуализация KVM. Часть 2](https://www.youtube.com/watch?v=PjZLCLOZJeY&amp;list=PLsMIccp52YRtFVBXr0_oCkPLA0UiMPV5F&amp;index=2&amp;pp=iAQB)

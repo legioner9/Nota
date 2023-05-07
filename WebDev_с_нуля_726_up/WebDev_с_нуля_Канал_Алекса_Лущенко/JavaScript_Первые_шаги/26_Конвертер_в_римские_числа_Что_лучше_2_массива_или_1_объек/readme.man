@@ -1,0 +1,3 @@
+# [WebDev с нуля. Канал Алекса Лущенко](https://www.youtube.com/@itgid/playlists)
+## [JavaScript. Первые шаги](https://www.youtube.com/playlist?list=PLM7wFzahDYnGiAEISqw1Lal_T9heUvbar)
+### [Конвертер в римские числа. Что лучше 2 массива или 1 объект? JavaScript](https://www.youtube.com/watch?v=ELWcKO-EAw0&amp;list=PLM7wFzahDYnGiAEISqw1Lal_T9heUvbar&amp;index=26&amp;pp=iAQB)

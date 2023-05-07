@@ -1,0 +1,3 @@
+### [Как сменить тему в intelliJ IDEA](https://www.youtube.com/watch?v=wjBa06GeuWM&amp;list=PLEjhu-KP5eiA708JMLNKNRnO8zfPybJLJ&amp;index=1&amp;pp=iAQB)
+### [Как делать приложения для андроид](https://www.youtube.com/watch?v=L4462fhr2fk&amp;list=PLEjhu-KP5eiA708JMLNKNRnO8zfPybJLJ&amp;index=2&amp;pp=iAQB)
+### [Java возможности урок 2](https://www.youtube.com/watch?v=n-uyF7loEDg&amp;list=PLEjhu-KP5eiA708JMLNKNRnO8zfPybJLJ&amp;index=3&amp;pp=iAQB)

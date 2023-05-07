@@ -1,0 +1,2 @@
+### [ОТПРАВЛЯЕМ КАРТИНКУ ЧЕРЕЗ СОКЕТЫ | Python 3, Питон 3](https://www.youtube.com/watch?v=p0NueP55kjs&amp;list=PLF4MWzDJPFSbaLzVS2Nstq2CwppucU-x3&amp;index=1&amp;pp=iAQB)
+### [ПОЛУЧЕНИЕ ПОЛНОГО СООБЩЕНИЯ. СОКЕТ ЧАТ #1 | Python 3, Питон 3](https://www.youtube.com/watch?v=lhjvKgLvrNQ&amp;list=PLF4MWzDJPFSbaLzVS2Nstq2CwppucU-x3&amp;index=2&amp;pp=iAQB)

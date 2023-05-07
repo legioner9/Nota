@@ -1,0 +1,3 @@
+# [freeCodeCamp.org](https://www.youtube.com/@freecodecamp/playlists)
+## [Talks](https://www.youtube.com/playlist?list=PLWKjhJtqVAbl9yptoxdSJDDoTVdcysyPo)
+### [How to stream on YouTube using OBS - in-depth OBS tutorial](https://www.youtube.com/watch?v=anKWXBXSzKM&amp;list=PLWKjhJtqVAbl9yptoxdSJDDoTVdcysyPo&amp;index=14&amp;pp=iAQB)

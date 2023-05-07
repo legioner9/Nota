@@ -1,0 +1,3 @@
+# [C++ User Group](https://www.youtube.com/@CUserGroupRussia/playlists)
+## [C++ Russia 2022: Community Day & активности из главной студии](https://www.youtube.com/playlist?list=PLZN9ZGiWZoZo4MvdepGdU-6HmGVCf46Eh)
+### [Сергей Козлов — Украшаем молоток: как автоматизировать разбор проблем в дебаггере](https://www.youtube.com/watch?v=7l-vGhbllf0&amp;list=PLZN9ZGiWZoZo4MvdepGdU-6HmGVCf46Eh&amp;index=5&amp;pp=iAQB)

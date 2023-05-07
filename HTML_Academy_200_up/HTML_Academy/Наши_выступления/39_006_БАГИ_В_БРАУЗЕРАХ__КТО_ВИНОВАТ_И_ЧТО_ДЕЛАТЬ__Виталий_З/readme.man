@@ -1,0 +1,3 @@
+# [HTML Academy](https://www.youtube.com/@HTMLAcademyRUS/playlists)
+## [Наши выступления](https://www.youtube.com/playlist?list=PLQJNT2fdCJngx6cl4mEpsYiCwnsx_sX-s)
+### [006. БАГИ В БРАУЗЕРАХ  КТО ВИНОВАТ И ЧТО ДЕЛАТЬ - Виталий Зюзин](https://www.youtube.com/watch?v=xqOPJITFLvg&amp;list=PLQJNT2fdCJngx6cl4mEpsYiCwnsx_sX-s&amp;index=39&amp;pp=iAQB)

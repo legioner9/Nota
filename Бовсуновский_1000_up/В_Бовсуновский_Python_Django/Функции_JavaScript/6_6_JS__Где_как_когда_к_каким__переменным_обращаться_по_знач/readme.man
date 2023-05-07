@@ -1,0 +1,3 @@
+# [В. Бовсуновский Python Django](https://www.youtube.com/@bov/playlists?view=1)
+## [Функции JavaScript](https://www.youtube.com/playlist?list=PLuZJ9n46uMzWnxpec__CZzq_8USy81Qtq)
+### [6. JS - Где, как, когда к каким  переменным обращаться по значению и по ссылке.](https://www.youtube.com/watch?v=DaX68GnHDnk&amp;list=PLuZJ9n46uMzWnxpec__CZzq_8USy81Qtq&amp;index=6&amp;pp=iAQB)

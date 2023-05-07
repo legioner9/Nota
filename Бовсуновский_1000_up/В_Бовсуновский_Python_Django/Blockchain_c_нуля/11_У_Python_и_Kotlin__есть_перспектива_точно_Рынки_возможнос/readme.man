@@ -1,0 +1,3 @@
+# [В. Бовсуновский Python Django](https://www.youtube.com/@bov/playlists?view=1)
+## [Blockchain c нуля](https://www.youtube.com/playlist?list=PLuZJ9n46uMzVFCtchjEhZ2TXHUiYjAXfd)
+### [У Python и Kotlin — есть перспектива, точно. Рынки возможностей, которые охватывают Python и Kotlin.](https://www.youtube.com/watch?v=Hfz1y3pOAZ8&amp;list=PLuZJ9n46uMzVFCtchjEhZ2TXHUiYjAXfd&amp;index=11&amp;pp=iAQB)

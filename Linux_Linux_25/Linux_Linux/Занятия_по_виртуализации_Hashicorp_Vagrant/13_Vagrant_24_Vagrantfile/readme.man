@@ -1,0 +1,3 @@
+# [Linux Linux](https://www.youtube.com/@linuxlinux7961/playlists)
+## [Занятия по виртуализации Hashicorp Vagrant](https://www.youtube.com/playlist?list=PLx50iqBtw_6qNYGEFnYzn5NXf4nMFmYPo)
+### [Vagrant 2.4. Vagrantfile](https://www.youtube.com/watch?v=t0-9HCI-R6k&amp;list=PLx50iqBtw_6qNYGEFnYzn5NXf4nMFmYPo&amp;index=13&amp;pp=iAQB)

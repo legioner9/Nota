@@ -1,0 +1,3 @@
+# [Кибер Весло](https://www.youtube.com/@cyber-paddle/playlists)
+## [Django REST framework](https://www.youtube.com/playlist?list=PLIMYb25g876j-K7PdfP24E-a4Bn-lDoGz)
+### [Telegram Bot на Python. Часть 1 - backend. Python, Django, Django Rest Framework.](https://www.youtube.com/watch?v=fGXqTnWAFOo&amp;list=PLIMYb25g876j-K7PdfP24E-a4Bn-lDoGz&amp;index=6&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [Denis Batrankov](https://www.youtube.com/@BDVSecurity/playlists)
+## [NGFW](https://www.youtube.com/playlist?list=PLRAbJA74qU4BwrOpBkq3GWaq9lnwAWp5i)
+### [5 Considerations: Sizing Your Next-Gen Firewall (NGFW)](https://www.youtube.com/watch?v=12AqJdlqXzM&amp;list=PLRAbJA74qU4BwrOpBkq3GWaq9lnwAWp5i&amp;index=17&amp;pp=iAQB)

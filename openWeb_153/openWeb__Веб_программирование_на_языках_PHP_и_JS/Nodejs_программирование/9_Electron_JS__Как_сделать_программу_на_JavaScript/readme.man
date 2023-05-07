@@ -1,0 +1,3 @@
+# [openWeb - Веб программирование на языках PHP и JS](https://www.youtube.com/@openweb-php/playlists)
+## [Node.js программирование](https://www.youtube.com/playlist?list=PL-leL2miqjEYADLEfKwTSMyfRYRrSzQtu)
+### [Electron JS - Как сделать программу на JavaScript](https://www.youtube.com/watch?v=66mUWnhdeeU&amp;list=PL-leL2miqjEYADLEfKwTSMyfRYRrSzQtu&amp;index=9&amp;pp=iAQB)

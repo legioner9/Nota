@@ -1,0 +1,3 @@
+# [C++ User Group](https://www.youtube.com/@CUserGroupRussia/playlists)
+## [C++ Siberia 2021](https://www.youtube.com/playlist?list=PLZN9ZGiWZoZoqHq5MVAFH1e5QfKs9vQ8T)
+### [C++ Siberia 2021: Александр Боргардт, (Не)очевидные проблемы с базами данных](https://www.youtube.com/watch?v=zud3HvaurTg&amp;list=PLZN9ZGiWZoZoqHq5MVAFH1e5QfKs9vQ8T&amp;index=3&amp;pp=iAQB)

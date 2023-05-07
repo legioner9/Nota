@@ -1,0 +1,3 @@
+# [Иван Викторович](https://www.youtube.com/@plugar_inf/playlists)
+## [Python с нуля | Мини-курс](https://www.youtube.com/playlist?list=PLs2IpQwiXpT3SqbqPzLCEy1fow9G7g0oY)
+### [Python с нуля. Урок 12 | Регулярные выражения. Часть 1](https://www.youtube.com/watch?v=_PSyCOuueFs&amp;list=PLs2IpQwiXpT3SqbqPzLCEy1fow9G7g0oY&amp;index=12&amp;pp=iAQB)

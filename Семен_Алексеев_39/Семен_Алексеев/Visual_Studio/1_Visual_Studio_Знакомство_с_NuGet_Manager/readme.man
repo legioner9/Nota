@@ -1,0 +1,3 @@
+# [Семен Алексеев](https://www.youtube.com/@alekseev74/playlists)
+## [Visual Studio](https://www.youtube.com/playlist?list=PLUTrDHuvZc4HND4LlirvS9q_Vn05jrTd1)
+### [Visual Studio. Знакомство с NuGet Manager](https://www.youtube.com/watch?v=0OczR-zgZ1g&amp;list=PLUTrDHuvZc4HND4LlirvS9q_Vn05jrTd1&amp;index=1&amp;pp=iAQB)

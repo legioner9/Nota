@@ -1,0 +1,3 @@
+# [Dmitry Afanasyev](https://www.youtube.com/@DmitryAfanasyev/playlists)
+## [PHP для начинающих. Основы PHP](https://www.youtube.com/playlist?list=PLoonZ8wII66hX4uSqA8m7g_4GnKqsoFxP)
+### [#13 [Пользовательские функции в PHP] урок курса по программированию](https://www.youtube.com/watch?v=tezbs2rKCQ8&amp;list=PLoonZ8wII66hX4uSqA8m7g_4GnKqsoFxP&amp;index=13&amp;pp=iAQB)

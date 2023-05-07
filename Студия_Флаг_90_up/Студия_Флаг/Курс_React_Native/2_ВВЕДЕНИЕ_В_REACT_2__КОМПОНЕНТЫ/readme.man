@@ -1,0 +1,3 @@
+# [Студия Флаг](https://www.youtube.com/@FlagStudio/playlists)
+## [Курс React Native](https://www.youtube.com/playlist?list=PLVdcV6tHcaCFM56Yz1R2ghB3dyqsdIo6R)
+### [ВВЕДЕНИЕ В REACT #2 // КОМПОНЕНТЫ](https://www.youtube.com/watch?v=XUju1nHkUFg&amp;list=PLVdcV6tHcaCFM56Yz1R2ghB3dyqsdIo6R&amp;index=2&amp;pp=iAQB)

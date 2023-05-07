@@ -1,0 +1,3 @@
+# [VK Team](https://www.youtube.com/@vkteamchannel/playlists?view=1&sort=dd&shelf_id=0)
+## [Курс · Разработка на Java (2018)](https://www.youtube.com/playlist?list=PLrCZzMib1e9pnFbVV3u4s7ki5NTnm7WgT)
+### [11. Разработка на Java (2018). Practical concurrency | Технострим](https://www.youtube.com/watch?v=lVtMjcZyAgI&amp;list=PLrCZzMib1e9pnFbVV3u4s7ki5NTnm7WgT&amp;index=12&amp;pp=iAQB)

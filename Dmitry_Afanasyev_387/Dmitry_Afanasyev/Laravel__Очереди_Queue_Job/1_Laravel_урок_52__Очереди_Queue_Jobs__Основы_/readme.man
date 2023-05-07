@@ -1,0 +1,3 @@
+# [Dmitry Afanasyev](https://www.youtube.com/@DmitryAfanasyev/playlists)
+## [Laravel - Очереди (Queue, Job)](https://www.youtube.com/playlist?list=PLoonZ8wII66iYtCIjSytFjqysPDOjrJVn)
+### [Laravel урок №52: [ Очереди, Queue, Jobs - Основы ]](https://www.youtube.com/watch?v=IsS8HO4knBY&amp;list=PLoonZ8wII66iYtCIjSytFjqysPDOjrJVn&amp;index=1&amp;pp=iAQB)

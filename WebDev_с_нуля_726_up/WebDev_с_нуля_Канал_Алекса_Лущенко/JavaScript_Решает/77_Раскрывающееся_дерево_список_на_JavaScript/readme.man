@@ -1,0 +1,3 @@
+# [WebDev с нуля. Канал Алекса Лущенко](https://www.youtube.com/@itgid/playlists)
+## [JavaScript Решает](https://www.youtube.com/playlist?list=PLM7wFzahDYnG-oMkclNX0FIcLZR18hFDM)
+### [Раскрывающееся дерево (список) на JavaScript](https://www.youtube.com/watch?v=eD3TtGoGS9U&amp;list=PLM7wFzahDYnG-oMkclNX0FIcLZR18hFDM&amp;index=77&amp;pp=iAQB)

@@ -1,0 +1,6 @@
+### [Реализация метода для Effector Patronum](https://www.youtube.com/watch?v=uG4gosfZNGk&amp;list=PLRXfqpDVC48YYQ5r-J3_OdmUFUF5erBQP&amp;index=1&amp;pp=iAQB)
+### [Делаем игру Ball Sort на Effector](https://www.youtube.com/watch?v=tjjxIQd0E8c&amp;list=PLRXfqpDVC48YYQ5r-J3_OdmUFUF5erBQP&amp;index=2&amp;pp=iAQB)
+### [[LiveCoding] #4 — Тестирование React и Effector](https://www.youtube.com/watch?v=Ozg6mV8Grlw&amp;list=PLRXfqpDVC48YYQ5r-J3_OdmUFUF5erBQP&amp;index=3&amp;pp=iAQB)
+### [[LiveCoding] #3 — Внедрение OAuth2 в Cardbox](https://www.youtube.com/watch?v=ffRthDqp1sI&amp;list=PLRXfqpDVC48YYQ5r-J3_OdmUFUF5erBQP&amp;index=4&amp;pp=iAQB)
+### [[LiveCoding] #2 — Howtocards backend on Rust](https://www.youtube.com/watch?v=i7oh2Cp4Vt4&amp;list=PLRXfqpDVC48YYQ5r-J3_OdmUFUF5erBQP&amp;index=5&amp;pp=iAQB)
+### [Replacing redux with effector | Howtocards](https://www.youtube.com/watch?v=IXicdkQchTk&amp;list=PLRXfqpDVC48YYQ5r-J3_OdmUFUF5erBQP&amp;index=6&amp;pp=iAQB)

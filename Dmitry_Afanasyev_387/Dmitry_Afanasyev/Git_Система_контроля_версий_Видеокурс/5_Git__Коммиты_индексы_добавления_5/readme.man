@@ -1,0 +1,3 @@
+# [Dmitry Afanasyev](https://www.youtube.com/@DmitryAfanasyev/playlists)
+## [Git. Система контроля версий. Видеокурс](https://www.youtube.com/playlist?list=PLoonZ8wII66iUm84o7nadL-oqINzBLk5g)
+### [Git - Коммиты, индексы, добавления #5](https://www.youtube.com/watch?v=6b4z6I1wl_A&amp;list=PLoonZ8wII66iUm84o7nadL-oqINzBLk5g&amp;index=5&amp;pp=iAQB)

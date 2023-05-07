@@ -1,0 +1,3 @@
+# [Dmitry Afanasyev](https://www.youtube.com/@DmitryAfanasyev/playlists)
+## [Система контроля версий Mercurial Hg](https://www.youtube.com/playlist?list=PLoonZ8wII66gQsw5eD9sJvVspllIvXQT_)
+### [Mercurial Hg. Клонирование репозитория. Работа в команде](https://www.youtube.com/watch?v=MFj-IxwCN8s&amp;list=PLoonZ8wII66gQsw5eD9sJvVspllIvXQT_&amp;index=6&amp;pp=iAQB)

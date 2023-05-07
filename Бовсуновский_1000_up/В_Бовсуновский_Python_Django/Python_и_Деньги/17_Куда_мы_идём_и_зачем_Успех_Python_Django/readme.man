@@ -1,0 +1,3 @@
+# [В. Бовсуновский Python Django](https://www.youtube.com/@bov/playlists?view=1)
+## [Python и Деньги.](https://www.youtube.com/playlist?list=PLuZJ9n46uMzXMB9XkxEaohlSRzFIEMdXa)
+### [Куда мы идём и зачем? Успех Python Django.](https://www.youtube.com/watch?v=jmaqmdh7-5I&amp;list=PLuZJ9n46uMzXMB9XkxEaohlSRzFIEMdXa&amp;index=17&amp;pp=iAQB)

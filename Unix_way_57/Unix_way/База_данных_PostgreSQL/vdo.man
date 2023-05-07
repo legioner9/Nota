@@ -1,0 +1,5 @@
+### [PostgreSQL. Часть 1. Установка и настройка](https://www.youtube.com/watch?v=Y6df2liHjlg&amp;list=PLsMIccp52YRsz8slS0PfEHv2UeIAbmK3I&amp;index=1&amp;pp=iAQB)
+### [PostgreSQL. Часть 2. Язык запросов SQL](https://www.youtube.com/watch?v=LU3xLhvBv4g&amp;list=PLsMIccp52YRsz8slS0PfEHv2UeIAbmK3I&amp;index=2&amp;pp=iAQB)
+### [PostgreSQL. Часть 3. Реляционная модель](https://www.youtube.com/watch?v=6YEU6uHyBP4&amp;list=PLsMIccp52YRsz8slS0PfEHv2UeIAbmK3I&amp;index=3&amp;pp=iAQB)
+### [PostgreSQL. Часть 4. Поиск и анализ данных](https://www.youtube.com/watch?v=XtFYwWI5yDI&amp;list=PLsMIccp52YRsz8slS0PfEHv2UeIAbmK3I&amp;index=4&amp;pp=iAQB)
+### [PostgreSQL. Часть 5. Индексы](https://www.youtube.com/watch?v=CYdKijiDBYk&amp;list=PLsMIccp52YRsz8slS0PfEHv2UeIAbmK3I&amp;index=5&amp;pp=iAQB)

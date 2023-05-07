@@ -1,0 +1,3 @@
+# [Андрей Андриевский](https://www.youtube.com/@andrievskii/playlists)
+## [Базовый курс PHP-7](https://www.youtube.com/playlist?list=PLMB6wLyKp7lWt6GpOEV1BrHiX7zJnVMDy)
+### [Переменные и типы данных в PHP | Базовый курс PHP-7](https://www.youtube.com/watch?v=ulkP6Q4G8RI&amp;list=PLMB6wLyKp7lWt6GpOEV1BrHiX7zJnVMDy&amp;index=3&amp;pp=iAQB)

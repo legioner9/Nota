@@ -1,0 +1,3 @@
+# [Web Developer Blog](https://www.youtube.com/@SuprunAlexey/playlists)
+## [Bootstrap верстка сайта админ панели](https://www.youtube.com/playlist?list=PLVfMKQXDAhGV-Uwwdc37HbLfjC4gfYEaw)
+### [Bootstrap верстка админ панели сайта - структура](https://www.youtube.com/watch?v=euKScIZqQC8&amp;list=PLVfMKQXDAhGV-Uwwdc37HbLfjC4gfYEaw&amp;index=1&amp;pp=iAQB)

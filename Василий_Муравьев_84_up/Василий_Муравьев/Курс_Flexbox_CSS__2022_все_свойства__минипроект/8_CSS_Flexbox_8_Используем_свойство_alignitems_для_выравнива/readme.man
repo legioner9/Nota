@@ -1,0 +1,3 @@
+# [Василий Муравьев](https://www.youtube.com/@stackdev/playlists)
+## [Курс Flexbox CSS - 2022 (все свойства + мини-проект)](https://www.youtube.com/playlist?list=PLtL3lrXPn2rXss0MID96vUXsH59t4EKwk)
+### [CSS Flexbox #8. Используем свойство align-items для выравнивания и центрирования flex элементов](https://www.youtube.com/watch?v=H8jR0QIk8T4&amp;list=PLtL3lrXPn2rXss0MID96vUXsH59t4EKwk&amp;index=8&amp;pp=iAQB)

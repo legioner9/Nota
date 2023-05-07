@@ -1,0 +1,6 @@
+### [Как писать ручные тесты в Folks](https://www.youtube.com/watch?v=CnVs1QntUn8&amp;list=PLzy4cPXOwbY4yWW8TwJTJ2_DPCV8WYeXm&amp;index=1&amp;pp=iAQB)
+### [Устанавливаем java, maven, mercurial](https://www.youtube.com/watch?v=zYYTsvVf_tE&amp;list=PLzy4cPXOwbY4yWW8TwJTJ2_DPCV8WYeXm&amp;index=2&amp;pp=iAQB)
+### [Folks введение](https://www.youtube.com/watch?v=xQpcggMv7d0&amp;list=PLzy4cPXOwbY4yWW8TwJTJ2_DPCV8WYeXm&amp;index=3&amp;pp=iAQB)
+### [Folks: пишем автотесты на поиск](https://www.youtube.com/watch?v=gDIE02BiGw4&amp;list=PLzy4cPXOwbY4yWW8TwJTJ2_DPCV8WYeXm&amp;index=4&amp;pp=iAQB)
+### [Как установить Git и выкачать репозиторий](https://www.youtube.com/watch?v=lZdGWJtrsNw&amp;list=PLzy4cPXOwbY4yWW8TwJTJ2_DPCV8WYeXm&amp;index=5&amp;pp=iAQB)
+### [Автотесты на уровне API для Java приложений](https://www.youtube.com/watch?v=PSRrxrCPPDU&amp;list=PLzy4cPXOwbY4yWW8TwJTJ2_DPCV8WYeXm&amp;index=6&amp;pp=iAQB)

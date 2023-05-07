@@ -1,0 +1,3 @@
+# [freeCodeCamp.org](https://www.youtube.com/@freecodecamp/playlists)
+## [Talks](https://www.youtube.com/playlist?list=PLWKjhJtqVAbl9yptoxdSJDDoTVdcysyPo)
+### [Why You Don't Need jQuery Anymore](https://www.youtube.com/watch?v=RdRMNT-98Oo&amp;list=PLWKjhJtqVAbl9yptoxdSJDDoTVdcysyPo&amp;index=31&amp;pp=iAQB)

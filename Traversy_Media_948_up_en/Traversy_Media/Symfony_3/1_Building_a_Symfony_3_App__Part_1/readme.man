@@ -1,0 +1,3 @@
+# [Traversy Media](https://www.youtube.com/@TraversyMedia/playlists)
+## [Symfony 3](https://www.youtube.com/playlist?list=PLillGF-RfqbZg1_XTHyrn9kHVLy-3ZXLt)
+### [Building a Symfony 3 App - Part 1](https://www.youtube.com/watch?v=HchMW8EhWPU&amp;list=PLillGF-RfqbZg1_XTHyrn9kHVLy-3ZXLt&amp;index=1&amp;pp=iAQB)

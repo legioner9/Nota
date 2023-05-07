@@ -1,0 +1,3 @@
+# [Coding Tech](https://www.youtube.com/@CodingTech/playlists)
+## [Elm](https://www.youtube.com/playlist?list=PLFjq8z-aGyQ6gxeemSynyvC2Y7ntnB8q8)
+### [Millions of Users, Purely Functional Code](https://www.youtube.com/watch?v=bpBeRnyqaIQ&amp;list=PLFjq8z-aGyQ6gxeemSynyvC2Y7ntnB8q8&amp;index=5&amp;pp=iAQB)

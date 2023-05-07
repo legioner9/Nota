@@ -1,0 +1,3 @@
+# [Laravel Creative](https://www.youtube.com/@laravelcreative/playlists)
+## [Шаг 5. Laravel курс. Интернет Магазин](https://www.youtube.com/playlist?list=PLd2_Os8Cj3t9UEjGQHafQB751mf5cwqNv)
+### [Laravel 9 и Vue 3 SPA интернет магазин 15. Корректируем работу popup и добавляем вывод атрибутов](https://www.youtube.com/watch?v=IBpcCHrOC3Q&amp;list=PLd2_Os8Cj3t9UEjGQHafQB751mf5cwqNv&amp;index=16&amp;pp=iAQB)

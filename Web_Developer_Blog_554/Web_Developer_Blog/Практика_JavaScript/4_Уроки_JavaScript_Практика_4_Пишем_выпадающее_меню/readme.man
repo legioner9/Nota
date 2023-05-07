@@ -1,0 +1,3 @@
+# [Web Developer Blog](https://www.youtube.com/@SuprunAlexey/playlists)
+## [Практика JavaScript](https://www.youtube.com/playlist?list=PLVfMKQXDAhGW0p_BEEe47UkCgNoS_dyki)
+### [Уроки JavaScript Практика #4 Пишем выпадающее меню](https://www.youtube.com/watch?v=H_UiIfgNDPE&amp;list=PLVfMKQXDAhGW0p_BEEe47UkCgNoS_dyki&amp;index=4&amp;pp=iAQB)

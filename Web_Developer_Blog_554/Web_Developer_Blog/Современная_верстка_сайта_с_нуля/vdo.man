@@ -1,0 +1,7 @@
+### [Современная верстка сайта - Начинаем с нуля](https://www.youtube.com/watch?v=HB-Dj5qAo5k&amp;list=PLVfMKQXDAhGVcNuWQrw8w2ZINnfSZCUkt&amp;index=1&amp;pp=iAQB)
+### [Современная верстка сайта - Адаптивное меню на CSS](https://www.youtube.com/watch?v=mcacTqR9EF4&amp;list=PLVfMKQXDAhGVcNuWQrw8w2ZINnfSZCUkt&amp;index=2&amp;pp=iAQB)
+### [Современная верстка сайта -FlexBox верстка карточки](https://www.youtube.com/watch?v=rIDr5TaRSes&amp;list=PLVfMKQXDAhGVcNuWQrw8w2ZINnfSZCUkt&amp;index=3&amp;pp=iAQB)
+### [Современная верстка сайта - jQuery категории](https://www.youtube.com/watch?v=g7VwI4eK1iU&amp;list=PLVfMKQXDAhGVcNuWQrw8w2ZINnfSZCUkt&amp;index=4&amp;pp=iAQB)
+### [Современная верстка сайта - Адаптируем сайт под мобильные](https://www.youtube.com/watch?v=IwY6ZaYQyY8&amp;list=PLVfMKQXDAhGVcNuWQrw8w2ZINnfSZCUkt&amp;index=5&amp;pp=iAQB)
+### [Современная верстка сайта - слайдер jQuery](https://www.youtube.com/watch?v=4vvDaRA1jNY&amp;list=PLVfMKQXDAhGVcNuWQrw8w2ZINnfSZCUkt&amp;index=6&amp;pp=iAQB)
+### [Современная верстка сайта - Css Grid, grid-template-columns](https://www.youtube.com/watch?v=ze9qlsO8w_g&amp;list=PLVfMKQXDAhGVcNuWQrw8w2ZINnfSZCUkt&amp;index=7&amp;pp=iAQB)

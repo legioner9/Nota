@@ -1,0 +1,5 @@
+### [Как правильно подключать сотрудников из дома через VPN шлюз на Palo Alto Networks NGFW](https://www.youtube.com/watch?v=MqrNZ1J-7oE&amp;list=PLRAbJA74qU4CcqmeOfXOIhloDKJcOblxL&amp;index=1&amp;pp=iAQB)
+### [GlobalProtect - популярная технология защиты сотрудников работающих удаленно](https://www.youtube.com/watch?v=9XKky4n5zB4&amp;list=PLRAbJA74qU4CcqmeOfXOIhloDKJcOblxL&amp;index=2&amp;pp=iAQB)
+### [Переосмысливаем удаленное подключение по VPN своих сотрудников](https://www.youtube.com/watch?v=tNOsafn32ZQ&amp;list=PLRAbJA74qU4CcqmeOfXOIhloDKJcOblxL&amp;index=3&amp;pp=iAQB)
+### [Пилот NGFW и UTM. Что проверять?](https://www.youtube.com/watch?v=SeoVsYU2lwo&amp;list=PLRAbJA74qU4CcqmeOfXOIhloDKJcOblxL&amp;index=4&amp;pp=iAQB)
+### [Почему ZTNA это убийца обычного VPN?](https://www.youtube.com/watch?v=MFt2uYdNTyE&amp;list=PLRAbJA74qU4CcqmeOfXOIhloDKJcOblxL&amp;index=5&amp;pp=iAQB)

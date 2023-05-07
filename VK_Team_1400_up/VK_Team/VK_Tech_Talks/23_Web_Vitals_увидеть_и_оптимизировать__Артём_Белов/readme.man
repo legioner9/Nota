@@ -1,0 +1,3 @@
+# [VK Team](https://www.youtube.com/@vkteamchannel/playlists?view=1&sort=dd&shelf_id=0)
+## [VK Tech Talks](https://www.youtube.com/playlist?list=PLrCZzMib1e9o1HaCf1qA5ST6pv6etd1FG)
+### [Web Vitals: увидеть и оптимизировать / Артём Белов](https://www.youtube.com/watch?v=vngCeWr6240&amp;list=PLrCZzMib1e9o1HaCf1qA5ST6pv6etd1FG&amp;index=23&amp;pp=iAQB)

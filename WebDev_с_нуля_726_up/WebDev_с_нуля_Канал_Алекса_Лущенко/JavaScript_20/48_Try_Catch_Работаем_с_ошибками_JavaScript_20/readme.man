@@ -1,0 +1,3 @@
+# [WebDev с нуля. Канал Алекса Лущенко](https://www.youtube.com/@itgid/playlists)
+## [JavaScript 2.0](https://www.youtube.com/playlist?list=PLM7wFzahDYnEltE-aVGhRHYPwIJn0Xquu)
+### [Try Catch. Работаем с ошибками. JavaScript 2.0](https://www.youtube.com/watch?v=6_XzKtGPgE8&amp;list=PLM7wFzahDYnEltE-aVGhRHYPwIJn0Xquu&amp;index=48&amp;pp=iAQB)

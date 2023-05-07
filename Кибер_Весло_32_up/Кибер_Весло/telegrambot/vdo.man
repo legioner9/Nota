@@ -1,0 +1,2 @@
+### [Telegram Bot на Python. Часть 1 - backend. Python, Django, Django Rest Framework.](https://www.youtube.com/watch?v=fGXqTnWAFOo&amp;list=PLIMYb25g876hRaYP7RIRxJz-KwjyKLJGE&amp;index=1&amp;pp=iAQB)
+### [Telegram Bot на Python. Часть 2 - aiogram bot. Python, Django, Django Rest Framework.](https://www.youtube.com/watch?v=lvaO_oQREDU&amp;list=PLIMYb25g876hRaYP7RIRxJz-KwjyKLJGE&amp;index=2&amp;pp=iAQB)

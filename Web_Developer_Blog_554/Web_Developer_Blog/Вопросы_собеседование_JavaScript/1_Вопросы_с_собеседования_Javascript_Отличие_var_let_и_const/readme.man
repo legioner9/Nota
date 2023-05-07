@@ -1,0 +1,3 @@
+# [Web Developer Blog](https://www.youtube.com/@SuprunAlexey/playlists)
+## [Вопросы собеседование JavaScript](https://www.youtube.com/playlist?list=PLVfMKQXDAhGXmKZO1n72nkzB6QrgnPY3q)
+### [Вопросы с собеседования Javascript. Отличие var, let и const](https://www.youtube.com/watch?v=Yt9UbMmAKXc&amp;list=PLVfMKQXDAhGXmKZO1n72nkzB6QrgnPY3q&amp;index=1&amp;pp=iAQB)

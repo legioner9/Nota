@@ -1,0 +1,3 @@
+# [freeCodeCamp.org](https://www.youtube.com/@freecodecamp/playlists)
+## [Vue.js Live Coding with Gwen](https://www.youtube.com/playlist?list=PLWKjhJtqVAbkPX-lJHxjXdsw19vbXIZpz)
+### [Live Coding Project: Create an Hour Tracking App using Vue.js (Part 2) - with Gwen Faraday](https://www.youtube.com/watch?v=btadke62pgQ&amp;list=PLWKjhJtqVAbkPX-lJHxjXdsw19vbXIZpz&amp;index=7&amp;pp=iAQB)

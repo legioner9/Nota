@@ -1,0 +1,3 @@
+# [Просто о Laravel. CutCode](https://www.youtube.com/@CutCodeRu/playlists)
+## [Курсы от CutCode](https://www.youtube.com/playlist?list=PLTucyHptHtTknpi2Hg2PAZUctEAU2gP8n)
+### [Laravel + inertia + vue course Lesson 2. Layout, Link, Meta, Route](https://www.youtube.com/watch?v=KHIK9cA4zkw&amp;list=PLTucyHptHtTknpi2Hg2PAZUctEAU2gP8n&amp;index=9&amp;pp=iAQB)

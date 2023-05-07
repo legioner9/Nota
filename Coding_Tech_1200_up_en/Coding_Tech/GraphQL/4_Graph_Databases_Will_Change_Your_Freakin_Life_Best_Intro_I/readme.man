@@ -1,0 +1,3 @@
+# [Coding Tech](https://www.youtube.com/@CodingTech/playlists)
+## [GraphQL](https://www.youtube.com/playlist?list=PLFjq8z-aGyQ6vtpRRKHtJB7D8kvoJW19X)
+### [Graph Databases Will Change Your Freakin' Life (Best Intro Into Graph Databases)](https://www.youtube.com/watch?v=GekQqFZm7mA&amp;list=PLFjq8z-aGyQ6vtpRRKHtJB7D8kvoJW19X&amp;index=4&amp;pp=iAQB)

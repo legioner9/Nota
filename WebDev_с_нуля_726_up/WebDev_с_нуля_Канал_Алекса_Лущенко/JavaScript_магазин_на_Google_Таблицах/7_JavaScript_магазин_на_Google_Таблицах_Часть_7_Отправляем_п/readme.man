@@ -1,0 +1,3 @@
+# [WebDev с нуля. Канал Алекса Лущенко](https://www.youtube.com/@itgid/playlists)
+## [JavaScript магазин на Google Таблицах](https://www.youtube.com/playlist?list=PLM7wFzahDYnGzgHS52GT7FWvvdpX6rDYR)
+### [JavaScript магазин на Google Таблицах. Часть 7. Отправляем письма](https://www.youtube.com/watch?v=FuVPVhsG_EI&amp;list=PLM7wFzahDYnGzgHS52GT7FWvvdpX6rDYR&amp;index=7&amp;pp=iAQB)

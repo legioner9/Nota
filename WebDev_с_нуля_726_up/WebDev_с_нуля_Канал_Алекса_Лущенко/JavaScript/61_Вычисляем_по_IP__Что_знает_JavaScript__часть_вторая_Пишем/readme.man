@@ -1,0 +1,3 @@
+# [WebDev с нуля. Канал Алекса Лущенко](https://www.youtube.com/@itgid/playlists)
+## [JavaScript](https://www.youtube.com/playlist?list=PLM7wFzahDYnFgidfuPh_-XAv06YDwQVBs)
+### [Вычисляем по IP . Что знает JavaScript ( часть вторая). Пишем класс в JS для получения данных юзера](https://www.youtube.com/watch?v=EQgoiDtk1I4&amp;list=PLM7wFzahDYnFgidfuPh_-XAv06YDwQVBs&amp;index=61&amp;pp=iAQB)

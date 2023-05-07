@@ -1,0 +1,3 @@
+# [webDev](https://www.youtube.com/@YauhenKavalchuk/playlists?view=1)
+## [React Testing Library](https://www.youtube.com/playlist?list=PLNkWIWHIRwMEsMUc0B-lYb7DTLroWlKLK)
+### [React Testing Library #10 Тестирование Редакса и useReducer (Redux &amp; useReducer Testing)](https://www.youtube.com/watch?v=L-Wf-u7ZSBU&amp;list=PLNkWIWHIRwMEsMUc0B-lYb7DTLroWlKLK&amp;index=11)

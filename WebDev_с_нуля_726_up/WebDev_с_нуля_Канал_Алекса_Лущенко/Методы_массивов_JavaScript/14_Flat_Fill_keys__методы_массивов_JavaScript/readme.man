@@ -1,0 +1,3 @@
+# [WebDev с нуля. Канал Алекса Лущенко](https://www.youtube.com/@itgid/playlists)
+## [Методы массивов JavaScript](https://www.youtube.com/playlist?list=PLM7wFzahDYnGtO5c0u71KBj6uwIwPvWKa)
+### [Flat, Fill, keys - методы массивов JavaScript](https://www.youtube.com/watch?v=VoW2PZebLWI&amp;list=PLM7wFzahDYnGtO5c0u71KBj6uwIwPvWKa&amp;index=14&amp;pp=iAQB)

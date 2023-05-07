@@ -1,0 +1,3 @@
+# [В. Бовсуновский Python Django](https://www.youtube.com/@bov/playlists?view=1)
+## [Python for Andoid](https://www.youtube.com/playlist?list=PLuZJ9n46uMzUhN970OOvoxm8pmECgAqLn)
+### [К уроку 17. Наследование в языке kv и применение BoxLayout.](https://www.youtube.com/watch?v=y8FJ9mTDdos&amp;list=PLuZJ9n46uMzUhN970OOvoxm8pmECgAqLn&amp;index=45&amp;pp=iAQB)

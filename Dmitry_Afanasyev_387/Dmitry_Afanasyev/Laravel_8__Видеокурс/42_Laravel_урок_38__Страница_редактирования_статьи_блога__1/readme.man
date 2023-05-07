@@ -1,0 +1,3 @@
+# [Dmitry Afanasyev](https://www.youtube.com/@DmitryAfanasyev/playlists)
+## [Laravel 8 - Видеокурс](https://www.youtube.com/playlist?list=PLoonZ8wII66iP0fJPHhkLXa3k7CMef9ak)
+### [Laravel урок №38: [ Страница редактирования статьи блога ] #1](https://www.youtube.com/watch?v=AjXv3anpomw&amp;list=PLoonZ8wII66iP0fJPHhkLXa3k7CMef9ak&amp;index=42&amp;pp=iAQB)

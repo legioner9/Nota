@@ -1,0 +1,3 @@
+# [Веб-разработка - DevMagazine](https://www.youtube.com/@DevMagazineChannel/playlists)
+## [☕️ Redux курс](https://www.youtube.com/playlist?list=PLmfIBo6rTVR70B7skhP5BtczReJMZQ0Vd)
+### [Обязательно используй Action Creator в своем проекте. Что такое Action Creator в Redux?](https://www.youtube.com/watch?v=iaUpsmw2xbo&amp;list=PLmfIBo6rTVR70B7skhP5BtczReJMZQ0Vd&amp;index=3&amp;pp=iAQB)

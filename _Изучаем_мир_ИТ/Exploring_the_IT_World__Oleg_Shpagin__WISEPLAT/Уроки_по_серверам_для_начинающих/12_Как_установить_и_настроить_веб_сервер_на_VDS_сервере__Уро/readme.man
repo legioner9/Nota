@@ -1,3 +1,0 @@
-# [Exploring the IT World / Oleg Shpagin / WISEPLAT](https://www.youtube.com/@wiseplat/playlists)
-## [Уроки по серверам для начинающих](https://www.youtube.com/playlist?list=PLxiU3nwEQ4PHwCSa0_DyPmanGEzE4DM41)
-### [Как установить и настроить веб сервер на VDS сервере / Урок по серверам](https://www.youtube.com/watch?v=54-8skc46Ig&amp;list=PLxiU3nwEQ4PHwCSa0_DyPmanGEzE4DM41&amp;index=12)

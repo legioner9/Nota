@@ -1,0 +1,3 @@
+# [openWeb - Веб программирование на языках PHP и JS](https://www.youtube.com/@openweb-php/playlists)
+## [JavaScripts программирование](https://www.youtube.com/playlist?list=PL-leL2miqjEZUx00lK6FRYNc1ZRakEyEJ)
+### [ТОП 10 плагинов для JQuery](https://www.youtube.com/watch?v=LI3hr1vxn-U&amp;list=PL-leL2miqjEZUx00lK6FRYNc1ZRakEyEJ&amp;index=4&amp;pp=iAQB)

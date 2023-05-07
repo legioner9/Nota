@@ -1,0 +1,3 @@
+# [Елена Литвинова — Искусство веб-разработки](https://www.youtube.com/@webelart/playlists)
+## [Уроки JavaScript](https://www.youtube.com/playlist?list=PLJpSkcgOK72A7ky__8kHNckPpjHFQkC5m)
+### [Разбираем тестовое задание на senior frontend developer в Лондоне | react, node js](https://www.youtube.com/watch?v=S1m7B9LJtP8&amp;list=PLJpSkcgOK72A7ky__8kHNckPpjHFQkC5m&amp;index=10&amp;pp=iAQB)

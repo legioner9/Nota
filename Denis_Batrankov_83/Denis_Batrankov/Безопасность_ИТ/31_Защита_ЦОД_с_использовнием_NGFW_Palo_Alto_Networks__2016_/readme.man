@@ -1,0 +1,3 @@
+# [Denis Batrankov](https://www.youtube.com/@BDVSecurity/playlists)
+## [Безопасность ИТ](https://www.youtube.com/playlist?list=PLRAbJA74qU4Aco-HXLJKx57ARDZn1z8HI)
+### [Защита ЦОД с использовнием NGFW Palo Alto Networks - 2016 год](https://www.youtube.com/watch?v=u-7oDpAtyTk&amp;list=PLRAbJA74qU4Aco-HXLJKx57ARDZn1z8HI&amp;index=31&amp;pp=iAQB)

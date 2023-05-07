@@ -1,0 +1,3 @@
+# [Елена Литвинова — Искусство веб-разработки](https://www.youtube.com/@webelart/playlists)
+## [Основы CSS и вёрстки](https://www.youtube.com/playlist?list=PLJpSkcgOK72DGtRtn9yeySLcoDW7QdFfP)
+### [Верстаем эффект параллакса | Уроки по веб-разработке | Уроки по вёрстке | HTML, CSS, JS](https://www.youtube.com/watch?v=jeufZwnYdIM&amp;list=PLJpSkcgOK72DGtRtn9yeySLcoDW7QdFfP&amp;index=4&amp;pp=iAQB)

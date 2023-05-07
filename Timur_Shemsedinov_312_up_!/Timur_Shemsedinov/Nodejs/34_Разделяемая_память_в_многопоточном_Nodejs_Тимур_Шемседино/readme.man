@@ -1,0 +1,3 @@
+# [Timur Shemsedinov](https://www.youtube.com/@TimurShemsedinov/playlists?view=1)
+## [Node.js](https://www.youtube.com/playlist?list=PLHhi8ymDMrQZmXEqIIlq2S9-Ibh9b_-rQ)
+### [Разделяемая память в многопоточном Node.js. Тимур Шемсединов. JS Fest 2019 Spring](https://www.youtube.com/watch?v=KNsm_iIQt7U&amp;list=PLHhi8ymDMrQZmXEqIIlq2S9-Ibh9b_-rQ&amp;index=34&amp;pp=iAQB)

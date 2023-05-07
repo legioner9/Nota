@@ -1,0 +1,4 @@
+### [CSS Grid верстка - Введение. Что такое гриды и зачем они нужны.](https://www.youtube.com/watch?v=IPZbSM-Wpos&amp;list=PLVfMKQXDAhGVZdDQA_rMkoGvJTdvYqCjA&amp;index=1&amp;pp=iAQB)
+### [Делаем крутящийся Спиннер на чистом CSS Анимации](https://www.youtube.com/watch?v=iuhs2Q8cA_4&amp;list=PLVfMKQXDAhGVZdDQA_rMkoGvJTdvYqCjA&amp;index=2&amp;pp=iAQB)
+### [Уроки Css Grid Layout - Основные свойства. Grid-template-columns](https://www.youtube.com/watch?v=Bz0AYVEFv1U&amp;list=PLVfMKQXDAhGVZdDQA_rMkoGvJTdvYqCjA&amp;index=3&amp;pp=iAQB)
+### [Уроки Css Grid Layout пример адаптивная верстка сайта](https://www.youtube.com/watch?v=Osv-dWfIYLE&amp;list=PLVfMKQXDAhGVZdDQA_rMkoGvJTdvYqCjA&amp;index=4&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [В. Бовсуновский Python Django](https://www.youtube.com/@bov/playlists?view=1)
+## [Программирование по системе N1](https://www.youtube.com/playlist?list=PLuZJ9n46uMzW1oBDysdzhnRVaAF4xdjJd)
+### [1. imka. Нет этих знаний в Python, значит не будет никакого программирования никогда.](https://www.youtube.com/watch?v=WOfX2WekvuQ&amp;list=PLuZJ9n46uMzW1oBDysdzhnRVaAF4xdjJd&amp;index=40&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [Vyacheslav Chirkov - Programmer](https://www.youtube.com/@vcpro/playlists)
+## [assembler (уроки, обучение)](https://www.youtube.com/playlist?list=PLEjhu-KP5eiARTIYLKesV03RG2CKHWg5I)
+### [Обзор yanOS на YASM](https://www.youtube.com/watch?v=9fbIL5HTWBk&amp;list=PLEjhu-KP5eiARTIYLKesV03RG2CKHWg5I&amp;index=15&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [Traversy Media](https://www.youtube.com/@TraversyMedia/playlists)
+## [Laravel From Scratch](https://www.youtube.com/playlist?list=PLillGF-RfqbYhQsN5WMXy6VsDMKGadrJ-)
+### [Laravel From Scratch [Part 4] - Blade Templating &amp; Compiling Assets](https://www.youtube.com/watch?v=bSG2YMqJJys&amp;list=PLillGF-RfqbYhQsN5WMXy6VsDMKGadrJ-&amp;index=4&amp;pp=iAQB)

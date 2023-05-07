@@ -1,0 +1,6 @@
+### [1. Алгоритмы и структуры данных. Введение. Массивы](https://www.youtube.com/watch?v=zxGMojoTVqk&amp;list=PLrCZzMib1e9rvDqeX2jRXrEWoTqUxrqUA&amp;index=1&amp;pp=iAQB)
+### [2. Алгоритмы и структуры данных. Списки, стек, очередь, дек | Технострим](https://www.youtube.com/watch?v=L4rGAYXvM54&amp;list=PLrCZzMib1e9rvDqeX2jRXrEWoTqUxrqUA&amp;index=2&amp;pp=iAQB)
+### [3. Алгоритмы и структуры данных. Сортировки  | Технострим](https://www.youtube.com/watch?v=AOgTyZ4SL48&amp;list=PLrCZzMib1e9rvDqeX2jRXrEWoTqUxrqUA&amp;index=3&amp;pp=iAQB)
+### [4. Алгоритмы и структуры данных. Сортировки (ч.2)  | Технострим](https://www.youtube.com/watch?v=5mxx_8eToCc&amp;list=PLrCZzMib1e9rvDqeX2jRXrEWoTqUxrqUA&amp;index=4&amp;pp=iAQB)
+### [5. Алгоритмы и структуры данных. Хеш-таблицы и код Хаффмана  | Технострим](https://www.youtube.com/watch?v=vvh7U30br2M&amp;list=PLrCZzMib1e9rvDqeX2jRXrEWoTqUxrqUA&amp;index=5&amp;pp=iAQB)
+### [6. Алгоритмы и структуры данных. Деревья | Технострим](https://www.youtube.com/watch?v=9mCY4puvk6E&amp;list=PLrCZzMib1e9rvDqeX2jRXrEWoTqUxrqUA&amp;index=6&amp;pp=iAQB)

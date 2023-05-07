@@ -1,0 +1,3 @@
+# [Андрей Иванов | Python](https://www.youtube.com/@PythononPapyrusRU/playlists)
+## [PyAssimilator](https://www.youtube.com/playlist?list=PLF4MWzDJPFSacWdKmPxOaDD6U4rdwRPDZ)
+### [Искусство программирования в Питоне. Как написать хороший код при помощи PyAssimilator](https://www.youtube.com/watch?v=hCBLY2aHIow&amp;list=PLF4MWzDJPFSacWdKmPxOaDD6U4rdwRPDZ&amp;index=3&amp;pp=iAQB)

@@ -1,0 +1,2 @@
+### [Ansible. Часть 1. Основы](https://www.youtube.com/watch?v=n27bpkAtyf4&amp;list=PLsMIccp52YRv3KfQP2Zd72phtYZhoLTw9&amp;index=1&amp;pp=iAQB)
+### [Ansible. Часть 2. Playbook](https://www.youtube.com/watch?v=5JcL3c6rPE8&amp;list=PLsMIccp52YRv3KfQP2Zd72phtYZhoLTw9&amp;index=2&amp;pp=iAQB)

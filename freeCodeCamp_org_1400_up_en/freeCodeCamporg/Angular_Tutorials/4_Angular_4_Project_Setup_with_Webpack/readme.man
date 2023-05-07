@@ -1,0 +1,3 @@
+# [freeCodeCamp.org](https://www.youtube.com/@freecodecamp/playlists)
+## [Angular Tutorials](https://www.youtube.com/playlist?list=PLWKjhJtqVAblNvGKk6aQVPAJHxrRXxHTs)
+### [Angular 4 Project Setup with Webpack](https://www.youtube.com/watch?v=7b-1qWvQdqY&amp;list=PLWKjhJtqVAblNvGKk6aQVPAJHxrRXxHTs&amp;index=4&amp;pp=iAQB)

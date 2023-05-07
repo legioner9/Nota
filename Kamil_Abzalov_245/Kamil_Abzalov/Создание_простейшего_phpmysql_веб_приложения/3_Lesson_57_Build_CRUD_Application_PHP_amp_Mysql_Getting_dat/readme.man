@@ -1,0 +1,3 @@
+# [Kamil Abzalov](https://www.youtube.com/@Kamil-abzalovRu/playlists)
+## [Создание простейшего php+mysql веб приложения](https://www.youtube.com/playlist?list=PLOpdT8GIZ4XUhOvTRdjZVnb7fTmws40GH)
+### [Lesson 57. Build CRUD Application PHP &amp; Mysql. Getting data from several table](https://www.youtube.com/watch?v=n7l9qWSh7Gg&amp;list=PLOpdT8GIZ4XUhOvTRdjZVnb7fTmws40GH&amp;index=3&amp;pp=iAQB)

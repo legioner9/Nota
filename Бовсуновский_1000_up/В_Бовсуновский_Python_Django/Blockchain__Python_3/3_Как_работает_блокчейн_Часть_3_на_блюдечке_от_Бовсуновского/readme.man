@@ -1,0 +1,3 @@
+# [В. Бовсуновский Python Django](https://www.youtube.com/@bov/playlists?view=1)
+## [Blockchain + Python 3](https://www.youtube.com/playlist?list=PLuZJ9n46uMzULqscdPft5PHGiuCFEksrt)
+### [Как работает блокчейн? Часть 3. (на блюдечке от Бовсуновского).](https://www.youtube.com/watch?v=ktSa5_sjNhw&amp;list=PLuZJ9n46uMzULqscdPft5PHGiuCFEksrt&amp;index=3&amp;pp=iAQB)

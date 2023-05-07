@@ -1,0 +1,3 @@
+# [WebDev с нуля. Канал Алекса Лущенко](https://www.youtube.com/@itgid/playlists)
+## [Основы верстки](https://www.youtube.com/playlist?list=PLM7wFzahDYnHKFV3AF8dtl6pBYgib1mMf)
+### [HTML+CSS. Чиним сломанный лимон](https://www.youtube.com/watch?v=FXFAh_NqAnI&amp;list=PLM7wFzahDYnHKFV3AF8dtl6pBYgib1mMf&amp;index=19&amp;pp=iAQB)

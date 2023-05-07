@@ -1,0 +1,3 @@
+# [Web Developer Blog](https://www.youtube.com/@SuprunAlexey/playlists)
+## [Уроки CSS](https://www.youtube.com/playlist?list=PLVfMKQXDAhGWYnBnKd42xrynzEegXzgxv)
+### [Уроки CSS - Медиа запросы основы. Как сделать адаптивный сайт.](https://www.youtube.com/watch?v=M-xc1EOMOIE&amp;list=PLVfMKQXDAhGWYnBnKd42xrynzEegXzgxv&amp;index=4&amp;pp=iAQB)

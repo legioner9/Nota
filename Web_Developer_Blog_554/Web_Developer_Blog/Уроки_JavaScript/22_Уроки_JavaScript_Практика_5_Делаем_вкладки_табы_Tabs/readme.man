@@ -1,0 +1,3 @@
+# [Web Developer Blog](https://www.youtube.com/@SuprunAlexey/playlists)
+## [Уроки JavaScript](https://www.youtube.com/playlist?list=PLVfMKQXDAhGUaEtJ_fOUz0F7TJtidE7Qw)
+### [Уроки JavaScript Практика #5 Делаем вкладки табы (Tabs)](https://www.youtube.com/watch?v=wePps7o4ajs&amp;list=PLVfMKQXDAhGUaEtJ_fOUz0F7TJtidE7Qw&amp;index=22&amp;pp=iAQB)

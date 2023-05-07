@@ -1,0 +1,3 @@
+# [Студия Флаг](https://www.youtube.com/@FlagStudio/playlists)
+## [Контент от Студии Флаг](https://www.youtube.com/playlist?list=PLVdcV6tHcaCGjD1_X71NAl2ak2yVA_tv2)
+### [Тонкости фронтенда в Студии Флаг — БЭМ, Canvas-анимации, SVG-спрайты, accessibility, WebP](https://www.youtube.com/watch?v=GCx4DwSYyV4&amp;list=PLVdcV6tHcaCGjD1_X71NAl2ak2yVA_tv2&amp;index=7&amp;pp=iAQB)

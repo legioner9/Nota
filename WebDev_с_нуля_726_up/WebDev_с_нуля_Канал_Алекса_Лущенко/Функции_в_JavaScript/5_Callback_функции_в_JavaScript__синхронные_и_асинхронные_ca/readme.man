@@ -1,0 +1,3 @@
+# [WebDev с нуля. Канал Алекса Лущенко](https://www.youtube.com/@itgid/playlists)
+## [Функции в JavaScript](https://www.youtube.com/playlist?list=PLM7wFzahDYnF2VdVjew48HKA7E_pnItDi)
+### [Callback функции в JavaScript,  синхронные и асинхронные callback, callback hell](https://www.youtube.com/watch?v=36T9wXJKfuw&amp;list=PLM7wFzahDYnF2VdVjew48HKA7E_pnItDi&amp;index=5&amp;pp=iAQB)

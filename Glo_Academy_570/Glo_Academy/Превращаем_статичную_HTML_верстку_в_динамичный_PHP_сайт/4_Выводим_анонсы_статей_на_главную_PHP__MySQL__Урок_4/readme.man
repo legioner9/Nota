@@ -1,0 +1,3 @@
+# [Glo Academy](https://www.youtube.com/@Glo_Academy/playlists?view=1)
+## [Превращаем статичную HTML верстку в динамичный PHP сайт](https://www.youtube.com/playlist?list=PL3LQJkGQtzc6mnBlbr2J59VQ-aKIkarYw)
+### [Выводим анонсы статей на главную PHP + MySQL | Урок 4](https://www.youtube.com/watch?v=8euDBLC-UCA&amp;list=PL3LQJkGQtzc6mnBlbr2J59VQ-aKIkarYw&amp;index=4&amp;pp=iAQB)

@@ -1,3 +1,0 @@
-# [Exploring the IT World / Oleg Shpagin / WISEPLAT](https://www.youtube.com/@wiseplat/playlists)
-## [Программирование на C# для начинающих с нуля](https://www.youtube.com/playlist?list=PLxiU3nwEQ4PFOoytVRIjS-gP1fVtR8yEO)
-### [Уроки C# / Циклы for, while, do while](https://www.youtube.com/watch?v=Rb0rH6Sz26k&amp;list=PLxiU3nwEQ4PFOoytVRIjS-gP1fVtR8yEO&amp;index=5)

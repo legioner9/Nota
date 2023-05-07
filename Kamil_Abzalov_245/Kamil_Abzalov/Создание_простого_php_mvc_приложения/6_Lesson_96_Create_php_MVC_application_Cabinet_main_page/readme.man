@@ -1,0 +1,3 @@
+# [Kamil Abzalov](https://www.youtube.com/@Kamil-abzalovRu/playlists)
+## [Создание простого php mvc приложения](https://www.youtube.com/playlist?list=PLOpdT8GIZ4XU12DJ6RzN07CHIN0vDe2fl)
+### [Lesson 96. Create php MVC application. Cabinet main page](https://www.youtube.com/watch?v=7CjOcqfqfZ8&amp;list=PLOpdT8GIZ4XU12DJ6RzN07CHIN0vDe2fl&amp;index=6&amp;pp=iAQB)

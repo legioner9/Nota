@@ -1,0 +1,3 @@
+# [Kamil Abzalov](https://www.youtube.com/@Kamil-abzalovRu/playlists)
+## [PHP](https://www.youtube.com/playlist?list=PLOpdT8GIZ4XUQXDJDVRTz_g4UUmyweuxe)
+### [Lesson 89. PHP. OOP. Static properties and methods](https://www.youtube.com/watch?v=VYU9mQJ3qH8&amp;list=PLOpdT8GIZ4XUQXDJDVRTz_g4UUmyweuxe&amp;index=3&amp;pp=iAQB)

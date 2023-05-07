@@ -1,0 +1,3 @@
+# [Vitaliy html](https://www.youtube.com/@vitaliyhtml/playlists)
+## [SQL](https://www.youtube.com/playlist?list=PL97bu4ZDN_byFtn3cDo7dbURidAlg7ZSG)
+### [Изменение структуры таблицы через ALTER TABLE](https://www.youtube.com/watch?v=AiQQZfvn_v4&amp;list=PL97bu4ZDN_byFtn3cDo7dbURidAlg7ZSG&amp;index=5&amp;pp=iAQB)

@@ -1,0 +1,8 @@
+### [#1 October CMS - Создание компонент](https://www.youtube.com/watch?v=qxANmeCANEQ&amp;list=PLoonZ8wII66g5zNGjbHiapYZfnX106lRN&amp;index=1&amp;pp=iAQB)
+### [#2 October CMS - Структура папок компонента](https://www.youtube.com/watch?v=5EDEZJCstuw&amp;list=PLoonZ8wII66g5zNGjbHiapYZfnX106lRN&amp;index=2&amp;pp=iAQB)
+### [#3 October CMS - Создание модели для компонента](https://www.youtube.com/watch?v=gyrjFlzdATY&amp;list=PLoonZ8wII66g5zNGjbHiapYZfnX106lRN&amp;index=3&amp;pp=iAQB)
+### [#4 October CMS - Создание компонента плагина](https://www.youtube.com/watch?v=gmYtYCNFmtc&amp;list=PLoonZ8wII66g5zNGjbHiapYZfnX106lRN&amp;index=4&amp;pp=iAQB)
+### [#5 October CMS - Свойства объекта](https://www.youtube.com/watch?v=7-fgLdOM7mk&amp;list=PLoonZ8wII66g5zNGjbHiapYZfnX106lRN&amp;index=5&amp;pp=iAQB)
+### [#6 October CMS - Вывод задач](https://www.youtube.com/watch?v=zUowoLVLCtE&amp;list=PLoonZ8wII66g5zNGjbHiapYZfnX106lRN&amp;index=6&amp;pp=iAQB)
+### [#7 October CMS - Создание компонент - Bootstrap &amp; partial](https://www.youtube.com/watch?v=NmfGQeFcx3Q&amp;list=PLoonZ8wII66g5zNGjbHiapYZfnX106lRN&amp;index=7&amp;pp=iAQB)
+### [#8 October CMS  - Создание компонент - Добавление задачи](https://www.youtube.com/watch?v=Qax881Tbm58&amp;list=PLoonZ8wII66g5zNGjbHiapYZfnX106lRN&amp;index=8&amp;pp=iAQB)

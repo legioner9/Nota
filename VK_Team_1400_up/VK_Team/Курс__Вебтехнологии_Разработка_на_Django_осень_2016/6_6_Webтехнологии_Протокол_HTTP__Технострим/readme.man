@@ -1,0 +1,3 @@
+# [VK Team](https://www.youtube.com/@vkteamchannel/playlists?view=1&sort=dd&shelf_id=0)
+## [Курс · Веб-технологии. Разработка на Django (осень 2016)](https://www.youtube.com/playlist?list=PLrCZzMib1e9qZwq95WVmGB-acnot5ka4a)
+### [6. Web-технологии. Протокол HTTP | Технострим](https://www.youtube.com/watch?v=HFt7Lm7hv1E&amp;list=PLrCZzMib1e9qZwq95WVmGB-acnot5ka4a&amp;index=6&amp;pp=iAQB)

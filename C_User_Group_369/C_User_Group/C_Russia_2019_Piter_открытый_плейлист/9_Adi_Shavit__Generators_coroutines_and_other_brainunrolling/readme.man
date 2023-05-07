@@ -1,0 +1,3 @@
+# [C++ User Group](https://www.youtube.com/@CUserGroupRussia/playlists)
+## [C++ Russia 2019 Piter: открытый плейлист](https://www.youtube.com/playlist?list=PLZN9ZGiWZoZp8_XKK1WMcAt2Dr9-QkfU6)
+### [Adi Shavit — Generators, coroutines and other brain-unrolling sweetness](https://www.youtube.com/watch?v=LuMNzUaAuhI&amp;list=PLZN9ZGiWZoZp8_XKK1WMcAt2Dr9-QkfU6&amp;index=9&amp;pp=iAQB)

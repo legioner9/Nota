@@ -1,0 +1,3 @@
+# [Иван Глазков](https://www.youtube.com/@vanohaker/playlists)
+## [Linux](https://www.youtube.com/playlist?list=PL2BaVmpX7hX-3BFL4ndGi4LuF4NCCp6tM)
+### [🛠 Универсальный прокси сервер Shadowsock на Debian 9.1 🛠 Установка, настройка на все платформы.](https://www.youtube.com/watch?v=UZkltpRTY58&amp;list=PL2BaVmpX7hX-3BFL4ndGi4LuF4NCCp6tM&amp;index=12&amp;pp=iAQB)

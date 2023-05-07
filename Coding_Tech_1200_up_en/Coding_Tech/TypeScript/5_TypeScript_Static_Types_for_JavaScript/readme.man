@@ -1,0 +1,3 @@
+# [Coding Tech](https://www.youtube.com/@CodingTech/playlists)
+## [TypeScript](https://www.youtube.com/playlist?list=PLFjq8z-aGyQ6E0kmOeQ6E7Xqmv3Z-mJ6j)
+### [TypeScript: Static Types for JavaScript](https://www.youtube.com/watch?v=484iWaZQJbo&amp;list=PLFjq8z-aGyQ6E0kmOeQ6E7Xqmv3Z-mJ6j&amp;index=5&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [WebDev с нуля. Канал Алекса Лущенко](https://www.youtube.com/@itgid/playlists)
+## [PHP](https://www.youtube.com/playlist?list=PLM7wFzahDYnFbCIkW-tLHsEuwUk_z1n8P)
+### [PHP Stage 2. Проект 10. Выгрузка на хостинг](https://www.youtube.com/watch?v=UPnVcTZUwXE&amp;list=PLM7wFzahDYnFbCIkW-tLHsEuwUk_z1n8P&amp;index=15&amp;pp=iAQB)

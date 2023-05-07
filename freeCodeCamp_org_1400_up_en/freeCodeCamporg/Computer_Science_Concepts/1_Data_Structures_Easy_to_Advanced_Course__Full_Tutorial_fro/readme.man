@@ -1,0 +1,3 @@
+# [freeCodeCamp.org](https://www.youtube.com/@freecodecamp/playlists)
+## [Computer Science Concepts](https://www.youtube.com/playlist?list=PLWKjhJtqVAbn5emQ3RRG8gEBqkhf_5vxD)
+### [Data Structures Easy to Advanced Course - Full Tutorial from a Google Engineer](https://www.youtube.com/watch?v=RBSGKlAvoiM&amp;list=PLWKjhJtqVAbn5emQ3RRG8gEBqkhf_5vxD&amp;index=1&amp;pp=iAQB)

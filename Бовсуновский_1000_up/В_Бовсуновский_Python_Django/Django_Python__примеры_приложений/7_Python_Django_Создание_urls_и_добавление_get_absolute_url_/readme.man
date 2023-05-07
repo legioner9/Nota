@@ -1,0 +1,3 @@
+# [В. Бовсуновский Python Django](https://www.youtube.com/@bov/playlists?view=1)
+## [Django (Python) - примеры приложений.](https://www.youtube.com/playlist?list=PLuZJ9n46uMzWGzluFgeUC6XPKzsv6IUOT)
+### [Python Django. Создание urls и добавление get_absolute_url() в модель.](https://www.youtube.com/watch?v=tiDYlTyvcww&amp;list=PLuZJ9n46uMzWGzluFgeUC6XPKzsv6IUOT&amp;index=7&amp;pp=iAQB)

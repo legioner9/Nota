@@ -1,0 +1,3 @@
+# [Laravel Creative](https://www.youtube.com/@laravelcreative/playlists)
+## [Платные практические курсы](https://www.youtube.com/playlist?list=PLd2_Os8Cj3t9xFti7HJm8-hAM0XAjzQim)
+### [Новый платный курс по созданию социальной сети SPA Laravel 9, с использованием Vue3, Vite, Tailwind](https://www.youtube.com/watch?v=Oo5qAWWcCVk&amp;list=PLd2_Os8Cj3t9xFti7HJm8-hAM0XAjzQim&amp;index=1&amp;pp=iAQB)

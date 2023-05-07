@@ -1,0 +1,1 @@
+### [Основы работы со Stream API в Java](https://www.youtube.com/watch?v=aC0-KsuPG0I&amp;list=PLlsMRoVt5sTNuN97TfSjYNo9qTCHHDxZR&amp;index=1&amp;pp=iAQB)

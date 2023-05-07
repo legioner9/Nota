@@ -1,0 +1,8 @@
+### [1. Алгоритмы и структуры данных. Введение | Технострим](https://www.youtube.com/watch?v=eqWzZGNO_XM&amp;list=PLrCZzMib1e9pDxHYzmEzMmnMMUK-dz0_7&amp;index=1&amp;pp=iAQB)
+### [2. Алгоритмы и структуры данных. Жадные алгоритмы | Технострим](https://www.youtube.com/watch?v=VdKf6gqpEcE&amp;list=PLrCZzMib1e9pDxHYzmEzMmnMMUK-dz0_7&amp;index=2&amp;pp=iAQB)
+### [3. Алгоритмы и структуры данных. Сортировки | Технострим](https://www.youtube.com/watch?v=46PypQQDg0k&amp;list=PLrCZzMib1e9pDxHYzmEzMmnMMUK-dz0_7&amp;index=3&amp;pp=iAQB)
+### [4. Алгоритмы и структуры данных. Поиск, списки](https://www.youtube.com/watch?v=CkXBnE3qfN4&amp;list=PLrCZzMib1e9pDxHYzmEzMmnMMUK-dz0_7&amp;index=4&amp;pp=iAQB)
+### [5. Алгоритмы и структуры данных. Деревья | Технострим](https://www.youtube.com/watch?v=ChoI-bL47d8&amp;list=PLrCZzMib1e9pDxHYzmEzMmnMMUK-dz0_7&amp;index=5&amp;pp=iAQB)
+### [6. Алгоритмы и структуры данных. Хеш-таблицы | Технострим](https://www.youtube.com/watch?v=qD9t9ML4XnY&amp;list=PLrCZzMib1e9pDxHYzmEzMmnMMUK-dz0_7&amp;index=6&amp;pp=iAQB)
+### [7. Алгоритмы и структуры данных.  Динамическое программирование | Технострим](https://www.youtube.com/watch?v=K3Y1OvATCcs&amp;list=PLrCZzMib1e9pDxHYzmEzMmnMMUK-dz0_7&amp;index=7&amp;pp=iAQB)
+### [8. Алгоритмы и структуры данных. Алгоритмы на графах | Технострим](https://www.youtube.com/watch?v=I8VEJVlB8mw&amp;list=PLrCZzMib1e9pDxHYzmEzMmnMMUK-dz0_7&amp;index=8&amp;pp=iAQB)

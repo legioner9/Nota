@@ -1,0 +1,3 @@
+# [Андрей Иванов | Python](https://www.youtube.com/@PythononPapyrusRU/playlists)
+## [Сокет чат в Питоне, Python](https://www.youtube.com/playlist?list=PLF4MWzDJPFSbs2wV9SpdWLS4sTuEbsPtc)
+### [ПОЛУЧЕНИЕ ПОЛНОГО СООБЩЕНИЯ. СОКЕТ ЧАТ #1 | Python 3, Питон 3](https://www.youtube.com/watch?v=lhjvKgLvrNQ&amp;list=PLF4MWzDJPFSbs2wV9SpdWLS4sTuEbsPtc&amp;index=1&amp;pp=iAQB)

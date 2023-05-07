@@ -1,0 +1,3 @@
+# [Академия IT DMS](https://www.youtube.com/@AcademyITDMS/playlists)
+## [Уроки из "телефония Asterisk с нуля" (примеры уроков)](https://www.youtube.com/playlist?list=PLvGOckMhKg77B0N62spLJPoK8OGYTMQDd)
+### [Настройка Dial плана в Asterisk](https://www.youtube.com/watch?v=OvJ2kZT3WYE&amp;list=PLvGOckMhKg77B0N62spLJPoK8OGYTMQDd&amp;index=4&amp;pp=iAQB)

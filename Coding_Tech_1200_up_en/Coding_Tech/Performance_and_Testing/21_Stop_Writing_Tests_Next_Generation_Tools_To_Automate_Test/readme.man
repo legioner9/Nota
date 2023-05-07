@@ -1,0 +1,3 @@
+# [Coding Tech](https://www.youtube.com/@CodingTech/playlists)
+## [Performance and Testing](https://www.youtube.com/playlist?list=PLFjq8z-aGyQ41wnNZ7Lzogyvmx7lERRDi)
+### [Stop Writing Tests (Next Generation Tools To Automate Testing)](https://www.youtube.com/watch?v=XkpDwl5n7pg&amp;list=PLFjq8z-aGyQ41wnNZ7Lzogyvmx7lERRDi&amp;index=21&amp;pp=iAQB)

@@ -1,0 +1,5 @@
+### [ПОЛУЧЕНИЕ ПОЛНОГО СООБЩЕНИЯ. СОКЕТ ЧАТ #1 | Python 3, Питон 3](https://www.youtube.com/watch?v=lhjvKgLvrNQ&amp;list=PLF4MWzDJPFSbs2wV9SpdWLS4sTuEbsPtc&amp;index=1&amp;pp=iAQB)
+### [JSON СООБЩЕНИЯ И ВЕРШИНА ООП. СОКЕТ ЧАТ #2 | Python 3, Питон 3](https://www.youtube.com/watch?v=AKoGpOmMHwA&amp;list=PLF4MWzDJPFSbs2wV9SpdWLS4sTuEbsPtc&amp;index=2&amp;pp=iAQB)
+### [НАСТРОЙКИ И РЕФАКТОРИНГ. СОКЕТ ЧАТ #3.1 | Python 3, Питон 3](https://www.youtube.com/watch?v=osYqYAuM6VU&amp;list=PLF4MWzDJPFSbs2wV9SpdWLS4sTuEbsPtc&amp;index=3&amp;pp=iAQB)
+### [ВРЕМЯ СООБЩЕНИЯ И ПРОБЛЕМЫ ШИФРОВАНИЯ. СОКЕТ ЧАТ #3.2 | Python 3, Питон 3](https://www.youtube.com/watch?v=s23MWlZL5gs&amp;list=PLF4MWzDJPFSbs2wV9SpdWLS4sTuEbsPtc&amp;index=4&amp;pp=iAQB)
+### [ВЫКЛАДЫВАЕМ SOCKET ЧАТ | Python 3, Питон 3](https://www.youtube.com/watch?v=poDmkryhuk4&amp;list=PLF4MWzDJPFSbs2wV9SpdWLS4sTuEbsPtc&amp;index=5&amp;pp=iAQB)

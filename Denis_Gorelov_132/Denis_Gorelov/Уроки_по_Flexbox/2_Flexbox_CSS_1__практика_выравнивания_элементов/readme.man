@@ -1,0 +1,3 @@
+# [Denis Gorelov](https://www.youtube.com/@denisgorelov3236/playlists)
+## [Уроки по Flexbox](https://www.youtube.com/playlist?list=PL8pp2EAvIK-JSstdvVL4hZ9M3KbRiPrA9)
+### [Flexbox CSS #1 - практика выравнивания элементов](https://www.youtube.com/watch?v=WM1fzRm152g&amp;list=PL8pp2EAvIK-JSstdvVL4hZ9M3KbRiPrA9&amp;index=2&amp;pp=iAQB)

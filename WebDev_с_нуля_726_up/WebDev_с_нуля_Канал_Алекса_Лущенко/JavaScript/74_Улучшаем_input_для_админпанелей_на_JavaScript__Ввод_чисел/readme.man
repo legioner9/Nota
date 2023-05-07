@@ -1,0 +1,3 @@
+# [WebDev с нуля. Канал Алекса Лущенко](https://www.youtube.com/@itgid/playlists)
+## [JavaScript](https://www.youtube.com/playlist?list=PLM7wFzahDYnFgidfuPh_-XAv06YDwQVBs)
+### [Улучшаем input для админ-панелей на JavaScript | Ввод чисел с помощью колесика мыши](https://www.youtube.com/watch?v=kaYS8m06NkA&amp;list=PLM7wFzahDYnFgidfuPh_-XAv06YDwQVBs&amp;index=74&amp;pp=iAQB)

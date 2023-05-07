@@ -1,0 +1,3 @@
+# [Александр Дудукало](https://www.youtube.com/@alex_dudukalo/playlists)
+## [Javascript](https://www.youtube.com/playlist?list=PLFqGDhtb0WiKwpw5nx6DjhFGtihnbcOVe)
+### [Работа с датой в Javascript. Объект Date](https://www.youtube.com/watch?v=-_Q-E4ZR5SQ&amp;list=PLFqGDhtb0WiKwpw5nx6DjhFGtihnbcOVe&amp;index=9&amp;pp=iAQB)

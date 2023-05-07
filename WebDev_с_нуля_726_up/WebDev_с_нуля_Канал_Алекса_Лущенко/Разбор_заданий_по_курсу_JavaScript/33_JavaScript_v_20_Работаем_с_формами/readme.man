@@ -1,0 +1,3 @@
+# [WebDev с нуля. Канал Алекса Лущенко](https://www.youtube.com/@itgid/playlists)
+## [Разбор заданий по курсу JavaScript](https://www.youtube.com/playlist?list=PLM7wFzahDYnHjDErBtLsLClUv0M1_c4ZZ)
+### [JavaScript v. 2.0 Работаем с формами](https://www.youtube.com/watch?v=Fgdn-Ub-f2E&amp;list=PLM7wFzahDYnHjDErBtLsLClUv0M1_c4ZZ&amp;index=33&amp;pp=iAQB)

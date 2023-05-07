@@ -1,0 +1,3 @@
+# [Coding Tech](https://www.youtube.com/@CodingTech/playlists)
+## [Performance and Testing](https://www.youtube.com/playlist?list=PLFjq8z-aGyQ41wnNZ7Lzogyvmx7lERRDi)
+### [Why Does Building a Robust Automation Framework Matter?](https://www.youtube.com/watch?v=nVdiT8Ty7t0&amp;list=PLFjq8z-aGyQ41wnNZ7Lzogyvmx7lERRDi&amp;index=28&amp;pp=iAQB)

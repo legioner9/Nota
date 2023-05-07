@@ -1,0 +1,7 @@
+### [Intro to Cloud Computing and AWS](https://www.youtube.com/watch?v=jWdEM6XLKqI&amp;list=PLWKjhJtqVAbkXQS12WiLsH1oaNZBSoWuV&amp;index=1&amp;pp=iAQB)
+### [Create a secure free AWS account](https://www.youtube.com/watch?v=WMT6-pnOD8Q&amp;list=PLWKjhJtqVAbkXQS12WiLsH1oaNZBSoWuV&amp;index=2&amp;pp=iAQB)
+### [Setting up Severless Framework from Scratch](https://www.youtube.com/watch?v=iNZUaye8lXk&amp;list=PLWKjhJtqVAbkXQS12WiLsH1oaNZBSoWuV&amp;index=3&amp;pp=iAQB)
+### [Intro to Serverless: why and how (with basic tutorial)](https://www.youtube.com/watch?v=un8-zGFXEfU&amp;list=PLWKjhJtqVAbkXQS12WiLsH1oaNZBSoWuV&amp;index=4&amp;pp=iAQB)
+### [DynamoDB Tutorial: Basic Operations](https://www.youtube.com/watch?v=IeM6u4tpM9Y&amp;list=PLWKjhJtqVAbkXQS12WiLsH1oaNZBSoWuV&amp;index=5&amp;pp=iAQB)
+### [S3 Operations with AWS Lambda](https://www.youtube.com/watch?v=GEizappc_WI&amp;list=PLWKjhJtqVAbkXQS12WiLsH1oaNZBSoWuV&amp;index=6&amp;pp=iAQB)
+### [Amazon CloudWatch: Serverless Logging and Monitoring Basics](https://www.youtube.com/watch?v=gYztmRThM9s&amp;list=PLWKjhJtqVAbkXQS12WiLsH1oaNZBSoWuV&amp;index=7&amp;pp=iAQB)

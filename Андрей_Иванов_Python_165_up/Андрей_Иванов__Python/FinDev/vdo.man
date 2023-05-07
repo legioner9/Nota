@@ -1,0 +1,6 @@
+### [СОЗДАЕМ СВОЙ БИНАНС. ПИШЕМ ФИНАНСОВУЮ БИРЖУ НА ПИТОНЕ. FINDEV 1](https://www.youtube.com/watch?v=8N3bNdmoFFo&amp;list=PLF4MWzDJPFSb8mSLfjoiH2PSRJHJVUjwX&amp;index=1&amp;pp=iAQB)
+### [ПОДКЛЮЧАЕМ БАЗУ ДАННЫХ В БИРЖУ. TORTOISE-ORM И AERICH FINDEV #2](https://www.youtube.com/watch?v=JUifw6XhqFU&amp;list=PLF4MWzDJPFSb8mSLfjoiH2PSRJHJVUjwX&amp;index=2&amp;pp=iAQB)
+### [ПОДКЛЮЧАЕМ FASTAPI-USERS В БИРЖУ НА ПИТОНЕ. FINDEV #3](https://www.youtube.com/watch?v=t2Yt-4zgKqE&amp;list=PLF4MWzDJPFSb8mSLfjoiH2PSRJHJVUjwX&amp;index=3&amp;pp=iAQB)
+### [ПОЛЬЗОВАТЕЛИ ГОТОВЫ! БИРЖА НА ПИТОНЕ. FINDEV #4](https://www.youtube.com/watch?v=V7PyI1Hgnw8&amp;list=PLF4MWzDJPFSb8mSLfjoiH2PSRJHJVUjwX&amp;index=4&amp;pp=iAQB)
+### [СОЗДАЕМ POSTMAN API СХЕМУ. БИРЖА НА ПИТОНЕ. FINDEV #5](https://www.youtube.com/watch?v=ZVfGZQbwxro&amp;list=PLF4MWzDJPFSb8mSLfjoiH2PSRJHJVUjwX&amp;index=5&amp;pp=iAQB)
+### [ОБНОВЛЕНИЕ ЮЗЕРОВ ГОТОВО! BINANCE БИРЖА НА ПИТОНЕ. FINDEV #6. PYTHON.](https://www.youtube.com/watch?v=VU14ZwvV95E&amp;list=PLF4MWzDJPFSb8mSLfjoiH2PSRJHJVUjwX&amp;index=6&amp;pp=iAQB)

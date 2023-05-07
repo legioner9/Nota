@@ -1,0 +1,3 @@
+# [Степан](https://www.youtube.com/@Shift63770/playlists)
+## [[PHP] Пишем простой MVC фреймворк](https://www.youtube.com/playlist?list=PLB8wmVoWIIx6yflr2Pf3jcRi-DtWi3xmk)
+### [[PHP] Пишем простой MVC фреймворк. Виды и шаблоны. Класс View. Часть #4](https://www.youtube.com/watch?v=NwB7L3EgzU0&amp;list=PLB8wmVoWIIx6yflr2Pf3jcRi-DtWi3xmk&amp;index=4&amp;pp=iAQB)

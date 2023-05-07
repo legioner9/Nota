@@ -1,0 +1,3 @@
+# [Traversy Media](https://www.youtube.com/@TraversyMedia/playlists)
+## [Angular 2 & Firebase App Series](https://www.youtube.com/playlist?list=PLillGF-RfqbYftYr5T6bv9idBU7oyADoZ)
+### [Angular 2 and Firebase App [Part 7] - Edit &amp; Delete Listings](https://www.youtube.com/watch?v=36r9fLw_-Aw&amp;list=PLillGF-RfqbYftYr5T6bv9idBU7oyADoZ&amp;index=7&amp;pp=iAQB)

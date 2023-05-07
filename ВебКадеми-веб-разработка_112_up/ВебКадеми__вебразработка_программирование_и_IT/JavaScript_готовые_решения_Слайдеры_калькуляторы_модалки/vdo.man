@@ -1,0 +1,2 @@
+### [Скрипт обратного отсчета на JS для сайта. Обучение JavaScript. Урок](https://www.youtube.com/watch?v=BGwO2Ft9CkU&amp;list=PL1NBhQGGj46Z5rE4dqr-lwTJI7XWvm2eV&amp;index=1&amp;pp=iAQB)
+### [Конвертер валют на JavaScript. Полный урок. Актуальные курсы](https://www.youtube.com/watch?v=XcjUVPWm3eM&amp;list=PL1NBhQGGj46Z5rE4dqr-lwTJI7XWvm2eV&amp;index=2&amp;pp=iAQB)

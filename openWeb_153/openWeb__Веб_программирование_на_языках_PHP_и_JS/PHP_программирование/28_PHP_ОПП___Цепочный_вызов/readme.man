@@ -1,0 +1,3 @@
+# [openWeb - Веб программирование на языках PHP и JS](https://www.youtube.com/@openweb-php/playlists)
+## [PHP программирование](https://www.youtube.com/playlist?list=PL-leL2miqjEbmxgTzU5l2A8qNZdSU5yMZ)
+### [PHP ОПП -  Цепочный вызов](https://www.youtube.com/watch?v=ujDAQ7gwVSo&amp;list=PL-leL2miqjEbmxgTzU5l2A8qNZdSU5yMZ&amp;index=28&amp;pp=iAQB)

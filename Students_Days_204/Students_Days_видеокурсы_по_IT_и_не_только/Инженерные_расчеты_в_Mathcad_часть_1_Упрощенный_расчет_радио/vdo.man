@@ -1,0 +1,5 @@
+### [Шаг 1. Mathcad. Рассчитываем затухание в канале связи при помощи модели свободного пространства](https://www.youtube.com/watch?v=Rcq76a2R4k4&amp;list=PL7CmqnO_QydiqzPOik3E1KBEpZlLMKHsI&amp;index=1&amp;pp=iAQB)
+### [Шаг 2. Mathcad. Рассчитываем запас на замирание в беспроводном канале связи](https://www.youtube.com/watch?v=wna5JjJF2Vg&amp;list=PL7CmqnO_QydiqzPOik3E1KBEpZlLMKHsI&amp;index=2&amp;pp=iAQB)
+### [Шаг 3 Mathcad Строим диаграмму уровня сигнала для радиорелейной линии или беспроводного моста.](https://www.youtube.com/watch?v=3KGsxOt5EQ8&amp;list=PL7CmqnO_QydiqzPOik3E1KBEpZlLMKHsI&amp;index=3&amp;pp=iAQB)
+### [Шаг 4 Mathcad Рассчитываем первую зону Френеля для беспроводного моста или РРЛ](https://www.youtube.com/watch?v=sebu2aNt49M&amp;list=PL7CmqnO_QydiqzPOik3E1KBEpZlLMKHsI&amp;index=4&amp;pp=iAQB)
+### [Шаг 5 Mathcad Определяем кривизну земли при расчете радиорелейной линии](https://www.youtube.com/watch?v=7NPvz8wrPcM&amp;list=PL7CmqnO_QydiqzPOik3E1KBEpZlLMKHsI&amp;index=5&amp;pp=iAQB)

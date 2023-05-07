@@ -1,0 +1,3 @@
+# [Coding Tech](https://www.youtube.com/@CodingTech/playlists)
+## [Data Science](https://www.youtube.com/playlist?list=PLFjq8z-aGyQ5ijq6ZD2CEkqWoOBgHi9qG)
+### [Introduction to Julia  || Jose Storopoli](https://www.youtube.com/watch?v=iKm8DbuiqhM&amp;list=PLFjq8z-aGyQ5ijq6ZD2CEkqWoOBgHi9qG&amp;index=24&amp;pp=iAQB)

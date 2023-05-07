@@ -1,0 +1,3 @@
+# [Coding Tech](https://www.youtube.com/@CodingTech/playlists)
+## [GraphQL](https://www.youtube.com/playlist?list=PLFjq8z-aGyQ6vtpRRKHtJB7D8kvoJW19X)
+### [Create a New Project with the Neo4j GraphQL Library](https://www.youtube.com/watch?v=wZyAnz0fFfk&amp;list=PLFjq8z-aGyQ6vtpRRKHtJB7D8kvoJW19X&amp;index=19&amp;pp=iAQB)

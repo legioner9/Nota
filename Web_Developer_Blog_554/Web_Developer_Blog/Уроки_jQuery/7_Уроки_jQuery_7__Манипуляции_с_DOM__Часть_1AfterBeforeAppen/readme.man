@@ -1,0 +1,3 @@
+# [Web Developer Blog](https://www.youtube.com/@SuprunAlexey/playlists)
+## [Уроки jQuery](https://www.youtube.com/playlist?list=PLVfMKQXDAhGXQcouhIblV910Rv7lRscH3)
+### [Уроки jQuery #7 | Манипуляции с DOM . Часть 1.After.Before.Append](https://www.youtube.com/watch?v=q7zjIHJXuSg&amp;list=PLVfMKQXDAhGXQcouhIblV910Rv7lRscH3&amp;index=7&amp;pp=iAQB)

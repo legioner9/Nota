@@ -1,0 +1,7 @@
+### [Установка Zend Framework 2](https://www.youtube.com/watch?v=KVba9bfd1tk&amp;list=PLoonZ8wII66jCzvtVDRzZX2ZoMcUpmMf2&amp;index=1&amp;pp=iAQB)
+### [Установка Zend Framework 2 за 5 минут](https://www.youtube.com/watch?v=X0QFl8wa37Q&amp;list=PLoonZ8wII66jCzvtVDRzZX2ZoMcUpmMf2&amp;index=2&amp;pp=iAQB)
+### [Zend Framework 2 - Создание сайта. Подготовка 1/5](https://www.youtube.com/watch?v=R5NplrgY7Gw&amp;list=PLoonZ8wII66jCzvtVDRzZX2ZoMcUpmMf2&amp;index=3&amp;pp=iAQB)
+### [Zend Framework 2 - Создание сайта. Главная страница 2/5](https://www.youtube.com/watch?v=Enb9xjxtMZc&amp;list=PLoonZ8wII66jCzvtVDRzZX2ZoMcUpmMf2&amp;index=4&amp;pp=iAQB)
+### [Zend Framework 2 - Создание сайта. Добавление альбома 3/5](https://www.youtube.com/watch?v=-Ca9zul8fAM&amp;list=PLoonZ8wII66jCzvtVDRzZX2ZoMcUpmMf2&amp;index=5&amp;pp=iAQB)
+### [Zend Framework 2 - Создание сайта. Редактирование альбома 4/5](https://www.youtube.com/watch?v=ywqMLU0-UAM&amp;list=PLoonZ8wII66jCzvtVDRzZX2ZoMcUpmMf2&amp;index=6&amp;pp=iAQB)
+### [Zend Framework 2 - Создание сайта. Удаление альбома 5/5](https://www.youtube.com/watch?v=8j1hrMlMsk4&amp;list=PLoonZ8wII66jCzvtVDRzZX2ZoMcUpmMf2&amp;index=7&amp;pp=iAQB)

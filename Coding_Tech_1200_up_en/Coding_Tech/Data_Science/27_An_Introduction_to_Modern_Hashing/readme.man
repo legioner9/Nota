@@ -1,0 +1,3 @@
+# [Coding Tech](https://www.youtube.com/@CodingTech/playlists)
+## [Data Science](https://www.youtube.com/playlist?list=PLFjq8z-aGyQ5ijq6ZD2CEkqWoOBgHi9qG)
+### [An Introduction to Modern Hashing](https://www.youtube.com/watch?v=O9N8Hy3unfw&amp;list=PLFjq8z-aGyQ5ijq6ZD2CEkqWoOBgHi9qG&amp;index=27&amp;pp=iAQB)

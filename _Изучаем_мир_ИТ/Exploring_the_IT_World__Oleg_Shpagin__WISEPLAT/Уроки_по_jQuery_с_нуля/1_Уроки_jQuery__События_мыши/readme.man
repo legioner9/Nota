@@ -1,3 +1,0 @@
-# [Exploring the IT World / Oleg Shpagin / WISEPLAT](https://www.youtube.com/@wiseplat/playlists)
-## [Уроки по jQuery с нуля](https://www.youtube.com/playlist?list=PLxiU3nwEQ4PFNPwmRmvfs6ecwSaNX_MBh)
-### [Уроки jQuery / События мыши](https://www.youtube.com/watch?v=Iq_h0LEXnJY&amp;list=PLxiU3nwEQ4PFNPwmRmvfs6ecwSaNX_MBh&amp;index=1)

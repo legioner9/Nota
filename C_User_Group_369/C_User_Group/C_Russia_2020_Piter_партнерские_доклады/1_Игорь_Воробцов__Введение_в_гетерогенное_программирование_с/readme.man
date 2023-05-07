@@ -1,0 +1,3 @@
+# [C++ User Group](https://www.youtube.com/@CUserGroupRussia/playlists)
+## [C++ Russia 2020 Piter: партнерские доклады](https://www.youtube.com/playlist?list=PLZN9ZGiWZoZqni8MZeRQPvzL44lVhaEpO)
+### [Игорь Воробцов — Введение в гетерогенное программирование с Data Parallel C++](https://www.youtube.com/watch?v=XOQytgF7mO0&amp;list=PLZN9ZGiWZoZqni8MZeRQPvzL44lVhaEpO&amp;index=1&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [freeCodeCamp.org](https://www.youtube.com/@freecodecamp/playlists)
+## [C# Tutorials](https://www.youtube.com/playlist?list=PLWKjhJtqVAbkq5Oh8ERRJ1aPZK2NKBSRx)
+### [Learn ASP.NET Core 3.1 - Full Course for Beginners [Tutorial]](https://www.youtube.com/watch?v=C5cnZ-gZy2I&amp;list=PLWKjhJtqVAbkq5Oh8ERRJ1aPZK2NKBSRx&amp;index=2&amp;pp=iAQB)

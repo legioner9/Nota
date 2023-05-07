@@ -1,0 +1,3 @@
+# [В. Бовсуновский Python Django](https://www.youtube.com/@bov/playlists?view=1)
+## [Python c нуля.](https://www.youtube.com/playlist?list=PLuZJ9n46uMzWIxKMcWI8ksJ6ST86fv0aq)
+### [3 imka. Причины, по которым не получается применять функции Python на практике. Исправляем.](https://www.youtube.com/watch?v=v2oHtYWCCgA&amp;list=PLuZJ9n46uMzWIxKMcWI8ksJ6ST86fv0aq&amp;index=6&amp;pp=iAQB)

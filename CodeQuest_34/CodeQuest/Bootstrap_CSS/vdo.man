@@ -1,0 +1,7 @@
+### [#1 Сетка Bootstrap 5 для начинающих | Быстрая верстка сайта при помощи колоночной сетки](https://www.youtube.com/watch?v=v5mXg3yVY8E&amp;list=PLU0nVsJXPyy_nzjcojRdasNJQvlJzocjz&amp;index=1&amp;pp=iAQB)
+### [#2 Адаптивная верстка сайта на Bootstrap 5 для начинающих | Основа сетки Bootstrap](https://www.youtube.com/watch?v=jjuSB7OBmJI&amp;list=PLU0nVsJXPyy_nzjcojRdasNJQvlJzocjz&amp;index=2&amp;pp=iAQB)
+### [#3 Настройка сетки Bootstrap 5 под себя | Как поменять количество колонок сетки и другие переменные](https://www.youtube.com/watch?v=L76Zs8KC-zc&amp;list=PLU0nVsJXPyy_nzjcojRdasNJQvlJzocjz&amp;index=3&amp;pp=iAQB)
+### [#4 Bootstrap миксины на SCSS | Построение адаптивной сетки без классов](https://www.youtube.com/watch?v=ya2M4c3p01E&amp;list=PLU0nVsJXPyy_nzjcojRdasNJQvlJzocjz&amp;index=4&amp;pp=iAQB)
+### [#1 Пишем Bootstrap с нуля | Основа сетки на Sass и Flexbox](https://www.youtube.com/watch?v=dqpY7hx5CWE&amp;list=PLU0nVsJXPyy_nzjcojRdasNJQvlJzocjz&amp;index=5&amp;pp=iAQB)
+### [#2 Пишем свой Bootstrap с нуля | Классы колонок на Sass](https://www.youtube.com/watch?v=3mrx1AXVCbM&amp;list=PLU0nVsJXPyy_nzjcojRdasNJQvlJzocjz&amp;index=6&amp;pp=iAQB)
+### [#3 Пишем свой Bootstrap с нуля | Адаптивная сетка на Sass](https://www.youtube.com/watch?v=iahYJDw5xrw&amp;list=PLU0nVsJXPyy_nzjcojRdasNJQvlJzocjz&amp;index=7&amp;pp=iAQB)

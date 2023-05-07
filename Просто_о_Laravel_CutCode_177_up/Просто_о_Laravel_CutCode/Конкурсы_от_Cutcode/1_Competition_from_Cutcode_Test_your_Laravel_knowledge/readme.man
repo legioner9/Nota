@@ -1,0 +1,3 @@
+# [Просто о Laravel. CutCode](https://www.youtube.com/@CutCodeRu/playlists)
+## [Конкурсы от Cutcode](https://www.youtube.com/playlist?list=PLTucyHptHtTlxtj3K_LC3Rmq8Z-e4mGNS)
+### [Competition from Cutcode! Test your Laravel knowledge](https://www.youtube.com/watch?v=TK8NJN3Op9o&amp;list=PLTucyHptHtTlxtj3K_LC3Rmq8Z-e4mGNS&amp;index=1&amp;pp=iAQB)

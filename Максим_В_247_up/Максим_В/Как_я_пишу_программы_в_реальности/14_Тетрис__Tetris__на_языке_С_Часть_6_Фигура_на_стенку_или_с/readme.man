@@ -1,0 +1,3 @@
+# [Максим В](https://www.youtube.com/@cpp/playlists)
+## [Как я пишу программы в реальности](https://www.youtube.com/playlist?list=PLlxYwLnXeoE38x9ijIhTuw2XsRyLHsIKo)
+### [Тетрис / Tetris  на языке С++. Часть 6. Фигура на стенку или стенка на фигуру? Генерация новых фигур](https://www.youtube.com/watch?v=6dhXNXu_71Q&amp;list=PLlxYwLnXeoE38x9ijIhTuw2XsRyLHsIKo&amp;index=14&amp;pp=iAQB)

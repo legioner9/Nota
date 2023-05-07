@@ -1,0 +1,3 @@
+# [В. Бовсуновский Python Django](https://www.youtube.com/@bov/playlists?view=1)
+## [Blockchain c нуля](https://www.youtube.com/playlist?list=PLuZJ9n46uMzVFCtchjEhZ2TXHUiYjAXfd)
+### [Ответ на вопрос детально. Как войти в Python и другие языки?](https://www.youtube.com/watch?v=LbhQp0RI7MU&amp;list=PLuZJ9n46uMzVFCtchjEhZ2TXHUiYjAXfd&amp;index=10&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [C++ User Group](https://www.youtube.com/@CUserGroupRussia/playlists)
+## [C++ Russia 2015](https://www.youtube.com/playlist?list=PLZN9ZGiWZoZq3nObp2P8BJvsCc639tYSd)
+### [Zoltan Porkolab. Debugging and Profiling C++ Template Metaprograms](https://www.youtube.com/watch?v=Fnp6CqYm5HY&amp;list=PLZN9ZGiWZoZq3nObp2P8BJvsCc639tYSd&amp;index=12&amp;pp=iAQB)

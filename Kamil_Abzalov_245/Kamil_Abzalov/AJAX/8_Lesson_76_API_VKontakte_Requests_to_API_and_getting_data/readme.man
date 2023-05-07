@@ -1,0 +1,3 @@
+# [Kamil Abzalov](https://www.youtube.com/@Kamil-abzalovRu/playlists)
+## [AJAX](https://www.youtube.com/playlist?list=PLOpdT8GIZ4XUiORGFlhHfH4s0EljzynmF)
+### [Lesson 76. API VKontakte. Requests to API and getting data](https://www.youtube.com/watch?v=HAwbvmo4ITM&amp;list=PLOpdT8GIZ4XUiORGFlhHfH4s0EljzynmF&amp;index=8&amp;pp=iAQB)

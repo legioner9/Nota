@@ -1,0 +1,3 @@
+# [Coding Tech](https://www.youtube.com/@CodingTech/playlists)
+## [Containers](https://www.youtube.com/playlist?list=PLFjq8z-aGyQ4U1B_OaUa3PK2_X9JFUlSg)
+### [Is Kubernetes the Next Fault Domain?](https://www.youtube.com/watch?v=lgKujjd0cAA&amp;list=PLFjq8z-aGyQ4U1B_OaUa3PK2_X9JFUlSg&amp;index=23&amp;pp=iAQB)

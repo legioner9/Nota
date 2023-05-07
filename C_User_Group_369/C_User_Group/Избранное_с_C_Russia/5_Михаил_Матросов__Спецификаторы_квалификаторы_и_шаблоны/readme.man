@@ -1,0 +1,3 @@
+# [C++ User Group](https://www.youtube.com/@CUserGroupRussia/playlists)
+## [Избранное с C++ Russia](https://www.youtube.com/playlist?list=PLZN9ZGiWZoZqQo9JKIEAPnS6yo6nf5mTf)
+### [Михаил Матросов — Спецификаторы, квалификаторы и шаблоны](https://www.youtube.com/watch?v=G_jcBrrYPAs&amp;list=PLZN9ZGiWZoZqQo9JKIEAPnS6yo6nf5mTf&amp;index=5&amp;pp=iAQB)

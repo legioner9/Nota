@@ -1,0 +1,3 @@
+# [Coding Tech](https://www.youtube.com/@CodingTech/playlists)
+## [NodeJS](https://www.youtube.com/playlist?list=PLFjq8z-aGyQ46ZLj2hCPsnRmXS78PTcgg)
+### [TensorFlowJS: Bringing ML and Linear Algebra to NodeJS](https://www.youtube.com/watch?v=cOIBOqKSYH4&amp;list=PLFjq8z-aGyQ46ZLj2hCPsnRmXS78PTcgg&amp;index=15&amp;pp=iAQB)

@@ -1,0 +1,6 @@
+### [Laravel урок №52: [ Очереди, Queue, Jobs - Основы ]](https://www.youtube.com/watch?v=IsS8HO4knBY&amp;list=PLoonZ8wII66iYtCIjSytFjqysPDOjrJVn&amp;index=1&amp;pp=iAQB)
+### [Laravel урок №53: [ Основы работы с очередями (Queue, Jobs). Продолжение ]](https://www.youtube.com/watch?v=_ViW6XSmpvA&amp;list=PLoonZ8wII66iYtCIjSytFjqysPDOjrJVn&amp;index=2&amp;pp=iAQB)
+### [Laravel урок №54: [ Очереди - цепочки задач (queue, jobs, chain) ]](https://www.youtube.com/watch?v=JF_n66wFUz8&amp;list=PLoonZ8wII66iYtCIjSytFjqysPDOjrJVn&amp;index=3&amp;pp=iAQB)
+### [Laravel урок №52: [ Очереди, Queue, Jobs - Основы ]](https://www.youtube.com/watch?v=IsS8HO4knBY&amp;list=PLoonZ8wII66iYtCIjSytFjqysPDOjrJVn&amp;index=1&amp;pp=iAQB)
+### [Laravel урок №53: [ Основы работы с очередями (Queue, Jobs). Продолжение ]](https://www.youtube.com/watch?v=_ViW6XSmpvA&amp;list=PLoonZ8wII66iYtCIjSytFjqysPDOjrJVn&amp;index=2&amp;pp=iAQB)
+### [Laravel урок №54: [ Очереди - цепочки задач (queue, jobs, chain) ]](https://www.youtube.com/watch?v=JF_n66wFUz8&amp;list=PLoonZ8wII66iYtCIjSytFjqysPDOjrJVn&amp;index=3&amp;pp=iAQB)

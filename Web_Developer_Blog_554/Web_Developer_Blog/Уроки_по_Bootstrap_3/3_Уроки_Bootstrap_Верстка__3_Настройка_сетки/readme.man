@@ -1,0 +1,3 @@
+# [Web Developer Blog](https://www.youtube.com/@SuprunAlexey/playlists)
+## [Уроки по Bootstrap 3](https://www.youtube.com/playlist?list=PLVfMKQXDAhGWqjumN9DPrWDO_HbmChuZt)
+### [Уроки Bootstrap Верстка | #3. Настройка сетки](https://www.youtube.com/watch?v=ALf-ElfKee0&amp;list=PLVfMKQXDAhGWqjumN9DPrWDO_HbmChuZt&amp;index=3&amp;pp=iAQB)

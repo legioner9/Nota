@@ -1,0 +1,3 @@
+# [okiseleva](https://www.youtube.com/@okiseleva/playlists)
+## [ШНАТ (школа для начинающих тестировщиков)](https://www.youtube.com/playlist?list=PLzy4cPXOwbY6bGOFj29LvzAjyFvbtUv3o)
+### [Паттерны и антипаттерны обоснования багов](https://www.youtube.com/watch?v=Iju5EKXNjF0&amp;list=PLzy4cPXOwbY6bGOFj29LvzAjyFvbtUv3o&amp;index=25&amp;pp=iAQB)

@@ -1,3 +1,0 @@
-# [Exploring the IT World / Oleg Shpagin / WISEPLAT](https://www.youtube.com/@wiseplat/playlists)
-## [Распознавание речи на Пайтон AI](https://www.youtube.com/playlist?list=PLxiU3nwEQ4PHLCwPFUdr3u2oScfIhUohe)
-### [Как работать с большими числами в Python? / Исправляем ошибку OverflowError 34 Result too large](https://www.youtube.com/watch?v=0F4pFLZJJ1s&amp;list=PLxiU3nwEQ4PHLCwPFUdr3u2oScfIhUohe&amp;index=26)

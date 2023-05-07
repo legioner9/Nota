@@ -1,0 +1,2 @@
+### [DNS // Теория](https://www.youtube.com/watch?v=a_V23iYheqg&amp;list=PLsMIccp52YRubCDPYCCuE0eL4wZaeFYNz&amp;index=1&amp;pp=iAQB)
+### [DNS // Настройка bind](https://www.youtube.com/watch?v=JlrV1-jd-4w&amp;list=PLsMIccp52YRubCDPYCCuE0eL4wZaeFYNz&amp;index=2&amp;pp=iAQB)

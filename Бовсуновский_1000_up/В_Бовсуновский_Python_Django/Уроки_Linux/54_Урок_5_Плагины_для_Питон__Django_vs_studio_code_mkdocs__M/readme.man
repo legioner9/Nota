@@ -1,0 +1,3 @@
+# [В. Бовсуновский Python Django](https://www.youtube.com/@bov/playlists?view=1)
+## [Уроки Linux](https://www.youtube.com/playlist?list=PLuZJ9n46uMzVwOZeH3dfra62lSqIVkmv9)
+### [Урок 5. Плагины для Питон  Django vs studio code. (mkdocs + Markdown)](https://www.youtube.com/watch?v=99X8TQEzevI&amp;list=PLuZJ9n46uMzVwOZeH3dfra62lSqIVkmv9&amp;index=54&amp;pp=iAQB)

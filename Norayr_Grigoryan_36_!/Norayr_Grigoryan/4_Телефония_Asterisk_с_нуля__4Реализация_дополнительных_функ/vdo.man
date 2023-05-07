@@ -1,0 +1,8 @@
+### [Телефония Asterisk с нуля - 4.1 - Конференц связь](https://www.youtube.com/watch?v=LwsAcsjFrdw&amp;list=PLT4btQkgy42tlSO9Nb6k_s58PPBUvHQD7&amp;index=1&amp;pp=iAQB)
+### [Телефония Asterisk с нуля - 4.2 - Парковка вызовов](https://www.youtube.com/watch?v=I2VX6mMU87o&amp;list=PLT4btQkgy42tlSO9Nb6k_s58PPBUvHQD7&amp;index=2&amp;pp=iAQB)
+### [Телефония Asterisk с нуля - 4.3 - Переадресация звонков FollowMe](https://www.youtube.com/watch?v=fEZSFqWJpUs&amp;list=PLT4btQkgy42tlSO9Nb6k_s58PPBUvHQD7&amp;index=3&amp;pp=iAQB)
+### [Телефония Asterisk с нуля - 4.5 - Работа Asterisk в зависимости от времени суток](https://www.youtube.com/watch?v=2HQGIaDs0Ao&amp;list=PLT4btQkgy42tlSO9Nb6k_s58PPBUvHQD7&amp;index=4&amp;pp=iAQB)
+### [Телефония Asterisk с нуля - 4.4 - Очередь звонков. Создаем Call центр](https://www.youtube.com/watch?v=iTq4LskH_jo&amp;list=PLT4btQkgy42tlSO9Nb6k_s58PPBUvHQD7&amp;index=5&amp;pp=iAQB)
+### [Телефония Asterisk с нуля - 4.6 - Подключение аппаратного телефона](https://www.youtube.com/watch?v=Im0FcQDvumw&amp;list=PLT4btQkgy42tlSO9Nb6k_s58PPBUvHQD7&amp;index=6&amp;pp=iAQB)
+### [Телефония Asterisk с нуля - 4.7 - Заключение](https://www.youtube.com/watch?v=CwA0OxiTHM8&amp;list=PLT4btQkgy42tlSO9Nb6k_s58PPBUvHQD7&amp;index=7&amp;pp=iAQB)
+### [Телефония Asterisk с нуля - 4.8 - Установка графического интерфейса CentOS](https://www.youtube.com/watch?v=QTsNbu0VNVY&amp;list=PLT4btQkgy42tlSO9Nb6k_s58PPBUvHQD7&amp;index=8&amp;pp=iAQB)

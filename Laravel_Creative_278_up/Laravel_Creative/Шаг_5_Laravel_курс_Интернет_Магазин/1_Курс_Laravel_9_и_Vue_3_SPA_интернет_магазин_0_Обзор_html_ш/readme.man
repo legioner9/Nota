@@ -1,0 +1,3 @@
+# [Laravel Creative](https://www.youtube.com/@laravelcreative/playlists)
+## [Шаг 5. Laravel курс. Интернет Магазин](https://www.youtube.com/playlist?list=PLd2_Os8Cj3t9UEjGQHafQB751mf5cwqNv)
+### [Курс Laravel 9 и Vue 3 SPA интернет магазин 0. Обзор html шаблона магазина и приоритеты задач](https://www.youtube.com/watch?v=07m88mgoIzA&amp;list=PLd2_Os8Cj3t9UEjGQHafQB751mf5cwqNv&amp;index=1&amp;pp=iAQB)

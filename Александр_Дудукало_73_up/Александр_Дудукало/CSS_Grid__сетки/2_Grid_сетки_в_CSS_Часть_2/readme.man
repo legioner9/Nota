@@ -1,0 +1,3 @@
+# [Александр Дудукало](https://www.youtube.com/@alex_dudukalo/playlists)
+## [CSS Grid - сетки](https://www.youtube.com/playlist?list=PLFqGDhtb0WiLlk6fUiviUY1cC-IMxtLcF)
+### [Grid сетки в CSS. Часть 2](https://www.youtube.com/watch?v=KVK_AbqT7W0&amp;list=PLFqGDhtb0WiLlk6fUiviUY1cC-IMxtLcF&amp;index=2&amp;pp=iAQB)

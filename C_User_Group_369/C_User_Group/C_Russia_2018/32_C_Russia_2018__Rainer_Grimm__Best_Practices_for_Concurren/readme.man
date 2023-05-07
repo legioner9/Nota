@@ -1,0 +1,3 @@
+# [C++ User Group](https://www.youtube.com/@CUserGroupRussia/playlists)
+## [C++ Russia 2018](https://www.youtube.com/playlist?list=PLZN9ZGiWZoZoFa2q0NqD6metQxavT2JYP)
+### [C++ Russia 2018:  Rainer Grimm,  Best Practices for Concurrency in Modern C++](https://www.youtube.com/watch?v=oHA1W2OJgXA&amp;list=PLZN9ZGiWZoZoFa2q0NqD6metQxavT2JYP&amp;index=32&amp;pp=iAQB)

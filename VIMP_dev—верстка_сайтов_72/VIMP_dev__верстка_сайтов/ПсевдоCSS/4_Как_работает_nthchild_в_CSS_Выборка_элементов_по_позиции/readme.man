@@ -1,0 +1,3 @@
+# [VIMP dev — верстка сайтов](https://www.youtube.com/@VIMPdev/playlists)
+## [Псевдо-CSS](https://www.youtube.com/playlist?list=PLBfQgL-XzhF1tIgI3CevADw3n2ytrll-f)
+### [Как работает nth-child в CSS. Выборка элементов по позиции](https://www.youtube.com/watch?v=7Ph0QeO0rFs&amp;list=PLBfQgL-XzhF1tIgI3CevADw3n2ytrll-f&amp;index=4&amp;pp=iAQB)

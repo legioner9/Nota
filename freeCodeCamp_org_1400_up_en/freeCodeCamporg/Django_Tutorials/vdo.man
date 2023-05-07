@@ -1,0 +1,3 @@
+### [Django Rest Framework &amp; React Tutorial: Learning Management System (Blackboard / Moodle Clone)](https://www.youtube.com/watch?v=JIFqqdRxmVo&amp;list=PLWKjhJtqVAblFnET3DbnAik--u4CBz62G&amp;index=1&amp;pp=iAQB)
+### [Python Django Web Framework - Full Course for Beginners](https://www.youtube.com/watch?v=F5mRW0jo-U4&amp;list=PLWKjhJtqVAblFnET3DbnAik--u4CBz62G&amp;index=2&amp;pp=iAQB)
+### [How to Build an E-commerce Website with Django and Python](https://www.youtube.com/watch?v=YZvRrldjf1Y&amp;list=PLWKjhJtqVAblFnET3DbnAik--u4CBz62G&amp;index=3&amp;pp=iAQB)

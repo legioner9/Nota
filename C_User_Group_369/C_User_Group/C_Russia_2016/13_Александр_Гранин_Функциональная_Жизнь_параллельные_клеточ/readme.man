@@ -1,0 +1,3 @@
+# [C++ User Group](https://www.youtube.com/@CUserGroupRussia/playlists)
+## [C++ Russia 2016](https://www.youtube.com/playlist?list=PLZN9ZGiWZoZp2olvWw-OysBHqIv2ufL3d)
+### [Александр Гранин, Функциональная 'Жизнь': параллельные клеточные автоматы и комонады в C++](https://www.youtube.com/watch?v=iKrnGSkWPnw&amp;list=PLZN9ZGiWZoZp2olvWw-OysBHqIv2ufL3d&amp;index=13&amp;pp=iAQB)

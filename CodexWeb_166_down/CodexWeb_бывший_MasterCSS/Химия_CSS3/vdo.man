@@ -1,0 +1,5 @@
+### [1. [Уроки по CSS3]  Что такое CSS и способы подключения стилей](https://www.youtube.com/watch?v=Kwk7bC1M7lM&amp;list=PLPpaecEYRC8Zn6nOLMUsUwmEyhYa7IL9x&amp;index=1&amp;pp=iAQB)
+### [2. [Уроки по CSS3] Синтаксис CSS](https://www.youtube.com/watch?v=eiNm-nek_Ec&amp;list=PLPpaecEYRC8Zn6nOLMUsUwmEyhYa7IL9x&amp;index=2&amp;pp=iAQB)
+### [3. [Уроки по CSS3] Селекторы в CSS. Часть 1](https://www.youtube.com/watch?v=6zi1-K9HgHQ&amp;list=PLPpaecEYRC8Zn6nOLMUsUwmEyhYa7IL9x&amp;index=3&amp;pp=iAQB)
+### [4. [Уроки по CSS3] Селекторы в CSS. Часть 2 - селекторы атрибутов](https://www.youtube.com/watch?v=6Ni3UYxPFzM&amp;list=PLPpaecEYRC8Zn6nOLMUsUwmEyhYa7IL9x&amp;index=4&amp;pp=iAQB)
+### [5. [Уроки по CSS3] Селекторы в CSS. Часть 3 - Комбинированные селекторы](https://www.youtube.com/watch?v=GBdC184pHWg&amp;list=PLPpaecEYRC8Zn6nOLMUsUwmEyhYa7IL9x&amp;index=5&amp;pp=iAQB)

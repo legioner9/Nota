@@ -1,0 +1,3 @@
+# [freeCodeCamp.org](https://www.youtube.com/@freecodecamp/playlists)
+## [Computer Science and Software Engineering Theory with Briana](https://www.youtube.com/playlist?list=PLWKjhJtqVAbmfoj2Th9fvxhHIeqFO7wOy)
+### [JavaScript Lingo: Manipulating Data](https://www.youtube.com/watch?v=vZAm3Ve9CGM&amp;list=PLWKjhJtqVAbmfoj2Th9fvxhHIeqFO7wOy&amp;index=26&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [freeCodeCamp.org](https://www.youtube.com/@freecodecamp/playlists)
+## [ES6 - Beau teaches JavaScript](https://www.youtube.com/playlist?list=PLWKjhJtqVAbljtmmeS0c-CEl2LdE-eR_F)
+### [Destructuring in ES6 - Beau teaches JavaScript](https://www.youtube.com/watch?v=-vR3a11Wzt0&amp;list=PLWKjhJtqVAbljtmmeS0c-CEl2LdE-eR_F&amp;index=8&amp;pp=iAQB)

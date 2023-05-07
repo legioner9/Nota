@@ -1,0 +1,3 @@
+# [WebDev с нуля. Канал Алекса Лущенко](https://www.youtube.com/@itgid/playlists)
+## [30 вопросов JavaScript собеседования - бесплатный курс](https://www.youtube.com/playlist?list=PLM7wFzahDYnGF4WqYaSuwnItYDEBakTDS)
+### [Скрываем элементы в CSS. 30 вопросов собеседования JavaScript](https://www.youtube.com/watch?v=F_SOEFUOcCI&amp;list=PLM7wFzahDYnGF4WqYaSuwnItYDEBakTDS&amp;index=5&amp;pp=iAQB)

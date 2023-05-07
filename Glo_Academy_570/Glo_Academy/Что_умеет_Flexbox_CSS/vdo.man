@@ -1,0 +1,6 @@
+### [Что умеет FLEXBOX CSS?! Основы верстки на flex](https://www.youtube.com/watch?v=zFIltkLv5eI&amp;list=PL3LQJkGQtzc4cCGLkwm1CmVahUtBkmJx9&amp;index=1&amp;pp=iAQB)
+### [Что еще умеет FLEXBOX CSS](https://www.youtube.com/watch?v=ja-a2VXSRcc&amp;list=PL3LQJkGQtzc4cCGLkwm1CmVahUtBkmJx9&amp;index=2&amp;pp=iAQB)
+### [Что делать с дочками во FLEXBOX?!](https://www.youtube.com/watch?v=aBCnNogGkv8&amp;list=PL3LQJkGQtzc4cCGLkwm1CmVahUtBkmJx9&amp;index=3&amp;pp=iAQB)
+### [Слайдер на flexBOX](https://www.youtube.com/watch?v=ZAHVgl9YIH0&amp;list=PL3LQJkGQtzc4cCGLkwm1CmVahUtBkmJx9&amp;index=4&amp;pp=iAQB)
+### [Реальная верстка на Flexbox из макета PSD](https://www.youtube.com/watch?v=yK7WEt-CdhI&amp;list=PL3LQJkGQtzc4cCGLkwm1CmVahUtBkmJx9&amp;index=5&amp;pp=iAQB)
+### [Практика верстки на flex'ах часть 2](https://www.youtube.com/watch?v=t703rRKZR5U&amp;list=PL3LQJkGQtzc4cCGLkwm1CmVahUtBkmJx9&amp;index=6&amp;pp=iAQB)

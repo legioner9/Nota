@@ -1,0 +1,3 @@
+# [Василий Муравьев](https://www.youtube.com/@stackdev/playlists)
+## [Gatsby JS: создаем сверх быстрое web приложение на популярном React фрэймворке](https://www.youtube.com/playlist?list=PLtL3lrXPn2rVMcj6AqXntvxOajp94Cogk)
+### [Gatsby JS #05. Плагины в Gatsby (установка + регистрация).](https://www.youtube.com/watch?v=xVG4in9eRU8&amp;list=PLtL3lrXPn2rVMcj6AqXntvxOajp94Cogk&amp;index=6&amp;pp=iAQB)

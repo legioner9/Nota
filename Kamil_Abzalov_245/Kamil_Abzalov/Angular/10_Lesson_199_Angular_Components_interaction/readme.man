@@ -1,0 +1,3 @@
+# [Kamil Abzalov](https://www.youtube.com/@Kamil-abzalovRu/playlists)
+## [Angular](https://www.youtube.com/playlist?list=PLOpdT8GIZ4XW1uChCdIu9PkNuK4iHtWQC)
+### [Lesson 199. Angular. Components interaction](https://www.youtube.com/watch?v=jpWi5HxLnCk&amp;list=PLOpdT8GIZ4XW1uChCdIu9PkNuK4iHtWQC&amp;index=10&amp;pp=iAQB)

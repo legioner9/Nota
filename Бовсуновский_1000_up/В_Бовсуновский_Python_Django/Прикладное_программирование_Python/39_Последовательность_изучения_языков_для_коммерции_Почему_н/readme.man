@@ -1,0 +1,3 @@
+# [В. Бовсуновский Python Django](https://www.youtube.com/@bov/playlists?view=1)
+## [Прикладное программирование Python.](https://www.youtube.com/playlist?list=PLuZJ9n46uMzX---cfRMYZgEDePohvo8dp)
+### [Последовательность изучения языков для коммерции. Почему начать с Python.](https://www.youtube.com/watch?v=qm9bO1V7D5w&amp;list=PLuZJ9n46uMzX---cfRMYZgEDePohvo8dp&amp;index=39&amp;pp=iAQB)

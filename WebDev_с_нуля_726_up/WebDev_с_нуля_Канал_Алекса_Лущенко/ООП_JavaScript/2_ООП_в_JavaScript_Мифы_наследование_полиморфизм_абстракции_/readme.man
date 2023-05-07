@@ -1,0 +1,3 @@
+# [WebDev с нуля. Канал Алекса Лущенко](https://www.youtube.com/@itgid/playlists)
+## [ООП JavaScript](https://www.youtube.com/playlist?list=PLM7wFzahDYnHyRpmcSGOptXan08CNb9nh)
+### [ООП в JavaScript. Мифы, наследование, полиморфизм, абстракции, наследованиеи,](https://www.youtube.com/watch?v=ZmH262CgLsM&amp;list=PLM7wFzahDYnHyRpmcSGOptXan08CNb9nh&amp;index=2&amp;pp=iAQB)

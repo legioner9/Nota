@@ -1,0 +1,3 @@
+# [Web Developer Blog](https://www.youtube.com/@SuprunAlexey/playlists)
+## [Уроки React JS на практике + Bootstrap](https://www.youtube.com/playlist?list=PLVfMKQXDAhGURizWJ7EGvJfvYO0rGap_z)
+### [Уроки React JS + Bootstrap на практике - Паралакс эффект, Grid](https://www.youtube.com/watch?v=3K347USUIm8&amp;list=PLVfMKQXDAhGURizWJ7EGvJfvYO0rGap_z&amp;index=4&amp;pp=iAQB)

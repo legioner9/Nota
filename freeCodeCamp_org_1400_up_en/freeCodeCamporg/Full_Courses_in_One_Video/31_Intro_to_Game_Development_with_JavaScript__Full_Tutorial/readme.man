@@ -1,0 +1,3 @@
+# [freeCodeCamp.org](https://www.youtube.com/@freecodecamp/playlists)
+## [Full Courses in One Video](https://www.youtube.com/playlist?list=PLWKjhJtqVAbnupwRFOq9zGOWjdvPRtCmO)
+### [Intro to Game Development with JavaScript - Full Tutorial](https://www.youtube.com/watch?v=3EMxBkqC4z0&amp;list=PLWKjhJtqVAbnupwRFOq9zGOWjdvPRtCmO&amp;index=31&amp;pp=iAQB)

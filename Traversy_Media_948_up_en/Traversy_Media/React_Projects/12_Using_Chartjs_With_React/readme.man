@@ -1,0 +1,3 @@
+# [Traversy Media](https://www.youtube.com/@TraversyMedia/playlists)
+## [React Projects](https://www.youtube.com/playlist?list=PLillGF-RfqbY3c2r0htQyVbDJJoBFE6Rb)
+### [Using Chart.js With React](https://www.youtube.com/watch?v=Ly-9VTXJlnA&amp;list=PLillGF-RfqbY3c2r0htQyVbDJJoBFE6Rb&amp;index=12&amp;pp=iAQB)

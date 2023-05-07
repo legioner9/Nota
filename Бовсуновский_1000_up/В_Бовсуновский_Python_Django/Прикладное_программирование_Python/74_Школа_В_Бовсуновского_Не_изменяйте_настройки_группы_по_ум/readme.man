@@ -1,0 +1,3 @@
+# [В. Бовсуновский Python Django](https://www.youtube.com/@bov/playlists?view=1)
+## [Прикладное программирование Python.](https://www.youtube.com/playlist?list=PLuZJ9n46uMzX---cfRMYZgEDePohvo8dp)
+### [Школа В. Бовсуновского. Не изменяйте настройки группы по умочанию](https://www.youtube.com/watch?v=iD2vTzGK19w&amp;list=PLuZJ9n46uMzX---cfRMYZgEDePohvo8dp&amp;index=74&amp;pp=iAQB)

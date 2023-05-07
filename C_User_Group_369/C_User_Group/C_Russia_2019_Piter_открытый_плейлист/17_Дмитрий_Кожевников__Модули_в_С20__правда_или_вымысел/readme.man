@@ -1,0 +1,3 @@
+# [C++ User Group](https://www.youtube.com/@CUserGroupRussia/playlists)
+## [C++ Russia 2019 Piter: открытый плейлист](https://www.youtube.com/playlist?list=PLZN9ZGiWZoZp8_XKK1WMcAt2Dr9-QkfU6)
+### [Дмитрий Кожевников — Модули в С++20 — правда или вымысел?](https://www.youtube.com/watch?v=iQb6EOk1RM0&amp;list=PLZN9ZGiWZoZp8_XKK1WMcAt2Dr9-QkfU6&amp;index=17&amp;pp=iAQB)

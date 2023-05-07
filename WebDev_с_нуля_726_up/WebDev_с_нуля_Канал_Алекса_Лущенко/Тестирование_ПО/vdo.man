@@ -1,0 +1,7 @@
+### [JIRA. Урок 1. Интерфейс Jira, работа с проектами](https://www.youtube.com/watch?v=ciyEh6K1uN4&amp;list=PLM7wFzahDYnGTjmvnkHY40L4vy2VuAqVO&amp;index=1&amp;pp=iAQB)
+### [JIRA. Урок 2. Создание задач](https://www.youtube.com/watch?v=_zQHR0uRUcY&amp;list=PLM7wFzahDYnGTjmvnkHY40L4vy2VuAqVO&amp;index=2&amp;pp=iAQB)
+### [Тестирование ПО. Подготовка к тестам](https://www.youtube.com/watch?v=rtteyR--R0E&amp;list=PLM7wFzahDYnGTjmvnkHY40L4vy2VuAqVO&amp;index=3&amp;pp=iAQB)
+### [Этапы тестирования ПО](https://www.youtube.com/watch?v=XOTa3dlPO84&amp;list=PLM7wFzahDYnGTjmvnkHY40L4vy2VuAqVO&amp;index=4&amp;pp=iAQB)
+### [Введение в HTML для QA](https://www.youtube.com/watch?v=568kKmc0UFI&amp;list=PLM7wFzahDYnGTjmvnkHY40L4vy2VuAqVO&amp;index=5&amp;pp=iAQB)
+### [Мы будем делать стрим-программирование 8 апреля!](https://www.youtube.com/watch?v=I4zKHf96kiw&amp;list=PLM7wFzahDYnGTjmvnkHY40L4vy2VuAqVO&amp;index=6&amp;pp=iAQB)
+### [5 самых тупых вопросов на собеседовании](https://www.youtube.com/watch?v=2Y1NrP_IOg8&amp;list=PLM7wFzahDYnGTjmvnkHY40L4vy2VuAqVO&amp;index=7&amp;pp=iAQB)

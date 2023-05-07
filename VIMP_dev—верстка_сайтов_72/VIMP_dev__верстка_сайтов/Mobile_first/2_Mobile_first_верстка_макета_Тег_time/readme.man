@@ -1,0 +1,3 @@
+# [VIMP dev — верстка сайтов](https://www.youtube.com/@VIMPdev/playlists)
+## [Mobile first](https://www.youtube.com/playlist?list=PLBfQgL-XzhF2YdbfD4oIu7F8j8Q_PQ1uZ)
+### [Mobile first верстка макета. Тег time.](https://www.youtube.com/watch?v=dJIwpG86qgg&amp;list=PLBfQgL-XzhF2YdbfD4oIu7F8j8Q_PQ1uZ&amp;index=2&amp;pp=iAQB)

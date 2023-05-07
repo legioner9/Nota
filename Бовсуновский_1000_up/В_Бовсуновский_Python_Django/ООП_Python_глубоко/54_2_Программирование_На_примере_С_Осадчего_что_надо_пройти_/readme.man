@@ -1,0 +1,3 @@
+# [В. Бовсуновский Python Django](https://www.youtube.com/@bov/playlists?view=1)
+## [ООП Python глубоко.](https://www.youtube.com/playlist?list=PLuZJ9n46uMzXkD4T4F54FJNTGSZho90GB)
+### [2. (Программирование) На примере С. Осадчего, что надо пройти, что бы программмировать?](https://www.youtube.com/watch?v=78U_S1QRNTo&amp;list=PLuZJ9n46uMzXkD4T4F54FJNTGSZho90GB&amp;index=54&amp;pp=iAQB)

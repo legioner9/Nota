@@ -1,0 +1,3 @@
+# [Веб-разработка - DevMagazine](https://www.youtube.com/@DevMagazineChannel/playlists)
+## [ReactJS [English]](https://www.youtube.com/playlist?list=PLmfIBo6rTVR51w01G9lZ9aEvK6rXokuWD)
+### [React app structure (React folder structure, React Folder Best Structures)](https://www.youtube.com/watch?v=YW8qqKHNMkw&amp;list=PLmfIBo6rTVR51w01G9lZ9aEvK6rXokuWD&amp;index=1&amp;pp=iAQB)

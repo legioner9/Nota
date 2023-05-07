@@ -1,0 +1,6 @@
+### [Сергей Талантов — Безопасный дизайн на С++](https://www.youtube.com/watch?v=hu7netBtS2U&amp;list=PLZN9ZGiWZoZo4MvdepGdU-6HmGVCf46Eh&amp;index=1&amp;pp=iAQB)
+### [Кристина Михайленко, Михаил Лукин — Доклад про декомпилятор GPGPU](https://www.youtube.com/watch?v=SZx930kAKCg&amp;list=PLZN9ZGiWZoZo4MvdepGdU-6HmGVCf46Eh&amp;index=2&amp;pp=iAQB)
+### [Arno Schödl — A Practical Approach to Error Handling](https://www.youtube.com/watch?v=zNbmFRaetTA&amp;list=PLZN9ZGiWZoZo4MvdepGdU-6HmGVCf46Eh&amp;index=3&amp;pp=iAQB)
+### [Роман Проскуряков — Голый Rust](https://www.youtube.com/watch?v=dIY8wxysIuI&amp;list=PLZN9ZGiWZoZo4MvdepGdU-6HmGVCf46Eh&amp;index=4&amp;pp=iAQB)
+### [Сергей Козлов — Украшаем молоток: как автоматизировать разбор проблем в дебаггере](https://www.youtube.com/watch?v=7l-vGhbllf0&amp;list=PLZN9ZGiWZoZo4MvdepGdU-6HmGVCf46Eh&amp;index=5&amp;pp=iAQB)
+### [Sandor Dargo — Why Сlean Сode is not the Norm?](https://www.youtube.com/watch?v=3o0pCww4fQw&amp;list=PLZN9ZGiWZoZo4MvdepGdU-6HmGVCf46Eh&amp;index=6&amp;pp=iAQB)

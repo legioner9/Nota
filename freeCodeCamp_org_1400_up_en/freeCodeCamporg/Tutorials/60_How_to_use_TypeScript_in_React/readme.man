@@ -1,0 +1,3 @@
+# [freeCodeCamp.org](https://www.youtube.com/@freecodecamp/playlists)
+## [Tutorials](https://www.youtube.com/playlist?list=PLWKjhJtqVAbmDGFE_pZ-PDJ1GWe3KtT-M)
+### [How to use TypeScript in React](https://www.youtube.com/watch?v=dy9gr94s6ZY&amp;list=PLWKjhJtqVAbmDGFE_pZ-PDJ1GWe3KtT-M&amp;index=60&amp;pp=iAQB)

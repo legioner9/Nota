@@ -1,0 +1,3 @@
+# [freeCodeCamp.org](https://www.youtube.com/@freecodecamp/playlists)
+## [Game Programming Tutorials](https://www.youtube.com/playlist?list=PLWKjhJtqVAbmqFs83T4W-FZQ9kK983tZC)
+### [Connect Four Python Game Tutorial with pygame](https://www.youtube.com/watch?v=XpYz-q1lxu8&amp;list=PLWKjhJtqVAbmqFs83T4W-FZQ9kK983tZC&amp;index=16&amp;pp=iAQB)

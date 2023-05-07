@@ -1,0 +1,3 @@
+# [Dmitry Afanasyev](https://www.youtube.com/@DmitryAfanasyev/playlists)
+## [Laravel 5: Основы. Видеообучение](https://www.youtube.com/playlist?list=PLoonZ8wII66h7pF6CFPzK3pVhTWo3DL9G)
+### [#1 Laravel 5: Установка](https://www.youtube.com/watch?v=IpfVvIYkcPA&amp;list=PLoonZ8wII66h7pF6CFPzK3pVhTWo3DL9G&amp;index=2&amp;pp=iAQB)

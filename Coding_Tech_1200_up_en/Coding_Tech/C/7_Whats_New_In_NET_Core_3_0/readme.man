@@ -1,0 +1,3 @@
+# [Coding Tech](https://www.youtube.com/@CodingTech/playlists)
+## [C#](https://www.youtube.com/playlist?list=PLFjq8z-aGyQ5WgFQSik2neFd33cCJLQ7o)
+### [What’s New In .NET Core 3 0](https://www.youtube.com/watch?v=U1z-uhNZeAA&amp;list=PLFjq8z-aGyQ5WgFQSik2neFd33cCJLQ7o&amp;index=7&amp;pp=iAQB)

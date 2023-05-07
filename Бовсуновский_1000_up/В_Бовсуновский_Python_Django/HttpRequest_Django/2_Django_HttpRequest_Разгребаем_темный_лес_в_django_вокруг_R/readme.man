@@ -1,0 +1,3 @@
+# [В. Бовсуновский Python Django](https://www.youtube.com/@bov/playlists?view=1)
+## [HttpRequest Django](https://www.youtube.com/playlist?list=PLuZJ9n46uMzUJrTZSCrDB126PgGzIRH0e)
+### [Django HttpRequest. Разгребаем темный лес в django вокруг Request.POST.get()](https://www.youtube.com/watch?v=WJtqcMu6KOc&amp;list=PLuZJ9n46uMzUJrTZSCrDB126PgGzIRH0e&amp;index=2&amp;pp=iAQB)

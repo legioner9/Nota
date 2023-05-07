@@ -1,0 +1,3 @@
+# [Студия Флаг](https://www.youtube.com/@FlagStudio/playlists)
+## [Laravel](https://www.youtube.com/playlist?list=PLVdcV6tHcaCEUw807UcoNwhVtjTiprZlt)
+### [Laravel быстрый старт](https://www.youtube.com/watch?v=SrASNU3-yy8&amp;list=PLVdcV6tHcaCEUw807UcoNwhVtjTiprZlt&amp;index=1&amp;pp=iAQB)

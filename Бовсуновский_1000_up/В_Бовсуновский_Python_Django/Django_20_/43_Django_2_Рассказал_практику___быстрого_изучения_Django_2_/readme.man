@@ -1,0 +1,3 @@
+# [В. Бовсуновский Python Django](https://www.youtube.com/@bov/playlists?view=1)
+## [Django 2.0 +](https://www.youtube.com/playlist?list=PLuZJ9n46uMzX_fLNv-OLXjJorYUGqLlYP)
+### [Django 2. Рассказал практику -  быстрого изучения Django 2. (ссылки в описании видео)](https://www.youtube.com/watch?v=XLcWbpo1_tU&amp;list=PLuZJ9n46uMzX_fLNv-OLXjJorYUGqLlYP&amp;index=43&amp;pp=iAQB)

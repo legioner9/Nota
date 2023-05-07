@@ -1,0 +1,3 @@
+# [freeCodeCamp.org](https://www.youtube.com/@freecodecamp/playlists)
+## [Full Stack Web App in Vue.js & Express.js](https://www.youtube.com/playlist?list=PLWKjhJtqVAbnadueQ-C5keMQQiQau_i0D)
+### [Full Stack Web App Using Vue.js &amp; Express.js: Part 3 - Login](https://www.youtube.com/watch?v=H6hM_5ilhqw&amp;list=PLWKjhJtqVAbnadueQ-C5keMQQiQau_i0D&amp;index=3&amp;pp=iAQB)

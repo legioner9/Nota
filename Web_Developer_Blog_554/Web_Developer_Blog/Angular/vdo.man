@@ -1,0 +1,2 @@
+### [Что такое Angular. Обзор возможностей](https://www.youtube.com/watch?v=m0yGx2MGZWg&amp;list=PLVfMKQXDAhGUuYa7AnXsgMqG8Pwz8ZRlW&amp;index=1&amp;pp=iAQB)
+### [Angular 5 вышел. Что нового? Краткий обзор Angular 5](https://www.youtube.com/watch?v=OhGGyPAfA4A&amp;list=PLVfMKQXDAhGUuYa7AnXsgMqG8Pwz8ZRlW&amp;index=2&amp;pp=iAQB)

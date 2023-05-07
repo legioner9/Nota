@@ -1,0 +1,3 @@
+# [В. Бовсуновский Python Django](https://www.youtube.com/@bov/playlists?view=1)
+## [С++ крутой курс.](https://www.youtube.com/playlist?list=PLuZJ9n46uMzVXl6GARnuDRl-mGypczjcx)
+### [3. Гарантированно успешный вход в С++ с гарантией результата профессионального кода. Указатели С++.](https://www.youtube.com/watch?v=Jvshy-HZY18&amp;list=PLuZJ9n46uMzVXl6GARnuDRl-mGypczjcx&amp;index=3&amp;pp=iAQB)

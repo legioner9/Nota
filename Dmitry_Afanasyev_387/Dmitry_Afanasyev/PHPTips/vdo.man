@@ -1,0 +1,7 @@
+### [#1 [PHP: преобразование массива в объект]](https://www.youtube.com/watch?v=YhXWOueDNRc&amp;list=PLoonZ8wII66jVNtDG-2b1KipT1cpSK57O&amp;index=1&amp;pp=iAQB)
+### [#2 [Что такое инъекция зависимостей в PHP]](https://www.youtube.com/watch?v=FAgpDPqZyoQ&amp;list=PLoonZ8wII66jVNtDG-2b1KipT1cpSK57O&amp;index=2&amp;pp=iAQB)
+### [#3 [Хэширование паролей в PHP]](https://www.youtube.com/watch?v=O49Rcle09IE&amp;list=PLoonZ8wII66jVNtDG-2b1KipT1cpSK57O&amp;index=3&amp;pp=iAQB)
+### [#4 [PHP - ключевое слово finally]](https://www.youtube.com/watch?v=NpXuwv303b4&amp;list=PLoonZ8wII66jVNtDG-2b1KipT1cpSK57O&amp;index=4&amp;pp=iAQB)
+### [#5 [PHP - фильтрация входных данных - функция filter_input()]](https://www.youtube.com/watch?v=WtiWIzYgRrA&amp;list=PLoonZ8wII66jVNtDG-2b1KipT1cpSK57O&amp;index=5&amp;pp=iAQB)
+### [#6 [Разумное использование сессий в PHP]](https://www.youtube.com/watch?v=zoaA255L1Ac&amp;list=PLoonZ8wII66jVNtDG-2b1KipT1cpSK57O&amp;index=6&amp;pp=iAQB)
+### [#7 [open_basedir restriction in effect]](https://www.youtube.com/watch?v=CfklnPonBW4&amp;list=PLoonZ8wII66jVNtDG-2b1KipT1cpSK57O&amp;index=7&amp;pp=iAQB)

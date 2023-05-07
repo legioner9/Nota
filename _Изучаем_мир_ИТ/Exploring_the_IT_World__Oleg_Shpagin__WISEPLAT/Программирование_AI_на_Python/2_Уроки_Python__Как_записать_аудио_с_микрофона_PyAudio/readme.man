@@ -1,3 +1,0 @@
-# [Exploring the IT World / Oleg Shpagin / WISEPLAT](https://www.youtube.com/@wiseplat/playlists)
-## [Программирование AI на Python](https://www.youtube.com/playlist?list=PLxiU3nwEQ4PHAPvwDfdmhX0DsHFiOtqTm)
-### [Уроки Python / Как записать аудио с микрофона PyAudio](https://www.youtube.com/watch?v=UQFkU9Abzt8&amp;list=PLxiU3nwEQ4PHAPvwDfdmhX0DsHFiOtqTm&amp;index=2)

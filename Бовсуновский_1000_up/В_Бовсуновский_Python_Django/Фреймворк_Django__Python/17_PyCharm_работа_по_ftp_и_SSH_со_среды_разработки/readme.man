@@ -1,0 +1,3 @@
+# [В. Бовсуновский Python Django](https://www.youtube.com/@bov/playlists?view=1)
+## [Фреймворк Django + Python](https://www.youtube.com/playlist?list=PLuZJ9n46uMzUTlpOt5EiuFdL3NADjS5EP)
+### [PyCharm работа по ftp и SSH со среды разработки.](https://www.youtube.com/watch?v=yjn_QSJ2Qvo&amp;list=PLuZJ9n46uMzUTlpOt5EiuFdL3NADjS5EP&amp;index=17&amp;pp=iAQB)

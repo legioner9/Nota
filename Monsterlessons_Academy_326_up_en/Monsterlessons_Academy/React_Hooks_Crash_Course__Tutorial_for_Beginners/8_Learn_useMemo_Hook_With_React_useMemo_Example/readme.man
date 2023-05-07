@@ -1,0 +1,3 @@
+# [Monsterlessons Academy](https://www.youtube.com/@MonsterlessonsAcademy/playlists)
+## [React Hooks Crash Course - Tutorial for Beginners](https://www.youtube.com/playlist?list=PLEjh-YiSBCDLnqqXf_-x1hyLAz9UZ2pF1)
+### [Learn useMemo Hook With React useMemo Example](https://www.youtube.com/watch?v=hGvxRaEkhkE&amp;list=PLEjh-YiSBCDLnqqXf_-x1hyLAz9UZ2pF1&amp;index=8&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [Laravel Creative](https://www.youtube.com/@laravelcreative/playlists)
+## [Мотивация и развитие](https://www.youtube.com/playlist?list=PLd2_Os8Cj3t__OzG61OT3YLaQG-nnz-IX)
+### [Как развить объектно-ориентированное мышление в программировании?](https://www.youtube.com/watch?v=_jrIqA6K6uI&amp;list=PLd2_Os8Cj3t__OzG61OT3YLaQG-nnz-IX&amp;index=11&amp;pp=iAQB)

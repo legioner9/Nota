@@ -1,0 +1,3 @@
+# [В. Бовсуновский Python Django](https://www.youtube.com/@bov/playlists?view=1)
+## [ООП Python глубоко.](https://www.youtube.com/playlist?list=PLuZJ9n46uMzXkD4T4F54FJNTGSZho90GB)
+### [Часть 2. Сила поэтапного практического освоения языка программирования Python.](https://www.youtube.com/watch?v=IOqWbA90MiA&amp;list=PLuZJ9n46uMzXkD4T4F54FJNTGSZho90GB&amp;index=2&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [Unified Communications from Cliffis](https://www.youtube.com/@uc_cliffis/playlists)
+## [Asterisk PBX](https://www.youtube.com/playlist?list=PLQkhRYZT7TCkm7db8HGDHxkkXXFJP-JVQ)
+### [Установка Asterisk на Raspberry PI - очень просто!!!](https://www.youtube.com/watch?v=aksoEbVvbKw&amp;list=PLQkhRYZT7TCkm7db8HGDHxkkXXFJP-JVQ&amp;index=3&amp;pp=iAQB)

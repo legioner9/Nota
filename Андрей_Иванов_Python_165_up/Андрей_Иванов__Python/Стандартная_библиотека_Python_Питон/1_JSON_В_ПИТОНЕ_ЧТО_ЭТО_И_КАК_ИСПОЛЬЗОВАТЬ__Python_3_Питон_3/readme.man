@@ -1,0 +1,3 @@
+# [Андрей Иванов | Python](https://www.youtube.com/@PythononPapyrusRU/playlists)
+## [Стандартная библиотека Python, Питон](https://www.youtube.com/playlist?list=PLF4MWzDJPFSaJT3wxrf_xxOl_jv3zYPmS)
+### [JSON В ПИТОНЕ. ЧТО ЭТО И КАК ИСПОЛЬЗОВАТЬ | Python 3, Питон 3](https://www.youtube.com/watch?v=nDG78A8aKOo&amp;list=PLF4MWzDJPFSaJT3wxrf_xxOl_jv3zYPmS&amp;index=1&amp;pp=iAQB)

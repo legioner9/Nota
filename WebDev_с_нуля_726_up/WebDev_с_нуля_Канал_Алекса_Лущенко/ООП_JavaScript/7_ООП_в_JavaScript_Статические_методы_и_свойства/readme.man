@@ -1,0 +1,3 @@
+# [WebDev с нуля. Канал Алекса Лущенко](https://www.youtube.com/@itgid/playlists)
+## [ООП JavaScript](https://www.youtube.com/playlist?list=PLM7wFzahDYnHyRpmcSGOptXan08CNb9nh)
+### [ООП в JavaScript. Статические методы и свойства](https://www.youtube.com/watch?v=yOIbvm48S4A&amp;list=PLM7wFzahDYnHyRpmcSGOptXan08CNb9nh&amp;index=7&amp;pp=iAQB)

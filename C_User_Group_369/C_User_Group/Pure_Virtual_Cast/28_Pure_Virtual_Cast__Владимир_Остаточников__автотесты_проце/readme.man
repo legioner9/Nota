@@ -1,0 +1,3 @@
+# [C++ User Group](https://www.youtube.com/@CUserGroupRussia/playlists)
+## [Pure Virtual Cast](https://www.youtube.com/playlist?list=PLZN9ZGiWZoZoQk09P4BXy8r42I-hlCyBP)
+### [Pure Virtual Cast // Владимир Остаточников // автотесты, процесс разработки // 11.11.2021 #cpp](https://www.youtube.com/watch?v=TXQjeTi40hY&amp;list=PLZN9ZGiWZoZoQk09P4BXy8r42I-hlCyBP&amp;index=28&amp;pp=iAQB)

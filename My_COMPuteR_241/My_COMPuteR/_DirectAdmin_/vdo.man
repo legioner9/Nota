@@ -1,0 +1,3 @@
+### [DirectAdmin - подробный обзор панели](https://www.youtube.com/watch?v=ukMZ0Wezv2Y&amp;list=PLh1BaaL_XriMjrLflWTGGlmzm7LznQVY2&amp;index=1&amp;pp=iAQB)
+### [DirectAdmin - пошаговая установка сайта](https://www.youtube.com/watch?v=tjmeZ76uFN4&amp;list=PLh1BaaL_XriMjrLflWTGGlmzm7LznQVY2&amp;index=2&amp;pp=iAQB)
+### [DirectAdmin - бэкап, восстановление, перенос сайта](https://www.youtube.com/watch?v=DEyUdeMy2rU&amp;list=PLh1BaaL_XriMjrLflWTGGlmzm7LznQVY2&amp;index=3&amp;pp=iAQB)

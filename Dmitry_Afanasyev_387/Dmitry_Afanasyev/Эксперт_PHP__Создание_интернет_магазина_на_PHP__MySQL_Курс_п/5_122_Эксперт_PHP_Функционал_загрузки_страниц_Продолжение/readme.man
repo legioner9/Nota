@@ -1,0 +1,3 @@
+# [Dmitry Afanasyev](https://www.youtube.com/@DmitryAfanasyev/playlists)
+## [Эксперт PHP - Создание интернет магазина на PHP & MySQL. Курс по программированию](https://www.youtube.com/playlist?list=PLoonZ8wII66iZSicLNXhE4bxUYaKhIc-L)
+### [#1.2.2 Эксперт PHP: Функционал загрузки страниц. Продолжение](https://www.youtube.com/watch?v=Aai4mCpDFOA&amp;list=PLoonZ8wII66iZSicLNXhE4bxUYaKhIc-L&amp;index=5&amp;pp=iAQB)

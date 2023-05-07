@@ -1,0 +1,3 @@
+# [Андрей Иванов | Python](https://www.youtube.com/@PythononPapyrusRU/playlists)
+## [Django, Джангo](https://www.youtube.com/playlist?list=PLF4MWzDJPFSYvv-OXvFR7RsQrzgBjRPnW)
+### [САМЫЕ ЧАСТЫЕ ОШИБКИ DJANGO | Python 3, Питон 3](https://www.youtube.com/watch?v=e5OQmOGKhg0&amp;list=PLF4MWzDJPFSYvv-OXvFR7RsQrzgBjRPnW&amp;index=5&amp;pp=iAQB)

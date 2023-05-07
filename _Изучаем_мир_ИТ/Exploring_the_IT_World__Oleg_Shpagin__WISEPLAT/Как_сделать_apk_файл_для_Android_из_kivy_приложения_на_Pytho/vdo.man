@@ -1,4 +1,0 @@
-### [Как создать мобильное приложение на Python #1](https://www.youtube.com/watch?v=tvyr2guZMKM&amp;list=PLxiU3nwEQ4PGSSFwaBihVZ6jgt-4gaJvK&amp;index=1)
-### [Как создать мобильное приложение на Python #2](https://www.youtube.com/watch?v=Vsn8LK5HsLo&amp;list=PLxiU3nwEQ4PGSSFwaBihVZ6jgt-4gaJvK&amp;index=2)
-### [Как создать мобильное приложение на Python #3](https://www.youtube.com/watch?v=h_GJmzvCLog&amp;list=PLxiU3nwEQ4PGSSFwaBihVZ6jgt-4gaJvK&amp;index=3)
-### [Как создать мобильное приложение на Python #4](https://www.youtube.com/watch?v=aRxQLiOL-EI&amp;list=PLxiU3nwEQ4PGSSFwaBihVZ6jgt-4gaJvK&amp;index=4)

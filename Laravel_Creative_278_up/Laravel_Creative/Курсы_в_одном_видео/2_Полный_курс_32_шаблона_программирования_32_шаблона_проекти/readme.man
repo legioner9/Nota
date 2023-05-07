@@ -1,0 +1,3 @@
+# [Laravel Creative](https://www.youtube.com/@laravelcreative/playlists)
+## [Курсы в одном видео](https://www.youtube.com/playlist?list=PLd2_Os8Cj3t-4eYFN0q6FqiXfGQeoFZwj)
+### [Полный курс 32 шаблона программирования, 32 шаблона проектирования с точки зрения PHP](https://www.youtube.com/watch?v=9X_f2ApKf9I&amp;list=PLd2_Os8Cj3t-4eYFN0q6FqiXfGQeoFZwj&amp;index=2&amp;pp=iAQB)

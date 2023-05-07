@@ -1,0 +1,3 @@
+# [Web Developer Blog](https://www.youtube.com/@SuprunAlexey/playlists)
+## [Интернет магазин на Magento 2](https://www.youtube.com/playlist?list=PLVfMKQXDAhGUUHZ3E7FwsrDXD9N56rQmZ)
+### [Делаем интернет магазин на Magento 2 с шаблоном Magetique](https://www.youtube.com/watch?v=phbElPR7rpk&amp;list=PLVfMKQXDAhGUUHZ3E7FwsrDXD9N56rQmZ&amp;index=1&amp;pp=iAQB)

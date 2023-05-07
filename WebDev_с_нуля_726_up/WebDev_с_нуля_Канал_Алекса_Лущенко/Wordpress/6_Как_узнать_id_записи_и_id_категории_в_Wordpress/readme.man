@@ -1,0 +1,3 @@
+# [WebDev с нуля. Канал Алекса Лущенко](https://www.youtube.com/@itgid/playlists)
+## [Wordpress](https://www.youtube.com/playlist?list=PLM7wFzahDYnE8HV_XzfwXMHmY6As2NLX9)
+### [Как узнать id записи и id категории в Wordpress](https://www.youtube.com/watch?v=ZTqdYTG1Tow&amp;list=PLM7wFzahDYnE8HV_XzfwXMHmY6As2NLX9&amp;index=6&amp;pp=iAQB)

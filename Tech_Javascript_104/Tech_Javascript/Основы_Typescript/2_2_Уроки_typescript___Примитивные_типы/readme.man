@@ -1,0 +1,3 @@
+# [Tech Javascript](https://www.youtube.com/@techjavascript/playlists)
+## [Основы Typescript](https://www.youtube.com/playlist?list=PLco1IpJXlada3EI5Pfsp7NZKrC_-oYDvY)
+### [2. Уроки typescript.   Примитивные типы](https://www.youtube.com/watch?v=WPIx3pidtMw&amp;list=PLco1IpJXlada3EI5Pfsp7NZKrC_-oYDvY&amp;index=2&amp;pp=iAQB)

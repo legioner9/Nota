@@ -1,0 +1,3 @@
+# [Traversy Media](https://www.youtube.com/@TraversyMedia/playlists)
+## [React Projects](https://www.youtube.com/playlist?list=PLillGF-RfqbY3c2r0htQyVbDJJoBFE6Rb)
+### [Build &amp; Deploy A React JS Text Generator App](https://www.youtube.com/watch?v=yU5DYccb77A&amp;list=PLillGF-RfqbY3c2r0htQyVbDJJoBFE6Rb&amp;index=10&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [Елена Литвинова — Искусство веб-разработки](https://www.youtube.com/@webelart/playlists)
+## [Программируем вместе](https://www.youtube.com/playlist?list=PLJpSkcgOK72D84l0Y1GLT5mNzuzpWzTf1)
+### [Адаптивная masonry сетка на чистом JS | HTML, CSS, JS](https://www.youtube.com/watch?v=8zaO8BoJVJg&amp;list=PLJpSkcgOK72D84l0Y1GLT5mNzuzpWzTf1&amp;index=11&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [TipoIT](https://www.youtube.com/@tipoit/playlists)
+## [PostgreSQL](https://www.youtube.com/playlist?list=PLTuGAOACdyjXwpokKckBJ2yccU2jCCgBj)
+### [PostgreSQL - Блокировка при неудачных попытках входа Fail2ban](https://www.youtube.com/watch?v=lfm_tE1DC2g&amp;list=PLTuGAOACdyjXwpokKckBJ2yccU2jCCgBj&amp;index=1&amp;pp=iAQB)

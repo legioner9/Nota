@@ -1,0 +1,2 @@
+### [Злой QA #1 - учимся писать JavaScript код](https://www.youtube.com/watch?v=OjAnLpxsDbM&amp;list=PLM7wFzahDYnGTubeO_o7DVAxqbMRvTqwO&amp;index=1&amp;pp=iAQB)
+### [Злой QA #2 -хейтим массивы в JS](https://www.youtube.com/watch?v=OXLa_72d9jk&amp;list=PLM7wFzahDYnGTubeO_o7DVAxqbMRvTqwO&amp;index=2&amp;pp=iAQB)

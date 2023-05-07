@@ -1,0 +1,3 @@
+# [WebDev с нуля. Канал Алекса Лущенко](https://www.youtube.com/@itgid/playlists)
+## [Сайт паролей на JavaScript](https://www.youtube.com/playlist?list=PLM7wFzahDYnHBR8aQsIe0EotpORzR_MmT)
+### [Получи курс по JavaScript бесплатно](https://www.youtube.com/watch?v=eZhoFLra3w8&amp;list=PLM7wFzahDYnHBR8aQsIe0EotpORzR_MmT&amp;index=5&amp;pp=iAQB)

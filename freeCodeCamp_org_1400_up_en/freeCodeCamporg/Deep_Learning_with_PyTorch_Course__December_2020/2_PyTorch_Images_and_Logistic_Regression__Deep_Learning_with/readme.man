@@ -1,0 +1,3 @@
+# [freeCodeCamp.org](https://www.youtube.com/@freecodecamp/playlists)
+## [Deep Learning with PyTorch Course - December 2020](https://www.youtube.com/playlist?list=PLWKjhJtqVAbm5dir5TLEy2aZQMG7cHEZp)
+### [PyTorch Images and Logistic Regression | Deep Learning with PyTorch: Zero to GANs | Part 2 of 6](https://www.youtube.com/watch?v=uuuzvOEC0zw&amp;list=PLWKjhJtqVAbm5dir5TLEy2aZQMG7cHEZp&amp;index=2&amp;pp=iAQB)

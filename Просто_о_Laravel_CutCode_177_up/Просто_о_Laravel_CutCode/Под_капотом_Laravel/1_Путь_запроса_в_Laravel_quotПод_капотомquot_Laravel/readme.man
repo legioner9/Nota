@@ -1,0 +1,3 @@
+# [Просто о Laravel. CutCode](https://www.youtube.com/@CutCodeRu/playlists)
+## ["Под капотом" Laravel](https://www.youtube.com/playlist?list=PLTucyHptHtTnkmEwK0Yxxl-L9Z_8XOK6c)
+### [Путь запроса в Laravel. &quot;Под капотом&quot; Laravel](https://www.youtube.com/watch?v=LZqEMQgpYWg&amp;list=PLTucyHptHtTnkmEwK0Yxxl-L9Z_8XOK6c&amp;index=1&amp;pp=iAQB)

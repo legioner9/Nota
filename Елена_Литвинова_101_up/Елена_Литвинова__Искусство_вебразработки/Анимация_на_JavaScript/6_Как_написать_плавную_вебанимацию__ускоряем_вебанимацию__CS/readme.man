@@ -1,0 +1,3 @@
+# [Елена Литвинова — Искусство веб-разработки](https://www.youtube.com/@webelart/playlists)
+## [Анимация на JavaScript](https://www.youtube.com/playlist?list=PLJpSkcgOK72CAFsq16LGAGX3jrO_0_Ku2)
+### [Как написать плавную веб-анимацию | ускоряем веб-анимацию | CSS + JS](https://www.youtube.com/watch?v=Vva9L_QJwrc&amp;list=PLJpSkcgOK72CAFsq16LGAGX3jrO_0_Ku2&amp;index=6&amp;pp=iAQB)

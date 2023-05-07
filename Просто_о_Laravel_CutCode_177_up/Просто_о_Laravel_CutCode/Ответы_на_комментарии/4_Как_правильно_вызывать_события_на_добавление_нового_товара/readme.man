@@ -1,0 +1,3 @@
+# [Просто о Laravel. CutCode](https://www.youtube.com/@CutCodeRu/playlists)
+## [Ответы на комментарии](https://www.youtube.com/playlist?list=PLTucyHptHtTmgu1gmtSCpW7MrVU4jUwFV)
+### [Как правильно вызывать события на добавление нового товара. Интернет магазин на Laravel](https://www.youtube.com/watch?v=tO1xET_cpnc&amp;list=PLTucyHptHtTmgu1gmtSCpW7MrVU4jUwFV&amp;index=4&amp;pp=iAQB)

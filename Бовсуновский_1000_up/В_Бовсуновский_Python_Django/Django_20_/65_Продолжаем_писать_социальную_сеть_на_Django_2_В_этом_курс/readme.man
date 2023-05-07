@@ -1,0 +1,3 @@
+# [В. Бовсуновский Python Django](https://www.youtube.com/@bov/playlists?view=1)
+## [Django 2.0 +](https://www.youtube.com/playlist?list=PLuZJ9n46uMzX_fLNv-OLXjJorYUGqLlYP)
+### [Продолжаем писать социальную сеть на Django 2. В этом курсе 8 напишем автозаполнение slug и лайки.](https://www.youtube.com/watch?v=UIJJNd0ttrk&amp;list=PLuZJ9n46uMzX_fLNv-OLXjJorYUGqLlYP&amp;index=65&amp;pp=iAQB)

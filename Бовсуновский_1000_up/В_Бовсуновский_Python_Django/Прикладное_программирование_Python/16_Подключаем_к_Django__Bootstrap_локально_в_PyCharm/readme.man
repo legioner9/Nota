@@ -1,0 +1,3 @@
+# [В. Бовсуновский Python Django](https://www.youtube.com/@bov/playlists?view=1)
+## [Прикладное программирование Python.](https://www.youtube.com/playlist?list=PLuZJ9n46uMzX---cfRMYZgEDePohvo8dp)
+### [Подключаем к Django  Bootstrap локально в PyCharm.](https://www.youtube.com/watch?v=5ENEFXq2pnU&amp;list=PLuZJ9n46uMzX---cfRMYZgEDePohvo8dp&amp;index=16&amp;pp=iAQB)

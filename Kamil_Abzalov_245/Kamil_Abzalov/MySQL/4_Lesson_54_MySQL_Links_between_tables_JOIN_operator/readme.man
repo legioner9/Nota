@@ -1,0 +1,3 @@
+# [Kamil Abzalov](https://www.youtube.com/@Kamil-abzalovRu/playlists)
+## [MySQL](https://www.youtube.com/playlist?list=PLOpdT8GIZ4XWfbzVNI7Le0LnItZPO6Dzg)
+### [Lesson 54. MySQL. Links between tables. JOIN operator](https://www.youtube.com/watch?v=EOdgS9cSaZo&amp;list=PLOpdT8GIZ4XWfbzVNI7Le0LnItZPO6Dzg&amp;index=4&amp;pp=iAQB)

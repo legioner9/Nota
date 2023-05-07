@@ -1,0 +1,3 @@
+# [Traversy Media](https://www.youtube.com/@TraversyMedia/playlists)
+## [JavaScript ES6 / ES2015 Tutorials](https://www.youtube.com/playlist?list=PLillGF-RfqbZ7s3t6ZInY3NjEOOX7hsBv)
+### [JavaScript ES6 / ES2015 - [02] Compile ES6 With Babel](https://www.youtube.com/watch?v=sZ0z7B7QmjI&amp;list=PLillGF-RfqbZ7s3t6ZInY3NjEOOX7hsBv&amp;index=2&amp;pp=iAQB)

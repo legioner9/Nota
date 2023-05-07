@@ -1,0 +1,3 @@
+# [Андрей Иванов | Python](https://www.youtube.com/@PythononPapyrusRU/playlists)
+## [Рефакторинг](https://www.youtube.com/playlist?list=PLF4MWzDJPFSZDrGVymctlWMmzKXPOJN8N)
+### [УЛУЧШЕНИЕ WEB API В PYTHON. СДЕЛАЙ СВОИ ОТВЕТЫ(RESPONSE) ЛУЧШЕ!](https://www.youtube.com/watch?v=eTn-LXSH7B8&amp;list=PLF4MWzDJPFSZDrGVymctlWMmzKXPOJN8N&amp;index=16&amp;pp=iAQB)

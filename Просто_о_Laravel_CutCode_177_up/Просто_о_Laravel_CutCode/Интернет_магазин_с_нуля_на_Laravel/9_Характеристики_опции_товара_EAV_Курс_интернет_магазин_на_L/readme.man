@@ -1,0 +1,3 @@
+# [Просто о Laravel. CutCode](https://www.youtube.com/@CutCodeRu/playlists)
+## [Интернет магазин с нуля на Laravel](https://www.youtube.com/playlist?list=PLTucyHptHtTkveNJf17ypoZoG3pdnvs6v)
+### [Характеристики, опции товара. EAV. Курс интернет магазин на Laravel. Этап 6.](https://www.youtube.com/watch?v=zcTDe66Ppus&amp;list=PLTucyHptHtTkveNJf17ypoZoG3pdnvs6v&amp;index=9&amp;pp=iAQB)

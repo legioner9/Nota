@@ -1,0 +1,3 @@
+# [Просто о Laravel. CutCode](https://www.youtube.com/@CutCodeRu/playlists)
+## [Разбор проектов](https://www.youtube.com/playlist?list=PLTucyHptHtTm_f-K9FYMMy_DWG4szfmuo)
+### [Обзор проекта на Laravel. Платформа для обучающих курсов CutCode. Курс по SOLID](https://www.youtube.com/watch?v=FPuP-E_rcbk&amp;list=PLTucyHptHtTm_f-K9FYMMy_DWG4szfmuo&amp;index=1&amp;pp=iAQB)

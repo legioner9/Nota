@@ -1,0 +1,7 @@
+### [Как подключить PayPal \ Принимаем платежи на сайте](https://www.youtube.com/watch?v=fceEAllirH0&amp;list=PLB8wmVoWIIx4yDM-bFmqnMlkxpw6CuIeh&amp;index=1&amp;pp=iAQB)
+### [Как подключить Block.io на PHP \ Принимаем платежи на сайте \ Часть 2](https://www.youtube.com/watch?v=vSVCKM-ZY6A&amp;list=PLB8wmVoWIIx4yDM-bFmqnMlkxpw6CuIeh&amp;index=2&amp;pp=iAQB)
+### [Как подключить Block.io на PHP \ Принимаем платежи на сайте \ Часть 1](https://www.youtube.com/watch?v=F6pTT_Bfo4w&amp;list=PLB8wmVoWIIx4yDM-bFmqnMlkxpw6CuIeh&amp;index=3&amp;pp=iAQB)
+### [Авто платежи (выплаты) через Payeer на PHP](https://www.youtube.com/watch?v=nYBtq2Uxw9w&amp;list=PLB8wmVoWIIx4yDM-bFmqnMlkxpw6CuIeh&amp;index=4&amp;pp=iAQB)
+### [Как подключить Payeer на PHP \ Принимаем платежи на сайте](https://www.youtube.com/watch?v=dkuxbiivAuA&amp;list=PLB8wmVoWIIx4yDM-bFmqnMlkxpw6CuIeh&amp;index=5&amp;pp=iAQB)
+### [Авто платежи (выплаты) BitCoin, DogeCoin, LiteCoin через Block.io на PHP](https://www.youtube.com/watch?v=jH_2AHn3isg&amp;list=PLB8wmVoWIIx4yDM-bFmqnMlkxpw6CuIeh&amp;index=6&amp;pp=iAQB)
+### [Как подключить Advanced Cash на PHP \ Принимаем платежи на сайте](https://www.youtube.com/watch?v=TEQuNY0-Bao&amp;list=PLB8wmVoWIIx4yDM-bFmqnMlkxpw6CuIeh&amp;index=7&amp;pp=iAQB)

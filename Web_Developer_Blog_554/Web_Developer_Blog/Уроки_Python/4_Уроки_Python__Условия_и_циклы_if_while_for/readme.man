@@ -1,0 +1,3 @@
+# [Web Developer Blog](https://www.youtube.com/@SuprunAlexey/playlists)
+## [Уроки Python](https://www.youtube.com/playlist?list=PLVfMKQXDAhGXkktAHT_z_vz-KGyy1RLX9)
+### [Уроки Python - Условия и циклы if, while, for](https://www.youtube.com/watch?v=P0-jowMUwNk&amp;list=PLVfMKQXDAhGXkktAHT_z_vz-KGyy1RLX9&amp;index=4&amp;pp=iAQB)

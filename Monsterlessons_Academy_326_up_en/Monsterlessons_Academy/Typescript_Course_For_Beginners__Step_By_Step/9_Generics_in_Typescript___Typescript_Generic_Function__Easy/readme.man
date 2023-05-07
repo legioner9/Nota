@@ -1,0 +1,3 @@
+# [Monsterlessons Academy](https://www.youtube.com/@MonsterlessonsAcademy/playlists)
+## [Typescript Course For Beginners - Step By Step](https://www.youtube.com/playlist?list=PLEjh-YiSBCDJcayJNll1NjCOKMcIO4L0T)
+### [Generics in Typescript  | Typescript Generic Function - Easy Explained](https://www.youtube.com/watch?v=i08-2F6MUJk&amp;list=PLEjh-YiSBCDJcayJNll1NjCOKMcIO4L0T&amp;index=9&amp;pp=iAQB)

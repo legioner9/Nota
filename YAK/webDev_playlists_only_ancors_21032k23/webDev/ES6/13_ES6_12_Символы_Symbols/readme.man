@@ -1,0 +1,3 @@
+# [webDev](https://www.youtube.com/@YauhenKavalchuk/playlists?view=1)
+## [ES6](https://www.youtube.com/playlist?list=PLNkWIWHIRwMGLJXugVvdK7i8UagGQNaXD)
+### [ES6 #12 Символы (Symbols)](https://www.youtube.com/watch?v=XTrXDgc7oHo&amp;list=PLNkWIWHIRwMGLJXugVvdK7i8UagGQNaXD&amp;index=13)

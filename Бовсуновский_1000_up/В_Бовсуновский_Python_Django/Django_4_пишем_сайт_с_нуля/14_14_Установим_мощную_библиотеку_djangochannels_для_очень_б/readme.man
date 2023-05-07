@@ -1,0 +1,3 @@
+# [В. Бовсуновский Python Django](https://www.youtube.com/@bov/playlists?view=1)
+## [Django 4 пишем сайт с нуля.](https://www.youtube.com/playlist?list=PLuZJ9n46uMzXVj9JEjULImuBKRVKKS9To)
+### [14. Установим мощную библиотеку django-channels, для очень быстрой работы асинхронных приложений.](https://www.youtube.com/watch?v=TJy4SCFNMmA&amp;list=PLuZJ9n46uMzXVj9JEjULImuBKRVKKS9To&amp;index=14&amp;pp=iAQB)

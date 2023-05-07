@@ -1,0 +1,2 @@
+### [Денис Панин, Практическое метапрограммирование: пишем гетерогенную хэш-таблицу](https://www.youtube.com/watch?v=8ihLJFkrZvU&amp;list=PLZN9ZGiWZoZpCwI_MQQ0TfRUAH0YIR9Bo&amp;index=1&amp;pp=iAQB)
+### [Встреча C++ User Group в Москве: Василий Куликов, Умри, но обработай: пишем отказоустойчивый сервис](https://www.youtube.com/watch?v=fFyN_NLVL-o&amp;list=PLZN9ZGiWZoZpCwI_MQQ0TfRUAH0YIR9Bo&amp;index=2&amp;pp=iAQB)

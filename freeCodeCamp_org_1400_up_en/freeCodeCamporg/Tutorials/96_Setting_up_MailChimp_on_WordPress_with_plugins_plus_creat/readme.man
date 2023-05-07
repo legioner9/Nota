@@ -1,0 +1,3 @@
+# [freeCodeCamp.org](https://www.youtube.com/@freecodecamp/playlists)
+## [Tutorials](https://www.youtube.com/playlist?list=PLWKjhJtqVAbmDGFE_pZ-PDJ1GWe3KtT-M)
+### [Setting up MailChimp on WordPress with plugins (plus creating a MailChimp landing page)](https://www.youtube.com/watch?v=BK9iHnkr9nM&amp;list=PLWKjhJtqVAbmDGFE_pZ-PDJ1GWe3KtT-M&amp;index=96&amp;pp=iAQB)

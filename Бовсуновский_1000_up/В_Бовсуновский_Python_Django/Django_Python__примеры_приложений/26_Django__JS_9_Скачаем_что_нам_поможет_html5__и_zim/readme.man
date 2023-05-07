@@ -1,0 +1,3 @@
+# [В. Бовсуновский Python Django](https://www.youtube.com/@bov/playlists?view=1)
+## [Django (Python) - примеры приложений.](https://www.youtube.com/playlist?list=PLuZJ9n46uMzWGzluFgeUC6XPKzsv6IUOT)
+### [(Django + JS) 9. Скачаем, что нам поможет html5 + и zim](https://www.youtube.com/watch?v=f_4AIi1M1xQ&amp;list=PLuZJ9n46uMzWGzluFgeUC6XPKzsv6IUOT&amp;index=26&amp;pp=iAQB)

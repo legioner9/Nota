@@ -1,3 +1,0 @@
-# [Exploring the IT World / Oleg Shpagin / WISEPLAT](https://www.youtube.com/@wiseplat/playlists)
-## [Виртуальные машины / Уроки](https://www.youtube.com/playlist?list=PLxiU3nwEQ4PHyEpO6szF0Aypg9I41yr8r)
-### [Windows 10 установка роли Hyper-V для виртуальных серверов | машин / Уроки администрирования](https://www.youtube.com/watch?v=u2WZDiuNha4&amp;list=PLxiU3nwEQ4PHyEpO6szF0Aypg9I41yr8r&amp;index=5)

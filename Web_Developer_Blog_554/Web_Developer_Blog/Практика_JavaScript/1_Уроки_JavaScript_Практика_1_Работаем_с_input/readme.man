@@ -1,0 +1,3 @@
+# [Web Developer Blog](https://www.youtube.com/@SuprunAlexey/playlists)
+## [Практика JavaScript](https://www.youtube.com/playlist?list=PLVfMKQXDAhGW0p_BEEe47UkCgNoS_dyki)
+### [Уроки JavaScript Практика #1 Работаем с input](https://www.youtube.com/watch?v=JISFx18J7nc&amp;list=PLVfMKQXDAhGW0p_BEEe47UkCgNoS_dyki&amp;index=1&amp;pp=iAQB)

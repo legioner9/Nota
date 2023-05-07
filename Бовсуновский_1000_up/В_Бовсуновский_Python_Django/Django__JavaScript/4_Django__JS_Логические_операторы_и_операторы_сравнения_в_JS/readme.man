@@ -1,0 +1,3 @@
+# [В. Бовсуновский Python Django](https://www.youtube.com/@bov/playlists?view=1)
+## [Django + JavaScript](https://www.youtube.com/playlist?list=PLuZJ9n46uMzVrU0AP9_wUPmdzdr4MP4Wn)
+### [Django + JS. Логические операторы и операторы сравнения в JS.](https://www.youtube.com/watch?v=S7m7hw02FsE&amp;list=PLuZJ9n46uMzVrU0AP9_wUPmdzdr4MP4Wn&amp;index=4&amp;pp=iAQB)

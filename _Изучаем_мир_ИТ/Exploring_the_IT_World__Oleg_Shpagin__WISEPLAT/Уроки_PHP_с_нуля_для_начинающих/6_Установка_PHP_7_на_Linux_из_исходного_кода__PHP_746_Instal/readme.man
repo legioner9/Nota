@@ -1,3 +1,0 @@
-# [Exploring the IT World / Oleg Shpagin / WISEPLAT](https://www.youtube.com/@wiseplat/playlists)
-## [Уроки PHP с нуля для начинающих](https://www.youtube.com/playlist?list=PLxiU3nwEQ4PFvGkF-KPwPOCeKbU5zHumj)
-### [Установка PHP 7 на Linux из исходного кода - PHP 7.4.6 Install](https://www.youtube.com/watch?v=BwMJspIbkoo&amp;list=PLxiU3nwEQ4PFvGkF-KPwPOCeKbU5zHumj&amp;index=6)

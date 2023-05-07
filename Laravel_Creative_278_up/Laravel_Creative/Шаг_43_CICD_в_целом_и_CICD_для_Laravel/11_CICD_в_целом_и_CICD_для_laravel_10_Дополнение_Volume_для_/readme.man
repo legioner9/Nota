@@ -1,0 +1,3 @@
+# [Laravel Creative](https://www.youtube.com/@laravelcreative/playlists)
+## [Шаг 4.3. CI/CD в целом и CI/CD для Laravel](https://www.youtube.com/playlist?list=PLd2_Os8Cj3t8foG_gKb31q7xnAtaOCFBw)
+### [CI/CD в целом и CI/CD для laravel 10. Дополнение. Volume для бд, чтобы данные не терялись](https://www.youtube.com/watch?v=PMV_2ow-zxw&amp;list=PLd2_Os8Cj3t8foG_gKb31q7xnAtaOCFBw&amp;index=11&amp;pp=iAQB)

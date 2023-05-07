@@ -1,0 +1,3 @@
+# [Андрей Иванов | Python](https://www.youtube.com/@PythononPapyrusRU/playlists)
+## [Django, Джангo](https://www.youtube.com/playlist?list=PLF4MWzDJPFSYvv-OXvFR7RsQrzgBjRPnW)
+### [КАК ПИСАТЬ БИЗНЕС ЛОГИКУ В DJANGO PYTHON? КАК СОЗДАТЬ ПРАВИЛЬНЫЕ СЕРВИСЫ В DJANGO?](https://www.youtube.com/watch?v=bebMjH3R1sE&amp;list=PLF4MWzDJPFSYvv-OXvFR7RsQrzgBjRPnW&amp;index=12&amp;pp=iAQB)

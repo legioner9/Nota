@@ -1,0 +1,3 @@
+# [Сергей Сова](https://www.youtube.com/@sova/playlists)
+## [TalkStream](https://www.youtube.com/playlist?list=PLRXfqpDVC48YBxB71dx1YRKixd1_6AjmV)
+### [[TalkStream] #2 — Server-push, performance, загрузка данных и state manager](https://www.youtube.com/watch?v=iC_uJ2XYUdM&amp;list=PLRXfqpDVC48YBxB71dx1YRKixd1_6AjmV&amp;index=3&amp;pp=iAQB)

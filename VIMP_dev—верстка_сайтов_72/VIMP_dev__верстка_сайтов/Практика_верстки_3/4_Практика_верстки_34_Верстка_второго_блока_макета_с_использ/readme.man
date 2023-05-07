@@ -1,0 +1,3 @@
+# [VIMP dev — верстка сайтов](https://www.youtube.com/@VIMPdev/playlists)
+## [Практика верстки #3](https://www.youtube.com/playlist?list=PLBfQgL-XzhF2vTQdFGWrEXsp9-3Ke5rPj)
+### [Практика верстки. #3/4. Верстка второго блока макета с использованием SCSS. Анимация AOS | VIMP dev](https://www.youtube.com/watch?v=8Uvl2Dp1so0&amp;list=PLBfQgL-XzhF2vTQdFGWrEXsp9-3Ke5rPj&amp;index=4&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [WebDev с нуля. Канал Алекса Лущенко](https://www.youtube.com/@itgid/playlists)
+## [GIT для Старта](https://www.youtube.com/playlist?list=PLM7wFzahDYnGyD9i2f2-uqlV2idiGvEJD)
+### [Результаты &quot;3 курса Практический JavaScript бесплатно&quot;](https://www.youtube.com/watch?v=LbqUZtyCN00&amp;list=PLM7wFzahDYnGyD9i2f2-uqlV2idiGvEJD&amp;index=5&amp;pp=iAQB)

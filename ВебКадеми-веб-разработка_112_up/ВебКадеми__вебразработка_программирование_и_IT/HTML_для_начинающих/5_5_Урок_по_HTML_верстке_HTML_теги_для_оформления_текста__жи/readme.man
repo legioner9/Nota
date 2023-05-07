@@ -1,0 +1,3 @@
+# [ВебКадеми - веб-разработка, программирование и IT](https://www.youtube.com/@WebCademy/playlists?view=1&sort=dd&shelf_id=0)
+## [HTML для начинающих](https://www.youtube.com/playlist?list=PL1NBhQGGj46bA6cFVixqblUDXxso1ctAg)
+### [5. Урок по HTML верстке. HTML теги для оформления текста - жирный, курсив и другие начертания.](https://www.youtube.com/watch?v=zbUg3UsfUbo&amp;list=PL1NBhQGGj46bA6cFVixqblUDXxso1ctAg&amp;index=5&amp;pp=iAQB)

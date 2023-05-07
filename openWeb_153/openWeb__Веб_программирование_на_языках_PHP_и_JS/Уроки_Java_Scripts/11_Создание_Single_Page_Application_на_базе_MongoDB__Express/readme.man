@@ -1,0 +1,3 @@
+# [openWeb - Веб программирование на языках PHP и JS](https://www.youtube.com/@openweb-php/playlists)
+## [Уроки Java Scripts](https://www.youtube.com/playlist?list=PL-leL2miqjEbQmAmLfe9GHiMYdnzBMVoU)
+### [Создание Single Page Application на базе MongoDB + Express +Vue.js + Node.js](https://www.youtube.com/watch?v=euQ3kGSv5l0&amp;list=PL-leL2miqjEbQmAmLfe9GHiMYdnzBMVoU&amp;index=11&amp;pp=iAQB)

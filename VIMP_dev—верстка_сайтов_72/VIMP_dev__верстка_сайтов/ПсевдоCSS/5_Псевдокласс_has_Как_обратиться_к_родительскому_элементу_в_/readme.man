@@ -1,0 +1,3 @@
+# [VIMP dev — верстка сайтов](https://www.youtube.com/@VIMPdev/playlists)
+## [Псевдо-CSS](https://www.youtube.com/playlist?list=PLBfQgL-XzhF1tIgI3CevADw3n2ytrll-f)
+### [Псевдокласс :has. Как обратиться к родительскому элементу в CSS](https://www.youtube.com/watch?v=xW_agHv2B3o&amp;list=PLBfQgL-XzhF1tIgI3CevADw3n2ytrll-f&amp;index=5&amp;pp=iAQB)

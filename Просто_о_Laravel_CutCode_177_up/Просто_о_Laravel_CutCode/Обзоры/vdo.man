@@ -1,0 +1,5 @@
+### [Обзор компонента &quot;Расписание&quot; от cutcode.ru для проектов на laravel](https://www.youtube.com/watch?v=FTz4_2VTa54&amp;list=PLTucyHptHtTn2s92kAthwT5nCUCpVI9N7&amp;index=1&amp;pp=iAQB)
+### [Читабельный и поддерживаемый код. Рекомендации от Spatie](https://www.youtube.com/watch?v=uKHj03nJr78&amp;list=PLTucyHptHtTn2s92kAthwT5nCUCpVI9N7&amp;index=2&amp;pp=iAQB)
+### [Laracon Summer Online September 1st. Laravel Big Event Announcement](https://www.youtube.com/watch?v=1fBpyHk3KA0&amp;list=PLTucyHptHtTn2s92kAthwT5nCUCpVI9N7&amp;index=3&amp;pp=iAQB)
+### [Laracon online summer 2021. Обзор конференции по Laravel 1 сентября 2021](https://www.youtube.com/watch?v=b89eeM6O3K8&amp;list=PLTucyHptHtTn2s92kAthwT5nCUCpVI9N7&amp;index=4&amp;pp=iAQB)
+### [Laracon online summer 2021. Laravel conference review September 1, 2021. Part 2](https://www.youtube.com/watch?v=UeHiWTo8LBE&amp;list=PLTucyHptHtTn2s92kAthwT5nCUCpVI9N7&amp;index=5&amp;pp=iAQB)

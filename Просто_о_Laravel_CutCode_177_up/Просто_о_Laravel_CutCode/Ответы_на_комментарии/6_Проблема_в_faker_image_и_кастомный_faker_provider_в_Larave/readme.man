@@ -1,0 +1,3 @@
+# [Просто о Laravel. CutCode](https://www.youtube.com/@CutCodeRu/playlists)
+## [Ответы на комментарии](https://www.youtube.com/playlist?list=PLTucyHptHtTmgu1gmtSCpW7MrVU4jUwFV)
+### [Проблема в faker image и кастомный faker provider в Laravel](https://www.youtube.com/watch?v=n25h0dMqsr4&amp;list=PLTucyHptHtTmgu1gmtSCpW7MrVU4jUwFV&amp;index=6&amp;pp=iAQB)

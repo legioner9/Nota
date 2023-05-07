@@ -1,0 +1,7 @@
+### [Курс Sanctum с Vue для Laravel 0. Laravel/Sanctum установка и настройка. Принцип работы токенов](https://www.youtube.com/watch?v=tVjMUnG6KVA&amp;list=PLd2_Os8Cj3t9g9HYi_MyogUfuGeHMjFqF&amp;index=1&amp;pp=iAQB)
+### [Sanctum с Vue для Laravel 1. Laravel Sanctum с Postman. Получаем доступ к защищенному роуту](https://www.youtube.com/watch?v=U4_LwaYJTmI&amp;list=PLd2_Os8Cj3t9g9HYi_MyogUfuGeHMjFqF&amp;index=2&amp;pp=iAQB)
+### [Sanctum с Vue для Laravel 2. Создаем основу для SPA приложения для laravel sanctum](https://www.youtube.com/watch?v=2ZV-1_7jj6A&amp;list=PLd2_Os8Cj3t9g9HYi_MyogUfuGeHMjFqF&amp;index=3&amp;pp=iAQB)
+### [Sanctum с Vue для Laravel 3. Форма Login, авторизация с laravel sanctum  с интерфейса SPA Vue](https://www.youtube.com/watch?v=RDlc4G68IDM&amp;list=PLd2_Os8Cj3t9g9HYi_MyogUfuGeHMjFqF&amp;index=4&amp;pp=iAQB)
+### [Sanctum с Vue для Laravel 4. Регистрация и выход с laravel sanctum  с интерфейса SPA Vue](https://www.youtube.com/watch?v=6j_iACzH4PY&amp;list=PLd2_Os8Cj3t9g9HYi_MyogUfuGeHMjFqF&amp;index=5&amp;pp=iAQB)
+### [Sanctum с Vue для Laravel 5. Сохранение/Удаление токена из localStorage, прописываем редиректы](https://www.youtube.com/watch?v=5W7pZqd4n44&amp;list=PLd2_Os8Cj3t9g9HYi_MyogUfuGeHMjFqF&amp;index=6&amp;pp=iAQB)
+### [Sanctum с Vue для Laravel 6. beforeEach в router и interceptor response для редиректа при 401 и 419](https://www.youtube.com/watch?v=V-zPPPkO86Q&amp;list=PLd2_Os8Cj3t9g9HYi_MyogUfuGeHMjFqF&amp;index=7&amp;pp=iAQB)

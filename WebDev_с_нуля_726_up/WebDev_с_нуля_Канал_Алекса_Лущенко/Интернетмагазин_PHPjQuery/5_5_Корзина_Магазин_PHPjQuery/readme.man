@@ -1,0 +1,3 @@
+# [WebDev с нуля. Канал Алекса Лущенко](https://www.youtube.com/@itgid/playlists)
+## [Интернет-магазин PHP+jQuery](https://www.youtube.com/playlist?list=PLM7wFzahDYnEGeJq8sqlJLaZhJ8HQdbgT)
+### [5. Корзина. Магазин PHP+jQuery](https://www.youtube.com/watch?v=gSjkoeVinUk&amp;list=PLM7wFzahDYnEGeJq8sqlJLaZhJ8HQdbgT&amp;index=5&amp;pp=iAQB)

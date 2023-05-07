@@ -1,0 +1,3 @@
+# [WebDev с нуля. Канал Алекса Лущенко](https://www.youtube.com/@itgid/playlists)
+## [JavaScript Doctor](https://www.youtube.com/playlist?list=PLM7wFzahDYnH7M8UIoXRCbIO1i2ngcgqf)
+### [JavaScript Doctor. 3. Бесконечный массив](https://www.youtube.com/watch?v=uVXjXtJ4RrI&amp;list=PLM7wFzahDYnH7M8UIoXRCbIO1i2ngcgqf&amp;index=3&amp;pp=iAQB)

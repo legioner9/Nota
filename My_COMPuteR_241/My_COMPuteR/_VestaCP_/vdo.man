@@ -1,0 +1,4 @@
+### [Установка и удаление VestaCP в CentOS 7](https://www.youtube.com/watch?v=qYrFGx7Hbdo&amp;list=PLh1BaaL_XriNDow2LfunfWgoBkRX0hCFU&amp;index=1&amp;pp=iAQB)
+### [VestaCP - подробный обзор панели](https://www.youtube.com/watch?v=Hb-ktwbC9-c&amp;list=PLh1BaaL_XriNDow2LfunfWgoBkRX0hCFU&amp;index=2&amp;pp=iAQB)
+### [VestaCP - пошаговая установка сайта](https://www.youtube.com/watch?v=NLqaIlnEi5o&amp;list=PLh1BaaL_XriNDow2LfunfWgoBkRX0hCFU&amp;index=3&amp;pp=iAQB)
+### [Сертификат Let's Encrypt для панели VestaCP](https://www.youtube.com/watch?v=_hilPNmStgM&amp;list=PLh1BaaL_XriNDow2LfunfWgoBkRX0hCFU&amp;index=4&amp;pp=iAQB)

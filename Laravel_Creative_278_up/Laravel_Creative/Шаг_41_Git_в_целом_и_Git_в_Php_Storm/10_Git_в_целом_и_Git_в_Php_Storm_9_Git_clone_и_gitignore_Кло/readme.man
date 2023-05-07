@@ -1,0 +1,3 @@
+# [Laravel Creative](https://www.youtube.com/@laravelcreative/playlists)
+## [Шаг 4.1. Git в целом и Git в Php Storm](https://www.youtube.com/playlist?list=PLd2_Os8Cj3t_NscvtE9xd0QATeYy-kNCU)
+### [Git в целом и Git в Php Storm 9. Git clone и .gitignore. Клонируем проект с github и gitlab](https://www.youtube.com/watch?v=6fHsk1v3qys&amp;list=PLd2_Os8Cj3t_NscvtE9xd0QATeYy-kNCU&amp;index=10&amp;pp=iAQB)

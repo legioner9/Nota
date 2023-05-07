@@ -1,0 +1,2 @@
+### [Брокер сообщений RabbitMQ: Часть 1. Установка и настройка отказоустойчевого кластера](https://www.youtube.com/watch?v=XiyXOMYoXAw&amp;list=PLsMIccp52YRsVg9nVWhsqTixMLOrVovEU&amp;index=1&amp;pp=iAQB)
+### [Брокер сообщений RabbitMQ: Часть 2. Базовые понятия и примеры использования](https://www.youtube.com/watch?v=1UfVZVr39Cg&amp;list=PLsMIccp52YRsVg9nVWhsqTixMLOrVovEU&amp;index=2&amp;pp=iAQB)

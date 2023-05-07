@@ -1,0 +1,3 @@
+# [Михаил Федосеев](https://www.youtube.com/@fedoseevm/playlists)
+## [Курс обучения Qt с нуля](https://www.youtube.com/playlist?list=PLYQhNajy-JUHMXJ_7TR4zW19vnU78CFPb)
+### [Создание первой программы в Qt Creator](https://www.youtube.com/watch?v=NlBlcAWAtAg&amp;list=PLYQhNajy-JUHMXJ_7TR4zW19vnU78CFPb&amp;index=1&amp;pp=iAQB)

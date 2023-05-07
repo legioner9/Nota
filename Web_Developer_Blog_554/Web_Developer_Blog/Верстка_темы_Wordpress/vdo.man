@@ -1,0 +1,2 @@
+### [Как сделать тему Wordpress. Верстка темы с нуля.](https://www.youtube.com/watch?v=ZUSUHW-Uy6s&amp;list=PLVfMKQXDAhGVMy7d9lgIWBhbZYx6uVWPD&amp;index=1&amp;pp=iAQB)
+### [Создаем тему Wordpress с нуля на Bootstrap](https://www.youtube.com/watch?v=vV0Cf_l0CNo&amp;list=PLVfMKQXDAhGVMy7d9lgIWBhbZYx6uVWPD&amp;index=2&amp;pp=iAQB)

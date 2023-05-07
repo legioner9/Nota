@@ -1,0 +1,3 @@
+# [Tech Javascript](https://www.youtube.com/@techjavascript/playlists)
+## [Javascript от новичка и до первой работы. Блок 3. Frontend with React js](https://www.youtube.com/playlist?list=PLco1IpJXladYKtXL9ppvHEMd8fQsTdCYm)
+### [11. Реализуем запрос на сервер с помощью axios instance в нашем проэкте React js](https://www.youtube.com/watch?v=tw_2DoADWEY&amp;list=PLco1IpJXladYKtXL9ppvHEMd8fQsTdCYm&amp;index=11&amp;pp=iAQB)

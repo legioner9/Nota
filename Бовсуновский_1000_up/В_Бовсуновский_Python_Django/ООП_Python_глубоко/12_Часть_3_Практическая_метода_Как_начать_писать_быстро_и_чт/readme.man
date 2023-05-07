@@ -1,0 +1,3 @@
+# [В. Бовсуновский Python Django](https://www.youtube.com/@bov/playlists?view=1)
+## [ООП Python глубоко.](https://www.youtube.com/playlist?list=PLuZJ9n46uMzXkD4T4F54FJNTGSZho90GB)
+### [Часть 3. Практическая метода. Как начать писать быстро и что есть начало в ООП Python?](https://www.youtube.com/watch?v=XBOp7i7pFLU&amp;list=PLuZJ9n46uMzXkD4T4F54FJNTGSZho90GB&amp;index=12&amp;pp=iAQB)

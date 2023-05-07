@@ -1,0 +1,3 @@
+# [Kamil Abzalov](https://www.youtube.com/@Kamil-abzalovRu/playlists)
+## [Angular](https://www.youtube.com/playlist?list=PLOpdT8GIZ4XW1uChCdIu9PkNuK4iHtWQC)
+### [Lesson 200. Angular. Change detection](https://www.youtube.com/watch?v=ETAVdBtwJSY&amp;list=PLOpdT8GIZ4XW1uChCdIu9PkNuK4iHtWQC&amp;index=11&amp;pp=iAQB)

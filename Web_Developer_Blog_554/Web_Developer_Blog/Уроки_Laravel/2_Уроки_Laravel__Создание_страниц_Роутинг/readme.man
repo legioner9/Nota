@@ -1,0 +1,3 @@
+# [Web Developer Blog](https://www.youtube.com/@SuprunAlexey/playlists)
+## [Уроки Laravel](https://www.youtube.com/playlist?list=PLVfMKQXDAhGUO-r2UPv3VszEwn_edFVC6)
+### [Уроки Laravel - Создание страниц. Роутинг](https://www.youtube.com/watch?v=Mwten5cBxg4&amp;list=PLVfMKQXDAhGUO-r2UPv3VszEwn_edFVC6&amp;index=2&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [Kamil Abzalov](https://www.youtube.com/@Kamil-abzalovRu/playlists)
+## [AngularJS](https://www.youtube.com/playlist?list=PLOpdT8GIZ4XXCTI-GGObOko6NkZrQjuJd)
+### [Lesson 82. Angular filters. Create your own filters](https://www.youtube.com/watch?v=gkufoz0sjCE&amp;list=PLOpdT8GIZ4XXCTI-GGObOko6NkZrQjuJd&amp;index=5&amp;pp=iAQB)

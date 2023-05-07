@@ -1,0 +1,6 @@
+### [Deep Learning with PyTorch Live Course - Tensors, Gradient Descent &amp; Linear Regression (Part 1 of 6)](https://www.youtube.com/watch?v=vo_fUOk-IKk&amp;list=PLWKjhJtqVAbm3T2Eq1_KgloC7ogdXxdRa&amp;index=1&amp;pp=iAQB)
+### [Deep Learning with PyTorch Live Course - Working with Images &amp; Logistic Regression (Part 2 of 6)](https://www.youtube.com/watch?v=4ZZrP68yXCI&amp;list=PLWKjhJtqVAbm3T2Eq1_KgloC7ogdXxdRa&amp;index=2&amp;pp=iAQB)
+### [Deep Learning with PyTorch Live Course - Training Deep Neural Networks on GPUs (Part 3 of 6)](https://www.youtube.com/watch?v=9suSsTVhYuw&amp;list=PLWKjhJtqVAbm3T2Eq1_KgloC7ogdXxdRa&amp;index=3&amp;pp=iAQB)
+### [Deep Learning with PyTorch Live Course - Image Classification with CNNs (Part 4 of 6)](https://www.youtube.com/watch?v=TN9fMYQxw4E&amp;list=PLWKjhJtqVAbm3T2Eq1_KgloC7ogdXxdRa&amp;index=4&amp;pp=iAQB)
+### [Deep Learning with PyTorch Live Course - ResNet, Regularization and Data Augmentation (Part 5 of 6)](https://www.youtube.com/watch?v=sJF6PiAjE1M&amp;list=PLWKjhJtqVAbm3T2Eq1_KgloC7ogdXxdRa&amp;index=5&amp;pp=iAQB)
+### [Deep Learning with PyTorch Live Course - GANs for Image Generation (Part 6 of 6)](https://www.youtube.com/watch?v=ABaZ_tecZ3U&amp;list=PLWKjhJtqVAbm3T2Eq1_KgloC7ogdXxdRa&amp;index=6&amp;pp=iAQB)

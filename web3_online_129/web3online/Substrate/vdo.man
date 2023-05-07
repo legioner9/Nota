@@ -1,0 +1,2 @@
+### [Create blockchain. charity network using rust lang and substrate framework](https://www.youtube.com/watch?v=3cdutSLaAIo&amp;list=PLnalMG3z2RzH0ML30pGvmFBDX1I8f4Zjm&amp;index=1&amp;pp=iAQB)
+### [Substrate simple token chain](https://www.youtube.com/watch?v=OULxISCVbYs&amp;list=PLnalMG3z2RzH0ML30pGvmFBDX1I8f4Zjm&amp;index=2&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [В. Бовсуновский Python Django](https://www.youtube.com/@bov/playlists?view=1)
+## [Python for Andoid](https://www.youtube.com/playlist?list=PLuZJ9n46uMzUhN970OOvoxm8pmECgAqLn)
+### [Python for Android. Назначение событий на языке kv.](https://www.youtube.com/watch?v=yRxnH1-pC3Y&amp;list=PLuZJ9n46uMzUhN970OOvoxm8pmECgAqLn&amp;index=34&amp;pp=iAQB)

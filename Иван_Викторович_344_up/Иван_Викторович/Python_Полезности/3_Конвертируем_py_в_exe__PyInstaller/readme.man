@@ -1,0 +1,3 @@
+# [Иван Викторович](https://www.youtube.com/@plugar_inf/playlists)
+## [Python. Полезности.](https://www.youtube.com/playlist?list=PLs2IpQwiXpT1YE9TfnXU7ek6HDXUZKc2d)
+### [Конвертируем .py в .exe | PyInstaller](https://www.youtube.com/watch?v=gmHIcqiCJ7Q&amp;list=PLs2IpQwiXpT1YE9TfnXU7ek6HDXUZKc2d&amp;index=3&amp;pp=iAQB)

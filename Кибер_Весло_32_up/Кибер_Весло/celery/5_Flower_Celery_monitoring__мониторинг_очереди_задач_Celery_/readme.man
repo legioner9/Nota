@@ -1,0 +1,3 @@
+# [Кибер Весло](https://www.youtube.com/@cyber-paddle/playlists)
+## [celery](https://www.youtube.com/playlist?list=PLIMYb25g876g6muopNjnGtDrOnDVqPCz6)
+### [Flower: Celery monitoring - мониторинг очереди задач Celery с помощью Flower + Prometheus +@Grafana](https://www.youtube.com/watch?v=akHTV-ZfxtM&amp;list=PLIMYb25g876g6muopNjnGtDrOnDVqPCz6&amp;index=5&amp;pp=iAQB)

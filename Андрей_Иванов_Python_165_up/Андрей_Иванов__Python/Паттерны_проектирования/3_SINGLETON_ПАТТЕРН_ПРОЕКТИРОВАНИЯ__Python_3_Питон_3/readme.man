@@ -1,0 +1,3 @@
+# [Андрей Иванов | Python](https://www.youtube.com/@PythononPapyrusRU/playlists)
+## [Паттерны проектирования](https://www.youtube.com/playlist?list=PLF4MWzDJPFSYeUtNQGDsS-XZDriJjFRL8)
+### [SINGLETON. ПАТТЕРН ПРОЕКТИРОВАНИЯ | Python 3, Питон 3](https://www.youtube.com/watch?v=fS5q0RSLLrg&amp;list=PLF4MWzDJPFSYeUtNQGDsS-XZDriJjFRL8&amp;index=3&amp;pp=iAQB)

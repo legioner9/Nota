@@ -1,0 +1,3 @@
+# [C++ User Group](https://www.youtube.com/@CUserGroupRussia/playlists)
+## [C++ Siberia 2019](https://www.youtube.com/playlist?list=PLZN9ZGiWZoZof_AvWub4hAk6Yg4U5rTpT)
+### [C++ Siberia 2019: Игнат Ворошилов, Возможности С++ для программирования микроконтроллеров](https://www.youtube.com/watch?v=2MQVKHMn7vw&amp;list=PLZN9ZGiWZoZof_AvWub4hAk6Yg4U5rTpT&amp;index=12&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [В. Бовсуновский Python Django](https://www.youtube.com/@bov/playlists?view=1)
+## [Kotlin](https://www.youtube.com/playlist?list=PLuZJ9n46uMzVVHB82xLSBpKlGyVb7H7fp)
+### [В Kotlin можно делать моб. приложения, сайты, сервисы, блокчейн и многое др.](https://www.youtube.com/watch?v=86bfqjAsmd8&amp;list=PLuZJ9n46uMzVVHB82xLSBpKlGyVb7H7fp&amp;index=19&amp;pp=iAQB)

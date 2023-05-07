@@ -1,0 +1,2 @@
+### [ВВЕДЕНИЕ В REACT #1](https://www.youtube.com/watch?v=FxbLdCrXpv4&amp;list=PLVdcV6tHcaCFM56Yz1R2ghB3dyqsdIo6R&amp;index=1&amp;pp=iAQB)
+### [ВВЕДЕНИЕ В REACT #2 // КОМПОНЕНТЫ](https://www.youtube.com/watch?v=XUju1nHkUFg&amp;list=PLVdcV6tHcaCFM56Yz1R2ghB3dyqsdIo6R&amp;index=2&amp;pp=iAQB)

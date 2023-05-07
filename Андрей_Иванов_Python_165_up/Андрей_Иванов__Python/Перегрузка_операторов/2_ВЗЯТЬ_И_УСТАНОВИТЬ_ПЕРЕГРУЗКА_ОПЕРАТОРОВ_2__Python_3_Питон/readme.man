@@ -1,0 +1,3 @@
+# [Андрей Иванов | Python](https://www.youtube.com/@PythononPapyrusRU/playlists)
+## [Перегрузка операторов](https://www.youtube.com/playlist?list=PLF4MWzDJPFSauCjnzXFHQVlgmPA8aerX1)
+### [ВЗЯТЬ И УСТАНОВИТЬ. ПЕРЕГРУЗКА ОПЕРАТОРОВ #2 | Python 3, Питон 3](https://www.youtube.com/watch?v=sEHtXFJDca8&amp;list=PLF4MWzDJPFSauCjnzXFHQVlgmPA8aerX1&amp;index=2&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [Василий Муравьев](https://www.youtube.com/@stackdev/playlists)
+## [Уроки Javascript для Начинающих 2022](https://www.youtube.com/playlist?list=PLtL3lrXPn2rXYAkRYdTKOQLRUW1Gdp4v2)
+### [Уроки Javascript #3. Поднятие переменных и объявлений функций (Hoisting).](https://www.youtube.com/watch?v=zeKkB7X5Kno&amp;list=PLtL3lrXPn2rXYAkRYdTKOQLRUW1Gdp4v2&amp;index=3&amp;pp=iAQB)

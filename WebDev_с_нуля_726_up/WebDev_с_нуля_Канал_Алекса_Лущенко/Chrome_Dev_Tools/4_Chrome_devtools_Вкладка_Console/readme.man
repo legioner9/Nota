@@ -1,0 +1,3 @@
+# [WebDev с нуля. Канал Алекса Лущенко](https://www.youtube.com/@itgid/playlists)
+## [Chrome Dev Tools](https://www.youtube.com/playlist?list=PLM7wFzahDYnHi6uWr8MWdwB72LmdyoyOB)
+### [Chrome devtools. Вкладка Console](https://www.youtube.com/watch?v=ZPzFNgV8hVA&amp;list=PLM7wFzahDYnHi6uWr8MWdwB72LmdyoyOB&amp;index=4&amp;pp=iAQB)

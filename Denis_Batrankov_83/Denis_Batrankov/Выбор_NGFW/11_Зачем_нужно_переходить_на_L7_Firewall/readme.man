@@ -1,0 +1,3 @@
+# [Denis Batrankov](https://www.youtube.com/@BDVSecurity/playlists)
+## [Выбор NGFW](https://www.youtube.com/playlist?list=PLRAbJA74qU4Dfqvd98foJernnF0dAy0yV)
+### [Зачем нужно переходить на L7 Firewall](https://www.youtube.com/watch?v=LTNFdlhIogQ&amp;list=PLRAbJA74qU4Dfqvd98foJernnF0dAy0yV&amp;index=11&amp;pp=iAQB)

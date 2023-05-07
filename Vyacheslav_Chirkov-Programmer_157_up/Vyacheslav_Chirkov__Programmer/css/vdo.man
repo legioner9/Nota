@@ -1,0 +1,4 @@
+### [Как сделать закруглённую рамку в css (border radius)](https://www.youtube.com/watch?v=IaQFZF9O4nk&amp;list=PLEjhu-KP5eiDQeC0x1obrpWd30u2vA91Q&amp;index=1&amp;pp=iAQB)
+### [Как сделать плавную линию (css + html)](https://www.youtube.com/watch?v=_M_L76mlNdU&amp;list=PLEjhu-KP5eiDQeC0x1obrpWd30u2vA91Q&amp;index=2&amp;pp=iAQB)
+### [Только HTML + CSS.  Анимации. Обучение.  Web programming.  1-ая часть.](https://www.youtube.com/watch?v=5aAI0Wu3ObQ&amp;list=PLEjhu-KP5eiDQeC0x1obrpWd30u2vA91Q&amp;index=3&amp;pp=iAQB)
+### [Что такое cPanel](https://www.youtube.com/watch?v=gFfa7_XNF5U&amp;list=PLEjhu-KP5eiDQeC0x1obrpWd30u2vA91Q&amp;index=4&amp;pp=iAQB)

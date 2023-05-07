@@ -1,0 +1,7 @@
+### [ЛУЧШИЙ ПАТТЕРН ДЛЯ МИКРОСЕРВИСОВ. CQRS ИЛИ РАЗДЕЛЕНИЕ ЧТЕНИЯ И ЗАПИСИ](https://www.youtube.com/watch?v=eAHOYZNMiQw&amp;list=PLF4MWzDJPFSbQ9qQjCLLipSiruQsLVyIG&amp;index=1&amp;pp=iAQB)
+### [САМАЯ УЖАСНАЯ ПРОБЛЕМА CRUD. РЕШАЕМ ЧЕРЕЗ EVENT SOURCING](https://www.youtube.com/watch?v=YRdEw484onU&amp;list=PLF4MWzDJPFSbQ9qQjCLLipSiruQsLVyIG&amp;index=2&amp;pp=iAQB)
+### [ИВЕНТЫ - ЭТО РЕШЕНИЕ! EVENT-DRIVEN АРХИТЕКТУРА В ПИТОНЕ](https://www.youtube.com/watch?v=xfL9jeDXMk0&amp;list=PLF4MWzDJPFSbQ9qQjCLLipSiruQsLVyIG&amp;index=3&amp;pp=iAQB)
+### [ЭТОТ ПАТТЕРН ВЕЗДЕ! БАЗЫ ДАННЫХ В МИКРОСЕРВИСАХ](https://www.youtube.com/watch?v=9sqDE4L_IVM&amp;list=PLF4MWzDJPFSbQ9qQjCLLipSiruQsLVyIG&amp;index=4&amp;pp=iAQB)
+### [EVENTS ПРОТИВ HTTP В МИКРОСЕРВИСАХ. ВЫБРАТЬ HTTP ИЛИ EVENTS В MICROSERVICES PYTHON?](https://www.youtube.com/watch?v=qdiPlhXkE70&amp;list=PLF4MWzDJPFSbQ9qQjCLLipSiruQsLVyIG&amp;index=5&amp;pp=iAQB)
+### [PyAssimilator - ЛУЧШИЕ ПАТТЕРНЫ ПИТОНА ДЛЯ ВАС](https://www.youtube.com/watch?v=VkO3nhXX90Y&amp;list=PLF4MWzDJPFSbQ9qQjCLLipSiruQsLVyIG&amp;index=6&amp;pp=iAQB)
+### [Как быстро писать хороший код на Питоне? PyAssimilator](https://www.youtube.com/watch?v=qMEzpeI-F7g&amp;list=PLF4MWzDJPFSbQ9qQjCLLipSiruQsLVyIG&amp;index=7&amp;pp=iAQB)

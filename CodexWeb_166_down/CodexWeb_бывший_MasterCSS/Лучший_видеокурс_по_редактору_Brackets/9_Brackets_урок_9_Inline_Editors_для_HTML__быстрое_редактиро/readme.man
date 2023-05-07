@@ -1,0 +1,3 @@
+# [CodexWeb (бывший Master-CSS)](https://www.youtube.com/@CodexWeb/playlists)
+## [Лучший видеокурс по редактору Brackets](https://www.youtube.com/playlist?list=PLPpaecEYRC8bGw3oj3ecnPjSe09r4bPyo)
+### [Brackets урок 9. Inline Editors для HTML - быстрое редактирование](https://www.youtube.com/watch?v=4ruATgFS7fo&amp;list=PLPpaecEYRC8bGw3oj3ecnPjSe09r4bPyo&amp;index=9&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [Елена Литвинова — Искусство веб-разработки](https://www.youtube.com/@webelart/playlists)
+## [Уроки JavaScript](https://www.youtube.com/playlist?list=PLJpSkcgOK72A7ky__8kHNckPpjHFQkC5m)
+### [Реализуем сортировку пузырьком + оптимизация + reverse](https://www.youtube.com/watch?v=aL2IFmEOeb4&amp;list=PLJpSkcgOK72A7ky__8kHNckPpjHFQkC5m&amp;index=20&amp;pp=iAQB)

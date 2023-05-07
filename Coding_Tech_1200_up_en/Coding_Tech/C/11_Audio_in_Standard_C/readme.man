@@ -1,0 +1,3 @@
+# [Coding Tech](https://www.youtube.com/@CodingTech/playlists)
+## [C++](https://www.youtube.com/playlist?list=PLFjq8z-aGyQ77zA5OkzNETLca4ad864Da)
+### [Audio in Standard C++](https://www.youtube.com/watch?v=UvRU25T_XOg&amp;list=PLFjq8z-aGyQ77zA5OkzNETLca4ad864Da&amp;index=11&amp;pp=iAQB)

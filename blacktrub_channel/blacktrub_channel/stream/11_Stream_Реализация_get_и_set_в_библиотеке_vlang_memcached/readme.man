@@ -1,3 +1,0 @@
-# [blacktrub channel](https://www.youtube.com/@blacktrub/playlists)
-## [stream](https://www.youtube.com/playlist?list=PLqJ-vFLoJOaG4tL3WQ4C_nCm7wfBdYvpV)
-### [[Stream] Реализация get и set в библиотеке vlang memcached](https://www.youtube.com/watch?v=Jw-kkoZp0_I&amp;list=PLqJ-vFLoJOaG4tL3WQ4C_nCm7wfBdYvpV&amp;index=11&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [Coding Tech](https://www.youtube.com/@CodingTech/playlists)
+## [GraphQL](https://www.youtube.com/playlist?list=PLFjq8z-aGyQ6vtpRRKHtJB7D8kvoJW19X)
+### [Building Realtime Serverless APIs with GraphQL and Azure](https://www.youtube.com/watch?v=0YOaYUYd2-s&amp;list=PLFjq8z-aGyQ6vtpRRKHtJB7D8kvoJW19X&amp;index=12&amp;pp=iAQB)

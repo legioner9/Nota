@@ -1,0 +1,4 @@
+### [Новое в PHP 8.0](https://www.youtube.com/watch?v=jE-ZrjiiV54&amp;list=PLVdcV6tHcaCHTcJ_9pK1kKY6jGdI0jm6B&amp;index=1&amp;pp=iAQB)
+### [Новое в PHP 7.4](https://www.youtube.com/watch?v=azES17UzQB8&amp;list=PLVdcV6tHcaCHTcJ_9pK1kKY6jGdI0jm6B&amp;index=2&amp;pp=iAQB)
+### [Новое в Laravel 9](https://www.youtube.com/watch?v=OU1bnSjXRgM&amp;list=PLVdcV6tHcaCHTcJ_9pK1kKY6jGdI0jm6B&amp;index=3&amp;pp=iAQB)
+### [Новое в PHP 8.2](https://www.youtube.com/watch?v=J2Lkss9gWYY&amp;list=PLVdcV6tHcaCHTcJ_9pK1kKY6jGdI0jm6B&amp;index=4&amp;pp=iAQB)

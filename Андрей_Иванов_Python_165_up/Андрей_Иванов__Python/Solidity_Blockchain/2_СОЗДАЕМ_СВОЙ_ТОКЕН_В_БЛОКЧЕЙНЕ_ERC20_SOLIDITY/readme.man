@@ -1,0 +1,3 @@
+# [Андрей Иванов | Python](https://www.youtube.com/@PythononPapyrusRU/playlists)
+## [Solidity, Blockchain](https://www.youtube.com/playlist?list=PLF4MWzDJPFSYaigLNaz-cfesV3pLA9caE)
+### [СОЗДАЕМ СВОЙ ТОКЕН В БЛОКЧЕЙНЕ. ERC20 SOLIDITY](https://www.youtube.com/watch?v=e6Z9H3gDcK4&amp;list=PLF4MWzDJPFSYaigLNaz-cfesV3pLA9caE&amp;index=2&amp;pp=iAQB)

@@ -1,0 +1,6 @@
+### [Cortex XDR](https://www.youtube.com/watch?v=KtMwizoSk9g&amp;list=PLRAbJA74qU4D1iAkyAR1rP94EkPFq_1go&amp;index=1&amp;pp=iAQB)
+### [XDR Paloaltonetworks](https://www.youtube.com/watch?v=76F37tp5_aw&amp;list=PLRAbJA74qU4D1iAkyAR1rP94EkPFq_1go&amp;index=2&amp;pp=iAQB)
+### [Как в 20 раз быстрее анализировать события в сети](https://www.youtube.com/watch?v=WGyQrlJTL5Q&amp;list=PLRAbJA74qU4D1iAkyAR1rP94EkPFq_1go&amp;index=3&amp;pp=iAQB)
+### [PAN TRAPS и Kaspersky Endpoint Security 10 вместе](https://www.youtube.com/watch?v=ASvDkOzt-Cc&amp;list=PLRAbJA74qU4D1iAkyAR1rP94EkPFq_1go&amp;index=4&amp;pp=iAQB)
+### [Как остановить криптолокер? Демонстрация Palo Alto Networks Threat Intelligence, Wildfire и TRAPS](https://www.youtube.com/watch?v=Z2jmzzZniMo&amp;list=PLRAbJA74qU4D1iAkyAR1rP94EkPFq_1go&amp;index=5&amp;pp=iAQB)
+### [Что такое  XDR и как он работает в Palo Alto Networks](https://www.youtube.com/watch?v=6UJoaJcrKy4&amp;list=PLRAbJA74qU4D1iAkyAR1rP94EkPFq_1go&amp;index=6&amp;pp=iAQB)

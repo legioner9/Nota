@@ -1,0 +1,3 @@
+# [C++ User Group](https://www.youtube.com/@CUserGroupRussia/playlists)
+## [C++ Siberia 2016](https://www.youtube.com/playlist?list=PLZN9ZGiWZoZoM3Dp0yg36SYcDMH2-h8pU)
+### [Иван Афанасьев | C++ performance testing tool. Анализ и практика](https://www.youtube.com/watch?v=K_YkyXeZ8tU&amp;list=PLZN9ZGiWZoZoM3Dp0yg36SYcDMH2-h8pU&amp;index=8&amp;pp=iAQB)

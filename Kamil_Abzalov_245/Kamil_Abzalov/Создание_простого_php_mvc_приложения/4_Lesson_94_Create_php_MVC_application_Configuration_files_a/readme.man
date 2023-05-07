@@ -1,0 +1,3 @@
+# [Kamil Abzalov](https://www.youtube.com/@Kamil-abzalovRu/playlists)
+## [Создание простого php mvc приложения](https://www.youtube.com/playlist?list=PLOpdT8GIZ4XU12DJ6RzN07CHIN0vDe2fl)
+### [Lesson 94. Create php MVC application. Configuration files and creating routing file](https://www.youtube.com/watch?v=7Zb7CP7O6Dc&amp;list=PLOpdT8GIZ4XU12DJ6RzN07CHIN0vDe2fl&amp;index=4&amp;pp=iAQB)

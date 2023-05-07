@@ -1,0 +1,3 @@
+# [Web Developer Blog](https://www.youtube.com/@SuprunAlexey/playlists)
+## [Уроки jQuery практика](https://www.youtube.com/playlist?list=PLVfMKQXDAhGV-wZwh_2uKTl3Ixk3v_Ptb)
+### [Уроки jQuery практика- как сделать кнопку наверх (back to top) как вконтакте](https://www.youtube.com/watch?v=d049Mr1WSFE&amp;list=PLVfMKQXDAhGV-wZwh_2uKTl3Ixk3v_Ptb&amp;index=3&amp;pp=iAQB)

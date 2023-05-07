@@ -1,0 +1,3 @@
+# [Traversy Media](https://www.youtube.com/@TraversyMedia/playlists)
+## [Build a Node.js App With Sequelize](https://www.youtube.com/playlist?list=PLillGF-RfqbZyLc9sMQ72_u3FW9fVxo1p)
+### [Build a Node.js App With Sequelize [1] - Connection &amp; Model](https://www.youtube.com/watch?v=bOHysWYMZM0&amp;list=PLillGF-RfqbZyLc9sMQ72_u3FW9fVxo1p&amp;index=1&amp;pp=iAQB)

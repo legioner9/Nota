@@ -1,0 +1,3 @@
+# [Monsterlessons Academy](https://www.youtube.com/@MonsterlessonsAcademy/playlists)
+## [Vue Tutorial for Beginners Step By Step - Full Course](https://www.youtube.com/playlist?list=PLEjh-YiSBCDLXVhTilIGHmTGzKGzQyjf9)
+### [Vue Events In Vue &amp; Two Way Binding](https://www.youtube.com/watch?v=W2CoVZWuIyo&amp;list=PLEjh-YiSBCDLXVhTilIGHmTGzKGzQyjf9&amp;index=5&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [Кибер Весло](https://www.youtube.com/@cyber-paddle/playlists)
+## [celery](https://www.youtube.com/playlist?list=PLIMYb25g876g6muopNjnGtDrOnDVqPCz6)
+### [Celery + Django + Docker = Cat Downloader - Demo-проект, демонстрирующий принципы работы Celery](https://www.youtube.com/watch?v=EUZJcy_dfCs&amp;list=PLIMYb25g876g6muopNjnGtDrOnDVqPCz6&amp;index=1&amp;pp=iAQB)

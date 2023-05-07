@@ -1,0 +1,3 @@
+# [WebDev с нуля. Канал Алекса Лущенко](https://www.youtube.com/@itgid/playlists)
+## [Курс ReactJS (Redux, deploy)](https://www.youtube.com/playlist?list=PLM7wFzahDYnHVWnTz-OMi0pXSLdAlAHte)
+### [Что нужно знать из JS перед React](https://www.youtube.com/watch?v=L3g0kje6Q8M&amp;list=PLM7wFzahDYnHVWnTz-OMi0pXSLdAlAHte&amp;index=14&amp;pp=iAQB)

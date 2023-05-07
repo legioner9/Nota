@@ -1,0 +1,3 @@
+# [Coding Tech](https://www.youtube.com/@CodingTech/playlists)
+## [Machine Learning](https://www.youtube.com/playlist?list=PLFjq8z-aGyQ5pDM0CYpsqRswZCrb91sF-)
+### [Future Proof Web Apps with Angular and TensorFlowJS](https://www.youtube.com/watch?v=C83yjcwEH10&amp;list=PLFjq8z-aGyQ5pDM0CYpsqRswZCrb91sF-&amp;index=59&amp;pp=iAQB)

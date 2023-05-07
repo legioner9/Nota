@@ -1,0 +1,3 @@
+# [Traversy Media](https://www.youtube.com/@TraversyMedia/playlists)
+## [React Projects](https://www.youtube.com/playlist?list=PLillGF-RfqbY3c2r0htQyVbDJJoBFE6Rb)
+### [Build a Keyword Extractor: React + OpenAI API + Chakra UI](https://www.youtube.com/watch?v=jJNPPP2YEdM&amp;list=PLillGF-RfqbY3c2r0htQyVbDJJoBFE6Rb&amp;index=39&amp;pp=iAQB)

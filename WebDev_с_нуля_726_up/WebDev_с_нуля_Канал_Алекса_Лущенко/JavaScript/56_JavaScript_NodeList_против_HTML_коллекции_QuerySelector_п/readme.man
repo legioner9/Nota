@@ -1,0 +1,3 @@
+# [WebDev с нуля. Канал Алекса Лущенко](https://www.youtube.com/@itgid/playlists)
+## [JavaScript](https://www.youtube.com/playlist?list=PLM7wFzahDYnFgidfuPh_-XAv06YDwQVBs)
+### [JavaScript. NodeList против HTML коллекции. QuerySelector против getElementsByTagName](https://www.youtube.com/watch?v=5dCBk_JDZFI&amp;list=PLM7wFzahDYnFgidfuPh_-XAv06YDwQVBs&amp;index=56&amp;pp=iAQB)

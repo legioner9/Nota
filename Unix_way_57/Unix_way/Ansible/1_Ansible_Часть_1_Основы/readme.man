@@ -1,0 +1,3 @@
+# [Unix way](https://www.youtube.com/@unixway4196/playlists)
+## [Ansible](https://www.youtube.com/playlist?list=PLsMIccp52YRv3KfQP2Zd72phtYZhoLTw9)
+### [Ansible. Часть 1. Основы](https://www.youtube.com/watch?v=n27bpkAtyf4&amp;list=PLsMIccp52YRv3KfQP2Zd72phtYZhoLTw9&amp;index=1&amp;pp=iAQB)

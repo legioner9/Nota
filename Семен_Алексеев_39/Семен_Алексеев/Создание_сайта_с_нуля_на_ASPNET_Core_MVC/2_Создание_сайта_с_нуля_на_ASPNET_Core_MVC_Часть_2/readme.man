@@ -1,0 +1,3 @@
+# [Семен Алексеев](https://www.youtube.com/@alekseev74/playlists)
+## [Создание сайта с нуля на ASP.NET Core MVC](https://www.youtube.com/playlist?list=PLUTrDHuvZc4EDn8K9czBDuaZ7bQfeQ-Am)
+### [Создание сайта с нуля на ASP.NET Core MVC. Часть 2.](https://www.youtube.com/watch?v=xkZL3uvlDGM&amp;list=PLUTrDHuvZc4EDn8K9czBDuaZ7bQfeQ-Am&amp;index=2&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [Coding Tech](https://www.youtube.com/@CodingTech/playlists)
+## [React](https://www.youtube.com/playlist?list=PLFjq8z-aGyQ6A_8o_n6O4thKpO5mPC9FM)
+### [ReactJS - Django App Development Workshop](https://www.youtube.com/watch?v=kxzg_QXrV_k&amp;list=PLFjq8z-aGyQ6A_8o_n6O4thKpO5mPC9FM&amp;index=3&amp;pp=iAQB)

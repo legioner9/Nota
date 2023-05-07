@@ -1,0 +1,3 @@
+# [Traversy Media](https://www.youtube.com/@TraversyMedia/playlists)
+## [Python Videos](https://www.youtube.com/playlist?list=PLillGF-RfqbbJYRaNqeUzAb7QY-IqBKRx)
+### [Build A Python Speech Assistant App](https://www.youtube.com/watch?v=x8xjj6cR9Nc&amp;list=PLillGF-RfqbbJYRaNqeUzAb7QY-IqBKRx&amp;index=3&amp;pp=iAQB)

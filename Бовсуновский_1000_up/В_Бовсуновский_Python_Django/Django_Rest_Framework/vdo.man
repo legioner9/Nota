@@ -1,0 +1,4 @@
+### [Зачем нужны API (Django Rest Framework)?](https://www.youtube.com/watch?v=lutgtcxO_eU&amp;list=PLuZJ9n46uMzXB2vFIlMbHPeAMcMPIv9LX&amp;index=1&amp;pp=iAQB)
+### [Создаём первые API (Django Rest Framework)](https://www.youtube.com/watch?v=dbk4A5kQk68&amp;list=PLuZJ9n46uMzXB2vFIlMbHPeAMcMPIv9LX&amp;index=2&amp;pp=iAQB)
+### [Создание тестового Django проекта на хостинге Джино.](https://www.youtube.com/watch?v=TpaozOmDBrw&amp;list=PLuZJ9n46uMzXB2vFIlMbHPeAMcMPIv9LX&amp;index=3&amp;pp=iAQB)
+### [Соединение по SSH на хостинге Джино.](https://www.youtube.com/watch?v=X2soHtuQ6P0&amp;list=PLuZJ9n46uMzXB2vFIlMbHPeAMcMPIv9LX&amp;index=4&amp;pp=iAQB)

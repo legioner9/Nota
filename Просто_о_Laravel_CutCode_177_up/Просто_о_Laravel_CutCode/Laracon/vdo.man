@@ -1,0 +1,4 @@
+### [Laracon Summer Online September 1st. Laravel Big Event Announcement](https://www.youtube.com/watch?v=1fBpyHk3KA0&amp;list=PLTucyHptHtTn29Y0kRSkIvwoSeKoYPjVU&amp;index=1&amp;pp=iAQB)
+### [Laracon online summer 2021. Обзор конференции по Laravel 1 сентября 2021](https://www.youtube.com/watch?v=b89eeM6O3K8&amp;list=PLTucyHptHtTn29Y0kRSkIvwoSeKoYPjVU&amp;index=2&amp;pp=iAQB)
+### [Laracon online summer 2021. Laravel conference review September 1, 2021. Part 2](https://www.youtube.com/watch?v=UeHiWTo8LBE&amp;list=PLTucyHptHtTn29Y0kRSkIvwoSeKoYPjVU&amp;index=3&amp;pp=iAQB)
+### [Обзор Laracon online winter 2022 - конференции по Laravel](https://www.youtube.com/watch?v=wS7fYSiPb5E&amp;list=PLTucyHptHtTn29Y0kRSkIvwoSeKoYPjVU&amp;index=4&amp;pp=iAQB)

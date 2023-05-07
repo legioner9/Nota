@@ -1,0 +1,3 @@
+# [Traversy Media](https://www.youtube.com/@TraversyMedia/playlists)
+## [Vanilla JavaScript](https://www.youtube.com/playlist?list=PLillGF-RfqbbnEGy3ROiLWk7JMCuSyQtX)
+### [Multiplayer Snake Game | JavaScript &amp; Socket.io](https://www.youtube.com/watch?v=ppcBIHv_ZPs&amp;list=PLillGF-RfqbbnEGy3ROiLWk7JMCuSyQtX&amp;index=47&amp;pp=iAQB)

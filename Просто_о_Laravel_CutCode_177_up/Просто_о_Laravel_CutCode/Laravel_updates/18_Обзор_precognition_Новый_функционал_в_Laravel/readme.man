@@ -1,0 +1,3 @@
+# [Просто о Laravel. CutCode](https://www.youtube.com/@CutCodeRu/playlists)
+## [Laravel updates](https://www.youtube.com/playlist?list=PLTucyHptHtTltQAJTseNL2xCIoX0RWb6r)
+### [Обзор precognition. Новый функционал в Laravel](https://www.youtube.com/watch?v=fdyDdhnkXaw&amp;list=PLTucyHptHtTltQAJTseNL2xCIoX0RWb6r&amp;index=18&amp;pp=iAQB)

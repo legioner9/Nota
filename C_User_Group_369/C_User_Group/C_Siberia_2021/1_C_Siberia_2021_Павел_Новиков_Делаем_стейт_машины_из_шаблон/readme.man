@@ -1,0 +1,3 @@
+# [C++ User Group](https://www.youtube.com/@CUserGroupRussia/playlists)
+## [C++ Siberia 2021](https://www.youtube.com/playlist?list=PLZN9ZGiWZoZoqHq5MVAFH1e5QfKs9vQ8T)
+### [C++ Siberia 2021: Павел Новиков, Делаем стейт машины из шаблонов и корутин](https://www.youtube.com/watch?v=S5hZdXRPBRE&amp;list=PLZN9ZGiWZoZoqHq5MVAFH1e5QfKs9vQ8T&amp;index=1&amp;pp=iAQB)

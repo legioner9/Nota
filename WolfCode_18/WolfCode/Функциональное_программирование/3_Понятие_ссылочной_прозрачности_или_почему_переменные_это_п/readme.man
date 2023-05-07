@@ -1,0 +1,3 @@
+# [WolfCode](https://www.youtube.com/@wolf_code/playlists)
+## [Функциональное программирование](https://www.youtube.com/playlist?list=PLLVOmKOaszbIypxz956KtYvGOStx6ocaN)
+### [Понятие ссылочной прозрачности или почему переменные это плохо?](https://www.youtube.com/watch?v=CEJbwmHkKP0&amp;list=PLLVOmKOaszbIypxz956KtYvGOStx6ocaN&amp;index=3&amp;pp=iAQB)

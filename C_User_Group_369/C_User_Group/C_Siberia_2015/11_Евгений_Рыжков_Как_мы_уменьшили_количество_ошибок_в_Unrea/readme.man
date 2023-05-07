@@ -1,0 +1,3 @@
+# [C++ User Group](https://www.youtube.com/@CUserGroupRussia/playlists)
+## [C++ Siberia 2015](https://www.youtube.com/playlist?list=PLZN9ZGiWZoZooPvBI2c42jSCSPOa8tHcn)
+### [Евгений Рыжков: Как мы уменьшили количество ошибок в Unreal Engine](https://www.youtube.com/watch?v=uLRmMZoAgN8&amp;list=PLZN9ZGiWZoZooPvBI2c42jSCSPOa8tHcn&amp;index=11&amp;pp=iAQB)

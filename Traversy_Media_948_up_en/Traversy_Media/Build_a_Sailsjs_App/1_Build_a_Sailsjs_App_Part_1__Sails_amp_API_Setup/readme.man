@@ -1,0 +1,3 @@
+# [Traversy Media](https://www.youtube.com/@TraversyMedia/playlists)
+## [Build a Sails.js App](https://www.youtube.com/playlist?list=PLillGF-RfqbZIA-9sI3T1uu7d7_CtbwPm)
+### [Build a Sails.js App [Part 1] - Sails &amp; API Setup](https://www.youtube.com/watch?v=AmjiDC_JUt4&amp;list=PLillGF-RfqbZIA-9sI3T1uu7d7_CtbwPm&amp;index=1&amp;pp=iAQB)

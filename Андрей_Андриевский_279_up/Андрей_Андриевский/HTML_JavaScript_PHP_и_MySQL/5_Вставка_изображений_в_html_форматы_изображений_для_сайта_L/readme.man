@@ -1,0 +1,3 @@
+# [Андрей Андриевский](https://www.youtube.com/@andrievskii/playlists)
+## [HTML, JavaScript, PHP и MySQL](https://www.youtube.com/playlist?list=PLMB6wLyKp7lWNH2AAhJpxvusK6HMTmeXF)
+### [Вставка изображений в html, форматы изображений для сайта. Lesson – 5](https://www.youtube.com/watch?v=Fr3JX1kiyAM&amp;list=PLMB6wLyKp7lWNH2AAhJpxvusK6HMTmeXF&amp;index=5&amp;pp=iAQB)

@@ -1,0 +1,6 @@
+### [LiveISO установка образа linux и других на флешку](https://www.youtube.com/watch?v=E0R_PJMx7R8&amp;list=PLEjhu-KP5eiAOAflLU1_QDXqNyH5hVG6U&amp;index=1&amp;pp=iAQB)
+### [КОПИЯ сервера rsync linux](https://www.youtube.com/watch?v=XJsq3fJIvcc&amp;list=PLEjhu-KP5eiAOAflLU1_QDXqNyH5hVG6U&amp;index=2&amp;pp=iAQB)
+### [NEOVIM как НАЧАТЬ лучший редактор кода](https://www.youtube.com/watch?v=UNGb5wCojOc&amp;list=PLEjhu-KP5eiAOAflLU1_QDXqNyH5hVG6U&amp;index=3&amp;pp=iAQB)
+### [Go HELLO WORLD](https://www.youtube.com/watch?v=nZHiOmaCwzE&amp;list=PLEjhu-KP5eiAOAflLU1_QDXqNyH5hVG6U&amp;index=4&amp;pp=iAQB)
+### [nginx location vcProgrammer](https://www.youtube.com/watch?v=vD0wucot27k&amp;list=PLEjhu-KP5eiAOAflLU1_QDXqNyH5hVG6U&amp;index=5&amp;pp=iAQB)
+### [vcProgrammer nginx директивы](https://www.youtube.com/watch?v=aNA6T4STV4A&amp;list=PLEjhu-KP5eiAOAflLU1_QDXqNyH5hVG6U&amp;index=6&amp;pp=iAQB)

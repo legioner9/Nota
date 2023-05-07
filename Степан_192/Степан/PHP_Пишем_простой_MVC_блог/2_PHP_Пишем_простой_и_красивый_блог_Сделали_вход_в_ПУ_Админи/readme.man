@@ -1,0 +1,3 @@
+# [Степан](https://www.youtube.com/@Shift63770/playlists)
+## [[PHP] Пишем простой MVC блог](https://www.youtube.com/playlist?list=PLB8wmVoWIIx6erd0Bf2_Yf-FvFi3irqB8)
+### [[PHP] Пишем простой и красивый блог. Сделали вход в ПУ Администратора. Часть #2](https://www.youtube.com/watch?v=lJIi8ZlpQv4&amp;list=PLB8wmVoWIIx6erd0Bf2_Yf-FvFi3irqB8&amp;index=2&amp;pp=iAQB)

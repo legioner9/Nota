@@ -1,0 +1,3 @@
+# [WebDev с нуля. Канал Алекса Лущенко](https://www.youtube.com/@itgid/playlists)
+## [Основы верстки](https://www.youtube.com/playlist?list=PLM7wFzahDYnHKFV3AF8dtl6pBYgib1mMf)
+### [Сайт для генерации паролей на JavaScript за 30 минут. Часть 1](https://www.youtube.com/watch?v=Ub2DsvDfGn8&amp;list=PLM7wFzahDYnHKFV3AF8dtl6pBYgib1mMf&amp;index=15&amp;pp=iAQB)

@@ -1,0 +1,6 @@
+### [Django ORM. Оптимизация запросов к связанным моделям с помощью select_related и prefetch_related.](https://www.youtube.com/watch?v=SF5G-6yeND4&amp;list=PLgENP2X2Wt55SYxRMBuykrpoMyEVbaKnu&amp;index=1&amp;pp=iAQB)
+### [Github, Django, два джуна. Серия четвертая. Делаем красиво.](https://www.youtube.com/watch?v=Cs-0WFJe7Kg&amp;list=PLgENP2X2Wt55SYxRMBuykrpoMyEVbaKnu&amp;index=2&amp;pp=iAQB)
+### [Github, Django, два джуна. Серия третья. Бездны рефакторинга.](https://www.youtube.com/watch?v=p0oBzTMVsUA&amp;list=PLgENP2X2Wt55SYxRMBuykrpoMyEVbaKnu&amp;index=3&amp;pp=iAQB)
+### [Github, Django, два джуна. Серия вторая. Кажется, мы все поломали, или что делать с Git.](https://www.youtube.com/watch?v=JotTL2vz6-I&amp;list=PLgENP2X2Wt55SYxRMBuykrpoMyEVbaKnu&amp;index=4&amp;pp=iAQB)
+### [Github, Django, два джуна. Серия первая. Разбираем общие проблемы проекта.](https://www.youtube.com/watch?v=pert8_IIaQE&amp;list=PLgENP2X2Wt55SYxRMBuykrpoMyEVbaKnu&amp;index=5&amp;pp=iAQB)
+### [Мастер-класс по веб-разработке на Django, онлайн-фестиваль Яндекса для школьников 8бит](https://www.youtube.com/watch?v=pj80yW5zHOM&amp;list=PLgENP2X2Wt55SYxRMBuykrpoMyEVbaKnu&amp;index=6&amp;pp=iAQB)

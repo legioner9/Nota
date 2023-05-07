@@ -1,0 +1,3 @@
+# [В. Бовсуновский Python Django](https://www.youtube.com/@bov/playlists?view=1)
+## [Python и Деньги.](https://www.youtube.com/playlist?list=PLuZJ9n46uMzXMB9XkxEaohlSRzFIEMdXa)
+### [spb-tut проект для тех кто хочет зарабатывать изучив Python.](https://www.youtube.com/watch?v=3ZZL7d9skAg&amp;list=PLuZJ9n46uMzXMB9XkxEaohlSRzFIEMdXa&amp;index=12&amp;pp=iAQB)

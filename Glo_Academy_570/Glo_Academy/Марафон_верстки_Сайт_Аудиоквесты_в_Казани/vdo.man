@@ -1,0 +1,6 @@
+### [Верстка реального сайта на Bootstrap 3. #1 Верстаем главный экран в мобильной версии.](https://www.youtube.com/watch?v=1nuiTzGxOlA&amp;list=PL3LQJkGQtzc7iPpB5E9yLUPku4H-cGzvX&amp;index=1&amp;pp=iAQB)
+### [Верстка реального сайта на Bootstrap 3. #2 Верстаем слайдер и 3D раздел.](https://www.youtube.com/watch?v=AWh9dYetF-k&amp;list=PL3LQJkGQtzc7iPpB5E9yLUPku4H-cGzvX&amp;index=2&amp;pp=iAQB)
+### [Верстка реального сайта на Bootstrap 3. #3 Верстаем FAQ, билет и футер](https://www.youtube.com/watch?v=7tNozbTbx4Y&amp;list=PL3LQJkGQtzc7iPpB5E9yLUPku4H-cGzvX&amp;index=3&amp;pp=iAQB)
+### [Верстка реального сайта на Bootstrap 3. #4 Верстаем мобильное меню, делаем адаптив.](https://www.youtube.com/watch?v=hLKBhUtRi-4&amp;list=PL3LQJkGQtzc7iPpB5E9yLUPku4H-cGzvX&amp;index=4&amp;pp=iAQB)
+### [Верстка реального сайта на Bootstrap 3. #5 Реализуем покупку билетов на сайте.](https://www.youtube.com/watch?v=ceRfIEASUOk&amp;list=PL3LQJkGQtzc7iPpB5E9yLUPku4H-cGzvX&amp;index=5&amp;pp=iAQB)
+### [Верстка реального сайта на Bootstrap 3. #6 Публикация сайта.](https://www.youtube.com/watch?v=w78Hw0IOdSU&amp;list=PL3LQJkGQtzc7iPpB5E9yLUPku4H-cGzvX&amp;index=6&amp;pp=iAQB)

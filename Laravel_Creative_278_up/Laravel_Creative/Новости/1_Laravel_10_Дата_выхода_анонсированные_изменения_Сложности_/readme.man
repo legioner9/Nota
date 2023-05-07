@@ -1,0 +1,3 @@
+# [Laravel Creative](https://www.youtube.com/@laravelcreative/playlists)
+## [Новости](https://www.youtube.com/playlist?list=PLd2_Os8Cj3t8k3RMGgBkodxxuowk4PWMG)
+### [Laravel 10. Дата выхода, анонсированные изменения. Сложности в установке Laravel 10. Планы на канале](https://www.youtube.com/watch?v=y_tbVr1pPLo&amp;list=PLd2_Os8Cj3t8k3RMGgBkodxxuowk4PWMG&amp;index=1&amp;pp=iAQB)

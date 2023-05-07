@@ -1,0 +1,55 @@
+ 30.04.2023 10:38:02 done Build tool concept // Концепт инструментов для сборки
+ 30.04.2023 10:38:04 done Why Maven // Почему maven
+ 30.04.2023 10:38:06 done Download, install and configure Maven // Загрузка, установка и настройка maven
+ 30.04.2023 10:38:09 done Create project import in IDE // Создание maven проекта и импорт в IDE
+ 30.04.2023 10:38:11 done Build lifecycle // Жизненный цикл проекта в maven
+ 30.04.2023 10:38:13 done Dependency management // Управление зависимостями в maven
+ 30.04.2023 10:38:13 done Maven build tool
+ 30.04.2023 10:38:46 done Why need CI&amp;CD // Для чего нужны CI &amp; CD
+ 30.04.2023 10:38:48 done CI&amp;CD concept // Концепт непрерывной интеграции
+ 30.04.2023 10:38:50 done Why Jenkins // Почему Jenkins
+ 30.04.2023 10:38:53 done Download, install, configure Jenkins // Загрузка, установка и настройка Jenkins
+ 30.04.2023 10:38:55 done Create first job // Создаем первую джобу в Jenkins
+ 30.04.2023 10:38:57 done Build triggers // Билд триггеры в Jenkins
+ 30.04.2023 10:38:59 done Cron syntax // Синтаксис cron в Jenkins
+ 30.04.2023 10:39:02 done Git integration // Интеграция git и Jenkins
+ 30.04.2023 10:39:04 done Maven integration // Интеграция Maven и Jenkins
+ 30.04.2023 10:39:06 done Artifacts // Артефакты в Jenkins
+ 30.04.2023 10:39:08 done Build pipeline // Цепочки сборок в Jenkins
+ 30.04.2023 10:39:11 done Parameterized jobs // Параметризованные задачи в Jenkins
+ 30.04.2023 10:39:13 done Jenkins security // Настройки безопасности в Jenkins
+ 30.04.2023 10:39:15 done Nodes // Ноды в Jenkins
+ 30.04.2023 10:39:17 done Nodes on linux // Линукс-ноды в Jenkins
+ 30.04.2023 10:39:20 done Jenkins backup // Резервное копирование Jenkins сервера
+ 30.04.2023 10:39:22 done Uninstall Jenkins // Удаление Jenkins
+ 30.04.2023 10:39:24 done Jenkins extras // Дополнительные возможности Jenkins
+ 30.04.2023 10:39:24 done CI with Jenkins // Непрерывная интеграция с Jenkins
+ 30.04.2023 10:39:57 done VCS concept // Концепция системы версионного контроля
+ 30.04.2023 10:39:59 done Version Control Types // Разновидности систем версионного контроля
+ 30.04.2023 10:40:01 done Why Git // Почему git
+ 30.04.2023 10:40:03 done Download, install and configure git // Загрузка, установка и настройка git
+ 30.04.2023 10:40:05 done Create first commit and push it // Создаем первый коммит и пушим на github
+ 30.04.2023 10:40:08 done Pull from remote // Обновление из удаленного репозитория в git
+ 30.04.2023 10:40:10 done Git GUI and gitk // Графические инструменты в git
+ 30.04.2023 10:40:12 done Inside .git folder // Внутри директории .git
+ 30.04.2023 10:40:14 done Undoing changes // Отмена изменений в git
+ 30.04.2023 10:40:17 done Git reset // Сброс c помощью git reset
+ 30.04.2023 10:40:19 done Git revert &amp; vi // Отмена запушенных изменений и редактор vi
+ 30.04.2023 10:40:21 done .gitignore // Игнорирование файлов и директорий в git
+ 30.04.2023 10:40:23 done Branching and merge // Ветки и их слияние в git
+ 30.04.2023 10:40:26 done Conflicts solving // Решение конфликтов в git
+ 30.04.2023 10:40:28 done Rebase // Изменение истории через rebase
+ 30.04.2023 10:40:30 done Cherry pick in git // Черри-пик в git
+ 30.04.2023 10:40:32 done Tags in git // Теги в git
+ 30.04.2023 10:40:34 done Stash in git // Stash в git
+ 30.04.2023 10:40:37 done Remotes in git // Удалённые ветки в git
+ 30.04.2023 10:40:39 done Branching strategies // Стратегии ветвлений в git
+ 30.04.2023 10:40:41 done Extras // Дополнительные возможности git
+ 30.04.2023 10:40:42 done Version control with Git // Версионный контроль с git
+ 30.04.2023 10:41:13 done We Shall Destroy 3
+ 30.04.2023 10:41:15 done Death in Fire
+ 30.04.2023 10:41:17 done The Primeval Dark
+ 30.04.2023 10:41:20 done One Thousand Burning Arrows
+ 30.04.2023 10:41:20 done K1.2 Records
+ 30.04.2023 10:41:21 good end 
+ 30.04.2023 10:41:21 good end 

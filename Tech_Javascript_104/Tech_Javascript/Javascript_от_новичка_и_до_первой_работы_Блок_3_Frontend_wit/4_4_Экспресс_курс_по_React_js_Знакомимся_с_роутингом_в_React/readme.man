@@ -1,0 +1,3 @@
+# [Tech Javascript](https://www.youtube.com/@techjavascript/playlists)
+## [Javascript от новичка и до первой работы. Блок 3. Frontend with React js](https://www.youtube.com/playlist?list=PLco1IpJXladYKtXL9ppvHEMd8fQsTdCYm)
+### [4. Экспресс курс по React js. Знакомимся с роутингом в React js  Используем react router dom v6](https://www.youtube.com/watch?v=kTqESW2Mio0&amp;list=PLco1IpJXladYKtXL9ppvHEMd8fQsTdCYm&amp;index=4&amp;pp=iAQB)

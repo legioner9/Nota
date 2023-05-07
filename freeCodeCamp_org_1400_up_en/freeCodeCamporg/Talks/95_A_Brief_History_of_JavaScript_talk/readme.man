@@ -1,0 +1,3 @@
+# [freeCodeCamp.org](https://www.youtube.com/@freecodecamp/playlists)
+## [Talks](https://www.youtube.com/playlist?list=PLWKjhJtqVAbl9yptoxdSJDDoTVdcysyPo)
+### [A Brief History of JavaScript, talk](https://www.youtube.com/watch?v=qKJP93dWn40&amp;list=PLWKjhJtqVAbl9yptoxdSJDDoTVdcysyPo&amp;index=95&amp;pp=iAQB)

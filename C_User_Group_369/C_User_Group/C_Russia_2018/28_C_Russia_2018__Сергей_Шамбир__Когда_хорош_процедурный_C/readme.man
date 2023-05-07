@@ -1,0 +1,3 @@
+# [C++ User Group](https://www.youtube.com/@CUserGroupRussia/playlists)
+## [C++ Russia 2018](https://www.youtube.com/playlist?list=PLZN9ZGiWZoZoFa2q0NqD6metQxavT2JYP)
+### [C++ Russia 2018:  Сергей Шамбир,  Когда хорош процедурный C++](https://www.youtube.com/watch?v=AkzFp6PW5iA&amp;list=PLZN9ZGiWZoZoFa2q0NqD6metQxavT2JYP&amp;index=28&amp;pp=iAQB)

@@ -1,3 +1,0 @@
-# [Exploring the IT World / Oleg Shpagin / WISEPLAT](https://www.youtube.com/@wiseplat/playlists)
-## [Уроки JavaScript для начинающих с нуля](https://www.youtube.com/playlist?list=PLxiU3nwEQ4PELJ4GwO7Ssu4wENaPpvOzZ)
-### [Уроки JavaScript  Методы reduce и reduceRight](https://www.youtube.com/watch?v=mWMZz4t27C0&amp;list=PLxiU3nwEQ4PELJ4GwO7Ssu4wENaPpvOzZ&amp;index=19)

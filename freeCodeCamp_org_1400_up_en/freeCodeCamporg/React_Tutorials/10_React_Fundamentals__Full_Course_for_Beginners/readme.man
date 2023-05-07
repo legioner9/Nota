@@ -1,0 +1,3 @@
+# [freeCodeCamp.org](https://www.youtube.com/@freecodecamp/playlists)
+## [React Tutorials](https://www.youtube.com/playlist?list=PLWKjhJtqVAbkArDMazoARtNz1aMwNWmvC)
+### [React Fundamentals - Full Course for Beginners](https://www.youtube.com/watch?v=6Ied4aZxUzc&amp;list=PLWKjhJtqVAbkArDMazoARtNz1aMwNWmvC&amp;index=10&amp;pp=iAQB)

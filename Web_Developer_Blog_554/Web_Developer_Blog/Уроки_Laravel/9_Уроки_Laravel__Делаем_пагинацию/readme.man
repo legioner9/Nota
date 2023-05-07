@@ -1,0 +1,3 @@
+# [Web Developer Blog](https://www.youtube.com/@SuprunAlexey/playlists)
+## [Уроки Laravel](https://www.youtube.com/playlist?list=PLVfMKQXDAhGUO-r2UPv3VszEwn_edFVC6)
+### [Уроки Laravel - Делаем пагинацию](https://www.youtube.com/watch?v=al_YIhESQJg&amp;list=PLVfMKQXDAhGUO-r2UPv3VszEwn_edFVC6&amp;index=9&amp;pp=iAQB)

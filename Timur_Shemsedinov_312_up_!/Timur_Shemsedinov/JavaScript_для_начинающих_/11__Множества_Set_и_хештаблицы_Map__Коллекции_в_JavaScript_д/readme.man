@@ -1,0 +1,3 @@
+# [Timur Shemsedinov](https://www.youtube.com/@TimurShemsedinov/playlists?view=1)
+## [JavaScript для начинающих 👶](https://www.youtube.com/playlist?list=PLHhi8ymDMrQaJkE8AsD1mR4aHnobVfk3A)
+### [💻 Множества Set и хеш-таблицы Map - Коллекции в JavaScript для начинающих](https://www.youtube.com/watch?v=OE9DxIBu-8I&amp;list=PLHhi8ymDMrQaJkE8AsD1mR4aHnobVfk3A&amp;index=11&amp;pp=iAQB)

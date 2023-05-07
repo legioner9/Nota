@@ -1,0 +1,3 @@
+### [Самые частые применения SOAR](https://www.youtube.com/watch?v=qrNWyDlkog0&amp;list=PLRAbJA74qU4DIVAyY3irumgjivHJrK5VE&amp;index=1&amp;pp=iAQB)
+### [Paloaltonetworks XSOAR (ex.Demisto)](https://www.youtube.com/watch?v=DPE8N3MqMgs&amp;list=PLRAbJA74qU4DIVAyY3irumgjivHJrK5VE&amp;index=2&amp;pp=iAQB)
+### [Обзор Demisto от Paloaltonetworks](https://www.youtube.com/watch?v=QJl81fQzd3Q&amp;list=PLRAbJA74qU4DIVAyY3irumgjivHJrK5VE&amp;index=3&amp;pp=iAQB)

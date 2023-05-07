@@ -1,0 +1,3 @@
+# [В. Бовсуновский Python Django](https://www.youtube.com/@bov/playlists?view=1)
+## [Python for Andoid](https://www.youtube.com/playlist?list=PLuZJ9n46uMzUhN970OOvoxm8pmECgAqLn)
+### [Kivy Python макеты. FloatLayout.](https://www.youtube.com/watch?v=goAPYhQtnCw&amp;list=PLuZJ9n46uMzUhN970OOvoxm8pmECgAqLn&amp;index=29&amp;pp=iAQB)

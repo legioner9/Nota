@@ -1,0 +1,3 @@
+# [openWeb - Веб программирование на языках PHP и JS](https://www.youtube.com/@openweb-php/playlists)
+## [Уроки Node.js](https://www.youtube.com/playlist?list=PL-leL2miqjEb-DXloee_b4PFBMkptbFiw)
+### [Yandex Веб Визор - как собрать на коленке при помощи node.js и javascript](https://www.youtube.com/watch?v=XPPwI1hqdQw&amp;list=PL-leL2miqjEb-DXloee_b4PFBMkptbFiw&amp;index=9&amp;pp=iAQB)

@@ -1,0 +1,4 @@
+### [iRedMail - установка на CenOS 7](https://www.youtube.com/watch?v=Brv38ztY1h4&amp;list=PLh1BaaL_XriNRSQdLseA0jyQ3FCf1xDDw&amp;index=1&amp;pp=iAQB)
+### [iRedMail – обзор iRedAdmin-Webmail-Netdata](https://www.youtube.com/watch?v=3RGUYc4E6MY&amp;list=PLh1BaaL_XriNRSQdLseA0jyQ3FCf1xDDw&amp;index=2&amp;pp=iAQB)
+### [iRedMail - добавление DKIM,SPF,DMARC](https://www.youtube.com/watch?v=vZFrvnUKlvI&amp;list=PLh1BaaL_XriNRSQdLseA0jyQ3FCf1xDDw&amp;index=3&amp;pp=iAQB)
+### [iRedMail - расширенные настройки](https://www.youtube.com/watch?v=pv01FyOlAjQ&amp;list=PLh1BaaL_XriNRSQdLseA0jyQ3FCf1xDDw&amp;index=4&amp;pp=iAQB)

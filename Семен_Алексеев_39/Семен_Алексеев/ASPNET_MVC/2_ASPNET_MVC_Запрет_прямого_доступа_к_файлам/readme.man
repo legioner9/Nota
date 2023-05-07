@@ -1,0 +1,3 @@
+# [Семен Алексеев](https://www.youtube.com/@alekseev74/playlists)
+## [ASP.NET MVC](https://www.youtube.com/playlist?list=PLUTrDHuvZc4GiNPo7ZigwbY5v4j-6Irr7)
+### [ASP.NET MVC. Запрет прямого доступа к файлам](https://www.youtube.com/watch?v=SIIOBd32GQw&amp;list=PLUTrDHuvZc4GiNPo7ZigwbY5v4j-6Irr7&amp;index=2&amp;pp=iAQB)

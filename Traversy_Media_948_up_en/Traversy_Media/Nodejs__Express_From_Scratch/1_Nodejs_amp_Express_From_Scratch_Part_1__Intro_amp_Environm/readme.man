@@ -1,0 +1,3 @@
+# [Traversy Media](https://www.youtube.com/@TraversyMedia/playlists)
+## [Node.js & Express From Scratch](https://www.youtube.com/playlist?list=PLillGF-RfqbYRpji8t4SxUkMxfowG4Kqp)
+### [Node.js &amp; Express From Scratch [Part 1] - Intro &amp; Environment](https://www.youtube.com/watch?v=k_0ZzvHbNBQ&amp;list=PLillGF-RfqbYRpji8t4SxUkMxfowG4Kqp&amp;index=1&amp;pp=iAQB)

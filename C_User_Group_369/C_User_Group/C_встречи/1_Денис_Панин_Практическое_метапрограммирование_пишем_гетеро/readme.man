@@ -1,0 +1,3 @@
+# [C++ User Group](https://www.youtube.com/@CUserGroupRussia/playlists)
+## [C++ встречи](https://www.youtube.com/playlist?list=PLZN9ZGiWZoZpCwI_MQQ0TfRUAH0YIR9Bo)
+### [Денис Панин, Практическое метапрограммирование: пишем гетерогенную хэш-таблицу](https://www.youtube.com/watch?v=8ihLJFkrZvU&amp;list=PLZN9ZGiWZoZpCwI_MQQ0TfRUAH0YIR9Bo&amp;index=1&amp;pp=iAQB)

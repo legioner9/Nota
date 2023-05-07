@@ -1,0 +1,3 @@
+# [Vitaliy html](https://www.youtube.com/@vitaliyhtml/playlists)
+## [SQL](https://www.youtube.com/playlist?list=PL97bu4ZDN_byFtn3cDo7dbURidAlg7ZSG)
+### [Полное внешнее соединение (FULL OUTER JOIN)](https://www.youtube.com/watch?v=r3RKNp5aPjk&amp;list=PL97bu4ZDN_byFtn3cDo7dbURidAlg7ZSG&amp;index=13&amp;pp=iAQB)

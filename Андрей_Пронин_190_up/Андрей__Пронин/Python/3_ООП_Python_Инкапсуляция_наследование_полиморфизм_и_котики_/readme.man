@@ -1,0 +1,3 @@
+# [Андрей += Пронин](https://www.youtube.com/@AndyPronin/playlists)
+## [Python](https://www.youtube.com/playlist?list=PLgENP2X2Wt549b-Cl6xT3RBhh8ErEgkLd)
+### [ООП Python. Инкапсуляция, наследование, полиморфизм и котики. Вебинар.](https://www.youtube.com/watch?v=t4jbal6aXvs&amp;list=PLgENP2X2Wt549b-Cl6xT3RBhh8ErEgkLd&amp;index=3&amp;pp=iAQB)

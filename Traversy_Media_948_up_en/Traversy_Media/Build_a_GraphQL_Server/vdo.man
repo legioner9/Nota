@@ -1,0 +1,5 @@
+### [Building a GraphQL Server [Part 1] - What Is GraphQL?](https://www.youtube.com/watch?v=PEcJxkylcRM&amp;list=PLillGF-RfqbYZty73_PHBqKRDnv7ikh68&amp;index=1&amp;pp=iAQB)
+### [Building a GraphQL Server [Part 2] - Server &amp; Express GraphQL Setup](https://www.youtube.com/watch?v=qqzIA1BQ_ys&amp;list=PLillGF-RfqbYZty73_PHBqKRDnv7ikh68&amp;index=2&amp;pp=iAQB)
+### [Building a GraphQL Server [Part 3] - RootQuery &amp; Fetching Data](https://www.youtube.com/watch?v=e9Zxzr7sy60&amp;list=PLillGF-RfqbYZty73_PHBqKRDnv7ikh68&amp;index=3&amp;pp=iAQB)
+### [Building a GraphQL Server [Part 4] - JSON Server &amp; Axios](https://www.youtube.com/watch?v=BqfZZ0wDeMU&amp;list=PLillGF-RfqbYZty73_PHBqKRDnv7ikh68&amp;index=4&amp;pp=iAQB)
+### [Building a GraphQL Server [Part 5] - Mutations](https://www.youtube.com/watch?v=ay81Q5JhkEw&amp;list=PLillGF-RfqbYZty73_PHBqKRDnv7ikh68&amp;index=5&amp;pp=iAQB)

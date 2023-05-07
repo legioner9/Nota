@@ -1,0 +1,3 @@
+# [Traversy Media](https://www.youtube.com/@TraversyMedia/playlists)
+## [Vanilla JavaScript](https://www.youtube.com/playlist?list=PLillGF-RfqbbnEGy3ROiLWk7JMCuSyQtX)
+### [Create a Custom PDF Viewer With JavaScript](https://www.youtube.com/watch?v=ydCSSgwZjzs&amp;list=PLillGF-RfqbbnEGy3ROiLWk7JMCuSyQtX&amp;index=14&amp;pp=iAQB)

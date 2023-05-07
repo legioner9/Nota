@@ -1,0 +1,3 @@
+# [Coding Tech](https://www.youtube.com/@CodingTech/playlists)
+## [Python](https://www.youtube.com/playlist?list=PLFjq8z-aGyQ4Y3mSWGBptr7SArEsfdWQA)
+### [GraphQL in Python 🍓](https://www.youtube.com/watch?v=EIGjT5NYjjM&amp;list=PLFjq8z-aGyQ4Y3mSWGBptr7SArEsfdWQA&amp;index=44&amp;pp=iAQB)

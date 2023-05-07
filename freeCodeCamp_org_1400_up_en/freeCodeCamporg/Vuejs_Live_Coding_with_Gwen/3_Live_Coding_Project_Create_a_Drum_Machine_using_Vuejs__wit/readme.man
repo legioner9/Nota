@@ -1,0 +1,3 @@
+# [freeCodeCamp.org](https://www.youtube.com/@freecodecamp/playlists)
+## [Vue.js Live Coding with Gwen](https://www.youtube.com/playlist?list=PLWKjhJtqVAbkPX-lJHxjXdsw19vbXIZpz)
+### [Live Coding Project: Create a Drum Machine using Vue.js - with Gwen Faraday](https://www.youtube.com/watch?v=0b5T7wYDV5o&amp;list=PLWKjhJtqVAbkPX-lJHxjXdsw19vbXIZpz&amp;index=3&amp;pp=iAQB)

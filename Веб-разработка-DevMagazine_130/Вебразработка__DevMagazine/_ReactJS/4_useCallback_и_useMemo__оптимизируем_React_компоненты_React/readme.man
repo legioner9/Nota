@@ -1,0 +1,3 @@
+# [Веб-разработка - DevMagazine](https://www.youtube.com/@DevMagazineChannel/playlists)
+## [📘 ReactJS](https://www.youtube.com/playlist?list=PLmfIBo6rTVR4OGBHkgPUst49WliEAkZDc)
+### [useCallback и useMemo - оптимизируем React компоненты (React hooks) #ReactJS #React](https://www.youtube.com/watch?v=2QNfjnLZYu4&amp;list=PLmfIBo6rTVR4OGBHkgPUst49WliEAkZDc&amp;index=4&amp;pp=iAQB)

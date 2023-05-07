@@ -1,0 +1,3 @@
+# [В. Бовсуновский Python Django](https://www.youtube.com/@bov/playlists?view=1)
+## [Функции JavaScript](https://www.youtube.com/playlist?list=PLuZJ9n46uMzWnxpec__CZzq_8USy81Qtq)
+### [1. Где найти документацию JavaScript и как освоить язык?](https://www.youtube.com/watch?v=AhohK304dcI&amp;list=PLuZJ9n46uMzWnxpec__CZzq_8USy81Qtq&amp;index=1&amp;pp=iAQB)

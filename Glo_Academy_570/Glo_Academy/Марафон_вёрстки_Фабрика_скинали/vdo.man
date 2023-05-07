@@ -1,0 +1,6 @@
+### [#1 Верстка реального заказа landing Page | Марафон вёрстки | Артём Исламов](https://www.youtube.com/watch?v=mC8JW_aG2EM&amp;list=PL3LQJkGQtzc4gsrFkm4MjWhTXhopsMgpv&amp;index=1&amp;pp=iAQB)
+### [#2 Установка spikmi и работа с ветками на Github | Марафон вёрстки  Урок 2](https://www.youtube.com/watch?v=7BvHoh0BrMw&amp;list=PL3LQJkGQtzc4gsrFkm4MjWhTXhopsMgpv&amp;index=2&amp;pp=iAQB)
+### [#3 Верстка на flexbox CSS | Блок преимущества и галерея | Марафон верстки | Артем Исламов](https://www.youtube.com/watch?v=X9SmcY3lM-U&amp;list=PL3LQJkGQtzc4gsrFkm4MjWhTXhopsMgpv&amp;index=3&amp;pp=iAQB)
+### [#4 вёрстка реального landing page | Марафон верстки | Артем Исламов](https://www.youtube.com/watch?v=YH2XYrbz-S0&amp;list=PL3LQJkGQtzc4gsrFkm4MjWhTXhopsMgpv&amp;index=4&amp;pp=iAQB)
+### [#5 Пишем jQuery скрипты на landing page | Реальный заказ | Марафон вёрстки | Артем Исламов](https://www.youtube.com/watch?v=Vb3r7XVTPOc&amp;list=PL3LQJkGQtzc4gsrFkm4MjWhTXhopsMgpv&amp;index=5&amp;pp=iAQB)
+### [#6 Оптимизация Page Speed Insight Google | Публикация на Хостинг | HandyHost | Марафон вёрстки](https://www.youtube.com/watch?v=AiiSFdsuEjo&amp;list=PL3LQJkGQtzc4gsrFkm4MjWhTXhopsMgpv&amp;index=6&amp;pp=iAQB)

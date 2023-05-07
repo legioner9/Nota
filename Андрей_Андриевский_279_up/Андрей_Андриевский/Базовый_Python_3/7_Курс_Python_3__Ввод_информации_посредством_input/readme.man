@@ -1,0 +1,3 @@
+# [Андрей Андриевский](https://www.youtube.com/@andrievskii/playlists)
+## [Базовый Python 3](https://www.youtube.com/playlist?list=PLMB6wLyKp7lWSa816Oicnp6X66oZhBrP4)
+### [Курс Python 3 | Ввод информации посредством input()](https://www.youtube.com/watch?v=J7Y8fQQyw4U&amp;list=PLMB6wLyKp7lWSa816Oicnp6X66oZhBrP4&amp;index=7&amp;pp=iAQB)

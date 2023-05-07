@@ -1,0 +1,3 @@
+# [LN Master](https://www.youtube.com/@ToBeCloser007/playlists)
+## [JavaScript](https://www.youtube.com/playlist?list=PL3PZFGlHBUn0ybP6TnbbEgLZQurx0AklH)
+### [Уроки по JavaScript - Область видимости переменных, const let var](https://www.youtube.com/watch?v=HRfAG9HPG4I&amp;list=PL3PZFGlHBUn0ybP6TnbbEgLZQurx0AklH&amp;index=37&amp;pp=iAQB)

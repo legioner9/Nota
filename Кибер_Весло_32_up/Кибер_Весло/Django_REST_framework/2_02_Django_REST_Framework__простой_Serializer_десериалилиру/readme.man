@@ -1,0 +1,3 @@
+# [Кибер Весло](https://www.youtube.com/@cyber-paddle/playlists)
+## [Django REST framework](https://www.youtube.com/playlist?list=PLIMYb25g876j-K7PdfP24E-a4Bn-lDoGz)
+### [02. Django REST Framework - простой Serializer, (де)сериалилируем объекты, сохраняем, обновляем.](https://www.youtube.com/watch?v=dug2sqnqi9c&amp;list=PLIMYb25g876j-K7PdfP24E-a4Bn-lDoGz&amp;index=2&amp;pp=iAQB)

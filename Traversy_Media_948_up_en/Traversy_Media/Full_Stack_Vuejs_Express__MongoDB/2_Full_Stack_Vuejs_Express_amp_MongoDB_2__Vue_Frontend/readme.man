@@ -1,0 +1,3 @@
+# [Traversy Media](https://www.youtube.com/@TraversyMedia/playlists)
+## [Full Stack Vue.js, Express & MongoDB](https://www.youtube.com/playlist?list=PLillGF-RfqbYSx-Ab1xWVanGKtowTsnNm)
+### [Full Stack Vue.js, Express &amp; MongoDB [2] - Vue Frontend](https://www.youtube.com/watch?v=X-JZ-QPApUs&amp;list=PLillGF-RfqbYSx-Ab1xWVanGKtowTsnNm&amp;index=2&amp;pp=iAQB)

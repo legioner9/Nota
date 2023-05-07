@@ -1,5 +1,0 @@
-### [[Vtutor] Introduction](https://www.youtube.com/watch?v=f9N0M39mR8Q&amp;list=PLqJ-vFLoJOaGKqcJHviv9iQqDgRgduL5e&amp;index=1&amp;pp=iAQB)
-### [[Vtutor] Install vlang](https://www.youtube.com/watch?v=aF5o_4gO1F0&amp;list=PLqJ-vFLoJOaGKqcJHviv9iQqDgRgduL5e&amp;index=2&amp;pp=iAQB)
-### [[Vtutor] Variables and types](https://www.youtube.com/watch?v=Vt7kGxYyIGM&amp;list=PLqJ-vFLoJOaGKqcJHviv9iQqDgRgduL5e&amp;index=3&amp;pp=iAQB)
-### [[Vtutor] Array and map](https://www.youtube.com/watch?v=9ESmkHaqCb8&amp;list=PLqJ-vFLoJOaGKqcJHviv9iQqDgRgduL5e&amp;index=4&amp;pp=iAQB)
-### [[Vtutor] Conditions and loops](https://www.youtube.com/watch?v=VGa4T-QQl2g&amp;list=PLqJ-vFLoJOaGKqcJHviv9iQqDgRgduL5e&amp;index=5&amp;pp=iAQB)

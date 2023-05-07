@@ -1,0 +1,3 @@
+# [freeCodeCamp.org](https://www.youtube.com/@freecodecamp/playlists)
+## [JavaScript and the HTML DOM - Tutorial Playlist](https://www.youtube.com/playlist?list=PLWKjhJtqVAbllLK6r2dnGjUVWB_cFNcuO)
+### [Window Object: move, open, close, &amp; size - Beau teaches JavaScript](https://www.youtube.com/watch?v=ZJng8ls8uH0&amp;list=PLWKjhJtqVAbllLK6r2dnGjUVWB_cFNcuO&amp;index=8&amp;pp=iAQB)

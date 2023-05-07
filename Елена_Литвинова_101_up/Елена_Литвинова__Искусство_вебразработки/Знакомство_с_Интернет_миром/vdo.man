@@ -1,0 +1,8 @@
+### [Lesson 1. Getting to know the world of the Internet. Introduction.](https://www.youtube.com/watch?v=tc7Ofj56mq0&amp;list=PLJpSkcgOK72Dyt8PA4Upwh8wXmhIHgJe9&amp;index=1&amp;pp=iAQB)
+### [Урок 2. Что такое интернет и как он работает.](https://www.youtube.com/watch?v=MUhOAOhiWlo&amp;list=PLJpSkcgOK72Dyt8PA4Upwh8wXmhIHgJe9&amp;index=2&amp;pp=iAQB)
+### [Урок 3. Как работает браузер.](https://www.youtube.com/watch?v=mzJ6J948do8&amp;list=PLJpSkcgOK72Dyt8PA4Upwh8wXmhIHgJe9&amp;index=3&amp;pp=iAQB)
+### [Урок 4. Что такое веб-сайт.](https://www.youtube.com/watch?v=Ax0jLHv13ec&amp;list=PLJpSkcgOK72Dyt8PA4Upwh8wXmhIHgJe9&amp;index=4&amp;pp=iAQB)
+### [Урок 5. История браузеров.](https://www.youtube.com/watch?v=i83Wyg-CAoo&amp;list=PLJpSkcgOK72Dyt8PA4Upwh8wXmhIHgJe9&amp;index=5&amp;pp=iAQB)
+### [Урок 6. Кроссбраузерность и кроссплатформенность.](https://www.youtube.com/watch?v=GVSNHfnlmmc&amp;list=PLJpSkcgOK72Dyt8PA4Upwh8wXmhIHgJe9&amp;index=6&amp;pp=iAQB)
+### [Урок 7. Инструменты разработчика Dev Tools.](https://www.youtube.com/watch?v=j4qtXztQqx0&amp;list=PLJpSkcgOK72Dyt8PA4Upwh8wXmhIHgJe9&amp;index=7&amp;pp=iAQB)
+### [Урок 8. Текстовые редакторы для написания кода.](https://www.youtube.com/watch?v=gl1E6PRqedc&amp;list=PLJpSkcgOK72Dyt8PA4Upwh8wXmhIHgJe9&amp;index=8&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [Студия Флаг](https://www.youtube.com/@FlagStudio/playlists)
+## [LaraПрактика](https://www.youtube.com/playlist?list=PLVdcV6tHcaCFCI1FtvuY2TXWSGVV-LZT9)
+### [LaraПрактика #5. Документирование API. Swagger. Тестирование. Генерация клиента](https://www.youtube.com/watch?v=wx4_Qdws2fo&amp;list=PLVdcV6tHcaCFCI1FtvuY2TXWSGVV-LZT9&amp;index=5&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [Sergey Kazantsev](https://www.youtube.com/@sergeykazantsev1655/playlists)
+## [Паттерны проектирования](https://www.youtube.com/playlist?list=PL7GaNwuzA5StjPUhLzaegidzFr9JK9TXw)
+### [Model View Controller, MVC, Модель Вид Контроллер, C#, Unity](https://www.youtube.com/watch?v=UuS1sxphaFU&amp;list=PL7GaNwuzA5StjPUhLzaegidzFr9JK9TXw&amp;index=5&amp;pp=iAQB)

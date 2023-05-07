@@ -1,0 +1,3 @@
+# [В. Бовсуновский Python Django](https://www.youtube.com/@bov/playlists?view=1)
+## [ООП Python глубоко.](https://www.youtube.com/playlist?list=PLuZJ9n46uMzXkD4T4F54FJNTGSZho90GB)
+### [Волшебные магические методы ,Пайтон, как изучить системно (высший пилотаж).](https://www.youtube.com/watch?v=mx7-cfsGhhk&amp;list=PLuZJ9n46uMzXkD4T4F54FJNTGSZho90GB&amp;index=14&amp;pp=iAQB)

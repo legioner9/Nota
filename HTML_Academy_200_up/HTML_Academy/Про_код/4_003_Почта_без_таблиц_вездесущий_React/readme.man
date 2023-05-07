@@ -1,0 +1,3 @@
+# [HTML Academy](https://www.youtube.com/@HTMLAcademyRUS/playlists)
+## [Про код](https://www.youtube.com/playlist?list=PLQJNT2fdCJnhzcfnl_WpmMzYwSM6H0HJw)
+### [003. Почта без таблиц, вездесущий React](https://www.youtube.com/watch?v=gUKjhy5rYZs&amp;list=PLQJNT2fdCJnhzcfnl_WpmMzYwSM6H0HJw&amp;index=4&amp;pp=iAQB)

@@ -1,0 +1,2 @@
+### [Palo Alto Networks Prisma SaaS](https://www.youtube.com/watch?v=Ret-1E_sdFA&amp;list=PLRAbJA74qU4DKW4Nb5tmKTmpabyLay_h8&amp;index=1&amp;pp=iAQB)
+### [Как работает Aperture и защита SaaS у Palo Alto Networks. Демонстрация.](https://www.youtube.com/watch?v=lYG2j3QADas&amp;list=PLRAbJA74qU4DKW4Nb5tmKTmpabyLay_h8&amp;index=2&amp;pp=iAQB)

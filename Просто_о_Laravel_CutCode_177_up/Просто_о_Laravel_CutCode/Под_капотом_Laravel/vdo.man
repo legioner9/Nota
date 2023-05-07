@@ -1,0 +1,5 @@
+### [Путь запроса в Laravel. &quot;Под капотом&quot; Laravel](https://www.youtube.com/watch?v=LZqEMQgpYWg&amp;list=PLTucyHptHtTnkmEwK0Yxxl-L9Z_8XOK6c&amp;index=1&amp;pp=iAQB)
+### [Разбор метода Macro. &quot;Под капотом&quot; Laravel](https://www.youtube.com/watch?v=LIoV2kquKMw&amp;list=PLTucyHptHtTnkmEwK0Yxxl-L9Z_8XOK6c&amp;index=2&amp;pp=iAQB)
+### [Разбор Query Builder, Collections, Model в Laravel. Под капотом Laravel](https://www.youtube.com/watch?v=o94CesRFMuY&amp;list=PLTucyHptHtTnkmEwK0Yxxl-L9Z_8XOK6c&amp;index=3&amp;pp=iAQB)
+### [Подробный гайд по моделям (model) Eloquent ORM в Laravel](https://www.youtube.com/watch?v=A1b1Nr3o0cQ&amp;list=PLTucyHptHtTnkmEwK0Yxxl-L9Z_8XOK6c&amp;index=4&amp;pp=iAQB)
+### [Подробный гайд по service container в Laravel](https://www.youtube.com/watch?v=-38OQNb8ZWg&amp;list=PLTucyHptHtTnkmEwK0Yxxl-L9Z_8XOK6c&amp;index=5&amp;pp=iAQB)

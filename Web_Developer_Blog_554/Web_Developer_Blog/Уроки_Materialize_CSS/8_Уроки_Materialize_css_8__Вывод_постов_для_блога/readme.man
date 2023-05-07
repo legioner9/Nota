@@ -1,0 +1,3 @@
+# [Web Developer Blog](https://www.youtube.com/@SuprunAlexey/playlists)
+## [Уроки Materialize CSS](https://www.youtube.com/playlist?list=PLVfMKQXDAhGUwU-qRYkDgTZz1pbDdLc45)
+### [Уроки Materialize css #8 - Вывод постов для блога](https://www.youtube.com/watch?v=cHaBIkgV9DM&amp;list=PLVfMKQXDAhGUwU-qRYkDgTZz1pbDdLc45&amp;index=8&amp;pp=iAQB)

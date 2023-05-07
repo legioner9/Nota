@@ -1,0 +1,3 @@
+# [freeCodeCamp.org](https://www.youtube.com/@freecodecamp/playlists)
+## [Talks](https://www.youtube.com/playlist?list=PLWKjhJtqVAbl9yptoxdSJDDoTVdcysyPo)
+### [Build a Linux System - Live Tutorial](https://www.youtube.com/watch?v=O_wcpXF5ZRY&amp;list=PLWKjhJtqVAbl9yptoxdSJDDoTVdcysyPo&amp;index=88&amp;pp=iAQB)

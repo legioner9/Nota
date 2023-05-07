@@ -1,0 +1,3 @@
+# [Иван Глазков](https://www.youtube.com/@vanohaker/playlists)
+## [pFsense](https://www.youtube.com/playlist?list=PL2BaVmpX7hX8fJtOkTD7M_pUHryQzVl8v)
+### [pFsense #10/2. Настройка OpenVPN TUN | Layer3 | L3 | Туннеля в локальную сеть.](https://www.youtube.com/watch?v=KE0k6haHY-0&amp;list=PL2BaVmpX7hX8fJtOkTD7M_pUHryQzVl8v&amp;index=10&amp;pp=iAQB)

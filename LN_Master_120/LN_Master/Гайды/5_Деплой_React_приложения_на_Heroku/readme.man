@@ -1,0 +1,3 @@
+# [LN Master](https://www.youtube.com/@ToBeCloser007/playlists)
+## [Гайды](https://www.youtube.com/playlist?list=PL3PZFGlHBUn3zgw9T0wtJuzN9sKXmccN4)
+### [Деплой React приложения на Heroku](https://www.youtube.com/watch?v=eblES6QWbOQ&amp;list=PL3PZFGlHBUn3zgw9T0wtJuzN9sKXmccN4&amp;index=5&amp;pp=iAQB)

@@ -1,0 +1,7 @@
+### [Build a Brain Computer App with React Native (Part 6) - Live Coding with Jesse](https://www.youtube.com/watch?v=pPwE-I2be7E&amp;list=PLWKjhJtqVAbmR4Wi1LxJsx0Tnx3qugnrU&amp;index=1&amp;pp=iAQB)
+### [Build a Brain Computer App with React Native (Part 4) - Live Coding with Jesse](https://www.youtube.com/watch?v=1LJtg0Ip-SY&amp;list=PLWKjhJtqVAbmR4Wi1LxJsx0Tnx3qugnrU&amp;index=2&amp;pp=iAQB)
+### [Build a Brain Computer App with React Native (Part 3) - Live Coding with Jesse](https://www.youtube.com/watch?v=AwgRyJP7LHY&amp;list=PLWKjhJtqVAbmR4Wi1LxJsx0Tnx3qugnrU&amp;index=3&amp;pp=iAQB)
+### [Build a Brain Computer App with React Native - Live Coding with Jesse](https://www.youtube.com/watch?v=iEKdtB53IXs&amp;list=PLWKjhJtqVAbmR4Wi1LxJsx0Tnx3qugnrU&amp;index=4&amp;pp=iAQB)
+### [Build a Brain Computer App with React Native (Part 5) - Live Coding with Jesse](https://www.youtube.com/watch?v=EUn-uAXAAF8&amp;list=PLWKjhJtqVAbmR4Wi1LxJsx0Tnx3qugnrU&amp;index=5&amp;pp=iAQB)
+### [Build a Brain Computer App with React Native (Part 7) - Live Coding with Jesse](https://www.youtube.com/watch?v=W6BzxdHBBHM&amp;list=PLWKjhJtqVAbmR4Wi1LxJsx0Tnx3qugnrU&amp;index=6&amp;pp=iAQB)
+### [Build a Brain Computer App with React Native (Part 8) - Live Coding with Jesse](https://www.youtube.com/watch?v=2X6CXFcsktM&amp;list=PLWKjhJtqVAbmR4Wi1LxJsx0Tnx3qugnrU&amp;index=7&amp;pp=iAQB)

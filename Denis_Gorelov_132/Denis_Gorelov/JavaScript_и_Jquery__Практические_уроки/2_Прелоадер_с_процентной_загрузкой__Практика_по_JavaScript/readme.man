@@ -1,0 +1,3 @@
+# [Denis Gorelov](https://www.youtube.com/@denisgorelov3236/playlists)
+## [JavaScript и Jquery / Практические уроки](https://www.youtube.com/playlist?list=PL8pp2EAvIK-LkkQwz_oR-SQTUuAR4kNhg)
+### [Прелоадер с процентной загрузкой / Практика по JavaScript](https://www.youtube.com/watch?v=rSjYDeWYz0w&amp;list=PL8pp2EAvIK-LkkQwz_oR-SQTUuAR4kNhg&amp;index=2&amp;pp=iAQB)

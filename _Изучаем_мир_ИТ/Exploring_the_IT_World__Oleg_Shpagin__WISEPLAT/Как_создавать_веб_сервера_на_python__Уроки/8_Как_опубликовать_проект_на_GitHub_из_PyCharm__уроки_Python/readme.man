@@ -1,3 +1,0 @@
-# [Exploring the IT World / Oleg Shpagin / WISEPLAT](https://www.youtube.com/@wiseplat/playlists)
-## [Как создавать веб сервера на python / Уроки](https://www.youtube.com/playlist?list=PLxiU3nwEQ4PGUKTMTAOGeMMVif71I9jce)
-### [Как опубликовать проект на GitHub из PyCharm / уроки Python](https://www.youtube.com/watch?v=1xkWYCJaBAU&amp;list=PLxiU3nwEQ4PGUKTMTAOGeMMVif71I9jce&amp;index=8)

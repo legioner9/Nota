@@ -1,0 +1,3 @@
+# [Coding Tech](https://www.youtube.com/@CodingTech/playlists)
+## [Security](https://www.youtube.com/playlist?list=PLFjq8z-aGyQ6l4bjixx1aAzqRBB8On4_X)
+### [OAuth 2 Scope: Design for Security](https://www.youtube.com/watch?v=74-MbYY286Y&amp;list=PLFjq8z-aGyQ6l4bjixx1aAzqRBB8On4_X&amp;index=53&amp;pp=iAQB)

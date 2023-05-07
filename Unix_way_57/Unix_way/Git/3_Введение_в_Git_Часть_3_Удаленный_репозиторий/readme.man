@@ -1,0 +1,3 @@
+# [Unix way](https://www.youtube.com/@unixway4196/playlists)
+## [Git](https://www.youtube.com/playlist?list=PLsMIccp52YRtH-uTcqPf5H1RtNN_swNc8)
+### [Введение в Git: Часть 3. Удаленный репозиторий](https://www.youtube.com/watch?v=6ouOzLH74DE&amp;list=PLsMIccp52YRtH-uTcqPf5H1RtNN_swNc8&amp;index=3&amp;pp=iAQB)

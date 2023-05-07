@@ -1,0 +1,3 @@
+# [Traversy Media](https://www.youtube.com/@TraversyMedia/playlists)
+## [Angular 2 & Firebase App Series](https://www.youtube.com/playlist?list=PLillGF-RfqbYftYr5T6bv9idBU7oyADoZ)
+### [Angular 2 &amp; Firebase App [Part 3] - AngularFire2 Setup](https://www.youtube.com/watch?v=3xXQjcy8x9E&amp;list=PLillGF-RfqbYftYr5T6bv9idBU7oyADoZ&amp;index=3&amp;pp=iAQB)

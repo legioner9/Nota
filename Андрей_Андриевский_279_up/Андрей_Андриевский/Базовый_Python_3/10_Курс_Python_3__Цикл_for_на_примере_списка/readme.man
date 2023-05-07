@@ -1,0 +1,3 @@
+# [Андрей Андриевский](https://www.youtube.com/@andrievskii/playlists)
+## [Базовый Python 3](https://www.youtube.com/playlist?list=PLMB6wLyKp7lWSa816Oicnp6X66oZhBrP4)
+### [Курс Python 3 | Цикл for на примере списка](https://www.youtube.com/watch?v=lbG2qQR6RRs&amp;list=PLMB6wLyKp7lWSa816Oicnp6X66oZhBrP4&amp;index=10&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [freeCodeCamp.org](https://www.youtube.com/@freecodecamp/playlists)
+## [JavaScript and the HTML DOM - Tutorial Playlist](https://www.youtube.com/playlist?list=PLWKjhJtqVAbllLK6r2dnGjUVWB_cFNcuO)
+### [Selecting &amp; Changing Website Elements (DOM manipulation) - Beau teaches JavaScript](https://www.youtube.com/watch?v=eaLKqoB9Fu0&amp;list=PLWKjhJtqVAbllLK6r2dnGjUVWB_cFNcuO&amp;index=1&amp;pp=iAQB)

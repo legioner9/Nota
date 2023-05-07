@@ -1,0 +1,3 @@
+# [Coding Tech](https://www.youtube.com/@CodingTech/playlists)
+## [Software Development](https://www.youtube.com/playlist?list=PLFjq8z-aGyQ4WBzLzIq-rjMtujrGbDgh_)
+### [Thinking in Events: From Databases to Distributed Collaboration Software](https://www.youtube.com/watch?v=ePHpAPacOdI&amp;list=PLFjq8z-aGyQ4WBzLzIq-rjMtujrGbDgh_&amp;index=85&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [Просто о Laravel. CutCode](https://www.youtube.com/@CutCodeRu/playlists)
+## [Livewire](https://www.youtube.com/playlist?list=PLTucyHptHtTmr5m18mxq-3QIRcaU9SyDF)
+### [How to install Livewire in a Laravel 8 project](https://www.youtube.com/watch?v=QKBM2WGqaew&amp;list=PLTucyHptHtTmr5m18mxq-3QIRcaU9SyDF&amp;index=4&amp;pp=iAQB)

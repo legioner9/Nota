@@ -1,0 +1,3 @@
+# [C++ User Group](https://www.youtube.com/@CUserGroupRussia/playlists)
+## [C++ Russia 2015](https://www.youtube.com/playlist?list=PLZN9ZGiWZoZq3nObp2P8BJvsCc639tYSd)
+### [Денис Кормалёв | Метаобъектная система Qt](https://www.youtube.com/watch?v=tGnfh9_5BQs&amp;list=PLZN9ZGiWZoZq3nObp2P8BJvsCc639tYSd&amp;index=3&amp;pp=iAQB)

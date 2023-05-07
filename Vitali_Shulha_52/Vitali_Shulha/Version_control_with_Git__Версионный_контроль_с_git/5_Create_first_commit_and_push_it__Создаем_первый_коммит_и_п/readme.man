@@ -1,0 +1,3 @@
+# [Vitali Shulha](https://www.youtube.com/@vitalishulha8319/playlists)
+## [Version control with Git // Версионный контроль с git](https://www.youtube.com/playlist?list=PLY2rNyjTWaM3P8fvZSMZMo2mg7uPAzliv)
+### [Create first commit and push it // Создаем первый коммит и пушим на github](https://www.youtube.com/watch?v=iOhFx08-4G4&amp;list=PLY2rNyjTWaM3P8fvZSMZMo2mg7uPAzliv&amp;index=5&amp;pp=iAQB)

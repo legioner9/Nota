@@ -1,3 +1,0 @@
-# [Exploring the IT World / Oleg Shpagin / WISEPLAT](https://www.youtube.com/@wiseplat/playlists)
-## [Нейросети на Python](https://www.youtube.com/playlist?list=PLxiU3nwEQ4PFFbQhddlom7ZgivN9OmFTc)
-### [MetaTrader5 + Python делаем индикатор #5](https://www.youtube.com/watch?v=mvvC7N5UNAc&amp;list=PLxiU3nwEQ4PFFbQhddlom7ZgivN9OmFTc&amp;index=14)

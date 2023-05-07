@@ -1,0 +1,3 @@
+# [WebDev с нуля. Канал Алекса Лущенко](https://www.youtube.com/@itgid/playlists)
+## [Просто Angular](https://www.youtube.com/playlist?list=PLM7wFzahDYnER4rGsj9ER2H_yPYAnBbzh)
+### [Просто Angular. 02. Первая программа](https://www.youtube.com/watch?v=yal8zQb4lbo&amp;list=PLM7wFzahDYnER4rGsj9ER2H_yPYAnBbzh&amp;index=2&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [Кибер Весло](https://www.youtube.com/@cyber-paddle/playlists)
+## [app deploy - размещение проекта](https://www.youtube.com/playlist?list=PLIMYb25g876iCiP_WZ3OvM8Tl2kBb8DsG)
+### [Как наполнить базу данных Django дефолтными данными? Django Data Migrations in action.](https://www.youtube.com/watch?v=qCzODIPu1v0&amp;list=PLIMYb25g876iCiP_WZ3OvM8Tl2kBb8DsG&amp;index=3&amp;pp=iAQB)

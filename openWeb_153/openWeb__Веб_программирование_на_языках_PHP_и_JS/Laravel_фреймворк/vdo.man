@@ -1,0 +1,8 @@
+### [Изучение Laravel - Основы работы фреймворка Laravel](https://www.youtube.com/watch?v=dNuOCGwQl8k&amp;list=PL-leL2miqjEa1oaZWwTQAqoC5NUYk9WOX&amp;index=1&amp;pp=iAQB)
+### [Уроки Laravel - Migration примеры работы с базой данных](https://www.youtube.com/watch?v=KtmE4CDvXfc&amp;list=PL-leL2miqjEa1oaZWwTQAqoC5NUYk9WOX&amp;index=2&amp;pp=iAQB)
+### [Laravel 8 что нового](https://www.youtube.com/watch?v=MctgNrtAuqE&amp;list=PL-leL2miqjEa1oaZWwTQAqoC5NUYk9WOX&amp;index=3&amp;pp=iAQB)
+### [Уроки Laravel Model - Eloquent](https://www.youtube.com/watch?v=83TBECmxXXs&amp;list=PL-leL2miqjEa1oaZWwTQAqoC5NUYk9WOX&amp;index=4&amp;pp=iAQB)
+### [Laravel + Vue.js + SSR - Собираем монолит](https://www.youtube.com/watch?v=EMpKcpYKKsM&amp;list=PL-leL2miqjEa1oaZWwTQAqoC5NUYk9WOX&amp;index=5&amp;pp=iAQB)
+### [Бодров Сергей - Последний герой 1](https://www.youtube.com/watch?v=jsNz5AlmV4c&amp;list=PL-leL2miqjEa1oaZWwTQAqoC5NUYk9WOX&amp;index=6&amp;pp=iAQB)
+### [Laravel controller - Примеры проекта](https://www.youtube.com/watch?v=Xopr1sofKQ0&amp;list=PL-leL2miqjEa1oaZWwTQAqoC5NUYk9WOX&amp;index=7&amp;pp=iAQB)
+### [Laravel Cache - Пример работы с кэшем](https://www.youtube.com/watch?v=10Xjk8HyRnc&amp;list=PL-leL2miqjEa1oaZWwTQAqoC5NUYk9WOX&amp;index=8&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [Веб-разработка - DevMagazine](https://www.youtube.com/@DevMagazineChannel/playlists)
+## [🌴 Svelte курс](https://www.youtube.com/playlist?list=PLmfIBo6rTVR5XNcJxu8TwzEvIDUCAhGc6)
+### [Svelte 8/12. Анимации и переходы в Svelte - Motion, Transition and Animation (Курс Svelte)](https://www.youtube.com/watch?v=tx-o1QNHcCo&amp;list=PLmfIBo6rTVR5XNcJxu8TwzEvIDUCAhGc6&amp;index=8&amp;pp=iAQB)

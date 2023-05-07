@@ -1,0 +1,3 @@
+# [freeCodeCamp.org](https://www.youtube.com/@freecodecamp/playlists)
+## [Talks](https://www.youtube.com/playlist?list=PLWKjhJtqVAbl9yptoxdSJDDoTVdcysyPo)
+### [The Five Ws of Atomic Design](https://www.youtube.com/watch?v=q7b1W47Fbng&amp;list=PLWKjhJtqVAbl9yptoxdSJDDoTVdcysyPo&amp;index=40&amp;pp=iAQB)

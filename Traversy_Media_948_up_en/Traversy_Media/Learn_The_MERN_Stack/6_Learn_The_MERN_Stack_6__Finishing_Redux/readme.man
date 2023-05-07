@@ -1,0 +1,3 @@
+# [Traversy Media](https://www.youtube.com/@TraversyMedia/playlists)
+## [Learn The MERN Stack](https://www.youtube.com/playlist?list=PLillGF-RfqbbiTGgA77tGO426V3hRF9iE)
+### [Learn The MERN Stack [6] - Finishing Redux](https://www.youtube.com/watch?v=TO6akRGXhx8&amp;list=PLillGF-RfqbbiTGgA77tGO426V3hRF9iE&amp;index=6&amp;pp=iAQB)

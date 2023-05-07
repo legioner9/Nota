@@ -1,0 +1,3 @@
+# [В. Бовсуновский Python Django](https://www.youtube.com/@bov/playlists?view=1)
+## [Искусственный интеллект](https://www.youtube.com/playlist?list=PLuZJ9n46uMzUM76FLR97dXc0YM76hU94v)
+### [Шаг 3. Изменение длины осей координат x и y matplotlib.](https://www.youtube.com/watch?v=Ltmm_n-VdZs&amp;list=PLuZJ9n46uMzUM76FLR97dXc0YM76hU94v&amp;index=10&amp;pp=iAQB)

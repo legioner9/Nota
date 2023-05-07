@@ -1,0 +1,3 @@
+# [freeCodeCamp.org](https://www.youtube.com/@freecodecamp/playlists)
+## [Git & GitHub](https://www.youtube.com/playlist?list=PLWKjhJtqVAbkFiqHnNaxpOPhh9tSWMXIF)
+### [Git &amp; GitHub: How Commits Work](https://www.youtube.com/watch?v=JXM7MO2GgGg&amp;list=PLWKjhJtqVAbkFiqHnNaxpOPhh9tSWMXIF&amp;index=6&amp;pp=iAQB)

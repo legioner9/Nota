@@ -1,0 +1,3 @@
+# [WebDev с нуля. Канал Алекса Лущенко](https://www.youtube.com/@itgid/playlists)
+## [Курс Практический JavaScript](https://www.youtube.com/playlist?list=PLM7wFzahDYnFxysA3eKw3yj3exkw-qFMR)
+### [События JavaScript на iPhone и Android телефонах. JavaScript v.2.0](https://www.youtube.com/watch?v=Vo5xOofrjC8&amp;list=PLM7wFzahDYnFxysA3eKw3yj3exkw-qFMR&amp;index=74&amp;pp=iAQB)

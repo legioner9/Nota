@@ -1,0 +1,3 @@
+# [Linux Linux](https://www.youtube.com/@linuxlinux7961/playlists)
+## [Занятия по виртуализации Hashicorp Vagrant](https://www.youtube.com/playlist?list=PLx50iqBtw_6qNYGEFnYzn5NXf4nMFmYPo)
+### [Vagrant 2.1 Создание box-файла с помощью утилиты Hashicorp Packer](https://www.youtube.com/watch?v=XxdOAHCI8lo&amp;list=PLx50iqBtw_6qNYGEFnYzn5NXf4nMFmYPo&amp;index=10&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [Coding Tech](https://www.youtube.com/@CodingTech/playlists)
+## [Software Development](https://www.youtube.com/playlist?list=PLFjq8z-aGyQ4WBzLzIq-rjMtujrGbDgh_)
+### [Advent of Code: Behind the Scenes (Programming Puzzles)](https://www.youtube.com/watch?v=CFWuwNDOnIo&amp;list=PLFjq8z-aGyQ4WBzLzIq-rjMtujrGbDgh_&amp;index=62&amp;pp=iAQB)

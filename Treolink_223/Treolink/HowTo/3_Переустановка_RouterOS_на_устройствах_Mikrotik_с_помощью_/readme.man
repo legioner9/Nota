@@ -1,0 +1,3 @@
+# [Treolink](https://www.youtube.com/@Treolink/playlists)
+## [How-To](https://www.youtube.com/playlist?list=PLsnyAzJu8C0AX1-2pWGvX-Vc4wNEUEB2H)
+### [Переустановка RouterOS на устройствах Mikrotik с помощью netinstall](https://www.youtube.com/watch?v=TxnL9dbLrHI&amp;list=PLsnyAzJu8C0AX1-2pWGvX-Vc4wNEUEB2H&amp;index=3&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [freeCodeCamp.org](https://www.youtube.com/@freecodecamp/playlists)
+## [Data Structures and Algorithms - Beau teaches JavaScript](https://www.youtube.com/playlist?list=PLWKjhJtqVAbkso-IbgiiP48n-O-JQA9PJ)
+### [Binary Search Tree - Beau teaches JavaScript](https://www.youtube.com/watch?v=5cU1ILGy6dM&amp;list=PLWKjhJtqVAbkso-IbgiiP48n-O-JQA9PJ&amp;index=4&amp;pp=iAQB)

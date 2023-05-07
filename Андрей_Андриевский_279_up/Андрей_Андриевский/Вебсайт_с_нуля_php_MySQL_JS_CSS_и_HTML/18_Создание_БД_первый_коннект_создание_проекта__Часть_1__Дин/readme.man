@@ -1,0 +1,3 @@
+# [Андрей Андриевский](https://www.youtube.com/@andrievskii/playlists)
+## [Веб-сайт с нуля (php, MySQL, JS, CSS и HTML)](https://www.youtube.com/playlist?list=PLMB6wLyKp7lVtihXKn-D3yHSLCjaIxliH)
+### [Создание БД, первый коннект, создание проекта - Часть 1 | Динамический веб-сайт](https://www.youtube.com/watch?v=GI5lIHt52Cs&amp;list=PLMB6wLyKp7lVtihXKn-D3yHSLCjaIxliH&amp;index=18&amp;pp=iAQB)

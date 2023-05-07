@@ -1,0 +1,3 @@
+# [Glo Academy](https://www.youtube.com/@Glo_Academy/playlists?view=1)
+## [Марафон верстки 6.0 Верстка под Worpdress](https://www.youtube.com/playlist?list=PL3LQJkGQtzc5nqQ4G_QI-GfXA3Oklt9Z2)
+### [#9. Выводим меню и логотип в WordPress | Верстка под Wordpress на Bootstrap 4 + Sass](https://www.youtube.com/watch?v=T1rIaG4asvg&amp;list=PL3LQJkGQtzc5nqQ4G_QI-GfXA3Oklt9Z2&amp;index=9&amp;pp=iAQB)

@@ -1,0 +1,3 @@
+# [Vyacheslav Chirkov - Programmer](https://www.youtube.com/@vcpro/playlists)
+## [linux](https://www.youtube.com/playlist?list=PLEjhu-KP5eiAOAflLU1_QDXqNyH5hVG6U)
+### [Go HELLO WORLD](https://www.youtube.com/watch?v=nZHiOmaCwzE&amp;list=PLEjhu-KP5eiAOAflLU1_QDXqNyH5hVG6U&amp;index=4&amp;pp=iAQB)

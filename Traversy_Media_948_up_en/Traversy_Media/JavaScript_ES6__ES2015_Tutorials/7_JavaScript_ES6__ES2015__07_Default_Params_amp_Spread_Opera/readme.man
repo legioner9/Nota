@@ -1,0 +1,3 @@
+# [Traversy Media](https://www.youtube.com/@TraversyMedia/playlists)
+## [JavaScript ES6 / ES2015 Tutorials](https://www.youtube.com/playlist?list=PLillGF-RfqbZ7s3t6ZInY3NjEOOX7hsBv)
+### [JavaScript ES6 / ES2015 - [07] Default Params &amp; Spread Operator](https://www.youtube.com/watch?v=Stne4zasR8M&amp;list=PLillGF-RfqbZ7s3t6ZInY3NjEOOX7hsBv&amp;index=7&amp;pp=iAQB)

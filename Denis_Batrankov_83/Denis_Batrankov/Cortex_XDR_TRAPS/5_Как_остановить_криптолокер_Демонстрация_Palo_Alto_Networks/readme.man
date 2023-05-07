@@ -1,0 +1,3 @@
+# [Denis Batrankov](https://www.youtube.com/@BDVSecurity/playlists)
+## [Cortex XDR (TRAPS)](https://www.youtube.com/playlist?list=PLRAbJA74qU4D1iAkyAR1rP94EkPFq_1go)
+### [Как остановить криптолокер? Демонстрация Palo Alto Networks Threat Intelligence, Wildfire и TRAPS](https://www.youtube.com/watch?v=Z2jmzzZniMo&amp;list=PLRAbJA74qU4D1iAkyAR1rP94EkPFq_1go&amp;index=5&amp;pp=iAQB)

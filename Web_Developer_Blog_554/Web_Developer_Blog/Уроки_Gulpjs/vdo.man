@@ -1,0 +1,7 @@
+### [Уроки Gulp.js #2 | Работа с CSS плагинами. Concat,Minify,UnCSS,rename](https://www.youtube.com/watch?v=07W88dqVOUg&amp;list=PLVfMKQXDAhGVAFt9M6srMj_xHZmqvscLv&amp;index=1&amp;pp=iAQB)
+### [Уроки Gulp.js #1 | Как установить Gulp.](https://www.youtube.com/watch?v=yaH3j4CUFV8&amp;list=PLVfMKQXDAhGVAFt9M6srMj_xHZmqvscLv&amp;index=2&amp;pp=iAQB)
+### [Уроки Gulp.js #3 | Работа с JavaScript плагинами. Jscs,express,jshint](https://www.youtube.com/watch?v=B1rlAeMyLaU&amp;list=PLVfMKQXDAhGVAFt9M6srMj_xHZmqvscLv&amp;index=3&amp;pp=iAQB)
+### [Уроки Gulp.js #4 | Работа с плагинами для картинок.image-resize,imagemin,img-retina,imacss](https://www.youtube.com/watch?v=erovloFqTPk&amp;list=PLVfMKQXDAhGVAFt9M6srMj_xHZmqvscLv&amp;index=4&amp;pp=iAQB)
+### [Уроки Gulp.js #5 | Компиляторы. React, Angular, CofeeScript,Dust, SASS, LESS](https://www.youtube.com/watch?v=9RndnfIF3qI&amp;list=PLVfMKQXDAhGVAFt9M6srMj_xHZmqvscLv&amp;index=5&amp;pp=iAQB)
+### [Уроки Gulp.js #6 | Ставим локальный сервер.Livereload, Autoprefixer, Local-server](https://www.youtube.com/watch?v=42ClD2sUrtQ&amp;list=PLVfMKQXDAhGVAFt9M6srMj_xHZmqvscLv&amp;index=6&amp;pp=iAQB)
+### [Уроки Gulp.js #8 | Сборка и продакшен проекта](https://www.youtube.com/watch?v=7-iPIvFkIhA&amp;list=PLVfMKQXDAhGVAFt9M6srMj_xHZmqvscLv&amp;index=7&amp;pp=iAQB)

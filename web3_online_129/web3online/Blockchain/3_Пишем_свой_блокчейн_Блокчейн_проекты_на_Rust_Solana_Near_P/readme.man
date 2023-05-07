@@ -1,0 +1,3 @@
+# [web3.online](https://www.youtube.com/@web3online/playlists)
+## [Blockchain](https://www.youtube.com/playlist?list=PLnalMG3z2RzF7Pu-Gun0XLNaJrpEuxDii)
+### [Пишем свой блокчейн. Блокчейн проекты на Rust. Solana. Near. Polkadot](https://www.youtube.com/watch?v=d7m08vnFVKQ&amp;list=PLnalMG3z2RzF7Pu-Gun0XLNaJrpEuxDii&amp;index=3&amp;pp=iAQB)

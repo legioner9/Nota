@@ -1,0 +1,3 @@
+# [openWeb - Веб программирование на языках PHP и JS](https://www.youtube.com/@openweb-php/playlists)
+## [Уроки PHP](https://www.youtube.com/playlist?list=PL-leL2miqjEavs9nx7pXolf0NBNwhs4H_)
+### [Как сделать код проекта независимым от фреймворка и библиотеки](https://www.youtube.com/watch?v=6dyCAccA4NY&amp;list=PL-leL2miqjEavs9nx7pXolf0NBNwhs4H_&amp;index=50&amp;pp=iAQB)

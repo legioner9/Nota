@@ -1,0 +1,3 @@
+# [Denis Batrankov](https://www.youtube.com/@BDVSecurity/playlists)
+## [Короткие видео](https://www.youtube.com/playlist?list=PLRAbJA74qU4DnvN1A0eZ-WYgTycZGn0O9)
+### [SSL Decryption Deep Dive](https://www.youtube.com/watch?v=YKsr91fNIsc&amp;list=PLRAbJA74qU4DnvN1A0eZ-WYgTycZGn0O9&amp;index=24&amp;pp=iAQB)

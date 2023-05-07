@@ -1,0 +1,3 @@
+# [Просто о Laravel. CutCode](https://www.youtube.com/@CutCodeRu/playlists)
+## [Laravel updates](https://www.youtube.com/playlist?list=PLTucyHptHtTltQAJTseNL2xCIoX0RWb6r)
+### [PHP и Laravel дайджест ноябрь 2021. Обзор новостей по ПХП и Ларавел](https://www.youtube.com/watch?v=6em31j_LrSo&amp;list=PLTucyHptHtTltQAJTseNL2xCIoX0RWb6r&amp;index=10&amp;pp=iAQB)

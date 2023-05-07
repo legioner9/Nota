@@ -1,0 +1,3 @@
+# [webDev](https://www.youtube.com/@YauhenKavalchuk/playlists?view=1)
+## [MobX & React](https://www.youtube.com/playlist?list=PLNkWIWHIRwMFK-Gpb4NE45_1_Himhyi-K)
+### [MobX + React #7 Асинхронные запросы (Async Requests)](https://www.youtube.com/watch?v=6m8VJLjc1qg&amp;list=PLNkWIWHIRwMFK-Gpb4NE45_1_Himhyi-K&amp;index=8)

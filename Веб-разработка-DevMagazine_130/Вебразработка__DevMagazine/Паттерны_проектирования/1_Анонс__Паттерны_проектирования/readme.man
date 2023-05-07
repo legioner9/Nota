@@ -1,0 +1,3 @@
+# [Веб-разработка - DevMagazine](https://www.youtube.com/@DevMagazineChannel/playlists)
+## [Паттерны проектирования](https://www.youtube.com/playlist?list=PLmfIBo6rTVR7HMPgOwo1VZX_U8L361qB0)
+### [Анонс - Паттерны проектирования](https://www.youtube.com/watch?v=_ydofZxI5MU&amp;list=PLmfIBo6rTVR7HMPgOwo1VZX_U8L361qB0&amp;index=1&amp;pp=iAQB)

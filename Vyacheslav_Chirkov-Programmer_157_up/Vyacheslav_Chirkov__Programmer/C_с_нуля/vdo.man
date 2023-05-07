@@ -1,0 +1,5 @@
+### [Зачем нужен C#](https://www.youtube.com/watch?v=Alek9bnwwUM&amp;list=PLEjhu-KP5eiBYZOp_BSm5vUd9LCEu9aXo&amp;index=1&amp;pp=iAQB)
+### [C# (#1 c нуля) типы переменных, вывод результата на экран](https://www.youtube.com/watch?v=pMzaLlo05mE&amp;list=PLEjhu-KP5eiBYZOp_BSm5vUd9LCEu9aXo&amp;index=2&amp;pp=iAQB)
+### [C# #2 c нуля Unity3d](https://www.youtube.com/watch?v=X6tXuFWQPdg&amp;list=PLEjhu-KP5eiBYZOp_BSm5vUd9LCEu9aXo&amp;index=3&amp;pp=iAQB)
+### [Движение unity C# #3](https://www.youtube.com/watch?v=HehmWUP935Q&amp;list=PLEjhu-KP5eiBYZOp_BSm5vUd9LCEu9aXo&amp;index=4&amp;pp=iAQB)
+### [Добавить ЛОГО в SharpDevelop](https://www.youtube.com/watch?v=SotN3T7MvzU&amp;list=PLEjhu-KP5eiBYZOp_BSm5vUd9LCEu9aXo&amp;index=5&amp;pp=iAQB)
