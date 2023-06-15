@@ -1,3 +1,0 @@
-# [webDev](https://www.youtube.com/@YauhenKavalchuk/playlists?view=1)
-## [CSS Flexbox](https://www.youtube.com/playlist?list=PLNkWIWHIRwMG0EUBS8rvTRVNL9IcxcawW)
-### [CSS Flexbox #4 Выравнивание вдоль главной оси (Alignment: justify-content)](https://www.youtube.com/watch?v=FKDfECxwC54&amp;list=PLNkWIWHIRwMG0EUBS8rvTRVNL9IcxcawW&amp;index=5)

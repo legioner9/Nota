@@ -1,3 +1,0 @@
-# [webDev](https://www.youtube.com/@YauhenKavalchuk/playlists?view=1)
-## [GraphQL](https://www.youtube.com/playlist?list=PLNkWIWHIRwMF2sVLwzRef0Cu5kzAOeRcu)
-### [GraphQL #0 Введение (Introduction)](https://www.youtube.com/watch?v=kZs7CXrtT-s&amp;list=PLNkWIWHIRwMF2sVLwzRef0Cu5kzAOeRcu&amp;index=1)

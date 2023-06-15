@@ -1,3 +1,0 @@
-# [webDev](https://www.youtube.com/@YauhenKavalchuk/playlists?view=1)
-## [Node.js](https://www.youtube.com/playlist?list=PLNkWIWHIRwMFtsaJ4b_wwkJDHKJeuAkP0)
-### [Node.js #15 Интеграция БД в приложение (MongoDB Integration)](https://www.youtube.com/watch?v=IApYrXWPFvg&amp;list=PLNkWIWHIRwMFtsaJ4b_wwkJDHKJeuAkP0&amp;index=16)

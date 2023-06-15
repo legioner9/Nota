@@ -1,3 +1,0 @@
-# [webDev](https://www.youtube.com/@YauhenKavalchuk/playlists?view=1)
-## [ES6](https://www.youtube.com/playlist?list=PLNkWIWHIRwMGLJXugVvdK7i8UagGQNaXD)
-### [ES6 #13 Промисы (Promise)](https://www.youtube.com/watch?v=XD1MKx7eIuQ&amp;list=PLNkWIWHIRwMGLJXugVvdK7i8UagGQNaXD&amp;index=14)

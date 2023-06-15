@@ -1,3 +1,0 @@
-# [webDev](https://www.youtube.com/@YauhenKavalchuk/playlists?view=1)
-## [Jest & Enzyme](https://www.youtube.com/playlist?list=PLNkWIWHIRwMFPcbK0AJVBYyNveXmMZhMS)
-### [Jest + Enzyme #3 Тестирование отрисовки (Testing Rendering)](https://www.youtube.com/watch?v=TBId_-3mbUs&amp;list=PLNkWIWHIRwMFPcbK0AJVBYyNveXmMZhMS&amp;index=4)

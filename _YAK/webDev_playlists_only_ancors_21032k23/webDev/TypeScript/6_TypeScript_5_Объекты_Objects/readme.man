@@ -1,3 +1,0 @@
-# [webDev](https://www.youtube.com/@YauhenKavalchuk/playlists?view=1)
-## [TypeScript](https://www.youtube.com/playlist?list=PLNkWIWHIRwMEm1FgiLjHqSky27x5rXvQa)
-### [TypeScript #5 Объекты (Objects)](https://www.youtube.com/watch?v=gjBSTMBzz-U&amp;list=PLNkWIWHIRwMEm1FgiLjHqSky27x5rXvQa&amp;index=6)

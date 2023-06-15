@@ -1,3 +1,0 @@
-# [webDev](https://www.youtube.com/@YauhenKavalchuk/playlists?view=1)
-## [GraphQL](https://www.youtube.com/playlist?list=PLNkWIWHIRwMF2sVLwzRef0Cu5kzAOeRcu)
-### [GraphQL #13 Добавление данных в БД (Adding Elements to DB)](https://www.youtube.com/watch?v=R_Virr32ZjU&amp;list=PLNkWIWHIRwMF2sVLwzRef0Cu5kzAOeRcu&amp;index=14)

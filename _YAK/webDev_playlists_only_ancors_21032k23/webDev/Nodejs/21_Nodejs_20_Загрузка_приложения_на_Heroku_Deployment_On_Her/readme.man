@@ -1,3 +1,0 @@
-# [webDev](https://www.youtube.com/@YauhenKavalchuk/playlists?view=1)
-## [Node.js](https://www.youtube.com/playlist?list=PLNkWIWHIRwMFtsaJ4b_wwkJDHKJeuAkP0)
-### [Node.js #20 Загрузка приложения на Heroku (Deployment On Heroku)](https://www.youtube.com/watch?v=ke4Kl8kE2Lc&amp;list=PLNkWIWHIRwMFtsaJ4b_wwkJDHKJeuAkP0&amp;index=21)

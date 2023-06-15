@@ -1,3 +1,0 @@
-# [webDev](https://www.youtube.com/@YauhenKavalchuk/playlists?view=1)
-## [GraphQL](https://www.youtube.com/playlist?list=PLNkWIWHIRwMF2sVLwzRef0Cu5kzAOeRcu)
-### [GraphQL #1 Установка окружения (Setup Environment)](https://www.youtube.com/watch?v=5h7-LVDoR6s&amp;list=PLNkWIWHIRwMF2sVLwzRef0Cu5kzAOeRcu&amp;index=2)

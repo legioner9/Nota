@@ -1,3 +1,0 @@
-# [webDev](https://www.youtube.com/@YauhenKavalchuk/playlists?view=1)
-## [React компоненты](https://www.youtube.com/playlist?list=PLNkWIWHIRwMHC8qUfTzfxPuGrz4o9tmeE)
-### [React компоненты #2 Кнопка (Button​)](https://www.youtube.com/watch?v=cZIm24kxDzU&amp;list=PLNkWIWHIRwMHC8qUfTzfxPuGrz4o9tmeE&amp;index=3)

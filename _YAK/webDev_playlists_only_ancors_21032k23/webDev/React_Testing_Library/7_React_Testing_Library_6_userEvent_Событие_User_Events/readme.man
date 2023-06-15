@@ -1,3 +1,0 @@
-# [webDev](https://www.youtube.com/@YauhenKavalchuk/playlists?view=1)
-## [React Testing Library](https://www.youtube.com/playlist?list=PLNkWIWHIRwMEsMUc0B-lYb7DTLroWlKLK)
-### [React Testing Library #6 userEvent Событие (User Events)](https://www.youtube.com/watch?v=3YrxcAXkUKQ&amp;list=PLNkWIWHIRwMEsMUc0B-lYb7DTLroWlKLK&amp;index=7)

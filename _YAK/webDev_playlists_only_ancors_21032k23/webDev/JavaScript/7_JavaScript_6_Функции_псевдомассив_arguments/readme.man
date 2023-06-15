@@ -1,3 +1,0 @@
-# [webDev](https://www.youtube.com/@YauhenKavalchuk/playlists?view=1)
-## [JavaScript](https://www.youtube.com/playlist?list=PLNkWIWHIRwMHKLotIS_d-wyj00pg0AnUg)
-### [JavaScript #6 Функции: псевдомассив arguments](https://www.youtube.com/watch?v=ZSrk2_W9FmY&amp;list=PLNkWIWHIRwMHKLotIS_d-wyj00pg0AnUg&amp;index=7)

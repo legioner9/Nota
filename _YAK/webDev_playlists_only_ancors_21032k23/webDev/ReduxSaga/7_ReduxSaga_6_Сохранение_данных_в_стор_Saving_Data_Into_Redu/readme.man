@@ -1,3 +1,0 @@
-# [webDev](https://www.youtube.com/@YauhenKavalchuk/playlists?view=1)
-## [Redux-Saga](https://www.youtube.com/playlist?list=PLNkWIWHIRwMFrVMaVMOYflo8R4QBk4vk0)
-### [Redux-Saga #6 Сохранение данных в стор (Saving Data Into Redux-Store)](https://www.youtube.com/watch?v=L9OpbnImmss&amp;list=PLNkWIWHIRwMFrVMaVMOYflo8R4QBk4vk0&amp;index=7)

@@ -1,3 +1,0 @@
-# [webDev](https://www.youtube.com/@YauhenKavalchuk/playlists?view=1)
-## [HTML5](https://www.youtube.com/playlist?list=PLNkWIWHIRwMFtHHg0amAgocYP-kZypbY7)
-### [HTML5 #13 Типы полей ввода (Input Types. Part II)](https://www.youtube.com/watch?v=2EtSbGtlrLo&amp;list=PLNkWIWHIRwMFtHHg0amAgocYP-kZypbY7&amp;index=14)

@@ -1,3 +1,0 @@
-# [webDev](https://www.youtube.com/@YauhenKavalchuk/playlists?view=1)
-## [CSS3](https://www.youtube.com/playlist?list=PLNkWIWHIRwMHUawuIEpPI_tOG7Mfhs_sA)
-### [CSS3 #9 Плавающие элементы и очистка потока (Floating Elements &amp; Clearfix)](https://www.youtube.com/watch?v=1kZ9FTp2IiE&amp;list=PLNkWIWHIRwMHUawuIEpPI_tOG7Mfhs_sA&amp;index=10)

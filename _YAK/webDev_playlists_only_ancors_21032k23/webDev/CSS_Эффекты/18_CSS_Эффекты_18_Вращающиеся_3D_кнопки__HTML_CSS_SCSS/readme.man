@@ -1,3 +1,0 @@
-# [webDev](https://www.youtube.com/@YauhenKavalchuk/playlists?view=1)
-## [CSS Эффекты](https://www.youtube.com/playlist?list=PLNkWIWHIRwMEosiVP_3B-h4fE7CIfZ7pI)
-### [CSS Эффекты #18 Вращающиеся 3D кнопки | HTML, CSS (SCSS)](https://www.youtube.com/watch?v=XlsEP9iQs1s&amp;list=PLNkWIWHIRwMEosiVP_3B-h4fE7CIfZ7pI&amp;index=18)

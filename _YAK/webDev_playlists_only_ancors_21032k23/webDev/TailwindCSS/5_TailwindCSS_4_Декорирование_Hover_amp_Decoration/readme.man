@@ -1,3 +1,0 @@
-# [webDev](https://www.youtube.com/@YauhenKavalchuk/playlists?view=1)
-## [TailwindCSS](https://www.youtube.com/playlist?list=PLNkWIWHIRwMFN8qKfZ5Lgr29L5BoJKFfa)
-### [TailwindCSS #4 Декорирование (Hover &amp; Decoration)](https://www.youtube.com/watch?v=UoNGb6Xn46M&amp;list=PLNkWIWHIRwMFN8qKfZ5Lgr29L5BoJKFfa&amp;index=5)

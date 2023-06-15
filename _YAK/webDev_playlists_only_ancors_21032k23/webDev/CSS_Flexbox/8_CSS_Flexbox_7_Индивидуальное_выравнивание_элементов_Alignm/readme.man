@@ -1,3 +1,0 @@
-# [webDev](https://www.youtube.com/@YauhenKavalchuk/playlists?view=1)
-## [CSS Flexbox](https://www.youtube.com/playlist?list=PLNkWIWHIRwMG0EUBS8rvTRVNL9IcxcawW)
-### [CSS Flexbox #7 Индивидуальное выравнивание элементов (Alignment: align-self)](https://www.youtube.com/watch?v=WeFMfoK9R2o&amp;list=PLNkWIWHIRwMG0EUBS8rvTRVNL9IcxcawW&amp;index=8)

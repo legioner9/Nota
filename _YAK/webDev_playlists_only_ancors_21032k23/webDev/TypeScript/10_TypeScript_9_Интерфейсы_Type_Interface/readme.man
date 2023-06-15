@@ -1,3 +1,0 @@
-# [webDev](https://www.youtube.com/@YauhenKavalchuk/playlists?view=1)
-## [TypeScript](https://www.youtube.com/playlist?list=PLNkWIWHIRwMEm1FgiLjHqSky27x5rXvQa)
-### [TypeScript #9 Интерфейсы (Type Interface)](https://www.youtube.com/watch?v=RUCpNX0E_jw&amp;list=PLNkWIWHIRwMEm1FgiLjHqSky27x5rXvQa&amp;index=10)

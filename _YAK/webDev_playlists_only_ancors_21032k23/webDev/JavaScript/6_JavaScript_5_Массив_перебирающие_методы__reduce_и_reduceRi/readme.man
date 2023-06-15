@@ -1,3 +1,0 @@
-# [webDev](https://www.youtube.com/@YauhenKavalchuk/playlists?view=1)
-## [JavaScript](https://www.youtube.com/playlist?list=PLNkWIWHIRwMHKLotIS_d-wyj00pg0AnUg)
-### [JavaScript #5 Массив перебирающие методы – reduce и reduceRight](https://www.youtube.com/watch?v=Wy4rgg2iWpw&amp;list=PLNkWIWHIRwMHKLotIS_d-wyj00pg0AnUg&amp;index=6)

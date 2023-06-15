@@ -1,3 +1,0 @@
-# [webDev](https://www.youtube.com/@YauhenKavalchuk/playlists?view=1)
-## [React JS](https://www.youtube.com/playlist?list=PLNkWIWHIRwME_Gv2vlWAR6TfeSXylYfw4)
-### [React JS #5 Пропсы и их валидация (Props &amp; PropTypes. Part II)](https://www.youtube.com/watch?v=kupztj-2318&amp;list=PLNkWIWHIRwME_Gv2vlWAR6TfeSXylYfw4&amp;index=6)

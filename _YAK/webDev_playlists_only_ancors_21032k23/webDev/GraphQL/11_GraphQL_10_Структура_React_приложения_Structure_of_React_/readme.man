@@ -1,3 +1,0 @@
-# [webDev](https://www.youtube.com/@YauhenKavalchuk/playlists?view=1)
-## [GraphQL](https://www.youtube.com/playlist?list=PLNkWIWHIRwMF2sVLwzRef0Cu5kzAOeRcu)
-### [GraphQL #10 Структура React приложения (Structure of React Application​)](https://www.youtube.com/watch?v=4uz9Y4tLpPI&amp;list=PLNkWIWHIRwMF2sVLwzRef0Cu5kzAOeRcu&amp;index=11)

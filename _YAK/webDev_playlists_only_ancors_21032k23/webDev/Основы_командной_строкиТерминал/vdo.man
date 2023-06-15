@@ -1,7 +1,0 @@
-### [Основы командной строки/Терминал #0 Введение](https://www.youtube.com/watch?v=IuA0N_JqQ_8&amp;list=PLNkWIWHIRwMFJqtnggkX53Bsgq65CP1Rv&amp;index=1)
-### [Основы командной строки/Терминал #1 GitBash и ConEmu](https://www.youtube.com/watch?v=P3r-XSNW3RQ&amp;list=PLNkWIWHIRwMFJqtnggkX53Bsgq65CP1Rv&amp;index=2)
-### [Основы командной строки/Терминал #2 Просмотр информации о файлах и папках](https://www.youtube.com/watch?v=HHzc3cXEbDs&amp;list=PLNkWIWHIRwMFJqtnggkX53Bsgq65CP1Rv&amp;index=3)
-### [Основы командной строки/Терминал #3 Навигация по папкам](https://www.youtube.com/watch?v=K-jwYkJ9No8&amp;list=PLNkWIWHIRwMFJqtnggkX53Bsgq65CP1Rv&amp;index=4)
-### [Основы командной строки/Терминал #4 Создание и удаление папок и файлов](https://www.youtube.com/watch?v=Mc_LljwvGfI&amp;list=PLNkWIWHIRwMFJqtnggkX53Bsgq65CP1Rv&amp;index=5)
-### [Основы командной строки/Терминал #5 Перемещение и копирование файлов и папок](https://www.youtube.com/watch?v=ZC5yCHSdpXg&amp;list=PLNkWIWHIRwMFJqtnggkX53Bsgq65CP1Rv&amp;index=6)
-### [Основы командной строки/Терминал #6 Клавиатурные сокращения и трики](https://www.youtube.com/watch?v=Oby5alRpU2k&amp;list=PLNkWIWHIRwMFJqtnggkX53Bsgq65CP1Rv&amp;index=7)

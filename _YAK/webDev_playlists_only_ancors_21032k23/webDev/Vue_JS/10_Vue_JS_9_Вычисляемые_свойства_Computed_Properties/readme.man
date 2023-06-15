@@ -1,3 +1,0 @@
-# [webDev](https://www.youtube.com/@YauhenKavalchuk/playlists?view=1)
-## [Vue JS](https://www.youtube.com/playlist?list=PLNkWIWHIRwMH7ahn9uvvc5PG3o1tLscgB)
-### [Vue JS #9 Вычисляемые свойства (Computed Properties)](https://www.youtube.com/watch?v=mDdIMT7Pv_Q&amp;list=PLNkWIWHIRwMH7ahn9uvvc5PG3o1tLscgB&amp;index=10)

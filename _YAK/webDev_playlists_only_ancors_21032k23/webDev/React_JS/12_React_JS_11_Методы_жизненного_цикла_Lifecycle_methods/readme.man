@@ -1,3 +1,0 @@
-# [webDev](https://www.youtube.com/@YauhenKavalchuk/playlists?view=1)
-## [React JS](https://www.youtube.com/playlist?list=PLNkWIWHIRwME_Gv2vlWAR6TfeSXylYfw4)
-### [React JS #11 Методы жизненного цикла (Lifecycle methods)](https://www.youtube.com/watch?v=O8f6aXqpGHw&amp;list=PLNkWIWHIRwME_Gv2vlWAR6TfeSXylYfw4&amp;index=12)

@@ -1,3 +1,0 @@
-# [webDev](https://www.youtube.com/@YauhenKavalchuk/playlists?view=1)
-## [JavaScript](https://www.youtube.com/playlist?list=PLNkWIWHIRwMHKLotIS_d-wyj00pg0AnUg)
-### [JavaScript #10 Функции: модуль через замыкание](https://www.youtube.com/watch?v=piM-njF6haM&amp;list=PLNkWIWHIRwMHKLotIS_d-wyj00pg0AnUg&amp;index=11)

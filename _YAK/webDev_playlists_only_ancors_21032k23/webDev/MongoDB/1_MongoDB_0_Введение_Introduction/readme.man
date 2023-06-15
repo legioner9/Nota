@@ -1,3 +1,0 @@
-# [webDev](https://www.youtube.com/@YauhenKavalchuk/playlists?view=1)
-## [MongoDB](https://www.youtube.com/playlist?list=PLNkWIWHIRwMFJ-3-gI7GC5JDg1ivbIKNR)
-### [MongoDB #0 Введение (Introduction)](https://www.youtube.com/watch?v=xnR5XiQBdJw&amp;list=PLNkWIWHIRwMFJ-3-gI7GC5JDg1ivbIKNR&amp;index=1)

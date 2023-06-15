@@ -1,3 +1,0 @@
-# [webDev](https://www.youtube.com/@YauhenKavalchuk/playlists?view=1)
-## [JavaScript](https://www.youtube.com/playlist?list=PLNkWIWHIRwMHKLotIS_d-wyj00pg0AnUg)
-### [JavaScript #11 Объекты: Метод call](https://www.youtube.com/watch?v=BeNbhzs0o4U&amp;list=PLNkWIWHIRwMHKLotIS_d-wyj00pg0AnUg&amp;index=12)

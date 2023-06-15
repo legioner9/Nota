@@ -1,3 +1,0 @@
-# [webDev](https://www.youtube.com/@YauhenKavalchuk/playlists?view=1)
-## [Jest & Enzyme](https://www.youtube.com/playlist?list=PLNkWIWHIRwMFPcbK0AJVBYyNveXmMZhMS)
-### [Jest + Enzyme #6 Тестирование событий изменения (Testing Change Events)](https://www.youtube.com/watch?v=8-zlWeLPaLA&amp;list=PLNkWIWHIRwMFPcbK0AJVBYyNveXmMZhMS&amp;index=7)

@@ -1,3 +1,0 @@
-# [webDev](https://www.youtube.com/@YauhenKavalchuk/playlists?view=1)
-## [Next.js](https://www.youtube.com/playlist?list=PLNkWIWHIRwMHjz7hM5o10BNc6dq0OMd2U)
-### [Next.js #10 Создание API (API Creation)](https://www.youtube.com/watch?v=_9iWPtnzyt8&amp;list=PLNkWIWHIRwMHjz7hM5o10BNc6dq0OMd2U&amp;index=11)

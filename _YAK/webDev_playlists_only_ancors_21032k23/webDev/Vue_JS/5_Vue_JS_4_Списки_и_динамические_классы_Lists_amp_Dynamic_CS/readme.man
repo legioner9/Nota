@@ -1,3 +1,0 @@
-# [webDev](https://www.youtube.com/@YauhenKavalchuk/playlists?view=1)
-## [Vue JS](https://www.youtube.com/playlist?list=PLNkWIWHIRwMH7ahn9uvvc5PG3o1tLscgB)
-### [Vue JS #4 Списки и динамические классы (Lists &amp; Dynamic CSS Classes)](https://www.youtube.com/watch?v=24XC6M3v57g&amp;list=PLNkWIWHIRwMH7ahn9uvvc5PG3o1tLscgB&amp;index=5)

@@ -1,3 +1,0 @@
-# [webDev](https://www.youtube.com/@YauhenKavalchuk/playlists?view=1)
-## [Node.js](https://www.youtube.com/playlist?list=PLNkWIWHIRwMFtsaJ4b_wwkJDHKJeuAkP0)
-### [Node.js #1 Базовые концепции и установка (Basic Concepts &amp; Setup Environment)](https://www.youtube.com/watch?v=NOiPCc5OUuw&amp;list=PLNkWIWHIRwMFtsaJ4b_wwkJDHKJeuAkP0&amp;index=2)
